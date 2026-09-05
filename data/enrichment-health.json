@@ -1,20 +1,28 @@
 {
-  "checkedAt": "2026-09-05T19:23:41.085Z",
+  "checkedAt": "2026-09-05T20:24:18.746Z",
   "latestDataset": "2026-09-04.json",
   "batchLimit": 5,
   "attempted": 5,
-  "succeeded": 4,
-  "failed": 1,
-  "backlogBefore": 17,
-  "backlogAfter": 13,
-  "completedProducts": 241,
+  "succeeded": 2,
+  "failed": 3,
+  "backlogBefore": 13,
+  "backlogAfter": 11,
+  "completedProducts": 243,
   "missingFaDescription": 0,
-  "missingFaComments": 13,
+  "missingFaComments": 11,
   "missingAiReview": 0,
   "missingIranEquivalent": 0,
   "failures": [
     {
       "slug": "ito-6",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
+    },
+    {
+      "slug": "human-behavior",
+      "reason": "AI failed: groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more"
+    },
+    {
+      "slug": "oasis-7",
       "reason": "AI failed: groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more"
     }
   ]

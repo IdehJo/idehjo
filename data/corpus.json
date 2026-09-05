@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:23:41.068Z",
+  "generatedAt": "2026-09-05T20:24:18.730Z",
   "sourceFiles": 26,
   "products": [
     {
@@ -7715,19 +7715,35 @@
       "faComments": [
         {
           "user": "کاربر ProductHunt 1",
-          "text": "Hey Product Hunt 👋 Yuanlin here, founder of Zeabur and now building Nuphos . Nuphos started from something we learned while building Zeabur . We used to describe where Zeabur was going as “Your AI DevOps Engineer.” But eventually we realized: A PaaS asks you to adapt to its rules. A DevOps engineer adapts to your team’s infrastructure. They learn the systems you already have, work within your permissions, and follow the way your team operates. AI DevOps engineers should too. Nuphos is an AI-native DevOps workspace that brings AI agents into the infrastructure your team already runs, without giving up control. Our team of fewer than 10 engineers operates across 8+ clouds, 20+ Kubernetes clusters, and more than 10,000 hosts. We’d already been using coding and terminal agents in production, and they were surprisingly capable. The hard part wasn’t getting an agent to run kubectl or inspect logs. It was everything around the action: Whose permissions is it using? What can it change? Who approved it? What exactly changed? That’s what we built Nuphos around. With Nuphos, you can connect your existing AWS, GCP, Kubernetes, and observability stack, keep agents read-only by default , require approval for write actions, and keep the context and audit trail shared with your team. You can try it with your own infrastructure, or use the live demo on our homepage without signing up. 🎁 Use code PH100OFF to get your first month of Nuphos free. 👉 Got questions or want to follow what we’re building? Join our Discord: https://nuphos.ai/dc And I’d love to hear from people running production: What kind of experience would make an AI feel like a real DevOps engineer on your team, rather than just another AI agent?"
+          "text": "تبریک می‌گویم برای این راه‌اندازی! محصول شگفت‌انگیز!"
         },
         {
           "user": "کاربر ProductHunt 2",
-          "text": "Congrats on this launch! Amazing product!"
+          "text": "تبریک می‌گویم برای این راه‌اندازی! محصول شگفت‌انگیز!"
         },
         {
           "user": "کاربر ProductHunt 3",
-          "text": "We use AWS significantly more than GCP, mainly to avoid the learning curve associated with GCP. This tool looks like it can help lower the learning curve for operating new platforms. Right?"
+          "text": "ما به‌طور قابل‌توجهی از AWS نسبت به GCP استفاده می‌کنیم، عمدتاً برای اجتناب از منحنی یادگیری مرتبط با GCP. این ابزار به نظر می‌رسد می‌تواند منحنی یادگیری برای کار با پلتفرم‌های جدید را کاهش دهد. درسته؟"
         },
         {
           "user": "کاربر ProductHunt 4",
-          "text": "AI agents that understand your infrastructure and can investigate production issues is a powerful direction. The shared workspace angle makes this feel especially practical. Congrats on the launch!"
+          "text": "عامل‌های هوش مصنوعی که زیرساخت شما را درک می‌کنند و می‌توانند مسائل تولید را بررسی کنند، جهت قدرتمندی است. زاویه فضای کار مشترک این را به‌ویژه عملی می‌کند. تبریک برای راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک! آیا رایگان است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "سوال: مشتری ایده‌آل در اینجا کیست؟ برای چه کسی این را حل می‌کنید؟ با کدام مشتری بهترین تطابق را دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "DevOps عامل، راه است!!! من از خواندن رویدادهای خام متنفرم"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "این خیلی هیجان‌انگیز به نظر می‌رسد! یک نکته‌ای که کنجکاو هستم: چگونه می‌بینید Nuphos در جریان کار یک توسعه‌دهنده تنها یا تیم یک نفره جای می‌گیرد؟ من چندین محصول کوچک و پروژه هوش مصنوعی را می‌سازم و آزمایش می‌کنم، اما لزوماً زیرساخت SaaS بزرگ یا تیم DevOps اختصاصی ندارم. آیا Nuphos هنوز در این مرحله مفید است؟ اگر بله، یک مورد استفاده واقعی مناسب برای شخصی مثل من برای شروع چه خواهد بود؟ یا آیا Nuphos در حال حاضر بیشتر برای تیم‌های بزرگتر که قبلاً زیرساخت تولید نسبتاً پیچیده‌ای دارند، مناسب است؟ دوست دارم بفهمم یک سازنده تنها در چشم‌انداز Nuphos کجا قرار می‌گیرد."
         }
       ],
       "iranEquivalent": {
@@ -10273,19 +10289,35 @@
       "faComments": [
         {
           "user": "کاربر ProductHunt 1",
-          "text": "Hello! 😁 I'm Per, CEO and co-founder of Scrimba, a learning platform for 2+ million devs which I've been running for 10 years. \"Explain\" is our attempt at creating the perfect AI tutor. The core idea is: As fast as a chatbot. As engaging as a video. You type a question and within 2-3 seconds to get a video-like response, with animations, diagrams, images, code, and more. Narrated by a pleasant voice. It's currently free for everyone during the beta phase 🤑 Our goal is to keep costs as low as humanly possible so that we can continue to offer a generous free plan for students. Our users have already created over 20,000 explainers during the beta phase. It resonates really well with the type of people who prefer YouTube tutorials over technical articles. You can also bring \"Explain\" to the tools you use day-to-day ChatGPT Plugin MCP support for coding agents like Codex, Claude, Cursor etc Chrome Extension GitHub: Video Explainers of your Pull Requests The latter has been a godsend for us internally as we're drowning in PR's these days 😂 Getting a quick video makes it a lot easier for our team to review each others' code. Looking forward to hear what you think! And please shout out if you have a feature request. I promise we'll ship it within a week! Here's a few examples: How a Circle Becomes Music: https://scrimba.com/explain/guide0csjdqa3n Meta explainer about Explain: https://scrimba.com/explain/guide0ien1j3b1 Understanding CORS (playlist): https://scrimba.com/explain/guide0n4r04ilh"
+          "text": "سلام! 😁 من پِر، مدیرعامل و هم‌بنیان‌گذار اسکریمبا هستم، یک پلتفرم یادگیری برای بیش از ۲ میلیون توسعه‌دهنده که ۱۰ سال است آن را مدیریت می‌کنم. «Explain» تلاش ما برای ایجاد یک معلم هوش مصنوعی ایده‌آل است. ایده اصلی این است: به سرعت یک چت‌بات و به جذابیت یک ویدیو. شما یک سؤال تایپ می‌کنید و در عرض ۲ تا ۳ ثانیه یک پاسخ ویدیویی دریافت می‌کنید که شامل انیمیشن‌ها، نمودارها، تصاویر، کد و موارد دیگر است. با صدای خوشایندی روایت می‌شود. در حال حاضر در مرحله بتا برای همه رایگان است 🤑 هدف ما این است که هزینه‌ها را تا حد امکان پایین نگه داریم تا بتوانیم یک پلن رایگان سخاوتمندانه برای دانشجویان ارائه دهیم. کاربران ما تاکنون بیش از ۲۰,۰۰۰ توضیح‌دهنده (explainer) در مرحله بتا ایجاد کرده‌اند. این محصول با افرادی که توتورهای یوتیوب را به مقالات فنی ترجیح می‌دهند، بسیار خوب همخوانی دارد. همچنین می‌توانید «Explain» را به ابزارهایی که روزانه استفاده می‌کنید بیاورید: پشتیبانی از پلاگین ChatGPT و MCP برای عوامل کدنویسی مانند Codex، Claude، Cursor و غیره؛ افزونه کروم؛ و GitHub: توضیح‌دهنده‌های ویدیویی برای Pull Requestهای شما. این مورد دوم برای ما در درون شرکت یک نعمت بوده است، زیرا این روزها غرق در PRها هستیم 😂 دریافت یک ویدیوی سریع، بررسی کد یکدیگر را برای تیم ما بسیار آسان‌تر می‌کند. مشتاق شنیدن نظرات شما هستم! لطفاً اگر درخواستی برای یک ویژگی خاص دارید، فریاد بزنید. قول می‌دهم آن را در عرض یک هفته پیاده‌سازی کنیم! چند نمونه: چگونه یک دایره به موسیقی تبدیل می‌شود: https://scrimba.com/explain/guide۰csjdqa۳n توضیح‌دهنده متا درباره Explain: https://scrimba.com/explain/guide۰ien۱j۳b۱ درک CORS (لیست پخش): https://scrimba.com/explain/guide۰n۴r۰۴ilh"
         },
         {
           "user": "کاربر ProductHunt 2",
-          "text": "I used it directly on scrimba.com/explain"
+          "text": "من مستقیماً از آن در scrimba.com/explain استفاده کردم."
         },
         {
           "user": "کاربر ProductHunt 3",
-          "text": "I remember using this for the first time. Was literally awestruck. I am visual learner, and the finesse this tool has ! Great job Per and Team"
+          "text": "یادم می‌آید اولین بار که از این استفاده کردم. واقعاً تحت تأثیر قرار گرفتم. من یک یادگیرنده بصری هستم و ظرافت این ابزار فوق‌العاده است! کار عالی بود پِر و تیم."
         },
         {
           "user": "کاربر ProductHunt 4",
-          "text": "That is super cool! TIL you can ask it questions in general, not just about arcane JS things!"
+          "text": "این خیلی خنک است! تازه متوجه شدم که می‌توانید سؤالات عمومی بپرسید، نه فقط درباره چیزهای پیچیده جاوااسکریپت!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من تازه آن را امتحان کردم. عالی است که یک ویدیو درباره موضوع می‌سازد. خیلی غافلگیرکننده بود!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک بابت راه‌اندازی.. این عالی است، آرزوی موفقیت برایتان.. آیا با وب‌سایت‌هایی که اسکرول غیرفعال شده کار می‌کند تا ویدیویی از محتوای وب‌سایت بسازد.. ممنون.."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "من ویژگی explain را امتحان کردم و خوشحال شدم. سرعت تولید و انسجام استعاره‌ها و توضیحات قابل قبول است. همچنین می‌توانم چشم‌انداز را ببینم که چگونه این می‌تواند به طور طبیعی با درس‌های از پیش تنظیم‌شده موجود یکپارچه شود. با این حال، فکر می‌کنم توضیحات می‌توانند خیلی کوتاه و سطحی باشند، حتی وقتی برای جزئیات فنی درخواست می‌کنم، اما در مجموع یک ایده محصول محکم است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "خدا را شکر، من کلاً تحت تأثیر قرار گرفتم. از آن خواستم MedusaJS را برایم توضیح دهد. واو!!! مجبور شدم به همسرم هم بدهم تا امتحان کند، او عاشقش شد."
         }
       ],
       "iranEquivalent": {
