@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T00:20:52.272Z",
+  "generatedAt": "2026-09-05T22:10:38.353Z",
   "sourceFiles": 27,
   "products": [
     {
@@ -2133,6 +2133,69 @@
       }
     },
     {
+      "id": "ph-month-1",
+      "date": "2026-08-19",
+      "rank": 1,
+      "name": "Clipto MCP",
+      "slug": "clipto-mcp",
+      "tagline": "Let agents source clips from terabytes of your local video",
+      "description": "Clipto MCP gives Claude, ChatGPT, and other AI agents the ability to source clips and more from inside the videos, photos, and audio recordings stored on your computer. Instead of manually browsing files, simply describe what you need. For example, turn a script into a video by matching each sentence with your local footage; find every scene where someone mentioned a topic; create rough cuts; or search years of media as if you have a dedicated assistant editor.",
+      "category": "Productivity • Search • Video",
+      "categoryFa": "بهره‌وری • Search • ویدیو",
+      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/0af3e036-edaf-4650-8638-1b78a44b6dde.png?auto=format",
+        "https://ph-files.imgix.net/d143333b-3435-49fd-8c78-04680f1ef126.png?auto=format",
+        "https://ph-files.imgix.net/281c6db9-02c7-43ea-95ad-369a164ef1be.png?auto=format",
+        "https://ph-files.imgix.net/6878f842-9acf-4ee4-9f3f-b1a5267e851a.png?auto=format",
+        "https://ph-files.imgix.net/537c5431-37dc-492d-a23e-ced0bbd9506d.png?auto=format",
+        "https://ph-files.imgix.net/e03dd6eb-6f15-4d2b-b220-e7905e4dfb12.png?auto=format",
+        "https://ph-files.imgix.net/66f32670-ae50-4887-ae53-a0de68e0d3a8.png?auto=format",
+        "https://ph-files.imgix.net/bb835663-eee1-49f6-97af-c5f2453ef88c.jpeg?auto=format"
+      ],
+      "maker": "Henry Kang",
+      "makerTitle": "AI PhD exploring knowledge tools",
+      "featuredAt": "2026-08-19T07:01:00Z",
+      "votes": 643,
+      "websiteUrl": "https://www.producthunt.com/r/OTKPG4D4Y4NG66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋 Henry here, a few months ago, I launched @Clipto , a fully local AI media search engine that helps people search terabytes of videos, photos, audio, meetings, and documents using natural language.Since then, one request kept coming up:“Can Claude use Clipto?”“Can ChatGPT search my media library?”“Can my agent actually edit videos using my own footage?”Today, we’re excited to launch Clipto MCP.AI agents can already access your files. What they can’t do is understand what’s inside terabytes of media.That’s what Clipto MCP changes. It gives AI agents semantic understanding of your local media, so instead of manually browsing folders or scrubbing through timelines, you can simply describe what you want.Some examples:🎬 Turn a script into a video by matching every sentence with relevant footage.🔍 Find every clip where someone mentioned a specific topic.🎤 Search years of meetings for a decision or discussion.✂️ Generate rough cuts from thousands of hours of video.Everything runs on the media already stored on your computer. No uploading your library to the cloud.This is only the beginning. As AI agents become more capable, they’ll need more than file access. They’ll need to understand the content inside our personal media.To celebrate our launch, we're offering 1 month free to anyone who signs up this week with code PHLNCH.We’d love to hear what you’d build with Clipto MCP. We’ll be here all day answering questions and collecting feedback.Thanks for giving it a try! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "One of the worst things about recording stuff is later having to spend an annoying amount of time sifting through footage. Absolutely can't wait to try this out, love the idea."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the idea of being able to search years of local media just by describing what you need. This could save creators and editors a ton of time."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yes - the memory infrastructure that connects your personal context to whichever AI you choose to use."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Going fully local is the right call at this scale, since nobody's realistically uploading 2TB of footage to the cloud just to make it searchable. Smart to lead with the indexing benchmark too, because slow first-time indexing is usually what kills local AI tools. How big does the index itself end up for a 2TB library, and does search stay snappy as the library grows?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Local-first plus MCP is a smart combination. Being able to point an agent at years of footage without uploading any of it solves a real problem."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the local-first approach! Curious — how does it handle matching accuracy when searching dialogue vs. visual scenes across years of footage? Congrats on the launch! 🎉"
+        }
+      ],
+      "makerTwitter": ""
+    },
+    {
       "id": "ph-month-4",
       "date": "2026-07-30",
       "rank": 4,
@@ -2239,69 +2302,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-month-1",
-      "date": "2026-08-19",
-      "rank": 1,
-      "name": "Clipto MCP",
-      "slug": "clipto-mcp",
-      "tagline": "Let agents source clips from terabytes of your local video",
-      "description": "Clipto MCP gives Claude, ChatGPT, and other AI agents the ability to source clips and more from inside the videos, photos, and audio recordings stored on your computer. Instead of manually browsing files, simply describe what you need. For example, turn a script into a video by matching each sentence with your local footage; find every scene where someone mentioned a topic; create rough cuts; or search years of media as if you have a dedicated assistant editor.",
-      "category": "Productivity • Search • Video",
-      "categoryFa": "بهره‌وری • Search • ویدیو",
-      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/0af3e036-edaf-4650-8638-1b78a44b6dde.png?auto=format",
-        "https://ph-files.imgix.net/d143333b-3435-49fd-8c78-04680f1ef126.png?auto=format",
-        "https://ph-files.imgix.net/281c6db9-02c7-43ea-95ad-369a164ef1be.png?auto=format",
-        "https://ph-files.imgix.net/6878f842-9acf-4ee4-9f3f-b1a5267e851a.png?auto=format",
-        "https://ph-files.imgix.net/537c5431-37dc-492d-a23e-ced0bbd9506d.png?auto=format",
-        "https://ph-files.imgix.net/e03dd6eb-6f15-4d2b-b220-e7905e4dfb12.png?auto=format",
-        "https://ph-files.imgix.net/66f32670-ae50-4887-ae53-a0de68e0d3a8.png?auto=format",
-        "https://ph-files.imgix.net/bb835663-eee1-49f6-97af-c5f2453ef88c.jpeg?auto=format"
-      ],
-      "maker": "Henry Kang",
-      "makerTitle": "AI PhD exploring knowledge tools",
-      "featuredAt": "2026-08-19T07:01:00Z",
-      "votes": 642,
-      "websiteUrl": "https://www.producthunt.com/r/OTKPG4D4Y4NG66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! 👋 Henry here, a few months ago, I launched @Clipto , a fully local AI media search engine that helps people search terabytes of videos, photos, audio, meetings, and documents using natural language.Since then, one request kept coming up:“Can Claude use Clipto?”“Can ChatGPT search my media library?”“Can my agent actually edit videos using my own footage?”Today, we’re excited to launch Clipto MCP.AI agents can already access your files. What they can’t do is understand what’s inside terabytes of media.That’s what Clipto MCP changes. It gives AI agents semantic understanding of your local media, so instead of manually browsing folders or scrubbing through timelines, you can simply describe what you want.Some examples:🎬 Turn a script into a video by matching every sentence with relevant footage.🔍 Find every clip where someone mentioned a specific topic.🎤 Search years of meetings for a decision or discussion.✂️ Generate rough cuts from thousands of hours of video.Everything runs on the media already stored on your computer. No uploading your library to the cloud.This is only the beginning. As AI agents become more capable, they’ll need more than file access. They’ll need to understand the content inside our personal media.To celebrate our launch, we're offering 1 month free to anyone who signs up this week with code PHLNCH.We’d love to hear what you’d build with Clipto MCP. We’ll be here all day answering questions and collecting feedback.Thanks for giving it a try! 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "One of the worst things about recording stuff is later having to spend an annoying amount of time sifting through footage. Absolutely can't wait to try this out, love the idea."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the idea of being able to search years of local media just by describing what you need. This could save creators and editors a ton of time."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yes - the memory infrastructure that connects your personal context to whichever AI you choose to use."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Going fully local is the right call at this scale, since nobody's realistically uploading 2TB of footage to the cloud just to make it searchable. Smart to lead with the indexing benchmark too, because slow first-time indexing is usually what kills local AI tools. How big does the index itself end up for a 2TB library, and does search stay snappy as the library grows?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Local-first plus MCP is a smart combination. Being able to point an agent at years of footage without uploading any of it solves a real problem."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the local-first approach! Curious — how does it handle matching accuracy when searching dialogue vs. visual scenes across years of footage? Congrats on the launch! 🎉"
-        }
-      ],
-      "makerTwitter": ""
     },
     {
       "id": "ph-month-1",
@@ -2631,7 +2631,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Open Source Voice Agent Platform- Dograh",
       "featuredAt": "2026-08-12T07:01:00Z",
-      "votes": 592,
+      "votes": 594,
       "websiteUrl": "https://www.producthunt.com/r/DAII3FVF5KT5VU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -2709,6 +2709,68 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه ای:\n🔹 مسئله و راه حل: پلتفرم های بسته موجود در بازار، محدودیت هایی برای شرکت ها و سازمان ها ایجاد می کنند. Dograh یک پلتفرم متن باز را ارائه می دهد که به شرکت ها امکان می دهد اجنت های صوتی خود را ایجاد کنند و از آنها برای ارائه خدمات بهتر به مشتریان استفاده کنند.\n🔹 معماری و تکنولوژی احتمالی: پلتفرم Dograh بر اساس معماری میکروسرویس ها و استفاده از فناوری های AI و یادگیری ماشین طراحی شده است.\n🔹 مدل درآمدی: پلتفرم Dograh می تواند از طریق ارائه خدمات مشاوره برای پیاده سازی پلتفرم و فروش مدل های پیش آموزش دیده برای استفاده در پلتفرم درآمد ایجاد کند.\n🔹 نقاط قوت: انعطاف پذیری در میزبانی و مدل ها، توانایی ایجاد اجنت های صوتی خود، و عدم وجود محدودیت ها.\n🔹 نقاط ضعف و ریسک ها: رقابت با پلتفرم های موجود، نیاز به تخصص در زمینه AI و توسعه، و نیاز به زیرساخت های مناسب برای میزبانی پشته.\n🔹 نکته طلایی برای بازار ایران: پلتفرم های متن باز AI صوتی مانند Dograh می توانند به شرکت ها و سازمان ها در ایران کمک کنند تا خدمات مشتری خود را بهبود بخشند و کارایی خود را افزایش دهند."
+    },
+    {
+      "id": "ph-month-3",
+      "date": "2026-08-19",
+      "rank": 3,
+      "name": "Astute",
+      "slug": "astute-2",
+      "tagline": "Automate your B2B brand going viral, with new media creators",
+      "description": "Astute is the first B2B new media platform, starting with creator partnerships. We monitor your presence in the new media, build a data-backed strategy around the creators your buyers trust, and run the partnerships on autopilot. All within minutes.",
+      "category": "Social Media • Marketing • Artificial Intelligence",
+      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ffb8da08-6306-448d-b87b-eacff30e80ec.png?auto=format",
+        "https://ph-files.imgix.net/e6d72bc8-c1a6-469d-8109-f33b4d54c752.png?auto=format",
+        "https://ph-files.imgix.net/8b102584-8b60-40e4-a5d2-7d5060781029.png?auto=format",
+        "https://ph-files.imgix.net/26f20ec5-edce-42e6-8177-3d3f56669da8.png?auto=format",
+        "https://ph-files.imgix.net/dc82b37c-c0e5-4bc6-9aa1-9af47562daf9.png?auto=format",
+        "https://ph-files.imgix.net/4d750275-7c90-4fb7-b63c-3504d16b730a.png?auto=format",
+        "https://ph-files.imgix.net/93c51dc1-e37a-47bf-9cd6-9366ca917476.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "co-founder & ceo of joinastute.com",
+      "featuredAt": "2026-08-19T07:01:00Z",
+      "votes": 588,
+      "websiteUrl": "https://www.producthunt.com/r/T27HYYATJQRXUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "I was wondering while observing at your pricing page - the charge system? Is that included in the plans or separately to be paid? Have a great Start ❤️"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really like what Astute is doing here. Creator trust is becoming so much more valuable than just chasing impressions, and the way you’re automating the whole process makes a lot of sense."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "'Automate your brand going viral' is a big promise haha. What does creator matching actually look like – do I pick them or does it pick for me? And who owns the content after?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch,As a creator, I am genuinely excited about this finally a platform making B2B creator partnerships smarter and easier."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations @rizzykicks and team on the successful launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This could make B2B creator collaborations much more efficient. Excited to see what Astute builds next!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of automating creator partnerships while keeping them data-driven is super exciting. Can’t wait to try this!"
+        }
+      ],
+      "makerTwitter": ""
     },
     {
       "id": "ph-month-5",
@@ -2822,68 +2884,6 @@
       }
     },
     {
-      "id": "ph-month-3",
-      "date": "2026-08-19",
-      "rank": 3,
-      "name": "Astute",
-      "slug": "astute-2",
-      "tagline": "Automate your B2B brand going viral, with new media creators",
-      "description": "Astute is the first B2B new media platform, starting with creator partnerships. We monitor your presence in the new media, build a data-backed strategy around the creators your buyers trust, and run the partnerships on autopilot. All within minutes.",
-      "category": "Social Media • Marketing • Artificial Intelligence",
-      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ffb8da08-6306-448d-b87b-eacff30e80ec.png?auto=format",
-        "https://ph-files.imgix.net/e6d72bc8-c1a6-469d-8109-f33b4d54c752.png?auto=format",
-        "https://ph-files.imgix.net/8b102584-8b60-40e4-a5d2-7d5060781029.png?auto=format",
-        "https://ph-files.imgix.net/26f20ec5-edce-42e6-8177-3d3f56669da8.png?auto=format",
-        "https://ph-files.imgix.net/dc82b37c-c0e5-4bc6-9aa1-9af47562daf9.png?auto=format",
-        "https://ph-files.imgix.net/4d750275-7c90-4fb7-b63c-3504d16b730a.png?auto=format",
-        "https://ph-files.imgix.net/93c51dc1-e37a-47bf-9cd6-9366ca917476.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "co-founder & ceo of joinastute.com",
-      "featuredAt": "2026-08-19T07:01:00Z",
-      "votes": 585,
-      "websiteUrl": "https://www.producthunt.com/r/T27HYYATJQRXUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "I was wondering while observing at your pricing page - the charge system? Is that included in the plans or separately to be paid? Have a great Start ❤️"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really like what Astute is doing here. Creator trust is becoming so much more valuable than just chasing impressions, and the way you’re automating the whole process makes a lot of sense."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "'Automate your brand going viral' is a big promise haha. What does creator matching actually look like – do I pick them or does it pick for me? And who owns the content after?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch,As a creator, I am genuinely excited about this finally a platform making B2B creator partnerships smarter and easier."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations @rizzykicks and team on the successful launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This could make B2B creator collaborations much more efficient. Excited to see what Astute builds next!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The idea of automating creator partnerships while keeping them data-driven is super exciting. Can’t wait to try this!"
-        }
-      ],
-      "makerTwitter": ""
-    },
-    {
       "id": "ph-month-8",
       "date": "2026-07-30",
       "rank": 8,
@@ -2990,7 +2990,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-08-12T07:01:00Z",
-      "votes": 548,
+      "votes": 549,
       "websiteUrl": "https://www.producthunt.com/r/QE45KIR5XX72OH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -3200,7 +3200,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Founder @ meridiona.com",
       "featuredAt": "2026-08-17T07:01:00Z",
-      "votes": 531,
+      "votes": 532,
       "websiteUrl": "https://www.producthunt.com/r/Q3UR7I2PIWKD7D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -3461,9 +3461,9 @@
       ]
     },
     {
-      "id": "ph-month-9",
+      "id": "ph-month-10",
       "date": "2026-08-07",
-      "rank": 9,
+      "rank": 10,
       "name": "Soloop",
       "slug": "soloop-2",
       "tagline": "Approval-first Agent OS for solo founders",
@@ -3878,7 +3878,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Creating things",
       "featuredAt": "2026-09-02T07:01:00Z",
-      "votes": 469,
+      "votes": 473,
       "websiteUrl": "https://www.producthunt.com/r/BF4YYRJGDZZ236?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -4756,7 +4756,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-09-01T07:01:00Z",
-      "votes": 424,
+      "votes": 425,
       "websiteUrl": "https://www.producthunt.com/r/BX544B26YNJ4H3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -4894,6 +4894,65 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nTines ۳B یک محیط امن و یکپارچه برای اژنت‌ها، اپلیکیشن‌ها و اتوماسیون‌ها است. این محصول به شما امکان می‌دهد با استفاده از هوش مصنوعی، از هر جای دنیا، بسازید.\n🔹 معماری و تکنولوژی احتمالی:\nTines ۳B از معماری کد-اول و بومی هوش مصنوعی استفاده می‌کند. این محصول به شما کمک می‌کند تا بدون هیچ گونه خطر برای امنیت، سریع حرکت کنید.\n🔹 مدل درآمدی:\nTines ۳B از مدل درآمدی فروش محصول و خدمات مشاوره‌ای استفاده می‌کند.\n🔹 نقاط قوت:\n- ایمن‌سازی کدهای اجرا شده\n- مدیریت اعتبارنامه‌ها\n- نظارت بر جریان‌های کار\n🔹 نقاط ضعف و ریسک‌ها:\n- نیاز به تخصص در هوش مصنوعی\n- نیاز به زیرساخت‌های مناسب\n🔹 نکته طلایی برای بازار ایران:\nTines ۳B می‌تواند به تیم‌های توسعه و بازاریابی در ایران کمک کند تا محصولات خود را به صورت سریع و امن بسازند."
+    },
+    {
+      "id": "ph-yesterday-1",
+      "date": "2026-09-04",
+      "rank": 1,
+      "name": "GPT-6 Astra",
+      "slug": "gpt-6-astra-2",
+      "tagline": "OpenAI's most capable model for end-to-end work",
+      "description": "GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format",
+        "https://ph-files.imgix.net/67e6061d-afa4-45c9-be02-695a30c2c0ca.png?auto=format",
+        "https://ph-files.imgix.net/23ff7372-9912-4e6a-9ff7-b395eef8fedf.png?auto=format",
+        "https://ph-files.imgix.net/09574acb-8237-4979-a89e-a886ab1feb53.webp?auto=format",
+        "https://ph-files.imgix.net/cf81fdb4-5d77-429d-a55d-68dd834b2580.webp?auto=format",
+        "https://ph-files.imgix.net/fe5bba0e-d8e7-43ff-99aa-8fe9197acbb5.jpeg?auto=format",
+        "https://ph-files.imgix.net/a6286bd6-4623-4872-b0f4-9655dafb8891.jpeg?auto=format",
+        "https://ph-files.imgix.net/47fa0767-ce76-4893-8955-571fe0b765de.jpeg?auto=format",
+        "https://ph-files.imgix.net/c32d60c3-f17e-413c-b10d-472f17d8c7fe.jpeg?auto=format"
+      ],
+      "maker": "Sam Altman",
+      "makerTitle": "President, YC",
+      "featuredAt": "2026-09-04T07:01:00Z",
+      "votes": 420,
+      "websiteUrl": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "so this one, currently, is the most powerful model"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Mid-turn steering + async tools is a great qol improvement, a much more natural way of interacting."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can't wait to use astra to center divs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the \"Critical cybersecurity capability threshold\" line is the part I keep coming back to. gating advanced cyber access sounds responsible on paper, but it also means whoever gets into that access tier ends up with a real offense/defense edge over everyone still on the standard release. genuinely curious how the eligibility bar is set for that tier and whether there's any independent check on it, or if it's OpenAI's own call end to end."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Whatever happened to Product Hunt not allowing pre-release / unlaunched products on the home page?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the mid-turn steering part is what I'm most curious about. for tool calls you can undo, steering mid-turn is just a nicer UX. but once a step in the workflow is something external and already committed (a payment call, an email sent, a phone call already ringing), can you still steer the model away from a plan it already started executing on, or does steering only work for the parts that haven't left the sandbox yet"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could users set priority rules so the model knows which goals should always take precedence?"
+        }
+      ]
     },
     {
       "id": "ph-week-7",
@@ -5961,8 +6020,70 @@
     },
     {
       "id": "ph-week-6",
-      "date": "2026-08-31",
+      "date": "2026-09-02",
       "rank": 6,
+      "name": "Articos",
+      "slug": "articos",
+      "tagline": "Launch with confidence, not gut instinct",
+      "description": "Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP. Real audience signal in under 30 minutes. Peer-reviewed at 86% human accuracy vs Baymard and Nielsen Norman.",
+      "category": "Marketing • SaaS • Artificial Intelligence",
+      "categoryFa": "بازاریابی • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/2e9b4925-6fec-4075-aba3-a67393016e46.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d79b9e47-1437-4d08-959c-1a524f7b584d.png?auto=format",
+        "https://ph-files.imgix.net/ac838340-1c64-4c19-95fa-ec935629fe16.png?auto=format",
+        "https://ph-files.imgix.net/4117ca2a-75ec-4558-8469-15221e69c251.png?auto=format",
+        "https://ph-files.imgix.net/0ab5349c-fb7e-4cae-bca5-4727e60482d1.png?auto=format",
+        "https://ph-files.imgix.net/3f08c482-5219-46da-88fa-670772a3aa9b.png?auto=format",
+        "https://ph-files.imgix.net/f4945635-9950-4427-a5fd-4e939db3d0e9.png?auto=format",
+        "https://ph-files.imgix.net/439dd663-c3c1-42f3-b97c-ac44a73c1625.png?auto=format",
+        "https://ph-files.imgix.net/36da0b5d-02ba-4492-962a-42428ba59e16.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-02T07:01:00Z",
+      "votes": 380,
+      "websiteUrl": "https://www.producthunt.com/r/SV57AXQTEEXIBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Really interesting approach to testing messaging and positioning against ICP-specific personas before taking it live. One question though - how different does the feedback get when you test the same messaging across different personas?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "In prepping for this launch, @shaheergadit and @owais_khan22 ran my @Minara tagline rewrite through Articos live.The original “Run your own Wall Street” scored 4.5 (which is still on their homepage) while my rewrite—“Research, plan and invest in one chat”—scored 6.2. Minara reached #1 on their Product Hunt launch, demonstrating that differentiated language won't matter much if nobody gets what you're trying to say!Articos lets you test messaging against simulated personas matched to your ICP, and then interrogate their reasoning, and get a report back in under 30 minutes. If you're prepping for your [Product Hunt] launch and arguing over copy in Slack… try Articos as the dealbreaker!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Got the taste of the tool, and I think it can be very helpful, especially when there's no time to run real user panels, and you need to check your ideas quickly"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love that it traces findings back to specific persona reasoning rather than just giving a generic AI summary."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does Articos compare to running an actual user panel through one of the message testing platforms? I am sure faster, but how's the quality holding up here?All the best for the launch @owais_khan22"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "White label reporting angle is huge for agencies trying to validate copy directions to sceptical cleints. good work team."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "We used Articos to test landing pages and understand the unmet needs of our target audience. It’s a great tool"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The standard way of creating positioning maps and messaging pillars have always been doing comprehensive internal stakeholders interviews, customer interviews, reading in-depth market research, looking at the competition (where it stands, what kind of customers they attract) and probable proof (benchmarks, use case based outcomes). I will put Articos to test in couple of days for a client I am working with and see what it brings me back. I will definitely circle back with the results. Congrats on the launch, Shaheer and Owais."
+        }
+      ]
+    },
+    {
+      "id": "ph-week-7",
+      "date": "2026-08-31",
+      "rank": 7,
       "name": "Video Agent by Fotor",
       "slug": "video-agent-by-fotor",
       "tagline": "Create and edit precision motion graphics & video with chat",
@@ -6184,68 +6305,6 @@
         {
           "user": "[REDACTED]",
           "text": "Interesting. Curious how is this different than SciSpace, SciSummary, Jenni, Elicit, etc?"
-        }
-      ]
-    },
-    {
-      "id": "ph-week-7",
-      "date": "2026-09-02",
-      "rank": 7,
-      "name": "Articos",
-      "slug": "articos",
-      "tagline": "Launch with confidence, not gut instinct",
-      "description": "Articos helps SaaS teams, agencies, and founders test messaging, positioning, and landing pages against simulated personas matched to your ICP. Real audience signal in under 30 minutes. Peer-reviewed at 86% human accuracy vs Baymard and Nielsen Norman.",
-      "category": "Marketing • SaaS • Artificial Intelligence",
-      "categoryFa": "بازاریابی • نرم‌افزار ابری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/2e9b4925-6fec-4075-aba3-a67393016e46.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d79b9e47-1437-4d08-959c-1a524f7b584d.png?auto=format",
-        "https://ph-files.imgix.net/ac838340-1c64-4c19-95fa-ec935629fe16.png?auto=format",
-        "https://ph-files.imgix.net/4117ca2a-75ec-4558-8469-15221e69c251.png?auto=format",
-        "https://ph-files.imgix.net/0ab5349c-fb7e-4cae-bca5-4727e60482d1.png?auto=format",
-        "https://ph-files.imgix.net/3f08c482-5219-46da-88fa-670772a3aa9b.png?auto=format",
-        "https://ph-files.imgix.net/f4945635-9950-4427-a5fd-4e939db3d0e9.png?auto=format",
-        "https://ph-files.imgix.net/439dd663-c3c1-42f3-b97c-ac44a73c1625.png?auto=format",
-        "https://ph-files.imgix.net/36da0b5d-02ba-4492-962a-42428ba59e16.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-02T07:01:00Z",
-      "votes": 372,
-      "websiteUrl": "https://www.producthunt.com/r/SV57AXQTEEXIBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Really interesting approach to testing messaging and positioning against ICP-specific personas before taking it live. One question though - how different does the feedback get when you test the same messaging across different personas?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "In prepping for this launch, @shaheergadit and @owais_khan22 ran my @Minara tagline rewrite through Articos live.The original “Run your own Wall Street” scored 4.5 (which is still on their homepage) while my rewrite—“Research, plan and invest in one chat”—scored 6.2. Minara reached #1 on their Product Hunt launch, demonstrating that differentiated language won't matter much if nobody gets what you're trying to say!Articos lets you test messaging against simulated personas matched to your ICP, and then interrogate their reasoning, and get a report back in under 30 minutes. If you're prepping for your [Product Hunt] launch and arguing over copy in Slack… try Articos as the dealbreaker!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Got the taste of the tool, and I think it can be very helpful, especially when there's no time to run real user panels, and you need to check your ideas quickly"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love that it traces findings back to specific persona reasoning rather than just giving a generic AI summary."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does Articos compare to running an actual user panel through one of the message testing platforms? I am sure faster, but how's the quality holding up here?All the best for the launch @owais_khan22"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "White label reporting angle is huge for agencies trying to validate copy directions to sceptical cleints. good work team."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "We used Articos to test landing pages and understand the unmet needs of our target audience. It’s a great tool"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The standard way of creating positioning maps and messaging pillars have always been doing comprehensive internal stakeholders interviews, customer interviews, reading in-depth market research, looking at the competition (where it stands, what kind of customers they attract) and probable proof (benchmarks, use case based outcomes). I will put Articos to test in couple of days for a client I am working with and see what it brings me back. I will definitely circle back with the results. Congrats on the launch, Shaheer and Owais."
         }
       ]
     },
@@ -6688,65 +6747,6 @@
       }
     },
     {
-      "id": "ph-yesterday-1",
-      "date": "2026-09-04",
-      "rank": 1,
-      "name": "GPT-6 Astra",
-      "slug": "gpt-6-astra-2",
-      "tagline": "OpenAI's most capable model for end-to-end work",
-      "description": "GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format",
-        "https://ph-files.imgix.net/67e6061d-afa4-45c9-be02-695a30c2c0ca.png?auto=format",
-        "https://ph-files.imgix.net/23ff7372-9912-4e6a-9ff7-b395eef8fedf.png?auto=format",
-        "https://ph-files.imgix.net/09574acb-8237-4979-a89e-a886ab1feb53.webp?auto=format",
-        "https://ph-files.imgix.net/cf81fdb4-5d77-429d-a55d-68dd834b2580.webp?auto=format",
-        "https://ph-files.imgix.net/fe5bba0e-d8e7-43ff-99aa-8fe9197acbb5.jpeg?auto=format",
-        "https://ph-files.imgix.net/a6286bd6-4623-4872-b0f4-9655dafb8891.jpeg?auto=format",
-        "https://ph-files.imgix.net/47fa0767-ce76-4893-8955-571fe0b765de.jpeg?auto=format",
-        "https://ph-files.imgix.net/c32d60c3-f17e-413c-b10d-472f17d8c7fe.jpeg?auto=format"
-      ],
-      "maker": "Sam Altman",
-      "makerTitle": "President, YC",
-      "featuredAt": "2026-09-04T07:01:00Z",
-      "votes": 362,
-      "websiteUrl": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Whatever happened to Product Hunt not allowing pre-release / unlaunched products on the home page?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the mid-turn steering part is what I'm most curious about. for tool calls you can undo, steering mid-turn is just a nicer UX. but once a step in the workflow is something external and already committed (a payment call, an email sent, a phone call already ringing), can you still steer the model away from a plan it already started executing on, or does steering only work for the parts that haven't left the sandbox yet"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could users set priority rules so the model knows which goals should always take precedence?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Fyi message from Thibault Sottiaux:\"We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can.\""
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The mid-turn steering alone makes this feel like an actual coworker instead of a slot machine."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When can we try it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH community 👋Excited to hunt GPT-6 Astra today.The frontier labs keep pushing each other. We saw what Fable 5.1 did earlier this week:https://www.producthunt.com/products/claude-fable-5-1?launch=claude-fable-5-1This is OpenAI's next flagship, built for the hard end to end work. Coding, computer use, science, and long agent workflows that actually stay on track.Async tools and mid turn steering mean it can keep going while you course correct mid task. Feels less like a chat box and more like a teammate that can drive the machine.It's so good at 3D modeling too 🔥Claire made a great video walkthrough:https://x.com/clairevo/status/2095596028523319487https://x.com/dimillian/status/2095596700815516004Tell the team what you build 🚀"
-        }
-      ]
-    },
-    {
       "id": "ph-week-6",
       "date": "2026-08-19",
       "rank": 6,
@@ -6990,6 +6990,65 @@
     },
     {
       "id": "ph-week-8",
+      "date": "2026-09-03",
+      "rank": 8,
+      "name": "Nex",
+      "slug": "nex-4",
+      "tagline": "Claude Cowork for high-volume GTM workflows",
+      "description": "Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",
+      "category": "Sales • SaaS • Artificial Intelligence",
+      "categoryFa": "فروش • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7d330afb-0e5a-48fa-8c93-85ff4b8e62e6.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format",
+        "https://ph-files.imgix.net/1a431835-168e-445a-8cf3-f5d70efe607f.png?auto=format",
+        "https://ph-files.imgix.net/f1748a68-8e5d-4b76-814c-efc519c89de6.png?auto=format",
+        "https://ph-files.imgix.net/d32198e4-53ca-4530-93c2-a61463266598.png?auto=format",
+        "https://ph-files.imgix.net/80d25ced-5ae0-4057-be72-acd4ab50347b.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "Just trying to help out.",
+      "featuredAt": "2026-09-03T07:01:00Z",
+      "votes": 348,
+      "websiteUrl": "https://www.producthunt.com/r/XMDJ7VCVJ2VC3D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH 👋 I'm Nazz, co-founder and CEO of Nex. Francisco (my co-founder/CTO) and I spent years at HubSpot running its three largest customer platforms. Francisco was the 4th person on the team that built HubSpot's CRM, and took the fight to Salesforce. Together, we saw the same thing over and over: GTM teams have messy, high-volume workflows, from prospecting thousands of leads to qualifying them to cleaning up a million CRM records to re-engaging lost deals. General-purpose agents choke on this. If you try to run these workflows at scale through a general-purpose agent today, you'll hit limits immediately and still fail. So we built Nex, where you can build and execute the high-volume GTM workflows that general-purpose agents struggle with. One example: on a single onboarding call, Nex audited thousands of records in a customer's HubSpot and started fixing the bad data before the call was even over. We launched 2 weeks ago and became the more viral launch of the batch: https://lnkd.in/p/e6fJijuv. HubSpot's founder, Dharmesh Shah, also backs us. We'd genuinely love your feedback. Try it at nex.ai and tell us what workflow you'd throw at it first. We'll be in the comments all day answering everything. 🙏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Amazing team!!! Congrats on the launch!! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the 100k-record onboarding example is a great demo. curious how pricing works at that volume - is it usage/record-based or a flat seat price? a lot of agent tools that shine on big one-off cleanups get surprisingly expensive once you run them continuously."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "this is so cool!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey! Just checked out the platform.How far can you push custom research workflows? For example, could I find 20 active AI newsletters, filter by audience size/topic, then find the right editor + contact info?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "LETS GOOOOOO"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Every GTM tool I get pitched wants my live CRM connected before I can judge it. Is there a way to run a workflow on a sample first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "u told charles u deliberately dont use the word agent bcoz operators want outcomes. so on a 100k record cleanup that half fails, do they see which rows got fixed?"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-8",
       "date": "2026-08-09",
       "rank": 8,
       "name": "VoiceOS App Store",
@@ -7072,65 +7131,6 @@
       }
     },
     {
-      "id": "ph-yesterday-1",
-      "date": "2026-09-03",
-      "rank": 1,
-      "name": "Nex",
-      "slug": "nex-4",
-      "tagline": "Claude Cowork for high-volume GTM workflows",
-      "description": "Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",
-      "category": "Sales • SaaS • Artificial Intelligence",
-      "categoryFa": "فروش • نرم‌افزار ابری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7d330afb-0e5a-48fa-8c93-85ff4b8e62e6.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format",
-        "https://ph-files.imgix.net/1a431835-168e-445a-8cf3-f5d70efe607f.png?auto=format",
-        "https://ph-files.imgix.net/f1748a68-8e5d-4b76-814c-efc519c89de6.png?auto=format",
-        "https://ph-files.imgix.net/d32198e4-53ca-4530-93c2-a61463266598.png?auto=format",
-        "https://ph-files.imgix.net/80d25ced-5ae0-4057-be72-acd4ab50347b.jpeg?auto=format"
-      ],
-      "maker": "Francisco Dias",
-      "makerTitle": "Just trying to help out.",
-      "featuredAt": "2026-09-03T07:01:00Z",
-      "votes": 343,
-      "websiteUrl": "https://www.producthunt.com/r/XMDJ7VCVJ2VC3D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH 👋 I'm Nazz, co-founder and CEO of Nex. Francisco (my co-founder/CTO) and I spent years at HubSpot running its three largest customer platforms. Francisco was the 4th person on the team that built HubSpot's CRM, and took the fight to Salesforce. Together, we saw the same thing over and over: GTM teams have messy, high-volume workflows, from prospecting thousands of leads to qualifying them to cleaning up a million CRM records to re-engaging lost deals. General-purpose agents choke on this. If you try to run these workflows at scale through a general-purpose agent today, you'll hit limits immediately and still fail. So we built Nex, where you can build and execute the high-volume GTM workflows that general-purpose agents struggle with. One example: on a single onboarding call, Nex audited thousands of records in a customer's HubSpot and started fixing the bad data before the call was even over. We launched 2 weeks ago and became the more viral launch of the batch: https://lnkd.in/p/e6fJijuv. HubSpot's founder, Dharmesh Shah, also backs us. We'd genuinely love your feedback. Try it at nex.ai and tell us what workflow you'd throw at it first. We'll be in the comments all day answering everything. 🙏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Amazing team!!! Congrats on the launch!! 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the 100k-record onboarding example is a great demo. curious how pricing works at that volume - is it usage/record-based or a flat seat price? a lot of agent tools that shine on big one-off cleanups get surprisingly expensive once you run them continuously."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "this is so cool!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey! Just checked out the platform.How far can you push custom research workflows? For example, could I find 20 active AI newsletters, filter by audience size/topic, then find the right editor + contact info?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "LETS GOOOOOO"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Every GTM tool I get pitched wants my live CRM connected before I can judge it. Is there a way to run a workflow on a sample first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "u told charles u deliberately dont use the word agent bcoz operators want outcomes. so on a 100k record cleanup that half fails, do they see which rows got fixed?"
-        }
-      ]
-    },
-    {
       "id": "ph-week-8",
       "date": "2026-08-24",
       "rank": 8,
@@ -7190,9 +7190,9 @@
       "makerTwitter": ""
     },
     {
-      "id": "ph-week-10",
+      "id": "ph-week-9",
       "date": "2026-08-30",
-      "rank": 10,
+      "rank": 9,
       "name": "Topview Motion Studio",
       "slug": "topview-motion-studio",
       "tagline": "Create launch videos without touching After Effects",
@@ -7213,7 +7213,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-08-30T07:01:00Z",
-      "votes": 332,
+      "votes": 333,
       "websiteUrl": "https://www.producthunt.com/r/25TEFO4TYMRPSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -7247,6 +7247,67 @@
         {
           "user": "[REDACTED]",
           "text": "This looks exciting, congrats on the launch Can it repurpose videos?"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-10",
+      "date": "2026-09-03",
+      "rank": 10,
+      "name": "Agent Builder by Airtop",
+      "slug": "agent-builder-by-airtop",
+      "tagline": "Build agents that heal themselves. ",
+      "description": "Describe any workflow in plain English. Agent Builder compiles it into a coded automation that runs like software. When a run breaks, Airtop automatically investigates, rebuilds the step, and verifies the fix on a real test run. Airtop Agents run securely in the cloud and are up to 100x more efficient than traditional LLM-per-step AI Agents.",
+      "category": "Artificial Intelligence • No-Code • Vibe coding",
+      "categoryFa": "هوش مصنوعی • No-Code • Vibe coding",
+      "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/4034cd6b-12cc-41c7-bfae-16ebed6abd10.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/109d98ce-8eba-4189-af61-2c5290db33c7.png?auto=format",
+        "https://ph-files.imgix.net/c54534bd-4a82-47bc-9318-c8ee178647d5.png?auto=format",
+        "https://ph-files.imgix.net/5abf1d47-4c13-4c80-8d9b-7252c103e6a4.png?auto=format",
+        "https://ph-files.imgix.net/8a7ae2f7-b064-4ec2-8d20-ea8798ec6c27.png?auto=format",
+        "https://ph-files.imgix.net/96e2b079-c988-42d0-bd50-a0941860a2bb.png?auto=format",
+        "https://ph-files.imgix.net/da52260a-0b04-45f5-bb04-4f8a2a2e1893.png?auto=format",
+        "https://ph-files.imgix.net/b951ba09-07b9-4991-87ef-79b0dfaa95ff.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "Software engineer with 25+ years of exp",
+      "featuredAt": "2026-09-03T07:01:00Z",
+      "votes": 332,
+      "websiteUrl": "https://www.producthunt.com/r/2EYT4D2MQCUU3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Every CEO I talk to is trying to shrink their AI token bill.AI agents are expensive (and slow) because they re-reason every step, on every run. So we created Agent Builder, which compiles automations into efficient, reusable code.We gave the same multi-step task to a traditional LLM agent (Claude Code on Opus 4.7) and an agent compiled with Agent Builder. Here are the results:👉 LLM agent: 7m 58s, $6.26 per run👉 Airtop agent (compiled): 1m 21s, $0.063 per run6x faster at ~1% of the cost. Same results, fewer tokens burned.Agent Builder does the thinking once, at build time, instead of every time the agent runs.To use Agent Builder, just describe any workflow in plain English. It builds the automation, tests it, and compiles it into deterministic code that runs like software. Agent Builder works with any API or website, and connects natively to integrations like Slack and Google Sheets.Just like software, compiled agents can break. Especially if you’re running a web automation on a website that changes.So we taught Airtop agents to heal themselves. 🧠 If a run fails → Airtop notifies you and diagnoses what broke⚙️ Airtop automatically builds a fix for the agent and verifies the fix with real test runs✅ Airtop sends you a repair draft so you can check it before deployingWho’s it for? Founders and ops, marketing, sales, and finance teams that want to automate repeatable work without spending a fortune on AI tokens.🔗 Try it free at airtop.ai/agent-builder 🎟️ Code AGENTSTARTERPH gets you 1 free month of Airtop’s Starter plan. We’re here all day. Ask us anything!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "self healing agents is the part everyone skips 👏 web automation breaks constantly. congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice! I have been supporting your team since Switchboard. This is a really cool addition to my workflow. Congratulations!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations another awesome product from your team @makers Agrnt Builder is a huge leap in efficiency. I like how it shifts the \"thinking\" to build time so teams can just run the workflow. Great work!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great job with it!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I appreciate that the agent verifies its own fixes with a real test run. That extra validation makes the self healing approach feel much more practical."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The 100x efficiency claim caught my attention. Is that mainly because the generated automation uses fewer LLM calls?"
         }
       ]
     },
@@ -7376,67 +7437,6 @@
       "makerTwitter": ""
     },
     {
-      "id": "ph-yesterday-2",
-      "date": "2026-09-03",
-      "rank": 2,
-      "name": "Agent Builder by Airtop",
-      "slug": "agent-builder-by-airtop",
-      "tagline": "Build agents that heal themselves. ",
-      "description": "Describe any workflow in plain English. Agent Builder compiles it into a coded automation that runs like software. When a run breaks, Airtop automatically investigates, rebuilds the step, and verifies the fix on a real test run. Airtop Agents run securely in the cloud and are up to 100x more efficient than traditional LLM-per-step AI Agents.",
-      "category": "Artificial Intelligence • No-Code • Vibe coding",
-      "categoryFa": "هوش مصنوعی • No-Code • Vibe coding",
-      "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/4034cd6b-12cc-41c7-bfae-16ebed6abd10.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/109d98ce-8eba-4189-af61-2c5290db33c7.png?auto=format",
-        "https://ph-files.imgix.net/c54534bd-4a82-47bc-9318-c8ee178647d5.png?auto=format",
-        "https://ph-files.imgix.net/5abf1d47-4c13-4c80-8d9b-7252c103e6a4.png?auto=format",
-        "https://ph-files.imgix.net/8a7ae2f7-b064-4ec2-8d20-ea8798ec6c27.png?auto=format",
-        "https://ph-files.imgix.net/96e2b079-c988-42d0-bd50-a0941860a2bb.png?auto=format",
-        "https://ph-files.imgix.net/da52260a-0b04-45f5-bb04-4f8a2a2e1893.png?auto=format",
-        "https://ph-files.imgix.net/b951ba09-07b9-4991-87ef-79b0dfaa95ff.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "Software engineer with 25+ years of exp",
-      "featuredAt": "2026-09-03T07:01:00Z",
-      "votes": 329,
-      "websiteUrl": "https://www.producthunt.com/r/2EYT4D2MQCUU3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Every CEO I talk to is trying to shrink their AI token bill.AI agents are expensive (and slow) because they re-reason every step, on every run. So we created Agent Builder, which compiles automations into efficient, reusable code.We gave the same multi-step task to a traditional LLM agent (Claude Code on Opus 4.7) and an agent compiled with Agent Builder. Here are the results:👉 LLM agent: 7m 58s, $6.26 per run👉 Airtop agent (compiled): 1m 21s, $0.063 per run6x faster at ~1% of the cost. Same results, fewer tokens burned.Agent Builder does the thinking once, at build time, instead of every time the agent runs.To use Agent Builder, just describe any workflow in plain English. It builds the automation, tests it, and compiles it into deterministic code that runs like software. Agent Builder works with any API or website, and connects natively to integrations like Slack and Google Sheets.Just like software, compiled agents can break. Especially if you’re running a web automation on a website that changes.So we taught Airtop agents to heal themselves. 🧠 If a run fails → Airtop notifies you and diagnoses what broke⚙️ Airtop automatically builds a fix for the agent and verifies the fix with real test runs✅ Airtop sends you a repair draft so you can check it before deployingWho’s it for? Founders and ops, marketing, sales, and finance teams that want to automate repeatable work without spending a fortune on AI tokens.🔗 Try it free at airtop.ai/agent-builder 🎟️ Code AGENTSTARTERPH gets you 1 free month of Airtop’s Starter plan. We’re here all day. Ask us anything!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "self healing agents is the part everyone skips 👏 web automation breaks constantly. congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice! I have been supporting your team since Switchboard. This is a really cool addition to my workflow. Congratulations!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations another awesome product from your team @makers Agrnt Builder is a huge leap in efficiency. I like how it shifts the \"thinking\" to build time so teams can just run the workflow. Great work!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that Agent Builder can automatically investigate and rebuild a broken step, rather than just reporting an error. The plain-English workflow setup feels especially approachable."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great job with it!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I appreciate that the agent verifies its own fixes with a real test run. That extra validation makes the self healing approach feel much more practical."
-        }
-      ]
-    },
-    {
       "id": "ph-week-10",
       "date": "2026-08-30",
       "rank": 10,
@@ -7493,6 +7493,68 @@
         {
           "user": "[REDACTED]",
           "text": "What kind of Integrations do you have?"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-1",
+      "date": "2026-09-05",
+      "rank": 1,
+      "name": "dif.sh",
+      "slug": "dif-sh",
+      "tagline": "Markdown feature flags your coding agent installs for you",
+      "description": "Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/57a39c88-005c-47ba-9f73-14c1d0c13e79.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format",
+        "https://ph-files.imgix.net/eee781fd-8c15-4f85-bd7b-219d4b679404.png?auto=format",
+        "https://ph-files.imgix.net/95f215da-e75d-4fd5-a1cb-e92dc81da702.png?auto=format",
+        "https://ph-files.imgix.net/e5010f7b-8271-44a0-9c36-70630ceb7209.png?auto=format",
+        "https://ph-files.imgix.net/e1c77e45-fbd0-4f09-8ff0-8ab1c280ee8a.png?auto=format",
+        "https://ph-files.imgix.net/903de646-4c5a-4a0f-b5e8-ea36b386a76d.png?auto=format",
+        "https://ph-files.imgix.net/f090a647-ce74-44a5-b647-21f52e05838a.png?auto=format",
+        "https://ph-files.imgix.net/a0ffd7da-0f2f-4bc5-a210-a6ba9b1458c7.jpeg?auto=format"
+      ],
+      "maker": "Remy Lee",
+      "makerTitle": "",
+      "featuredAt": "2026-09-05T07:01:00Z",
+      "votes": 324,
+      "websiteUrl": "https://www.producthunt.com/r/ZYY34UR2OF3VDX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt. David here, one of the makers. A while back I asked Claude Code to add feature flags to a project. It got to the part where most flag tools want you to create an account, grab an API key, etc., and basically gave up and wrote `process.env.SHOW_NEW_CHECKOUT` instead. That was the thing that got us thinking about Dif. Dif keeps flags in your repo as markdown files. They get reviewed in PRs like everything else. You can install it with one command, there's no signup or API key required, and coding agents can actually use it without getting stuck halfway through. `dif init` also adds some instructions to `agents.md`, and we generate a `context.json` on each build so the agent has a better idea of what flags exist, what's been removed, and what's already been tried. A/B tests live in the same setup too, even if you're not ready to run them yet. The self-hosted version is free. The cloud piece is for getting a view across projects and having Dif propose changes, but those still come back through PRs. Git stays the source of truth. Would genuinely love the critical version of the feedback here: would you use this? If not, what would stop you? And what are you using today that we'd need to be better than? We'll be around all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hmm...interesting. The key part is that coding agent has access to previous flag and A/B tests and their data. Right?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "One command, no account is probably the strongest part for me. Makes it way easier for coding agents to actually finish setup without hitting a signup wall."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I really like the idea of keeping the flag and the reasoning behind it in the same file. That kind of context usually disappears after a few weeks."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle merge conflicts when two people edit the same flag file at once? Congrats @david_herzog2 & team! Keep it up @fmerian 🙌🏻"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. The \"flags reviewed in a PR\" part is the real hook for me - most flag tools bolt on a dashboard that nobody checks, and this just stays in the same review flow. Curious about one thing though: if two agents are working in parallel branches and both touch the same markdown flag file, does dif help resolve that conflict at all or is it just a normal git merge conflict at that point?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Curious how this works with Claude code"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could it add insights on which flags are impacting user behavior the most?"
         }
       ]
     },
@@ -8366,6 +8428,68 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nInferock Bench یک ابزار است که به کاربران کمک می‌کند تا هزینه‌های خود را به‌طور دقیق‌تر مدیریت کنند و از پرداخت‌های اضافی جلوگیری کنند. این ابزار می‌تواند به کاربران در بهینه‌سازی استفاده از API‌ها و کاهش هزینه‌ها کمک کند.\n🔹 معماری و تکنولوژی احتمالی:\nاین ابزار می‌تواند با استفاده از تکنولوژی‌های Next.js و PostgreSQL ساخته شود.\n🔹 مدل درآمدی:\nاین ابزار می‌تواند با فروش به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره و آموزش درآمدزایی کند.\n🔹 نقاط قوت:\n- کمک به کاربران در مدیریت هزینه‌ها\n- بهینه‌سازی استفاده از API‌ها\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای خارجی\n- نیاز به آموزش و آگاهی‌رسانی به کاربران\n🔹 نکته طلایی برای بازار ایران:\nصندوق هوشمند می‌تواند به شرکت‌ها و سازمان‌های ایرانی کمک کند تا هزینه‌های خود را کاهش دهند و کارایی خود را بهبود بخشند."
+    },
+    {
+      "id": "ph-yesterday-2",
+      "date": "2026-09-04",
+      "rank": 2,
+      "name": "myAIcademy",
+      "slug": "myaicademy",
+      "tagline": "Learn AI skills for your specific role and team",
+      "description": "myAIcademy builds personalized AI training around your role, goals, and the tools you actually use. Learn through follow-along lessons, practice safely with simulations of real AI tools, and get step-by-step guidance from Aimy while you work. Generic courses and prompt libraries that quickly go stale, while myAIcademy continuously refreshes its content as AI changes, so your skills keep up too.",
+      "category": "Android • Productivity • Education • Artificial Intelligence",
+      "categoryFa": "اندروید • بهره‌وری • آموزش • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7117bad3-79cd-4de5-babb-c4e6949137f8.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/40d5b152-30b4-4722-8faa-1a2582ca4454.png?auto=format",
+        "https://ph-files.imgix.net/aabe68d6-827b-412b-af85-70eb9dfe91ad.png?auto=format",
+        "https://ph-files.imgix.net/a0c48db0-6469-4240-bf6b-83a788ce334c.png?auto=format",
+        "https://ph-files.imgix.net/4d9eccd3-8ef5-43b3-9a54-3b0850a1a3de.png?auto=format",
+        "https://ph-files.imgix.net/80a1f11d-a33d-4608-97e8-4cca234a341e.png?auto=format",
+        "https://ph-files.imgix.net/ed5f44b0-5250-4544-b696-97c7bd36d40a.png?auto=format",
+        "https://ph-files.imgix.net/55e82d3b-a6c0-43ab-9946-5746a88779b3.png?auto=format",
+        "https://ph-files.imgix.net/ef95c234-d697-457e-b35b-0bfedbd77c7b.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "Founding Engineer at myaicademy",
+      "featuredAt": "2026-09-04T07:01:00Z",
+      "votes": 295,
+      "websiteUrl": "https://www.producthunt.com/r/ZV2IS4ZFBSIMTJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 🎉I’m Malika, founder and CEO of myAIcademy, a personalised, continuously updated AI learning platform built around your role, goals and the tools you actually use.You learn a real workflow, practise it in a safe simulation and use it to finish real work. We’re live on iOS, Android and web.⭐ The founding storyI’ve spent my career at the intersection of AI, enterprise adoption and education.At Google Cloud, I was a Generative AI Black Belt, helping large enterprises adopt AI. Before that, I worked in Microsoft’s cloud business.I also serve as adjunct faculty at Georgetown University, Washington, DC, and have worked with more than 10,000 professionals and leadership teams.I kept seeing the same problem: companies bought AI licences, told people to “just use AI” and left them with generic courses, prompt libraries and trial and error.The gap is not access. It is adoption.AI learning also accumulates content debt: tools change weekly, so courses quickly become inaccurate. AI learning must be maintained like software.So we built myAIcademy.⭐ Using myAIcademy is simpleTell us your role, experience, goals and tools. We build your personalised learning path.Learn one complete workflow through a 15-minute follow-along lesson.Practise it in a safe simulator before applying it to live work.⭐ Who myAIcademy is forIndividual professionals use myAIcademy to understand how AI applies to their role, discover relevant use cases and learn practical workflows for completing real work.Teams and enterprises use myAIcademy to turn their AI investments into adoption, so every department knows how to apply approved AI tools to its work.For AI vendors and software companies, myAIcademy will serve as a training and adoption layer, helping customers onboard, apply the product to real work, discover relevant use cases and keep up with new capabilities.⭐ Here’s everything you get todayA personalised learning path based on your role, level, goals and tools.15-minute follow-along lessons built around real workflows.Safe simulator checkpoints instead of passive quizzes.Lessons reviewed and refreshed within 24 to 72 hours when major tool changes affect them.Monthly masterclasses, Signals explaining AI updates and a shareable Skill Passport.One synced account across iOS, Android and web.⭐ What’s nextComing soon, Aimy, your AI learning agent, will guide you inside the AI tools your organisation has approved.Tell Aimy what you need to accomplish and it will translate your task into clear prompts, steps and actions for you to follow, while applying your organisation’s security, privacy and compliance policies. You stay in control, complete the work yourself and get more value from AI without stepping outside policy.⭐ A final noteOur dream is to make “just use AI” feel like an invitation, not a burden.In five years, not understanding AI will be as limiting as not understanding the internet. We want every professional to become fluent in AI, and fluency should mean finished work, not certificates.Tell me your role and one task you want AI to do. I’ll personally reply with the workflow, tool and first prompt I would try.Try myAIcademy for free on the web app, download it on iOS, or get it on Android. No credit card is required.I’m grateful to be building this with @ash_96 (Ashfaq, design), @angothu_rahul_naik (Rahul, founding engineer), Ruchit (engineering) and the myAIcademy team.PS: Thank you to the 10,000+ professionals who worked with me before the app, and to our early users across iOS, Android and web. We would not be here without you."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey, this looks like an interesting premise. I was wondering what this site offers in terms of business learning."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the part I'd want to see thought through more is the jump from Aimy guiding someone through a checkpoint in the simulator to Aimy \"executing the task with them\" inside their real tools, per the reply above. a simulated workflow is safe by construction, there's nothing real to break. the moment Aimy is authorized inside someone's actual CRM or inbox, that's a different category of risk than \"the lesson is a bit stale,\" and it's the same permissions problem every agent-in-your-tools product eventually has to answer. is that scoped per-persona already, or is it still an open design question for when Aimy ships?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The worst landing page ever I've seen! Still congrats on the launch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "do you offer learnings paths as opposed to just learn by app?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on today's launch!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I tried it out and it looks amazing, and potentially is something that I would love to use, but one thing left me confused - career path part of onboarding. How would the product deal with the mixed career-paths, e.g. I am a teacher, but also a founder?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, I'm Ashfaq, Head of Design at myAIcademy. If you have any design questions, feedback, or ideas on how the experience could be better, I'd love to hear them, feel free to reach out or drop them here. Looking forward to your reviews!"
+        }
+      ]
     },
     {
       "id": "ph-today-2",
@@ -9698,68 +9822,6 @@
         }
       ],
       "makerTwitter": ""
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-04",
-      "rank": 1,
-      "name": "myAIcademy",
-      "slug": "myaicademy",
-      "tagline": "Learn AI skills for your specific role and team",
-      "description": "myAIcademy builds personalized AI training around your role, goals, and the tools you actually use. Learn through follow-along lessons, practice safely with simulations of real AI tools, and get step-by-step guidance from Aimy while you work. Generic courses and prompt libraries that quickly go stale, while myAIcademy continuously refreshes its content as AI changes, so your skills keep up too.",
-      "category": "Android • Productivity • Education • Artificial Intelligence",
-      "categoryFa": "اندروید • بهره‌وری • آموزش • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7117bad3-79cd-4de5-babb-c4e6949137f8.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/40d5b152-30b4-4722-8faa-1a2582ca4454.png?auto=format",
-        "https://ph-files.imgix.net/aabe68d6-827b-412b-af85-70eb9dfe91ad.png?auto=format",
-        "https://ph-files.imgix.net/a0c48db0-6469-4240-bf6b-83a788ce334c.png?auto=format",
-        "https://ph-files.imgix.net/4d9eccd3-8ef5-43b3-9a54-3b0850a1a3de.png?auto=format",
-        "https://ph-files.imgix.net/80a1f11d-a33d-4608-97e8-4cca234a341e.png?auto=format",
-        "https://ph-files.imgix.net/ed5f44b0-5250-4544-b696-97c7bd36d40a.png?auto=format",
-        "https://ph-files.imgix.net/55e82d3b-a6c0-43ab-9946-5746a88779b3.png?auto=format",
-        "https://ph-files.imgix.net/ef95c234-d697-457e-b35b-0bfedbd77c7b.jpeg?auto=format"
-      ],
-      "maker": "RUCHIT SHARMA",
-      "makerTitle": "Founding Engineer at myaicademy",
-      "featuredAt": "2026-09-04T07:01:00Z",
-      "votes": 261,
-      "websiteUrl": "https://www.producthunt.com/r/ZV2IS4ZFBSIMTJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 🎉I’m Malika, founder and CEO of myAIcademy, a personalised, continuously updated AI learning platform built around your role, goals and the tools you actually use.You learn a real workflow, practise it in a safe simulation and use it to finish real work. We’re live on iOS, Android and web.⭐ The founding storyI’ve spent my career at the intersection of AI, enterprise adoption and education.At Google Cloud, I was a Generative AI Black Belt, helping large enterprises adopt AI. Before that, I worked in Microsoft’s cloud business.I also serve as adjunct faculty at Georgetown University, Washington, DC, and have worked with more than 10,000 professionals and leadership teams.I kept seeing the same problem: companies bought AI licences, told people to “just use AI” and left them with generic courses, prompt libraries and trial and error.The gap is not access. It is adoption.AI learning also accumulates content debt: tools change weekly, so courses quickly become inaccurate. AI learning must be maintained like software.So we built myAIcademy.⭐ Using myAIcademy is simpleTell us your role, experience, goals and tools. We build your personalised learning path.Learn one complete workflow through a 15-minute follow-along lesson.Practise it in a safe simulator before applying it to live work.⭐ Who myAIcademy is forIndividual professionals use myAIcademy to understand how AI applies to their role, discover relevant use cases and learn practical workflows for completing real work.Teams and enterprises use myAIcademy to turn their AI investments into adoption, so every department knows how to apply approved AI tools to its work.For AI vendors and software companies, myAIcademy will serve as a training and adoption layer, helping customers onboard, apply the product to real work, discover relevant use cases and keep up with new capabilities.⭐ Here’s everything you get todayA personalised learning path based on your role, level, goals and tools.15-minute follow-along lessons built around real workflows.Safe simulator checkpoints instead of passive quizzes.Lessons reviewed and refreshed within 24 to 72 hours when major tool changes affect them.Monthly masterclasses, Signals explaining AI updates and a shareable Skill Passport.One synced account across iOS, Android and web.⭐ What’s nextComing soon, Aimy, your AI learning agent, will guide you inside the AI tools your organisation has approved.Tell Aimy what you need to accomplish and it will translate your task into clear prompts, steps and actions for you to follow, while applying your organisation’s security, privacy and compliance policies. You stay in control, complete the work yourself and get more value from AI without stepping outside policy.⭐ A final noteOur dream is to make “just use AI” feel like an invitation, not a burden.In five years, not understanding AI will be as limiting as not understanding the internet. We want every professional to become fluent in AI, and fluency should mean finished work, not certificates.Tell me your role and one task you want AI to do. I’ll personally reply with the workflow, tool and first prompt I would try.Try myAIcademy for free on the web app, download it on iOS, or get it on Android. No credit card is required.I’m grateful to be building this with @ash_96 (Ashfaq, design), @angothu_rahul_naik (Rahul, founding engineer), Ruchit (engineering) and the myAIcademy team.PS: Thank you to the 10,000+ professionals who worked with me before the app, and to our early users across iOS, Android and web. We would not be here without you."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the part I'd want to see thought through more is the jump from Aimy guiding someone through a checkpoint in the simulator to Aimy \"executing the task with them\" inside their real tools, per the reply above. a simulated workflow is safe by construction, there's nothing real to break. the moment Aimy is authorized inside someone's actual CRM or inbox, that's a different category of risk than \"the lesson is a bit stale,\" and it's the same permissions problem every agent-in-your-tools product eventually has to answer. is that scoped per-persona already, or is it still an open design question for when Aimy ships?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The worst landing page ever I've seen! Still congrats on the launch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "do you offer learnings paths as opposed to just learn by app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on today's launch!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I tried it out and it looks amazing, and potentially is something that I would love to use, but one thing left me confused - career path part of onboarding. How would the product deal with the mixed career-paths, e.g. I am a teacher, but also a founder?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, I'm Ashfaq, Head of Design at myAIcademy. If you have any design questions, feedback, or ideas on how the experience could be better, I'd love to hear them, feel free to reach out or drop them here. Looking forward to your reviews!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do you ensure that the content is always up to date, given that AI changes almost daily, with new tools and new use cases?"
-        }
-      ]
     },
     {
       "id": "ph-today-4",
@@ -17315,12 +17377,12 @@
     }
   ],
   "audit": {
-    "products": 246,
-    "withRealComments": 246,
+    "products": 247,
+    "withRealComments": 247,
     "withPersianComments": 74,
     "withPersianDescription": 111,
     "withAiReview": 94,
     "withIranEquivalent": 111,
-    "totalRealComments": 1514
+    "totalRealComments": 1522
   }
 }
