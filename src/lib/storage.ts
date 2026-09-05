@@ -6,14 +6,22 @@ const DATA_DIR = path.join(process.cwd(), 'data');
 const DAILY_DATA_FILE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 
 const CAPS: Record<PeriodKey, number> = {
-  today: 20, yesterday: 20, week: 50, month: 100, year: 200,
+  today: 10, yesterday: 20, week: 50, month: 100, year: 200,
 };
 
 export function isDailyDataFilename(filename: string): boolean {
   return DAILY_DATA_FILE_RE.test(filename);
 }
 
-function mergePeriods(oldP: PeriodsData | undefined, newP: PeriodsData): PeriodsData {
+export function shouldMergePreviousDaily(
+  previousDate: string | undefined,
+  targetDate: string,
+  replaceCurrent = false,
+): boolean {
+  return !replaceCurrent && Boolean(previousDate && previousDate === targetDate);
+}
+
+export function mergePeriods(oldP: PeriodsData | undefined, newP: PeriodsData): PeriodsData {
   const out = {} as PeriodsData;
   (Object.keys(CAPS) as PeriodKey[]).forEach((k) => {
     const map = new Map<string, Product>();
@@ -38,10 +46,17 @@ function mergePeriods(oldP: PeriodsData | undefined, newP: PeriodsData): Periods
   return out;
 }
 
-export async function saveDaily(date: string, periods: PeriodsData): Promise<void> {
+export async function saveDaily(
+  date: string,
+  periods: PeriodsData,
+  options: { replaceCurrent?: boolean } = {},
+): Promise<void> {
   await mkdir(DATA_DIR, { recursive: true });
   const prev = await loadLatest();
-  const merged = mergePeriods(prev?.periods, periods);
+  const mergePrevious = shouldMergePreviousDaily(prev?.date, date, options.replaceCurrent);
+  const merged = mergePrevious
+    ? mergePeriods(prev?.periods, periods)
+    : mergePeriods(undefined, periods);
   const data: DailyData = {
     date,
     scrapedAt: new Date().toISOString(),
@@ -49,7 +64,8 @@ export async function saveDaily(date: string, periods: PeriodsData): Promise<voi
   };
   const file = path.join(DATA_DIR, `${date}.json`);
   await writeFile(file, JSON.stringify(data, null, 2), 'utf8');
-  console.log(`💾 Saved (merged): ${file}`);
+  const mode = options.replaceCurrent ? ' (fresh replace)' : mergePrevious ? ' (same-day merged)' : '';
+  console.log(`💾 Saved${mode}: ${file}`);
 }
 
 export async function loadLatest(): Promise<DailyData | null> {

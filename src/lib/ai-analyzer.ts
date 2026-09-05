@@ -7,6 +7,20 @@ export interface AIAnalysis {
   aiReview: string;
 }
 
+export interface AnalysisNeed {
+  faDescription: boolean;
+  faComments: boolean;
+  iranEquivalent: boolean;
+  aiReview: boolean;
+}
+
+const ALL_FIELDS: AnalysisNeed = {
+  faDescription: true,
+  faComments: true,
+  iranEquivalent: true,
+  aiReview: true,
+};
+
 function normalizeDigits(text: string): string {
   return text
     .replace(/[۰-۹]/g, (d) => String('۰۱۲۳۴۵۶۷۸۹'.indexOf(d)))
@@ -19,7 +33,7 @@ function sanitize(text: string): string {
     .replace(/\\n/g, '\n')
     .replace(/[\u3000-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\u0400-\u04ff\uac00-\ud7af\u3131-\u3163]/g, '')
     .replace(/(^|[\s،.؛:!؟?])IR(?=[\s،.؛:!؟?]|$)/g, ' ')
-    .replace(/[0-9]/g, (d) => '۰۱۳۴۵۶۷۸۹'[+d])
+    .replace(/[0-9]/g, (d) => '۰۱۲۳۴۵۶۷۸۹'[+d])
     .replace(/[ \t]{2,}/g, ' ')
     .trim();
 }
@@ -28,7 +42,13 @@ function cleanJson(text: string): string {
   return normalizeDigits(text.replace(/```json/gi, '').replace(/```/g, '').trim());
 }
 
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+function repairJsonCandidate(text: string): string {
+  return text
+    .replace(/,\s*([}\]])/g, '$1')
+    .replace(/[“”]/g, '"')
+    .replace(/[‘’]/g, "'")
+    .trim();
+}
 
 async function fetchWithTimeout(
   input: string,
@@ -37,223 +57,237 @@ async function fetchWithTimeout(
 ): Promise<Response> {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
-
   try {
-    return await fetch(input, {
-      ...init,
-      signal: controller.signal,
-    });
+    return await fetch(input, { ...init, signal: controller.signal });
   } finally {
     clearTimeout(timer);
   }
 }
 
-export function buildPrompt(p: Product): string {
-  const originals = (p.comments ?? []).slice(0, 4);
+export function buildPrompt(p: Product, need: AnalysisNeed = ALL_FIELDS): string {
+  const originals = need.faComments ? (p.comments ?? []).slice(0, 8) : [];
   const commentsEn = originals.map((c, i) => `${i + 1}) ${c.text}`).join('\n');
-  return `تو یک مترجم حرفه‌ای فارسی و تحلیل‌گر ارشد استارتاپ هستی.
+  const requested: string[] = [];
 
-محصول: ${p.name}
-تگلاین: ${p.tagline}
-توضیحات: ${(p.description ?? '').slice(0, 800)}
+  if (need.faDescription) requested.push('"faDescription": "ترجمه کامل توضیحات به فارسی روان، حداقل ۴ جمله"');
+  if (need.faComments) requested.push('"faComments": ["ترجمه نظر ۱", "... دقیقاً به تعداد نظرات ورودی"]');
+  if (need.iranEquivalent) requested.push('"iranEquivalent": {"productName":"...","description":"۳ جمله","marketOpportunity":"۲ جمله","estimatedBudget":"۲ تا ۴ میلیارد تومان","targetAudience":"...","challenges":["...","..."],"monetization":["...","..."],"techStack":["Next.js","PostgreSQL"],"confidence":75}');
+  if (need.aiReview) requested.push('"aiReview": "تحلیل فارسی ساختاریافته شامل مسئله و راه‌حل، معماری و تکنولوژی، مدل درآمدی، نقاط قوت، نقاط ضعف و نکته طلایی برای ایران"');
 
-نظرات واقعی کاربران (فقط متن):
-${commentsEn || '—'}
+  return `تو یک مترجم حرفه‌ای فارسی و تحلیل‌گر ارشد استارتاپ هستی.\n\nمحصول: ${p.name}\nتگلاین: ${p.tagline}\nتوضیحات: ${(p.description ?? '').slice(0, 650)}${need.faComments ? `\n\nنظرات واقعی کاربران:\n${commentsEn || '—'}` : ''}\n\nفقط فیلدهای زیر را تولید کن و هیچ فیلد اضافه‌ای نساز. خروجی فقط JSON معتبر باشد. متن فارسی روان باشد؛ [REDACTED]، undefined، null، TODO/TBD و متن غیرمرتبط ممنوع است. ${need.faComments ? 'faComments باید دقیقاً به همان ترتیب و همان تعداد نظرات ورودی باشد.' : ''}\n\n{\n  ${requested.join(',\n  ')}\n}`;
+}
 
-قوانین: خروجی فقط JSON معتبر؛ متن‌ها فارسی روان؛ کلمات چینی/روس/ویتنامی ممنوع؛ [REDACTED] ممنوع؛ faComments آرایه رشته‌ها به همان ترتیب و تعداد؛ estimatedBudget متن فارسی مثل «۲ تا ۴ میلیارد تومان».
+export function groqOutputBudget(need: AnalysisNeed = ALL_FIELDS): number {
+  let budget = 220;
+  if (need.faDescription) budget += 420;
+  if (need.faComments) budget += 170 * 8;
+  if (need.iranEquivalent) budget += 620;
+  if (need.aiReview) budget += 780;
+  return Math.min(2800, Math.max(700, budget));
+}
 
-خروجی:
-{
-  "faDescription": "ترجمه کامل توضیحات (حداقل ۴ جمله)",
-  "faComments": ["ترجمه نظر ۱", "..."],
-  "iranEquivalent": {
-    "productName": "...", "description": "(۳ جمله)", "marketOpportunity": "(۲ جمله)",
-    "estimatedBudget": "۲ تا  میلیارد تومان", "targetAudience": "...",
-    "challenges": ["...", "..."], "monetization": ["...", "..."],
-    "techStack": ["Next.js", "PostgreSQL"], "confidence": 75
-  },
-  "aiReview": "تحلیل جامع با ساختار:\\n🔹 مسئله و راه‌حل:\\n...\\n🔹 معماری و تکنولوژی:\\n...\\n🔹 مدل درآمدی:\\n...\\n🔹 نقاط قوت:\\n- ...\\n🔹 نقاط ضعف:\\n- ...\\n🔹 نکته طلایی برای ایران:\\n..."
-}`;
+let geminiUnavailableForProcess = false;
+
+function isGeminiQuotaError(error: unknown): boolean {
+  const message = error instanceof Error ? error.message : String(error);
+  return message.includes('HTTP 429') || message.includes('RESOURCE_EXHAUSTED');
 }
 
 async function callGemini(key: string, prompt: string): Promise<string> {
-  const models = ['gemini-3.6-flash'];
-  const errors: string[] = [];
-
-  for (const model of models) {
-    try {
-      const res = await fetchWithTimeout(
-        `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`,
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-          }),
-        },
-      );
-
-      const body = await res.text();
-
-      if (res.ok) {
-        const json = JSON.parse(body);
-        const text = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
-
-        if (text) {
-          console.log(`   ✨ model: ${model}`);
-          return text;
-        }
-
-        errors.push(`Gemini ${model}: empty response`);
-        continue;
-      }
-
-      const error = `Gemini ${model}: HTTP ${res.status}${
-        body ? ` | ${body.slice(0, 500)}` : ''
-      }`;
-
-      errors.push(error);
-      console.warn(`   ⚠️  ${error}`);
-    } catch (e) {
-      const error = `Gemini ${model}: ${
-        e instanceof Error ? e.message : String(e)
-      }`;
-
-      errors.push(error);
-      console.warn(`   ⚠️  ${error}`);
-    }
-  }
-
-  throw new Error(errors.join(' || ') || 'Gemini failed');
+  const model = 'gemini-3.6-flash';
+  const res = await fetchWithTimeout(
+    `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+    },
+  );
+  const body = await res.text();
+  if (!res.ok) throw new Error(`Gemini ${model}: HTTP ${res.status}${body ? ` | ${body.slice(0, 500)}` : ''}`);
+  const json = JSON.parse(body);
+  const text = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
+  if (!text) throw new Error(`Gemini ${model}: empty response`);
+  console.log(`   ✨ model: ${model}`);
+  return text;
 }
 
 async function getGroqModels(key: string): Promise<string[]> {
   const res = await fetchWithTimeout('https://api.groq.com/openai/v1/models', {
     headers: { Authorization: `Bearer ${key}` },
   });
-
   const body = await res.text();
-  if (!res.ok) {
-    throw new Error(`Groq models HTTP ${res.status}${body ? ` | ${body.slice(0, 500)}` : ''}`);
-  }
-
+  if (!res.ok) throw new Error(`Groq models HTTP ${res.status}${body ? ` | ${body.slice(0, 500)}` : ''}`);
   const json = JSON.parse(body);
-  return (json.data ?? [])
-    .map((m: any) => String(m.id ?? ''))
-    .filter(Boolean);
+  return (json.data ?? []).map((m: any) => String(m.id ?? '')).filter(Boolean);
 }
 
-async function callGroq(key: string, prompt: string): Promise<string> {
-  const available = await getGroqModels(key);
+let cachedGroqModels: Promise<string[]> | null = null;
 
-  const preferred = [
-    'qwen/qwen3.8-27b',
-    'qwen/qwen3.6-27b',
-    'openai/gpt-oss-20b',
-    'openai/gpt-oss-120b',
-  ];
-
-  const model = preferred.find((m) => available.includes(m));
-  if (!model) {
-    throw new Error(`Groq: no supported preferred model available; discovered=${available.slice(0, 20).join(',')}`);
-  }
-
-  for (let i = 0; i < 2; i++) {
-    const res = await fetchWithTimeout('https://api.groq.com/openai/v1/chat/completions', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
-      body: JSON.stringify({
-        model,
-        messages: [{ role: 'user', content: prompt }],
-        temperature: 0.4,
-        max_tokens: 4096,
-      }),
+async function resolveGroqModels(key: string): Promise<string[]> {
+  if (!cachedGroqModels) {
+    cachedGroqModels = (async () => {
+      const available = await getGroqModels(key);
+      const preferred = [
+        'qwen/qwen3.8-27b',
+        'openai/gpt-oss-20b',
+        'llama-3.3-70b-versatile',
+        'llama-3.1-8b-instant',
+        'moonshotai/kimi-k2-instruct',
+        'openai/gpt-oss-120b',
+        'qwen/qwen3.6-27b',
+      ];
+      const models = preferred.filter((candidate) => available.includes(candidate)).slice(0, 5);
+      if (!models.length) throw new Error(`Groq: no supported preferred model available; discovered=${available.slice(0, 20).join(',')}`);
+      console.log(`   🧭 Groq failover pool: ${models.join(', ')}`);
+      return models;
+    })().catch((error) => {
+      cachedGroqModels = null;
+      throw error;
     });
+  }
+  return cachedGroqModels;
+}
 
-    if (res.status === 429) {
-      await sleep(8000);
-      continue;
-    }
+async function callGroqModel(key: string, model: string, prompt: string, maxTokens: number): Promise<string | null> {
+  const res = await fetchWithTimeout('https://api.groq.com/openai/v1/chat/completions', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+    body: JSON.stringify({
+      model,
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.2,
+      max_tokens: maxTokens,
+      response_format: { type: 'json_object' },
+    }),
+  });
 
-    const body = await res.text();
-
-    if (!res.ok) {
-      throw new Error(`Groq ${model}: HTTP ${res.status}${body ? ` | ${body.slice(0, 500)}` : ''}`);
-    }
-
-    const json = JSON.parse(body);
-    console.log(`   ✨ model: ${model}`);
-    return json.choices?.[0]?.message?.content ?? '';
+  if (res.status === 429) {
+    console.warn(`   ↪️  Groq ${model} rate limited; trying next available model immediately`);
+    return null;
   }
 
-  throw new Error(`Groq ${model}: HTTP 429`);
+  const body = await res.text();
+  if (!res.ok) throw new Error(`Groq ${model}: HTTP ${res.status}${body ? ` | ${body.slice(0, 500)}` : ''}`);
+  const json = JSON.parse(body);
+  const text = json.choices?.[0]?.message?.content ?? '';
+  if (!text.trim()) {
+    console.warn(`   ↪️  Groq ${model} returned empty content; trying next available model immediately`);
+    return null;
+  }
+  console.log(`   ✨ model: ${model}`);
+  return text;
+}
+
+async function callGroq(key: string, prompt: string, maxTokens: number): Promise<string> {
+  const models = await resolveGroqModels(key);
+  const failures: string[] = [];
+  for (const model of models) {
+    try {
+      const text = await callGroqModel(key, model, prompt, maxTokens);
+      if (text) return text;
+      failures.push(`${model}: unavailable`);
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      failures.push(`${model}: ${message}`);
+      console.warn(`   ↪️  Groq ${model} failed; trying next available model immediately`);
+    }
+  }
+  throw new Error(`Groq exhausted failover pool: ${failures.join(' | ')}`);
 }
 
 function tryParse(text: string): any {
   const clean = cleanJson(text);
-  try { return JSON.parse(clean); } catch { /* ادامه */ }
-  const s = clean.slice(clean.indexOf('{'), clean.lastIndexOf('}') + 1);
-  try { return JSON.parse(s); } catch { /* ادامه */ }
-  let t = s;
-  for (let i = 0; i < 5; i++) {
-    const cut = Math.max(t.lastIndexOf(','), t.lastIndexOf('",'));
-    if (cut <= 0) break;
-    t = t.slice(0, cut);
-    for (const cand of [t + '}', t + ']}', t + '"}]', t + '}]}']) {
-      try { return JSON.parse(cand); } catch { /* ادامه */ }
+  const candidates = [clean];
+  const firstBrace = clean.indexOf('{');
+  const lastBrace = clean.lastIndexOf('}');
+  if (firstBrace >= 0 && lastBrace > firstBrace) candidates.push(clean.slice(firstBrace, lastBrace + 1));
+
+  for (const candidate of candidates) {
+    for (const version of [candidate, repairJsonCandidate(candidate)]) {
+      try { return JSON.parse(version); } catch { /* continue */ }
     }
   }
-  throw new Error('JSON parse failed');
+  throw new Error(`JSON parse failed: ${clean.slice(0, 180)}`);
 }
 
-export async function analyzeProduct(p: Product): Promise<AIAnalysis> {
-  const prompt = buildPrompt(p);
+function existingIranEquivalent(p: Product): IranEquivalent {
+  return p.iranEquivalent ?? {
+    productName: '', description: '', marketOpportunity: '', estimatedBudget: '', targetAudience: '',
+    challenges: [], monetization: [], techStack: [], confidence: 0,
+  };
+}
+
+export async function analyzeProduct(p: Product, need: AnalysisNeed = ALL_FIELDS): Promise<AIAnalysis> {
+  const prompt = buildPrompt(p, need);
+  const maxTokens = groqOutputBudget(need);
   let text = '';
   let provider = '';
   const errors: string[] = [];
 
-  if (process.env.GEMINI_API_KEY) {
-    try { text = await callGemini(process.env.GEMINI_API_KEY, prompt); provider = 'gemini'; }
-    catch (e: any) { errors.push(`gemini: ${e.message}`); console.warn(`   ⚠️  gemini: ${e.message}`); }
+  if (process.env.GEMINI_API_KEY && !geminiUnavailableForProcess) {
+    try {
+      text = await callGemini(process.env.GEMINI_API_KEY, prompt);
+      provider = 'gemini';
+    } catch (e: any) {
+      if (isGeminiQuotaError(e)) {
+        geminiUnavailableForProcess = true;
+        console.warn('   ↪️  Gemini quota exhausted; skipping Gemini for the rest of this process');
+      }
+      errors.push(`gemini: ${e.message}`);
+      console.warn(`   ⚠️  gemini: ${e.message}`);
+    }
   }
+
   if (!text && process.env.GROQ_API_KEY) {
-    try { text = await callGroq(process.env.GROQ_API_KEY, prompt); provider = 'groq'; }
-    catch (e: any) { errors.push(`groq: ${e.message}`); console.warn(`   ⚠️  groq: ${e.message}`); }
+    try {
+      text = await callGroq(process.env.GROQ_API_KEY, prompt, maxTokens);
+      provider = 'groq';
+    } catch (e: any) {
+      errors.push(`groq: ${e.message}`);
+      console.warn(`   ⚠️  groq: ${e.message}`);
+    }
   }
+
   if (!text) throw new Error(`AI failed: ${errors.join(' | ') || 'no key'}`);
   console.log(`   🤖 provider: ${provider}`);
 
   const parsed = tryParse(text);
+  const originals = (p.comments ?? []).slice(0, 8);
+  let faComments = p.faComments ?? [];
 
-  const originals = (p.comments ?? []).slice(0, 4);
-  let texts: string[] = [];
-  if (Array.isArray(parsed.faComments)) {
-    texts = parsed.faComments.map((x: any) => (typeof x === 'string' ? x : x?.text ?? ''));
+  if (need.faComments) {
+    const texts = Array.isArray(parsed.faComments)
+      ? parsed.faComments.map((x: any) => (typeof x === 'string' ? x : x?.text ?? ''))
+      : [];
+    faComments = originals
+      .map((c, i) => {
+        const name = c.user && !String(c.user).includes('REDACTED') ? c.user : `کاربر ProductHunt ${i + 1}`;
+        return { user: name, text: sanitize(texts[i] ?? '') };
+      })
+      .filter((c) => c.text.length > 5);
   }
-  const faComments: PHComment[] = originals
-    .map((c, i) => {
-      const name = c.user && !String(c.user).includes('REDACTED') ? c.user : `کاربر ProductHunt ${i + 1}`;
-      return { user: name, text: sanitize(texts[i] || c.text) };
-    })
-    .filter((c) => c.text.length > 5);
 
-  const eqRaw = parsed.iranEquivalent ?? {};
-  const iranEquivalent: IranEquivalent = {
-    productName: sanitize(eqRaw.productName ?? ''),
-    description: sanitize(eqRaw.description ?? ''),
-    marketOpportunity: sanitize(eqRaw.marketOpportunity ?? ''),
-    estimatedBudget: sanitize(eqRaw.estimatedBudget ?? ''),
-    targetAudience: sanitize(eqRaw.targetAudience ?? ''),
-    challenges: (eqRaw.challenges ?? []).map(sanitize),
-    monetization: (eqRaw.monetization ?? []).map(sanitize),
-    techStack: (eqRaw.techStack ?? []).map(sanitize),
-    confidence: Number(eqRaw.confidence ?? 0) || 0,
-  };
+  let iranEquivalent = existingIranEquivalent(p);
+  if (need.iranEquivalent) {
+    const eqRaw = parsed.iranEquivalent ?? {};
+    iranEquivalent = {
+      productName: sanitize(eqRaw.productName ?? ''),
+      description: sanitize(eqRaw.description ?? ''),
+      marketOpportunity: sanitize(eqRaw.marketOpportunity ?? ''),
+      estimatedBudget: sanitize(eqRaw.estimatedBudget ?? ''),
+      targetAudience: sanitize(eqRaw.targetAudience ?? ''),
+      challenges: (eqRaw.challenges ?? []).map((x: string) => sanitize(x)),
+      monetization: (eqRaw.monetization ?? []).map((x: string) => sanitize(x)),
+      techStack: (eqRaw.techStack ?? []).map((x: string) => sanitize(x)),
+      confidence: Number(eqRaw.confidence ?? 0) || 0,
+    };
+  }
 
   return {
-    faDescription: sanitize(parsed.faDescription ?? p.tagline),
+    faDescription: need.faDescription ? sanitize(parsed.faDescription ?? '') : (p.faDescription ?? ''),
     faComments,
     iranEquivalent,
-    aiReview: sanitize(parsed.aiReview ?? ''),
+    aiReview: need.aiReview ? sanitize(parsed.aiReview ?? '') : (p.aiReview ?? ''),
   };
 }

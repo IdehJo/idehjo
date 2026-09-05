@@ -7,7 +7,7 @@ export interface ValidationIssue {
 }
 
 const MIN_PRODUCTS: Record<PeriodKey, number> = {
-  today: 3,
+  today: 10,
   yesterday: 3,
   week: 5,
   month: 5,
@@ -17,7 +17,14 @@ const MIN_PRODUCTS: Record<PeriodKey, number> = {
 function validateProductList(period: PeriodKey, products: Product[]): ValidationIssue[] {
   const issues: ValidationIssue[] = [];
 
-  if (products.length < MIN_PRODUCTS[period]) {
+  if (period === 'today') {
+    if (products.length !== MIN_PRODUCTS.today) {
+      issues.push({
+        period,
+        message: `expected exactly ${MIN_PRODUCTS.today} products, got ${products.length}`,
+      });
+    }
+  } else if (products.length < MIN_PRODUCTS[period]) {
     issues.push({
       period,
       message: `expected at least ${MIN_PRODUCTS[period]} products, got ${products.length}`,

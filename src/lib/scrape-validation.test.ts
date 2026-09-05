@@ -22,7 +22,7 @@ function product(period: PeriodKey, index: number, votes = index + 1): Product {
 
 function validPeriods(): PeriodsData {
   return {
-    today: Array.from({ length: 3 }, (_, i) => product('today', i, i + 1)),
+    today: Array.from({ length: 10 }, (_, i) => product('today', i, i + 1)),
     yesterday: Array.from({ length: 3 }, (_, i) => product('yesterday', i)),
     week: Array.from({ length: 5 }, (_, i) => product('week', i)),
     month: Array.from({ length: 5 }, (_, i) => product('month', i)),
@@ -31,9 +31,21 @@ function validPeriods(): PeriodsData {
 }
 
 describe('scrape validation', () => {
-  test('accepts a complete five-period scrape', () => {
+  test('accepts a complete five-period scrape with exactly ten daily products', () => {
     expect(validatePeriods(validPeriods())).toEqual([]);
     expect(() => assertValidPeriods(validPeriods())).not.toThrow();
+  });
+
+  test('rejects fewer than ten today products', () => {
+    const periods = validPeriods();
+    periods.today = periods.today.slice(0, 9);
+    expect(() => assertValidPeriods(periods)).toThrow('expected exactly 10 products');
+  });
+
+  test('rejects more than ten today products', () => {
+    const periods = validPeriods();
+    periods.today.push(product('today', 10, 11));
+    expect(() => assertValidPeriods(periods)).toThrow('expected exactly 10 products');
   });
 
   test('rejects incomplete periods', () => {

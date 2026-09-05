@@ -29,9 +29,11 @@
     "test": "bun test",
     "type-check": "tsc --noEmit",
     "scrape": "bun src/scripts/scrape.ts",
+    "repair:daily-cache": "bun src/scripts/repair-daily-from-cache.ts",
     "release": "semantic-release",
     "corpus:update": "bun src/scripts/update-corpus.ts",
     "corpus:audit": "bun src/scripts/audit-corpus.ts",
+    "audit:readiness": "bun src/scripts/final-product-readiness.ts",
     "enrich:backlog": "bun src/scripts/enrich-today.ts"
   },
   "dependencies": {
