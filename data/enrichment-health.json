@@ -1,25 +1,25 @@
 {
-  "checkedAt": "2026-09-05T21:25:42.279Z",
+  "checkedAt": "2026-09-05T22:24:23.388Z",
   "latestDataset": "2026-09-04.json",
   "batchLimit": 5,
   "attempted": 5,
   "succeeded": 3,
   "failed": 2,
-  "backlogBefore": 11,
-  "backlogAfter": 8,
-  "completedProducts": 246,
+  "backlogBefore": 8,
+  "backlogAfter": 5,
+  "completedProducts": 249,
   "missingFaDescription": 0,
-  "missingFaComments": 8,
+  "missingFaComments": 5,
   "missingAiReview": 0,
   "missingIranEquivalent": 0,
   "failures": [
     {
       "slug": "ito-6",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
     },
     {
-      "slug": "caveman-2",
-      "reason": "AI failed: groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more"
+      "slug": "outcome-2",
+      "reason": "AI failed: groq: Groq exhausted failover pool: qwen/qwen3.8-27b: Groq qwen/qwen3.8-27b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_e"
     }
   ]
 }
