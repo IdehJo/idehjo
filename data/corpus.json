@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:21:54.564Z",
+  "generatedAt": "2026-09-06T00:22:04.176Z",
   "sourceFiles": 26,
   "products": [
     {
@@ -5494,19 +5494,31 @@
       "faComments": [
         {
           "user": "کاربر ProductHunt 1",
-          "text": "Hey Product Hunt. I'm Evan, cofounder of Ito. Coding agents produce more code than you can review. Existing code review tools only stare at the code, so you still have to review tons of code or build complex internal systems to verify it. Ito is a runtime code review tool. On every pull request: Creates test plan from code, PR description, ticket, your input Builds your app in a single-use isolated container with the ability to use credentials, seed data to reach the state that matters, and use external services just as an engineer would on their local machine. Mocks data/code when it doesn’t have access. Drives the app with a swarm of agents (click, navigate, API call, db verification) Catches runtime issues: concurrency, failure handling, data migration, authentication, etc. Posts results on PR with evidence: video, logs, screenshots We built Ito with a team of 8 MIT engineers, and spent many cycles to arbitrarily build any application.&nbsp; Ito gets better the more you use it: Responds to feedback Faster runtimes every run as Ito learns how to navigate your application and builds tools to manipulate your environment Reviews focused on the areas you care about (sees what gets fixed vs ignored) Test instruction per org, per repo, or per author First 100 reviews free, no card. $40/mo after that. Free forever for open source (already supporting &gt;100k stars): app.ito.ai?ph You can also try out open source PRs without signing up here: https://www.ito.ai/review?ph"
+          "text": "سلام پروداکت هانت. من ایوان هستم، هم‌بنیان‌گذار Ito. ایجنت‌های کدنویسی بیشتر از آنچه بتوانید بررسی کنید کد تولید می‌کنند. ابزارهای موجود بررسی کد فقط به خود کد خیره می‌شوند، بنابراین شما همچنان مجبورید حجم زیادی از کد را بررسی کنید یا سیستم‌های داخلی پیچیده‌ای برای تأیید آن بسازید. Ito یک ابزار بررسی کد در زمان اجرا (Runtime) است. در هر Pull Request: یک سناریوی تست از روی کد، توضیحات PR، تیکت و ورودی شما می‌سازد؛ برنامه شما را در یک کانتینر مجزا و یک‌بارمصرف می‌سازد با امکان استفاده از اعتبارنامه‌ها، داده‌های اولیه (seed data) برای رسیدن به وضعیت مورد نظر و استفاده از سرویس‌های خارجی دقیقاً همان‌طور که یک مهندس روی سیستم محلی خود انجام می‌دهد. وقتی دسترسی ندارد داده‌ها/کدها را ماک (Mock) می‌کند؛ برنامه را با دسته‌ای از ایجنت‌ها هدایت می‌کند (کلیک، پیمایش، فراخوانی API، تأیید دیتابیس)؛ مشکلات زمان اجرا را کشف می‌کند: هم‌روندی، مدیریت خطا، مهاجرت داده‌ها، احراز هویت و غیره؛ نتایج را همراه با شواهد در PR ارسال می‌کند: ویدیو، لوگ‌ها، اسکرین‌شات‌ها. ما Ito را با تیمی متشکل از ۸ مهندس MIT ساختیم و چرخه‌های زیادی را صرف اجرای خودکار هر نوع برنامه‌ای کردیم. Ito هرچه بیشتر از آن استفاده کنید بهتر می‌شود: به بازخوردها پاسخ می‌دهد؛ با یادگیری نحوه پیمایش برنامه شما و ساخت ابزارهایی برای دستکاری محیط، زمان اجرا در هر بار سریع‌تر می‌شود؛ بررسی‌ها روی بخش‌هایی تمرکز دارد که برای شما مهم است (می‌بیند چه چیزی رفع می‌شود و چه چیزی نادیده گرفته می‌شود)؛ دستورالعمل تست به ازای هر سازمان، ریپازیتوری یا نویسنده. ۱۰۰ بررسی اول رایگان بدون نیاز به کارت اعتباری، و بعد از آن ۴۰ دلار در ماه. برای پروژه‌های متن‌باز برای همیشه رایگان است (هم‌اکنون بیش از ۱۰۰ هزار ستاره را پشتیبانی می‌کند): app.ito.ai?ph. همچنین می‌توانید PRهای متن‌باز را بدون ثبت‌نام در اینجا امتحان کنید: https://www.ito.ai/review?ph"
         },
         {
           "user": "کاربر ProductHunt 2",
-          "text": "Really interesting approach! How does Ito handle cases where the app environment can't be fully reproduced because of private services, credentials, or production-only dependencies?"
+          "text": "رویکرد بسیار جالبی است! Ito چگونه مواردی را مدیریت می‌کند که در آن‌ها محیط برنامه به دلیل سرویس‌های خصوصی، اعتبارنامه‌ها یا وابستگی‌های مخصوص محیط پروداکشن به طور کامل قابل بازسازی نیست؟"
         },
         {
           "user": "کاربر ProductHunt 3",
-          "text": "The combination of isolated environments + agent-driven testing + runtime evidence is what really stands out here. Curious to see how well Ito handles complex state, flaky external services, and large monorepos."
+          "text": "ترکیب محیط‌های ایزوله + تست برپایه ایجنت‌ها + شواهد زمان اجرا واقعاً برجسته است. مشتاقم ببینم Ito چگونه استیت‌های پیچیده، سرویس‌های خارجی نامطمئن (flaky) و مونو‌ریپوهای بزرگ را مدیریت می‌کند."
         },
         {
           "user": "کاربر ProductHunt 4",
-          "text": "Running the app before reading the diff is the actual difference here, and it creates a question I have not seen a runtime reviewer answer well. What does Ito post on the PR when the container itself never came up? Build failed, seed data unavailable, external service refused the credential. If that lands as \"no runtime issues found\", then a broken environment and a clean PR are the same result, and it fails silently in the direction that looks fine. So: what does a run that could not run report as?"
+          "text": "اجرای برنامه قبل از خواندن Diff، تفاوت اصلی در اینجاست و سوالی ایجاد می‌کند که ندیده‌ام هیچ ابزار بررسی زمان اجرایی به خوبی به آن پاسخ دهد. وقتی خود کانتینر اصلاً بالا نمی‌آید، Ito چه چیزی در PR ثبت می‌کند؟ شکست در بیلد، عدم دسترسی به داده‌های اولیه، یا رد اعتبارنامه توسط سرویس خارجی. اگر این حالت به عنوان «هیچ مشکل زمان اجرایی یافت نشد» ثبت شود، آن‌گاه یک محیط خراب و یک PR بی‌نقص نتیجه یکسانی خواهند داشت و ابزار به شکلی خاموش به‌گونه‌ای شکست می‌خورد که همه‌چیز خوب به نظر می‌رسد. بنابراین: اجرایی که نتوانسته انجام شود، چگونه گزارش می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "گریسون هستم، یکی از هم‌بنیان‌گذاران Ito. دوست دارم بگویم بخش سخت Ito اغلب نادیده گرفته می‌شود: تعمیم‌دهی قابلیت اجرای کد، مسئله اصلی و دشوار است. همه فرض می‌کنند مشکل اصلی «تصمیم‌گیری در مورد چه چیزی تست شود» است (که قطعاً آن هم سخت است!). اما چالش راه‌اندازی یک برنامه واقعی فوق‌العاده سخت است. اگر این بخش را اشتباه انجام دهید، هوشمندترین ایجنت دنیا دور یک صفحه ورود خراب کلیک می‌کند. تیم‌های داخلی در DoorDash یا Ramp فصل‌ها زمان مهندسی صرف کردند تا این سیستم را به صورت داخلی بسازند، چون می‌دانند چقدر مهم است. اکثر تیم‌ها نمی‌توانند و نباید هم مجبور به این کار باشند. به همین دلیل است که بررسی زمان اجرا تا کنون وجود نداشته است. هیچ‌کس نمی‌خواست این لایه بدون جذابیت ظاهری را بسازد، و نمی‌توان با متصل کردن یک ساندباکس به یک ابزار بررسی استاتیک، ادای آن را درآورد. این لایه همان‌جایی است که اکثر توان مهندسی ما قبل از انتشار صرف آن شد، و به همین دلیل بررسی‌ها به جای حدس و گمان، باگ‌های قابل اثبات را رو می‌کنند. منتظر باشید تا ببینید چه کارهای دیگری انجام می‌دهیم :)"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این یک رویکرد عالی است که هم متمایز از ابزارهای استاندارد بررسی هوش مصنوعی است و هم مکمل آن‌هاست. ما از آن استفاده می‌کنیم و در موارد متعدد باگ‌هایی را رو کرده که سایر ابزارها ندیده بودند. تیم آن‌ها نیز بسیار سریع پیش می‌رود و به بازخوردها کاملاً پاسخگو است. کار کردن با آن‌ها بسیار لذت‌بخش است."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "سلام، من جف هستم، مهندس نرم‌افزار در تیم Ito. 👋 چیزی که بیشتر از همه در مورد Ito دوست دارم این است که واقعاً کد را اجرا می‌کند. 🚀 هر PRی که باز می‌کنم با یک سناریوی تست بازمی‌گردد که اجرا شده است، نه اینکه فقط خوانده شده باشد. ⚡ تست‌های دستی که قبلاً با دست انجام می‌دادم را خودکار می‌کند — کلیک روی فرآیند، بررسی حالت‌های خاص (Edge cases)، و اطمینان از اینکه چیز دیگری خراب نشده است. این یعنی ساعت‌ها زمان پس‌اندازشده در هر هفته. 🐛 باگ‌هایی را می‌گیرد که من از دست می‌دادم. خرابی‌های واقعی زمان اجرا که لینترها و تحلیل‌های استاتیک از نظر ساختاری نمی‌توانند ببینند، چون هیچ‌گاه چیزی را اجرا نمی‌کنند. 🤖 حلقه‌های ایجنتی (Agentic loops) را به معنای واقعی کلمه امکان‌پذیر می‌کند. وقتی یک ایجنت کد می‌نویسد، چیزی باید تأیید کند که واقعاً کار می‌کند. Ito همان مرحله است، بنابراین می‌توانم اجازه دهم حلقه طولانی‌تر اجرا شود و به آنچه از آن طرف بیرون می‌آید اعتماد کنم. ساخت این محصول به عنوان مهندسی که هر روز خودش هم از آن استفاده می‌کند، پرلذت‌ترین تجربه‌ای بوده که روی یک محصول داشته‌ام. 🎉 امتحان کردن آن ساده است تا ببینید Ito چگونه می‌تواند به تیم شما کمک کند: app.ito.ai"
         }
       ],
       "iranEquivalent": {

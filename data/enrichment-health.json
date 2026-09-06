@@ -1,25 +1,21 @@
 {
-  "checkedAt": "2026-09-05T23:21:54.580Z",
+  "checkedAt": "2026-09-06T00:22:04.190Z",
   "latestDataset": "2026-09-04.json",
   "batchLimit": 5,
-  "attempted": 5,
-  "succeeded": 3,
-  "failed": 2,
-  "backlogBefore": 5,
-  "backlogAfter": 2,
-  "completedProducts": 252,
+  "attempted": 2,
+  "succeeded": 1,
+  "failed": 1,
+  "backlogBefore": 2,
+  "backlogAfter": 1,
+  "completedProducts": 253,
   "missingFaDescription": 0,
-  "missingFaComments": 2,
+  "missingFaComments": 1,
   "missingAiReview": 0,
   "missingIranEquivalent": 0,
   "failures": [
     {
-      "slug": "ito-6",
-      "reason": "JSON parse failed: \"faComments\": [\n    \"سلام پروداکت هانت. من ایوان هستم، هم‌بنیان‌گذار Ito. ایجنت‌های کدنویسی بیشتر از آنچه بتوانید بررسی کنید کد تولید می‌کنند. ابزارهای موجود بررسی کد فقط به کد زل "
-    },
-    {
       "slug": "outcome-2",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
 }
