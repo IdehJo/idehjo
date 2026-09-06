@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T22:10:38.353Z",
-  "sourceFiles": 27,
+  "generatedAt": "2026-09-06T00:12:33.917Z",
+  "sourceFiles": 28,
   "products": [
     {
       "id": "ph-year-1",
@@ -4896,9 +4896,9 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nTines ۳B یک محیط امن و یکپارچه برای اژنت‌ها، اپلیکیشن‌ها و اتوماسیون‌ها است. این محصول به شما امکان می‌دهد با استفاده از هوش مصنوعی، از هر جای دنیا، بسازید.\n🔹 معماری و تکنولوژی احتمالی:\nTines ۳B از معماری کد-اول و بومی هوش مصنوعی استفاده می‌کند. این محصول به شما کمک می‌کند تا بدون هیچ گونه خطر برای امنیت، سریع حرکت کنید.\n🔹 مدل درآمدی:\nTines ۳B از مدل درآمدی فروش محصول و خدمات مشاوره‌ای استفاده می‌کند.\n🔹 نقاط قوت:\n- ایمن‌سازی کدهای اجرا شده\n- مدیریت اعتبارنامه‌ها\n- نظارت بر جریان‌های کار\n🔹 نقاط ضعف و ریسک‌ها:\n- نیاز به تخصص در هوش مصنوعی\n- نیاز به زیرساخت‌های مناسب\n🔹 نکته طلایی برای بازار ایران:\nTines ۳B می‌تواند به تیم‌های توسعه و بازاریابی در ایران کمک کند تا محصولات خود را به صورت سریع و امن بسازند."
     },
     {
-      "id": "ph-yesterday-1",
+      "id": "ph-week-5",
       "date": "2026-09-04",
-      "rank": 1,
+      "rank": 5,
       "name": "GPT-6 Astra",
       "slug": "gpt-6-astra-2",
       "tagline": "OpenAI's most capable model for end-to-end work",
@@ -4918,10 +4918,10 @@
         "https://ph-files.imgix.net/47fa0767-ce76-4893-8955-571fe0b765de.jpeg?auto=format",
         "https://ph-files.imgix.net/c32d60c3-f17e-413c-b10d-472f17d8c7fe.jpeg?auto=format"
       ],
-      "maker": "Sam Altman",
+      "maker": "[REDACTED]",
       "makerTitle": "President, YC",
       "featuredAt": "2026-09-04T07:01:00Z",
-      "votes": 420,
+      "votes": 421,
       "websiteUrl": "https://www.producthunt.com/r/JZWSD2RN4SUNT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -7190,9 +7190,71 @@
       "makerTwitter": ""
     },
     {
-      "id": "ph-week-9",
+      "id": "ph-yesterday-1",
+      "date": "2026-09-05",
+      "rank": 1,
+      "name": "dif.sh",
+      "slug": "dif-sh",
+      "tagline": "Markdown feature flags your coding agent installs for you",
+      "description": "Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/57a39c88-005c-47ba-9f73-14c1d0c13e79.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format",
+        "https://ph-files.imgix.net/eee781fd-8c15-4f85-bd7b-219d4b679404.png?auto=format",
+        "https://ph-files.imgix.net/95f215da-e75d-4fd5-a1cb-e92dc81da702.png?auto=format",
+        "https://ph-files.imgix.net/e5010f7b-8271-44a0-9c36-70630ceb7209.png?auto=format",
+        "https://ph-files.imgix.net/e1c77e45-fbd0-4f09-8ff0-8ab1c280ee8a.png?auto=format",
+        "https://ph-files.imgix.net/903de646-4c5a-4a0f-b5e8-ea36b386a76d.png?auto=format",
+        "https://ph-files.imgix.net/f090a647-ce74-44a5-b647-21f52e05838a.png?auto=format",
+        "https://ph-files.imgix.net/a0ffd7da-0f2f-4bc5-a210-a6ba9b1458c7.jpeg?auto=format"
+      ],
+      "maker": "Remy Lee",
+      "makerTitle": "",
+      "featuredAt": "2026-09-05T07:01:00Z",
+      "votes": 334,
+      "websiteUrl": "https://www.producthunt.com/r/ZYY34UR2OF3VDX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt. David here, one of the makers. A while back I asked Claude Code to add feature flags to a project. It got to the part where most flag tools want you to create an account, grab an API key, etc., and basically gave up and wrote `process.env.SHOW_NEW_CHECKOUT` instead. That was the thing that got us thinking about Dif. Dif keeps flags in your repo as markdown files. They get reviewed in PRs like everything else. You can install it with one command, there's no signup or API key required, and coding agents can actually use it without getting stuck halfway through. `dif init` also adds some instructions to `agents.md`, and we generate a `context.json` on each build so the agent has a better idea of what flags exist, what's been removed, and what's already been tried. A/B tests live in the same setup too, even if you're not ready to run them yet. The self-hosted version is free. The cloud piece is for getting a view across projects and having Dif propose changes, but those still come back through PRs. Git stays the source of truth. Would genuinely love the critical version of the feedback here: would you use this? If not, what would stop you? And what are you using today that we'd need to be better than? We'll be around all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of treating featuree flags as part of the codebase Is unique"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hmm...interesting. The key part is that coding agent has access to previous flag and A/B tests and their data. Right?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "One command, no account is probably the strongest part for me. Makes it way easier for coding agents to actually finish setup without hitting a signup wall."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I really like the idea of keeping the flag and the reasoning behind it in the same file. That kind of context usually disappears after a few weeks."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle merge conflicts when two people edit the same flag file at once? Congrats @david_herzog2 & team! Keep it up @fmerian 🙌🏻"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. The \"flags reviewed in a PR\" part is the real hook for me - most flag tools bolt on a dashboard that nobody checks, and this just stays in the same review flow. Curious about one thing though: if two agents are working in parallel branches and both touch the same markdown flag file, does dif help resolve that conflict at all or is it just a normal git merge conflict at that point?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Curious how this works with Claude code"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-10",
       "date": "2026-08-30",
-      "rank": 9,
+      "rank": 10,
       "name": "Topview Motion Studio",
       "slug": "topview-motion-studio",
       "tagline": "Create launch videos without touching After Effects",
@@ -7493,68 +7555,6 @@
         {
           "user": "[REDACTED]",
           "text": "What kind of Integrations do you have?"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-05",
-      "rank": 1,
-      "name": "dif.sh",
-      "slug": "dif-sh",
-      "tagline": "Markdown feature flags your coding agent installs for you",
-      "description": "Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/57a39c88-005c-47ba-9f73-14c1d0c13e79.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format",
-        "https://ph-files.imgix.net/eee781fd-8c15-4f85-bd7b-219d4b679404.png?auto=format",
-        "https://ph-files.imgix.net/95f215da-e75d-4fd5-a1cb-e92dc81da702.png?auto=format",
-        "https://ph-files.imgix.net/e5010f7b-8271-44a0-9c36-70630ceb7209.png?auto=format",
-        "https://ph-files.imgix.net/e1c77e45-fbd0-4f09-8ff0-8ab1c280ee8a.png?auto=format",
-        "https://ph-files.imgix.net/903de646-4c5a-4a0f-b5e8-ea36b386a76d.png?auto=format",
-        "https://ph-files.imgix.net/f090a647-ce74-44a5-b647-21f52e05838a.png?auto=format",
-        "https://ph-files.imgix.net/a0ffd7da-0f2f-4bc5-a210-a6ba9b1458c7.jpeg?auto=format"
-      ],
-      "maker": "Remy Lee",
-      "makerTitle": "",
-      "featuredAt": "2026-09-05T07:01:00Z",
-      "votes": 324,
-      "websiteUrl": "https://www.producthunt.com/r/ZYY34UR2OF3VDX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt. David here, one of the makers. A while back I asked Claude Code to add feature flags to a project. It got to the part where most flag tools want you to create an account, grab an API key, etc., and basically gave up and wrote `process.env.SHOW_NEW_CHECKOUT` instead. That was the thing that got us thinking about Dif. Dif keeps flags in your repo as markdown files. They get reviewed in PRs like everything else. You can install it with one command, there's no signup or API key required, and coding agents can actually use it without getting stuck halfway through. `dif init` also adds some instructions to `agents.md`, and we generate a `context.json` on each build so the agent has a better idea of what flags exist, what's been removed, and what's already been tried. A/B tests live in the same setup too, even if you're not ready to run them yet. The self-hosted version is free. The cloud piece is for getting a view across projects and having Dif propose changes, but those still come back through PRs. Git stays the source of truth. Would genuinely love the critical version of the feedback here: would you use this? If not, what would stop you? And what are you using today that we'd need to be better than? We'll be around all day."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hmm...interesting. The key part is that coding agent has access to previous flag and A/B tests and their data. Right?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "One command, no account is probably the strongest part for me. Makes it way easier for coding agents to actually finish setup without hitting a signup wall."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I really like the idea of keeping the flag and the reasoning behind it in the same file. That kind of context usually disappears after a few weeks."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do you handle merge conflicts when two people edit the same flag file at once? Congrats @david_herzog2 & team! Keep it up @fmerian 🙌🏻"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch. The \"flags reviewed in a PR\" part is the real hook for me - most flag tools bolt on a dashboard that nobody checks, and this just stays in the same review flow. Curious about one thing though: if two agents are working in parallel branches and both touch the same markdown flag file, does dif help resolve that conflict at all or is it just a normal git merge conflict at that point?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Curious how this works with Claude code"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could it add insights on which flags are impacting user behavior the most?"
         }
       ]
     },
@@ -11011,7 +11011,49 @@
           "text": "Very interesting. Does it automatically capture, or do you have to record every time? I think it's great for capturing ideas. I have carpal tunnel syndrome, and anything I can voice-to-text is helpful. How much is the hardware?"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "دومیندبِی نوت (SecondBrain Note) یک ضبط‌کننده صوتی هوش مصنوعی به ضخامت کارت بانکی است که با یک بار فشردن دکمه، جلسات شما را به صورت خودکار به یادداشت‌های منظم تبدیل و در حافظه دومیندبِی شما ذخیره می‌کند. این دستگاه با ضخامت ۳.undefined۶ میلی‌متر و وزن ۳۷ گرم، به راحتی در جیب کارت‌ها و روی گوشی شما قرار می‌گیرد تا همیشه همراهتان باشد. میکروفون‌های پیشرفته آن صدا را از فاصله بیش از ۶ متری دریافت کرده و تا ۴۶ ساعت ضبط پیوسته را پشتیبانی می‌کند. امنیت این دستگاه در سطح سازمانی با گواهینامه‌های SOC ۳ Type II و ISO ۳۸۰۰۱ تضمین شده است تا حریم خصوصی مکالمات شما کاملاً حفظ شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "دومیندبِی نوت از جنسپارک یک ترکیب سخت‌افزار و هوش مصنوعی است که مکالمات دنیای واقعی را به صورت خودکار به یادداشت‌های ساختاریافته و قابل جستجو تبدیل می‌کند. مسئله اصلی این است که یادداشت‌برداری دستی در جلسات، تماس‌ها و جلسات ایده‌پردازی کند، ناقص و سازمان‌دهی آن دشوار است. راه‌حل یک ضبط‌کننده جیبی است که صدا را ضبط کرده و سپس با استفاده از هوش مصنوعی همه چیز را به یادداشت‌های تمیز تبدیل می‌کند بدون نیاز به کار دستی. آنچه آن را متمایز می‌کند، سخت‌افزار اختصاصی با ۵ میکروفون و سنسور ارتعاش برای ضبط شفاف (شامل تماس‌های تلفنی) است. این دستگاه آفلاین کار می‌کند؛ ضبط‌ها بعداً همگام‌سازی شده و خلاصه‌ها به صورت خودکار تولید می‌شوند. یکپارچگی عمیق با دومیندبِی، GenMail و منابع داده جنسپارک برای یک «حافظه هوشمند» یکپارچه. ویژگی‌های کلیدی: ضبط با یک دکمه، علامت‌گذاری نکات کلیدی و ۴۶ ساعت ضبط پیوسته. خلاصه‌ها + متن کامل (خروجی کامل برای ضبط‌های بیش از ۳ دقیقه). ۴۰۰ دقیقه ترنسکریپت رایگان ماهانه با دستگاه شامل می‌شود؛ نامحدود با پلن‌های Plus/Pro. انتقال امن و رمزنگاری شده؛ دارای گواهینامه SOC ۳ Type II و ISO ۳۸۰۰۱. مزایا: هرگز نکات کلیدی یا موارد اقدام را از دست ندهید. ساعت‌ها زمان را در یادداشت‌برداری و پاک‌سازی پس از جلسه صرفه‌جویی کنید. یک آرشیو قابل جستجو از تمام مکالمات و ایده‌های خود بسازید. برای چه کسانی / موارد استفاده: متخصصان، بنیان‌گذاران، پژوهشگران و دانشجویانی که در جلسات، مصاحبه‌ها، سخنرانی‌ها یا تماس‌های مشتری شرکت می‌کنند. عالی برای جلسات، یادداشت‌های صوتی، مصاحبه‌ها، سخنرانی‌ها و ضبط تماس‌های تلفنی. اگر به بهره‌وری مبتنی بر هوش مصنوعی اهمیت می‌دهید، این محصول یکی از مواردی است که باید به آن توجه کنید. P.S. من جدیدترین و بهترین راه‌اندازی‌ها را در حوزه فناوری، SaaS و هوش مصنوعی دنبال می‌کنم، برای اطلاع‌رسانی دنبال کنید → @rohanrecommends"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا این یک سنسور سخت‌افزاری است که صدا را ردیابی کرده و یادداشت می‌سازد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این عالی است.. فقط یک سوال دارم، چگونه از منظر حریم خصوصی/قانون دوری می‌کنید.. هرچند درک می‌کنم که مسئولیت اصلی بر عهده کاربر است، اما آیا نشانه‌ای برای جهان وجود دارد که نشان دهد ضبط در حال انجام است.. آرزوی موفقیت برای شما.."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "سنسور ارتعاش برای تماس‌های تلفنی بخش زیرکی است، بیشتر ضبط‌کننده‌های خارجی فقط صدای طرف شما را در تماس می‌گیرند. آیا این خواندن ارتعاش استخوانی از بدنه گوشی است یا مستقیماً از بلندگو؟"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nمسئله اصلی، فرآیند کند و ناقص یادداشت‌برداری دستی در جلسات پرمشغله است. راه‌حل، یک سخت‌افزار اختصاصی نازک است که با یک دکمه ضبط را آغاز کرده و با کمک هوش مصنوعی، خروجی را به صورت خودکار به متن و خلاصه تبدیل می‌کند تا کاربر فقط گوش دهد.\n\n🔹 معماری و تکنولوژی:\nسخت‌افزار از ۵ میکروفون و یک سنسور ارتعاش برای جداسازی صدای طرف مقابل در تماس‌های تلفنی استفاده می‌کند. داده‌ها به صورت آفلاین ضبط شده و پس از اتصال، به سرورهای ابری ارسال می‌شوند تا با الگوریتم‌های ترنسکریپشن و خلاصه‌سازی پردازش شوند. امنیت داده‌ها با رمزنگاری و استانداردهای SOC ۳ و ISO ۳۸۰۰۱ تضمین می‌شود.\n\n🔹 مدل درآمدی:\nمدل درآمدی ترکیبی است: فروش سخت‌افزار با حاشیه سود مناسب و اشتراک ماهانه (SaaS) برای کاربران پرمصرف که به ترنسکریپت نامحدود و یکپارچگی با سایر ابزارهای هوشمند نیاز دارند.\n\n🔹 نقاط قوت:\n- طراحی فوق‌العاده نازک و سبک که امکان حمل همیشگی را فراهم می‌کند.\n- قابلیت ضبط صدای طرف مقابل در تماس‌های تلفنی که مزیت رقابتی بزرگی نسبت به اپلیکیشن‌های معمول است.\n- یکپارچگی عمیق با اکوسیستم هوشمند (SecondBrain) برای ایجاد حافظه دیجیتال یکپارچه.\n\n🔹 نقاط ضعف:\n- وابستگی به اشتراک برای استفاده کامل (محدودیت ۴۰۰ دقیقه رایگان).\n- نگرانی‌های جدی در مورد حریم خصوصی و قانونی بودن ضبط مکالمات بدون اطلاع طرف مقابل.\n- نیاز به باتری با عمر بالا برای پشتیبانی از ۴۶ ساعت ضبط پیوسته.\n\n🔹 نکته طلایی برای ایران:\nدر ایران، تمرکز بر «حفظ حریم خصوصی» و «قابلیت استفاده آفلاین» باید در بازاریابی برجسته باشد. همچنین، ارائه قابلیت‌های تحلیل صوتی برای وکلا و پزشکان (که حجم بالایی از مکالمات دارند) می‌تواند نقطه ورود قوی‌تری نسبت به کاربران عمومی باشد.",
+      "iranEquivalent": {
+        "productName": "یادداشت‌بر هوشمند دومینا",
+        "description": "دستگاه جیبی و نازکی که با یک دکمه مکالمات را ضبط و با هوش مصنوعی به متن و خلاصه تبدیل می‌کند. این دستگاه از طریق بلوتوث به گوشی متصل شده و داده‌ها را در یک بستر ابری امن ذخیره می‌کند. قابلیت ضبط صدای طرف مقابل در تماس‌های تلفنی از طریق سنسور ارتعاش بدنه گوشی ارائه می‌شود.",
+        "marketOpportunity": "بازار ایران تشنه‌ی ابزارهای بهره‌وری هوشمند است که بتوانند بازگشت سرمایه را در کاهش زمان اداری نشان دهند. وجود شکاف در محصولات سخت‌افزاری هوشمند بومی با قیمت مناسب، فرصت بزرگی برای ورود است.",
+        "estimatedBudget": "۶ تا ۱۰ میلیارد تومان",
+        "targetAudience": "مدیران ارشد، وکلا، پزشکان، دانشجویان ارشد و کارآفرینانی که حجم بالایی از جلسات و مکالمات دارند.",
+        "challenges": [
+          "چالش‌های قانونی و اخلاقی مرتبط با ضبط مکالمات بدون اطلاع طرف مقابل در ایران.",
+          "نیاز به زیرساخت ابری قدرتمند و امن برای پردازش صوت و حفظ داده‌ها."
+        ],
+        "monetization": [
+          "فروش یک‌باره دستگاه سخت‌افزاری.",
+          "اشتراک ماهانه برای دسترسی به ترنسکریپت نامحدود و تحلیل‌های پیشرفته هوش مصنوعی."
+        ],
+        "techStack": [
+          "React Native",
+          "Node.js",
+          "Whisper AI",
+          "PostgreSQL"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -12336,7 +12378,42 @@
           "text": "Congrats on the launch, @zaczuo 🚀 The Factorio story about the agent discovering RCON and learning to \"cheat\" its own harness is hilarious and honestly impressive. A self-improving harness with a persistent Python REPL and subagents feels like a massive step forward for open-source AI tooling. Good luck with the launch today!"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "پرایم ایجنت یک هارنس کدنویسی متن‌باز و خودبهبخش است که بر دو مفهوم کلیدی یعنی مدل زبانی بازگشتی (RLM) و هارنس پیوسته بنا شده است. این ابزار با استفاده از قابلیت‌های پیشرفته، می‌تواند چارچوب اجرایی خود را به صورت پویا اصلاح و بهبود بخشد. با بهره‌گیری از مدل Opus ۶، این سیستم به دقت undefined۶.۶ درصد در بنچمارک ARC-AGI-۴ دست یافته است. این عملکرد، رکورد متخصصان انسانی در این حوزه را شکسته و نشان‌دهنده جهش قابل توجهی در هوش مصنوعی کدنویسی است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! آزمایش فکتوریو شاید بخش مورد علاقه من از پرایم ایجنت باشد. این ابزار می‌تواند چیزهایی که در طول اجرا یاد می‌گیرد را به حافظه‌های ماندگار، مهارت‌ها، پرامپت‌ها و حتی زیر-ایجنت‌های جدید تبدیل کند. در فکتوریو، این کار ابتدا به درستی انجام شد: ایجنت از چیدمان‌های ناموفق درس گرفت و تدریجاً کارخانه‌های بهتری ساخت. سپس کشف کرد که می‌تواند از طریق RCON منابع را مستقیماً به ماشین‌ها تزریق کند و تقلب کند. و دستور /refine هم در تقلب بهتر شد :) این مثال احتمالاً پرایم ایجنت را بهتر از هر بنچمارکی توضیح می‌دهد. خود هارنس دیگر کاملاً ثابت نیست. ایجنت می‌تواند بررسی کند چه اتفاقی افتاده، الگوهای مفید را حفظ کند و در حین کار بخش‌هایی از زیرساخت خود را تغییر دهد. در لایه‌های زیرین، یک REPL پایتون ماندگار، زیر-ایجنت‌های بازگشتی، پیام‌رسانی بین ایجنت‌ها و نشست‌های قابل بازیابی وجود دارد. کل پروژه متن‌باز است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک بابت راه‌اندازی، @zaczuo 🚀 داستان فکتوریو درباره کشف RCON توسط ایجنت و یادگیری «تقلب» در هارنس خودش هم خنده‌دار است و هم واقعاً شگفت‌انگیز. یک هارنس خودبهبخش با REPL پایتون ماندگار و زیر-ایجنت‌ها احساس می‌شود گامی عظیم به جلو برای ابزارهای متن‌باز هوش مصنوعی است. موفق باشید در راه‌اندازی امروز!"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nمسئله اصلی، محدودیت هوش مصنوعی‌های فعلی در یادگیری پایدار و تطبیق با محیط‌های پیچیده است. پرایم ایجنت با معرفی «هارنس پیوسته» و «مدل زبانی بازگشتی»، راه‌حلی ارائه می‌دهد که در آن ایجنت نه تنها کد می‌نویسد، بلکه خودِ چارچوب اجرایی‌اش را بازبینی و اصلاح می‌کند. این رویکرد باعث می‌شود سیستم با گذشت زمان و تجربه، هوشمندتر و دقیق‌تر شود.\n\n🔹 معماری و تکنولوژی:\nمعماری مبتنی بر یک REPL پایتون ماندگار است که به ایجنت امکان تعامل مداوم با محیط را می‌دهد. استفاده از زیر-ایجنت‌های بازگشتی و سیستم پیام‌رسانی بین ایجنت‌ها، امکان حل مسائل پیچیده را از طریق تفکیک وظایف فراهم می‌کند. قابلیت تبدیل یادگیری‌های لحظه‌ای به حافظه‌های ماندگار و مهارت‌های جدید، کلید اصلی تمایز این محصول است.\n\n🔹 مدل درآمدی:\nمدل درآمدی احتمالی ترکیبی از SaaS (سرویس به عنوان نرم‌افزار) برای توسعه‌دهندگان فردی و Enterprise (سازمانی) برای شرکت‌های بزرگ است. با توجه به متن‌باز بودن، می‌توان از مدل «Open Core» استفاده کرد که هسته اصلی رایگان و امکانات پیشرفته (مانند مدل‌های قوی‌تر یا مدیریت چندکاربره) پولی باشد.\n\n🔹 نقاط قوت:\n- قابلیت خودبهبخشی (Self-improving) که ریسک منسوخ شدن سریع را کاهش می‌دهد.\n- عملکرد فوق‌العاده در بنچمارک‌های سخت مانند ARC-AGI-۴.\n- متن‌باز بودن که اعتماد جامعه فنی را جلب می‌کند.\n\n🔹 نقاط ضعف:\n- پیچیدگی بالا در پیاده‌سازی و نگهداری.\n- مصرف بالای منابع محاسباتی که هزینه‌ها را افزایش می‌دهد.\n- ریسک‌های امنیتی ناشیباز شدن ایجنت برای تغییر دادن چارچوب خود (مانند مثال تقلب در فکتوریو).\n\n🔹 نکته طلایی برای ایران:\nبا توجه به محدودیت‌های دسترسی به مدل‌های خارجی، تمرکز بر بهینه‌سازی این معماری برای کار با مدل‌های زبانی محلی یا مدل‌های متن‌باز کوچک‌تر (مثل Llama یا Qwen) می‌تواند مزیت رقابتی بزرگی ایجاد کند. همچنین، ایجاد یک «لایه ایمنی» برای محدود کردن دسترسی ایجنت به تغییرات حیاتی هارنس، برای جلب اعتماد مشتریان سازمانی ایرانی ضروری است.",
+      "iranEquivalent": {
+        "productName": "ایجنتِ خودساز",
+        "description": "یک پلتفرم هوش مصنوعی کدنویسی که قابلیت اصلاح و بهینه‌سازی خودکار چارچوب‌های اجرایی (Harness) را دارد. این سیستم با یادگیری از خطاها و موفقیت‌های گذشته، الگوریتم‌های خود را بدون مداخله انسانی ارتقا می‌دهد. هدف آن ایجاد یک چرخه بازخورد مستمر برای بهبود کیفیت کد و کارایی فرآیندها است.",
+        "marketOpportunity": "بازار توسعه نرم‌افزار در ایران با کمبود نیروی متخصص ارشد و نیاز به اتوماسیون فرآیندها مواجه است. ابزارهایی که می‌توانند فرآیند کدنویسی را شتاب‌دهی کرده و خطاهای انسانی را کاهش دهند، پتانسیل رشد عظیمی دارند.",
+        "estimatedBudget": "۶ تا ۱۰ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری اطلاعات، استارتاپ‌های نرم‌افزاری، تیم‌های DevOps و توسعه‌دهندگان فریلنسر که به دنبال افزایش بهره‌وری هستند.",
+        "challenges": [
+          "نیاز به زیرساخت محاسباتی قوی و پرهزینه برای اجرای مدل‌های زبانی بزرگ.",
+          "چالش‌های مربوط به دسترسی به اینترنت پایدار و سرویس‌های ابری خارجی."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه برای دسترسی به نسخه‌های پیشرفته و مدل‌های قوی‌تر.",
+          "فروش لایسنس سازمانی با پشتیبانی اختصاصی و استقرار در سرورهای داخلی شرکت‌ها."
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "LangChain",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -14055,7 +14132,50 @@
           "user": "[REDACTED]",
           "text": "There is a good chance you are using your code assistant to make website, build reports or create proposals for your clients And you need to have things on brand with proper updated logosBrandfetch MCP does just that, bring it all where you need it"
         }
-      ]
+      ],
+      "faDescription": "از حدس زدن لوگوی برندها توسط عامل‌های هوش مصنوعی جلوگیری کنید. عامل‌های هوش مصنوعی معمولاً لوگوها را اشتباه طراحی می‌کنند، کدهای رنگی نادرست می‌سازند، دارایی‌های بصری اشتباه را دریافت کرده و لحن برند را به اشتباه بازسازی می‌کنند. ابزار Brandfetch MCP دسترسی به لوگوها، رنگ‌ها، فونت‌ها، جزئیات شرکت و بافت برند را برای بیش از ۶۰ میلیون برند فراهم می‌کند. این ابزار با کلود، کرسر، ویژوال استودیو کد و کادکس به‌طور کامل سازگار است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروپوزال‌سازان و توسعه‌دهندگان! همه چیزهایی که هوش مصنوعی تولید می‌کند عالی به نظر می‌رسند تا زمانی که نوبت به بازنمایی یک برند واقعی می‌رسد. هوش مصنوعی لوگوها را دوباره طراحی می‌کند، کدهای رنگی از خود می‌سازد و از دارایی‌های قدیمی استفاده می‌کند. Brandfetch MCP اطلاعات واقعی را در اختیار عامل‌ها قرار می‌دهد؛ شامل لوگوها، رنگ‌ها، فونت‌ها و بافت برند برای ۶۰ میلیون برند تنها با یک جستجو."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "مشکل ساخت کدهای رنگی اشتباه مشکلی است که من هنگام ساخت لندینگ پیج‌ها با کلود با آن مواجه شده‌ام؛ کلود با اطمینان رنگ‌هایی را برمی‌گرداند که اصلاً به پالت واقعی برند نزدیک نیستند. فضولی است اما می‌خواهم بدانم get_brand_context چگونه با برندی که در اواسط سال ری‌برند می‌کند برخورد می‌کند؟ آیا راهی برای تشخیص قدیمی بودن هویت وجود دارد یا همیشه آخرین موارد نمایه شده را نشان می‌دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بررسی برخی لوگوها جالب است. متوجه شدم که Brandfetch رنگ‌های اضافی را شناسایی می‌کند اما برخی را نیز از خود می‌سازد. آیا این کار عمداً انجام می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "احتمال زیادی وجود دارد که شما از دستیار کدنویسی خود برای ساخت وب‌سایت، گزارش یا پیشنهاد تجاری برای مشتریان استفاده کنید و نیاز داشته باشید همه چیز طبق هویت برند با لوگوهای به‌روز باشد. Brandfetch MCP دقیقاً همین کار را انجام می‌دهد و همه داده‌های لازم را به جایی که نیاز دارید می‌آورد."
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nعامل‌های هوش مصنوعی مولد هنگام ساخت طرح‌ها، مستندات یا ابزارهای وب، به دلیل عدم دسترسی به داده‌های دقیق برندها، اقدام به حدس زدن کدهای رنگی و بازطراحی اشتباه لوگوها می‌کنند. محصول Brandfetch MCP با ارائه یک پروتکل متصل‌کننده (MCP)، داده‌های دقیق بیش از ۶۰ میلیون برند شامل لوگو، رنگ، فونت و لحن برند را مستقیم به دستیارهایی مثل کلود و سرویس‌های کدنویسی تزریق می‌کند.\n\n🔹 معماری و تکنولوژی:\nاین ابزار از استاندارد Model Context Protocol (MCP) استفاده می‌کند که امروزه به استاندارد طلایی اتصال مدل‌های زبانی به پایگاه‌های داده خارجی تبدیل شده است. ابزارهای کلیدی آن شامل جستجوی هوشمند، دریافت جزئیات برند، درک بافت برند و تولید لینک‌های CDN آماده برای تولید است.\n\n🔹 مدل درآمدی:\nمدل درآمدی بر پایه فری‌میوم و میزان مصرف API است؛ به این صورت که دسترسی پایه رایگان بوده و برای استفاده‌های حجیم یا دسترسی‌های پیشرفته سازمانی، حق اشتراک دریافت می‌شود.\n\n🔹 نقاط قوت:\n- حل مستقیم یکی از چالش‌های اصطکاک‌زا در طراحی با هوش مصنوعی\n- یکپارچگی کامل با محیط‌های توسعه محبوب مانند VS Code، Cursor و Claude\n- پوشش دیتابیس بسیار گسترده (بیش از ۶۰ میلیون برند)\n\n🔹 نقاط ضعف:\n- وابستگی شدید به میزان به‌روز بودن داده‌های اندکس‌شده\n- خطای احتمالی در تشخیص دقیق رنگ‌های فرعی در برخی لوگوهای پیچیده\n\n🔹 نکته طلایی برای ایران:\nدر ایران به دلیل عدم وجود یک مرکز یکپارچه داده‌های هویت بصری برندها، راه‌اندازی چنین سرویسی با تمرکز بر برندها و استارتاپ‌های ایرانی و ارائه آن به صورت ابزار هوش مصنوعی می‌تواند به سرعتی بی‌نظیر در اتوماسیون طراحی و تولید مستندات تجاری برای آژانس‌های داخلی منجر شود.",
+      "iranEquivalent": {
+        "productName": "پلتفرم هوشمند زیرساخت هویت بصری و داده‌های برند (ایران‌برند MCP)",
+        "description": "این پلتفرم به‌عنوان یک پروتکل ارتباطی متمرکز، داده‌های رسمی، هویت بصری، کدهای رنگی و لوگوهای استاندارد شرکت‌های ایرانی را در اختیار دستیاران هوش مصنوعی قرار می‌دهد. با استفاده از این ابزار، توسعه‌دهندگان و ابزارهای هوش مصنوعی می‌توانند بدون حدس و خطا، طرح‌ها و گزارش‌های منطبق با استاندارد برندهای ایرانی تولید کنند. این سرویس پایگاه داده‌ای جامع از برندها و بنگاه‌های اقتصادی فعال در کشور را پشتیبانی می‌کند.",
+        "marketOpportunity": "با رشد روزافزون استفاده از هوش مصنوعی مولد در تولید محتوا، طراحی وب‌سایت و ابزارهای فروش در ایران، نیاز مبرمی به پایگاه داده یکپارچه برندهای داخلی وجود دارد. ارائه این سرویس به صورت پروتکل MCP می‌تواند بازار توسعه‌دهندگان نرم‌افزار، آژانس‌های تبلیغاتی و سامانه‌های اتوماسیون سازمانی را به سرعت جذب کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، آژانس‌های دیجیتال مارکتینگ، تولیدکنندگان محتوا و طراحان رابط کاربری",
+        "challenges": [
+          "تغییرات مداوم هویت بصری و عدم ثبت رسمی لوگوها و رنگ‌های استاندارد توسط کسب‌وکارهای ایرانی",
+          "محدودیت دسترسی به ای‌پادهای عمومی و داده‌های یکپارچه شرکت‌ها در ایران"
+        ],
+        "monetization": [
+          "اشتراک ماهانه و سالانه بر اساس تعداد درخواست‌های API",
+          "ارائه پلن‌های سازمانی ویژه آژانس‌های بزرگ و سامانه‌های پرمصرف"
+        ],
+        "techStack": [
+          "TypeScript",
+          "Node.js",
+          "Next.js",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -15276,7 +15396,45 @@
           "user": "[REDACTED]",
           "text": "The approval workflow is probably the piece I'd care about most as AI publishing becomes more common. Curious how flexible those review steps are for teams."
         }
-      ]
+      ],
+      "faDescription": "آویرو یک پلتفرم انتشار مبتنی بر هوش مصنوعی برای مدیریت وب‌سایت‌ها، وبلاگ‌ها، خبرنامه‌ها و شبکه‌های اجتماعی است. شما می‌توانید تمام محتوا را مستقیماً از طریق رابط کاربری ایجاد و مدیریت کنید. همچنین امکان اتصال به ابزارهای محبوبی مانند ChatGPT، Claude و Cursor از طریق پروتکل MCP وجود دارد. این پلتفرم به توسعه‌دهندگان و خالقان محتوا اجازه می‌دهد تا فرآیند انتشار را به‌صورت یکپارچه و خودکار انجام دهند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به تیم Product Hunt — من لورانت، هم‌بنیان‌گذار آویرو هستم. در سال گذشته متوجه شدم که عامل‌های هوش مصنوعی (AI Agents) در تولید محتوا، کد و گرافیک بسیار توانمند شده‌اند، اما انتشار نتایج همچنان نیازمند یک مجموعه پراکنده از ابزارهای سازنده وب‌سایت، ابزارهای خبرنامه، زمان‌بندی‌کننده‌های شبکه اجتماعی و یکپارچه‌سازی‌های سفارشی بود. ما آویرو را به عنوان یک محیط انتشار برای هم انسان‌ها و هم عامل‌های هوش مصنوعی ساختیم. شما می‌توانید وب‌سایت‌ها، مقالات، تصاویر، خبرنامه‌ها و پست‌های اجتماعی را مستقیماً در آویرو ایجاد و مدیریت کنید. یا می‌توانید آن را از طریق MCP به ChatGPT، Claude یا Cursor متصل کنید و از همان ابزارهایی که در آن‌ها کار می‌کنید، محتوا را منتشر کنید. آویرو از ده‌ها انتشار خود ما پشتیبانی می‌کند و عامل‌ها از همان زیرساختی استفاده می‌کنند که برای هر خالق محتوایی در دسترس است. بسیار مشتاقم بازخورد شما را درباره فرآیند کار عامل‌ها بشنوم: به چه چیزهایی اعتماد می‌کنید که یک عامل هوش مصنوعی به‌صورت خودکار منتشر کند و در چه مواردی همیشه می‌خواهید تأیید انسانی داشته باشید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "داشتن یک ابزار واحد برای وب‌سایت + خبرنامه + شبکه اجتماعی هوشمندانه است 👏 آیا این ابزار زمان‌بندی (Scheduling) را هم مدیریت می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "فرآیند تأیید (Approval Workflow) احتمالاً مهم‌ترین بخش برای من است، به‌ویژه با رایج‌تر شدن انتشار توسط هوش مصنوعی. کنجکاو هستم بدانم چقدر این مراحل بازبینی برای تیم‌ها انعطاف‌پذیر هستند."
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nمسئله اصلی، پراکندگی ابزارهای انتشار محتوا (وب‌سایت، ایمیل، سوشال) و نیاز به یکپارچه‌سازی‌های پیچیده است. راه‌حل Aveiro یک محیط متمرکز است که هم برای انسان و هم برای عامل‌های هوش مصنوعی طراحی شده و از طریق پروتکل MCP با ابزارهای کدنویسی و چت‌بات‌ها ارتباط برقرار می‌کند.\n\n🔹 معماری و تکنولوژی:\nاستفاده از پروتکل MCP (Model Context Protocol) یک مزیت رقابتی کلیدی است که اجازه می‌دهد هوش مصنوعی مستقیماً با پلتفرم تعامل کند. معماری احتمالاً بر پایه Microservices یا Serverless برای مقیاس‌پذیری و مدیریت همزمان چندین نوع محتوا (تصویر، متن، کد) بنا شده است.\n\n🔹 مدل درآمدی:\nمدل SaaS استاندارد با اشتراک‌های ماهانه. احتمالاً سطح رایگان برای جذب کاربران و سطوح پولی برای تیم‌ها و سازمان‌ها با امکانات پیشرفته‌تر مانند زمان‌بندی، تحلیل داده و دسترسی‌های تیمی.\n\n🔹 نقاط قوت:\n- یکپارچه‌سازی کامل (All-in-one) که هزینه‌های سربار را کاهش می‌دهد.\n- پشتیبانی از عامل‌های هوش مصنوعی که آینده بازار محتوا است.\n- رابط کاربری ساده برای خالقان غیرفنی و API قوی برای توسعه‌دهندگان.\n\n🔹 نقاط ضعف:\n- پیچیدگی فنی در اتصال MCP برای کاربران عادی.\n- ریسک وابستگی به تغییرات سریع در اکوسیستم هوش مصنوعی.\n- نیاز به اعتمادسازی بالا برای انتشار خودکار محتوا.\n\n🔹 نکته طلایی برای ایران:\nبرای موفقیت در ایران، باید روی «خودکارسازی با نظارت انسانی» تمرکز کنید. ایرانیان به دلیل حساسیت‌های امنیتی و محتوایی، به گزینه‌هایی که در آن‌ها قبل از انتشار نهایی، یک مرحله بازبینی انسانی (Human-in-the-loop) وجود دارد، اعتماد بیشتری دارند. همچنین، یکپارچه‌سازی با پلتفرم‌های داخلی مانند روبیکا، ایتا و ایمیل‌های بومی می‌تواند مزیت رقابتی بزرگی باشد.",
+      "iranEquivalent": {
+        "productName": "نشریار",
+        "description": "نشریار یک پلتفرم جامع و بومی برای انتشار یکپارچه محتوا است که وب‌سایت، خبرنامه و شبکه‌های اجتماعی را در یک محیط مدیریت می‌کند. این پلتفرم با استفاده از پروتکل‌های استاندارد هوش مصنوعی، امکان اتصال مستقیم به مدل‌های زبانی بزرگ را فراهم می‌کند تا فرآیند تولید و انتشار محتوا به‌صورت خودکار انجام شود. هدف اصلی، حذف نیاز به چندین ابزار پراکنده و ایجاد یک خط لوله واحد برای خالقان محتوا و تیم‌های دیجیتال است.",
+        "marketOpportunity": "بازار ایران با رشد سریع تولید محتوای دیجیتال و نیاز به ابزارهای بومی که با زیرساخت‌های داخلی سازگار باشند، فرصت طلایی برای ورود این محصول را دارد. همچنین، هزینه بالای اشتراک ابزارهای خارجی و محدودیت‌های دسترسی، تقاضا را برای یک جایگزین ارزان‌تر و قابل دسترس‌تر افزایش می‌دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فریلنسر، استارتاپ‌های دیجیتال، تولیدکنندگان محتوای مستقل (کرییتورها) و تیم‌های بازاریابی دیجیتال که به دنبال خودکارسازی فرآیند انتشار هستند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای مدل‌های هوش مصنوعی خارجی و نیاز به یکپارچه‌سازی با مدل‌های بومی یا واسطه‌های داخلی.",
+          "اعتمادسازی کاربران نسبت به انتشار خودکار محتوا توسط هوش مصنوعی و نیاز به طراحی فرآیندهای تأیید انسانی قوی."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه با سطوح مختلف (رایگان، پرو، سازمانی) بر اساس تعداد انتشارات و امکانات.",
+          "فروش پکیج‌های سفارشی برای کسب‌وکارهای بزرگ که نیاز به یکپارچه‌سازی اختصاصی با سیستم‌های داخلی خود دارند."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Docker"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -17379,10 +17537,10 @@
   "audit": {
     "products": 247,
     "withRealComments": 247,
-    "withPersianComments": 74,
-    "withPersianDescription": 111,
-    "withAiReview": 94,
-    "withIranEquivalent": 111,
+    "withPersianComments": 78,
+    "withPersianDescription": 115,
+    "withAiReview": 98,
+    "withIranEquivalent": 115,
     "totalRealComments": 1522
   }
 }

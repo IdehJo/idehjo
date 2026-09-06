@@ -1,26 +1,18 @@
 {
-  "checkedAt": "2026-09-05T00:20:52.284Z",
-  "latestDataset": "2026-09-05.json",
+  "checkedAt": "2026-09-06T00:12:33.930Z",
+  "latestDataset": "2026-09-06.json",
   "batchLimit": 10,
   "attempted": 10,
   "succeeded": 4,
   "failed": 6,
-  "backlogBefore": 201,
-  "backlogAfter": 197,
-  "completedProducts": 49,
-  "missingFaDescription": 135,
-  "missingFaComments": 186,
-  "missingAiReview": 152,
-  "missingIranEquivalent": 135,
+  "backlogBefore": 198,
+  "backlogAfter": 194,
+  "completedProducts": 53,
+  "missingFaDescription": 132,
+  "missingFaComments": 183,
+  "missingAiReview": 149,
+  "missingIranEquivalent": 132,
   "failures": [
-    {
-      "slug": "brandfetch-mcp",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
-    },
-    {
-      "slug": "aveiro",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
-    },
     {
       "slug": "channels-sdk",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
@@ -30,11 +22,19 @@
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
     },
     {
-      "slug": "secondbrain-note-by-genspark",
+      "slug": "ai-group-call",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
     },
     {
-      "slug": "ai-group-call",
+      "slug": "gutta",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
+    },
+    {
+      "slug": "remix-5a1b2dc6-de33-440d-a47f-499834b93699",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
+    },
+    {
+      "slug": "vidaya-2",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 429 | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.goog"
     }
   ]
