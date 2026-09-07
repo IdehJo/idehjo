@@ -1,3 +1,17 @@
+# [1.73.0](https://github.com/IdehJo/idehjo/compare/v1.72.0...v1.73.0) (2026-09-07)
+
+
+### Features
+
+* add crawl and index quality control plane ([dd3b8a4](https://github.com/IdehJo/idehjo/commit/dd3b8a4b737f40a427fcc63c8f940f5ace128b85))
+
+# [1.72.0](https://github.com/IdehJo/idehjo/compare/v1.71.0...v1.72.0) (2026-09-07)
+
+
+### Features
+
+* wire topical authority graph into public discovery surfaces ([d04b470](https://github.com/IdehJo/idehjo/commit/d04b4704da8c877f56d30fdefdfb18943148f76f))
+
 # [1.71.0](https://github.com/IdehJo/idehjo/compare/v1.70.0...v1.71.0) (2026-09-03)
 
 
