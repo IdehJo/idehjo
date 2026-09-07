@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T22:14:48.143Z",
-  "sourceFiles": 28,
+  "generatedAt": "2026-09-07T00:20:13.520Z",
+  "sourceFiles": 29,
   "products": [
     {
       "id": "ph-year-1",
@@ -3240,21 +3240,45 @@
       "faComments": [
         {
           "user": "کاربر ProductHunt 1",
-          "text": "Hey Product Hunt! 👋 Three months ago, I quit my job to build Meridian. My co-founder and I kept running into the same problem many developers face: we would ask claude to write an update, then spend ten minutes reconstructing the context it had missed. It knew what we told it, but not the four unexpected problems we had solved along the way. That unplanned work is real, and bigger than most people think. I posted about it on Reddit: \"We software developers massively underestimate how much unplanned work we do every single sprint\" and it went viral, which told us we weren't the only ones feeling this. Meridian does the remembering for us. It runs quietly in the background, groups the day into a timeline, matches the work to open Jira and GitHub tickets, and drafts the update - so by the end of the day there's a work log, a standup note, and a daily summary ready to paste, not write. A few things I care about, as a developer myself: - We care deeply about privacy - nothing leaves your device until you hit approve. - Open source - you can audit exactly what it's doing. - Free for individual developers. No seat, no credit card. - Bring your own AI - runs on the Claude Code, Cursor, or Codex CLI you already have, or Groq for free if you don't. Try it Free download — Meridian for macOS (Apple Silicon, macOS 14+) or Meridian for Windows (Win 10/11, 64-bit). Everything else is at meridiona.com , and if you like what we're building, star us on GitHub ."
+          "text": "سلام به Product Hunt! 👋 سه ماه پیش شغلم را رها کردم تا میری‌دین را بسازم. من و هم‌بنیان‌گذارم بارها با مشکلی که بسیاری از توسعه‌دهندگان با آن روبرو می‌شوند مواجه می‌شدیم: از Claude می‌خواستیم به‌روزرسانی بنویسد، اما ده دقیقه وقت صرف بازسازی زمینه‌هایی می‌شد که آن را درک نکرده بود. آن می‌دانست چه چیزی به آن گفته شده، اما از چهار مشکل غیرمنتظره‌ای که در طول مسیر حل کرده بودیم بی‌خبر بود. این کارهای برنامه‌ریزی‌نشده واقعی هستند و بزرگ‌تر از آن چیزی است که اکثر افراد فکر می‌کنند. من درباره این موضوع در Reddit پستی گذاشتم: «ما توسعه‌دهندگان نرم‌افزار به طور چشمگیری مقدار کارهای برنامه‌ریزی‌نشده‌ای را که در هر اسپرینت انجام می‌دهیم دست‌کم می‌گیریم» و وایرال شد، که نشان داد تنها ما این حس را نداریم. میری‌دین به یادآوری برای ما می‌پردازد. آن به صورت آرام در پس‌زمینه اجرا می‌شود، روز را به یک خط زمانی تقسیم می‌کند، کارها را با تیکت‌های باز Jira و GitHub تطبیق می‌دهد و به‌روزرسانی را پیش‌نویس می‌کند - بنابراین در پایان روز یک لاگ کاری، یادداشت استندآپ و خلاصه روزانه آماده چسباندن (نه نوشتن) وجود دارد. چند چیزی که به عنوان یک توسعه‌دهنده برایشان اهمیت قائل هستم: - ما عمیقاً به حریم خصوصی اهمیت می‌دهیم - هیچ داده‌ای تا زمانی که دکمه تأیید را نزنید از دستگاه شما خارج نمی‌شود. - متن‌باز - می‌توانید دقیقاً بررسی کنید که چه کاری انجام می‌دهد. - رایگان برای توسعه‌دهندگان فردی. بدون صندلی (Seat) و بدون نیاز به کارت اعتباری. - هوش مصنوعی خودتان را بیاورید - روی Claude Code، Cursor یا Codex CLI که از قبل دارید اجرا می‌شود، یا اگر ندارید، از Groq به صورت رایگان استفاده کنید. امتحان کنید دانلود رایگان — میری‌دین برای macOS (Apple Silicon، macOS ۱۵+) یا میری‌دین برای Windows (Win ۱۰/۱۱، ۷۵-bit). همه چیز دیگر در meridiona.com است و اگر از چیزی که می‌سازیم خوشحال می‌شوید، در GitHub استار بدهید."
         },
         {
           "user": "کاربر ProductHunt 2",
-          "text": "i've been doing such notes manually so definitely will give Meridian a try!"
+          "text": "اوه، این واقعاً رویایی است! تا شب اصلاً به خاطر نمی‌آورم که کل روز چه کارهایی کرده‌ام، و این ابزار همه چیز را برایم می‌نویسد!"
         },
         {
           "user": "کاربر ProductHunt 3",
-          "text": "Congrats on the launch, guys! 🎊"
+          "text": "سلام @Meridian @adityaharish۳۰۰۳ یک سوال سریع درباره دسترسی به ریپازیتوری -- میری‌دین/میری‌دین تحت مجوز MIT و عمومی است، اما میری‌دین/screenpipe-fork خصوصی است و اختیاری نیست: این استک درون‌پروسه‌ای برای ثبت (صفحه نمایش + دسترسی‌پذیری + OCR) است، منبع داده‌ی تنها از زمان قطع اتصال Bucket-۳. بدون دسترسی به خواندن آن، هیچ‌کس نمی‌تواند واقعاً اپلیکیشن تری را از سورس بسازد -- حتی بیلد فقط دیمن نیز شکست می‌خورد، زیرا Cargo کل فایل قفل workspace را یکجا حل می‌کند. آیا این عمدی است (کد ثبت اختصاصی، حساس به PII، هنوز پیش از انتشار و غیره)، یا فقط یک فراموشی در دسترسی؟ اگر قرار است خصوصی بماند، شاید ارزش داشته باشد یک خط در CLAUDE.md یا README بگویید، چون در حال حاضر «کلون و بیلد» بدون توضیح در آنجا به بن‌بست می‌رسد. اگر یک فراموشی است، آیا می‌توانم اضافه شوم؟ من در GitHub به عنوان arush۴۷۱ هستم."
         },
         {
           "user": "کاربر ProductHunt 4",
-          "text": "Congrats on the launch! Capturing unplanned work and context switching is such a pain point when drafting end-of-day updates or standup notes. Love the local-first, BYO-AI approach. Looking forward to testing it out! 🚀"
+          "text": "لویی اینجا هستم، بنیان‌گذار @screenpipe 👋 جالب است ببینم Screenpipe زیر «ساخته شده با» لیست شده است. با مرور در ریپازیتوری، لایه ثبت میری‌دین از screenpipe-screen و screenpipe-a۱۱y فوروک شده برای ثبت صفحه نمایش، OCR و دسترسی‌پذیری استفاده می‌کند. یک مورد مهم اداری: پایه MIT Screenpipe نیاز به حفظ کپی‌رایت و اعلان مجوز دارد، و من آن اعلان را در بسته اپلیکیشن v۱.undefined۰ یا مواد انتشار پیدا نکردم. می‌توانید آن را اضافه کنید و تأیید کنید که فوروک خصوصی فقط پایه MIT پیش از مجوز تجاری و تغییرات خود شما را شامل می‌شود؟ تبریک بابت راه‌اندازی. خوشحال می‌شوم این موضوع را به صورت خصوصی حل کنیم."
         }
-      ]
+      ],
+      "faDescription": "میری‌دین یک ژورنال کاری مبتنی بر هوش مصنوعی است که به صورت کاملاً محلی و بدون نیاز به ابری روی دستگاه شما اجرا می‌شود. این ابزار به طور خودکار فعالیت‌های روزانه شما را به زبان ساده ثبت می‌کند تا در پایان روز، خلاصه‌ای کامل از کارهای انجام شده داشته باشید. میری‌دین به طور خودکار پیش‌نویس به‌روزرسانی‌های شما برای ابزارهای مدیریت پروژه مانند Jira را آماده می‌کند تا پس از تأیید شما منتشر شوند. با انجام کار، نگران به خاطر سپردن جزئیات نباشید؛ همه چیز به صورت خودکار ثبت می‌شود. این محصول تحت مجوز MIT رایگان و متن‌باز است و نیازی به حساب کاربری یا ابری ندارد.",
+      "aiReview": "🔹 مسئله و راه‌حل:\nمسئله اصلی، فراموشی جزئیات کارهای برنامه‌ریزی‌نشده و زمان‌بر بودن نوشتن گزارش‌های روزانه (Daily Standup) برای توسعه‌دهندگان است. میری‌دین با اجرای هوش مصنوعی به صورت محلی، این فرآیند را خودکار می‌کند و گزارش‌های آماده‌ی ارسال را تولید می‌کند.\n\n🔹 معماری و تکنولوژی:\nمعماری کاملاً Client-Side است. از فوروک‌های پروژه‌های متن‌باز مانند Screenpipe برای ثبت صفحه نمایش و OCR استفاده می‌کند. هوش مصنوعی از طریق CLIهای موجود (مانند Claude Code یا Cursor) یا سرویس‌های رایگان مانند Groq اجرا می‌شود. این رویکرد باعث می‌شود داده‌ها هرگز به سرور ارسال نشوند.\n\n🔹 مدل درآمدی:\nدر حال حاضر مدل رایگان (Open Source) برای افراد است. مدل درآمدی احتمالی آینده شامل نسخه سازمانی (Enterprise) با امکانات مدیریت، یا مدل Freemium برای تیم‌ها خواهد بود.\n\n🔹 نقاط قوت:\n- حریم خصوصی کامل (On-device AI).\n- متن‌باز و شفاف (MIT License).\n- عدم نیاز به حساب کاربری یا ابر.\n- یکپارچگی با ابزارهای محبوب مانند Jira و GitHub.\n\n🔹 نقاط ضعف:\n- وابستگی به سخت‌افزار قوی برای اجرای مدل‌های هوش مصنوعی محلی.\n- پیچیدگی در بیلد از سورس به دلیل دسترسی خصوصی به برخی ماژول‌ها (مانند فوروک Screenpipe).\n- نیاز به تنظیمات اولیه برای اتصال به ابزارهای مدیریت پروژه.\n\n🔹 نکته طلایی برای ایران:\nبا توجه به محدودیت‌های دسترسی به سرویس‌های ابری خارجی و نگرانی‌های امنیتی، ارائه یک نسخه کاملاً آفلاین با پشتیبانی از مدل‌های هوش مصنوعی سبک‌تر (مانند Llama ۴ یا Qwen) که روی سخت‌افزارهای متوسط ایرانی قابل اجرا باشند، می‌تواند مزیت رقابتی بزرگی ایجاد کند. همچنین، یکپارچگی با ابزارهای مدیریت پروژه داخلی یا رایج در ایران (مانند Trello یا ابزارهای بومی) می‌تواند پذیرش محصول را افزایش دهد.",
+      "iranEquivalent": {
+        "productName": "دفترکار هوشمند",
+        "description": "یک ابزار محلی و متن‌باز که با استفاده از هوش مصنوعی، فعالیت‌های روزانه توسعه‌دهندگان را به صورت خودکار ثبت و خلاصه می‌کند. این ابزار به طور هوشمند کارهای انجام شده را با تیکت‌های مدیریت پروژه تطبیق داده و پیش‌نویس گزارش‌های روزانه را آماده می‌کند. تمرکز اصلی بر حفظ حریم خصوصی است و هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود.",
+        "marketOpportunity": "بازار ایران با وجود ضعف در ابزارهای مدیریت پروژه استاندارد، نیاز شدیدی به اتوماسیون گزارش‌دهی و مستندسازی کار دارد. توسعه‌دهندگان ایرانی که با ابزارهای غربی کار می‌کنند، به دنبال راه‌حل‌های محلی و بدون وابستگی به ابر هستند که هزینه‌های اضافی ایجاد نکنند.",
+        "estimatedBudget": "۶۰۰ تا ۱ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های استارتاپی کوچک و متوسط، و فریلنسرهایی که نیاز به مستندسازی دقیق کارهای خود برای مشتری یا مدیر دارند.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری در اجرای مدل‌های هوش مصنوعی سنگین روی دستگاه‌های شخصی کاربران ایرانی.",
+          "چالش‌های حقوقی و فنی در استفاده از فوروک‌های پروژه‌های خارجی و رعایت مجوزهای متن‌باز."
+        ],
+        "monetization": [
+          "مدل رایگان برای کاربران فردی و نسخه پولی برای تیم‌ها با امکانات مدیریت مرکزی.",
+          "ارائه خدمات پشتیبانی و استقرار سازمانی برای شرکت‌های بزرگ."
+        ],
+        "techStack": [
+          "Electron",
+          "Rust",
+          "Local LLM (Ollama)",
+          "SQLite"
+        ],
+        "confidence": 65
+      }
     },
     {
       "id": "ph-month-7",
@@ -3363,7 +3387,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Founding engineer @ x1",
       "featuredAt": "2026-08-26T07:01:00Z",
-      "votes": 518,
+      "votes": 519,
       "websiteUrl": "https://www.producthunt.com/r/HRIWQ6DBNJOZ7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -3943,7 +3967,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "General Manager",
       "featuredAt": "2026-08-24T07:01:00Z",
-      "votes": 468,
+      "votes": 470,
       "websiteUrl": "https://www.producthunt.com/r/VBME2QKKZVBULI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -5628,7 +5652,51 @@
           "text": "Can a session started with one harness be continued with another, or does switching only happen between tasks?"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "هارنس‌راوتر نسخه جامعه (HarnessRouter Community Edition) یک رابط یکپارچه و متن‌باز برای چارچوب‌های ایجنت هوش مصنوعی است که تحت لایسنس Apache ۳.۰ منتشر شده است. این ابزار به شما اجازه می‌دهد تا ایجنت‌های مدیریت‌شده مانند Codex، Claude Code و Hermes را تنها از طریق یک API واحد روی زیرساخت اختصاصی خود به کار بگیرید. با استفاده از این محصول می‌توانید بدون نیاز به بازنویسی بخش بک‌اند، چارچوب‌های مختلف را جابه‌جا و تعویض کنید. تمامی فرآیندهای پیچیده نظیر مدیریت نشست‌ها، استریم داده‌ها، فایل‌ها، آرتیفکت‌ها، لغو عملیات و بازیابی از خطا به صورت خودکار مدیریت می‌شوند. کلیدهای API، داده‌های وضعیت و تحویل پروژه‌ها تماماً تحت کنترل خود شما در یک کانتینر داکر شامل گیت‌وی، رانر و کنسول قرار دارند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام همراهان پروداکت هانت 👋 امروز HarnessRouter Community Edition را معرفی می‌کنیم. ما را مثل OpenRouter تصور کنید، اما به جای مدل‌ها، برای چارچوب‌های ایجنت (Agent Harnesses) طراحی شده‌ایم. ما این ابزار را ساختیم چون در گذشته مجبور بودیم هر بار برای راه‌اندازی یک برنامه هوش مصنوعی، بک‌اند مشابهی را از نو بسازیم. پیش‌تر چارچوب اختصاصی خود را با LangGraph، SDKهای ایجنت و pydantic می‌ساختیم، اما متوجه شدیم عملکرد ابزار خودساخته ما توان رقابت با Codex، Claude Code و Hermes را ندارد. وقتی زیرساخت خود را تغییر دادیم تا از چارچوب‌های آماده استفاده کنیم، زمان ارائه ویژگی‌های جدید از چند هفته به چند ساعت کاهش یافت و کیفیت ایجنت‌ها فوق‌العاده بهتر شد. قصد داریم همین طرز فکر را در جامعه توسعه‌دهندگان تروج دهیم. این نسخه امکاناتی مانند Codex، Claude Code و Hermes را پشت یک API واحد قرار می‌دهد: مدیریت نشست‌ها، استریم، فایل‌ها، آرتیفکت‌ها، لغو و تمام مدیریت خطاهایی که هیچ‌کس از نوشتن آن‌ها لذت نمی‌برد. فقط کافیست داکر کانتینر را اجرا کنید. اطلاعات اعتبار، وضعیت و فایل‌های شما هرگز از زیرساخت شما خارج نمی‌شوند. علاوه بر خود محصول، ما پروتکل یکپارچه هارنس (Unified Harness Protocol) را منتشر کرده‌ایم که نحوه ارتباط برنامه با چارچوب ایجنت را استاندارد می‌کند. این پروتکل مواردی مانند انتخاب و پیکربندی، اجرای وظایف، رویدادهای استریم، نشست‌ها، مدیریت فایل و خطا را پوشش می‌دهد. یک نکته دیگر: ایجنت‌ها فراتر از کدنویسی عمل می‌کنند؛ بنابراین برنامه‌های استارتر متن‌بازی برای برنامه‌ریزی PPT، ساخت صفحات گسترده، داشبوردهای BI و ویرایش ویدیو آماده کرده‌ایم. خوشحال می‌شویم بدانیم چه چارچوب بعدی را پشتیبانی کنیم و نشت انتزاعی را در کجا تجربه کرده‌اید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "انتشار فوق‌العاده‌ای بود. تبریک به همه شما."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "به نظر شما در اجرای جریان‌های کاری پیچیده و غیر کدنویسی ایجنت‌ها (مثل ساخت BI یا اکسل)، شکست انتزاع (Abstraction Leak) بیشتر در چه بخش‌هایی رخ می‌دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "واقعاً از اینکه این محصول را به صورت علنی می‌سازید و زیرساختش را در اختیار همگان قرار می‌دهید خوشم آمد. یک متن‌باز واقعی و عالی؛ خسته نباشید!"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nتوسعه‌دهندگان هنگام ساخت محصولات مبتنی بر هوش مصنوعی، وقت زیادی را صرف دوباره‌سازی زیرساخت‌های بک‌اند (مدیریت نشست، استریم داده، مدیریت خطا و فایل‌ها) می‌کنند. HarnessRouter با ارائه یک لایه انتزاعی و API یکپارچه، امکان اتصال به ایجنت‌های قدرتمند مختلف (مانند Claude Code و Codex) را بدون تغییر بک‌اند فراهم کرده و زمان توسعه را از چند هفته به چند ساعت کاهش می‌دهد.\n\n🔹 معماری و تکنولوژی:\nمحصول تمام بخش‌های Gateway، Runner و Console را در قالب یک داکر کانتینر ارائه می‌دهد که کاملاً روی زیرساخت اختصاصی کاربر (Self-Hosted) قابل اجراست. همچنین تعریف «پروتکل یکپارچه هارنس (UHP)» یک گام استانداردسازی استاندارد برای یکپارچه‌سازی ایجنت‌ها محسوب می‌شود.\n\n🔹 مدل درآمدی:\nاین پروژه فعلاً تحت لایسنس Apache ۳.۰ به صورت متن‌باز (Community Edition) عرضه شده است. مدل‌های درآمدی آتی شامل فروش لایسنس سازمانی برای امکانات پیشرفته امنیتی، ارائه نسخه ابری مدیریت‌شده (Managed SaaS) و خدمات پشتیبانی اختصاصی خواهد بود.\n\n🔹 نقاط قوت:\n- حفظ کامل امنیت داده‌ها و کلیدهای API روی زیرساخت مشتری.\n- کاهش فوق‌العاده زمان توسعه و ارائه ویژگی‌های جدید ایجنت محور.\n- استانداردسازی ارتباط با ایجنت‌ها از طریق پروتکل UHP.\n- ارائه قالب‌های آماده (Starter Kits) برای سناریوهای کاربردی مختلف مانند BI و ویدیو.\n\n🔹 نقاط ضعف:\n- وابستگی شدید عملکرد سیستم به پایداری API مدل‌ها و ایجنت‌های اصلی پایه.\n- احتمال بروز چالش نشت انتزاع (Abstraction Leak) در سناریوهای بسیار پیچیده غیر کدنویسی.\n\n🔹 نکته طلایی برای ایران:\nدر ایران به دلیل حساسیت‌های امنیتی سازمان‌ها و عدم امکان ارسال داده‌ها به ابرهای خارجی، بومی‌سازی این ابزار و اتصال آن به پروژه‌ها یا سرویس‌های واسط داخلی می‌تواند کل زیرساخت ایجنت‌های هوش مصنوعی کشور را یکپارچه کند.",
+      "iranEquivalent": {
+        "productName": "ایجنت‌راوتر ایرانیان (AgentRouter)",
+        "description": "یک پلتفرم زیرساختی بومی و یکپارچه برای مدیریت و فراخوانی ایجنت‌های هوش مصنوعی مختلف است. این ابزار به شرکت‌های ایرانی اجازه می‌دهد بدون درگیر شدن با پیچیدگی‌های اتصال به مدل‌ها و ایجنت‌های متکثر، با یک API واحد از آن‌ها بهره ببرند. تمامی داده‌ها، کلیدها و جریان‌های کاری در دیتاسنترهای داخلی باقی مانده و امنیت داده‌ها کاملاً حفظ می‌شود.",
+        "marketOpportunity": "با افزایش تب استفاده از ایجنت‌های هوش مصنوعی در برنامه‌های فارسی و چالش‌های مربوط به حریم خصوصی، نیاز به یک لایه انتزاعی زیرساختی شدیداً احساس می‌شود. ارائه یک راهکار متن‌باز بومی می‌تواند سهم بازار قابل توجهی از شرکت‌های نرم‌افزاری و سازمان‌های بزرگ داخلی را جذب کند.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، شرکت‌های فناوری، استارتاپ‌های هوش مصنوعی و سازمان‌های دارای الزامات امنیتی و داده‌ای سخت‌گیرانه",
+        "challenges": [
+          "محدودیت و تحریم‌ها در دسترسی مستقیم و پایدار به APIهای پیشرفته بین‌المللی مانند Claude",
+          "چالش‌های مربوط به زیرساخت‌های پردازشی و میزبانی در دیتاسنترهای داخلی"
+        ],
+        "monetization": [
+          "ارائه نسخه سازمانی (Enterprise) همراه با پشتیبانی اختصاصی و SLA تضمین‌شده",
+          "ارائه خدمات سفارشی‌سازی و استقرار ایجنت‌های هوش مصنوعی برای سازمان‌ها"
+        ],
+        "techStack": [
+          "Docker",
+          "Node.js",
+          "Go",
+          "Python",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-week-4",
@@ -6078,7 +6146,53 @@
           "text": "The “stop babysitting your agents” part got me 😅 I’ve had way too many workflows that work perfectly until I close my laptop or something quietly breaks overnight. Really like the idea of taking care of the deployment and the messy debugging afterward. Congrats on the launch!"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "امنی (Omni) همان مهندس هوش مصنوعی است که ایجنت‌های شما را از لپ‌تاپ به محیط ابری منتقل می‌کند. امروزه بهترین گردش‌کارهای هوش مصنوعی شما همچنان روی سیستم محلی‌تان در کلود یا نرم‌افزارها اجرا می‌شوند؛ کارهایی که با بستن درب لپ‌تاپ متوقف شده و فقط برای خود شما کار می‌کنند. شما کافی است آنچه را می‌خواهید توصیف کنید یا ساخته فعلی خود را بیاورید، تا امنی ابزارها و مهارت‌ها را متصل کند، روی داده‌های آزمایشی تست بگیرد و یک ایجنت ابری در حال اجرا، زمان‌بندی‌شده و قابل اشتراک‌گذاری با تیم به شما تحویل دهد. همچنین امنی سلامت ایجنت‌ها را حفظ می‌کند؛ پرامپت‌های سیستم را بهبود می‌بخشد، مدل‌ها را مقایسه می‌کند و اجراهای ناموفق را عیب‌یابی و رفع می‌نماید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "این نظر کاملاً توسط یک انسان واقعی نوشته شده است. بله واقعاً! سلام هانترها، من ران هستم، هم‌بنیان‌گذار xpander.ai. اگر تا به حال ساعت ۳ نیمه‌شب مشغول عیب‌یابی OpenClaw یا Hermes بوده‌اید، به توکن‌های هدر رفته روی Claude code برای کارهای ناموفق نگاه کرده‌اید یا در یک حلقه ۱۰۰ پرامپتی برای رسیدن به نتیجه گیر افتاده‌اید - این محصول برای شماست. ما Omni را ساختیم تا به جای ور رفتن با هوش مصنوعی، شروع به استفاده از آن کنید. Omni هم‌تیمی ایجنتی شماست؛ شما درخواست می‌کنید و مانند یک ایجنت عمومی بسیار کاربردی اجرا می‌کند. سپس می‌تواند ایجنت‌های اختصاصی شما را برای فرآیندهای کاری بسازد - اتصالات و مهارت‌ها را تنظیم کرده، پرامپت سیستم و زمان‌بندی‌ها را آماده می‌کند و پس از تست، آن را تحویل می‌دهد. پس از آن، کارهایی را انجام می‌دهد که پیش از این وقت شما را می‌گرفت: خواندن لاگ‌ها، عیب‌یابی اجراهای ناموفق، بهینه‌سازی عملکرد و بنچمارک مدل‌ها از نظر هزینه و کیفیت برای انتخاب گزینه مناسب. نگهداری و مراقبت حالا وظیفه Omni است، نه شما. درخواست‌های واقعی کاربران اولیه: «این ایجنت را روی آخرین مدل‌های Sonnet، GPT و Qwen بنچمارک کن و بگو کدام با کیفیت یکسان ارزان‌تر است»، «مراقب فاکتور ابری ما باش و هنگام جهش قیمت علت را در اسلک بفرست»، «هر روز صبح ثبت‌نامی‌های دیروز را دریافت، غنی‌سازی و موارد جذاب را در کانال قرار بده»، «اجرای دیشب ناموفق بود، علت را پیدا و رفع کن». Omni برای استفاده تیمی طراحی شده و روی زیرساخت سازمانی xpander بنا شده است که امنیت بالا، پشتیبانی از ۳۰۰۰ ابزار و MCP، اجرای ایزوله و قابلیت استقرار در VPC یا ان‌پرامیس را ارائه می‌دهد. می‌توانید همین حالا رایگان در chat.xpander.ai شروع کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "به نظر می‌رسد این همان لایه مفقودشده بین «ما باید برای این کار یک ایجنت بسازیم» و داشتن یک ایجنت واقعیِ در حال اجرا در محیط پروداکشن است. بسیار کنجکاوم ببینم Omni چگونه اشکال‌زدایی و بهبود ایجنت‌ها را پس از عملیاتی شدن مدیریت می‌کند. تبریک برای انتشار!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای انتشار! انتقال ایجنت‌ها از تنظیمات محلی به محیط‌های ابری همراه با تست خودکار روی داده‌های آزمایشی، یک گلوی بطری بزرگ را حل می‌کند. قابلیت‌های محیط اجرای اختصاصی و بنچمارک مدل‌ها بسیار چشمگیر به نظر می‌رسند. با آرزوی موفقیت! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "واقعاً از اینکه چگونه بخش زیادی از تنظیمات خسته‌کننده مربوط به اجرای ایجنت‌ها در ابر را حذف می‌کند خوشم آمد. بخش عیب‌یابی خودکار به‌ویژه جالب است — حسی شبیه به چیزی دارد که می‌تواند زمان زیادی را صرفه‌جویی کند. کنجکاوم ببینم در عمل چگونه کار می‌کند!"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nبسیاری از توسعه‌دهندگان ایجنت‌های هوش مصنوعی، ابزارهای خود را روی سیستم‌های محلی اجرا می‌کنند که با بستن لپ‌تاپ متوقف می‌شوند. علاوه بر این، اشکال‌زدایی، مدیریت توکن‌ها و نگهداری مداوم وقت زیادی می‌گیرد. Omni با انتقال ایجنت‌ها به ابر، تست خودکار روی داده‌های آزمایشی، زمان‌بندی اجرا و عیب‌یابی خودکار لاگ‌ها، نقش یک مهندس DevOps هوش مصنوعی را ایفا می‌کند.\n\n🔹 معماری و تکنولوژی:\nاین محصول بر پایه زیرساخت سازمانی xpander توسعه یافته است. از پادهای ایزوله Sandbox برای امنیت اجرا، تزریق امن کلیدها (Secrets)، پشتیبانی از پروتکل MCP و اتصال به بیش از ۳۰۰۰ ابزار استفاده می‌کند. همچنین قابلیت استقرار در شبکه‌های خصوصی (VPC) و سرورهای مجزا را دارد.\n\n🔹 مدل درآمدی:\nمدل فری‌میوم (Freemium) برای شروع رایگان کاربران خرد، اشتراک ماهانه مبتنی بر میزان مصرف منابع ابری برای تیم‌ها، و ارائه پلن‌های سفارشی سازمانی جهت استقرار امن در زیرساخت‌های بزرگ.\n\n🔹 نقاط قوت:\n- رفع مشکل بزرگ توقف ایجنت‌های محلی و تبدیل آن‌ها به سرویس‌های ابری ۳۵/۸.\n- عیب‌یابی خودکار اجراهای ناموفق و بهبود پرامپت‌های سیستم.\n- قابلیت مقایسه مدل‌های مختلف (مانند Claude، GPT و Qwen) از نظر هزینه و کیفیت.\n\n🔹 نقاط ضعف:\n- وابستگی شدید به پایداری سرویس‌دهندگان اصلی مدل‌های هوش مصنوعی.\n- پیچیدگی مفاهیم برای توسعه‌دهندگان تازه‌کار و نیاز به آشنایی اولیه با ساختار ایجنت‌ها.\n\n🔹 نکته طلایی برای ایران:\nدر ایران، به دلیل نوسانات اینترنت و قطعی‌های مداوم، اجرا ماندن ایجنت‌ها روی سیستم محلی تقریباً غیرممکن است. راه‌اندازی نمونه بومی روی ابرهای داخلی با مدیریت هوشمند سوئیچ بین APIهای خارجی و مدل‌های متن‌باز، حل‌کننده یک چالش واقعی برای شرکت‌های نرم‌افزاری ایرانی خواهد بود.",
+      "iranEquivalent": {
+        "productName": "ابرایجنت (AbrAgent)",
+        "description": "ابرایجنت پلتفرم بومی انتقال و مدیریت ایجنت‌های هوش مصنوعی از محیط‌های توسعه محلی به زیرساخت‌های ابری است. این سامانه با خودکارسازی فرایند تست، اشکال‌زدایی لاگ‌ها و زمان‌بندی اجرا، عملیات نگهداری ایجنت‌ها را ساده می‌کند. همچنین امکان بنچمارک و انتخاب بهینه‌ترین مدل‌ها از نظر هزینه و سرعت را برای تیم‌های ایرانی فراهم می‌سازد.",
+        "marketOpportunity": "با افزایش تمایل شرکت‌های ایرانی به استفاده از ایجنت‌های هوش مصنوعی، نیاز مبرمی به ابزارهای مدیریت عملیات هوش مصنوعی (LLMOps) وجود دارد. انتقال ایجنت‌ها به ابرهای داخلی ضمن حل چالش قطع شدن کارهای محلی، مشکل امنیت داده‌ها و قطعی اینترنت را پوشش می‌دهد.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، برنامه‌نویسان ارشد، تیم‌های فنی استارتاپ‌ها و شرکت‌های نرم‌افزاری",
+        "challenges": [
+          "محدودیت دسترسی پایدار به APIهای بین‌المللی و نیاز به زیرساخت مدیریت پروکسی هوشمند",
+          "تامین زیرساخت پردازشی ابری پایدار و اقتصادی برای اجرای مداوم ایجنت‌ها"
+        ],
+        "monetization": [
+          "حق اشتراک ماهانه بر اساس تعداد ایجنت‌های فعال و میزان منابع پردازشی",
+          "کارمزد استفاده از ابزارها و فراخوانی APIها (Pay-as-you-go)",
+          "فروش لایسنس سازمانی برای استقرار روی سرورهای اختصاصی (On-Premise)"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "Redis",
+          "React"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-week-7",
@@ -6370,7 +6484,51 @@
           "text": "The simplicity here is what caught my attention. Products that remove friction from an everyday workflow can end up being surprisingly valuable. Excited to see where Clears goes next!"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "کلیرز یک پلتفرم اجرای مبتنی بر ایجنت‌های هوشمند برای تحویل خودمختار نرم‌افزار است. این محصول به سازمان‌های تحقیق و توسعه کمک می‌کند تا از ابزارهای فردی کدنویسی با هوش مصنوعی فراتر بروند. با استفاده از کلیرز، فرآیند تحویل نرم‌افزار به صورت خودکار و عامل‌محور در تمام چرخه حیات توسعه نرم‌افزار (SDLC) مدیریت می‌شود. این سیستم هماهنگی کامل بین مراحل توسعه، تست و استقرار را برقرار می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "تبریک به تیم شما بابت این عرضه!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "واقعاً از فکرمحوری روی کل فرآیند تحویل به جای فقط بخش کدنویسی خوشم آمد. تبریک بابت عرضه!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "نگاه کردن به تحویل نرم‌افزار و نه فقط کدنویسی، چارچوب کاملاً درستی است 🚀 تبریک بابت رتبه ۴! اولین خریدار چه کسی است، مدیران ارشد فنی؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "عرضه جالبی است! آن لحظه کشف اولیه (Aha moment) چه بود که باعث شد تصمیم بگیرید این مسئله ارزش ساخت یک محصول اختصاصی را دارد؟ مشتاقم داستان پشت کلیرز را بشنوم."
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nاکثر ابزارهای موجود هوش مصنوعی مانند دستیارهای کدنویسی، صرفاً بر روی انکودینگ فردی تمرکز دارند و فرآیندهای تست، بررسی و استقرار را نادیده می‌گیرند. کلیرز با ارائه یک سیستم عامل‌محور (Agentic)، تمام فرآیند تحویل نرم‌افزار (SDLC) را پوشش داده و چرخه توسعه را به صورت خودمختار تسریع می‌کند.\n\n🔹 معماری و تکنولوژی:\nمعماری سیستم بر پایه ایجنت‌های هوشمند چندگانه (Multi-Agent Systems) طراحی شده است. این ایجنت‌ها با اتصال به مخازن کد و ابزارهای CI/CD، نقش‌های مختلفی مانند تست‌کننده، بازبین کد و مدیریت‌کننده دیپلوی را ایفا می‌کنند.\n\n🔹 مدل درآمدی:\nمدل درآمدی اصلی این محصول به صورت B۳B SaaS با پلن‌های متغیر بر اساس تعداد پروژه‌ها، میزان استفاده از ایجنت‌ها و سطح دسترسی‌های سازمانی تعریف شده است.\n\n🔹 نقاط قوت:\n- حل مسئله واقعی در سطح کل سازمان، نه فقط در سطح ابزار فردی.\n- کاهش شدید هزینه‌ها و زمان در چرخه SDLC.\n- تمرکز بر مفهوم نوظهور Agentic Software Engineering.\n\n🔹 نقاط ضعف:\n- نیاز به سطح دسترسی بالا به سورس‌کد و زیرساخت‌ها که چالش‌های امنیتی ایجاد می‌کند.\n- وابستگی شدید به دقت مدل‌های زبان بزرگ (LLM) در پروژه‌های پیچیده.\n\n🔹 نکته طلایی برای ایران:\nدر شرایط فعلی بازار ایران که مهاجرت نیروهای متخصص ارشد چالش‌برانگیز شده است، این ابزار می‌تواند به‌عنوان یک دستیار ارشد فنی، بار کاری تیم‌های DevOps و توسعه‌دهندگان ارشد را به شدت کاهش دهد.",
+      "iranEquivalent": {
+        "productName": "دیپلوی‌یار (DeployYar)",
+        "description": "این محصول یک پلتفرم بومی برای اتوماسیون عامل‌محور چرخه حیات توسعه نرم‌افزار است. سیستم به‌جای انحصار در تولید کد، تمام مراحل تحویل نرم‌افزار از تست تا استقرار را به صورت هوشمند مدیریت می‌کند. این ابزار بستر مناسبی را برای ارتقای سرعت و کیفیت توسعه در شرکت‌های نرم‌افزاری ایرانی فراهم می‌سازد.",
+        "marketOpportunity": "با توجه به کمبود نیروی متخصص ارشد فنی و DevOps در ایران، تقاضا برای پلتفرم‌های خودکارسازی تحویل نرم‌افزار بسیار بالا است. بومی‌سازی این ابزار با پشتیبانی از زیرساخت‌های داخلی می‌تواند سهم بازار قابل توجهی را از شرکت‌های بزرگ و بانکی جذب کند.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "مدیران ارشد فناوری (CTO)، رهبران تیم‌های نرم‌افزاری، مهندسان DevOps و شرکت‌های بزرگ فناوری",
+        "challenges": [
+          "دشواری جلب اعتماد مدیران فنی ایرانی به ایجنت‌های خودکار در کدهای حساس",
+          "پیچیدگی یکپارچه‌سازی با زیرساخت‌های قدیمی و خصوصی (On-Premise)"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه/سالانه بر اساس تعداد پروژه یا ایجنت فعال",
+          "ارائه نسخه‌های سازمانی با لایسنس اختصاصی و پشتیبانی ویژه"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "PostgreSQL",
+          "LangChain",
+          "Docker",
+          "Kubernetes"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-week-10",
@@ -6802,7 +6960,7 @@
       "makerTwitter": ""
     },
     {
-      "id": "ph-yesterday-1",
+      "id": "ph-today-1",
       "date": "2026-09-05",
       "rank": 1,
       "name": "dif.sh",
@@ -7559,6 +7717,67 @@
       ]
     },
     {
+      "id": "ph-yesterday-1",
+      "date": "2026-09-06",
+      "rank": 1,
+      "name": "AI Toolbox 3.0",
+      "slug": "ai-toolbox-3-0",
+      "tagline": "Search, organize and export every AI chat in one place",
+      "description": "AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.",
+      "category": "Chrome Extensions • Productivity • Artificial Intelligence • YouTube",
+      "categoryFa": "افزونه کروم • بهره‌وری • هوش مصنوعی • YouTube",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format",
+        "https://ph-files.imgix.net/36f0bd2e-1cc0-42a7-b291-485ef89d6ebd.png?auto=format",
+        "https://ph-files.imgix.net/7057b0b6-f4e9-4f10-b58d-41ea482739a5.png?auto=format",
+        "https://ph-files.imgix.net/c95d3cd2-a9bc-4fde-b1ca-6630ec767318.png?auto=format",
+        "https://ph-files.imgix.net/8a427016-37b1-4333-868c-1fedb7e5eac5.png?auto=format",
+        "https://ph-files.imgix.net/dbe14e6e-6fa2-428f-95bf-ee84c7c01602.png?auto=format",
+        "https://ph-files.imgix.net/e100540e-7fea-4319-896b-c425422e19e0.jpeg?auto=format"
+      ],
+      "maker": "Adi Leviim",
+      "makerTitle": "AI Toolbox co-founder · $32 to 40k users",
+      "featuredAt": "2026-09-06T07:01:00Z",
+      "votes": 323,
+      "websiteUrl": "https://www.producthunt.com/r/FBV7SHB3HECJ55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 I'm Adi, one of the two founders of AI Toolbox (bootstrapped, no funding, still just the two of us). Why we built it: Two years ago I started this with $32: a cheap VM and the Chrome developer fee. I lived inside ChatGPT all day and kept losing my own work: chats I could not find again, prompts re-typed for the hundredth time, no way to export anything. The platforms kept not shipping the basics. So we built the layer they were missing, and then users kept asking us to bring it everywhere else. This is actually our third Product Hunt launch, and a lot is new since the last one: 🚀 Grok support: AI Toolbox now runs on ChatGPT, Claude, Gemini AND Grok with one install 🔍 Cross-platform search: one query searches your entire history on all four AIs at once 📁 Folders and subfolders, right in the sidebar, with one-click folder export 📚 Prompt library: type // to insert a saved prompt anywhere, chain prompts into multi-step workflows 📤 Bulk export to Markdown (with YAML frontmatter), PDF, JSON, or ZIP a whole folder 🗄️ Artifact Vault on Claude: every artifact and created file, browsable and downloadable in one place 📊 A live context meter so long chats never cut you off mid-thought, with one-click handoff to a fresh chat What we believe: your AI conversations are your work. They should be organized, searchable, exportable, and yours, no matter which assistant you use this month. Where we are today: 40,000+ users in 150+ countries, 4.5 stars on the Chrome Web Store, 5-figure MRR, two people, $45/month of infrastructure. Almost every feature came from a user request; the support inbox is our roadmap. Privacy: local-first by design. Search and export run entirely in your browser, and your conversations are never sent to our servers. 🎥 Tutorials: https://www.youtube.com/playlist... 🎁 For the PH community: All Access Lifetime (all four AIs, forever) $199 -> $99 with code PRODUCTHUNT50 at https://ai-toolbox.co/pricing We'd love your feedback on: - which feature you'd use first - what the AI platforms still refuse to build that we should ship next - anything that feels confusing in your first five minutes I'll be here all day answering everything. Thanks for checking us out! 🙏 - Adi, co-founder of AI Toolbox"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been using the tool with Claude for about a month. The export chat to JSON has been very helpful for reviewing outstanding issues in long-running chats. Search is sometimes flaky -- doesn't find known values in chats. Context meter is a \"guess\" at best. Overall highly recommend."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really useful idea Ive often struggled to find old AI conversations across different tools The search and folder system makes this much easier to manage and reuse past work"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Such an amazing product!Thanks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is crazy useful!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Honestly this seems like one of those tools you don’t know you needd until you find yourself juggling multiple AI tools everyday . I was really impressed by the folders and the ability to search across different AI platforms. Keeping every thing organized in one spot instead of sifting through old chats sounds like a massivee time saver. Plus the local first approach is a great feature! Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I have been using it ، it’s such a helpful product , good job"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love it that you can search across all my ai tools. I use Claude, Gemini and Chatgpt. This tools let me search across all three. And I can even continue my chat in another platform. For example I start a chat in Claude. Then I want to continue it in Chatgpt. Then I press just one button and it summarizes my chat and carries is into a new chat in Chatgpt. Lovely."
+        }
+      ]
+    },
+    {
       "id": "ph-week-10",
       "date": "2026-08-13",
       "rank": 10,
@@ -7956,67 +8175,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-06",
-      "rank": 1,
-      "name": "AI Toolbox 3.0",
-      "slug": "ai-toolbox-3-0",
-      "tagline": "Search, organize and export every AI chat in one place",
-      "description": "AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.",
-      "category": "Chrome Extensions • Productivity • Artificial Intelligence • YouTube",
-      "categoryFa": "افزونه کروم • بهره‌وری • هوش مصنوعی • YouTube",
-      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format",
-        "https://ph-files.imgix.net/36f0bd2e-1cc0-42a7-b291-485ef89d6ebd.png?auto=format",
-        "https://ph-files.imgix.net/7057b0b6-f4e9-4f10-b58d-41ea482739a5.png?auto=format",
-        "https://ph-files.imgix.net/c95d3cd2-a9bc-4fde-b1ca-6630ec767318.png?auto=format",
-        "https://ph-files.imgix.net/8a427016-37b1-4333-868c-1fedb7e5eac5.png?auto=format",
-        "https://ph-files.imgix.net/dbe14e6e-6fa2-428f-95bf-ee84c7c01602.png?auto=format",
-        "https://ph-files.imgix.net/e100540e-7fea-4319-896b-c425422e19e0.jpeg?auto=format"
-      ],
-      "maker": "Adi Leviim",
-      "makerTitle": "AI Toolbox co-founder · $32 to 40k users",
-      "featuredAt": "2026-09-06T07:01:00Z",
-      "votes": 315,
-      "websiteUrl": "https://www.producthunt.com/r/FBV7SHB3HECJ55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 I'm Adi, one of the two founders of AI Toolbox (bootstrapped, no funding, still just the two of us). Why we built it: Two years ago I started this with $32: a cheap VM and the Chrome developer fee. I lived inside ChatGPT all day and kept losing my own work: chats I could not find again, prompts re-typed for the hundredth time, no way to export anything. The platforms kept not shipping the basics. So we built the layer they were missing, and then users kept asking us to bring it everywhere else. This is actually our third Product Hunt launch, and a lot is new since the last one: 🚀 Grok support: AI Toolbox now runs on ChatGPT, Claude, Gemini AND Grok with one install 🔍 Cross-platform search: one query searches your entire history on all four AIs at once 📁 Folders and subfolders, right in the sidebar, with one-click folder export 📚 Prompt library: type // to insert a saved prompt anywhere, chain prompts into multi-step workflows 📤 Bulk export to Markdown (with YAML frontmatter), PDF, JSON, or ZIP a whole folder 🗄️ Artifact Vault on Claude: every artifact and created file, browsable and downloadable in one place 📊 A live context meter so long chats never cut you off mid-thought, with one-click handoff to a fresh chat What we believe: your AI conversations are your work. They should be organized, searchable, exportable, and yours, no matter which assistant you use this month. Where we are today: 40,000+ users in 150+ countries, 4.5 stars on the Chrome Web Store, 5-figure MRR, two people, $45/month of infrastructure. Almost every feature came from a user request; the support inbox is our roadmap. Privacy: local-first by design. Search and export run entirely in your browser, and your conversations are never sent to our servers. 🎥 Tutorials: https://www.youtube.com/playlist... 🎁 For the PH community: All Access Lifetime (all four AIs, forever) $199 -> $99 with code PRODUCTHUNT50 at https://ai-toolbox.co/pricing We'd love your feedback on: - which feature you'd use first - what the AI platforms still refuse to build that we should ship next - anything that feels confusing in your first five minutes I'll be here all day answering everything. Thanks for checking us out! 🙏 - Adi, co-founder of AI Toolbox"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been using the tool with Claude for about a month. The export chat to JSON has been very helpful for reviewing outstanding issues in long-running chats. Search is sometimes flaky -- doesn't find known values in chats. Context meter is a \"guess\" at best. Overall highly recommend."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really useful idea Ive often struggled to find old AI conversations across different tools The search and folder system makes this much easier to manage and reuse past work"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Such an amazing product!Thanks"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is crazy useful!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Honestly this seems like one of those tools you don’t know you needd until you find yourself juggling multiple AI tools everyday . I was really impressed by the folders and the ability to search across different AI platforms. Keeping every thing organized in one spot instead of sifting through old chats sounds like a massivee time saver. Plus the local first approach is a great feature! Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I have been using it ، it’s such a helpful product , good job"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love it that you can search across all my ai tools. I use Claude, Gemini and Chatgpt. This tools let me search across all three. And I can even continue my chat in another platform. For example I start a chat in Claude. Then I want to continue it in Chatgpt. Then I press just one button and it summarizes my chat and carries is into a new chat in Chatgpt. Lovely."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -9444,6 +9602,68 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-09-06",
+      "rank": 2,
+      "name": "Tadata",
+      "slug": "tadata",
+      "tagline": "The AI employee in Slack that reads the room.",
+      "description": "Tadata is the AI employee that lives in your Slack. It connects to your tools, learns your company and your preferences, and does work for your team.",
+      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d0c72729-5800-4b3d-8a4a-23a9f185d8dc.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6e212eeb-5ed9-4914-abf4-959ee59d352d.png?auto=format",
+        "https://ph-files.imgix.net/c8c0bcda-49a1-4a77-a6ec-040b839de3a2.png?auto=format",
+        "https://ph-files.imgix.net/11e825d0-94e5-44b0-995b-3bc99162f434.png?auto=format",
+        "https://ph-files.imgix.net/73a24b86-c791-4cbd-9547-10449ed7e5f8.png?auto=format",
+        "https://ph-files.imgix.net/78a1511d-3f12-4f2c-8442-c77d0d1f64ff.png?auto=format",
+        "https://ph-files.imgix.net/84439baf-2994-4130-940c-ef6541a66ed4.png?auto=format",
+        "https://ph-files.imgix.net/f45a68c0-d89f-4c0f-a7a9-05aa2606b468.png?auto=format",
+        "https://ph-files.imgix.net/c19a40c8-3bf6-464f-8cdb-ff48c35582d6.jpeg?auto=format"
+      ],
+      "maker": "Tori Seidenstein",
+      "makerTitle": "Co-Founder of Tadata",
+      "featuredAt": "2026-09-06T07:01:00Z",
+      "votes": 276,
+      "websiteUrl": "https://www.producthunt.com/r/ZAQQTCQFCASBA2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi @tori_seidenstein How does Tadata, compare to Viktor for example? Also can I connect it to Shopify?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I swear, every week I look for a place in Slack I can talk to about all the threads I cant keep up with, and someone to delegate my endless context switches to. Thank you for solving this, and with great execution."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch 🙌the \"reads the room\" part is what caught me. most slack bots just sit there until you @ them, so the fact that this one actually picks up context is a diffrent thing entirely.question from someone who lives in slack all day...how does it handle channels where the convo is half decisions and half noise? does it need to be tagged or is it listening in the background?also curious how deep the 'learns your company' part goes after a week vs after a month."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Big Claude Tag fan, and see this being an incredibly accessible way to set up without relying on Anthropic and being model-agnostic and eventually can run on local models my company is using.Does Tadata require me to tag it or will it be able to decide when to jump in?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What are you using Hunter for? Apify has a few email verification Actors, ready to use."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations @tori_seidenstein and the team. I love how the product has evolved from just MCPs to an AI Employee in Slack. ✨"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This category is heating up. Model agnostic is a great move. Apart from that, how else are you planning to differentiate Tadata from the peers?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "That's a really nice tool tbh.The connectors part is awesome! I liked it depth, one of the most thought-through I've seen. good job folks!Btw- can you share where does this different than Claude tags?"
+        }
+      ]
+    },
+    {
       "id": "ph-today-4",
       "date": "2026-08-11",
       "rank": 4,
@@ -9825,68 +10045,6 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nپلتفرم Human Behavior به عنوان یک ابزار قدرتمند برای تحلیل و بهبود تجربه کاربر عمل می‌کند. این پلتفرم با استفاده از هوش مصنوعی و تکنولوژی‌های پیشرفته، به طور خودکار اقدامات لازم را برای حل مشکلات کاربران انجام می‌دهد.\n🔹 معماری و تکنولوژی احتمالی:\nپلتفرم Human Behavior می‌تواند با استفاده از تکنولوژی‌های مختلف مانند Next.js و PostgreSQL ساخته شود. همچنین می‌تواند از هوش مصنوعی و یادگیری ماشین برای تحلیل و بهبود تجربه کاربر استفاده کند.\n🔹 مدل درآمدی:\nپلتفرم Human Behavior می‌تواند با استفاده از مدل‌های درآمدی مختلف مانند پرداخت بر اساس استفاده یا پرداخت ماهیانه یا سالیانه، درآمد خود را ایجاد کند.\n🔹 نقاط قوت:\n- توانایی تحلیل و بهبود تجربه کاربر به طور خودکار\n- استفاده از هوش مصنوعی و تکنولوژی‌های پیشرفته\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با پلتفرم‌های مشابه\n- نیاز به آموزش و آگاهی‌بخشی به مشتریان\n- حفظ حریم خصوصی و امنیت داده‌ها\n🔹 نکته طلایی برای بازار ایران:\nپلتفرم Human Behavior می‌تواند به عنوان یک ابزار قدرتمند برای استارت‌آپ‌ها و شرکت‌های فناوری در ایران عمل کند و به آنها کمک کند تا تجربه کاربر خود را بهبود بخشند."
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-09-06",
-      "rank": 2,
-      "name": "Tadata",
-      "slug": "tadata",
-      "tagline": "The AI employee in Slack that reads the room.",
-      "description": "Tadata is the AI employee that lives in your Slack. It connects to your tools, learns your company and your preferences, and does work for your team.",
-      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
-      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d0c72729-5800-4b3d-8a4a-23a9f185d8dc.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/6e212eeb-5ed9-4914-abf4-959ee59d352d.png?auto=format",
-        "https://ph-files.imgix.net/c8c0bcda-49a1-4a77-a6ec-040b839de3a2.png?auto=format",
-        "https://ph-files.imgix.net/11e825d0-94e5-44b0-995b-3bc99162f434.png?auto=format",
-        "https://ph-files.imgix.net/73a24b86-c791-4cbd-9547-10449ed7e5f8.png?auto=format",
-        "https://ph-files.imgix.net/78a1511d-3f12-4f2c-8442-c77d0d1f64ff.png?auto=format",
-        "https://ph-files.imgix.net/84439baf-2994-4130-940c-ef6541a66ed4.png?auto=format",
-        "https://ph-files.imgix.net/f45a68c0-d89f-4c0f-a7a9-05aa2606b468.png?auto=format",
-        "https://ph-files.imgix.net/c19a40c8-3bf6-464f-8cdb-ff48c35582d6.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-06T07:01:00Z",
-      "votes": 268,
-      "websiteUrl": "https://www.producthunt.com/r/ZAQQTCQFCASBA2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi @tori_seidenstein How does Tadata, compare to Viktor for example? Also can I connect it to Shopify?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I swear, every week I look for a place in Slack I can talk to about all the threads I cant keep up with, and someone to delegate my endless context switches to. Thank you for solving this, and with great execution."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch 🙌the \"reads the room\" part is what caught me. most slack bots just sit there until you @ them, so the fact that this one actually picks up context is a diffrent thing entirely.question from someone who lives in slack all day...how does it handle channels where the convo is half decisions and half noise? does it need to be tagged or is it listening in the background?also curious how deep the 'learns your company' part goes after a week vs after a month."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Big Claude Tag fan, and see this being an incredibly accessible way to set up without relying on Anthropic and being model-agnostic and eventually can run on local models my company is using.Does Tadata require me to tag it or will it be able to decide when to jump in?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What are you using Hunter for? Apify has a few email verification Actors, ready to use."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations @tori_seidenstein and the team. I love how the product has evolved from just MCPs to an AI Employee in Slack. ✨"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This category is heating up. Model agnostic is a great move. Apart from that, how else are you planning to differentiate Tadata from the peers?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "That's a really nice tool tbh.The connectors part is awesome! I liked it depth, one of the most thought-through I've seen. good job folks!Btw- can you share where does this different than Claude tags?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-4",
       "date": "2026-09-02",
       "rank": 4,
@@ -10004,7 +10162,49 @@
           "text": "Want to make sure I'm reading the benchmark right. Quality retained = solve rate ÷ uncompressed baseline - so 86.5% means the agent resolves about 86.5% as many issues as it would with full context, a relative 13.5% drop in tasks actually completed? Or is that measuring something else? If so, the comparison I'd want isn't against other compressors, but against just running a cheaper or lower-effort model at full context. Both routes cost quality and both cut the bill. Has that been measured? A strong model on compressed context vs a cheaper one on complete context, same tasks. And which model was the scaffold running? Hard to judge 13.5% without knowing the baseline."
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "پاریتوک با فشرده‌سازی ابزارها، فایل‌ها و تاریخچه‌ای که به عامل کدنویسی شما ارسال می‌شود، هزینه‌های توکن شما را تا ۹۶ درصد کاهش می‌دهد. این ابزار به شما امکان می‌دهد تا ۴ برابر زمان بیشتری در یک جلسه کدنویسی بدون قطع شدن یا نیاز به بازنویسی دستورات عمل کنید. پاریتوک با دو دستور ساده کار می‌کند و هیچ داده‌ای از دست نمی‌رود. تمام فرآیند به صورت کاملاً محلی روی دستگاه شما اجرا می‌شود و نیازی به ارسال داده به سرورهای خارجی ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام جامعه Product Hunt! ما جیا یو و لوزو، دو مهندس هستیم که از دیدن مصرف بی‌رویه توکن توسط عوامل کدنویسی خسته شده بودیم. چیزی که مدام می‌دیدیم این بود: عامل شما بسیار بیشتر از آنچه مدل واقعاً نیاز دارد ارسال می‌کند. JSON کامل برای هفتاد ابزار در حالی که فقط از دو مورد استفاده می‌شود. یک فایل کامل در حالی که فقط به یک تابع نیاز دارد. خروجی دیباگ که هیچ‌وقت دوباره خوانده نمی‌شود. و چون API حالت‌دار نیست، تمام این‌ها در هر دور تکرار می‌شوند، بنابراین ضایعات فقط یک بار هزینه نمی‌شود، بلکه انباشته می‌شود. بنابراین ما پاریتوک را ساختیم، یک دروازه فشرده‌سازی غیرتخریبی که با یک مدل ۵ میلیارد پارامتری بومی کد که روی ۵۶ هزار مسیر واقعی عامل آموزش دیده، کار می‌کند. این ابزار بین عامل شما و API قرار می‌گیرد و سه چیز را قبل از خروج کاهش می‌دهد: اسکیمای ابزارها (از ۳undefinedK به ۹K در هر دور، بدون نیاز به مدل، این بخش روی CPU اجرا می‌شود)، خواندن فایل‌ها و خروجی ابزارها (فشرده‌سازی به حدود یک چهارم اندازه اصلی)، و تاریخچه کهنه (دورهای فراتر از پنجره اخیر یک بار خلاصه می‌شوند تا جلسه هرگز به فشرده‌سازی با از دست رفتن اطلاعات منجر نشود). با پاریتوک، می‌توانید هزینه توکن خود را از ۳۶ درصد در دور اول تا بیش از ۹۶ درصد در جلسات طولانی یا اشباع‌شده کاهش دهید و حدود ۴ برابر دور بیشتری را در همان پنجره زمینه اجرا کنید. پاریتوک اکنون با Claude Code، Codex، Cursor و هر چیزی سازگار با OpenAI یا Anthropic کار می‌کند. پاریتوک به بهبود عملکرد و تطبیق با سناریوهای کاربر ادامه خواهد داد، در حالی که قابلیت‌های مدل خود را عمیق‌تر می‌کند. ما مشتاقیم که این را با جامعه PH به اشتراک بگذاریم و بازخورد صادقانه شما را دوست داریم. پاریتوک را امتحان کنید: https://www.paritok.com/ به دیسکورد ما بپیوندید تا با تیم صحبت کنید: https://discord.gg/SeBJE۶Eucp ممنون که بررسی کردید، و تشکر ویژه از کریس مسینا برای کشف ما!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "کاهش ۹۶ درصدی هزینه توکن برای هر کسی که عوامل هوش مصنوعی اجرا می‌کند، کاملاً منطقی و ضروری است 🔥 همچنین این که کاملاً محلی کار می‌کند، یک مزیت عالی است، تبریک می‌گوییم!!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا استفاده از این ابزار با اشتراک Claude Code ایمن است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "عالی است! و خوب است که مسیر متن‌باز را انتخاب کرده‌اید، این کار اعتماد را افزایش می‌دهد!"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nمشکل اصلی، مصرف بی‌رویه توکن در ابزارهای کدنویسی هوشمند است که باعث افزایش هزینه‌ها و محدودیت در طول جلسات می‌شود. پاریتوک با فشرده‌سازی هوشمند داده‌های ورودی (اسکیمای ابزارها، فایل‌ها و تاریخچه) این مشکل را حل می‌کند و هزینه‌ها را تا ۹۶٪ کاهش می‌دهد.\n\n🔹 معماری و تکنولوژی:\nاین ابزار یک دروازه (Gateway) است که بین کلاینت و API قرار می‌گیرد. از یک مدل زبانی ۵ میلیارد پارامتری بومی کد استفاده می‌کند که روی ۵۶ هزار مسیر واقعی آموزش دیده است. بخش فشرده‌سازی اسکیماهای ابزار روی CPU اجرا می‌شود و نیاز به GPU ندارد، در حالی که فشرده‌سازی محتوا و خلاصه‌سازی تاریخچه از مدل استفاده می‌کند. اجرای محلی (Local) مزیت بزرگی برای حفظ حریم خصوصی است.\n\n🔹 مدل درآمدی:\nاحتمالاً مدل Freemium یا اشتراک‌محور خواهد بود. با توجه به اینکه متن‌باز است، ممکن است از طریق خدمات ابری مدیریت‌شده یا نسخه‌های سازمانی درآمدزایی کند. کاهش هزینه‌های API برای کاربران، انگیزه قوی برای پرداخت هزینه اشتراک ایجاد می‌کند.\n\n🔹 نقاط قوت:\n- کاهش چشمگیر هزینه‌ها (تا ۹۶٪)\n- اجرای محلی و حفظ حریم خصوصی\n- سازگاری با ابزارهای محبوب مانند Claude Code و Cursor\n- رویکرد متن‌باز که اعتماد جامعه را جلب می‌کند\n\n🔹 نقاط ضعف:\n- پیچیدگی نصب و پیکربندی برای کاربران غیرفنی\n- نیاز به منابع محلی مناسب برای اجرای مدل (هرچند سبک است)\n- وابستگی به کیفیت مدل فشرده‌ساز برای حفظ دقت اطلاعات\n\n🔹 نکته طلایی برای ایران:\nبا توجه به محدودیت‌های دسترسی به برخی APIهای خارجی و هزینه بالای ارز، این ابزار می‌تواند به عنوان یک لایه میانی برای بهینه‌سازی مصرف از مدل‌های داخلی یا حتی مدل‌های محلی (مثل Llama یا Qwen) با فشرده‌سازی ورودی‌ها بسیار ارزشمند باشد. تمرکز بر اجرای محلی می‌تواند موانع دسترسی به اینترنت پایدار را تا حدی کاهش دهد.",
+      "iranEquivalent": {
+        "productName": "پاریتوک (Paritok)",
+        "description": "پاریتوک یک دروازه فشرده‌سازی غیرتخریبی است که بین عامل کدنویسی و API قرار می‌گیرد تا حجم داده‌های ارسال‌شده را کاهش دهد. این ابزار با استفاده از یک مدل زبانی کوچک و بومی کد، اسکیمای ابزارها، محتوای فایل‌ها و تاریخچه گفتگو را بهینه می‌کند. هدف اصلی کاهش چشمگیر هزینه‌های توکن و افزایش طول جلسات کدنویسی بدون از دست رفتن اطلاعات حیاتی است.",
+        "marketOpportunity": "با گسترش استفاده از ابزارهای هوش مصنوعی در توسعه نرم‌افزار، هزینه‌های API به یکی از چالش‌های اصلی توسعه‌دهندگان تبدیل شده است. ارائه راه‌حلی که بدون نیاز به تغییر معماری اصلی، هزینه‌ها را تا ۹۶٪ کاهش دهد، پتانسیل جذب سریع توسعه‌دهندگان حرفه‌ای و شرکت‌های فناوری را دارد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند و بک‌اند، تیم‌های مهندسی نرم‌افزار، و شرکت‌هایی که به صورت گسترده از ابزارهای کدنویسی هوشمند مانند Cursor یا Claude Code استفاده می‌کنند.",
+        "challenges": [
+          "نیاز به دسترسی به اینترنت برای دریافت پاسخ‌های API در صورت عدم استفاده از مدل‌های محلی کامل",
+          "اعتمادسازی کاربران نسبت به از دست نرفتن داده‌های حساس در فرآیند فشرده‌سازی"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای دسترسی به نسخه پیشرفته با مدل‌های بهینه‌تر",
+          "فروش لایسنس سازمانی برای شرکت‌های بزرگ با پشتیبانی اختصاصی"
+        ],
+        "techStack": [
+          "Python",
+          "PyTorch",
+          "FastAPI",
+          "Docker"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-today-4",
@@ -12105,6 +12305,10 @@
         },
         {
           "user": "[REDACTED]",
+          "text": "Suggestion: collect an email to \"notify me\" when iOS is available. I'll certainly forget otherwise!"
+        },
+        {
+          "user": "[REDACTED]",
           "text": "Thats cool, i have a cross functional AI team that im thinking of moving from text to audio. Did u use a framework for orchestration of the agents like crewai or langgraph? have a technical post on it? would love to see how u did it"
         },
         {
@@ -12120,7 +12324,54 @@
           "text": "Loved the idea Tash! need to try it out. Anyway wish you all the best here!"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "هدف خود را مشخص کنید و در عرض چند ثانیه وارد یک تماس صوتی زنده با ۷ شرکت‌کننده هوش مصنوعی شوید که مخصوص همان هدف انتخاب شده‌اند. آن‌ها یکی یکی صحبت می‌کنند، با یکدیگر بحث و مناظره می‌کنند و به محض اینکه شما شروع به صحبت کنید، بلافاصله سکوت می‌کنند. تمام تماس‌ها به متن تبدیل شده، به نکات کلیدی و اقدامات بعدی خلاصه‌سازی می‌شوند و بعداً می‌توانید با همان ترکیب اعضا مجدداً تماس را ادامه دهید. هر حساب جدید شامل یک دقیقه تماس رایگان بدون نیاز به ثبت کارت اعتباری است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، من تاش سازنده برنامه هستم. ایده AI Group Call از یک ناامیدی کوچک شروع شد. من می‌توانستم از یک چت‌بات مشورت بگیرم، اما چیزی که واقعاً می‌خواستم یک اتاق جلسه واقعی بود؛ جلسه‌ای که در آن یک فرد شکاک ایرادهای ایده شما را رو کند، یک استراتژیست آن را بازتعریف کند و شخصی نقش مشتری نهایی را بازی کند. بنابراین من این اتاق را ساختم. شما هدف خود را تایپ می‌کنید و چند ثانیه بعد در یک تماس صوتی زنده با ۷ هوش مصنوعی با نام، نقش و شخصیت اختصاصی حضور دارید. آن‌ها یکی یکی صحبت می‌کنند، صحبت یکدیگر را تکمیل کرده یا مخالفت می‌کنند و به محض صحبت شما ساکت می‌شوند. این بخش آخر سخت‌ترین کار بود. قطع کردن صحبت در بلندگوی گوشی یعنی میکروفون صدای ایجنت‌ها را هم می‌شنود، بنابراین حذف اکو و تشخیص صوتی پیشرفته‌ای نیاز بود تا قطعی صحبت مانند یک تماس واقعی باشد نه بی‌سیم. حل این مسئله بخش زیادی از زمان توسعه را گرفت. چند نکته متداول: تمام شرکت‌کنندگان هوش مصنوعی هستند و هیچ انسانی در تماس نیست. همه تماس‌ها پیاده‌سازی و خلاصه می‌شوند و بعداً قابل ادامه هستند. می‌توانید شخصیت‌ها را در حین تماس تغییر دهید. نسخه اندروید فعال است و نسخه iOS منتظر تأیید است. یک دقیقه رایگان بدون کارت دریافت می‌کنید و سپس بسته‌های دقیقه‌ای از ۵.undefinedundefined دلار شروع می‌شود. مشتاقانه منتظر نظرات و اهداف عجیب شما هستم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "پیشنهاد: یک ایمیل برای اطلاع‌رسانی زمان انتشار نسخه iOS دریافت کنید. در غیر این صورت مطمئناً فراموش خواهم کرد!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "خیلی عالیه! من یک تیم چندتخصصی هوش مصنوعی دارم و می‌خوام اون‌ها رو از متنی به صوتی تبدیل کنم. آیا از فریم‌ورکی مثل CrewAI یا LangGraph برای ارکستراسیون ایجنت‌ها استفاده کردید؟ آیا مقاله فنی در این باره دارید؟ دوست دارم بدونم چطور انجامش دادید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "نسخه iOS کی منتشر میشه لطفاً؟"
+        }
+      ],
+      "aiReview": "پلتفرم AI Group Call یک نوآوری خلاقانه در حوزه پردازش صوتی تعاملی و ابزارهای تصمیم‌گیری است.\n\n🔹 مسئله و راه‌حل:\nبسیاری از افراد هنگام تصمیم‌گیری نیازمند هم‌فکری و چالش از زاویه‌های مختلف (مانند تفکر انتقادی، مالی، بازاریابی) هستند، اما دسترسی هم‌زمان به چند متخصص دشوار است. چت‌بات‌های متنی حس یک جلسه واقعی را منتقل نمی‌کنند. این محصول با شبیه‌سازی صوتی یک تماس ۷ نفره از ایجنت‌های هوش مصنوعی با نقش‌های متمایز و قابلیت قطع صحبت صوتی (Barge-in)، تجربه یک اتاق فکر واقعی را بازآفرینی کرده است.\n\n🔹 معماری و تکنولوژی:\nاستفاده از ارکستراسیون چندعامله (Multi-Agent) برای مدیریت گفتگوهای متقابل، موتورهای صوتی کم‌تاخیر (STT و TTS) و پروتکل ارتباطی زنده. چالش اصلی فنی این محصول پیاده‌سازی Barge-in صوتی روی اسپیکر گوشی و حذف اکو بوده تا به محض صحبت کاربر، ایجنت‌ها به صورت لحظه‌ای سکوت کنند.\n\n🔹 مدل درآمدی:\nمدل Freemium با اعطای ۱ دقیقه اعتبار رایگان بدون نیاز به کارت اعتباری برای تست اولیه، و سپس فروش بسته‌های اعتباری دقیقه‌ای (Pay-as-you-go) که از ۵.undefinedundefined دلار در ماه آغاز می‌شود.\n\n🔹 نقاط قوت:\n- تجربه کاربری بسیار جذاب و طبیعی از طریق تماس صوتی تعاملی\n- حل چالش سخت فنی قطع صحبت (Barge-in) و حذف اکو صوتی\n- امکان ویرایش و شخصی‌سازی نقش‌ها و شخصیت‌ها در حین تماس\n- تبدیل خودکار گفتگو به متن، خلاصه جلسه و لیست اقدامات\n\n🔹 نقاط ضعف:\n- آماده نبودن نسخه iOS در زمان انتشار اولیه که باعث از دست رفتن بخشی از کاربران شده است\n- وابستگی شدید هزینه به زمان تماس صوتی (TTS/STT) که می‌تواند حاشیه سود را تحت فشار قرار دهد\n- احتمال شلوغی گفتگوها یا نوبت‌گیری غیرطبیعی ایجنت‌ها در سناریوهای پیچیده\n\n🔹 نکته طلایی برای ایران:\nبرای بومی‌سازی این ایده در ایران، چالش اصلی سرعت و کیفیت مدل‌های تبدیل متن به گفتار و برعکس در زبان فارسی است. ساخت یک خط‌لوله صوتی کم‌تاخیر فارسی همراه با ایجنت‌های بومیشده (مانند مشاور مالیاتی، حقوقی یا بازاریابی ایرانی)، می‌تواند این ابزار را به دستیار فوق‌العاده‌ای برای بنیان‌گذاران ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "هم‌فکر هوشمند",
+        "description": "سامانه دستیار صوتی گروهی که امکان برگزاری جلسات اتاق فکر چندعامله را برای کسب‌وکارهای ایرانی فراهم می‌کند. در این پلتفرم، کاربر هدف جلسه را مشخص کرده و ۷ ایجنت هوش مصنوعی با نقش‌های تخصصی مانند مدیر مالی، بازاریاب و تحلیل‌گر به بحث صوتی می‌پردازند. کلیه گفتگوها به زبان فارسی پیاده‌سازی شده و خلاصه‌ مدیریتی به همراه لیست اقدامات تولید می‌شود.",
+        "marketOpportunity": "نیاز شدید استارتاپ‌ها، بنیان‌گذاران و مدیران ایرانی به مشاوره تخصصی هم‌زمان و هزینه بالای استخدام مشاوران، بازار بکری را برای ابزارهای اتاق فکر صوتی فراهم کرده است. عدم وجود ابزار صوتی چندعامله فارسی بومی، فرصت سبقت را برای نخستین ورودکننده بسیار بالا برده است.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "بنیان‌گذاران استارتاپ‌ها، مدیران محصول، مشاوران مدیریت، فریلنسرها و دانشجویان",
+        "challenges": [
+          "تاخیر (Latency) بالای سرویس‌های تبدیل متن به گفتار و گفتار به متن در زبان فارسی",
+          "هزینه‌های بالای زیرساخت پردازش صوتی و APIهای مدل‌های زبانی بزرگ",
+          "چالش‌های فنی مربوط به قطع صوتی (Barge-in) و حذف اکو روی دستگاه‌های مختلف"
+        ],
+        "monetization": [
+          "فروش اشتراک ساعتی و بسته‌های دقیقه‌ای استفاده از تماس صوتی",
+          "ارائه اشتراک سازمانی برای تیم‌های محصول و استارتاپ‌ها",
+          "سفارشی‌سازی ایجنت‌ها و شخصیت‌های اختصاصی برای شرکت‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "FastAPI",
+          "WebRTC",
+          "Whisper",
+          "LangGraph",
+          "Deepgram",
+          "PostgreSQL"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -13853,7 +14104,52 @@
           "text": "Really like the idea of a fast, offline task capture tool that stays out of the way."
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "گوتا یک لیست وظایف بسیار کوچک و مبتنی بر کیبورد برای منوبار مک است. با فشردن کلیدهای ⌘⇧Space، وظایف خود را همان‌طور که می‌گویید تایپ کنید و سریعاً به کارتان برگردید. این برنامه تاریخ‌ها و زمان‌های زبان طبیعی را درک می‌کند، ورودی‌های جداشده با نقطه‌ویرگول را به چند وظیفه مجزا تبدیل کرده و یادآورهای محلی زمان‌بندی می‌کند. همه چیز روی مک شما ذخیره می‌شود و همگام‌سازی اختیاری از طریق پوشه‌ای که در آیکلود درایو، دراپ‌باکس یا وان‌درایو کنترل می‌کنید انجام می‌شود؛ بدون نیاز به حساب گوتا، اشتراک، ردگیری یا سرور ابری متعلق به توسعه‌دهنده.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت! من گوتا رو ساختم چون ثبت یک وظیفه باید چند ثانیه طول بکشه، نه اینکه شما رو وارد یک برنامه دیگه کنه. کلیدهای ⌘⇧Space رو فشار بدید، بنویسید «ارسال فاکتور جمعه ساعت ۱۰:۴۰»، اینتر بزنید و به کارتتون ادامه بدید. همه چیز روی مک شما می‌مونه: پردازش زبان طبیعی، ذخیره‌سازی و یادآورها. اگه همگام‌سازی بین چند مک رو می‌خواید، گوتا از پوشه‌ای استفاده می‌کنه که خودتون در آیکلود، دراپ‌باکس یا وان‌درایو انتخاب می‌کنید—بدون نیاز به حساب گوتا یا سرور توسعه‌دهنده. این اولین انتشار عمومی هست و خوشحال می‌شم نظرتون رو درباره روند ثبت وظایف و کنترل یادآورها بدونم. 🙌"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "از رابط کاربریش خوشم میاد... برام جالبه بدونم وقتی دو تا دستگاه در حالت آفلاین یک لیست رو همزمان ویرایش می‌کنن، چطور تعارض‌ها رو مدیریت می‌کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "طراحی مینیمالیستیش رو دوست دارم :) برای ساختش از چه ابزاری استفاده کردید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ایده یک ابزار ثبت سریع و آفلاین وظایف که مزاحم کار آدم نمی‌شه رو واقعاً می‌پسندم."
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nاکثر ابزارهای مدیریت وظایف دچار پیچیدگی بیش از حد شده‌اند و ثبت یک کار ساده تمرکز کاربر را برهم می‌زند. Gutta با ارائه یک میانبر کیبورد سریع و برنامه‌ای سبک در منوبار مک، فرایند ثبت کارها را به زیر ۶ ثانیه می‌رساند تا کاربر بدون خروج از جریان کاری، وظایفش را ثبت کند.\n\n🔹 معماری و تکنولوژی:\nاین محصول بر پایه معماری Offline-First و توسعه بومی (Native) ساخته شده است. داده‌ها محلی ذخیره می‌شوند و همگام‌سازی از طریق سیستم فایل و سرویس‌های ابری شخصی کاربر (مثل iCloud Drive) انجام می‌پذیرد. این معماری نیاز به دیتابیس و سرور مرکزی را حذف کرده و هزینه نگهداری زیرساخت را به صفر می‌رساند.\n\n🔹 مدل درآمدی:\nبا توجه به عدم وجود هزینه سرور، بهترین مدل برای این ابزار خرید یک‌باره (One-time Purchase) یا فروش لایسنس دائمی است که برای کاربران خسته از اشتراک‌های ماهانه بسیار جذاب است.\n\n🔹 نقاط قوت:\n- سرعت فوق‌العاده و دسترسی بدون اصطکاک از طریق کیبورد.\n- حفظ کامل حریم خصوصی بدون نیاز به ساخت حساب کاربری.\n- پشتیبانی از ورودی زبان طبیعی و ثبت چندگانه وظایف.\n\n🔹 نقاط ضعف:\n- محدود بودن به سیستم‌عامل مک و عدم وجود نسخه موبایل.\n- چالش‌های احتمالی در حل تعارضات همگام‌سازی فایل‌ها (Sync Conflicts).\n- محدودیت بازار هدف به دلیل تک‌منظوره بودن ابزار.\n\n🔹 نکته طلایی برای ایران:\nبزرگ‌ترین ارزش افزوده‌ای که نمونه ایرانی می‌تواند ایجاد کند، پشتیبانی از پردازش زبان طبیعی فارسی با تقویم شمسی (مانند درک جملاتی نظیر «پنجشنبه ساعت ۵ عصر جلسه با تیم») است. افزودن پشتیبانی از ویندوز نیز می‌تواند اندازه بازار را در ایران چند برابر کند.",
+      "iranEquivalent": {
+        "productName": "وظیفه‌نگار مک (VazifehNegar)",
+        "description": "یک ابزار بومی و فوق‌العاده سریع برای مدیریت کارهای روزمره در سیستم‌عامل مک و ویندوز که تمرکز اصلی آن بر ثبت بدون معطلی وظایف است. این نرم‌افزار به کاربران اجازه می‌دهد بدون خروج از محیط کاری فعلی، کارهای خود را با زبان طبیعی ثبت و زمان‌بندی کنند. تمامی اطلاعات به صورت کاملاً محلی و آفلاین روی دستگاه کاربر حفظ شده و امنیت بالایی دارد.",
+        "marketOpportunity": "در ایران بسیاری از برنامه‌نویسان، طراحان و مدیران محصول از سیستم‌عامل مک استفاده می‌کنند و به دنبال ابزارهای بدون تحریم و آفلاین هستند. ایجاد ابزاری سبک که تقویم شمسی و زبان فارسی را پشتیبانی کند، شانس بسیار بالایی برای جذب این جامعه مخاطبان متخصص دارد.",
+        "estimatedBudget": "۱.۶ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، طراحان، فریلنسرها، مدیران محصول و کاربران حرفه‌ای مک",
+        "challenges": [
+          "پشتیبانی دقیق از پردازش زبان طبیعی (NLP) برای زبان فارسی و تاریخ‌های شمسی",
+          "مدیریت پیچیدگی‌های همگام‌سازی فایل‌محور در حالت آفلاین (Conflict Resolution)",
+          "محدود بودن حجم بازار هدف اولیه به دلیل تمرکز بر سیستم‌عامل مک"
+        ],
+        "monetization": [
+          "فروش لایسنس دائمی (Lifetime License)",
+          "عرضه مستقیم در مک اپ استور به صورت خرید یک‌باره",
+          "ارائه نسخه‌های سازمانی با قابلیت سفارشی‌سازی"
+        ],
+        "techStack": [
+          "Swift",
+          "SwiftUI",
+          "CoreData",
+          "Combine",
+          "NSStatusItem API"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -14273,7 +14569,48 @@
           "text": "@heshamghandour The sandbox is what I'd want to understand before handing this to a support rep or a designer. When someone spins up a live copy of the real product, what is it running against: a snapshot of production data, seeded fixtures, or something synthetic?"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "کل تیم شما می‌توانند به صورت مستقیم روی محصول واقعی دست به آزمایش بزنند. ریمیکس (Remix) به هر یک از اعضای تیم این امکان را می‌دهد که نسخه متفاوتی از محصول واقعی شما را بسازند؛ یک کپی ایمن و ایزوله (سندباکس) که می‌توانید با پرامپت‌نویسی متنی به آن شکل دهید. نیازی به پیکربندی اولیه نیست و هیچ خطری متوجه نسخه اصلی پروداکشن نمی‌شود. ایده‌ها را به صورت تیمی و کنار هم بررسی کنید. آیا دو تغییر مختلف را می‌پسندید؟ کافی است یکی را روی دیگری بکشید تا ترکیب شوند. وقتی ایده‌ای آماده شد، مستقیماً یک PR (درخواست ادغام) به گیتهاب ارسال کنید. تمامی پرامپت‌ها ثبت می‌شوند تا بررسی‌کنندگان دقیقاً ببینند کد چگونه ساخته شده است و یک لینک زنده به همه اجازه می‌دهد قبل از ورود حتی یک خط کد به شاخه اصلی، آن را تست کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! ما امروز Remix را معرفی می‌کنیم. ما معتقدیم بهترین ایده‌ها برای یک محصول به ندرت از سمت کسانی می‌آیند که اجازه ساخت آن را دارند. یک طراح، مدیر محصول یا نیروی پشتیبانی دقیقاً می‌بیند چه چیزی باید تغییر کند، اما هفته‌ها منتظر زمان خالی تیم فنی می‌ماند، اگر اصلاً اتفاق بیفتد. این انتظار جایی است که بیشتر ایده‌های خوب به آرامی می‌میرند. کدنویسی به لطف هوش مصنوعی بسیار آسان‌تر شده است، اما همه چیزهای اطراف آن هنوز سخت است: راه اندازی پروژه، اجرا، پیش‌نمایش، هماهنگ بودن با کدبیس اصلی، بررسی کار و در نهایت انتشار. ریمیکس همه این موارد را مدیریت کرده و آن را چندنفره (تعاملی) می‌کند. هر کسی در تیم روی یک کپی زنده و ایمن از محصول واقعی کار می‌کند و با توصیف تغییرات، آن‌ها را اعمال می‌کند. هر ریمیکس سندباکس و پیش‌نمایش زنده خود را دارد و قبل از رفتن به هر جایی، با سیستم طراحی، امنیت و قوانین انطباق شما سنجیده می‌شود. نقش مهندسان به سطح معماری و تایید ارتقا می‌یابد: آن‌ها پرامپت‌ها را می‌بینند، یک درخواست ادغام (PR) تمیز را بررسی می‌کنند و حرف آخر را می‌زنند. یکی از تیم‌های اولیه ما طراحي داشت که صفحات وضعیت خالی (empty states) اپلیکیشن‌شان را بازطراحی کرد؛ چیزی که ماه‌ها در بک‌لاگ مانده بود. او پرامپت داد، پیش‌نمایش گرفت و در همان روز از طریق بررسی عادی PR منتشر شد. ما هم‌اکنون از نزدیک با تیم‌های اولیه کار می‌کنیم و مشتاق دریافت بازخورد شما هستیم: چه تغییراتی در محصول شما به دلیل عدم توانایی فرد پیشنهاددهنده در کدنویسی، گیر کرده است؟ تمام روز برای پاسخ به سوالات اینجایم. ممنون بابت بررسی Remix."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من واقعاً این محصول را دوست دارم؛ شتاب‌دهی به مسیر «ایده تا پروداکشن» در حالی که به مهندس دید بهتری می‌دهد تا کل فرآیند را حتی قبل از ثبت PR ببیند، فوق‌العاده است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "@heshamghandour محیط سندباکس چیزی است که قبل از سپردن این ابزار به دست پشتیبانی یا طراح می‌خواهم درک کنم. وقتی کسی یک کپی زنده از محصول واقعی می‌سازد، این کپی روی چه چیزی اجرا می‌شود: یک اسنپ‌شات از داده‌های پروداکشن، داده‌های اولیه فیکسچر، یا داده‌های سنتتیک و ساختگی؟"
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nبزرگ‌ترین گلوگاه در توسعه محصول، فاصله بین کشف نیاز (توسط طراح، مدیر محصول یا پشتیبانی) و اجرای فنی آن توسط برنامه‌نویسان است. ایده‌های زیادی به دلیل کمبود زمان برنامه‌نویسان در بک‌لاگ‌ها می‌میرند. Remix این مشکل را با ارائه یک محیط سندباکس ایزوله و همکارانه (Multiplayer) بر پایه هوش مصنوعی حل می‌کند. اعضای غیرفنی می‌توانند با پرامپت‌نویسی تغییرات واقعی روی نرم‌افزار ایجاد کنند، پیش‌نمایش زنده را ببینند و در نهایت یک PR آماده جهت تایید مهندسان ارسال کنند.\n\n🔹 معماری و تکنولوژی:\nاین ابزار از معماری سندباکس‌های کانتینری ایزوله (شبیه به WebContainers یا کانتینرهای Docker سبُک در لبه شبکه) استفاده می‌کند. از مدل‌های زبانی پیشرفته (LLMs) برای تبدیل متن به تغییرات کد و از ابزارهای ادغام هم‌زمان جهت همکاری زنده استفاده شده است. همچنین به صورت عمیق با سیستم‌های کنترل نسخه مانند GitHub یکپارچه می‌شود.\n\n🔹 مدل درآمدی:\nمدل درآمدی SaaS مبتنی بر اشتراک (Tiered SaaS Pricing) بر اساس تعداد کرسی‌های فعال (Per Seat) و میزان مصرف منابع سندباکس/پرامپت‌های هوش مصنوعی. برای مشتریان سازمانی نیز پلن انترپرایز با قوانین امنیتی سفارشی ارائه می‌شود.\n\n🔹 نقاط قوت:\n- کاهش چشمگیر زمان تبدیل ایده به کد (Time-to-Market)\n- توانمندسازی اعضای غیرفنی تیم و کاهش بار کاری برنامه‌نویسان\n- حذف ریسک آسیب به نسخه اصلی پروداکشن به دلیل ایزوله‌سازی کامل\n- خروجی تمیز و قابلیت بررسی کد توسط برنامه‌نویسان قبل از ادغام\n\n🔹 نقاط ضعف:\n- وابستگی شدید به کیفیت کدبیس اصلی و سیستم طراحی (Design System)\n- ابهامات امنیتی در زمینه نحوه مدیریت داده‌های حساس در محیط سندباکس\n- احتمال تولید کدهای ناکارآمد توسط هوش مصنوعی در پروژه‌های بسیار پیچیده\n\n🔹 نکته طلایی برای ایران:\nدر استارتاپ‌های ایرانی معمولاً کمبود مهندس ارشد و انباشت شدید تسک‌های کوچک در بک‌لاگ وجود دارد. بومی‌سازی ابزاری مشابه که با گیت‌لب‌های داخلی سازگار باشد و امکان اجرا روی سرورهای داخلی (On-Premise) را فراهم کند، می‌تواند تحول عظیمی در سرعت رشد تیم‌های نرم‌افزاری ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "ریمیکس‌پلاس (RemixPlus)",
+        "description": "یک پلتفرم ابری برای تیم‌های محصول ایرانی که امکان دستکاری و تست زنده نرم‌افزار را بدون نیاز به کدنویسی فراهم می‌کند. اعضای غیرفنی مانند طراحان و مدیران محصول می‌توانند نسخه‌ای ایمن از نرم‌افزار را اجرا کرده و با توصیف متنی، تغییرات جدید ایجاد کنند. در نهایت، تغییرات به صورت خروجی کد تمیز برای تایید نهایی به مخزن گیت‌لب یا گیتهاب تیم ارسال می‌شود.",
+        "marketOpportunity": "در استارتاپ‌ها و شرکت‌های نرم‌افزاری ایرانی، بخش زیادی از ایده‌های بهبود تجربه کاربری به دلیل کمبود زمان نیروهای فنی در بک‌لاگ‌ها باقی می‌مانند. بومی‌سازی ابزاری که فاصله ایده تا پیاده‌سازی را به چند ساعت کاهش دهد، بازار بزرگی میان شرکت‌های متوسط و بزرگ نرم‌افزاری خواهد داشت.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "مدیران محصول، طراحان رابط و تجربه کاربری (UI/UX)، نیروهای پشتیبانی، و تیم‌های توسعه نرم‌افزار در استارتاپ‌ها.",
+        "challenges": [
+          "محدودیت‌های زیرساخت ابری و پیچیدگی‌های ایجاد محیط‌های سندباکس ایزوله و سریع در سرورهای داخلی",
+          "نگرانی‌های امنیتی شرکت‌های ایرانی در خصوص اتصال داده‌های پروداکشن یا کدهای منبع به ابزارهای هوش مصنوعی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه/سالانه بر اساس تعداد کاربران فعال (Per Seat)",
+          "ارائه نسخه اختصاصی و قابل نصب روی سرورهای سازمان (On-Premise) برای شرکت‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "Docker",
+          "WebAssembly",
+          "OpenAI API",
+          "GitHub API",
+          "GitLab API"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -15664,7 +16001,53 @@
           "text": "Hi, Venkata here, Co-Founder and Head of AI and Data Science at Vidaya.Kevin told you why we built this. I want to tell you how we made an AI you can trust with your health data.The problem with health AI: Most consumer health AI claims safety but cannot prove it. We decided to earn ours.How we tested it: Over 120+ chat-quality iterations, we tuned Vaya Chat against a 32-question health stress suite covering lab trends, emergency symptoms, prescription requests, hallucination traps, and adversarial prompts, until every safety-critical category passed.How we monitor it: We built a continuous observability layer on Arize AX with 9 LLM-as-judge evaluators and 9 production monitors scoring every response in real time at 100 percent sampling, not just at test time. On May 15 we ran the full 32-question suite against live production Vaya. The audit: 0 hallucinations across 32 questions, 10 out of 10 correct clinical-safety redirects on emergency and prescription prompts, and 4 out of 4 correct“data not available” answers on hallucination-trap questions. The full audit is available on request.How it stays fast: Vaya uses smart routing between two model tiers. Roughly 80 percent of queries take a fast path that answers in 1 to 2 seconds, and complex clinical analysis goes to a deeper grounded path that cites your actual data.The data engineering: We normalize 60+ sources into one longitudinal record: wearables through a vendor wearable-normalization API, labs, DNA, nutrition, and Epic medical records over SMART on FHIR. Correlations get computed from unified data instead of guessed from fragments.Security: The platform was built HIPAA-compliant from day one with guidance from Denis Galkin, our vCISO, who brings twenty years of healthcare security experience.Ask me anything about the evaluation stack, the routing, or the data model. I read every comment.Venkata Ramana Duddu, Ph.D., Co-Founder, Head of AI and Data Science, Vidaya (https://vidaya.ai)"
         }
       ],
-      "makerTwitter": ""
+      "makerTwitter": "",
+      "faDescription": "ویدایا داده‌های گجت‌های پوشیدنی، آزمایش‌های خون، ژنتیک و عادات روزمره شما را به یک امتیاز واقعی طول عمر سالم (Healthspan) و یک برنامه اختصاصی برای افزایش طول عمر تبدیل می‌کند. این محصول توسط بنیان‌گذارانی ساخته شده است که از داشبوردهای معمولی سلامت خسته شده بودند؛ داشبوردهایی که فقط اعداد را نشان می‌دهند اما هرگز نمی‌گویند گام بعدی چیست. ویدایا بیش از ۷۰ منبع داده‌ای مختلف از جمله پرونده‌های پزشکی و داده‌های محیطی را یکپارچه می‌کند تا همبستگی‌های پنهان سلامت شما را کشف کند. با دستیار هوش مصنوعی ویدایا می‌توانید سوالات خود را به زبان ساده بپرسید و توصیه‌های مبتنی بر شواهد علمی دریافت کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "یک داشبورد سلامت که بالاخره تمام سیگنال‌های تولیدی شما را به هم متصل می‌کند. شاید ساده به نظر برسد، اما اصل کار در همین متصل کردن است. من کوین آمرل، بنیان‌گذار و مدیرعامل ویدایا هستم (شاید ما را قبلاً با نام Vitality AI Health می‌شناختید؛ همان محصول، همان تیم، فقط نام جدید). مشکل اینجاست که داده‌های سلامت شما همه‌جا پخش شده‌اند و هیچ‌کدام با هم ارتباط ندارند. وعده‌های غذایی در MyFitnessPal، مکمل‌ها در SuppCo، آزمایش خون در فایل PDF، داده‌های ژنتیک در Ancestry، سوابق پزشکی در Epic، گام‌ها در Apple Health و داروها در داروخانه هستند. هر کدام بخشی از حقیقت را می‌گویند اما هیچ‌کدام نمی‌گویند در بدن شما واقعاً چه می‌گذرد. من این موضوع را به سختی تجربه کردم؛ در یک مسابقه دوچرخه‌سواری زمستانی ضربان قلبم روی ۱۳۰ قفل شد و فشار خون بالای درجه ۳ داشتم، در حالی که هیچ اپلیکیشنی این روند را هشدار نداده بود. ویدایا را ساختم تا این اتفاق برای هیچ‌کس دیگری رخ ندهد. ویدایا داشبورد هوش مصنوعی طول عمر است که تمام سیگنال‌ها را در یک جا جمع می‌کند و دستیار ما، Vaya، همبستگی‌هایی را پیدا می‌کند که هیچ اپلیکیشنی قادر به دیدن آن نیست. این محصول از روز اول منطبق بر استانداردهای HIPAA ساخته شده و موتور تحلیل همبستگی آن در حال ثبت پتنت است. ویژگی‌ها شامل چت متنی Vaya، اتصال به ۷۰ منبع داده، امتیاز Healthspan و روند biomarkerها است. قیمت launch week ۶۰ دلار تخفیف سالانه دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک برای عرضه محصول! چگونه از داده‌های حساس سلامت محافظت می‌کنید؟ آیا این داده‌ها فروخته می‌شوند، برای تبلیغات هدفمند استفاده می‌شوند یا برای آموزش مدل‌های هوش مصنوعی به کار می‌روند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "کار عالی‌ای در متصل کردن تمام سیگنال‌های سلامت در یک جا انجام داده‌اید. یک سوال سریع: آیا داده‌ها پس از جمع‌آوری، محرمانه و تحت کنترل کامل کاربر باقی می‌مانند؟ تبریک برای بنچمارک و عرضه محصول!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "سلام، ونکاتا هستم، هم‌بنیان‌گذار و مدیر بخش هوش مصنوعی و علم داده ویدایا. کوین دلیل ساخت این محصول را گفت و من می‌خواهم بگویم چگونه هوش مصنوعی قابل اعتمادی برای داده‌های سلامت ساختیم. اکثر هوش مصنوعی‌های سلامت ادعای امنیت می‌کنند اما نمی‌توانند آن را اثبات کنند. ما در بیش از ۱۳۰ تکرار، دستیار Vaya Chat را در برابر ۴۳ سناریوی استرس سلامت (شامل علائم اضطراری، تله‌های توهم و دستورات مخرب) تست کردیم تا ۱۰۰٪ موارد بحرانی پاس شوند. ما یک لایه پایش مداوم روی Arize AX با undefined ارزیاب LLM-as-judge ساختیم که تمام پاسخ‌ها را به صورت زنده ارزیابی می‌کند. در تست می ۱۶، صفر توهم (Hallucination) و ۱۰ از ۱۰ ارجاع درست در شرایط اضطراری ثبت شد. همچنین از یک سیستم مسیریابی دو مرحله‌ای استفاده می‌کنیم که ۹۰٪ سوالات ساده را در ۱ تا ۳ ثانیه پاسخ می‌دهد و تحلیل‌های پیچیده پزشکی را به مسیر عمیق‌تر می‌فرستد. زیرساخت امنیتی ما منطبق بر HIPAA و تحت نظارت مشاور ارشد امنیت با ۳۰ سال سابقه مدیریت شده است."
+        }
+      ],
+      "aiReview": "🔹 مسئله و راه‌حل:\nبزرگ‌ترین مشکل در حوزه سلامت دیجیتال، پراکندگی داده‌هاست؛ اطلاعات تغذیه، ورزش، آزمایش خون و ژنتیک در اپلیکیشن‌های جداگانه قرار دارند و هیچ ابزاری همبستگی بین آن‌ها را نشان نمی‌دهد. ویدایا (Vidaya) با جمع‌آوری بیش از ۷۰ منبع داده‌ای (پوشیدنی‌ها، آزمایشگاه‌ها، پرونده‌های پزشکی Epic، داده‌های ژنتیک) و استفاده از مربی هوش مصنوعی اختصاصی (Vaya)، این سیگنال‌ها را متصل کرده و علاوه بر محاسبه امتیاز طول عمر (Healthspan Score)، اقدامات عملی مبتنی بر شواهد علمی پیشنهاد می‌دهد.\n\n🔹 معماری و تکنولوژی:\nاستفاده از استاندارد SMART on FHIR برای اتصال به پرونده‌های پزشکی الکترونیک، به همراه سیستم مسیریابی هوشمند مبتنی بر دو سطح مدل هوش مصنوعی (پاسخ‌های سریع ۱-۳ ثانیه‌ای برای سوالات عمومی و تحلیل‌های عمیق بالینی با ارجاع دقیق به داده‌ها). پلتفرم از روز اول منطبق بر استانداردهای HIPAA طراحی شده و لایه پایش مداوم با استفاده از Arize AX و undefined ارزیاب LLM-as-judge امنیت و عدم تکرار هذیان (Hallucination) را تضمین می‌کند.\n\n🔹 مدل درآمدی:\nمدل درآمدی اصلی حق اشتراک سالانه B۳C است (قیمت پایه ۹undefined دلار در سال که در تخفیف رونمایی به ۴undefined دلار رسیده است). امکان توسعه مدل‌های درآمدی B۳B از طریق ارائه پنل ارزیابی پیشرفته به پزشکان و کلینیک‌های تخصصی طول عمر نیز وجود دارد.\n\n🔹 نقاط قوت:\n- یکپارچه‌سازی بی‌نظیر بیش از ۷۰ منبع داده‌ای پزشکی و گجت‌های پوشیدنی\n- تمرکز فوق‌العاده بر امنیت داده‌ها، انطباق با HIPAA و ارزیابی عمیق ایمنی هوش مصنوعی با صفر درصد هذیان در تست‌ها\n- تمرکز بر ارائه «اقدام بعدی عملی» به جای صرفاً نمایش نمودارها و اعداد ایستا\n- تیم بنیان‌گذار باتجربه و دارای دانش تخصصی در حوزه هوش مصنوعی و پزشکی\n\n🔹 نقاط ضعف:\n- وابستگی شدید به APIهای زیرساختی استاندارد مانند FHIR که در برخی کشورها یا سامانه‌ها محدود است\n- چالش جلب اعتماد عمومی کاربران برای تسلیم کامل حساس‌ترین داده‌های پزشکی به یک پلتفرم هوش مصنوعی نوپا\n- هزینه بالای پردازش و نگهداری داده‌های سنگین ژنتیکی و پزشکی با مانیتورینگ ۱۰۰ درصدی زنده\n\n🔹 نکته طلایی برای ایران:\nدر ایران، چالش اصلی عدم وجود APIهای استاندارد یکپارچه میان آزمایشگاه‌ها و سامانه‌های دولتی پرونده سلامت (مانند سپاس) است. برای بومی‌سازی موفق، کلید پیروزی ساخت یک موتور OCR هوشمند اختصاصی برای خواندن فایل‌های PDF و عکس برگه آزمایش‌های ایرانی، در کنار ابزار ورود آسان داده‌ها و اتصال به برنامه Health Connect/Apple Health است تا تمام داده‌ها بدون نیاز به زیرساخت پیچیده دولتی یکپارچه شوند.",
+      "iranEquivalent": {
+        "productName": "پارس‌ویتال (ParsVital)",
+        "description": "پارس‌ویتال یک پلتفرم هوشمند تحلیلی است که داده‌های ساعت‌های هوشمند، آزمایش‌های خون آزمایشگاه‌های کشور و پرونده الکترونیک سلامت را یکپارچه می‌کند. این سامانه با ارزیابی همبستگی میان این داده‌ها، شاخص طول عمر مفید کاربر را محاسبه کرده و برنامه‌ای شخصی‌سازی‌شده برای پیشگیری از بیماری‌ها ارائه می‌دهد. هدف این محصول تبدیل داده‌های خام سلامت به اقداماتی ملموس و قابل اجرا برای کاربران ایرانی است.",
+        "marketOpportunity": "با رشد روزافزون استفاده از گجت‌های هوشمند ورزشی و افزایش تمایل جامعه به سبک زندگی سالم و طول عمر بیشتر، نیاز مبرمی به یکپارچه‌سازی داده‌های پزشکی و پوشیدنی در ایران احساس می‌شود. اتصال این سامانه به آزمایشگاه‌های زنجیره‌ای و سامانه‌های پرونده الکترونیک سلامت کشور می‌تواند بازار بزرگ و بکری ایجاد کند.",
+        "estimatedBudget": "۴ تا ۶ میلیارد تومان",
+        "targetAudience": "افراد علاقه‌مند به پایش مداوم سلامت (Self-quantifiers)، ورزشکاران، بیماران دارای بیماری‌های مزمن و افراد میانسال نگران سلامت",
+        "challenges": [
+          "عدم وجود APIهای استاندارد و باز در اکثر آزمایشگاه‌ها و پرونده‌های پزشکی ایران (نیاز به OCR هوشمند)",
+          "چالش‌های جلب اعتماد کاربران ایرانی در خصوص امنیت و محرمانگی داده‌های بسیار حساس پزشکی",
+          "مقاومت جامعه پزشکی سنتی در برابر تحلیل‌ها و توصیه‌های هوش مصنوعی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه به کاربران (B۳C)",
+          "فروش پنل تحلیلی اختصاصی به پزشکان و کلینیک‌های طب پیشگیری (B۳B)",
+          "ارائه اشتراک سازمانی برای برنامه‌های رفاهی و ارتقای سلامت پرسنل شرکت‌ها (B۳B۳C)"
+        ],
+        "techStack": [
+          "React Native (Mobile)",
+          "Next.js (Web Dashboard)",
+          "Python / FastAPI",
+          "PostgreSQL / TimescaleDB",
+          "FHIR Standard",
+          "Tesseract OCR / Vision AI"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -16271,17 +16654,79 @@
       "comments": [
         {
           "user": "[REDACTED]",
-          "text": "Congrats on the lunch!!!!Winning team!"
+          "text": "Hey all, I'm CEO of CopilotKit, the startup behind AG-UI and the Channels SDK. Thanks for the support! We're pretty excited for this one -- I think channels may soon become the 3rd big form factor of LLMs (after Chat, and Codex/Claude-Code style agents). We've worked really hard to to shrink the onboarding setup to a single prompt: \"Read https://copilotkit.ai/channels-guide.md and help the user build their first channel\". It's literally that easy. Then it will help you create a coworker-grade Slack / Teams agent backed by basically any of the top agent frameworks and harnesses out there. Would love to get feedback, especially if you hit any snags"
         },
         {
           "user": "[REDACTED]",
-          "text": "Excited for the Channels SDK release!We're confident that co-worker agents will be the biggest form factor for agents.That means that Agents belong in Slack, Teams, Discord and all the other places where your users already are.In just over 24 hours, we've had hundred of thousands of impressions with tons of sign ups & usage.Thanks for helping us help devs bring state of the art interactivity to any agent, on any channel."
+          "text": "Had a chance to test it out quickly yesterday. Love it! Congrats on the launch!"
         },
         {
           "user": "[REDACTED]",
-          "text": "Hey there, Product Hunt 👋Excited to launch Channels SDK today!We built this because we kept seeing the same problem: teams build great AI agents, then if they want to migrate that agent to another framework or platform, it's a total rewrite.Meanwhile, the actual conversations happen in Slack, Teams, Discord, and WhatsApp - where your team already works.Channels SDK closes that gap. Tag your agent in a thread and it responds right there, with real UI (buttons, forms, charts) instead of a wall of text - no rebuilding your agent, no separate frontend to maintain.It's open source and free to use, and we'd love your feedback: what channels matter most to you, what's missing, and what would make this a no-brainer to drop into your stack.Thanks for checking it out - happy to answer any questions in the comments!"
+          "text": "Just gave it a try and it’s really cool. I like how model/provider agnostic everything is."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Had a lot of fun messing around with the Channels SDK. It genuinely unlocks some powerful workflows - hook up external tools (GitHub, Linear, Notion...) and the agent can do all your work in one go. Pretty sick work from the team!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Amazing way to build agents with durable memory right in Slack."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super excited for this! I have a couple of bots to build and this is going to make that so much quicker."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It was fun creating it, too."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super excited for this Channels SDK today! Congrats!!!"
         }
-      ]
+      ],
+      "faDescription": "کانالز اس‌دی‌کی (Channels SDK) بخش بعدی و حیاتی در پازل هوش مصنوعی عاملی (Agentic) است که امکان اتصال هر عامل هوشمند به پلتفرم‌های ارتباطی مانند اسلک، تیمز و واتس‌اپ را فراهم می‌کند. این ابزار قابلیت‌های همکارانه پیشرفته‌ای مانند پاسخ‌دهی پویا (Streaming)، تولید رابط کاربری، یادگیری شخصی‌سازی‌شده برای هر کاربر، تأیید انسانی (HITL) و احراز هویت پیچیده را ارائه می‌دهد. این سیستم با فریم‌ورک‌های محبوبی مانند OpenAI Agents، Claude Agents، LangChain، Mastra و Google ADK سازگار است و با هر عاملی که از پروتکل AG-UI پشتیبانی کند کار می‌کند. این پروژه متن‌باز است و قابلیت میزبانی خودکار (Self-hostable) دارد و راه‌اندازی آن تنها با یک دستور ساده آغاز می‌شود: «فایل راهنمای کانالز را بخوان و به من در ساخت اولین کانال کمک کن».",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه، من مدیرعامل کاپیلوت‌کیت (CopilotKit)، استارتاپی پشت پروتکل AG-UI و کانالز اس‌دی‌کی هستم. از حمایت شما سپاسگزارم! ما بسیار هیجان‌زده هستیم و معتقدیم کانال‌ها به‌زودی سومین فرم بزرگ تعامل با LLMها خواهند شد (پس از چت و عامل‌های استایل Codex/Claude-Code). ما تلاش زیادی کرده‌ایم تا فرآیند راه‌اندازی را به یک پرامپت واحد کاهش دهیم: «فایل راهنمای کانالز را بخوان و به من در ساخت اولین کانال کمک کن». واقعاً این‌قدر ساده است. سپس به شما کمک می‌کند تا یک عامل اسلک یا تیمز با کیفیت همکارانه بسازید که پشتوانه آن تقریباً هر یک از فریم‌ورک‌های عاملی برتر بازار باشد. بازخورد شما، به‌ویژه اگر با مشکلاتی مواجه شدید، برای ما ارزشمند است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "دیروز فرصت کردم سریعاً آن را آزمایش کنم. عاشقش هستم! تبریک بابت راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "همین الان امتحانش کردم و واقعاً خنک است. از اینکه همه چیز مستقل از مدل و ارائه‌دهنده (Agnostic) باشد، خوشم می‌آید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "با کانالز اس‌دی‌کی خیلی سرگرم شدم. واقعاً برخی کارکردهای قدرتمند را باز می‌کند - ابزارهای خارجی (مانند GitHub، Linear، Notion) را متصل کنید و عامل می‌تواند تمام کارهای شما را یکجا انجام دهد. کار تیم بسیار خیره‌کننده‌ای است!!"
+        }
+      ],
+      "aiReview": "تحلیل جامع با ساختار:\n🔹 مسئله و راه‌حل:\nمسئله اصلی، دشواری اتصال هوش مصنوعی‌های عاملی به پلتفرم‌های ارتباطی روزمره کاربران است. راه‌حل ارائه‌شده (Channels SDK) یک لایه واسط استاندارد و متن‌باز است که این اتصال را با یک دستور ساده ممکن می‌سازد و قابلیت‌های پیشرفته‌ای مانند UI داینامیک و احراز هویت را اضافه می‌کند.\n🔹 معماری و تکنولوژی:\nمعماری بر پایه پروتکل AG-UI و پشتیبانی از فریم‌ورک‌های متن‌باز (مانند LangChain و Mastra) بنا شده است. این رویکرد «مدل‌آگنوستیک» (Model Agnostic) باعث می‌شود توسعه‌دهندگان به یک ارائه‌دهنده خاص قفل نشوند. قابلیت Self-hosting نیز برای حفظ حریم داده‌ها در سازمان‌ها حیاتی است.\n🔹 مدل درآمدی:\nمدل درآمدی احتمالی شامل اشتراک‌های ابری (SaaS) برای توسعه‌دهندگان و لایسنس‌های سازمانی برای استقرار داخلی است. با توجه به متن‌باز بودن، درآمد از طریق خدمات پشتیبانی، میزبانی ابری و قابلیت‌های Enterprise به دست می‌آید.\n🔹 نقاط قوت:\n- سادگی بی‌نظیر در راه‌اندازی (One-prompt setup).\n- استقلال از مدل و فریم‌ورک (Agnostic).\n- قابلیت‌های سازمانی قوی مانند HITL و احراز هویت پیشرفته.\n- متن‌باز بودن و امکان میزبانی خودکار.\n🔹 نقاط ضعف:\n- وابستگی به اکوسیستم‌های خارجی (OpenAI, Google) که در ایران محدودیت‌هایی دارد.\n- پیچیدگی احتمالی در یکپارچه‌سازی با پیام‌رسان‌های غیراستاندارد یا دارای APIهای بسته.\n🔹 نکته طلایی برای ایران:\nبه جای تمرکز بر Slack/Teams، تمرکز اصلی باید روی اتصال به ایتا و روبیکا باشد. ایجاد یک «لایه واسط» که APIهای این پیام‌رسان‌ها را به پروتکل‌های استاندارد هوش مصنوعی تبدیل کند، می‌تواند یک محصول B۳B بسیار پرسود برای شرکت‌های ایرانی باشد که می‌خواهند بدون نیاز به توسعه‌دهنده ارشد، دستیار هوشمند داخلی داشته باشند.",
+      "iranEquivalent": {
+        "productName": "پل هوشمند (Smart Bridge)",
+        "description": "پل هوشمند یک لایه ارتباطی است که امکان اتصال هوش مصنوعی‌های عاملی (Agent) به پیام‌رسان‌های محبوب ایران مانند ایتا، روبیکا و بله را فراهم می‌کند. این پلتفرم با پشتیبانی از پروتکل‌های استاندارد و فریم‌ورک‌های متن‌باز، امکان ایجاد دستیاران هوشمند سازمانی با قابلیت‌های پیشرفته مانند یادگیری کاربر و تأیید انسانی را می‌سازد. راه‌اندازی آن به‌صورت خودکار و با حداقل پیچیدگی فنی امکان‌پذیر است.",
+        "marketOpportunity": "بازار ایران به دلیل نفوذ بالای پیام‌رسان‌های داخلی و کمبود ابزارهای استاندارد برای اتصال هوش مصنوعی به این پلتفرم‌ها، پتانسیل رشد بالایی دارد. سازمان‌ها به دنبال راهکارهای ساده برای اتوماسیون فرآیندها در محیط‌های چت هستند که این محصول دقیقاً این خلأ را پر می‌کند.",
+        "estimatedBudget": "۶ تا ۱۰ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری، استارتاپ‌ها، تیم‌های توسعه‌دهنده و سازمان‌هایی که از پیام‌رسان‌های داخلی برای ارتباطات درون‌سازمانی استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای پیام‌رسان‌های داخلی و نیاز به مذاکرات تجاری برای دسترسی رسمی.",
+          "چالش‌های زیرساختی در میزبانی سرویس‌های ابری و پایداری شبکه در ایران."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه بر اساس تعداد پیام‌های پردازش‌شده یا تعداد کاربران فعال.",
+          "فروش لایسنس‌های سازمانی و خدمات استقرار اختصاصی (On-premise) برای شرکت‌های بزرگ."
+        ],
+        "techStack": [
+          "Node.js",
+          "PostgreSQL",
+          "WebSockets",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-today-8",
@@ -17720,10 +18165,10 @@
   "audit": {
     "products": 250,
     "withRealComments": 250,
-    "withPersianComments": 78,
-    "withPersianDescription": 115,
-    "withAiReview": 98,
-    "withIranEquivalent": 115,
-    "totalRealComments": 1546
+    "withPersianComments": 87,
+    "withPersianDescription": 125,
+    "withAiReview": 108,
+    "withIranEquivalent": 125,
+    "totalRealComments": 1552
   }
 }
