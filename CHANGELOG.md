@@ -1,3 +1,10 @@
+# [1.72.0](https://github.com/IdehJo/idehjo/compare/v1.71.0...v1.72.0) (2026-09-07)
+
+
+### Features
+
+* wire topical authority graph into public discovery surfaces ([d04b470](https://github.com/IdehJo/idehjo/commit/d04b4704da8c877f56d30fdefdfb18943148f76f))
+
 # [1.71.0](https://github.com/IdehJo/idehjo/compare/v1.70.0...v1.71.0) (2026-09-03)
 
 
