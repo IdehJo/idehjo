@@ -3,7 +3,8 @@ import type { ReactNode } from 'react';
 import { DiscoveryReturnLink } from '@/components/DiscoveryReturnLink';
 import { ProductEvidenceBlock } from '@/components/ProductEvidenceBlock';
 import { ProductFreshnessSummary } from '@/components/FreshnessSummary';
-import { loadCorpusProduct } from '@/lib/corpus';
+import { TopicalAuthorityLinks } from '@/components/TopicalAuthorityLinks';
+import { loadCorpusProduct, loadCorpusProducts } from '@/lib/corpus';
 import {
   buildProductEntityGraph,
   buildProductMetadata,
@@ -35,7 +36,10 @@ export default async function ProductLayout({
   params,
 }: ProductLayoutProps) {
   const { slug } = await params;
-  const product = await loadCorpusProduct(slug);
+  const [product, products] = await Promise.all([
+    loadCorpusProduct(slug),
+    loadCorpusProducts(),
+  ]);
   const entityGraph = product ? buildProductEntityGraph(product) : null;
 
   return (
@@ -52,6 +56,14 @@ export default async function ProductLayout({
       {children}
       {product && <ProductEvidenceBlock product={product} />}
       {product && <ProductFreshnessSummary product={product} />}
+      {product && (
+        <TopicalAuthorityLinks
+          products={products}
+          nodeId={`product:${product.slug}`}
+          currentHref={`/product/${product.slug}`}
+          title="موضوع‌ها، راهنماها و مقایسه‌های مرتبط با این محصول"
+        />
+      )}
     </>
   );
 }

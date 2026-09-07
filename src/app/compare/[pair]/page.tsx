@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { EvidenceSummary } from '@/components/EvidenceSummary';
+import { TopicalAuthorityLinks } from '@/components/TopicalAuthorityLinks';
 import {
   buildEligibleComparisonPairs,
   findComparisonProducts,
@@ -29,7 +30,7 @@ async function resolveComparison(pairSlug: string) {
   const comparison = findComparisonProducts(products, parsed.leftSlug, parsed.rightSlug);
   if (!comparison) return null;
 
-  return { comparison, canonicalPair: normalizeComparisonPair(comparison.left.slug, comparison.right.slug) };
+  return { comparison, canonicalPair: normalizeComparisonPair(comparison.left.slug, comparison.right.slug), products };
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -59,7 +60,7 @@ export default async function ComparisonPage({ params }: Props) {
   const resolved = await resolveComparison(pair);
   if (!resolved) notFound();
 
-  const { comparison, canonicalPair } = resolved;
+  const { comparison, canonicalPair, products } = resolved;
   if (pair !== canonicalPair.slug) permanentRedirect(`/compare/${canonicalPair.slug}`);
 
   const canonical = `${SITE_URL}/compare/${canonicalPair.slug}`;
@@ -161,6 +162,13 @@ export default async function ComparisonPage({ params }: Props) {
           </article>
         ))}
       </section>
+
+      <TopicalAuthorityLinks
+        products={products}
+        nodeId={`comparison:${canonicalPair.slug}`}
+        currentHref={`/compare/${canonicalPair.slug}`}
+        title="محصول‌ها و مسیرهای مرتبط با این مقایسه"
+      />
     </main>
   );
 }

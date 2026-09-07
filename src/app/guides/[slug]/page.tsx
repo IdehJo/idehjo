@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { EvidenceSummary } from '@/components/EvidenceSummary';
+import { TopicalAuthorityLinks } from '@/components/TopicalAuthorityLinks';
 import { buildDecisionGuides, findDecisionGuide } from '@/lib/decision-guides';
 import { aggregateEvidence } from '@/lib/evidence-layer';
 import { loadCorpusProducts } from '@/lib/corpus';
@@ -16,12 +17,12 @@ export async function generateStaticParams() {
 
 async function resolveGuide(slug: string) {
   const products = await loadCorpusProducts();
-  return findDecisionGuide(products, slug);
+  return { guide: findDecisionGuide(products, slug), products };
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const guide = await resolveGuide(slug);
+  const { guide } = await resolveGuide(slug);
 
   if (!guide) return { title: 'راهنما پیدا نشد', robots: { index: false, follow: false } };
 
@@ -40,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function GuidePage({ params }: Props) {
   const { slug } = await params;
-  const guide = await resolveGuide(slug);
+  const { guide, products } = await resolveGuide(slug);
   if (!guide) notFound();
 
   const canonical = `${SITE_URL}/guides/${guide.slug}`;
@@ -115,6 +116,13 @@ export default async function GuidePage({ params }: Props) {
           </article>
         ))}
       </section>
+
+      <TopicalAuthorityLinks
+        products={products}
+        nodeId={`guide:${guide.slug}`}
+        currentHref={`/guides/${guide.slug}`}
+        title="موضوع‌ها و مسیرهای مرتبط با این راهنما"
+      />
     </main>
   );
 }

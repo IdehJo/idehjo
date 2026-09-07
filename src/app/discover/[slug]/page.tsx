@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { TopicalAuthorityLinks } from '@/components/TopicalAuthorityLinks';
 import { loadCorpusProducts } from '@/lib/corpus';
 import { buildDiscoveryTopics, findDiscoveryTopic } from '@/lib/discovery-growth';
 import { SITE_NAME, SITE_URL } from '@/lib/seo-geo';
@@ -149,6 +150,13 @@ export default async function DiscoveryTopicPage({ params }: Props) {
           ))}
         </div>
       </section>
+
+      <TopicalAuthorityLinks
+        products={products}
+        nodeId={`topic:${topic.slug}`}
+        currentHref={`/discover/${topic.slug}`}
+        title="راهنماها، محصولات و مقایسه‌های مرتبط با این موضوع"
+      />
     </main>
   );
 }

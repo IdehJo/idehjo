@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { EvidenceSummary } from '@/components/EvidenceSummary';
+import { TopicalAuthorityLinks } from '@/components/TopicalAuthorityLinks';
 import {
   buildEligibleAlternativeTargets,
   normalizeComparisonPair,
@@ -29,7 +30,7 @@ async function resolveAlternatives(slug: string) {
   const alternatives = rankAlternatives(target, products, 12);
   if (alternatives.length < 3) return null;
 
-  return { target, alternatives };
+  return { target, alternatives, products };
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -59,7 +60,7 @@ export default async function AlternativesPage({ params }: Props) {
   const resolved = await resolveAlternatives(slug);
   if (!resolved) notFound();
 
-  const { target, alternatives } = resolved;
+  const { target, alternatives, products } = resolved;
   const canonical = `${SITE_URL}/alternatives/${encodeURIComponent(target.slug)}`;
   const visible = alternatives.slice(0, 12);
   const evidenceProducts = [target, ...visible];
@@ -145,6 +146,13 @@ export default async function AlternativesPage({ params }: Props) {
           );
         })}
       </section>
+
+      <TopicalAuthorityLinks
+        products={products}
+        nodeId={`product:${target.slug}`}
+        currentHref={`/alternatives/${target.slug}`}
+        title="موضوع‌ها، راهنماها و مقایسه‌های مرتبط با این محصول"
+      />
     </main>
   );
 }
