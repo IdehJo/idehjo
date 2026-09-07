@@ -17,9 +17,17 @@ type Props = {
   params: Promise<{ pair: string }>;
 };
 
+const STATIC_COMPARISON_BUDGET = 120;
+
+export const dynamicParams = true;
+export const revalidate = 86400;
+
 export async function generateStaticParams() {
   const products = await loadCorpusProducts();
-  return buildEligibleComparisonPairs(products).map((pair) => ({ pair: pair.slug }));
+
+  return buildEligibleComparisonPairs(products)
+    .slice(0, STATIC_COMPARISON_BUDGET)
+    .map((pair) => ({ pair: pair.slug }));
 }
 
 async function resolveComparison(pairSlug: string) {
