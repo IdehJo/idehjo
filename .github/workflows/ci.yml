@@ -8,7 +8,7 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v6
 
@@ -25,8 +25,19 @@ jobs:
       - name: Test
         run: bun run test
 
+      - name: Final product readiness
+        id: readiness
+        continue-on-error: true
+        run: bun run audit:readiness
+
       - name: Build
         env:
           DATABASE_URL: postgresql://user:pass@localhost:5432/db
           ADMIN_EMAIL: admin@example.com
         run: bun x next build
+
+      - name: Enforce final product readiness
+        if: steps.readiness.outcome != 'success'
+        run: |
+          echo "Final product readiness gate is red; production publish remains locked."
+          exit 1

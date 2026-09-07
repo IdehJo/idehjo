@@ -1,57 +1,33 @@
 {
   "status": "success",
-  "lastAttemptAt": "2026-09-07T00:12:52.332Z",
-  "lastSuccessAt": "2026-09-07T00:13:16.747Z",
+  "lastAttemptAt": "2026-09-07T11:00:07.584Z",
+  "lastSuccessAt": "2026-09-07T11:00:26.936Z",
   "lastFailureAt": "2026-08-30T05:21:12.905Z",
   "lastFailureReason": null,
   "consecutiveFailures": 0,
   "recentRuns": [
     {
       "status": "success",
-      "startedAt": "2026-09-07T00:12:52.332Z",
-      "finishedAt": "2026-09-07T00:13:16.747Z",
+      "startedAt": "2026-09-07T11:00:07.584Z",
+      "finishedAt": "2026-09-07T11:00:26.936Z",
       "error": null
     },
     {
       "status": "success",
-      "startedAt": "2026-09-06T22:14:30.002Z",
-      "finishedAt": "2026-09-06T22:14:48.145Z",
+      "startedAt": "2026-09-04T06:27:56.406Z",
+      "finishedAt": "2026-09-04T06:28:21.308Z",
       "error": null
     },
     {
       "status": "success",
-      "startedAt": "2026-09-06T00:08:27.536Z",
-      "finishedAt": "2026-09-06T00:08:50.816Z",
+      "startedAt": "2026-09-04T06:01:01.192Z",
+      "finishedAt": "2026-09-04T06:01:30.317Z",
       "error": null
     },
     {
       "status": "success",
-      "startedAt": "2026-09-05T22:10:16.701Z",
-      "finishedAt": "2026-09-05T22:10:38.356Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-05T00:16:54.279Z",
-      "finishedAt": "2026-09-05T00:17:18.055Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-04T22:29:15.094Z",
-      "finishedAt": "2026-09-04T22:29:38.024Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-04T00:16:35.554Z",
-      "finishedAt": "2026-09-04T00:17:06.272Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-03T22:44:49.589Z",
-      "finishedAt": "2026-09-03T22:45:18.695Z",
+      "startedAt": "2026-09-04T04:47:41.144Z",
+      "finishedAt": "2026-09-04T04:48:04.412Z",
       "error": null
     },
     {
@@ -125,6 +101,30 @@
       "startedAt": "2026-08-30T00:34:17.546Z",
       "finishedAt": "2026-08-30T00:34:45.089Z",
       "error": null
+    },
+    {
+      "status": "success",
+      "startedAt": "2026-08-29T22:45:05.184Z",
+      "finishedAt": "2026-08-29T22:45:29.805Z",
+      "error": null
+    },
+    {
+      "status": "success",
+      "startedAt": "2026-08-29T12:11:32.632Z",
+      "finishedAt": "2026-08-29T12:11:56.214Z",
+      "error": null
+    },
+    {
+      "status": "success",
+      "startedAt": "2026-08-29T11:35:17.786Z",
+      "finishedAt": "2026-08-29T11:35:37.891Z",
+      "error": null
+    },
+    {
+      "status": "failed",
+      "startedAt": "2026-08-29T02:53:14.090Z",
+      "finishedAt": "2026-08-29T02:53:34.562Z",
+      "error": "Refusing to publish incomplete scrape: - today: today contains no product with a real vote count"
     }
   ]
 }

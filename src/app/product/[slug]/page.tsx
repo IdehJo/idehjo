@@ -12,7 +12,7 @@ import { loadLatest } from '@/lib/storage';
 import { loadCorpusProduct } from '@/lib/corpus';
 import { PERIODS } from '@/lib/scraper';
 import { withUtm } from '@/lib/utm';
-import type { PeriodKey } from '@/types';
+import type { PeriodKey, Product } from '@/types';
 
 export const dynamic = 'force-dynamic';
 
@@ -26,7 +26,7 @@ function formatShamsiFull(isoStr: string): string {
 }
 
 function formatBudget(s: string): string {
-  return /^\\d+$/.test(s) ? Number(s).toLocaleString('fa-IR') + ' تومان' : s;
+  return /^\d+$/.test(s) ? Number(s).toLocaleString('fa-IR') + ' تومان' : s;
 }
 
 function findRank(data: any, slug: string): { key: PeriodKey; fa: string; rank: number } | null {
@@ -42,13 +42,18 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const data = await loadLatest();
 
-  let product = null;
+  let product: Product | null = null;
   if (data) {
     for (const key of ['today', 'yesterday', 'week', 'month', 'year'] as const) {
       const found = (data.periods[key] ?? []).find((p) => p.slug === slug);
       if (found) { product = found; break; }
     }
   }
+
+  // The public product archive is the persistent corpus, not only the five
+  // rolling periods in the latest daily dataset. Historical product URLs must
+  // therefore remain resolvable after they rotate out of the latest periods.
+  if (!product) product = await loadCorpusProduct(slug);
 
   if (!product) {
     return (
@@ -70,7 +75,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       </Link>
 
       <article className="mt-4 overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-xl dark:border-gray-800 dark:bg-gray-900">
-        {/* Hero */}
         <div className="flex flex-col gap-4 p-6 sm:flex-row sm:items-start">
           {product.thumbnail ? (
             // eslint-disable-next-line @next/next/no-img-element
@@ -112,7 +116,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           </div>
         </div>
 
-        {/* Screenshot (کلاینت کامپوننت) */}
         <div className="px-6">
           <div className="overflow-hidden rounded-2xl border border-gray-200 shadow-lg dark:border-gray-700">
             <Screenshot src={screenshot} alt={`اسکرین‌شات ${product.name}`} />
@@ -127,20 +130,14 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
           <div className="flex flex-wrap gap-2">
             {(product.categoryFa ?? product.category).split('•').map((c) => (
-              <Link
-                key={c}
-                href={`/tag/${encodeURIComponent(c.trim())}`}
-                className="rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-indigo-700 transition hover:from-[#ff6154] hover:to-[#e5544a] hover:text-white dark:bg-indigo-950 dark:text-indigo-200"
-              >
+              <Link key={c} href={`/tag/${encodeURIComponent(c.trim())}`} className="rounded-full bg-blue-50 px-3 py-1 text-xs font-bold text-indigo-700 transition hover:from-[#ff6154] hover:to-[#e5544a] hover:text-white dark:bg-indigo-950 dark:text-indigo-200">
                 #{c.trim()}
               </Link>
             ))}
           </div>
 
           {product.faDescription && (
-            <p className="rounded-2xl border border-orange-200 bg-orange-50/70 p-4 text-sm leading-8 text-gray-800 dark:border-orange-900/40 dark:bg-orange-950/30 dark:text-orange-100">
-              🇮🇷 {product.faDescription}
-            </p>
+            <p className="rounded-2xl border border-orange-200 bg-orange-50/70 p-4 text-sm leading-8 text-gray-800 dark:border-orange-900/40 dark:bg-orange-950/30 dark:text-orange-100">🇮🇷 {product.faDescription}</p>
           )}
 
           <GatedContent product={product} />
@@ -179,20 +176,14 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             <ShareButtons url={`/product/${product.slug}`} name={product.name} />
           </div>
 
-                    {product.aiReview && <AiReview text={product.aiReview} />}
+          {product.aiReview && <AiReview text={product.aiReview} />}
 
           {(product.websiteUrl || product.makerTwitter || product.url) && (
             <div className="flex flex-wrap items-center gap-2">
               <span className="text-xs font-bold text-gray-500 dark:text-gray-400">لینک‌های رسمی:</span>
-              {product.websiteUrl && (
-                <a href={withUtm(product.websiteUrl)} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🌐 وب‌سایت رسمی</a>
-              )}
-              {product.makerTwitter && (
-                <a href={`https://twitter.com/${product.makerTwitter}`} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🐦 توییتر سازنده</a>
-              )}
-              {product.url && (
-                <a href={product.url} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🚀 صفحه لانچ</a>
-              )}
+              {product.websiteUrl && <a href={withUtm(product.websiteUrl)} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🌐 وب‌سایت رسمی</a>}
+              {product.makerTwitter && <a href={`https://twitter.com/${product.makerTwitter}`} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🐦 توییتر سازنده</a>}
+              {product.url && <a href={product.url} target="_blank" rel="noreferrer" className="rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-bold text-gray-700 transition hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">🚀 صفحه لانچ</a>}
             </div>
           )}
 
@@ -216,4 +207,3 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
     </main>
   );
 }
-

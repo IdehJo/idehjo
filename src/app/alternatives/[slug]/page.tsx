@@ -17,9 +17,17 @@ type Props = {
   params: Promise<{ slug: string }>;
 };
 
+const STATIC_ALTERNATIVE_BUDGET = 120;
+
+export const dynamicParams = true;
+export const revalidate = 86400;
+
 export async function generateStaticParams() {
   const products = await loadCorpusProducts();
-  return buildEligibleAlternativeTargets(products).map((product) => ({ slug: product.slug }));
+
+  return buildEligibleAlternativeTargets(products)
+    .slice(0, STATIC_ALTERNATIVE_BUDGET)
+    .map((product) => ({ slug: product.slug }));
 }
 
 async function resolveAlternatives(slug: string) {

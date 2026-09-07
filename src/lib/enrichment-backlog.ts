@@ -1,11 +1,36 @@
 import type { Product } from '@/types';
 
+const MALFORMED = /(?:\bundefined\b|\bnull\b|\bnan\b|\btodo\b|\btbd\b|\[object Object\])/i;
+
+function validText(value: unknown): boolean {
+  return typeof value === 'string' && Boolean(value.trim()) && !MALFORMED.test(value);
+}
+
+function completeIranEquivalent(product: Product): boolean {
+  const value = product.iranEquivalent;
+  if (!value) return false;
+  return Boolean(
+    validText(value.productName) &&
+      validText(value.description) &&
+      validText(value.marketOpportunity) &&
+      validText(value.estimatedBudget) &&
+      validText(value.targetAudience) &&
+      value.challenges?.length && value.challenges.every(validText) &&
+      value.monetization?.length && value.monetization.every(validText) &&
+      value.techStack?.length && value.techStack.every(validText) &&
+      Number.isFinite(value.confidence) && value.confidence >= 0 && value.confidence <= 100,
+  );
+}
+
 export function getEnrichmentCompleteness(product: Product) {
-  const faDescription = Boolean(product.faDescription?.trim());
-  const faComments = (product.faComments?.length ?? 0) > 0 &&
-    (product.faComments ?? []).some((c) => /[\u0600-\u06FF]/.test(c.text ?? ''));
-  const aiReview = Boolean(product.aiReview?.trim());
-  const iranEquivalent = Boolean(product.iranEquivalent);
+  const faDescription = validText(product.faDescription);
+  const sourceComments = product.comments ?? [];
+  const translatedComments = (product.faComments ?? []).filter(
+    (comment) => validText(comment.text) && /[\u0600-\u06FF]/.test(comment.text ?? ''),
+  );
+  const faComments = sourceComments.length === 0 || translatedComments.length >= sourceComments.length;
+  const aiReview = validText(product.aiReview);
+  const iranEquivalent = completeIranEquivalent(product);
   const completeFields = [faDescription, faComments, aiReview, iranEquivalent].filter(Boolean).length;
   return { faDescription, faComments, aiReview, iranEquivalent, completeFields, missingFields: 4 - completeFields };
 }

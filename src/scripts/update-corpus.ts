@@ -16,6 +16,7 @@ async function main() {
 
   const latestName = files[0];
   const latest = JSON.parse(await readFile(path.join(DATA_DIR, latestName), 'utf8')) as DailyData;
+  const dailyFeatured = latest.periods?.today?.length ?? 0;
 
   const unique = new Map<string, Product>();
   for (const key of ['today', 'yesterday', 'week', 'month', 'year'] as const) {
@@ -44,11 +45,12 @@ async function main() {
   await writeFile(HEALTH_FILE, JSON.stringify({
     checkedAt: new Date().toISOString(),
     latestDataset: latestName,
+    dailyFeatured,
     dailyNewQuota: DEFAULT_DAILY_NEW_QUOTA,
     discovered: report.discovered,
     canonical: report.canonical,
-    acceptedNew: report.acceptedNew,
-    duplicates: report.duplicates,
+    netNewCorpus: report.acceptedNew,
+    duplicatesOrExisting: report.duplicates,
     rejected: report.rejected,
     before: report.before,
     after: report.after,
@@ -58,10 +60,11 @@ async function main() {
 
   console.log('✅ Unique corpus growth complete');
   console.log(`   dataset: ${latestName}`);
-  console.log(`   discovered: ${report.discovered}`);
-  console.log(`   canonical: ${report.canonical}`);
-  console.log(`   accepted new: ${report.acceptedNew}/${DEFAULT_DAILY_NEW_QUOTA}`);
-  console.log(`   duplicates: ${report.duplicates}`);
+  console.log(`   daily featured: ${dailyFeatured}`);
+  console.log(`   discovered across periods: ${report.discovered}`);
+  console.log(`   canonical across periods: ${report.canonical}`);
+  console.log(`   net-new corpus: ${report.acceptedNew}/${DEFAULT_DAILY_NEW_QUOTA}`);
+  console.log(`   duplicates/existing: ${report.duplicates}`);
   console.log(`   rejected: ${report.rejected}`);
   console.log(`   corpus: ${report.before} -> ${report.after} (+${report.added})`);
 }

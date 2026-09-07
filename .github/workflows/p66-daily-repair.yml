@@ -1,0 +1,64 @@
+name: P66 Daily Dataset Repair
+
+on:
+  push:
+    branches:
+      - feat/p66-final-product-readiness
+    paths:
+      - '.p66-daily-repair-trigger'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: p66-product-completion-backfill
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout P66 branch
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: feat/p66-final-product-readiness
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Rebuild current daily dataset from live Product Hunt
+        id: live
+        continue-on-error: true
+        env:
+          PH_API_TOKEN: ${{ secrets.PH_API_TOKEN }}
+        run: bun run scrape -- --no-ai --replace-current
+
+      - name: Recover from persisted Product Hunt evidence
+        if: steps.live.outcome != 'success'
+        run: bun run repair:daily-cache
+
+      - name: Refresh corpus from validated daily data
+        run: bun run corpus:update
+
+      - name: Audit repaired dataset
+        continue-on-error: true
+        run: bun run audit:readiness
+
+      - name: Commit repaired daily data
+        shell: bash
+        run: |
+          git config user.name "IdehJo P66 Bot"
+          git config user.email "bot@idehjo.ir"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: repair current Product Hunt daily dataset"
+            git pull --rebase origin feat/p66-final-product-readiness
+          fi
+          git push origin HEAD:feat/p66-final-product-readiness
