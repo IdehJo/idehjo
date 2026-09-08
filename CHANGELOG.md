@@ -1,3 +1,10 @@
+# [1.75.0](https://github.com/IdehJo/idehjo/compare/v1.74.0...v1.75.0) (2026-09-08)
+
+
+### Features
+
+* complete P67 product enrichment backlog ([27988e6](https://github.com/IdehJo/idehjo/commit/27988e62b69d5529b47c9cdc53fa83cb3bcd63ed))
+
 # [1.74.0](https://github.com/IdehJo/idehjo/compare/v1.73.0...v1.74.0) (2026-09-07)
 
 
