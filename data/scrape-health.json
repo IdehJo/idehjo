@@ -1,11 +1,17 @@
 {
   "status": "success",
-  "lastAttemptAt": "2026-09-09T00:27:09.433Z",
-  "lastSuccessAt": "2026-09-09T00:27:35.696Z",
+  "lastAttemptAt": "2026-09-09T05:38:22.513Z",
+  "lastSuccessAt": "2026-09-09T05:38:41.779Z",
   "lastFailureAt": "2026-08-30T05:21:12.905Z",
   "lastFailureReason": null,
   "consecutiveFailures": 0,
   "recentRuns": [
+    {
+      "status": "success",
+      "startedAt": "2026-09-09T05:38:22.513Z",
+      "finishedAt": "2026-09-09T05:38:41.779Z",
+      "error": null
+    },
     {
       "status": "success",
       "startedAt": "2026-09-09T00:27:09.433Z",
@@ -119,12 +125,6 @@
       "startedAt": "2026-08-30T05:15:44.629Z",
       "finishedAt": "2026-08-30T05:16:07.747Z",
       "error": "Refusing to publish incomplete scrape: - year: expected at least 5 products, got 0"
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-08-30T00:34:17.546Z",
-      "finishedAt": "2026-08-30T00:34:45.089Z",
-      "error": null
     }
   ]
 }
