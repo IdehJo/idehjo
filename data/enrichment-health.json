@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-09-08T12:08:45.074Z",
-  "latestDataset": "2026-09-08.json",
-  "batchLimit": 20,
-  "attempted": 8,
-  "succeeded": 8,
-  "failed": 0,
-  "backlogBefore": 8,
-  "backlogAfter": 0,
-  "completedProducts": 273,
-  "missingFaDescription": 0,
-  "missingFaComments": 0,
-  "missingAiReview": 0,
-  "missingIranEquivalent": 0,
-  "failures": []
+  "checkedAt": "2026-09-09T00:33:57.210Z",
+  "latestDataset": "2026-09-09.json",
+  "batchLimit": 10,
+  "attempted": 10,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 14,
+  "backlogAfter": 6,
+  "completedProducts": 277,
+  "missingFaDescription": 1,
+  "missingFaComments": 6,
+  "missingAiReview": 2,
+  "missingIranEquivalent": 1,
+  "failures": [
+    {
+      "slug": "kombai-gallery",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    }
+  ]
 }
