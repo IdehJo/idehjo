@@ -47,19 +47,19 @@ export default async function MainCategoryPage({ params }: { params: Promise<{ s
     .sort((a, b) => b.count - a.count);
 
   return (
-    <main className="mx-auto max-w-5xl px-4 py-12">
-      <Link href="/categories" className="inline-flex items-center gap-1 text-sm font-bold text-gray-600 hover:text-[#ff6154] dark:text-gray-300">
+    <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">
+      <Link href="/categories" className="inline-flex min-h-10 items-center gap-2 rounded-xl border border-gray-200 bg-white px-3 py-2 text-sm font-black text-gray-600 transition hover:border-[#ff6154]/40 hover:text-[#ff6154] dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300">
         <ArrowRight size={16} /> بازگشت به دسته‌بندی‌ها
       </Link>
 
       {/* Hero */}
-      <div className={`relative mt-4 overflow-hidden rounded-[2rem] bg-gradient-to-bl ${cat.color} p-8 text-white shadow-2xl sm:p-10`}>
+      <div className={`relative mt-5 overflow-hidden rounded-[2rem] bg-gradient-to-bl ${cat.color} p-6 text-white shadow-sm sm:p-9`}>
         <div className="absolute -top-20 -left-20 h-56 w-56 rounded-full bg-white/10 blur-3xl" />
         <div className="absolute -bottom-20 -right-20 h-56 w-56 rounded-full bg-white/10 blur-3xl" />
-        <div className="relative flex items-start gap-5">
-          <span className="text-6xl drop-shadow">{cat.icon}</span>
+        <div className="relative flex flex-col gap-5 sm:flex-row sm:items-start">
+          <span className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-white/15 text-4xl backdrop-blur">{cat.icon}</span>
           <div className="flex-1">
-            <h1 className="text-3xl font-black sm:text-4xl">{cat.fa}</h1>
+            <h1 className="text-3xl font-black tracking-tight sm:text-5xl">{cat.fa}</h1>
             <p className="mt-1 text-sm font-bold text-white/80" dir="ltr">{cat.name}</p>
             <div className="mt-4 flex flex-wrap gap-2 text-xs font-black">
               <span className="rounded-full bg-white/20 px-3 py-1.5 backdrop-blur">{matching.length.toLocaleString('fa-IR')} ایده فعال</span>
@@ -76,9 +76,9 @@ export default async function MainCategoryPage({ params }: { params: Promise<{ s
           <h2 className="mt-10 flex items-center gap-2 text-lg font-black text-gray-900 dark:text-white">
             <Layers size={18} className="text-[#ff6154]" /> زیردسته‌ها
           </h2>
-          <div className="mt-4 flex flex-wrap gap-2">
+          <div className="mt-5 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
             {subs.map((s) => (
-              <Link key={s.slug} href={`/category/${s.slug}`} className="group flex items-center gap-2 rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-bold text-gray-700 shadow-sm transition hover:-translate-y-0.5 hover:border-[#ff6154]/50 hover:text-[#ff6154] hover:shadow-md dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200">
+              <Link key={s.slug} href={`/category/${s.slug}`} className="group flex min-h-12 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-black text-gray-700 shadow-sm transition hover:-translate-y-0.5 hover:border-[#ff6154]/40 hover:text-[#ff6154] hover:shadow-md dark:border-gray-800 dark:bg-gray-900 dark:text-gray-200">
                 {s.name}
                 <span className="rounded-full bg-[#ff6154]/10 px-2 py-0.5 text-[10px] font-black text-[#ff6154]">{s.count.toLocaleString('fa-IR')}</span>
               </Link>
@@ -93,14 +93,14 @@ export default async function MainCategoryPage({ params }: { params: Promise<{ s
           <h2 className="mt-12 flex items-center gap-2 text-lg font-black text-gray-900 dark:text-white">
             <Trophy size={18} className="text-amber-500" /> داغ‌ترین ایده‌های این دسته
           </h2>
-          <div className="mt-6 space-y-6">
+          <div className="mt-6 grid gap-4 lg:grid-cols-2">
             {hot.map((p) => <ProductCard key={p.id} product={p} />)}
           </div>
         </>
       )}
 
       {hot.length === 0 && (
-        <div className="mt-10 rounded-3xl border-2 border-dashed border-gray-300 bg-white p-12 text-center text-gray-500 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-300">
+        <div className="mt-10 rounded-[1.75rem] border border-dashed border-gray-300 bg-white p-10 text-center text-gray-500 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-300">
           <p className="text-lg font-bold">🔍 هنوز ایده‌ای در این دسته ثبت نشده</p>
           <p className="mt-2 text-sm">با اسکرپ روزانه، این دسته به‌زودی پر میشه!</p>
         </div>

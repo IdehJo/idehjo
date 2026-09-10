@@ -66,25 +66,29 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
   const rankInfo = data ? findRank(data, slug) : null;
   const eq = product.iranEquivalent;
-  const screenshot = product.screenshots?.[0] ?? `https://image.thum.io/get/width/800/crop/450/${product.websiteUrl || 'https://example.com'}`;
+  const screenshot =
+    product.screenshots?.[0] ??
+    (product.websiteUrl
+      ? `https://image.thum.io/get/width/800/crop/450/${product.websiteUrl}`
+      : null);
 
   return (
-    <main className="mx-auto max-w-4xl px-4 py-10">
-      <Link href="/" className="inline-flex items-center gap-1 text-sm font-bold text-gray-600 hover:text-[#ff6154] dark:text-gray-400">
-        <ArrowRight size={16} /> بازگشت به لیست
+    <main className="mx-auto max-w-6xl px-4 py-8 sm:py-12">
+      <Link href="/products" className="inline-flex min-h-10 items-center gap-2 rounded-xl border border-gray-200 bg-white px-3 py-2 text-sm font-black text-gray-600 transition hover:border-[#ff6154]/40 hover:text-[#ff6154] dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300">
+        <ArrowRight size={16} /> بازگشت به آرشیو محصولات
       </Link>
 
-      <article className="mt-4 overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-xl dark:border-gray-800 dark:bg-gray-900">
-        <div className="flex flex-col gap-4 p-6 sm:flex-row sm:items-start">
+      <article className="mt-5 overflow-hidden rounded-[2rem] border border-gray-200 bg-white shadow-sm dark:border-gray-800 dark:bg-gray-900">
+        <div className="flex flex-col gap-5 p-5 sm:p-7 lg:flex-row lg:items-start">
           {product.thumbnail ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={product.thumbnail} alt={product.name} className="h-20 w-20 shrink-0 rounded-2xl border border-gray-200 object-cover dark:border-gray-700" />
+            <img src={product.thumbnail} alt={product.name} className="h-20 w-20 shrink-0 rounded-2xl border border-gray-200 object-cover shadow-sm dark:border-gray-700 sm:h-24 sm:w-24" />
           ) : (
             <span className="flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl bg-gradient-to-br from-[#ff6154] to-pink-500 text-2xl font-black text-white">{product.rank}</span>
           )}
           <div className="flex-1">
-            <h1 className="text-3xl font-black text-gray-900 dark:text-white" dir="ltr">{product.name}</h1>
-            <p className="mt-2 text-base italic text-gray-600 dark:text-gray-300" dir="ltr">{product.tagline}</p>
+            <h1 className="text-3xl font-black tracking-tight text-gray-950 dark:text-white sm:text-4xl" dir="ltr">{product.name}</h1>
+            <p className="mt-2 max-w-2xl text-sm leading-7 text-gray-500 dark:text-gray-300 sm:text-base" dir="ltr">{product.tagline}</p>
             <div className="mt-3 flex flex-wrap items-center gap-2 text-xs font-bold">
               {rankInfo && (
                 <span className="rounded-full bg-[#ff6154] px-3 py-1 text-white">
@@ -106,27 +110,23 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
               )}
             </div>
           </div>
-          <div className="flex flex-col items-end gap-2">
+          <div className="flex shrink-0 flex-row flex-wrap items-center gap-2 lg:flex-col lg:items-end">
             <div className="flex items-center gap-2"><LikeButton slug={product.slug} /><BookmarkButton slug={product.slug} /></div>
             {product.websiteUrl && (
-              <a href={withUtm(product.websiteUrl)} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 rounded-xl bg-gray-900 px-3 py-1.5 text-xs font-bold text-white transition hover:bg-gray-700 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-200">
+              <a href={withUtm(product.websiteUrl)} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-gray-950 px-4 py-2 text-sm font-black text-white transition hover:bg-[#ff6154] dark:bg-white dark:text-gray-950 dark:hover:bg-[#ff6154] dark:hover:text-white">
                 <ExternalLink size={12} /> وب‌سایت رسمی
               </a>
             )}
           </div>
         </div>
 
-        <div className="px-6">
-          <div className="overflow-hidden rounded-2xl border border-gray-200 shadow-lg dark:border-gray-700">
-            <Screenshot src={screenshot} alt={`اسکرین‌شات ${product.name}`} />
+        <div className="px-5 sm:px-7">
+          <div className="overflow-hidden rounded-2xl border border-gray-200 bg-gray-50 shadow-sm dark:border-gray-800 dark:bg-gray-950">
+            {screenshot && <Screenshot src={screenshot} alt={`اسکرین‌شات ${product.name}`} />}
           </div>
         </div>
 
-        <div className="space-y-4 p-6">
-          <div className="rounded-2xl border border-gray-200 bg-gray-50/50 p-4 dark:border-gray-700 dark:bg-gray-800/50">
-            <h3 className="mb-3 text-sm font-black text-gray-800 dark:text-gray-200">امتیاز شما به این ایده:</h3>
-            <StarRating slug={product.slug} />
-          </div>
+        <div className="grid gap-5 p-5 sm:p-7 lg:grid-cols-[minmax(0,1fr)_280px] lg:items-start">
 
           <div className="flex flex-wrap gap-2">
             {(product.categoryFa ?? product.category).split('•').map((c) => (
@@ -140,7 +140,8 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             <p className="rounded-2xl border border-orange-200 bg-orange-50/70 p-4 text-sm leading-8 text-gray-800 dark:border-orange-900/40 dark:bg-orange-950/30 dark:text-orange-100">🇮🇷 {product.faDescription}</p>
           )}
 
-          <GatedContent product={product} />
+          <div className="space-y-5 lg:col-start-1">
+            <GatedContent product={product} />
 
           {eq && eq.confidence > 0 && (
             <div className="rounded-2xl border-t-4 border-green-500 bg-gradient-to-bl from-green-50 to-emerald-50 p-5 dark:from-green-950/30 dark:to-emerald-950/20">
@@ -172,9 +173,20 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
             </div>
           )}
 
-          <div className="rounded-2xl border border-gray-200 bg-gray-50/50 p-4 dark:border-gray-700 dark:bg-gray-800/50">
-            <ShareButtons url={`/product/${product.slug}`} name={product.name} />
           </div>
+
+          <aside className="space-y-4 lg:sticky lg:top-24 lg:col-start-2 lg:row-start-1">
+            <div className="rounded-2xl border border-gray-200 bg-gray-50/70 p-4 dark:border-gray-800 dark:bg-gray-800/50">
+              <p className="text-xs font-black text-gray-500 dark:text-gray-400">تعامل با این محصول</p>
+              <div className="mt-3">
+                <StarRating slug={product.slug} />
+              </div>
+            </div>
+
+            <div className="rounded-2xl border border-gray-200 bg-gray-50/70 p-4 dark:border-gray-800 dark:bg-gray-800/50">
+              <ShareButtons url={`/product/${product.slug}`} name={product.name} />
+            </div>
+          </aside>
 
           {product.aiReview && <AiReview text={product.aiReview} />}
 
