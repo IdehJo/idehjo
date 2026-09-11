@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-09-10T00:34:15.697Z",
-  "latestDataset": "2026-09-10.json",
+  "checkedAt": "2026-09-11T00:31:08.920Z",
+  "latestDataset": "2026-09-11.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 19,
-  "backlogAfter": 11,
-  "completedProducts": 284,
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 23,
+  "backlogAfter": 13,
+  "completedProducts": 292,
   "missingFaDescription": 4,
-  "missingFaComments": 11,
+  "missingFaComments": 13,
   "missingAiReview": 5,
   "missingIranEquivalent": 4,
-  "failures": [
-    {
-      "slug": "duckfightclub",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
-    }
-  ]
+  "failures": []
 }
