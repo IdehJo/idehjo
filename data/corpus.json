@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:29:14.226Z",
+  "generatedAt": "2026-09-13T00:14:49.820Z",
   "sourceFiles": 35,
   "products": [
     {
@@ -4398,6 +4398,113 @@
       }
     },
     {
+      "id": "ph-week-1",
+      "date": "2026-09-09",
+      "rank": 1,
+      "name": "Mastra Factory",
+      "slug": "mastra-factory",
+      "tagline": "From issue to production, run by agents.",
+      "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format",
+        "https://ph-files.imgix.net/44f42000-a3f3-459d-8c54-61afb8e2eb66.png?auto=format",
+        "https://ph-files.imgix.net/2ebb13ee-589f-4f14-9eb6-1e70b413a863.png?auto=format",
+        "https://ph-files.imgix.net/35123271-fa98-4b46-a958-159f87b0716f.png?auto=format",
+        "https://ph-files.imgix.net/01fde82c-ad06-4b0a-b705-12593ba82245.jpeg?auto=format"
+      ],
+      "maker": "fmerian",
+      "makerTitle": "hunting devtools - kilo.ai, mastra.ai",
+      "featuredAt": "2026-09-09T07:01:00Z",
+      "votes": 521,
+      "websiteUrl": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "kicking off an agent overnight and just checking progress in the morning is such a nice feeling, like actual delegation instead of babysitting a chat window all day"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "#1 well earned 🥇 issue to PR with review built in is the right loop. how many agents run in parallel per repo?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This seems like a cool product. All the best for the launch folks!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good product. I used the instructions here: factory.mastra.ai"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations team Mastra. Looking forward to checking it out."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is awesome... can't wait to try it!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "so many open issues? how can you call this finished?"
+        }
+      ],
+      "faDescription": "Mastra Factory یک محیط تحویل نرم‌افزار متن‌باز و مبتنی بر عامل است. این پلتفرم ترکیبی از عامل‌های کدنویسی مداوم، فضای کار مخازن، دریافت مسائل، برنامه‌ریزی، پیاده‌سازی و بررسی درخواست‌های Pull است. همه این امکانات در یک برنامه وب قابل دسترسی و کنترل شماست. با Mastra Factory می‌توانید فرایند توسعه را به صورت خودکار و بدون نیاز به تنظیمات پیچیده مدیریت کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "محصول خوب است. از دستورالعمل‌های اینجا استفاده کردم: factory.mastra.ai"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک می‌گوییم تیم Mastra. مشتاقانه منتظر بررسی آن هستیم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این عالیه... نمی‌توانم صبر کنم تا امتحانش کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چندین مشکل باز هست؟ چگونه می‌توانید این را به‌عنوان پایان‌شده بنامید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "از ابتدا با این کار کردم. Mastra factory ممکن است به‌طور کامل استاندارد صنعتی شود. تیم mastra با این کار علم واقعی انجام داد!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این شگفت‌انگیز است. تبریک! بزنیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "من مدتی است که از Mastra استفاده می‌کنم و حتی یک کارخانه نرم‌افزاری بر پایه آن ساخته‌ام قبل از اینکه Factory را منتشر کنند. همیشه آن را توصیه می‌کنم چون همه چیز را از ابتدا می‌گیرید و تیم و تکنولوژی آن واقعا شگفت‌انگیز است. تبریک برای راه‌اندازی!"
+        }
+      ],
+      "aiReview": "مسئله: فرایند توسعه نرم‌افزار در بسیاری از شرکت‌ها هنوز به‌صورت دستی و پراکنده انجام می‌شود که باعث تاخیر، خطا و هزینه‌های بالا می‌شود. راه‌حل Mastra Factory با ترکیب عامل‌های هوشمند، فضای کار مخازن، برنامه‌ریزی، پیاده‌سازی و بررسی Pull Request در یک پلتفرم وب، این فرایند را خودکار و یکپارچه می‌کند. معماری: معماری مبتنی بر میکروسرویس با Frontend در Next.js، Backend در Node.js و پایگاه داده PostgreSQL، که امکان مقیاس‌پذیری و توسعه افزایشی را فراهم می‌کند. مدل درآمدی: دو مدل اصلی، اشتراک ماهیانه برای دسترسی به ویژگی‌های پیشرفته و فروش افزونه‌ها و خدمات مشاوره‌ای برای سفارشی‌سازی. نقاط قوت: متن‌باز بودن، قابلیت شخصی‌سازی بالا، یکپارچگی کامل فرایند توسعه، کنترل کامل توسط کاربر. نقاط ضعف: نیاز به پذیرش جامعه توسعه‌دهندگان ایرانی، رقابت با ابزارهای مشابه در بازار. نکته طلایی برای ایران: با توجه به رشد سریع شرکت‌های فناوری و نیاز به خودکارسازی فرایند توسعه، Mastra Factory می‌تواند با ارائه راه‌حل جامع و مقیاس‌پذیر، جایگاه قابل توجهی در بازار فناوری ایران پیدا کند.",
+      "iranEquivalent": {
+        "productName": "Mastra Factory",
+        "description": "Mastra Factory یک پلتفرم متن‌باز برای تحویل نرم‌افزار است که با استفاده از عامل‌های هوشمند، فرایند توسعه را خودکار می‌کند. این ابزار امکان مدیریت مخازن، برنامه‌ریزی، پیاده‌سازی و بررسی Pull Request را در یک محیط وب فراهم می‌آورد. با کنترل کامل توسط کاربر، می‌توانید به سرعت پروژه‌های خود را به تولید برسانید.",
+        "marketOpportunity": "در ایران، نیاز به ابزارهای خودکارسازی فرایند توسعه نرم‌افزار در حال رشد است. Mastra Factory می‌تواند با ارائه راه‌حل جامع، جایگاه قابل توجهی در بازار فناوری اطلاعات پیدا کند.",
+        "estimatedBudget": "۳ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های DevOps، شرکت‌های فناوری و استارتاپ‌های نرم‌افزاری که به دنبال خودکارسازی فرایند توسعه هستند.",
+        "challenges": [
+          "پذیرش گسترده در جامعه توسعه‌دهندگان ایرانی",
+          "یکپارچه‌سازی با ابزارهای موجود در اکوسیستم فناوری ایران"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهیانه برای دسترسی به ویژگی‌های پیشرفته",
+          "فروش افزونه‌ها و خدمات مشاوره‌ای برای سفارشی‌سازی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
+    },
+    {
       "id": "ph-month-9",
       "date": "2026-08-07",
       "rank": 9,
@@ -4514,113 +4621,6 @@
         }
       ],
       "aiReview": "مسئله اصلی: افزایش سرعت توسعه با هوش مصنوعی باعث شده حفظ پایداری محیط تولید و کشف رگرسیون‌ها به چالش سخت‌تری تبدیل شود؛ تیم‌ها با سوییچ بین ابزارهای گوناگون (ارکستراسیون، QA، مانیتورینگ) دست‌وپنجه نرم می‌کنند. راه‌حل: Coldtea یک محیط توسعه ایجنتی یکپارچه است که کل چرخه عمر نرم‌افزار را پوشش می‌دهد؛ از اجرای ایجنت‌های کدنویسی تا تست‌های بصری خودکار و مانیتورینگ هوشمند تولید. معماری و تکنولوژی: این پلتفرم ترمینال، ایجنت‌های QA بصری (پشتیبانی از وب، iOS و اندروید) و مانیتورینگ تولید را در یک محیط واحد ادغام می‌کند. ایجنت‌ها با بافت مشترک کار می‌کنند و مانیتورینگ با اتصال به ابزارهای لاگینگ و ردپای ایجنت‌ها، خطاها را به زبان ساده گزارش می‌دهد. مدل درآمدی: احتمالاً مدل SaaS مبتنی بر اشتراک ماهانه/سالانه با لایه‌بندی بر اساس تعداد ایجنت‌ها، حجم مانیتورینگ یا اندازه تیم. نقاط قوت: یکپارچگی کامل چرخه عمر (نه فقط کدنویسی)، عدم قفل شدن کاربر به ابزار خاصی (No lock-in)، خودکارسازی تست‌های بصری برای پلتفرم‌های موبایل و وب، و ارائه گزارش‌های قابل فهم برای تیم‌های مهندسی. نقاط ضعف: پیچیدگی احتمالی در تنظیمات اولیه برای تیم‌های بزرگ، وابستگی به دقت ایجنت‌ها در تشخیص رگرسیون‌های پیچیده، و نیاز به زیرساخت قوی برای اجرای موازی ایجنت‌ها. نکته طلایی برای ایران: با توجه به رشد استارتاپ‌های فناوری در ایران و افزایش استفاده از ابزارهای هوش مصنوعی در توسعه نرم‌افزار، Coldtea می‌تواند به تیم‌های ایرانی کمک کند تا بدون نیاز به ابزارهای پراکنده و گران‌قیمت غربی، فرآیند QA و مانیتورینگ خود را یکپارچه و خودکار کنند. این امر می‌تواند سرعت شپ کردن را افزایش داده و هزینه‌های نگهداری را کاهش دهد، به ویژه برای استارتاپ‌هایی که تیم مهندسی محدودی دارند."
-    },
-    {
-      "id": "ph-week-1",
-      "date": "2026-09-09",
-      "rank": 1,
-      "name": "Mastra Factory",
-      "slug": "mastra-factory",
-      "tagline": "From issue to production, run by agents.",
-      "description": "Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format",
-        "https://ph-files.imgix.net/44f42000-a3f3-459d-8c54-61afb8e2eb66.png?auto=format",
-        "https://ph-files.imgix.net/2ebb13ee-589f-4f14-9eb6-1e70b413a863.png?auto=format",
-        "https://ph-files.imgix.net/35123271-fa98-4b46-a958-159f87b0716f.png?auto=format",
-        "https://ph-files.imgix.net/01fde82c-ad06-4b0a-b705-12593ba82245.jpeg?auto=format"
-      ],
-      "maker": "fmerian",
-      "makerTitle": "hunting devtools - kilo.ai, mastra.ai",
-      "featuredAt": "2026-09-09T07:01:00Z",
-      "votes": 520,
-      "websiteUrl": "https://www.producthunt.com/r/52CAOAGHS62ZQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "kicking off an agent overnight and just checking progress in the morning is such a nice feeling, like actual delegation instead of babysitting a chat window all day"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "#1 well earned 🥇 issue to PR with review built in is the right loop. how many agents run in parallel per repo?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This seems like a cool product. All the best for the launch folks!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good product. I used the instructions here: factory.mastra.ai"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations team Mastra. Looking forward to checking it out."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is awesome... can't wait to try it!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "so many open issues? how can you call this finished?"
-        }
-      ],
-      "faDescription": "Mastra Factory یک محیط تحویل نرم‌افزار متن‌باز و مبتنی بر عامل است. این پلتفرم ترکیبی از عامل‌های کدنویسی مداوم، فضای کار مخازن، دریافت مسائل، برنامه‌ریزی، پیاده‌سازی و بررسی درخواست‌های Pull است. همه این امکانات در یک برنامه وب قابل دسترسی و کنترل شماست. با Mastra Factory می‌توانید فرایند توسعه را به صورت خودکار و بدون نیاز به تنظیمات پیچیده مدیریت کنید.",
-      "faComments": [
-        {
-          "user": "کاربر ProductHunt 1",
-          "text": "محصول خوب است. از دستورالعمل‌های اینجا استفاده کردم: factory.mastra.ai"
-        },
-        {
-          "user": "کاربر ProductHunt 2",
-          "text": "تبریک می‌گوییم تیم Mastra. مشتاقانه منتظر بررسی آن هستیم."
-        },
-        {
-          "user": "کاربر ProductHunt 3",
-          "text": "این عالیه... نمی‌توانم صبر کنم تا امتحانش کنم!"
-        },
-        {
-          "user": "کاربر ProductHunt 4",
-          "text": "چندین مشکل باز هست؟ چگونه می‌توانید این را به‌عنوان پایان‌شده بنامید؟"
-        },
-        {
-          "user": "کاربر ProductHunt 5",
-          "text": "از ابتدا با این کار کردم. Mastra factory ممکن است به‌طور کامل استاندارد صنعتی شود. تیم mastra با این کار علم واقعی انجام داد!"
-        },
-        {
-          "user": "کاربر ProductHunt 6",
-          "text": "این شگفت‌انگیز است. تبریک! بزنیم!"
-        },
-        {
-          "user": "کاربر ProductHunt 7",
-          "text": "من مدتی است که از Mastra استفاده می‌کنم و حتی یک کارخانه نرم‌افزاری بر پایه آن ساخته‌ام قبل از اینکه Factory را منتشر کنند. همیشه آن را توصیه می‌کنم چون همه چیز را از ابتدا می‌گیرید و تیم و تکنولوژی آن واقعا شگفت‌انگیز است. تبریک برای راه‌اندازی!"
-        }
-      ],
-      "aiReview": "مسئله: فرایند توسعه نرم‌افزار در بسیاری از شرکت‌ها هنوز به‌صورت دستی و پراکنده انجام می‌شود که باعث تاخیر، خطا و هزینه‌های بالا می‌شود. راه‌حل Mastra Factory با ترکیب عامل‌های هوشمند، فضای کار مخازن، برنامه‌ریزی، پیاده‌سازی و بررسی Pull Request در یک پلتفرم وب، این فرایند را خودکار و یکپارچه می‌کند. معماری: معماری مبتنی بر میکروسرویس با Frontend در Next.js، Backend در Node.js و پایگاه داده PostgreSQL، که امکان مقیاس‌پذیری و توسعه افزایشی را فراهم می‌کند. مدل درآمدی: دو مدل اصلی، اشتراک ماهیانه برای دسترسی به ویژگی‌های پیشرفته و فروش افزونه‌ها و خدمات مشاوره‌ای برای سفارشی‌سازی. نقاط قوت: متن‌باز بودن، قابلیت شخصی‌سازی بالا، یکپارچگی کامل فرایند توسعه، کنترل کامل توسط کاربر. نقاط ضعف: نیاز به پذیرش جامعه توسعه‌دهندگان ایرانی، رقابت با ابزارهای مشابه در بازار. نکته طلایی برای ایران: با توجه به رشد سریع شرکت‌های فناوری و نیاز به خودکارسازی فرایند توسعه، Mastra Factory می‌تواند با ارائه راه‌حل جامع و مقیاس‌پذیر، جایگاه قابل توجهی در بازار فناوری ایران پیدا کند.",
-      "iranEquivalent": {
-        "productName": "Mastra Factory",
-        "description": "Mastra Factory یک پلتفرم متن‌باز برای تحویل نرم‌افزار است که با استفاده از عامل‌های هوشمند، فرایند توسعه را خودکار می‌کند. این ابزار امکان مدیریت مخازن، برنامه‌ریزی، پیاده‌سازی و بررسی Pull Request را در یک محیط وب فراهم می‌آورد. با کنترل کامل توسط کاربر، می‌توانید به سرعت پروژه‌های خود را به تولید برسانید.",
-        "marketOpportunity": "در ایران، نیاز به ابزارهای خودکارسازی فرایند توسعه نرم‌افزار در حال رشد است. Mastra Factory می‌تواند با ارائه راه‌حل جامع، جایگاه قابل توجهی در بازار فناوری اطلاعات پیدا کند.",
-        "estimatedBudget": "۳ میلیارد تومان",
-        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های DevOps، شرکت‌های فناوری و استارتاپ‌های نرم‌افزاری که به دنبال خودکارسازی فرایند توسعه هستند.",
-        "challenges": [
-          "پذیرش گسترده در جامعه توسعه‌دهندگان ایرانی",
-          "یکپارچه‌سازی با ابزارهای موجود در اکوسیستم فناوری ایران"
-        ],
-        "monetization": [
-          "مدل اشتراک ماهیانه برای دسترسی به ویژگی‌های پیشرفته",
-          "فروش افزونه‌ها و خدمات مشاوره‌ای برای سفارشی‌سازی"
-        ],
-        "techStack": [
-          "Next.js",
-          "PostgreSQL"
-        ],
-        "confidence": 75
-      }
     },
     {
       "id": "ph-week-2",
@@ -16364,6 +16364,234 @@
       ]
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-09-12",
+      "rank": 1,
+      "name": "Cortex",
+      "slug": "cortex-27",
+      "tagline": "Turn API specs into docs, SDKs, and MCP servers",
+      "description": "Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.",
+      "category": "API • Open Source • Developer Tools • GitHub",
+      "categoryFa": "API • متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b49b01b5-370d-4f90-9ce8-ce2bdc67fcb7.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2a0de04a-6204-4bf8-8682-56a4d5db6abe.png?auto=format",
+        "https://ph-files.imgix.net/41446e83-1586-45db-87ef-1350ad83c597.png?auto=format",
+        "https://ph-files.imgix.net/ef4155e9-99d0-4e30-96ba-01b4e7b1bc50.png?auto=format",
+        "https://ph-files.imgix.net/8f2fa434-e8f0-4501-8bc7-26593997e12c.png?auto=format",
+        "https://ph-files.imgix.net/3cb9914a-7e57-4805-9484-53e905f7c2e0.png?auto=format"
+      ],
+      "maker": "Nick Chisiu",
+      "makerTitle": "Founder @Cortex",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 258,
+      "websiteUrl": "https://www.producthunt.com/r/2YCIFX5SDWGMX6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "we run a small mcp server, 28 tools, and the part that took longest was not the types. it was the descriptions.two of ours read \"fetch before prospecting to skip duplicates\" and \"stored as DRAFT, not sent\". neither of those is in any schema. the first is an ordering rule, the second is there so the agent doesnt tell you it sent something that is only queued.a spec gives you the shape of every call and nothing about which of two similar endpoints is the right one. for the sdk thats fine, the developer reads the page. for the agent that one string is the whole basis of the decision.so when you generate the mcp server, what goes into the tool description? the summary field from the spec, or something else?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The SDK generation is that your own work or are you using the one from OpenAPI ? The C# generation from openapi is a a messy code bloat."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "sometimes I start with the docs but then get distracted rewriting API calls. if Cortex auto-generates integration code from specs, might save me from wandering off before everything's written up. but I always skip reading the full spec first, so who knows."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that Cortex treats AI agents and developers as first class consumers of the same spec, generating one source of truth into SDKs, docs, and MCP servers instead of duplicating the work."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I would be interested to see how it custom code when teams need behavior beyond what the API spec defines."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Regarding the auto-generation of SDKs for 11 programming languages, what is your approach to ensuring consistency with any changes to the original specification, auto-regeneration on every change or manual intervention?BTW, Congratulations @nick_csu & @fmerian on the launch of Cortex 🚀🎊"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks another amazing product. Congrats @nick_csu & team! Thanks for sharing @fmerian 🙌🏻"
+        }
+      ],
+      "faDescription": "کورتکس یک لایه دانش API متن‌باز است که مشخصات فنی شما را به مستندات تعاملی تبدیل می‌کند. این پلتفرم از استانداردهای مختلفی نظیر OpenAPI، AsyncAPI، GraphQL، gRPC و OpenRPC به‌طور کامل پشتیبانی می‌نماید. با استفاده از کورتکس می‌توانید کتابخانه‌های برنامه‌نویسی (SDK) تایپ‌شده را برای ۱۱ زبان مختلف به‌صورت خودکار تولید کنید. علاوه بر این، امکان ساخت سرورهای MCP برای ایجنت‌های هوش مصنوعی فراهم شده است تا توسعه‌دهندگان و مدل‌های هوش مصنوعی همگی از یک منبع واحد اطلاعات استفاده کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ما یک سرور کوچک MCP با ۲۸ ابزار اداره می‌کنیم و طولانی‌ترین بخش کار، تایپ‌ها نبود بلکه توصیحات ابزارها بود. دو مورد از ابزارهای ما این‌طور خوانده می‌شوند: «قبل از پروسپکتینگ فراخوانی شود تا از تکراری‌ها جلوگیری گردد» و «به عنوان پیش‌نویس ذخیره شد، ارسال نشد»؛ هیچ‌کدام از این‌ها در اسکیما وجود ندارند. اولی یک قانون اولویت اجراست و دومی برای این است که ایجنت به شما نگوید چیزی را فرستاده که فقط در صف قرار گرفته است. اسکیما ساختار هر فراخوانی را مشخص می‌کند اما درباره اینکه کدام‌یک از دو اندپوینت مشابه درست است چیزی نمی‌گوید. برای SDK این مشکلی نیست چون توسعه‌دهنده صفحه را می‌خواند، اما برای ایجنت همان یک رشته متنی اساس تصمیم‌گیری است. بنابراین وقتی سرور MCP تولید می‌کنید، چه چیزی در توصیف ابزار قرار می‌گیرد؟ فیلد summary از اسکیما یا چیز دیگر؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا تولید SDK کار خودتان است یا از ابزار OpenAPI استفاده می‌کنید؟ تولید کد C# از OpenAPI کدی شلوغ و غیربهینه تولید می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "گاهی اوقات کار را با مستندات شروع می‌کنم اما حواسم پرت بازنویسی فراخوانی‌های API می‌شود. اگر کورتکس کد یکپارچه‌سازی را به‌طور خودکار از مشخصات تولید کند، ممکن است مرا از حواس‌پرتی قبل از نوشتن همه چیز نجات دهد، اما من همیشه از خواندن کامل مشخصات در ابتدا صرف‌نظر می‌کنم، بنابراین کسی چه می‌داند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "دوست دارم که کورتکس با ایجنت‌های هوش مصنوعی و توسعه‌دهندگان به عنوان مصرف‌کنندگان درجه یکِ یک مشخصات یکسان رفتار می‌کند و به جای دوباره‌کاری، یک منبع واحد حقیقت برای SDKها، مستندات و سرورهای MCP تولید می‌نماید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "علاقه‌مندم ببینم این ابزار چگونه کدهای سفارشی را در زمانی که تیم‌ها به رفتاری فراتر از آنچه مشخصات API تعریف کرده نیاز دارند، مدیریت می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "در مورد تولید خودکار SDK برای ۱۱ زبان برنامه‌نویسی، رویکرد شما برای تضمین هماهنگی با هرگونه تغییر در مشخصات اولیه چیست؛ بازتولید خودکار در هر تغییر یا مداخله دستی؟ ضمناً راه‌اندازی کورتکس را به nick_csu@ و fmerian@ تبریک می‌گویم! 🚀🎊"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "به نظر محصول فوق‌العاده دیگری می‌رسد. تبریک به nick_csu@ و تیم! ممنون از fmerian@ بابت به اشتراک‌گذاری 🙌🏻"
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:**\nتوسعه‌دهندگان و ایجنت‌های هوش مصنوعی مجبورند برای استفاده از یک API، کدهای تکراری، مستندات جداگانه و تعاریف متفاوتی بسازند که باعث اتلاف وقت و بروز ناهماهنگی می‌شود. کورتکس با قرارگیری به عنوان یک لایه دانش یکپارچه، مشخصات استاندارد API (مانند OpenAPI یا GraphQL) را دریافت کرده و به‌صورت خودکار مستندات تعاملی، SDK برای ۱۱ زبان و سرورهای MCP (پروتکل ارتباطی ایجنت‌ها) تولید می‌کند.\n\n**معماری و تکنولوژی:**\nاین ابزار با معماری ماژولار و متن‌باز طراحی شده تا انواع اسکیماهای استاندارد را پارس کرده و کدهای تایپ‌شده و تمیز تولید کند. قابلیت کلیدی آن نگاشت مستقیم توصیفات API به ابزارهای قابلی فهم برای مدل‌های زبانی از طریق پروتکل MCP است.\n\n**مدل درآمدی:**\nارائه مدل Freemium برای پروژه‌های متن‌باز و پروژه‌های شخصی، و عرضه سرویس ابری (Cloud) یا لایسنس انترپرایز برای تیم‌های بزرگ که نیاز به همگام‌سازی CI/CD، مدیریت دسترسی‌ها و میزبانی در زیرساخت اختصاصی دارند.\n\n**نقاط قوت:**\n۱. ایجاد یک منبع واحد حقیقت (Single Source of Truth) هم برای انسان‌ها و هم ایجنت‌های هوش مصنوعی.\n۲. پشتیبانی همزمان از ۵ استاندارد مطرح API.\n۳. کاهش چشمگیر زمان توسعه و نگهداری SDKها در زبان‌های مختلف.\n\n**نقاط ضعف:**\n۱. کیفیت توصیفات ایجنت‌های هوش مصنوعی شدیداً وابسته به کیفیت متاداده‌های اسکیما اولیه است.\n۲. چالش مدیریت کدهای سفارشی (Custom Logic) توسعه‌دهندگان هنگام تولید مجدد کدها.\n\n**نکته طلایی برای ایران:**\nاز آنجا که بسیاری از شرکت‌های ایرانی مستندات API استاندارد ندارند، نسخه ایرانی این محصول می‌تواند یک ابزار هوشمند اسکن کدهای موجود (مبتنی بر تحلیل AST کد یا ترافیک Postman) برای تولید خودکار فایل OpenAPI اولیه ارائه دهد و سپس مستندات و SDKها را بومی‌سازی کند.",
+      "iranEquivalent": {
+        "productName": "آپی‌هاب (APIHub)",
+        "description": "پلتفرم بومی مدیریت و نگاشت دانش API که مستندات، کتابخانه‌های برنامه‌نویسی و سرورهای هوش مصنوعی را متمرکز می‌سازد. این ابزار به شرکت‌های نرم‌افزاری ایرانی کمک می‌کند تا کدهای اتصال به سرویس‌ها را با سرعت بالا تولید کنند. همچنین بستر یکپارچه‌ای برای تعامل ایجنت‌های هوش مصنوعی با سرویس‌های سازمانی داخلی فراهم می‌آورد.",
+        "marketOpportunity": "با رشد سریع کسب‌وکارهای مبتنی بر API و تب هوش مصنوعی در ایران، نیاز شدیدی به استانداردسازی اتصال سیستم‌ها وجود دارد. تبدیل ساختار APIها به سرورهای پروتکل MCP می‌تواند شرکت‌های ایرانی را بدون زیرساخت‌های پیچیده به سمت بکارگیری ایجنت‌های هوش مصنوعی هدایت کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، شرکت‌های بزرگ فناوری، ارائه‌دهندگان سرویس‌های API و تیم‌های هوش مصنوعی سازمانی",
+        "challenges": [
+          "عدم وجود استاندارد یکپارچه و دقیق OpenAPI در اکثر پروژه‌ها و استارتاپ‌های ایرانی",
+          "چالش همگام‌سازی کدهای سفارشی توسعه‌دهندگان پس از بروزرسانی‌های مجدد اسکیما",
+          "نیاز به توصیفات متنی دقیق فارسی و انگلیسی برای ابزارهای مورد استفاده ایجنت‌های هوش مصنوعی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه SaaS بر اساس تعداد APIها، زبان‌های خروجی و فراخوانی‌ها",
+          "فروش نسخه سازمانی (Self-hosted) برای بانک‌ها، سازمان‌ها و شرکت‌های بزرگ",
+          "ارائه خدمات مشاوره استانداردسازی API و پیاده‌سازی اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Go",
+          "TypeScript",
+          "Docker"
+        ],
+        "confidence": 80
+      }
+    },
+    {
+      "id": "ph-yesterday-5",
+      "date": "2026-09-11",
+      "rank": 5,
+      "name": "Cline Desktop App",
+      "slug": "cline-desktop-app",
+      "tagline": "An open-source app for open-weight models",
+      "description": "Cline Desktop gives you an open-source workspace to put your favourite model to work - run multiple agent sessions, automate recurring tasks, extend their capabilities through Cline’s Marketplace, and continue work from agents like Claude Code and Codex. Choose the models and providers that work best for you, while Cline’s agent harness, optimized for open-weight models, powers the work behind them. All without being tied to a closed ecosystem.",
+      "category": "Task Management • Software Engineering • Artificial Intelligence",
+      "categoryFa": "مدیریت وظایف • Software Engineering • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/88e275be-4bd4-4d21-ab86-385c6be0af00.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/04e4c2d4-bdeb-4822-8c39-f8f45f33ae27.png?auto=format",
+        "https://ph-files.imgix.net/6a50cb52-aeb5-4214-ac4a-6f35c6f954e5.png?auto=format",
+        "https://ph-files.imgix.net/af7be837-4d07-4629-a3ad-a9857e25c99b.png?auto=format",
+        "https://ph-files.imgix.net/87f5ad6e-8591-4b6b-b5e7-84b2b7f5dd3c.png?auto=format",
+        "https://ph-files.imgix.net/bfe4f5a0-af98-4b0a-a62b-e59d68b64db0.png?auto=format",
+        "https://ph-files.imgix.net/e9f2889f-30ce-46ad-9987-1be2b799371f.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-11T07:01:00Z",
+      "votes": 257,
+      "websiteUrl": "https://www.producthunt.com/r/LTNZETAC7HBN7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "👋 Hey Product Hunt - I’m Saoud, founder of Cline.What we’re launching today 🚀Cline started as a VS Code extension and is now used by more than 11 million developers. Today, we’re launching Cline Desktop, an early version of our open source app for open weight models.It brings the same Cline agent harness into a dedicated workspace where you can run agents in parallel, automate recurring work, extend what Cline can do through the Marketplace, and import tasks from other coding agents to keep going in Cline.Cline Desktop is available on Mac, with Windows in beta.👉 Download Cline Desktop: https://cline.bot/desktopWhy Cline Desktop❓As we started delegating more work to agents ourselves, we found that keeping track of multiple agents, tasks, and context gets difficult pretty quickly.The IDE extension and CLI work well when you’re actively working alongside an agent. But as you delegate more work, we think there should be a better place to manage those tasks together.We also want Cline to complement the tools you already use. We jump between models and agents too, so being able to import a task from Claude Code or Codex and continue it in Cline was important to us.What you can do with Cline Desktop ✨🔷 Choose the models and providers that work best for you, including 300+ models through Cline, open-weight models through ClinePass, local models, or your own API keys🔷 Import tasks from Claude Code, Codex, and other supported agents and continue with the existing context🔷 Run multiple agents in parallel across coding, research, and other work🔷 Schedule recurring tasks like PR reviews, repo checks, and documentation updates🔷 Discover and manage plugins, MCP servers, and skills through Cline’s Marketplace🔷 Use web search and voice input to bring in outside context and give longer instructions🔷 You can also start a task in Cline CLI or VS Code extension and pick it up again in the Desktop app.Where we’re headed ✨This is still an early version, and we want to learn how people use agents beyond the IDE and terminal.We’re excited to share Cline Desktop with the Product Hunt community and would love your feedback on what works, what feels rough, and what you’d like us to build next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This could be a great fit for repository maintenance and dependency checks, test coverage, small refactors, documentation updates, and similar tasks that tend to accumulate."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This feels less like another coding assistant and more like an environment for managing AI assisted development."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The concept of a parallel agent workflow is truly fascinating. It certainly holds potential for accelerating large scale projects."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The open source + model gnostic approach is a strong combination. Developers get more control over both the agent and the models underneath it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Importing a task from Claude Code or Codex into Desktop with the context intact is such a clean handoff. Would love the same continuity for MCP and tool state so the agent doesn't have to relearn the environment."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The desktop app is really fun to use! I'm enjoying it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats @sdrzn on the launch of your desktop app. I believe being able to run the same task across different open-weight models side by side and compare outputs would be huge, especially for picking which model fits which task type. Would love to see that as a built-in comparison view. Great work on this!"
+        }
+      ],
+      "faDescription": "اپلیکیشن دسکتاپ کلاین (Cline Desktop) یک محیط کاری متن‌باز را در اختیار شما قرار می‌دهد تا مدل هوش مصنوعی مورد علاقه خود را به کار بگیرید. با استفاده از این برنامه می‌توانید چندین جلسه ایجنت را به صورت هم‌زمان اجرا کرده، کارهای تکراری را اتوماسیون کنید و قابلیت‌های آن‌ها را از طریق مارکت‌پلیس کلاین گسترش دهید. همچنین امکان ادامه دادن کارهای شروع‌شده در ایجنت‌های دیگری مانند Claude Code و Codex در این پلتفرم فراهم شده است. شما می‌توانید بهترین مدل‌ها و ارائه‌دهندگان را متناسب با نیاز خود انتخاب کنید، در حالی که هارنس ایجنت کلاین که برای مدل‌های وزن‌باز بهینه‌سازی شده، عملیات را پشتیبانی می‌کند؛ همه این‌ها بدون اینکه به یک زیست‌بوم بسته محدود شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت! من سعود، بنیان‌گذار کلاین هستم. چیزی که امروز عرضه می‌کنیم: کلاین به عنوان یک افزونه VS Code شروع شد و اکنون توسط بیش از ۱۱ میلیون برنامه‌نویس استفاده می‌شود. امروز نسخه اولیه نرم‌افزار دسکتاپ متن‌باز خود برای مدل‌های وزن‌باز را راه‌اندازی می‌کنیم. این برنامه همان هارنس ایجنت کلاین را به یک فضای کاری اختصاصی می‌آورد که در آن می‌توانید ایجنت‌ها را به صورت موازی اجرا کنید، کارهای تکراری را خودکار سازید، قابلیت‌های کلاین را از طریق مارکت‌پلیس توسعه دهید و وظایف را از سایر ایجنت‌های کدنویسی وارد کرده تا کار را در کلاین ادامه دهید. کلاین دسکتاپ برای مک در دسترس است و نسخه ویندوز در فاز بتا قرار دارد. دلیل ساخت کلاین دسکتاپ: وقتی کارهای بیشتری را به ایجنت‌ها واگذار کردیم، متوجه شدیم مدیریت چندین ایجنت، وظیفه و کانتکست خیلی سریع دشوار می‌شود. افزونه IDE و CLI هنگام کار مستقیم خوب هستند، اما برای مدیریت دسته‌جمعی کارهای واگذارشده به محیط بهتری نیاز است. همچنین می‌خواستیم کلاین مکمل ابزارهای فعلی شما باشد؛ قابلیت وارد کردن کارها از Claude Code یا Codex و ادامه آن‌ها در کلاین برای ما بسیار مهم بود. امکانات فعلی شامل انتخاب از بین ۳۰۰+ مدل، وارد کردن کانتکست از Claude Code و Codex، اجرای موازی ایجنت‌ها، زمان‌بندی کارهای تکراری مانند بررسی PR، مارکت‌پلیس پلاگین‌ها، جستجوی وب و ورودی صوتی است. این یک نسخه اولیه است و مشتاق دریافت بازخوردهای شما هستیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این ابزار می‌تواند گزینه بسیار مناسبی برای نگهداری ریپازیتوری، بررسی وابستگی‌ها، پوشش تست‌ها، رفکتورهای کوچک، به‌روزرسانی مستندات و کارهای مشابهی باشد که معمولاً انباشته می‌شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این برنامه بیشتر از اینکه فقط یک دستیار کدنویسی دیگر باشد، شبیه به محیطی برای مدیریت توسعه برنامه‌نویسی به کمک هوش مصنوعی است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "مفهوم گردش‌کار موازی ایجنت‌ها واقعاً جذاب است. این قابلیت قطعاً پتانسیل بالایی برای تسریع پروژه‌های بزرگ‌مقیاس دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ترکیب رویکرد متن‌باز و مستقل از مدل (Model-Agnostic) یک ترکیب بسیار قوی است. توسعه‌دهندگان کنترل بیشتری روی ایجنت و مدل‌های زیرساختی آن به دست می‌آورند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "انتقال یک وظیفه از Claude Code یا Codex به نسخه دسکتاپ با حفظ کامل کانتکست، یک تحویل بسیار تمیز و بدون دردسر است. خیلی عالی می‌شود اگر همین تداوم برای MCP و وضعیت ابزارها هم وجود داشته باشد تا ایجنت مجبور به یادگیری مجدد محیط نشود."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "استفاده از اپلیکیشن دسکتاپ واقعاً لذت‌بخش است! دارم از کار با آن لذت می‌برم."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک به سعود برای عرضه اپلیکیشن دسکتاپ. به نظرم قابلیت اجرای یک وظیفه یکسان روی مدل‌های مختلف وزن‌باز به صورت کنار هم و مقایسه خروجی‌ها بسیار ارزشمند خواهد بود، به ویژه برای انتخاب مدلی که بیشترین تناسب را با هر نوع وظیفه دارد. دوست دارم این قابلیت را به عنوان یک نمای مقایسه‌ای توکار ببینم. کارتان عالی بود!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: برنامه‌نویسان هنگام واگذاری کارهای متعدد به ایجنت‌های هوش مصنوعی در محیط‌های محدود مانند IDE یا CLI، با مشکل سردرگمی در مدیریت کانتکست و موازی‌سازی کارهای بزرگ مواجه می‌شوند. کلاین دسکتاپ با ارائه یک محیط کاری مستقل، امکان اجرای موازی ایجنت‌ها، زمان‌بندی کارهای تکراری و وارد کردن کانتکست از سایر ابزارها را فراهم کرده است.\n\nمعماری و تکنولوژی: این برنامه بر پایه یک معماری متن‌باز و مستقل از مدل (Model-Agnostic) توسعه یافته است. هارنس ایجنت‌ها به طور خاص برای مدل‌های وزن‌باز (Open-weight) بهینه‌سازی شده و قابلیت پشتیبانی از مدل‌های محلی، APIهای اختصاصی، سرورهای MCP و افزونه‌های مارکت‌پلیس را داراست.\n\nمدل درآمدی: مدل اصلی کسب‌وکار شامل ارائه سرویس‌های ابری جانبی مانند ClinePass برای دسترسی آسان به مدل‌ها، کارمزد مارکت‌پلیس پلاگین‌ها و ابزارها، و ارائه نسخه‌های سازمانی (Enterprise) با قابلیت‌های امنیتی و مدیریتی پیشرفته است.\n\nنقاط قوت: آزادی کامل کاربر و عدم وابستگی به یک اکوسیستم بسته، امکان اجرای موازی ایجنت‌ها برای کارهای پیچیده، قابلیت ادامه کارهای شروع‌شده در Claude Code و Codex، و مارکت‌پلیس غنی از افزونه‌ها.\n\nنقاط ضعف: ابتدایی بودن نسخه دسکتاپ، پیچیدگی مدیریت ابزارها و کانتکست‌ها در مقیاس بسیار بزرگ، و نیاز به بهینه‌سازی بیشتر برای حفظ وضعیت ابزارها (MCP Tool State) هنگام جابه‌جایی کارهای پیچیده.\n\nنکته طلایی برای ایران: در بازار ایران که دسترسی به سرویس‌های ابری خارجی با چالش تحریم و هزینه دلاری روبرو است، بومی‌سازی چنین ابزاری با قابلیت اتصال آسان به مدل‌های محلی (Local Models) و مدل‌های وزن‌باز مانند Llama و Qwen می‌تواند محیطی کاملاً مستقل، امن و ارزان را برای تیم‌های نرم‌افزاری ایرانی فراهم کند.",
+      "iranEquivalent": {
+        "productName": "میزکار هوشمند کلاین فارسی",
+        "description": "میزکار هوشمند کلاین یک محیط کاری اختصاصی دسکتاپ برای مدیریت موازی ایجنت‌های هوش مصنوعی و اتوماسیون پروژه‌های نرم‌افزاری است. این پلتفرم به برنامه‌نویسان ایرانی اجازه می‌دهد مدل‌های مختلف هوش مصنوعی را بدون وابستگی به یک سرویس‌دهنده خاص به کار بگیرند. همچنین امکان زمان‌بندی کارهای تکراری کدنویسی و اتصال به مدل‌های بومی یا محلی را به‌سادگی فراهم می‌سازد.",
+        "marketOpportunity": "نیاز روزافزون شرکت‌های نرم‌افزاری ایرانی به کاهش هزینه‌های توسعه و دور زدن تحریم‌های ابزارهای اختصاصی، بازار بکری برای پلتفرم‌های مدیریت ایجنت‌های هوش مصنوعی ایجاد کرده است. ارائه یک ابزار دسکتاپ متن‌باز که از مدل‌های وزن‌باز و محلی پشتیبانی کند، پاسخگوی مستقیم نیازهای امنیت داده و هزینه تیم‌های ایرانی است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مدیران فنی، تیم‌های DevOps و شرکت‌های فناوری‌محور در ایران",
+        "challenges": [
+          "چالش‌های مربوط به تحریم‌ها و عدم دسترسی پایدار به API برخی ارائه‌دهندگان بین‌المللی",
+          "نیاز به سخت‌افزار قدرتمند توسط کاربران برای اجرای روان مدل‌های وزن‌باز به صورت محلی"
+        ],
+        "monetization": [
+          "فروش اشتراک ابری برای دسترسی به مدل‌های تجاری و سرورهای پرسرعت اختصاصی",
+          "کارمزد تراکنش‌ها و فروش افزونه‌های تخصصی در مارکت‌پلیس پلتفرم"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-09-06",
       "rank": 4,
@@ -16556,177 +16784,6 @@
       }
     },
     {
-      "id": "ph-yesterday-5",
-      "date": "2026-09-11",
-      "rank": 5,
-      "name": "Cline Desktop App",
-      "slug": "cline-desktop-app",
-      "tagline": "An open-source app for open-weight models",
-      "description": "Cline Desktop gives you an open-source workspace to put your favourite model to work - run multiple agent sessions, automate recurring tasks, extend their capabilities through Cline’s Marketplace, and continue work from agents like Claude Code and Codex. Choose the models and providers that work best for you, while Cline’s agent harness, optimized for open-weight models, powers the work behind them. All without being tied to a closed ecosystem.",
-      "category": "Task Management • Software Engineering • Artificial Intelligence",
-      "categoryFa": "مدیریت وظایف • Software Engineering • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/88e275be-4bd4-4d21-ab86-385c6be0af00.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/04e4c2d4-bdeb-4822-8c39-f8f45f33ae27.png?auto=format",
-        "https://ph-files.imgix.net/6a50cb52-aeb5-4214-ac4a-6f35c6f954e5.png?auto=format",
-        "https://ph-files.imgix.net/af7be837-4d07-4629-a3ad-a9857e25c99b.png?auto=format",
-        "https://ph-files.imgix.net/87f5ad6e-8591-4b6b-b5e7-84b2b7f5dd3c.png?auto=format",
-        "https://ph-files.imgix.net/bfe4f5a0-af98-4b0a-a62b-e59d68b64db0.png?auto=format",
-        "https://ph-files.imgix.net/e9f2889f-30ce-46ad-9987-1be2b799371f.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-11T07:01:00Z",
-      "votes": 256,
-      "websiteUrl": "https://www.producthunt.com/r/LTNZETAC7HBN7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "👋 Hey Product Hunt - I’m Saoud, founder of Cline.What we’re launching today 🚀Cline started as a VS Code extension and is now used by more than 11 million developers. Today, we’re launching Cline Desktop, an early version of our open source app for open weight models.It brings the same Cline agent harness into a dedicated workspace where you can run agents in parallel, automate recurring work, extend what Cline can do through the Marketplace, and import tasks from other coding agents to keep going in Cline.Cline Desktop is available on Mac, with Windows in beta.👉 Download Cline Desktop: https://cline.bot/desktopWhy Cline Desktop❓As we started delegating more work to agents ourselves, we found that keeping track of multiple agents, tasks, and context gets difficult pretty quickly.The IDE extension and CLI work well when you’re actively working alongside an agent. But as you delegate more work, we think there should be a better place to manage those tasks together.We also want Cline to complement the tools you already use. We jump between models and agents too, so being able to import a task from Claude Code or Codex and continue it in Cline was important to us.What you can do with Cline Desktop ✨🔷 Choose the models and providers that work best for you, including 300+ models through Cline, open-weight models through ClinePass, local models, or your own API keys🔷 Import tasks from Claude Code, Codex, and other supported agents and continue with the existing context🔷 Run multiple agents in parallel across coding, research, and other work🔷 Schedule recurring tasks like PR reviews, repo checks, and documentation updates🔷 Discover and manage plugins, MCP servers, and skills through Cline’s Marketplace🔷 Use web search and voice input to bring in outside context and give longer instructions🔷 You can also start a task in Cline CLI or VS Code extension and pick it up again in the Desktop app.Where we’re headed ✨This is still an early version, and we want to learn how people use agents beyond the IDE and terminal.We’re excited to share Cline Desktop with the Product Hunt community and would love your feedback on what works, what feels rough, and what you’d like us to build next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This could be a great fit for repository maintenance and dependency checks, test coverage, small refactors, documentation updates, and similar tasks that tend to accumulate."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This feels less like another coding assistant and more like an environment for managing AI assisted development."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The concept of a parallel agent workflow is truly fascinating. It certainly holds potential for accelerating large scale projects."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The open source + model gnostic approach is a strong combination. Developers get more control over both the agent and the models underneath it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Importing a task from Claude Code or Codex into Desktop with the context intact is such a clean handoff. Would love the same continuity for MCP and tool state so the agent doesn't have to relearn the environment."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The desktop app is really fun to use! I'm enjoying it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats @sdrzn on the launch of your desktop app. I believe being able to run the same task across different open-weight models side by side and compare outputs would be huge, especially for picking which model fits which task type. Would love to see that as a built-in comparison view. Great work on this!"
-        }
-      ],
-      "faDescription": "اپلیکیشن دسکتاپ کلاین (Cline Desktop) یک محیط کاری متن‌باز را در اختیار شما قرار می‌دهد تا مدل هوش مصنوعی مورد علاقه خود را به کار بگیرید. با استفاده از این برنامه می‌توانید چندین جلسه ایجنت را به صورت هم‌زمان اجرا کرده، کارهای تکراری را اتوماسیون کنید و قابلیت‌های آن‌ها را از طریق مارکت‌پلیس کلاین گسترش دهید. همچنین امکان ادامه دادن کارهای شروع‌شده در ایجنت‌های دیگری مانند Claude Code و Codex در این پلتفرم فراهم شده است. شما می‌توانید بهترین مدل‌ها و ارائه‌دهندگان را متناسب با نیاز خود انتخاب کنید، در حالی که هارنس ایجنت کلاین که برای مدل‌های وزن‌باز بهینه‌سازی شده، عملیات را پشتیبانی می‌کند؛ همه این‌ها بدون اینکه به یک زیست‌بوم بسته محدود شوید.",
-      "faComments": [
-        {
-          "user": "کاربر ProductHunt 1",
-          "text": "سلام محصول هانت! من سعود، بنیان‌گذار کلاین هستم. چیزی که امروز عرضه می‌کنیم: کلاین به عنوان یک افزونه VS Code شروع شد و اکنون توسط بیش از ۱۱ میلیون برنامه‌نویس استفاده می‌شود. امروز نسخه اولیه نرم‌افزار دسکتاپ متن‌باز خود برای مدل‌های وزن‌باز را راه‌اندازی می‌کنیم. این برنامه همان هارنس ایجنت کلاین را به یک فضای کاری اختصاصی می‌آورد که در آن می‌توانید ایجنت‌ها را به صورت موازی اجرا کنید، کارهای تکراری را خودکار سازید، قابلیت‌های کلاین را از طریق مارکت‌پلیس توسعه دهید و وظایف را از سایر ایجنت‌های کدنویسی وارد کرده تا کار را در کلاین ادامه دهید. کلاین دسکتاپ برای مک در دسترس است و نسخه ویندوز در فاز بتا قرار دارد. دلیل ساخت کلاین دسکتاپ: وقتی کارهای بیشتری را به ایجنت‌ها واگذار کردیم، متوجه شدیم مدیریت چندین ایجنت، وظیفه و کانتکست خیلی سریع دشوار می‌شود. افزونه IDE و CLI هنگام کار مستقیم خوب هستند، اما برای مدیریت دسته‌جمعی کارهای واگذارشده به محیط بهتری نیاز است. همچنین می‌خواستیم کلاین مکمل ابزارهای فعلی شما باشد؛ قابلیت وارد کردن کارها از Claude Code یا Codex و ادامه آن‌ها در کلاین برای ما بسیار مهم بود. امکانات فعلی شامل انتخاب از بین ۳۰۰+ مدل، وارد کردن کانتکست از Claude Code و Codex، اجرای موازی ایجنت‌ها، زمان‌بندی کارهای تکراری مانند بررسی PR، مارکت‌پلیس پلاگین‌ها، جستجوی وب و ورودی صوتی است. این یک نسخه اولیه است و مشتاق دریافت بازخوردهای شما هستیم."
-        },
-        {
-          "user": "کاربر ProductHunt 2",
-          "text": "این ابزار می‌تواند گزینه بسیار مناسبی برای نگهداری ریپازیتوری، بررسی وابستگی‌ها، پوشش تست‌ها، رفکتورهای کوچک، به‌روزرسانی مستندات و کارهای مشابهی باشد که معمولاً انباشته می‌شوند."
-        },
-        {
-          "user": "کاربر ProductHunt 3",
-          "text": "این برنامه بیشتر از اینکه فقط یک دستیار کدنویسی دیگر باشد، شبیه به محیطی برای مدیریت توسعه برنامه‌نویسی به کمک هوش مصنوعی است."
-        },
-        {
-          "user": "کاربر ProductHunt 4",
-          "text": "مفهوم گردش‌کار موازی ایجنت‌ها واقعاً جذاب است. این قابلیت قطعاً پتانسیل بالایی برای تسریع پروژه‌های بزرگ‌مقیاس دارد."
-        },
-        {
-          "user": "کاربر ProductHunt 5",
-          "text": "ترکیب رویکرد متن‌باز و مستقل از مدل (Model-Agnostic) یک ترکیب بسیار قوی است. توسعه‌دهندگان کنترل بیشتری روی ایجنت و مدل‌های زیرساختی آن به دست می‌آورند."
-        },
-        {
-          "user": "کاربر ProductHunt 6",
-          "text": "انتقال یک وظیفه از Claude Code یا Codex به نسخه دسکتاپ با حفظ کامل کانتکست، یک تحویل بسیار تمیز و بدون دردسر است. خیلی عالی می‌شود اگر همین تداوم برای MCP و وضعیت ابزارها هم وجود داشته باشد تا ایجنت مجبور به یادگیری مجدد محیط نشود."
-        },
-        {
-          "user": "کاربر ProductHunt 7",
-          "text": "استفاده از اپلیکیشن دسکتاپ واقعاً لذت‌بخش است! دارم از کار با آن لذت می‌برم."
-        },
-        {
-          "user": "کاربر ProductHunt 8",
-          "text": "تبریک به سعود برای عرضه اپلیکیشن دسکتاپ. به نظرم قابلیت اجرای یک وظیفه یکسان روی مدل‌های مختلف وزن‌باز به صورت کنار هم و مقایسه خروجی‌ها بسیار ارزشمند خواهد بود، به ویژه برای انتخاب مدلی که بیشترین تناسب را با هر نوع وظیفه دارد. دوست دارم این قابلیت را به عنوان یک نمای مقایسه‌ای توکار ببینم. کارتان عالی بود!"
-        }
-      ],
-      "aiReview": "مسئله و راه‌حل: برنامه‌نویسان هنگام واگذاری کارهای متعدد به ایجنت‌های هوش مصنوعی در محیط‌های محدود مانند IDE یا CLI، با مشکل سردرگمی در مدیریت کانتکست و موازی‌سازی کارهای بزرگ مواجه می‌شوند. کلاین دسکتاپ با ارائه یک محیط کاری مستقل، امکان اجرای موازی ایجنت‌ها، زمان‌بندی کارهای تکراری و وارد کردن کانتکست از سایر ابزارها را فراهم کرده است.\n\nمعماری و تکنولوژی: این برنامه بر پایه یک معماری متن‌باز و مستقل از مدل (Model-Agnostic) توسعه یافته است. هارنس ایجنت‌ها به طور خاص برای مدل‌های وزن‌باز (Open-weight) بهینه‌سازی شده و قابلیت پشتیبانی از مدل‌های محلی، APIهای اختصاصی، سرورهای MCP و افزونه‌های مارکت‌پلیس را داراست.\n\nمدل درآمدی: مدل اصلی کسب‌وکار شامل ارائه سرویس‌های ابری جانبی مانند ClinePass برای دسترسی آسان به مدل‌ها، کارمزد مارکت‌پلیس پلاگین‌ها و ابزارها، و ارائه نسخه‌های سازمانی (Enterprise) با قابلیت‌های امنیتی و مدیریتی پیشرفته است.\n\nنقاط قوت: آزادی کامل کاربر و عدم وابستگی به یک اکوسیستم بسته، امکان اجرای موازی ایجنت‌ها برای کارهای پیچیده، قابلیت ادامه کارهای شروع‌شده در Claude Code و Codex، و مارکت‌پلیس غنی از افزونه‌ها.\n\nنقاط ضعف: ابتدایی بودن نسخه دسکتاپ، پیچیدگی مدیریت ابزارها و کانتکست‌ها در مقیاس بسیار بزرگ، و نیاز به بهینه‌سازی بیشتر برای حفظ وضعیت ابزارها (MCP Tool State) هنگام جابه‌جایی کارهای پیچیده.\n\nنکته طلایی برای ایران: در بازار ایران که دسترسی به سرویس‌های ابری خارجی با چالش تحریم و هزینه دلاری روبرو است، بومی‌سازی چنین ابزاری با قابلیت اتصال آسان به مدل‌های محلی (Local Models) و مدل‌های وزن‌باز مانند Llama و Qwen می‌تواند محیطی کاملاً مستقل، امن و ارزان را برای تیم‌های نرم‌افزاری ایرانی فراهم کند.",
-      "iranEquivalent": {
-        "productName": "میزکار هوشمند کلاین فارسی",
-        "description": "میزکار هوشمند کلاین یک محیط کاری اختصاصی دسکتاپ برای مدیریت موازی ایجنت‌های هوش مصنوعی و اتوماسیون پروژه‌های نرم‌افزاری است. این پلتفرم به برنامه‌نویسان ایرانی اجازه می‌دهد مدل‌های مختلف هوش مصنوعی را بدون وابستگی به یک سرویس‌دهنده خاص به کار بگیرند. همچنین امکان زمان‌بندی کارهای تکراری کدنویسی و اتصال به مدل‌های بومی یا محلی را به‌سادگی فراهم می‌سازد.",
-        "marketOpportunity": "نیاز روزافزون شرکت‌های نرم‌افزاری ایرانی به کاهش هزینه‌های توسعه و دور زدن تحریم‌های ابزارهای اختصاصی، بازار بکری برای پلتفرم‌های مدیریت ایجنت‌های هوش مصنوعی ایجاد کرده است. ارائه یک ابزار دسکتاپ متن‌باز که از مدل‌های وزن‌باز و محلی پشتیبانی کند، پاسخگوی مستقیم نیازهای امنیت داده و هزینه تیم‌های ایرانی است.",
-        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
-        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مدیران فنی، تیم‌های DevOps و شرکت‌های فناوری‌محور در ایران",
-        "challenges": [
-          "چالش‌های مربوط به تحریم‌ها و عدم دسترسی پایدار به API برخی ارائه‌دهندگان بین‌المللی",
-          "نیاز به سخت‌افزار قدرتمند توسط کاربران برای اجرای روان مدل‌های وزن‌باز به صورت محلی"
-        ],
-        "monetization": [
-          "فروش اشتراک ابری برای دسترسی به مدل‌های تجاری و سرورهای پرسرعت اختصاصی",
-          "کارمزد تراکنش‌ها و فروش افزونه‌های تخصصی در مارکت‌پلیس پلتفرم"
-        ],
-        "techStack": [
-          "Next.js",
-          "PostgreSQL"
-        ],
-        "confidence": 75
-      }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-12",
-      "rank": 1,
-      "name": "Cortex",
-      "slug": "cortex-27",
-      "tagline": "Turn API specs into docs, SDKs, and MCP servers",
-      "description": "Cortex is an open source API knowledge layer that turns OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC specs into interactive documentation, typed SDKs in 11 languages, and MCP servers for AI agents.",
-      "category": "API • Open Source • Developer Tools • GitHub",
-      "categoryFa": "API • متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b49b01b5-370d-4f90-9ce8-ce2bdc67fcb7.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2a0de04a-6204-4bf8-8682-56a4d5db6abe.png?auto=format",
-        "https://ph-files.imgix.net/41446e83-1586-45db-87ef-1350ad83c597.png?auto=format",
-        "https://ph-files.imgix.net/ef4155e9-99d0-4e30-96ba-01b4e7b1bc50.png?auto=format",
-        "https://ph-files.imgix.net/8f2fa434-e8f0-4501-8bc7-26593997e12c.png?auto=format",
-        "https://ph-files.imgix.net/3cb9914a-7e57-4805-9484-53e905f7c2e0.png?auto=format"
-      ],
-      "maker": "Nick Chisiu",
-      "makerTitle": "Founder @Cortex",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 254,
-      "websiteUrl": "https://www.producthunt.com/r/2YCIFX5SDWGMX6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "we run a small mcp server, 28 tools, and the part that took longest was not the types. it was the descriptions.two of ours read \"fetch before prospecting to skip duplicates\" and \"stored as DRAFT, not sent\". neither of those is in any schema. the first is an ordering rule, the second is there so the agent doesnt tell you it sent something that is only queued.a spec gives you the shape of every call and nothing about which of two similar endpoints is the right one. for the sdk thats fine, the developer reads the page. for the agent that one string is the whole basis of the decision.so when you generate the mcp server, what goes into the tool description? the summary field from the spec, or something else?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The SDK generation is that your own work or are you using the one from OpenAPI ? The C# generation from openapi is a a messy code bloat."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "sometimes I start with the docs but then get distracted rewriting API calls. if Cortex auto-generates integration code from specs, might save me from wandering off before everything's written up. but I always skip reading the full spec first, so who knows."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that Cortex treats AI agents and developers as first class consumers of the same spec, generating one source of truth into SDKs, docs, and MCP servers instead of duplicating the work."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I would be interested to see how it custom code when teams need behavior beyond what the API spec defines."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Regarding the auto-generation of SDKs for 11 programming languages, what is your approach to ensuring consistency with any changes to the original specification, auto-regeneration on every change or manual intervention?BTW, Congratulations @nick_csu & @fmerian on the launch of Cortex 🚀🎊"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks another amazing product. Congrats @nick_csu & team! Thanks for sharing @fmerian 🙌🏻"
-        }
-      ]
-    },
-    {
       "id": "ph-today-2",
       "date": "2026-09-12",
       "rank": 2,
@@ -16750,7 +16807,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 252,
+      "votes": 256,
       "websiteUrl": "https://www.producthunt.com/r/AXBZALUEGRY3KK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -16785,7 +16842,68 @@
           "user": "[REDACTED]",
           "text": "The free data layer is an interesting strategy. If data is becoming commoditized, owning the action layer definitely is the stronger moat. 😊"
         }
-      ]
+      ],
+      "faDescription": "یوکتی تمام حساب‌ها، گفتگوها و معامله‌های شما را به خاطر می‌سپارد و حرکت دقیق بعدی را به تیم فروش پیشنهاد می‌دهد. این پلتفرم مشخص می‌کند کدام معامله در حال از دست رفتن است، کدام حساب غیرفعال سیگنال جدیدی ارسال کرده و برای جلسه فردا چه مواردی را باید آماده کنید. این ابزار به طور اختصاصی برای مدیران حساب (AE)، تیم‌های عملیات درآمد (RevOps) و کارشناسان فروش برون‌گرا طراحی شده است. تمام داده‌های مخاطبان، سیگنال‌های خرید و داده‌های قصد خرید به صورت کاملاً رایگان، بدون نیاز به ثبت کارت اعتباری و بدون محدودیت مصرف در اختیار کاربران قرار می‌گیرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! 👋 من رامانا، بنیان‌گذار یوکتی هستم. ما اینجا هستیم تا صنعت فروش و ورود به بازار (GTM) را متحول کنیم. یوکتی یک پلتفرم هوش مصنوعی برای اقدامات درآمدی است که تمام حساب‌ها را به خاطر می‌سپارد و حرکت بعدی را به تیم فروش می‌گوید. لایه داده ما کاملاً رایگان است.\n\nمسئله: تیم‌های فروش مبالغ هنگفتی برای داده‌ها می‌پردازند اما هنوز نمی‌دانند با آن داده‌ها چه کنند. هر فید داده بر اساس اعتبار مالی محاسبه می‌شود و کارشناس فروش همچنان صبح دوشنبه CRM خود را باز می‌کند و حدس می‌زند روی کدام حساب کار کند. در این میان معاملات به آرامی از دست می‌روند و هیچ‌کس تا پایان فصل متوجه نمی‌شود.\n\nراه حل: یوکتی حافظه فعال تمام حساب‌ها، گفتگوها و معامله‌ها را نگه می‌دارد و آن را به لیستی روزانه از اقدامات مشخص تبدیل می‌کند؛ کدام معامله در خطر است و چرا، کدام حساب غیرفعال سیگنال داده است، کدام تمدید قرارداد نیاز به تماس فوری دارد و کدام ذینفع به جلسه فردا اضافه شده و چه چیزهایی باید آماده باشد.\n\nوجه تمایز ما: یوکتی داده‌ها را به رایگان ارائه می‌دهد. نگاه ما این است که داده‌ها ارزان و به اندازه کافی خوب شده‌اند، بنابراین مالکیت داده دیگر مزیت نیست. بخش سخت کار، دانستن اقدام بعدی است و این همان جایی است که یوکتی در آن عالی عمل می‌کند.\n\nرایگان، بدون کارت اعتباری، بدون زمان‌سنج تست و بدون محدودیت مصرف:\n- شماره‌های موبایل تایید شده و خطوط مستقیم نه تلفنخانه (که جا‌های دیگر حدود ۰.۴۰ دلار است)\n- ایمیل‌های کاری، یکسان‌سازی و اعتبارسنجی شده (جا‌های دیگر حدود ۰.۱۰ دلار)\n- پروفایل‌های لینکدین متصل به هر مشتری احتمالی\n- سیگنال‌های خرید زنده روی حساب‌های شما (که معمولاً یک قابلیت پولی است)\n- داده‌های قصد خرید ثالث، بدون محدودیت (معمولاً هزاران دلار در ماه)\n- دقت بالای ۸۰٪ شامل شماره تلفن‌ها که مال خودتان می‌ماند\n\nپلتفرم پولی:\n- اقدامات معامله با کانتکست کامل از تغییرات و اولویت‌ها\n- بیش از ۴۵ سیگنال خرید تبدیل شده به لیست کوتاه (ارتباط، نظر یا رد شدن)\n- ایجنت ARYA (هوش مصنوعی GTM): به زبان ساده بگویید چه می‌خواهید تا جریان کار را بسازد، متن ارتباطی را بنویسد و مراحل بعدی را پیگیری کند بدون نیاز به تنظیمات پیچیده.\n- هوش حساب: بیش از ۱۰۰ پارامتر روی هر حساب در کمتر از ۶۰ ثانیه\n- تحلیل رقبا که به صورت زنده به‌روزرسانی می‌شود\n- همگام‌سازی خودکار با CRM بدون نیاز به ثبت دستی\n\nهمه این‌ها به جای پرداخت بیش از ۱۰۰ هزار دلار برای ابزارهایی مثل Salesforce Data Cloud یا HubSpot یا Gong.\n\nبرخی نمونه‌های موفقیت: NeoSOFT درآمد خود را به ۸ میلیون دلار رساند، Samvidh رشد ۲۰ درصدی فصل به فصل داشت و Deeploop زمان فروش مفید را ۳ برابر کرد.\n\nمناسب برای: AEs، رهبران فروش، RevOps و تیم‌های Outbound، به‌ویژه کسانی که همزمان از ZoomInfo، ابزارهای Intent و پلتفرم‌های Engagement استفاده می‌کنند و برای هر سه هزینه می‌دهند.\nهمین حالا شروع کنید: دسترسی رایگان بدون کارت. خوشحال می‌شوم نظرات و حمایت شما را داشته باشم. ❤️"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام رامانا، انتشار محصول جدید را تبریک می‌گویم! آیا این ابزار با GoHighLevel (GHL) هم کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "در اینجا منظور از «آماده برای خرید» دقیقاً چیست؟ ابزارهای قصد خریدی که قبلاً امتحان کردم بر اساس بازدید از سایت امتیاز می‌دادند، بنابراین بیشتر همان افرادی را پیشنهاد می‌دادند که قبلاً در صندوق ورودی ایمیلم حضور داشتند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "کار جالبی است. به نظرتان آیا این ابزار می‌تواند جایگزین خوبی برای چیزی مثل هاب‌اسپات باشد؟ همچنین چگونه می‌توانم به پیشنهادهای اقدامی که ارائه می‌دهد اعتماد کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "بسیار علاقه‌مندم بدانم سیگنال‌های خرید زنده با چه فاصله‌های زمانی به‌روزرسانی می‌شوند و این تغییرات با چه سرعتی به دست کارشناس فروش می‌رسند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "خوشحالم می‌بینم یوکتی داده‌های مخاطبان و قصد خرید را بدون نیاز به اعتبار مالی ارائه می‌دهد! تبریک به تیم شما!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تلاش بزرگی است. نگرانی من این است که من فرآیند فروش خود را دارم و بهترین کارشناس فروشم دقیقاً می‌داند چه کاری را چه زمانی انجام دهد. چرا خارج از این فرآیند به این ابزار نیاز دارم؟ من فروشندگانی که کارشان را بلد نیستند استخدام نمی‌کنم. شاید ارزش آن در این باشد که بخواهید افراد بی‌تجربه بگیرید و این ابزار را دستشان بدهید، هرچند در این حالت ارتباط با مشتری کمرنگ می‌شود و تلاشی از سمت فروشنده صورت نمی‌گیرد که در آن صورت کلاً آن‌ها را استخدام نکرده یا اخراج می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "استراتژی ارائه رایگان لایه داده بسیار جالب است. اگر داده‌ها در حال عمومی و ارزان شدن هستند، تسلط بر لایه «اقدام و عمل» قطعاً مزیت رقابتی و خندق حفاظتی قوی‌تری محسوب می‌شود. 😊"
+        }
+      ],
+      "aiReview": "پلتفرم Youkti یک نوآوری تهاجمی در بازار ابزارهای B۲B و GTM است. مسئله اصلی که این محصول دست روی آن گذاشته، اتلاف بودجه شرکت‌ها برای دیتابیس‌های گران‌قیمت (مثل ZoomInfo) و سردرگمی کارشناسان فروش در انتخاب اقدام بعدی است. یوکتی با رایگان کردن کامل لایه داده و قصد خرید (Intent Data)، مدل درآمدی Freemium متفاوتی را ارائه داده و ارزش اصلی خود را روی لایه «اقدام» و دستیار هوشمند (ARYA) متمرکز کرده است.\n\nاز نظر معماری، استفاده از ایجنت‌های زبان طبیعی بدون نیاز به تنظیمات پیچیده Drag-and-Drop و یکپارچه‌سازی زنده با CRM، نقطه عطف کارایی آن است. نقطه قوت اصلی آن کاهش شدید هزینه‌های نرم‌افزاری شرکت‌ها (جایگزینی چند ابزار ۱۰۰ هزار دلاری) است. در مقابل، نقطه ضعف احتمالی وابسته بودن صحت پیشنهادات به کیفیت یکپارچه‌سازی و مقاومت کارشناسان فروش باسابقه در برابر دستورات ایجنت هوش مصنوعی است.\n\nنکته طلایی برای بازار ایران: در ایران دیتابیس‌های B۲B بسیار پراکنده و غیردقیق هستند. بومی‌سازی این ابزار با تمرکز بر پایش خودکار روزنامه‌های رسمی، آگهی‌های استخدامی، و تحلیل خودکار پیام‌های واتس‌اپ و ایمیل مشتریان می‌تواند تحولی بزرگ در فروش B۲B ایجاد کند، به شرطی که دیتابیس پایه شرکت‌ها به عنوان «قلاب جذب مشتری» رایگان عرضه شود.",
+      "iranEquivalent": {
+        "productName": "رسا (پلتفرم هوشمند اقدامات فروش B۲B)",
+        "description": "این محصول یک پلتفرم هوشمند مدیریت اقدامات درآمدی برای شرکت‌های B۲B در ایران است که تمامی ارتباطات و رفتارهای مشتریان را ثبت و تحلیل می‌کند. سامانه با بررسی تغییرات سازمانی و سیگنال‌های بازار، دقیقاً مشخص می‌کند که چه زمانی و با چه پیشنهادی باید با مشتری تماس گرفته شود. با ارائه رایگان اطلاعات تماس و مشخصات شرکت‌های ایرانی، تمرکز اصلی تیم فروش بر روی بستن سریع‌تر معامله‌ها قرار می‌گیرد.",
+        "marketOpportunity": "اکثر شرکت‌های B۲B ایرانی زمان زیادی را صرف جستجوی دستی مخاطبان و حدس زدن زمان مناسب برای پیگیری فروش می‌کنند. ارائه یک دیتابیس رایگان همراه با دستیار هوشمند اقدام بعدی، مزیت رقابتی بی‌نظیری در بازار نرم‌افزارهای سازمانی ایران ایجاد خواهد کرد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های فروش B۲B، مدیران توسعه بازار، شرکت‌های نرم‌افزاری SaaS و ارائه دهندگان خدمات سازمانی در ایران",
+        "challenges": [
+          "عدم شفافیت داده‌های رسمی شرکت‌ها و تغییرات مدیریتی در بازار ایران",
+          "مقاومت تیم‌های سنتی فروش در برابر پذیرش پیشنهادهای هوش مصنوعی",
+          "محدودیت در دسترسی به APIهای پایدار از شبکه‌های اجتماعی شغلی بومی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه پلتفرم پیشنهاد اقدام بر اساس تعداد کاربر/کارشناس فروش",
+          "ارائه خدمات سفارشی‌سازی و اتصال اختصاصی به CRMهای بومی مانند دیدار و پیام‌گستر"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python / FastAPI",
+          "LangChain",
+          "Redis",
+          "Tailwind CSS"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -21535,6 +21653,125 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-09-12",
+      "rank": 3,
+      "name": "QApilot MCP for Android",
+      "slug": "qapilot-mcp-for-android",
+      "tagline": "Android app testing inside your coding agent",
+      "description": "QApilot MCP automates tests on real Android devices and emulators by talking to Claude, Cursor or Codex. Describe a test flow in plain English, no Appium code required. Your agent lays out the steps. QApilot runs the steps. It finds the elements, waits for the screen to settle, retries when something moves, and caches what it learns so repeat runs are faster. Every pass saves a Gherkin feature file and becomes a replayable test case. Needs Node, Java and the Android SDK.",
+      "category": "Software Engineering • Artificial Intelligence • Development",
+      "categoryFa": "Software Engineering • هوش مصنوعی • Development",
+      "url": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/903cf11e-179d-4862-9f5d-b2c99d6c1ccf.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2478378e-5ca1-441a-bc7b-079d8ce8f12b.png?auto=format",
+        "https://ph-files.imgix.net/cf6e3cdf-6403-407d-8a46-8493b50a1656.png?auto=format",
+        "https://ph-files.imgix.net/1068a44b-fead-44af-8f48-d348fdea3408.png?auto=format",
+        "https://ph-files.imgix.net/382284ce-e1ba-47f1-a373-8f9700299ffc.png?auto=format",
+        "https://ph-files.imgix.net/18d274da-cf22-46dd-88e1-259d4b2a782e.octet-stream?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 178,
+      "websiteUrl": "https://www.producthunt.com/r/CHCYBUSI4J3W2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt!I am Charan. Thrilled to bring QApilot MCP to you. → https://qapilot.io/mcp/guideAndroid app testing inside your AI client. You describe what needs to hold in plain English, and it runs on a device or emulator connected to your machine.The specifics:Android only. iOS is next.Native Android apps. Hybrid and WebView aren't supported yet.Local device or emulator.Tested configs for Claude Desktop, Cursor and Codex.You'll need Node, Java, the Android SDK, and Appium running locally.Why an MCP?Coding agents made mobile code cheap to write. They did nothing for verifying it, so the bottleneck just moved. A mobile lead put it well: \"by the time your report reaches me, I've merged three more PRs.\" Our testing wasn't wrong. It was happening too late, in a tool he never opened. MCP is how we moved it into his editor.What it doesYou tell your agent what needs to hold: \"verify checkout still works after this refactor.\" It lays out the steps; QApilot finds the actual element behind \"Checkout\" on a real Android screen, waits for it to settle, retries when something moves, and says so honestly when it can't.You get a verdict, a live browser preview, and files on disk: YAML, JSON steps, Gherkin on pass. Accept a run and it becomes a test case you can replay by ID, in batch, or from Excel. It caches what it learns per app, so it gets faster the more you use it.The part we care most aboutIt runs on your machine. Your app, your screenshots and your runs don't get uploaded. Only your account and the test cases you explicitly save go to QApilot. Most tools here force every run through their cloud behind a tunnel, and for a lot of teams that's an immediate no. We didn't want to build that.If you build Android apps with a coding agent, I'd like to know what you still check by hand before every merge. That's what shapes where this goes next.Happy to answer anything in the comments."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@charan_tej_kammara Congratulations. And happy product launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great Launch Charan.. testing automation without third party walls that too through MCP saves developers times and cost.. good wishes for your success.."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It is great to see am app dedicated to android apps. There are so many that focus on ios it is refreshing to see android getting attention. Although I am not a mobile app developer (yet) I am an android user so kobe seeing this. I also like the ease of use being able to use plain language. One question, does it work with other coding agents (in particular I use opencode so would be interested in an opencode config).Good luck with the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really interesting approach. One thing I’m curious about: once QApilot learns the app’s UI and generates reusable tests, how well does it handle major UI changes between app versions? Does it automatically adapt existing test cases, or would those need to be redefined?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a really smart use of MCP. Love that the tests run locally on the actual device instead of sending everything through the cloud. Congrats on the launch Charan!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch guys"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good luck, although I’m on iPhone it’s nice to see ppl building for Android first."
+        }
+      ],
+      "faDescription": "ابزار QApilot MCP فرایند اتوماسیون تست برنامه‌های اندروید را روی دستگاه‌های واقعی و ایمولاتورها از طریق ارتباط با دستیارهای هوش مصنوعی نظیر Claude، Cursor یا Codex انجام می‌دهد. کافی است سناریوی تست خود را به زبان انگلیسی ساده و بدون نیاز به کدنویسی Appium توصیف کنید تا عامل هوشمند مراحل را طراحی و QApilot آن را اجرا کند. این ابزار عناصر روی صفحه را شناسایی کرده، منتظر بارگذاری کامل صفحه می‌ماند، در صورت جابه‌جایی عناصر دوباره تلاش می‌کند و یافته‌های خود را کش می‌کند تا اجراهای بعدی سریع‌تر شوند. با هر بار قبولی در تست، یک فایل ویژگی Gherkin ذخیره شده و به یک تست‌کیس قابل تکرار تبدیل می‌گردد. برای استفاده از این ابزار به Node، Java و Android SDK نیاز خواهید داشت.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول برتر! من چاران هستم و از ارائه QApilot MCP به شما بسیار هیجان‌زده‌ام. این ابزار امکان تست اپلیکیشن‌های اندروید را مستقیماً داخل کلاینت هوش مصنوعی شما فراهم می‌کند. شما آنچه را که باید بررسی شود به زبان ساده توضیح می‌دهید و برنامه روی دستگاه یا ایمولاتور متصل به سیستم شما اجرا می‌شود. جزئیات: فقط اندروید (iOS در نوبت بعدی است)، اپلیکیشن‌های نیتیو (هیبرید و وب‌ویو فعلاً پشتیبانی نمی‌شوند)، اجرا روی دستگاه محلی یا ایمولاتور. پیکربندی‌ها برای Claude Desktop، Cursor و Codex تست شده‌اند. شما به Node، Java، Android SDK و Appium فعال به صورت محلی نیاز دارید. چرا MCP؟ عامل‌های کدنویسی نوشتن کد موبایل را ارزان کردند، اما کاری برای تایید آن انجام ندادند، بنابراین گلوگاه فقط منتقل شد. یک مدیر ارشد موبایل خوب گفت: «تا زمانی که گزارش شما به دست من برسد، من سه درخواست ادغام (PR) دیگر را ادغام کرده‌ام.» تست‌های ما اشتباه نبودند، بلکه خیلی دیر و در ابزاری انجام می‌شدند که او هرگز باز نمی‌کرد. MCP راهی است که ما تست را به داخل محیط توسعه او بردیم. کاری که انجام می‌دهد: شما به عامل خود می‌گویید چه چیزی باید تایید شود؛ مثلاً «تایید کن که پرداخت پس از این بازنویسی کد هنوز کار می‌کند». عامل مراحل را مشخص می‌کند؛ QApilot عنصر واقعی پشت «پرداخت» را روی صفحه اندروید پیدا می‌کند، منتظر ثابت شدن آن می‌ماند، در صورت تغییر مجدداً تلاش می‌کند و اگر نتواند، صادقانه اعلام می‌کند. شما یک نتیجه، پیش‌نمایش زنده در مرورگر و فایل‌هایی روی دیسک (YAML، مراحل JSON و Gherkin در صورت قبولی) دریافت می‌کنید. یک اجرا را تایید کنید تا به تست‌کیسی تبدیل شود که می‌توانید با شناسه، به صورت دسته‌ای یا از اکسل دوباره اجرا کنید. این ابزار آنچه را که به ازای هر برنامه یاد می‌گیرد کش می‌کند، بنابراین هرچه بیشتر از آن استفاده کنید سریع‌تر می‌شود. بخشی که برای ما بسیار مهم است: این ابزار روی سیستم خودتان اجرا می‌شود. برنامه، اسکرین‌شات‌ها و اجراهای شما آپلود نمی‌شوند. تنها حساب کاربری شما و تست‌کیس‌هایی که صراحتاً ذخیره می‌کنید به QApilot می‌روند. اکثر ابزارهای مشابه، هر اجرا را از طریق تونل به کلود خود فرستاده و مجبور می‌کنند، که برای بسیاری از تیم‌ها یک پاسخ منفی فوری است. ما نمی‌خواستیم چنین چیزی بسازیم. اگر با یک عامل کدنویسی برنامه‌های اندروید می‌سازید، دوست دارم بدانم هنوز چه چیزی را قبل از هر ادغام کد به صورت دستی بررسی می‌کنید. این همان چیزی است که مسیر بعدی ما را شکل می‌دهد. خوشحال می‌شوم به سوالات در کامنت‌ها پاسخ دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "@charan_tej_kammara تبریک می‌گویم و انتشار محصول مبارک باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "انتشار بسیار عالی بود چاران.. اتوماسیون تست بدون دیوارهای شخص ثالث آن هم از طریق MCP باعث صرفه‌جویی در زمان و هزینه توسعه‌دهندگان می‌شود.. با آرزوی موفقیت برای شما.."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "دیدن برنامه‌ای که اختصاصاً روی برنامه‌های اندروید تمرکز دارد بسیار عالی است. برنامه‌های زیادی وجود دارند که روی iOS تمرکز می‌کنند و دیدن اینکه اندروید مورد توجه قرار گرفته روح‌بخش است. اگرچه من هنوز توسعه‌دهنده اپلیکیشن موبایل نیستم اما یک کاربر اندرویدم و از دیدن این لذت می‌برم. همچنین سادگی استفاده با زبان محاوره‌ای را دوست دارم. یک سوال: آیا با سایر عامل‌های کدنویسی هم کار می‌کند؟ (به خصوص من از opencode استفاده می‌کنم و علاقه‌مند به پیکربندی آن هستم). با آرزوی موفقیت در انتشار."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "رویکرد واقعاً جالبی است. یک چیز هست که در مورد آن کنجکاو هستم: وقتی QApilot رابط کاربری برنامه را یاد گرفت و تست‌های قابل استفاده مجدد ایجاد کرد، در برابر تغییرات عمده UI بین نسخه‌های برنامه چقدر خوب عمل می‌کند؟ آیا خودکار تست‌کیس‌های موجود را منطبق می‌کند یا باید دوباره تعریف شوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این یک استفاده واقعاً هوشمندانه از MCP است. این نکته که تست‌ها به جای ارسال همه‌چیز به کلود، به صورت محلی روی دستگاه واقعی اجرا می‌شوند را دوست دارم. تبریک برای انتشار چاران!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک برای انتشار این محصول بچه‌ها."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "موفق باشید، اگرچه من از آیفون استفاده می‌کنم اما دیدن اینکه افرادی اول برای اندروید محصول می‌سازند خوشحال‌کننده است."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبا ظهور دستیارهای هوش مصنوعی مانند Cursor و Claude، سرعت تولید کد موبایل بسیار بالا رفته است، اما تایید و تست صحت عملکرد کدها همچنان یک گلوگاه کُند و زمان‌بر محسوب می‌شود. QApilot با استفاده از پروتکل MCP (Model Context Protocol)، امکان تست اتوماتیک برنامه‌های اندروید را مستقیماً از داخل ویرایشگر کد فراهم می‌کند. کاربر کافی است سناریوی تست را به زبان ساده بیان کند تا هوش مصنوعی مراحل را پیاده‌سازی و روی دستگاه واقعی یا ایمولاتور اجرا کند.\n\n### معماری و تکنولوژی\nاین محصول از معماری محلی (Local-first) استفاده می‌کند تا هیچ داده حساس یا تصویر صفحه‌ای به کلود ارسال نشود. پشته تکنولوژی آن شامل Node.js، Java، Android SDK و Appium است. سیستم با تحلیل UI و یادگیری عناصر صفحه، سناریوها را کَش کرده و اجراهای بعدی را سریع‌تر می‌سازد، همچنین قابلیت خروجی استاندارد Gherkin را داراست.\n\n### مدل درآمدی\nمدل درآمدی مبتنی بر مدل Freemium/SaaS است که اجرای محلی پایه را رایگان یا ارزان ارائه داده و برای ذخیره‌سازی ابری تست‌کیس‌ها، گزارش‌گیری پیشرفته تیمی و اجرای دسته‌ای (Batch Execution) حق اشتراک دریافت می‌کند.\n\n### نقاط قوت\n۱. عدم ارسال داده به کلود و رعایت کامل حریم خصوصی و امنیت کد.\n۲. حذف نیاز به کدنویسی پیچیده Appium و تبدیل متن ساده به سناریوی تست.\n۳. یکپارچگی مستقیم با ابزارهای توسعه محبوب مانند Cursor و Claude Desktop.\n۴. حافظه یادگیری (Caching) برای افزایش سرعت اجراهای بعدی.\n\n### نقاط ضعف\n۱. محدودیت فعلی به سیستم‌عامل اندروید و عدم پشتیبانی از iOS.\n۲. عدم پشتیبانی از اپلیکیشن‌های هیبریدی و WebView در نسخه فعلی.\n۳. نیاز به نصب و پیکربندی اولیه ابزارهای سنگین مانند Android SDK و Appium به صورت محلی.\n\n### نکته طلایی برای ایران\nدر بازار ایران، به دلیل تحریم خدمات ابری تست (مانند BrowserStack) و حساسیت شرکت‌های بزرگ به خروج داده‌ها، ابزاری محلی مانند QApilot که بتواند فرم‌های فارسی، کیبورد فارسی و درگاه‌های پرداخت ایرانی را به زبان ساده تست کند، شانس بسیار بالایی برای جذب مشتریان سازمانی و استارتاپ‌های بزرگ دارد.",
+      "iranEquivalent": {
+        "productName": "تست‌بار (TestBaar) - دستیار محلی اتوماسیون تست اندروید",
+        "description": "تست‌بار ابزاری مبتنی بر MCP است که به توسعه‌دهندگان ایرانی اجازه می‌دهد تست‌های اپلیکیشن اندروید را مستقیماً داخل محیط‌های کدنویسی هوشمند اجرا کنند. این سیستم دستورات متنی ساده فارسی یا انگلیسی را به سناریوهای تست اتوماتیک روی ایمولاتور و دستگاه واقعی تبدیل می‌کند. تمام فرایند به صورت محلی و بدون نیاز به ارسال داده به سرورهای خارجی انجام می‌شود که امنیت و سرعت بالایی را فراهم می‌سازد.",
+        "marketOpportunity": "بسیاری از تیم‌های نرم‌افزاری در ایران به دلیل هزینه‌های بالای تیم QA و تحریم خدمات ابری خارجی، با چالش تست مداوم برنامه‌های موبایل مواجه هستند. ارائه ابزاری بومی که اتوماسیون تست را بدون نیاز به کدنویسی پیچیده Appium در محیط توسعه یکپارچه سازد، بازار بکری میان استارتاپ‌ها و شرکت‌های نرم‌افزاری دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان موبایل، تیم‌های تضمین کیفیت (QA)، استارتاپ‌های نرم‌افزاری و شرکت‌های فناوری اطلاعات",
+        "challenges": [
+          "تنوع بالای دستگاه‌ها و نسخه‌های مختلف اندروید در بازار ایران",
+          "پشتیبانی کامل از فرم‌ها، کیبوردهای فارسی و رفتارهای خاص UI در اپلیکیشن‌های ایرانی"
+        ],
+        "monetization": [
+          "فروش اشتراک سازمانی بر اساس تعداد تست‌کیس‌های ذخیره شده و کاربران فعال",
+          "ارائه خدمات مشاوره، آموزش و سفارشی‌سازی سناریوهای تست برای شرکت‌های بزرگ"
+        ],
+        "techStack": [
+          "Node.js",
+          "Java",
+          "Android SDK",
+          "Appium",
+          "TypeScript",
+          "PostgreSQL"
+        ],
+        "confidence": 85
+      }
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-08-28",
       "rank": 5,
@@ -21637,65 +21874,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-09-12",
-      "rank": 3,
-      "name": "QApilot MCP for Android",
-      "slug": "qapilot-mcp-for-android",
-      "tagline": "Android app testing inside your coding agent",
-      "description": "QApilot MCP automates tests on real Android devices and emulators by talking to Claude, Cursor or Codex. Describe a test flow in plain English, no Appium code required. Your agent lays out the steps. QApilot runs the steps. It finds the elements, waits for the screen to settle, retries when something moves, and caches what it learns so repeat runs are faster. Every pass saves a Gherkin feature file and becomes a replayable test case. Needs Node, Java and the Android SDK.",
-      "category": "Software Engineering • Artificial Intelligence • Development",
-      "categoryFa": "Software Engineering • هوش مصنوعی • Development",
-      "url": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/903cf11e-179d-4862-9f5d-b2c99d6c1ccf.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2478378e-5ca1-441a-bc7b-079d8ce8f12b.png?auto=format",
-        "https://ph-files.imgix.net/cf6e3cdf-6403-407d-8a46-8493b50a1656.png?auto=format",
-        "https://ph-files.imgix.net/1068a44b-fead-44af-8f48-d348fdea3408.png?auto=format",
-        "https://ph-files.imgix.net/382284ce-e1ba-47f1-a373-8f9700299ffc.png?auto=format",
-        "https://ph-files.imgix.net/18d274da-cf22-46dd-88e1-259d4b2a782e.octet-stream?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 174,
-      "websiteUrl": "https://www.producthunt.com/r/CHCYBUSI4J3W2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt!I am Charan. Thrilled to bring QApilot MCP to you. → https://qapilot.io/mcp/guideAndroid app testing inside your AI client. You describe what needs to hold in plain English, and it runs on a device or emulator connected to your machine.The specifics:Android only. iOS is next.Native Android apps. Hybrid and WebView aren't supported yet.Local device or emulator.Tested configs for Claude Desktop, Cursor and Codex.You'll need Node, Java, the Android SDK, and Appium running locally.Why an MCP?Coding agents made mobile code cheap to write. They did nothing for verifying it, so the bottleneck just moved. A mobile lead put it well: \"by the time your report reaches me, I've merged three more PRs.\" Our testing wasn't wrong. It was happening too late, in a tool he never opened. MCP is how we moved it into his editor.What it doesYou tell your agent what needs to hold: \"verify checkout still works after this refactor.\" It lays out the steps; QApilot finds the actual element behind \"Checkout\" on a real Android screen, waits for it to settle, retries when something moves, and says so honestly when it can't.You get a verdict, a live browser preview, and files on disk: YAML, JSON steps, Gherkin on pass. Accept a run and it becomes a test case you can replay by ID, in batch, or from Excel. It caches what it learns per app, so it gets faster the more you use it.The part we care most aboutIt runs on your machine. Your app, your screenshots and your runs don't get uploaded. Only your account and the test cases you explicitly save go to QApilot. Most tools here force every run through their cloud behind a tunnel, and for a lot of teams that's an immediate no. We didn't want to build that.If you build Android apps with a coding agent, I'd like to know what you still check by hand before every merge. That's what shapes where this goes next.Happy to answer anything in the comments."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great Launch Charan.. testing automation without third party walls that too through MCP saves developers times and cost.. good wishes for your success.."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It is great to see am app dedicated to android apps. There are so many that focus on ios it is refreshing to see android getting attention. Although I am not a mobile app developer (yet) I am an android user so kobe seeing this. I also like the ease of use being able to use plain language. One question, does it work with other coding agents (in particular I use opencode so would be interested in an opencode config).Good luck with the launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really interesting approach. One thing I’m curious about: once QApilot learns the app’s UI and generates reusable tests, how well does it handle major UI changes between app versions? Does it automatically adapt existing test cases, or would those need to be redefined?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a really smart use of MCP. Love that the tests run locally on the actual device instead of sending everything through the cloud. Congrats on the launch Charan!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch guys"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good luck, although I’m on iPhone it’s nice to see ppl building for Android first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is pretty interesting. The ability to let the coding agent actually run flows on a local Android device and get the test result back in the same session feels really useful.especially like the local-first approach and agent-readable reports. Nice launch 👏"
-        }
-      ]
     },
     {
       "id": "ph-today-7",
@@ -25765,7 +25943,53 @@
           "user": "[REDACTED]",
           "text": "A lot of people default to Rotato (or After Effects) for 3D mockup videos—what’s the clearest quality/workflow point where Sliick wins, and where do you intentionally *not* try to compete with those heavier tools?"
         }
-      ]
+      ],
+      "faDescription": "اسکرین‌شات‌ها و ویدیوهای خود را مستقیماً در مرورگرتان به موکاپ‌های سه‌بعدی و زیبای دستگاه‌ها تبدیل کنید. صحنه دلخواه خود را انتخاب کنید، شکل‌ها و رنگ‌ها را شخصی‌سازی کرده، زاویه دوربین را تنظیم کنید و انیمیشن به آن اضافه نمایید. تصاویر یا ویدیوهای نهایی را به صورت کاملاً رایگان، بدون نیاز به ساخت حساب کاربری و بدون واترمارک خروجی بگیرید. تمام فایل‌ها و رسانه‌های شما کاملاً روی دستگاه خودتان باقی می‌مانند و به هیچ سروری آپلود نمی‌شوند. این ابزار توسط تیم Liinks ساخته شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت! 👋 من چارلی هستم، سازنده Sliick. ابزار Sliick اسکرین‌شات‌ها و ویدیوهای شما را به موکاپ‌های سه‌بعدی دستگاه‌ها تبدیل می‌کند و همه چیز کاملاً درون مرورگر شما اجرا می‌شود. تصویر صفحه خود را آپلود کنید، یک صحنه را انتخاب کنید و سپس آن را سفارشی‌سازی نمایید: اشکال را بچینید، رنگ‌ها را تغییر دهید، دوربین را تنظیم کنید و کمی متحرک‌سازی اضافه کنید. وقتی از نتیجه راضی بودید، یک تصویر ثابت یا یک ویدیوی متحرک خروجی بگیرید. این ابزار ۱۰۰٪ رایگان است، نیازی به حساب کاربری یا واترمارک ندارد و هیچ فایلی به سرور آپلود نمی‌شود. آن را در sliick.co امتحان کنید. بسیار علاقه‌مندم ببینم چه چیزهایی می‌سازید و نظرات شما را درباره ویژگی‌های بعدی بشنوم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من از این ابزار برای گرفتن اسکرین‌شات‌های جذاب‌تر برای اپلیکیشن در حال انتشارم استفاده کردم. واقعاً سادگی این ابزار را دوست داشتم، فقط یک پیشنهاد کوچک دارم که قابلیت «کپی در حافظه موقت (Clipboard)» را هم به عنوان یک گزینه خروجی اضافه کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "سلام چارلی، انتشار این محصول را تبریک می‌گویم. یک صفحه وضعیت رایگان برای sliick.co ایجاد شد که همین حالا در حال ثبت پایداری و در دسترس بودن است: https://upcontrol.io/status/sliick-co. همچنین UpControl به صورت یک بسته npx برای ایجنت‌های کدنویسی هوش مصنوعی عرضه می‌شود تا بتوانید با زبان ساده از آن بخواهید هر چیزی را پیگیری کند (مثلاً «کاربرانم را از اولین بازدید تا خرید ردیابی کن»)."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ارائه ابزار رایگان بدون واترمارک و بدون نیاز به حساب کاربری چیزی نیست که این روزها زیاد ببینیم. اگر رسانه‌ها هرگز از دستگاه خارج نمی‌شوند، آیا به این معنی است که رندر خروجی ویدیو هم مستقیماً در مرورگر انجام می‌شود؟ من اسکرین‌شات‌های زیادی برای معرفی محصولات می‌سازم، بنابراین این ابزار بسیار کاربردی به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "خیلی از افراد به طور پیش‌فرض برای ویدیوهای موکاپ سه‌بعدی از Rotato (یا افترافکت) استفاده می‌کنند؛ نقطه عطف اصلی Sliick در کیفیت یا گردش‌کار که در آن برنده می‌شود چیست، و در چه زمینه‌هایی عمداً سعی نمی‌کنید با آن ابزارهای سنگین‌تر رقابت کنید؟"
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:**\nساخت موکاپ‌های سه‌بعدی حرفه‌ای برای معرفی اپلیکیشن‌ها معمولاً مستلزم استفاده از نرم‌افزارهای پیچیده و سنگین مانند After Effects یا ابزارهای پولی و گران‌قیمتی مثل Rotato است. Sliick با انتقال تمام مراحل ساخت، تنظیم دوربین، رنگ‌بندی و رندرینگ به داخل مرورگر، فرایند ساخت موکاپ سه‌بعدی را کاملاً رایگان، بدون نیاز به ثبت‌نام و بدون واترمارک ساده کرده است.\n\n**معماری و تکنولوژی:**\nنقطه قوت فنی این محصول استفاده از معماری پردازش سمت کلاینت (Client-Side Rendering) است. با بهره‌گیری از Three.js برای رندر سه‌بعدی و WebAssembly (مانند FFmpeg.wasm) برای خروجی گرفتن ویدیویی در مرورگر، هیچ فایلی به سرور ارسال نمی‌شود. این کار علاوه بر حفظ کامل حریم خصوصی، هزینه زیرساخت و سرورهای رندرینگ سازنده را به صفر نزدیک می‌کند.\n\n**مدل درآمدی:**\nاین ابزار در حال حاضر کاملاً رایگان است و به عنوان یک ابزار جذب مخاطب (Lead Magnet) برای برند اصلی سازنده یعنی Liinks عمل می‌کند. با این حال، قابلیت اضافه کردن پلن‌های اشتراکی برای دسترسی به صحنه‌های پیشرفته‌تر، خروجی‌های باکیفیت‌تر و فونت‌های سفارشی وجود دارد.\n\n**نقاط قوت:**\n- عدم نیاز به ثبت‌نام، کاملاً رایگان و بدون واترمارک\n- حفظ ۱۰۰٪ حریم خصوصی به دلیل انجام پردازش‌ها در مرورگر کاربر\n- رابط کاربری فوق‌العاده ساده، سریع و بدون پیچیدگی‌های ابزارهای تخصصی\n\n**نقاط ضعف:**\n- محدودیت در انیمیشن‌سازی پیچیده در مقایسه با ابزارهای حرفه‌ای نظیر After Effects\n- وابستگی مستقیم سرعت رندرینگ ویدیو به قدرت سخت‌افزاری دستگاه کاربر\n\n**نکته طلایی برای ایران:**\nاز آنجا که پردازش‌ها کلاً درون مرورگر انجام می‌شوند، هزینه نگهداری سرور برای نمونه ایرانی بسیار پایین خواهد بود. می‌توان با اضافه کردن فریم‌ها و قالب‌های آماده مناسب برای کاورهای کافه بازار، مایکت و شبکه‌های اجتماعی، به سرعت بخش عمده‌ای از بازار طراحان و توسعه‌دهندگان ایرانی را جذب کرد.",
+      "iranEquivalent": {
+        "productName": "موکاپ‌ساز سه‌بعدی نما (NAMA ۳D)",
+        "description": "این محصول یک پلتفرم تحت وب برای تبدیل اسکرین‌شات‌ها و ویدیوهای اپلیکیشن به موکاپ‌های سه‌بعدی جذاب است. طراحان UI/UX و مدیران محصول می‌توانند بدون نیاز به نرم‌افزارهای سنگین، خروجی‌های تصویری و ویدیویی باکیفیت برای شبکه‌های اجتماعی و مارکت‌ها تولید کنند. تمام مراحل پردازش و رندرینگ درون مرورگر کاربر انجام شده و نیازی به ذخیره‌سازی فایل‌ها روی سرور ندارد.",
+        "marketOpportunity": "بسیاری از طراحان و استارتاپ‌های ایرانی به دلیل تحریم‌ها و قیمت بالای اشتراک دلاری ابزارهایی مانند Rotato، امکان دسترسی به موکاپ‌های سه‌بعدی باکیفیت را ندارند. ارائه یک ابزار بومی رایگان و سریع تحت وب می‌تواند سهم بازار بالایی در میان فریلنسرها، آژانس‌های دیجیتال مارکتینگ و توسعه‌دهندگان اپلیکیشن کسب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طراحان رابط و تجربه کاربری (UI/UX)، تولیدکنندگان محتوا، مدیران محصول و توسعه‌دهندگان اپلیکیشن‌های موبایل",
+        "challenges": [
+          "محدودیت‌های پردازشی مرورگر کاربران در رندرینگ سه‌بعدی انیمیشن‌های سنگین",
+          "چالش‌های درآمدزایی و ترغیب کاربران ایرانی به پرداخت برای ابزارهای طراحی"
+        ],
+        "monetization": [
+          "ارائه قالب‌ها، افکت‌ها و دستگاه‌های اختصاصی پریمیوم در اشتراک ویژه",
+          "فروش پکیج‌های خروجی با رزولوشن بالا (۴K) و فرمت‌های انیمیشن سفارشی مانند Lottie"
+        ],
+        "techStack": [
+          "Next.js",
+          "Three.js / React Three Fiber",
+          "WebAssembly (FFmpeg.wasm)",
+          "TailwindCSS"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -28526,7 +28750,39 @@
           "user": "[REDACTED]",
           "text": "Hey PH community 👋Excited to hunt Devin Voice today.Cognition just gave Devin a landline. You talk through the task, and Devin plans, codes, and ships it. The announce leans on GPT-Live for the conversation layer, with their new SWE-2 model doing the software engineering under the hood.Same day they also pushed SWE-2 as Cognition's latest coding model. Worth a skim if you care about the Pareto frontier numbers next to Fable 5.1, but the product on the board is the voice surface.Try Devin at https://docs.devin.ai/work-with-...Cognition's announce on the demo video:https://x.com/cognition/status/2...SWE-2 writeup if you want the model context:https://cognition.com/blog/swe-2Tagging @walden_yan and @wuneal if you're here. Scott Wu and the broader Devin team too.Give it a call and tell the team what you ship with Voice 🚀"
         }
-      ]
+      ],
+      "faDescription": "محصول Devin Voice به شما این امکان را می‌دهد که مستقیماً با دوین، مهندس نرم‌افزار هوش مصنوعی شرکت Cognition گفتگو کرده و تحویل پروژه‌ها را به او بسپارید. کافی است وظیفه و دستور مورد نظر خود را بلند بگوئید تا دوین فرایند برنامه‌ریزی، کدنویسی و ارائه نهایی پروژه را انجام دهد. این سیستم برای مکالمات طبیعی و روان از فناوری GPT-Live قدرت می‌گیرد و در لایه پردازشی خود از جدیدترین مدل کدنویسی Cognition یعنی SWE-۲ استفاده می‌کند. شما می‌توانید جهت تست و تجربه کار با این دستیار هوشمند به آدرس devin.ai مراجعه کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به جامعه پروداکت هانت 👋 از اینکه امروز Devin Voice را شکار و معرفی می‌کنم بسیار هیجان‌زده‌ام. شرکت Cognition در واقع یک خط تلفن ثابت به دوین داده است! شما وظیفه را شفاهی می‌گویید و دوین برنامه‌ریزی، کدنویسی و آن را تحویل می‌دهد. این رونمایی برای لایه مکالمه از GPT-Live استفاده می‌کند، در حالی که مدل جدید SWE-۲ کار مهندسی نرم‌افزار را زیر کاپوت انجام می‌دهد. آن‌ها در همان روز SWE-۲ را به عنوان جدیدترین مدل کدنویسی خود منتشر کردند. اگر بنچمارک‌های مرز پارتو در کنار Fable ۵.۱ برایتان مهم است ارزش مرور دارد، اما محصول اصلی روی تخته، رابط صوتی است. دوین را امتحان کنید و به تیم بگوئید چه چیزی با صوت تحویل می‌دهید! 🚀"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nمسئله اصلی، کندی فرایند تبدیل ایده‌ها و دستورات شفاهی به کدهای عملیاتی و برنامه‌ریزی نرم‌افزاری است. Devin Voice با ترکیب لایه مکالمه زنده صوتی (GPT-Live) و مدل تخصصی کدنویسی (SWE-۲)، امکان برنامه‌ریزی، کدنویسی و تحویل خودکار پروژه‌ها را تنها از طریق گفتار فراهم می‌کند.\n\nمعماری و تکنولوژی:\nاین ابزار از معماری دو لایه‌ای استفاده می‌کند؛ لایه تعاملی صوتی کم‌تاخیر مبتنی بر GPT-Live برای دریافت و درک گفتار، و لایه پردازشی عمیق با مدل SWE-۲ که بهبودهای چشمگیری در حل مسائل مهندسی نرم‌افزار واقعی نشان داده است.\n\nمدل درآمدی:\nمدل درآمدی مبتنی بر اشتراک SaaS ماهانه/سالانه بر اساس میزان توکن مصرفی صوتی و ساعات پردازش مهندسی دوین است.\n\nنقاط قوت:\n- تعامل بسیار طبیعی و سریع (از گفتار تا تحویل کد)\n- استفاده از مدل قدرت‌مند SWE-۲ برای حل مسائل پیچیده برنامه‌نویسی\n- کاهش فاصله زمانی بین ایده تا اجرا برای مدیران و توسعه‌دهندگان\n\nنقاط ضعف:\n- وابستگی شدید به اتصال اینترنت پرسرعت و کم‌تاخیر\n- احتمال خطا در درک کدهای بسیار پیچیده و معماری‌های خاص تنها از طریق توضیحات صوتی\n\nنکته طلایی برای ایران:\nتوسعه لایه صوتی فارسی اختصاصی برای ابزارهای هوش مصنوعی برنامه‌نویسی می‌تواند بازاری بکر بسازد؛ زیرا مدیران فنی و حتی بنیان‌گذاران غیرفنی ایرانی می‌توانند فیچرهای مورد نظر خود را به فارسی روان بیان کرده و خروجی اولیه کد را بدون درگیر شدن با جزئیات فنی دریافت کنند.",
+      "iranEquivalent": {
+        "productName": "کدآوا (KodAva)",
+        "description": "کدآوا یک دستیار هوشمند صوتی برای توسعه‌دهندگان و مدیران محصول ایرانی است که دستورات صوتی فارسی را به کدهای برنامه‌نویسی و فرآیندهای توسعه تبدیل می‌کند. این سیستم با اتصال به مدل‌های بومی‌سازی‌شده، برنامه‌ریزی پروژه، نوشتن تست‌ها و تحویل نرم‌افزار را خودکارسازی می‌کند. با کدآوا تیم‌های استارتاپی می‌توانند سرعت توسعه محصولات خود را تا چند برابر افزایش داده و هزینه‌ها را کاهش دهند.",
+        "marketOpportunity": "کمبود نیروی متخصص برنامه‌نویسی و نیاز مبرم استارتاپ‌ها به کاهش هزینه‌های توسعه، بازار بسیار جذابی برای دستیارهای هوشمند کدنویسی صوتی در ایران ایجاد کرده است. همچنین بومی‌سازی لایه صوت فارسی برای تعامل مستقیم مدیران غیرفنی با پروژه‌های نرم‌افزاری، پتانسیل رشد بالایی دارد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، مدیران محصول، استارتاپ‌های نوپا، آژانس‌های توسعه نرم‌افزار و بنیان‌گذاران غیرفنی",
+        "challenges": [
+          "چالش‌های پردازش زبان طبیعی و تبدیل گفتار به متن در زبان فارسی برای اصطلاحات تخصصی برنامه‌نویسی",
+          "محدودیت دسترسی پایدار و پرسرعت به APIهای پیشرفته بین‌المللی و لزوم میزبانی مدل‌ها روی سرورهای داخلی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه (SaaS) بر اساس میزان ساعات استفاده صوتی و پردازش کد",
+          "ارائه نسخه‌های خصوصی و سفارشی‌سازی‌شده (Enterprise) برای شرکت‌های بزرگ و سازمان‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "Whisper AI",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-today-8",
@@ -28930,7 +29186,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 117,
+      "votes": 118,
       "websiteUrl": "https://www.producthunt.com/r/WNR63HR4RGXHOI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -28965,7 +29221,66 @@
           "user": "[REDACTED]",
           "text": "Having different AI models and workflows in the same creative environment sounds really useful. It could save artisti a lot of back and forth between tools."
         }
-      ]
+      ],
+      "faDescription": "نرم‌افزار ABrush مدل‌های پیشتاز هوش مصنوعی و جریان‌های کاری پیشرفته آماده تولید را مستقیماً به محیطی که هنرمندان هم‌اکنون در آن مشغول به کار هستند، می‌آورد. ما از هوش مصنوعی برای حذف کارهای تکراری تولید، سرعت بخشیدن به تکرار فرآیندها و اعطای زمان بیشتر به هنرمندان برای تصمیم‌گیری‌های خلاقانه استفاده می‌کنیم، در حالی که کنترل خروجی نهایی همچنان کاملاً در دست هنرمند باقی می‌ماند. هوش مصنوعی سرعت فرآیند را افزایش داده و هزینه‌های کارهای روزمره و روتین را کاهش می‌دهد. این ابزار توسط خود هنرمندان و برای استفاده هنرمندان ساخته شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! من ایوانا پوگربنیاک، مدیرعامل ABrush هستم. چرا ABrush را ساختیم؟ ما تیم AB Games هستیم، تیمی که پشت بازی Hidden City قرار دارد؛ پنجمین عنوان برتر جهانی در سبک HOPA با بیش از ۹۰ میلیون بازیکن در سراسر جهان. وقتی هوش مصنوعی برای اولین بار وارد توسعه بازی شد، ما بلافاصله به دنبال راه‌هایی گشتیم تا از توانایی‌های آن برای بهبود فرآیندهای خلاقانه صنعت خود بهترین بهره را ببریم و آن را سفارشی‌سازی کنیم. سوال همیشگی ما این بود: «چگونه می‌توانیم فاصله بین یک تصویر تولیدشده توسط هوش مصنوعی و یک اثر هنری آماده برای تولید را کاهش دهیم، در حالی که کنترل خلاقانه کامل را در دست هنرمندان نگه داریم؟» پاسخ ما به این سوال، ساخت ABrush بود. و اکنون پس از سه سال استفاده داخلی در تیم‌های تولید خودمان، بسیار هیجان‌زده هستیم که آن را به پروداکت هانت معرفی کنیم! چه چیزی ABrush را متفاوت می‌کند؟ ABrush بیش از ۲۳ مدل برتر هوش مصنوعی را مستقیماً وارد فتوشاپ می‌کند، بنابراین هنرمندان می‌توانند بدون نیاز به خروجی گرفتن، سوئیچ کردن، دانلود و وارد کردن مداوم فایل‌ها، به هوش مصنوعی دسترسی داشته باشند. اما حضور در داخل فتوشاپ تنها بخشی از داستان است. این یک مجموعه خلاقانه است که تولیدات اغلب غیرقابل پیش‌بینی هوش مصنوعی را به فرآیندی بسیار قابل کنترل‌تر و تکرارپذیرتر تبدیل می‌کند. سبک، فرآیند و دنباله اقدامات شما می‌تواند در جریان‌های کاری قابل استفاده مجدد کدگذاری شود. و این موضوع به کل تیم‌ها گسترش می‌یابد؛ سبک‌ها، تنظیمات، جریان‌های کاری و کتابخانه‌های تولید می‌توانند به اشتراک گذاشته شوند تا یک استودیو به جای اینکه هر هنرمند کار را از صفر شروع کند، سیستم خلاقانه اختصاصی خود را بسازد. در تمام این فرآیند، هنرمند در رأس کنترل باقی می‌ماند. ما می‌خواهیم هوش مصنوعی بخش‌های سخت و تکراری تولید را سرعت ببخشد و در عین حال راه‌های بیشتری برای هدایت نتیجه به هنرمندان بدهد، نه اینکه به جای آنها تصمیم بگیرد اثر هنری چگونه به نظر برسد. این ترکیب همان چیزی است که ABrush را بر پایه آن ساختیم: هوش مصنوعی در محیطی که هنرمندان استفاده می‌کنند، کنترل بالاتر از زمان تولید تا تصویر نهایی، و ابزارهایی که این فرآیندها را در کل یک تیم تکرارپذیر می‌سازد. من امروز همراه با تیم اینجا خواهم بود، پس آن را امتحان کنید و نظرتان را به ما بگویید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "از روزهای اول این پروژه را دنبال می‌کردم. محصول فوق‌العاده‌ای است - برای ادامه استفاده از آن هیجان‌زده‌ام 🙌🏽"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "مرز بین سرعت بخشیدن به فرآیند کار و تجاوز به حریم تصمیم‌گیری خلاقانه دقیقاً کجاست؟ در چه نقطه‌ای این ابزار عمداً کنار می‌رود و راه را برای هنرمند باز می‌گذارد؟ تبریک به ایوانا، دنیس و کل تیم ABrush 🎊."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "کسی می‌داند چرا نمی‌توانم به وب‌سایت دسترسی پیدا کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا ABrush می‌تواند در جریان کاری موجود با ابزارهایی که هنرمندان استفاده می‌کنند ادغام شود یا عمدتاً به عنوان یک استودیوی کامل طراحی شده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "هنرمندان هنگام استفاده از جریان‌های کاری هوش مصنوعی چقدر روی خروجی نهایی کنترل دارند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تمرکز بر تحت کنترل نگه داشتن هنرمند را دوست دارم. هوش مصنوعی زمانی بسیار مفیدتر است که به جای تصاحب فرآیند خلاقانه، از آن پشتیبانی کند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "داشتن مدل‌های مختلف هوش مصنوعی و جریان‌های کاری در یک محیط خلاقانه یکسان بسیار کاربردی به نظر می‌رسد. این کار می‌تواند هنرمندان را از رفت‌وآمدهای زیاد بین ابزارهای مختلف نجات دهد."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nیکی از بزرگ‌ترین مشکلات هنرمندان دیجیتال هنگام استفاده از هوش مصنوعی، قطع اتصال جریان کاری (Workflow Context) است؛ طراحان مجبورند مدام بین وب‌سایت‌های مختلف تولید تصویر و نرم‌افزار فتوشاپ جابه‌جا شوند و خروجی‌های تصادفی و غیرقابل پیش‌بینی دریافت کنند. ABrush با وارد کردن بیش از ۲۳ مدل هوش مصنوعی به داخل فتوشاپ و ارائه‌ی فرآیندهای کاری ساختاریافته و قابل تکرار، این مشکل را حل کرده است تا هنرمند ضمن حفظ کنترل کامل روی خروجی، فرآیندهای روتین را سرعت ببخشد.\n\n### معماری و تکنولوژی\nمحصول به صورت افزونه (Extension/Plugin) بر پایه فناوری UXP فتوشاپ توسعه یافته است. در لایه بک‌اند، سیستم با اتصال به موتورهای اجرای هوش مصنوعی (مانند ComfyUI و مدل‌های ابرهای خارجی) و مدیریت خط لوله (Pipeline) داده‌ها کار می‌کند. استفاده از معماری ابری پردازش، انتقال مدل‌های سنگین به سیستم کاربر را بی‌نیاز می‌سازد.\n\n### مدل درآمدی\nمدل درآمدی این ابزار B۲B و B۲C بر پایه اشتراک ماهانه/سالانه (SaaS) است. استودیوها بر اساس تعداد اعضای تیم و میزان پردازش‌های هوش مصنوعی هزینه‌های متفاوتی پرداخت می‌کنند.\n\n### نقاط قوت\n۱. ساخته‌شده توسط یک استودیوی بازی‌سازی با سابقه معتبر (AB Games) و تست سه‌ساله در محیط واقعی تولید.\n۲. حفظ کنترل خلاقانه هنرمند و جلوگیری از تولید تصاویر تصادفی.\n۳. قابلیت اشتراک‌گذاری سیستم خلاقانه و جریان‌های کاری در سطح کل تیم.\n\n### نقاط ضعف\n۱. وابستگی شدید به زیست‌بوم آدوپی (Photoshop) که خروج از آن برای پلتفرم‌های دیگر نیازمند توسعه مجدد است.\n۲. رقابت فشرده با ابزارهای بومی خود آدوپی مانند Adobe Firefly.\n\n### نکته طلایی برای ایران\nدر بازار ایران، ساخت یک پلاگین فتوشاپ که بتواند مدل‌های متن‌باز مثل Stable Diffusion (از طریق ComfyUI) را به سرورهای داخلی یا کم‌هزینه متصل کند و هزینه‌های دلاری API را برای استودیوهای ایرانی کاهش دهد، می‌تواند به سرعت به ابزار اصلی استودیوهای انیمیشن و بازی‌سازی بومی تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "آرتیست‌پلاس AI (ArtistPlus AI)",
+        "description": "یک پلاگین و دستیار هوش مصنوعی بومی‌سازی‌شده برای نرم‌افزارهای طراحی گرافیک مانند فتوشاپ است که مدل‌های مولد تصویر را با جریان‌های کاری استودیوهای بازی‌سازی و انیمیشن ایرانی یکپارچه می‌کند. این محصول با حذف کارهای تکراری خروجی‌گرفتن و تنظیمات مجدد، سرعت تولید آرت‌ورک‌های دوبعدی را به شدت افزایش می‌دهد. همچنین امکان مدیریت متمرکز جریان‌های کاری و اشتراک‌گذاری سبک‌های هنری میان اعضای تیم‌های طراحی داخلی را فراهم می‌سازد.",
+        "marketOpportunity": "استودیوهای بازی‌سازی، انیمیشن و آژانس‌های تبلیغاتی در ایران با چالش هزینه‌های بالای تولید و کمبود زمان برای ارائه پروژه‌ها مواجه هستند. ارائه ابزاری یکپارچه با فتوشاپ که هوش مصنوعی را بدون پیچیدگی‌های فنی در اختیار طراحان قرار دهد، پتانسیل جذابی برای اتوماسیون فرآیندهای هنری در این استودیوها دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طراحان دو‌بعدی و سه‌بعدی، کانپست‌ارتیست‌ها، استودیوهای بازی‌سازی و انیمیشن‌سازی، و آژانس‌های تبلیغاتی و تولید محتوای بصری",
+        "challenges": [
+          "محدودیت و تحریم‌های مربوط به دسترسی به APIهای بین‌المللی هوش مصنوعی و نیاز به زیرساخت میانجی برای کاربران ایرانی",
+          "مقاومت اولیه برخی هنرمندان سنتی در برابر پذیرش هوش مصنوعی و دغدغه‌های مربوط به حق مالکیت فکری (Copyright)"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه و سالانه (SaaS) برای استودیوها بر اساس تعداد لایسنس و میزان مصرف اعتبار هوش مصنوعی",
+          "مارکت‌پلیس داخلی برای فروش ورک‌فلوها و پرامپت‌های آماده اختصاصی توسط هنرمندان برجسته"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python / FastAPI",
+          "ComfyUI API Integration",
+          "Photoshop UXP SDK"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -30287,7 +30602,7 @@
       "maker": "rohit jindal",
       "makerTitle": "building app convert meetings to alarm",
       "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 109,
+      "votes": 110,
       "websiteUrl": "https://www.producthunt.com/r/EIMZLZC2RBYDC3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -30314,7 +30629,59 @@
           "user": "[REDACTED]",
           "text": "@rohit_jindal3 - I like the look of this, and will be testing - I also like the lifetime option, does this also include all platforms for one payment?"
         }
-      ]
+      ],
+      "faDescription": "کالرتو تقویم شما را به هشدارهایی تبدیل می‌کند که امکان ندارد آن‌ها را نادیده بگیرید یا خواب بمانید. این برنامه با ارائه هشدارهای تمام‌صفحه به جای اعلانات معمولی که به راحتی رد می‌شوند، مدیریت زمان جلسات را بهبود می‌بخشد. کالرتو امکان همگام‌سازی با تقویم اپل و گوگل، تنظیم زمان آماده‌سازی سفارشی برای هر جلسه و نمایش شمارش معکوس رویداد بعدی در نوار منو را فراهم می‌کند. این نرم‌افزار هنگام ورود به سیستم به طور خودکار اجرا شده و به شما اجازه می‌دهد هشدارها را بدون حذف شدن متوقف کنید. همچنین تمام داده‌های تقویم شما به صورت محلی روی دستگاه باقی می‌مانند تا حریم خصوصی شما کاملاً حفظ شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت — روهیت هستم، سازنده کالرتو. من کالرتو را ساختم چون اعلانات معمولی تقویم وقتی عمیقاً مشغول کار هستید، در حالت تمرکز قرار دارید یا بین برنامه‌ها جابه‌جا می‌شوید، به طرز عجیبی به راحتی از دست می‌روند. کالرتو برای مک به جلسات مهم شما لحظه‌ای می‌دهد که نادیده گرفتن آن بسیار سخت‌تر است:\n• اتصال تقویم اپل و تقویم گوگل\n• انتخاب تقویم‌هایی که نمایش داده می‌شوند\n• تنظیم هشدارها در ۱، ۵، ۱۰، ۱۵، ۳۰، ۶۰ دقیقه قبل — یا یک زمان سفارشی — پیش از جلسه\n• دریافت هشدار تمام‌صفحه، حتی در حالت عدم مزاحمت / تمرکز (Do Not Disturb / Focus)\n• پیوستن مستقیم به جلسه از طریق همان هشدار\n• حفظ برنامه زمانی شما روی دستگاه خودتان\n\nهدف عمداً ساده است: کمک به شما برای حفظ تمرکز بدون از دست دادن تصادفی جلسات مهم.\nخیلی خوشحال می‌شوم درباره دو مورد بازخورد بگیرید:\n۱. چه چیزی باعث می‌شود این برنامه آن‌قدر مفید باشد که هر روز اجرا شود؟\n۲. در مرحله بعد از چه فرآیند تقویم یا جلسه‌ای پشتیبانی کنیم؟\nدانلود: https://apps.apple.com/us/app/calerto-meeting-alarm/id۶۷۴۷۴۱۰۱۳۲"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این فوق‌العاده است! من همیشه جلسات مهمم را از دست می‌دهم، فکر می‌کنم این برنامه زندگی‌ام را تغییر خواهد داد!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا زمانی که حالت تمرکز (Focus mode) یا یک تماس تمام‌صفحه در حال اجراست هم هشدار می‌دهد؟ این دقیقاً همان موقعیتی است که من جلسات را از دست می‌دهم؛ اعلان وجود دارد اما هرگز آن را نمی‌بینم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ابزار بسیار مفیدی است، ممنون بابت ساخت آن! آیا از هر تقویم متصل به تقویم اپل پشتیبانی می‌کند یا فقط تقویم‌های آیکلود؟ من به نکست‌کلود مهاجرت کرده‌ام و آن را به تقویم اپل متصل می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "لعنتی! واقعاً این برنامه را دوست دارم!!!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "@rohit_jindal۳ - من ظاهر این برنامه را دوست دارم و آن را تست خواهم کرد. همچنین گزینه لایسنس مادام‌العمر را دوست دارم، آیا این لایسنس شامل تمام پلتفرم‌ها با یک بار پرداخت می‌شود؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nدر دنیای پرشتاب امروز، بنرها و اعلانات استاندارد سیستم‌عامل‌ها به راحتی توسط کاربرانی که غرق در کار (Deep Work) یا حالت Focus Mode هستند دیده نمی‌شوند. Calerto با ارائه هشدارهای تمام‌صفحه و غیرقابل چشم‌پوشی که امکان پیوستن مستقیم به جلسه را فراهم می‌کند، مشکل تأخیر یا فراموشی جلسات را به کلی حل کرده است.\n\n### معماری و تکنولوژی\nتمرکز اصلی این برنامه روی حفظ حریم خصوصی (Local-first) است؛ بنابراین تمام داده‌ها روی دستگاه کاربر باقی می‌مانند. با توجه به سبک بودن ابزار، استفاده از فریم‌ورک‌های نیتیو مک (Swift/Cocoa) یا فریم‌ورک‌های مدرن مثل Tauri بهترین بازدهی را از نظر مصرف حافظه و کارایی پردازش در پس‌زمینه ارائه می‌دهد.\n\n### مدل درآمدی\nبرنامه از مدل فری‌میوم (Freemium) با امکان ارتقا به نسخه Pro استفاده می‌کند. خریدهای درون‌برنامه‌ای، اشتراک‌های پرو برای تنظیم اتوماتیک کل هفته و ارائه لایسنس مادام‌العمر (Lifetime) از ارکان اصلی درآمدزایی آن هستند.\n\n### نقاط قوت\n۱. حل یک نقطه درد (Pain Point) بسیار ملموس برای افراد شاغل.\n۲. حفظ کامل حریم خصوصی با ذخیره‌سازی محلی.\n۳. رد کردن حالت Do Not Disturb و پشتیبانی از برنامه‌های تمام‌صفحه.\n۴. تجربه کاربری ساده و بدون پیچیدگی‌های اضافی.\n\n### نقاط ضعف\n۱. وابستگی شدید به دسترسی‌های سیستم‌عامل که با آپدیت‌های جدید مک یا ویندوز ممکن است دچار اختلال شود.\n۲. محدود بودن بازار هدف اولیه فقط به کاربران مک (اگرچه قابل گسترش به ویندوز است).\n\n### نکته طلایی برای بازار ایران\nبرای موفقیت مشابه این محصول در ایران، باید پشتیبانی کامل و نیتیو از تقویم شمسی، تقویم‌های فارسی گوگل و همچنین ادغام یک‌کلیکه با پلتفرم‌های بومی برگزاری ویدئوکنفرانس مانند اسکای‌روم، شوکا و قرار اضافه شود. همچنین ارائه نسخه ویندوز در کنار مک برای بازار ایران حیاتی است، چرا که سهم بازار ویندوز در میان شرکت‌های ایرانی بسیار بالاتر است.",
+      "iranEquivalent": {
+        "productName": "تقویم‌هشدار (Calerto IR)",
+        "description": "نرم‌افزار دسکتاپ مدیریت جلسات و هشدارهای تمام‌صفحه هوشمند که با تقویم‌های شمسی و میلادی همگام می‌شود. این ابزار با رد کردن حالت عدم مزاحمت، جلسات کاری و آنلاین را به صورت تمام‌صفحه یادآوری کرده و لینک ورود به جلسه (مانند اسکای‌روم یا زوم) را مستقیماً ارائه می‌دهد. تمام اطلاعات کاربر به صورت محلی در دستگاه ذخیره شده و امنیت داده‌های کاری تضمین می‌گردد.",
+        "marketOpportunity": "با گسترش فرهنگ دورکاری، تیم‌های نرم‌افزاری و برنامه‌های آموزش آنلاین در ایران، عدم حضور به موقع در جلسات یکی از چالش‌های اصلی متخصصان است. خلاء یک ابزار بومی دسکتاپ که از تقویم شمسی پشتیبانی کرده و اعلانات غیرقابل چشم‌پوشی ایجاد کند، یک فرصت بازار بسیار مناسب را شکل داده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "فریلنسرها، مدیران محصول، برنامه‌نویسان، مدرسان آنلاین و تیم‌های دورکار ایرانی",
+        "challenges": [
+          "دسترسی به سطح ریشه سیستم‌عامل (OS Level Permissions) برای نمایش اعلانات روی سایر نرم‌افزارهای تمام‌صفحه در ویندوز و مک",
+          "همگام‌سازی بی‌نقص با تقویم‌های مختلف شمسی (مانند تقویم گوگل شمسی‌شده، تقویم‌های بومی و سرویس‌های ایمیل داخلی)"
+        ],
+        "monetization": [
+          "فروش لایسنس مادام‌العمر (Lifetime Deal) برای کاربران فردی",
+          "اشتراک ماهانه و سالانه برای تیم‌ها و سازمان‌ها",
+          "ارائه نسخه‌های سفارشی‌سازی‌شده سازمانی"
+        ],
+        "techStack": [
+          "Tauri",
+          "Rust",
+          "React",
+          "TypeScript",
+          "SQLite"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -30369,7 +30736,62 @@
           "user": "[REDACTED]",
           "text": "Actually useful and very needed tool! Goodluck!"
         }
-      ]
+      ],
+      "faDescription": "فایل‌های مارک‌داون را مانند یک سند عادی، سریع، تمیز و بدون حواس‌پرتی باز کنید. موجی (Moji) یک نرم‌افزار خواننده و ویرایشگر سبک برای سیستم‌عامل‌های ویندوز، مک و لینوکس است. این برنامه امکان پیش‌نمایش زنده و رندر نمودارهای متنی Mermaid را به همراه فرمول‌های ریاضی فراهم می‌کند. همچنین شما می‌توانید مستندات خود را به سادگی به فرمت‌های PDF، HTML و PNG خروجی بگیرید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت 👋 من Moji را ساختم چون باز کردن فایل‌های مارک‌داون اغلب پیچیده‌تر از آنچه باید بود به نظر می‌رسید. بیشتر اوقات نمی‌خواهم فقط برای خواندن یک فایل md. یک محیط توسعه (IDE) کامل را اجرا کنم. می‌خواستم مارک‌داون بیشتر شبیه PDF رفتار کند: دوبار کلیک ← خواندن ← بستن. همین ایده ساده تبدیل به Moji شد. Moji یک برنامه دسکتاپ رایگان و متن‌باز برای ویندوز، مک و لینوکس است که تمرکزش بر خواندن لذت‌بخش مارک‌داون است، در حالی که در صورت نیاز ویرایشگر هم در اختیارتان می‌گذارد. به‌مرور زمان امکاناتی مثل ویرایشگر زنده با اسکرول همزمان، نمودارهای Mermaid، فرمول‌های ریاضی LaTeX، زبانه‌ها، جستجو و جایگزینی و خروجی PDF/HTML/PNG را اضافه کردم. این پروژه با Electron، React، TypeScript، CodeMirror ۶ و Mermaid ساخته شده و تماماً تحت مجوز MIT است. خوشحال می‌شوم نظرتان را بدانم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخش «دوبار کلیک، خواندن و بستن» کل ارزش پیشنهادی برای من است. برنامه‌های مکی که روی آن‌ها کار می‌کنم دقیقاً روی همین موضوع زنده می‌مانند یا می‌میرند؛ اینکه مجبورت نکنند ابتدا یک چیز بزرگتر را باز کنی. این را برای پوشه یادداشت‌هایم برمی‌دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این چیزی است که سال‌ها منتظرش بودم. من برای خواندن فایل‌های md به استفاده از محیط توسعه‌ام یا اپلیکیشن اوبسیدین (Obsidian) متکی بودم و هر دو دردسر داشتند، اگرچه کار می‌کردند. حتماً آن را امتحان خواهم کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آیا بلوک‌های Mermaid را رندر می‌کند یا فقط مارک‌داون ساده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من معمولاً یک فایل md را در VS Code باز می‌کنم، حتی زمانی که دقیقاً فقط می‌خواهم آن را بخوانم. این ابزار من را از انجام این کار نجات می‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "چرا قبلاً هیچ‌کس کار با مارک‌داون را به این سادگی نساخته بود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ابزاری واقعاً کاربردی و بسیار مورد نیاز! موفق باشید!"
+        }
+      ],
+      "aiReview": "تحلیل محصول Moji:\n\n۱. مسئله و راه‌حل:\nابزارهای موجود برای مدیریت فایل‌های Markdown مانند VS Code یا Obsidian معمولاً سنگین هستند و زمان بالا آمدن آن‌ها برای یک مرور سریع طولانی است. Moji با حل این مسئله، تجربه کار با مارک‌داون را به سادگی باز کردن یک فایل PDF (دوبار کلیک، مطالعه، بستن) تبدیل کرده است.\n\n۲. معماری و تکنولوژی:\nاین محصول بر پایه Electron، React و TypeScript توسعه یافته و از CodeMirror ۶ برای ویرایشگر و Mermaid/LaTeX برای رندر محتوای بصری استفاده می‌کند. کل پروژه متن‌باز (MIT) است.\n\n۳. مدل درآمدی:\nپروژه در حال حاضر رایگان و متن‌باز است. امکان تجاری‌سازی آن از طریق ارائه نسخه‌های پیشرفته سازمانی، خدمات ابری همگام‌سازی یا قالب‌های سفارشی خروجی وجود دارد.\n\n۴. نقاط قوت:\n- سادگی فوق‌العاده و تمرکز بر باز کردن سریع فایل‌ها\n- پشتیبانی از Mermaid، فرمول‌های ریاضی و خروجی‌های متنوع (PDF, HTML, PNG)\n- چندسکوئی بودن (Windows, macOS, Linux)\n\n۵. نقاط ضعف:\n- استفاده از Electron که نسبت به فریم‌ورک‌های مدرن‌تر مثل Tauri مصرف حافظه بیشتری دارد.\n- عدم تمرکز بر مدیریت شبکه‌ای دانش (Personal Knowledge Management) در مقایسه با Obsidian.\n\n۶. نکته طلایی برای بازار ایران:\nدر بازار ایران، ابزارهای مارک‌داون معمولاً با متون فارسی و راست‌به‌چپ (RTL) دچار به‌هم‌ریختگی ظاهر می‌شوند. بومی‌سازی این ابزار با پشتیبانی عالی از RTL، فونت‌های فارسی استاندارد و امکان خروجی PDF تمیز، می‌تواند آن را به ابزار استاندارد مستندسازی در شرکت‌های فناوری ایران تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "برگه‌خوان",
+        "description": "برگه‌خوان یک نرم‌افزار دسکتاپ و وب سبک برای مشاهده و مدیریت سریع مستندات فنی و یادداشت‌های مارک‌داون به زبان فارسی است. این محصول با پشتیبانی کامل از راست‌به‌چپ (RTL) و فونت‌های استاندارد فارسی، تجربه خواندن بدون حواس‌پرتی را برای کاربران ایرانی فراهم می‌کند. همچنین امکان ذخیره‌سازی ابری محلی و خروجی‌گرفتن استاندارد به فرمت‌های مختلف برای گزارش‌نویسی سازمانی در آن تعبیه شده است.",
+        "marketOpportunity": "برنامه‌نویسان، دانشجویان و تولیدکنندگان محتوا در ایران روزانه با فایل‌های مارک‌داون سروکار دارند اما ابزار اختصاصی سبک با پشتیبانی استاندارد از راست‌به‌چپ ندارند. ارائه یک جایگزین بومی و سبک برای VS Code و Obsidian جهت مرور سریع مستندات فارسی، پتانسیل جذب کاربران حرفه‌ای زیادی دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تولیدکنندگان محتوای فنی، دانشجویان، پژوهشگران و مستندنویسان پروژه‌ها",
+        "challenges": [
+          "پشتیبانی دقیق و بدون باگ از نمایش همزمان متون راست‌به‌چپ و چپ‌به‌راست (RTL/LTR) در بلوک‌های کد و جداول",
+          "رقابت با ابزارهای رایگان و پرقدرت جهانی مثل VS Code و Obsidian"
+        ],
+        "monetization": [
+          "فروش نسخه سازمانی با امکانات سفارشی‌سازی برندینگ و خروجی PDF پیشرفته",
+          "ارائه اشتراک ابری جهت همگام‌سازی یادداشت‌ها بین دستگاه‌های مختلف"
+        ],
+        "techStack": [
+          "Tauri",
+          "React",
+          "TypeScript",
+          "CodeMirror ۶",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -30566,6 +30988,112 @@
       ]
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-09-12",
+      "rank": 6,
+      "name": "Kabza",
+      "slug": "kabza",
+      "tagline": "Take over a real city map with your friends",
+      "description": "Turn Noida, Delhi, Gurugram or Bengaluru into a battle with friends. Drag to send supporters, capture territory and hold 75% of the map to win. Play solo against bots or in a room of up to 8. Free in your browser. No download or account needed.",
+      "category": "Indie Games • Strategy Games • Free Games",
+      "categoryFa": "Indie Games • Strategy Games • Free Games",
+      "url": "https://www.producthunt.com/products/kabza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/80f19fd9-9751-4bba-a953-3f14fd61c6a7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ad534a46-d6fa-4218-ac82-65d741ba166c.jpeg?auto=format",
+        "https://ph-files.imgix.net/68b89174-d309-4c1d-962c-18466e371806.jpeg?auto=format",
+        "https://ph-files.imgix.net/77afb412-bb86-4a66-ae5a-bb76c79cf353.png?auto=format",
+        "https://ph-files.imgix.net/4c13797f-6395-4807-b10a-e615a221e0fe.png?auto=format",
+        "https://ph-files.imgix.net/19141a71-9b00-4f75-b2b8-bacb96fecf44.png?auto=format",
+        "https://ph-files.imgix.net/d0271d65-e8fa-4418-abd6-4d9b709ba2e3.png?auto=format",
+        "https://ph-files.imgix.net/51e8c9f1-a62a-42f9-ae0d-4bbdb7332c6c.png?auto=format",
+        "https://ph-files.imgix.net/811537fc-b6f9-45bc-a7d9-29c90d185b33.png?auto=format"
+      ],
+      "maker": "Satya Prakash",
+      "makerTitle": "Builder who ships first, perfects later",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 108,
+      "websiteUrl": "https://www.producthunt.com/r/6GDIU67Q3JZ3CV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I made Kabza. Pick Noida, Delhi, Gurugram or Bengaluru. Start with one territory. Your supporters grow over time, and each drag sends half of them to another territory. Send more than its defenders and it becomes yours. The fun is choosing when to push and when to hold back. That easy capture can leave your own territory wide open. Hold three quarters of the map, or be the last party standing, to win. You can play against bots or create a room for up to eight players. Send friends the room code or invite link and play in your browsers. Empty seats are filled by bots. No download, no account, and the whole game is free. The maps come from OpenStreetMap and are simplified for the game. The parties are fictional. Try a round at playkabza.com. Which city did you pick, and did you manage to hold it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Very interesting, I had a blast playing the game. I like the maps and the traversal. Congrats on the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looooooooveeeeee it! Looks amazing man. Wish you all the best here"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "using real city maps is a fun idea. It gives the game a more familiar feel than playing on a completely fictional map."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can players form temporary alliances during a match or is everyone always playing against each other?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that there’s no download or account needed. For a quick game with friends opening the browser and starting right away is a big plus."
+        }
+      ],
+      "faDescription": "شهرهای نویدا، دهلی، گورگرام یا بنگلور را به یک میدان نبرد جذاب و رقابتی با دوستان خود تبدیل کنید. با کشیدن انگشت یا نشانگر، طرفداران خود را برای تصرف مناطق مختلف بفرستید و با در اختیار گرفتن ۷۵ درصد از نقشه، برنده مسابقه شوید. شما می‌توانید به صورت تک‌نفره در برابر ربات‌ها یا در اتاق‌های آنلاین حداکثر ۸ نفره به رقابت بپردازید. این بازی کاملاً رایگان در مرورگر اجرا می‌شود و به هیچ‌گونه دانلود یا ساخت حساب کاربری نیاز ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، من بازی Kabza را ساخته‌ام. یکی از شهرهای نویدا، دهلی، گورگرام یا بنگلور را انتخاب کنید. بازی را با یک منطقه شروع می‌کنید. حامیان شما به مرور زمان رشد می‌کنند و با هر درگ (کشیدن)، نصف آن‌ها به منطقه دیگری فرستاده می‌شوند. اگر نیروهای شما بیشتر از مدافعان باشد، آن منطقه را تصرف می‌کنید. جذابیت بازی در تصمیم‌گیری برای زمان حمله یا عقب‌نشینی است، چرا که یک فتح آسان می‌تواند منطقه خودتان را بی‌دفاع رها کند. برای برنده شدن باید سه‌چهارم نقشه را کنترل کنید یا آخرین گروه باقی‌مانده باشید. می‌توانید با ربات‌ها بازی کنید یا رووم تا ۸ نفر بسازید. کد رووم یا لینک دعوت را برای دوستانتان بفرستید و در مرورگر بازی کنید. صندلی‌های خالی با ربات پر می‌شوند. بدون نیاز به دانلود یا حساب کاربری و کل بازی رایگان است. نقشه‌ها از OpenStreetMap گرفته و ساده‌سازی شده‌اند و احزاب کاملاً فرضی هستند. یک دور در playkabza.com بازی کنید. کدام شهر را انتخاب کردید و آیا توانستید آن را حفظ کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "خیلی جالب بود، از بازی کردنش واقعاً لذت بردم. نقشه‌ها و نحوه جابه‌جایی در بازی را دوست دارم. تبریک می‌گویم بابت انتشار."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "عاشقشم! واقعاً عالی به نظر می‌رسه رفیق. بهترین‌ها رو برات آرزو می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "استفاده از نقشه‌های واقعی شهری فکری بسیار جذاب است. این کار حس آشنایی بیشتری نسبت به بازی روی یک نقشه کاملاً خیالی به بازیکن می‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا بازیکنان می‌توانند در طول مسابقه اتحادهای موقت تشکیل دهند یا همه همیشه علیه یکدیگر بازی می‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "اینکه نیازی به دانلود یا ساخت حساب کاربری ندارد بسیار عالی است. برای یک بازی سریع با دوستان، باز کردن مرورگر و شروع بلافاصله یک مزیت بزرگ محسوب می‌شود."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبازی Kabza با حذف اصطکاک ورود به بازی (عدم نیاز به دانلود و ثبت‌نام)، مسئله نیاز کاربران به بازی‌های سریع و چندنفره آنلاین را حل کرده است. استفاده از نقشه‌های واقعی شهری به جای نقشه‌های انتزاعی، حس تعلق و رقابت شبیه به بازی Risk را بر روی بستری مدرن به کاربر منتقل می‌کند.\n\nمعماری و تکنولوژی:\nبازی بر پایه فناوری‌های وب مدرن (HTML۵ Canvas/WebGL برای رندرینگ گرافیکی) و ارتباطات چندطرفه همزمان (WebSockets) پیاده‌سازی شده است. ساده‌سازی داده‌های OpenStreetMap اجازه می‌دهد نقشه‌ها سریع بارگذاری شوند و بازی حتی روی سیستم‌های ضعیف روان اجرا گردد.\n\nمدل درآمدی:\nدر حال حاضر بازی رایگان است، اما پتانسیل بالایی برای درآمدزایی از طریق پرداخت‌های درون‌برنامه‌ای (خرید آیتم‌های تزئینی و نشان‌های گروهی)، تبلیغات بنری و حتی همکاری با برندها جهت تعریف مناطق اختصاصی اسپانسری دارد.\n\nنقاط قوت:\n- اصطکاک صفر برای شروع بازی (بدون ثبت‌نام و دانلود)\n- ایده جذاب استفاده از جغرافیای واقعی شهرها\n- مکانیزم بازی ساده اما استراتژیک (Easy to learn, hard to master)\n- امکان بازی با ربات در صورت عدم حضور بازیکن کافی\n\nنقاط ضعف:\n- خطر تکراری شدن مکانیزم بازی در طولانی‌مدت به دلیل نبود سیستم ارتقا یا رتبه‌بندی (Leaderboard)\n- وابسته بودن جذابیت بازی به حضور بازیکنان همزمان (Liquidity problem)\n\nنکته طلایی برای ایران:\nبرای موفقیت این طرح در ایران، اضافه کردن عنصر «کل‌کل محله‌ای» (مثلا شمال شهر vs جنوب شهر یا دربی‌های استانی) و قابلیت چت صوتی/متنی داخل رووم، نرخ درگیری (Engagement) و ویروسی شدن بازی در گروه‌های تلگرامی و دانشجویی را ۱۰ برابر خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "فتح پایتخت (کپچر ایران)",
+        "description": "یک بازی استراتژیک آنلاین و مرورگری بر پایه نقشه‌های واقعی شهرهای ایران مانند تهران، اصفهان، مشهد و شیراز است. بازیکنان با اعزام نیروها و تصرف محله‌های آشنا، برای تسلط بر شهر با دوستان خود رقابت می‌کنند. این بازی بدون نیاز به نصب یا ثبت‌نام، تجربه‌ای سریع و جذاب برای دورهمی‌های آنلاین فراهم می‌آورد.",
+        "marketOpportunity": "بازار بازی‌های ساده مرورگری و دورهمی (Hyper-casual multiplayer) در ایران با کمبود پروژه‌های خلاقانه بر پایه جغرافیا و حس تعصب محله‌ای مواجه است. بومی‌سازی این ایده با نقشه‌های دقیق شهرهای ایران می‌تواند به سرعت در شبکه‌های اجتماعی ویروسی شده و مخاطبان وسیعی جذب کند.",
+        "estimatedBudget": "۲ تا ۳.۵ میلیارد تومان",
+        "targetAudience": "نوجوانان و جوانان ۱۵ تا ۳۵ ساله، علاقه‌مندان به بازی‌های استراتژیک آنلاین، و گروه‌های دوستی جویای بازی‌های سریع بدون دردسر نصب.",
+        "challenges": [
+          "تأمین سرورهای کم‌تاخیر (Low latency) برای همگام‌سازی لحظه‌ای (Real-time) بازی میان چند بازیکن",
+          "حساسیت‌های احتمالی نظارتی روی نام‌گذاری مناطق یا نمادهای بومی بر روی نقشه‌های شهری"
+        ],
+        "monetization": [
+          "فروش پوسته (Skin)، بنرها و آواتارهای اختصاصی برای گروه‌ها و محله‌ها",
+          "تبلیغات همسان (Native Ads) و اسپانسرشیپ کسب‌وکارهای محلی بر روی نقاط خاص نقشه"
+        ],
+        "techStack": [
+          "Next.js",
+          "Node.js",
+          "Socket.IO",
+          "HTML۵ Canvas / PixiJS",
+          "OpenStreetMap",
+          "Redis"
+        ],
+        "confidence": 85
+      }
+    },
+    {
       "id": "ph-today-10",
       "date": "2026-09-08",
       "rank": 10,
@@ -30752,60 +31280,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-09-12",
-      "rank": 6,
-      "name": "Kabza",
-      "slug": "kabza",
-      "tagline": "Take over a real city map with your friends",
-      "description": "Turn Noida, Delhi, Gurugram or Bengaluru into a battle with friends. Drag to send supporters, capture territory and hold 75% of the map to win. Play solo against bots or in a room of up to 8. Free in your browser. No download or account needed.",
-      "category": "Indie Games • Strategy Games • Free Games",
-      "categoryFa": "Indie Games • Strategy Games • Free Games",
-      "url": "https://www.producthunt.com/products/kabza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/80f19fd9-9751-4bba-a953-3f14fd61c6a7.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ad534a46-d6fa-4218-ac82-65d741ba166c.jpeg?auto=format",
-        "https://ph-files.imgix.net/68b89174-d309-4c1d-962c-18466e371806.jpeg?auto=format",
-        "https://ph-files.imgix.net/77afb412-bb86-4a66-ae5a-bb76c79cf353.png?auto=format",
-        "https://ph-files.imgix.net/4c13797f-6395-4807-b10a-e615a221e0fe.png?auto=format",
-        "https://ph-files.imgix.net/19141a71-9b00-4f75-b2b8-bacb96fecf44.png?auto=format",
-        "https://ph-files.imgix.net/d0271d65-e8fa-4418-abd6-4d9b709ba2e3.png?auto=format",
-        "https://ph-files.imgix.net/51e8c9f1-a62a-42f9-ae0d-4bbdb7332c6c.png?auto=format",
-        "https://ph-files.imgix.net/811537fc-b6f9-45bc-a7d9-29c90d185b33.png?auto=format"
-      ],
-      "maker": "Satya Prakash",
-      "makerTitle": "Builder who ships first, perfects later",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 107,
-      "websiteUrl": "https://www.producthunt.com/r/6GDIU67Q3JZ3CV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I made Kabza. Pick Noida, Delhi, Gurugram or Bengaluru. Start with one territory. Your supporters grow over time, and each drag sends half of them to another territory. Send more than its defenders and it becomes yours. The fun is choosing when to push and when to hold back. That easy capture can leave your own territory wide open. Hold three quarters of the map, or be the last party standing, to win. You can play against bots or create a room for up to eight players. Send friends the room code or invite link and play in your browsers. Empty seats are filled by bots. No download, no account, and the whole game is free. The maps come from OpenStreetMap and are simplified for the game. The parties are fictional. Try a round at playkabza.com. Which city did you pick, and did you manage to hold it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Very interesting, I had a blast playing the game. I like the maps and the traversal. Congrats on the launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looooooooveeeeee it! Looks amazing man. Wish you all the best here"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "using real city maps is a fun idea. It gives the game a more familiar feel than playing on a completely fictional map."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can players form temporary alliances during a match or is everyone always playing against each other?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that there’s no download or account needed. For a quick game with friends opening the browser and starting right away is a big plus."
-        }
-      ]
     },
     {
       "id": "ph-today-4",
@@ -31846,6 +32320,45 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-09-12",
+      "rank": 7,
+      "name": "Marked Share",
+      "slug": "marked-share",
+      "tagline": "Markdown and TextBundle editing, review, and sharing",
+      "description": "Marked Share is a subproduct of Marked 3, but doesn't require Marked to use. It's a free way to share Markdown and TextBundle documents with images and attachments, allow others to highlight and comment on them, and can even publish \"blog\" feeds with RSS/Atom and Micro.blog integration. Built in editor, or a full API for integrating with your favorite editor/tool.",
+      "category": "Writing • Notes • Text Editors",
+      "categoryFa": "نوشتن • یادداشت • Text Editors",
+      "url": "https://www.producthunt.com/products/marked-share?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/edcb5a03-b16d-453b-b81e-0cee71e0c8bf.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5ec6e42b-008f-4828-82a8-e821f33a5a1b.png?auto=format",
+        "https://ph-files.imgix.net/964bb01f-ea90-420e-83bd-3083a96de5b5.png?auto=format",
+        "https://ph-files.imgix.net/75586a2a-eb8b-4b70-83d5-57496ee16e36.png?auto=format",
+        "https://ph-files.imgix.net/6623101b-557b-4130-8ca7-552dbaaf67f5.png?auto=format",
+        "https://ph-files.imgix.net/0afe1d3e-881b-449d-9f43-6b12ffc5b144.png?auto=format"
+      ],
+      "maker": "Brett Terpstra",
+      "makerTitle": "Blogger, Developer, Tech Writer @Oracle",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 97,
+      "websiteUrl": "https://www.producthunt.com/r/2MH5GGN2EG7Q4N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "I’m Brett, maker of Marked for Mac. Marked Share is a free Markdown/TextBundle publishing service — from the web or from Marked — with short share links on markedb.in. Powered by Apex for handling a wide range of Markdown flavors.Publish Markdown from the browser, from Marked 3, or without an accountGFM plus extras: tables, footnotes, definition lists, task lists, callouts, SVG, Mermaid, mathEditor with autosave, images, version history, and import (.md, TextBundle/.textpack, zip)Capture a URL as Markdown (images re-hosted)Short links on markedb.in, plus custom slugs (yourname/my-notes)Private / unlisted / public, optional password and expiryRaw Markdown and TextBundle downloadsReading styles, keyboard reading, saved place, table of contentsHighlights, notes, and reviews — share annotated links, import feedback, pull it back into MarkedLibrary with search, collections, and an opt-in public profileBlogs: collections on a custom domain or subdomain, with an Atom feedMicro.blog publishing for documents and collectionsSign in with email or AppleFull HTTP API — the same one Marked uses (tokens, TextPack, search, highlights, captures)Docs: https://share.markedapp.com/docsMarked Share is currently free, as I built it to offer a publishing option for Marked 3 users. I might charge for it eventually, depending on uptake, but it's free for now and doesn't require Marked to be a fantastic tool for publishing and sharing Markdown files, with full TextBundle support."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the round trip keep images intact? I send a TextBundle, the other side edits, sends it back. Every markdown review setup I've tried drops the attachments somewhere along the way."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Brett seems like one of the finest specimens of a human being I've seen on the Internet - I love his ethos.He has probably contributed more than almost anyone to making markdown more powerful and usableMarked (proper) is one of those apps that are constantly open for me -- and I am not a developer or nerdMarked Share makes so much sense! It came out of the blue (for me) to solve my challenge of making sharing and publishing easy, flexible, and powerful. And in a way that my content isn't held hostage by 3rd parties.The price is unreasonably low (free!)I don't know Brett personally and have never communicated with him. But I use his (one, for now) paid and (many) free/open source apps every day. And I follow his uncharacteristically candid and useful blog -- I especially love his weekly \"web excursions\""
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-09-11",
       "rank": 10,
@@ -31887,7 +32400,51 @@
           "user": "[REDACTED]",
           "text": "good one. this will make migration and adoption of new ai bot much easy."
         }
-      ]
+      ],
+      "faDescription": "چت‌هاپ محصولی است که به شما امکان می‌دهد گفتگوهای هوش مصنوعی خود را در میان کار و با حفظ کامل کانتکست، به یک دستیار دیگر منتقل کنید. با این ابزار می‌توانید کل چت یا پیام‌های انتخاب‌شده را به صورت متن ساده یا قالب مارک‌داون کپی و ذخیره نمایید. علاوه بر این، امکان دانلود کامل گفتگوها و سوییچ سریع بین مدل‌ها بدون نیاز به نوشتن مجدد پرامپت‌ها فراهم شده است. استفاده از این سرویس شامل ۲۰ بار انتقال رایگان در هر ماه برای کاربران است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 من میر هستم، سازنده ChatHop. من ChatHop را ساختم چون دائماً از چندین دستیار هوش مصنوعی استفاده می‌کنم و همیشه با یک مشکل واقعاً روی اعصاب مواجه می‌شدم: هر بار که از ChatGPT به Claude، Gemini یا یک AI دیگر سوییچ می‌کردم، عملاً مجبور بودم همه‌چیز را از صفر شروع کنم. هوش مصنوعی جدید هیچ ایده‌ای نداشت که ما قبلاً درباره چه چیزی صحبت کرده‌ایم، چه تصمیماتی گرفته شده یا من سعی داشتم به چه هدفی برسم. کپی کردن آخرین پرامپت کافی نبود و بازسازی دستی کانتکست در هر بار استفاده خیلی زود خسته‌کننده شد. بنابراین ChatHop را ساختم. ChatHop به شما اجازه می‌دهد یک گفتگوی هوش مصنوعی را همراه با کانتکست به دستیار دیگری منتقل کنید تا به جای توضیح مجدد همه‌چیز، فقط مدل‌ها را عوض کنید و به کارتان ادامه دهید. در حال حاضر می‌توانید: • گفتگوها را بین دستیارهای هوش مصنوعی پشتیبانی‌شده منتقل کنید • کانتکست گفتگو را همراه خود داشته باشید • کل چت را به صورت متن ساده یا مارک‌داون کپی کنید • کل گفتگو یا فقط آخرین پیام‌ها را کپی کنید • چت‌های خود را دانلود کنید • بدون بازسازی دستی پرامپت، دستیارها را تغییر دهید. فکر بزرگ‌تر پشت ChatHop ساده است: شما نباید فقط به این دلیل که گفتگویی را در یک هوش مصنوعی شروع کرده‌اید، به همان محدود شوید. مدل‌های مختلف در کارهای مختلف بهتر هستند. من می‌خواستم سوییچ بین آن‌ها مانند یک کار عادی احساس شود، نه مثل شروع یک پروژه جدید در هر بار. ChatHop هنوز در مراحل اولیه است، بنابراین به‌ویژه علاقه‌مندم از افرادی که بین چندین ابزار هوش مصنوعی جابه‌جا می‌شوند بازخورد بگیرم. دوست دارم بدانم: ۱. بعداً از کدام هوش مصنوعی پشتیبانی کنیم؟ ۲. هنگام انتقال گفتگو دوست دارید چه اطلاعاتی حفظ شود؟ ۳. چه چیزی باعث می‌شود هر روز از ChatHop استفاده کنید؟ ممنون از بررسی شما. من برای خواندن و پاسخ به همه‌چیز اینجا خواهم بود."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایده‌ات را دوست داشتم رفیق! با آرزوی بهترین‌ها."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای انتشار محصول! آیا ChatHop خود گفتگو را منتقل می‌کند یا کانتکست و زمینه پشت جلسه را هم انتقال می‌دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "حرکت خوبی بود. این ابزار مهاجرت و پذیرش ربات‌های جدید هوش مصنوعی را بسیار آسان‌تر می‌کند."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nکاربران حرفه‌ای هوش مصنوعی برای کارهای متفاوتی مانند کدنویسی، نگارش متون و تحلیل داده‌ها بین مدل‌های مختلف (مثل ChatGPT، Claude و Gemini) سوییچ می‌کنند. این کار باعث قطع رشته افکار و فقدان زمینه (Context) می‌شود. ChatHop با استخراج کانتکست چت و بازسازی آن در مدل جدید، چالش کپی-پیست‌های تکراری و پرامپت‌نویسی مجدد را حل می‌کند.\n\nمعماری و تکنولوژی:\nبخش اصلی محصول یک افزونه مرورگر (Chrome Extension) متصل به وب‌اپلیکیشن است. ابزار از طریق استخراج داده از DOM یا API رسمی، پیام‌ها را دریافت کرده، کانتکست را خلاصه‌سازی یا قالب‌بندی می‌کند و سپس آن را در محیط چت دستیار جدید تزریق یا آماده ارسال می‌سازد.\n\nمدل درآمدی:\nاستفاده از مدل Freemium (۲۰ بار انتقال رایگان در ماه) که کاربر را به امتحان ابزار ترغیب کرده و سپس برای استفاده نامحدود، فشرده‌سازی هوشمند پرامپت و ذخیره‌سازی ابری چت‌ها، اشتراک ماهانه دریافت می‌کند.\n\nنقاط قوت:\n- حل یک مشکل واقعی، ملموس و روزمره برای کاربران پرمصرف AI\n- افزایش چشمگیر سرعت و بهره‌وری (Productivity)\n- پشتیبانی از خروجی‌های استاندارد مانند Markdown برای برنامه‌نویسان و نویسندگان\n\nنقاط ضعف:\n- وابستگی شدید به تغییرات UI و API پلتفرم‌های پایه\n- احتمال ورود مستقیم خود غول‌های هوش مصنوعی به قابلیت‌های مشابه درون‌برنامه‌ای\n\nنکته طلایی برای بازار ایران:\nدر ایران به دلیل قطعی دسترسی‌ها یا تغییر IP، کاربران کدهای اختصاصی یا چت‌های طولانی را از دست می‌دهند. بومی‌سازی این ابزار با قابلیت ذخیره محلی (Local-first) کانتکست چت‌ها و امکان انتقال کانتکست به مدل‌های متن‌باز میزبانی‌شده روی سرورهای داخل کشور (مانند Llama ۳ یا DeepSeek)، یک ارزش افزوده فوق‌العاده برای توسعه‌دهندگان ایرانی ایجاد می‌کند.",
+      "iranEquivalent": {
+        "productName": "چت‌جاری",
+        "description": "چت‌جاری یک افزونه و پلتفرم ایرانی برای انتقال هوشمند گفتگوها بین مدل‌های مختلف هوش مصنوعی مانند ChatGPT، Claude و مدل‌های بومی است. این ابزار با ذخیره و بازسازی کانتکست به کاربر اجازه می‌دهد بدون قطعی در فرایند تفکر، از بهترین هوش مصنوعی برای هر بخش از کارش استفاده کند. همچنین امکان خروجی‌گیری استاندارد متن و مارک‌داون را برای مدیریت دانش شخصی فراهم می‌سازد.",
+        "marketOpportunity": "با توجه به فیلترینگ و محدودیت دسترسی به برخی سرویس‌ها در ایران، داشتن ابزاری برای جابه‌جایی کانتکست چت بین مدل‌های خارجی و سرویس‌های بومی یا متن‌باز بسیار ارزشمند است. برنامه‌نویسان، تولیدکنندگان محتوا و پژوهشگران ایرانی بازار هدف نقد و پُرمصرفی برای این ابزار محسوب می‌شوند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، پژوهشگران، تولیدکنندگان محتوا و دانشجویانی که به‌طور هم‌زمان از چند مدل هوش مصنوعی استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های API و تغییرات مداوم در ساختار رابط کاربری سرویس‌دهندگان خارجی (مانند OpenAI یا Anthropic)",
+          "اختلالات اینترنت و فیلترینگ که همگام‌سازی لحظه‌ای کانتکست را با چالش مواجه می‌کند"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه برای انتقال نامحدود کانتکست و امکانات پیشرفته",
+          "ارائه نسخه سازمانی برای تیم‌های توسعه نرم‌افزار و تولید محتوا جهت مدیریت دانش چت‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "Tailwind CSS",
+          "PostgreSQL",
+          "Chrome Extension API",
+          "LangChain"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-today-6",
@@ -31994,45 +32551,6 @@
       }
     },
     {
-      "id": "ph-today-7",
-      "date": "2026-09-12",
-      "rank": 7,
-      "name": "Marked Share",
-      "slug": "marked-share",
-      "tagline": "Markdown and TextBundle editing, review, and sharing",
-      "description": "Marked Share is a subproduct of Marked 3, but doesn't require Marked to use. It's a free way to share Markdown and TextBundle documents with images and attachments, allow others to highlight and comment on them, and can even publish \"blog\" feeds with RSS/Atom and Micro.blog integration. Built in editor, or a full API for integrating with your favorite editor/tool.",
-      "category": "Writing • Notes • Text Editors",
-      "categoryFa": "نوشتن • یادداشت • Text Editors",
-      "url": "https://www.producthunt.com/products/marked-share?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/edcb5a03-b16d-453b-b81e-0cee71e0c8bf.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5ec6e42b-008f-4828-82a8-e821f33a5a1b.png?auto=format",
-        "https://ph-files.imgix.net/964bb01f-ea90-420e-83bd-3083a96de5b5.png?auto=format",
-        "https://ph-files.imgix.net/75586a2a-eb8b-4b70-83d5-57496ee16e36.png?auto=format",
-        "https://ph-files.imgix.net/6623101b-557b-4130-8ca7-552dbaaf67f5.png?auto=format",
-        "https://ph-files.imgix.net/0afe1d3e-881b-449d-9f43-6b12ffc5b144.png?auto=format"
-      ],
-      "maker": "Brett Terpstra",
-      "makerTitle": "Blogger, Developer, Tech Writer @Oracle",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 94,
-      "websiteUrl": "https://www.producthunt.com/r/2MH5GGN2EG7Q4N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "I’m Brett, maker of Marked for Mac. Marked Share is a free Markdown/TextBundle publishing service — from the web or from Marked — with short share links on markedb.in. Powered by Apex for handling a wide range of Markdown flavors.Publish Markdown from the browser, from Marked 3, or without an accountGFM plus extras: tables, footnotes, definition lists, task lists, callouts, SVG, Mermaid, mathEditor with autosave, images, version history, and import (.md, TextBundle/.textpack, zip)Capture a URL as Markdown (images re-hosted)Short links on markedb.in, plus custom slugs (yourname/my-notes)Private / unlisted / public, optional password and expiryRaw Markdown and TextBundle downloadsReading styles, keyboard reading, saved place, table of contentsHighlights, notes, and reviews — share annotated links, import feedback, pull it back into MarkedLibrary with search, collections, and an opt-in public profileBlogs: collections on a custom domain or subdomain, with an Atom feedMicro.blog publishing for documents and collectionsSign in with email or AppleFull HTTP API — the same one Marked uses (tokens, TextPack, search, highlights, captures)Docs: https://share.markedapp.com/docsMarked Share is currently free, as I built it to offer a publishing option for Marked 3 users. I might charge for it eventually, depending on uptake, but it's free for now and doesn't require Marked to be a fantastic tool for publishing and sharing Markdown files, with full TextBundle support."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does the round trip keep images intact? I send a TextBundle, the other side edits, sends it back. Every markdown review setup I've tried drops the attachments somewhere along the way."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Brett seems like one of the finest specimens of a human being I've seen on the Internet - I love his ethos.He has probably contributed more than almost anyone to making markdown more powerful and usableMarked (proper) is one of those apps that are constantly open for me -- and I am not a developer or nerdMarked Share makes so much sense! It came out of the blue (for me) to solve my challenge of making sharing and publishing easy, flexible, and powerful. And in a way that my content isn't held hostage by 3rd parties.The price is unreasonably low (free!)I don't know Brett personally and have never communicated with him. But I use his (one, for now) paid and (many) free/open source apps every day. And I follow his uncharacteristically candid and useful blog -- I especially love his weekly \"web excursions\""
-        }
-      ]
-    },
-    {
       "id": "ph-today-8",
       "date": "2026-09-12",
       "rank": 8,
@@ -32053,7 +32571,7 @@
       "maker": "Gustav Lübker",
       "makerTitle": "Software Developer.",
       "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 93,
+      "votes": 94,
       "websiteUrl": "https://www.producthunt.com/r/SKJQJW3HCCK5N4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -32067,6 +32585,51 @@
         {
           "user": "[REDACTED]",
           "text": "I am a huge fan of macOS extensions and use BoringNotch and some other stuff. DockFix concept is pretty neat; I like the idea of widgets inside the dock, although the setup is a bit frustrating. But the overall idea is great. Good luck with your launch!"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-9",
+      "date": "2026-09-12",
+      "rank": 9,
+      "name": "Wokyintosh",
+      "slug": "wokyintosh",
+      "tagline": "Turn a spare Mac display into a retro system dashboard!",
+      "description": "Wokyintosh is a free, open-source macOS dashboard inspired by the classic Macintosh. It combines a large clock and date, local weather, Apple Music and Spotify Now Playing with artwork, plus live CPU, RAM, SSD and network stats. I built it for my Wokyis M5 Retro Dock Station after months of not finding the dashboard I wanted — even among paid apps.",
+      "category": "Mac • Productivity • Developer Tools • GitHub",
+      "categoryFa": "مک • بهره‌وری • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/wokyintosh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/dab9b103-1b7a-43cd-8dfe-8d2bef6fb134.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c1ef3f07-1192-4535-b583-105295507af4.png?auto=format",
+        "https://ph-files.imgix.net/158a8c66-f1d7-4e2a-8ec4-db5c6f7d1851.png?auto=format",
+        "https://ph-files.imgix.net/fc430700-a3f9-4793-9393-e516b24ef9c9.jpeg?auto=format"
+      ],
+      "maker": "Salar Farahani",
+      "makerTitle": "",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 94,
+      "websiteUrl": "https://www.producthunt.com/r/DOU2O35DWJVGFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 Wokyintosh started with a very specific frustration. I bought a Wokyis M5 Retro Dock Station for my Mac mini and really liked the hardware, but after several months I still couldn't find the dashboard I wanted for its little display — not even a paid one. I wanted something simple: a huge clock and date, weather, Apple Music / Spotify Now Playing, artwork, and a few useful system stats, all with a classic Macintosh feel. So I decided to build it myself. I'm not an experienced macOS developer, so I used ChatGPT as part of a vibe-coding workflow and learned, tested and debugged the app as I went. Wokyintosh 1.0 is now free and open source. I'd especially love feedback on what you'd want in a future settings panel, layout customization, and better support for small secondary displays. Thanks for checking it out!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could this work nicely on an older Mac that isn't powerful enough for everyday use but still has a good display?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "You asked for settings panel feedback, so the one I'd put above layout customization is idle cost. An always on dashboard that repaints the clock every frame keeps the GPU awake, and on a Mac mini nobody notices, but whoever runs this on a laptop's second display uninstalls it inside a week. Repainting once a second, and only when a value actually changed, is boring and it's the whole difference. Also the part I find more interesting than the retro look is that you vibe-coded a macOS app and then actually opened the repo, because the usual version of that story ends at the screenshot."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that it supports both Apple Music and Spotify. That makes it much more practical for different setups."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The retro Mac-style look is a fun touch. It gives an old spare display a purpose instead of just letting it sit unused."
         }
       ]
     },
@@ -32131,6 +32694,63 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-09-12",
+      "rank": 10,
+      "name": "Stackness",
+      "slug": "stackness",
+      "tagline": "Show your stack! The social home for your dev tools",
+      "description": "Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with. Build a stack profile you share as one link, post your moves, follow people whose taste you trust, and watch tools rise and fall. Free and with an MCP server.",
+      "category": "Productivity • Developer Tools • Tech",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • Tech",
+      "url": "https://www.producthunt.com/products/stackness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/0ff00f04-169f-4016-a301-2bda57f6b208.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/204c1948-355d-4d83-8aef-1135095c39f5.png?auto=format",
+        "https://ph-files.imgix.net/932e4021-bf16-4e10-ad47-b34dffbd80a7.png?auto=format",
+        "https://ph-files.imgix.net/e4078965-73a3-49a3-86d9-0cb4dba40a33.png?auto=format",
+        "https://ph-files.imgix.net/a208f7e6-2980-408d-821a-7c7fa06d99bf.png?auto=format",
+        "https://ph-files.imgix.net/dc72b2cb-cbd6-40a5-821c-3a52fede42c1.png?auto=format",
+        "https://ph-files.imgix.net/f55fa6ac-2d9b-44dc-aa34-1b79751819ff.png?auto=format",
+        "https://ph-files.imgix.net/301dc365-fa06-4a91-9ab0-6692c700deb0.jpeg?auto=format"
+      ],
+      "maker": "Sergei Gordeichuk",
+      "makerTitle": "Curious software engineer",
+      "featuredAt": "2026-09-12T07:01:00Z",
+      "votes": 91,
+      "websiteUrl": "https://www.producthunt.com/r/NHEA5EBWIJFZS2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey everyone, I'm very happy to share that I've launched a first version of the Stackness platform. It's a social platform where people can share how they build software and the tools and techniques they use. You can also see which tools and workflows are popular right now. My main goal is to have a community that can share, discuss, and discover new things in the tech world. I would really appreciate it if you could let me know whether it's relevant to you and what do you think about the platform in general :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Will there be a way to compare two people’s stacks and quickly see which tools they have in common?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of following people based on their tool choices is interesting. Sometimes you find better tools through somenes workflow than through a search."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can you update your stack whenever you switch tools and does the shared link update automatically?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the social side of this. Seeing what tools other developers actually use can be more useful than reading endless tool list."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The one link stack profile is a really handy idea. It would be nice to share your whole setup without having to list every tool separately."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "You asked whether it's relevant. The thing that kills every stack profile site is staleness, because mine would be accurate for about three weeks and then sit there lying about a tool I dropped, and I'm not coming back to edit it. The MCP server is the most interesting thing here and it's the last four words of your description, since that's the one path where the profile updates itself instead of nagging me. I'd make reading a repo or a package file the default way a stack gets built and leave manual entry as the fallback."
+        }
+      ]
     },
     {
       "id": "ph-today-9",
@@ -32214,63 +32834,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-09-12",
-      "rank": 9,
-      "name": "Stackness",
-      "slug": "stackness",
-      "tagline": "Show your stack! The social home for your dev tools",
-      "description": "Stackness is where developers and vibe coders show the tools, workflows, and approaches they build with. Build a stack profile you share as one link, post your moves, follow people whose taste you trust, and watch tools rise and fall. Free and with an MCP server.",
-      "category": "Productivity • Developer Tools • Tech",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • Tech",
-      "url": "https://www.producthunt.com/products/stackness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/0ff00f04-169f-4016-a301-2bda57f6b208.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/204c1948-355d-4d83-8aef-1135095c39f5.png?auto=format",
-        "https://ph-files.imgix.net/932e4021-bf16-4e10-ad47-b34dffbd80a7.png?auto=format",
-        "https://ph-files.imgix.net/e4078965-73a3-49a3-86d9-0cb4dba40a33.png?auto=format",
-        "https://ph-files.imgix.net/a208f7e6-2980-408d-821a-7c7fa06d99bf.png?auto=format",
-        "https://ph-files.imgix.net/dc72b2cb-cbd6-40a5-821c-3a52fede42c1.png?auto=format",
-        "https://ph-files.imgix.net/f55fa6ac-2d9b-44dc-aa34-1b79751819ff.png?auto=format",
-        "https://ph-files.imgix.net/301dc365-fa06-4a91-9ab0-6692c700deb0.jpeg?auto=format"
-      ],
-      "maker": "Sergei Gordeichuk",
-      "makerTitle": "Curious software engineer",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 90,
-      "websiteUrl": "https://www.producthunt.com/r/NHEA5EBWIJFZS2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey everyone, I'm very happy to share that I've launched a first version of the Stackness platform. It's a social platform where people can share how they build software and the tools and techniques they use. You can also see which tools and workflows are popular right now. My main goal is to have a community that can share, discuss, and discover new things in the tech world. I would really appreciate it if you could let me know whether it's relevant to you and what do you think about the platform in general :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Will there be a way to compare two people’s stacks and quickly see which tools they have in common?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The idea of following people based on their tool choices is interesting. Sometimes you find better tools through somenes workflow than through a search."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can you update your stack whenever you switch tools and does the shared link update automatically?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like the social side of this. Seeing what tools other developers actually use can be more useful than reading endless tool list."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The one link stack profile is a really handy idea. It would be nice to share your whole setup without having to list every tool separately."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "You asked whether it's relevant. The thing that kills every stack profile site is staleness, because mine would be accurate for about three weeks and then sit there lying about a tool I dropped, and I'm not coming back to edit it. The MCP server is the most interesting thing here and it's the last four words of your description, since that's the one path where the profile updates itself instead of nagging me. I'd make reading a repo or a package file the default way a stack gets built and leave manual entry as the fallback."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -32416,51 +32979,6 @@
         ],
         "confidence": 65
       }
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-09-12",
-      "rank": 10,
-      "name": "Wokyintosh",
-      "slug": "wokyintosh",
-      "tagline": "Turn a spare Mac display into a retro system dashboard!",
-      "description": "Wokyintosh is a free, open-source macOS dashboard inspired by the classic Macintosh. It combines a large clock and date, local weather, Apple Music and Spotify Now Playing with artwork, plus live CPU, RAM, SSD and network stats. I built it for my Wokyis M5 Retro Dock Station after months of not finding the dashboard I wanted — even among paid apps.",
-      "category": "Mac • Productivity • Developer Tools • GitHub",
-      "categoryFa": "مک • بهره‌وری • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/wokyintosh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/dab9b103-1b7a-43cd-8dfe-8d2bef6fb134.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c1ef3f07-1192-4535-b583-105295507af4.png?auto=format",
-        "https://ph-files.imgix.net/158a8c66-f1d7-4e2a-8ec4-db5c6f7d1851.png?auto=format",
-        "https://ph-files.imgix.net/fc430700-a3f9-4793-9393-e516b24ef9c9.jpeg?auto=format"
-      ],
-      "maker": "Salar Farahani",
-      "makerTitle": "",
-      "featuredAt": "2026-09-12T07:01:00Z",
-      "votes": 87,
-      "websiteUrl": "https://www.producthunt.com/r/DOU2O35DWJVGFT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 Wokyintosh started with a very specific frustration. I bought a Wokyis M5 Retro Dock Station for my Mac mini and really liked the hardware, but after several months I still couldn't find the dashboard I wanted for its little display — not even a paid one. I wanted something simple: a huge clock and date, weather, Apple Music / Spotify Now Playing, artwork, and a few useful system stats, all with a classic Macintosh feel. So I decided to build it myself. I'm not an experienced macOS developer, so I used ChatGPT as part of a vibe-coding workflow and learned, tested and debugged the app as I went. Wokyintosh 1.0 is now free and open source. I'd especially love feedback on what you'd want in a future settings panel, layout customization, and better support for small secondary displays. Thanks for checking it out!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could this work nicely on an older Mac that isn't powerful enough for everyday use but still has a good display?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "You asked for settings panel feedback, so the one I'd put above layout customization is idle cost. An always on dashboard that repaints the clock every frame keeps the GPU awake, and on a Mac mini nobody notices, but whoever runs this on a laptop's second display uninstalls it inside a week. Repainting once a second, and only when a value actually changed, is boring and it's the whole difference. Also the part I find more interesting than the retro look is that you vibe-coded a macOS app and then actually opened the repo, because the usual version of that story ends at the screenshot."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that it supports both Apple Music and Spotify. That makes it much more practical for different setups."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The retro Mac-style look is a fun touch. It gives an old spare display a purpose instead of just letting it sit unused."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -33156,10 +33674,10 @@
   "audit": {
     "products": 325,
     "withRealComments": 325,
-    "withPersianComments": 311,
-    "withPersianDescription": 311,
-    "withAiReview": 310,
-    "withIranEquivalent": 311,
+    "withPersianComments": 321,
+    "withPersianDescription": 321,
+    "withAiReview": 320,
+    "withIranEquivalent": 321,
     "totalRealComments": 2014
   }
 }
