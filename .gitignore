@@ -30,3 +30,6 @@ check-*.ps1
 .env.local
 .env*.local
 .env*
+/dist/
+.vinext/
+.wrangler/
