@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "scrapedAt": "2026-09-16T23:11:50.781Z",
+  "scrapedAt": "2026-09-17T00:48:02.300Z",
   "periods": {
     "today": [
       {
@@ -27,7 +27,7 @@
         "maker": "Adam Cohen",
         "makerTitle": "Co-Founder @ Weave",
         "featuredAt": "2026-09-16T07:01:00Z",
-        "votes": 295,
+        "votes": 296,
         "websiteUrl": "https://www.producthunt.com/r/NDICOBJFOF2ARK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -62,7 +62,66 @@
             "user": "[REDACTED]",
             "text": "Dumper cheaper models are known to produce longer trajectories when solving the same task. What are your thoughts on it in the context of smart routing and cost optimisation?"
           }
-        ]
+        ],
+        "faDescription": "با استفاده از ویو روتر ۲.۰ می‌توانید از مدل‌های کلود در کدکس و مدل‌های GPT در کلود کد بر روی اشتراک‌های فعلی خود استفاده کرده و درخواست‌ها را به مدلی که هنوز سهمیه دارد هدایت کنید. این ابزار هر درخواست ایجنت برنامه‌نویسی را به ارزان‌ترین مدلی که توانایی انجام درست آن را دارد مسیریابی می‌کند. در بنچمارک‌های Terminal-Bench ۴.۰ و SWE-Atlas، این محصول به عملکردی مشابه GPT-۶ Astra دست یافته است؛ آن هم با نصف هزینه و سرعت دو برابری. این سامانه به یک طبقه‌بندی‌کننده جدید برای سنجش پیچیدگی وظایف و سوییچ هوشمند مبتنی بر حافظه کش مجهز است که تنها زمانی مدل را تغییر می‌دهد که میزان صرفه‌جویی مالی از هزینه بازسازی کانتکست بیشتر باشد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به پروداکت هانت، من آدام هم‌بنیان‌گذار ویو هستم! مشکل اینجاست که ایجنت‌های کدنویسی تمام درخواست‌ها را به یک مدل واحد ارسال می‌کنند؛ یعنی یک تغییر کانفیگ ساده و یک مهاجرت بین‌سرویسی پیچیده، هر دو با هزینه‌ای یکسان به پیشرفته‌ترین مدل فرستاده می‌شوند. اکثر ابزارها دو روش اشتباه دارند: درگاه‌هایی که مدل را دستی انتخاب می‌کنید یا سوییچ دستی که حافظه کش پرامپت را از بین می‌برد. ویو روتر ۲.۰ به‌عنوان یک اندپوینت جایگزین در کلود کد، کدکس و کورسر نصب می‌شود. این سیستم درخواست‌ها را بر اساس پیچیدگی امتیازدهی کرده و به ارزان‌ترین مدل مناسب می‌فرستد. در بنچمارک‌ها نتایجی مشابه Astra اما با ۵۲٪ هزینه و ۲.۲ برابر سرعت بیشتر ثبت کرده است. همچنین سوییچ هوشمند مبتنی بر کش دارد تا صرفه‌جویی واقعی ایجاد کند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "سوییچینگ هوشمند با در نظر گرفتن کش همان جزئیاتی است که استفاده از این ابزار را کاملاً کاربردی می‌کند، زیرا اگر هر تغییر مدل باعث بازسازی کانتکست سنگین شود، مدل ارزان‌تر دیگر ارزان نخواهد بود. همچنین خوشحالم که استخر مدل‌ها قابل پیکربندی باقی می‌ماند."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "آیا می‌توان از این ابزار برای مدل‌های متن‌باز مانند هرمس، کیمی، ونیس و غیره نیز استفاده کرد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "انتشار محصول جدید را تبریک می‌گویم! راستش را بخواهید بخشی که بیشتر از همه دوست دارم این است که از پلن‌هایی استفاده می‌کند که قبلاً برایشان هزینه پرداخته‌ام، به جای اینکه از من بخواهد اشتراک جدید دیگری بخرم. یک سوال قبل از امتحان کردن: آیا مسیریابی بین پلن‌های کلود و کدکس با قوانین ارائه دهندگان مشکلی ندارد یا باید خودم ابتدا آن را بررسی کنم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "تبریک برای انتشار محصول، بچه‌ها!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "رویکرد «ارزان‌ترین مدلی که بتواند کار را درست انجام دهد» واقعاً جالب است. ویو چگونه تصمیم می‌گیرد کدام مدل برای هر تسک کدنویسی بهترین است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "فوق‌العاده است بچه‌ها - به‌ویژه الان که پلن ۲۰ برابری در کدکس به صورت موقت غیرفعال شده است! 😵😵😵"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "معروف است که مدل‌های ارزان‌تر و ضعیف‌تر موقع حل یک تسک مشابه، مسیرها و گام‌های طولانی‌تری (Trajectory) تولید می‌کنند. نظر شما در این باره در راستای مسیریابی هوشمند و بهینه‌سازی هزینه چیست؟"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: ایجنت‌های کدنویسی به‌طور پیش‌فرض تمامی درخواست‌ها (از کارهای ساده تا وظایف پیچیده) را به گران‌ترین مدل‌های پرچمدار ارسال می‌کنند که منجر به هزینه‌های کمرشکن و اتمام سریع سهمیه‌ها می‌شود. ویو روتر ۲.۰ با ارزیابی هوشمند درجه پیچیدگی هر تسک، درخواست را به ارزان‌ترین مدلی که توانایی حل صحیح آن را دارد مسیریابی می‌کند و امکان مدیریت چندین اشتراک مختلف را به‌صورت هم‌زمان فراهم می‌سازد.\n\nمعماری و تکنولوژی: این ابزار شامل یک کلاسیفایر هوشمند است که روی ده‌ها هزار جلسه واقعی کدنویسی آموزش دیده است. ویژگی برجسته فنی آن، سیستم «Routing مبتنی بر حافظه کش» است که تنها زمانی تغییر مدل می‌دهد که میزان صرفه‌جویی مالی از هزینه بازسازی کانتکست بیشتر باشد. همچنین به عنوان یک اندپوینت جایگزین با Claude Code، Codex و Cursor یکپارچه می‌شود.\n\nمدل درآمدی: این پروژه به صورت Source-Available ارائه‌شده و درآمد اصلی آن از طریق فروش نسخه سازمانی (Enterprise) به تیم‌های بزرگ مهندسی، ارائه خدمات پشتیبانی و استقرار اختصاصی تامین می‌شود.\n\nنقاط قوت: کاهش ۵۰ درصدی هزینه‌ها، افزایش ۲ برابری سرعت اجرا بدون افت دقت، حفظ حافظه کش، و قابلیت استفاده هم‌زمان از اشتراک‌های موجود کاربر بدون نیاز به خرید API مجزا.\n\nنقاط ضعف: ریسک طی کردن گام‌های بیشتر و طولانی‌تر توسط مدل‌های ضعیف‌تر در تسک‌های مبهم، و وابستگی شدید به تغییر قوانین و سیاست‌های ارائه دهندگان اصلی API.\n\nنکته طلایی برای ایران: در ایران که دسترسی به حساب‌های ارزی محدود است و توسعه‌دهندگان معمولاً از اکانت‌های اشتراکی استفاده می‌کنند، ساخت یک پروکسی روتر بومی که بتواند بین مدل‌های متن‌باز (مانند DeepSeek روی سرورهای داخلی) و مدل‌های تجاری خارجی سوئیچ کند، بسیار پرتقاضا خواهد بود.",
+        "iranEquivalent": {
+          "productName": "مسیریاب هوشمند مدل‌های کدنویسی (پارس روتر)",
+          "description": "پلتفرم بومی مسیریابی و مدیریت درخواست‌های ایجنت‌های هوش مصنوعی که درخواست‌های کدنویسی را بر اساس میزان پیچیدگی به اقتصادی‌ترین مدل متصل می‌کند. این سامانه با مدیریت کانتکست و سهمیه اشتراک‌ها، مانع از هدررفت منابع مالی شرکت‌ها می‌شود. همچنین امکان سوئیچ هوشمند بین مدل‌های تجاری خارجی و مدل‌های متن‌باز بومی را فراهم می‌سازد.",
+          "marketOpportunity": "با توجه به هزینه‌های سنگین ارزی و تحریم‌های مالی برای تهیه APIهای هوش مصنوعی، کاهش ۵۰ درصدی هزینه‌های پردازش کد جذابیت مالی فوق‌العاده‌ای برای شرکت‌های نرم‌افزاری ایرانی دارد. همچنین مدیریت مصرف سهمیه اکانت‌های مختلف و جلوگیری از اتمام زودهنگام شارژ حساب‌ها پاسخ به یک نیاز واقعی بازار است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "شرکت‌های توسعه نرم‌افزار، تیم‌های مهندسی داده، استارتاپ‌های حوزه فناوری و فریلنسرهای ارشد",
+          "challenges": [
+            "محدودیت‌ها و چالش‌های تحریم در اتصال به APIهای اصلی بین‌المللی",
+            "پیچیدگی دقیق ارزیابی کدهای فارسی یا مستندات بومی توسط کلاسیفایر هوشمند"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه سازمانی بر اساس تعداد مهندسان و حجم پردازش",
+            "دریافت درصدی از میزان هزینه‌ای که ابزار برای شرکت‌ها صرفه‌جویی کرده است"
+          ],
+          "techStack": [
+            "Next.js",
+            "FastAPI",
+            "Python",
+            "PostgreSQL",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-today-2",
@@ -87,7 +146,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-16T07:01:00Z",
-        "votes": 214,
+        "votes": 217,
         "websiteUrl": "https://www.producthunt.com/r/U3Y43T755ENOFY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -118,7 +177,62 @@
             "user": "[REDACTED]",
             "text": "Given that it’s open source, how difficult would it be to self-host in bulk versus using the hosted solution?Btw, Congratulations @eldad_fux @aditya_oberai @aishwari_pahwa1 & team @Appwrite 🚀"
           }
-        ]
+        ],
+        "faDescription": "اپ‌رایت ۲.۰ (Appwrite ۲.۰) دومین نسل بزرگ از این پلتفرم توسعه است. این نسخه موتور زیرین سیستم را به‌طور کامل بازنویسی کرده و کنسول مدیریتی را از نو طراحی نموده است. همچنین قابلیت‌های هر پروژه را گسترش داده و از داده‌های رابطه‌ای، بدون اسکیما (Schemaless) و وکتوری به همراه موتورهای بومی PostgreSQL و MySQL پشتیبانی می‌کند. علاوه بر این، ذخیره‌سازی با قابلیت آدرس‌دهی S۳، ارائه‌دهنده هویت منطبق بر استاندارد OAuth ۲.۱ و OIDC و لایه شبکه‌ای یکپارچه در اختیار توسعه‌دهندگان قرار گرفته است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "امکان استفاده از درایورها و مایگریشن‌های استاندارد پُستگرس توسط توسعه‌دهندگان، در حالی که اپ‌رایت پلتفرم جانبی را مدیریت می‌کند، تعادل بسیار مناسبی ایجاد کرده است. لایه ذخیره‌سازی سازگار با S۳ نیز ارتقای قدرتمندی در همین راستا محسوب می‌شود."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "انتشار نسخه جدید را تبریک می‌گویم! من از قبل از اپ‌رایت استفاده می‌کردم و عاشقش هستم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "تبریک می‌گویم. واقعاً قدردان این هستم که جدی بر روی بخش متن‌باز و قابلیت میزبانی شخصی (Self-hosted) تلاش می‌کنید."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "طرفدار سرسخت بک‌اند‌های متن‌بازی هستم که با ایجنت‌های هوش مصنوعی مانند کاربران واقعی رفتار می‌کنند. این قدم، فصل جدید و درستی برای اپ‌رایت به نظر می‌رسد. تبریک برای عرضه نسخه ۲.۰."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "انتشار این نسخه بزرگ را تبریک می‌گویم!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "اپ‌رایت ۲.۰ یک به‌روزرسانی واقعاً عظیم است که همراه با رویداد بزرگ Init ارائه شد. سرانجام می‌توانم بگویم اپ‌رایت به زبان PostgreSQL صحبت می‌کند! ویژگی مورد علاقه من پایگاه داده وکتوری است؛ اپ‌رایت با ای‌پای‌آی Embeddings ساخت برنامه‌های قدرتمند با جستجوی شباهت را بسیار آسان کرده است. این امکانات پتانسیل‌های زیادی را آزاد می‌کند!"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "با توجه به متن‌باز بودن پروژه، میزبانی شخصی آن در مقیاس انبوه در مقایسه با استفاده از نسخه ابری چقدر دشوار خواهد بود؟ ضمناً تبریک به الداد فوکس، آدیتیا اوبرای، آیشواریا پاهوا و کل تیم اپ‌رایت! 🚀"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان و برنامه‌های مبتنی بر هوش مصنوعی برای مدیریت بک‌اند با پراکندگی ابزارها (داده‌های رابطه‌ای، وکتوری، احراز هویت و ذخیره‌سازی) مواجه هستند. Appwrite ۲.۰ با یکپارچه‌سازی کامل این سرویس‌ها در یک پلتفرم ابری متن‌باز، زیرساخت جامع و بدون دردسری برای توسعه‌دهندگان و ایجنت‌های AI فراهم کرده است.\n\nمعماری و تکنولوژی: بازنویسی کامل موتور زیرین، پشتیبانی بومی از PostgreSQL و MySQL، ارائه پایگاه داده وکتوری (Vector DB) با ای‌پای‌آی Embeddings، ذخیره‌سازی متصل به S۳ و ارائه‌دهنده هویت منطبق بر OAuth ۲.۱ و OIDC نشان‌دهنده معماری مدرن، استاندارد و مقیاس‌پذیر این پلتفرم است.\n\nمدل درآمدی: این محصول بر پایه مدل فری‌میوم (Freemium) و متن‌باز اداره می‌شود؛ در حالی که نسخه خودمیزبان رایگان است، درآمد اصلی از طریق سرویس ابری مدیریت‌شده (Managed Cloud)، میزان مصرف منابع، پهنای باند و خدمات پشتیبانی سازمانی تامین می‌شود.\n\nنقاط قوت: پشتیبانی کامل از استاندارد پستگرس بدون نیاز به تغییر درایورها، یکپارچه‌سازی عالی با ابزارهای هوش مصنوعی، متن‌باز بودن و قابلیت استقرار شخصی، و کنسول مدیریتی جدید.\n\nنقاط ضعف: پیچیدگی نگهداری و مقیاس‌پذیری زیرساخت در نسخه‌های خودمیزبان برای تیم‌های کوچک و رقابت فشرده با رقبای قدرتمندی همچون Supabase و Firebase.\n\nنکته طلایی برای ایران: به دلیل محدودیت‌ها و تحریم‌های سرویس‌هایی مانند Firebase و Supabase Cloud، خلق یک پلتفرم BaaS بومی و متن‌باز با پشتیبانی ویژه از Vector DB و قابلیت استقرار روی دیتاسنترهای داخلی، فرصتی فوق‌العاده برای تصاحب بازار استارتاپ‌ها و توسعه‌دهندگان حوزه هوش مصنوعی در ایران است.",
+        "iranEquivalent": {
+          "productName": "پارس‌کلود (پلتفرم ابری یکپارچه توسعه‌دهندگان و ایجنت‌ها)",
+          "description": "پارس‌کلود یک پلتفرم ابری بومی و BaaS (بک‌اند به عنوان سرویس) برای توسعه‌دهندگان و برنامه‌های مبتنی بر هوش مصنوعی در ایران است. این محصول با ارائه پایگاه‌داده‌های رابطه‌ای، وکتوری و ذخیره‌سازی ابری، زیرساخت کامل بک‌اند را یکپارچه می‌کند. با استفاده از این زیرساخت، تیم‌ها می‌توانند بدون درگیری با پیچیدگی‌های سرور، برنامه‌های کاربردی خود را سریع‌تر به بازار عرضه کنند.",
+          "marketOpportunity": "با رشد روزافزون زیرساخت‌های هوش مصنوعی و نیاز کسب‌وکارهای ایرانی به سرویس‌های ابری بومی مستقل از تحریم، تقاضای شدیدی برای یک پلتفرم BaaS یکپارچه وجود دارد. ارائه یک جایگزین بومی برای Firebase و Appwrite با پشتیبانی از پایگاه‌داده وکتوری، سهم بازار بک‌اند در ایران را تصاحب خواهد کرد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "توسعه‌دهندگان نرم‌افزار، استارتاپ‌های هوش مصنوعی، تیم‌های برنامه‌نویسی وب و موبایل، و شرکت‌های نیازمند زیرساخت بومی خودمیزبان (Self-hosted)",
+          "challenges": [
+            "تأمین زیرساخت سخت‌افزاری و سرورهای سنگین برای پردازش داده‌های وکتوری و پایگاه‌داده‌ها در دیتاسنترهای داخلی",
+            "چالش جلب اعتماد شرکت‌های بزرگ و رعایت الزامات امنیتی و حریم خصوصی داده‌ها"
+          ],
+          "monetization": [
+            "فروش اشتراک ابری با مدل پرداخت به میزان مصرف (Pay-as-you-go)",
+            "ارائه خدمات پشتیبانی تخصصی، مشاوره استقرار و نسخه‌های سازمانی (Enterprise) برای میزبانی شخصی"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Go",
+            "Docker",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-today-3",
@@ -144,7 +258,7 @@
         "maker": "Sundar Pichai",
         "makerTitle": "",
         "featuredAt": "2026-09-16T07:01:00Z",
-        "votes": 178,
+        "votes": 181,
         "websiteUrl": "https://www.producthunt.com/r/QUVN4LJMOQATRS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -163,7 +277,50 @@
             "user": "[REDACTED]",
             "text": "Really interesting demo. I particularly liked the way the presenter could call Gemini by name and then let Gemini explain its own updates and new features. Having the AI participate in demonstrating the product itself made the interaction feel surprisingly natural. The line between presenting AI and actually conversing with it is getting thinner very quickly!"
           }
-        ]
+        ],
+        "faDescription": "مدل‌های Gemini ۳.۸ Live و Gemini ۳.۸ Live Extended Thinking پیشرفته‌ترین مدل‌های گفت‌وگوی صوتی زنده گوگل تا به امروز هستند. این مدل‌ها به طور ویژه برای برقراری مکالمات طبیعی و تعاملی همانند انسان طراحی و بهینه‌سازی شده‌اند. با بهره‌گیری از قابلیت تفکر تعمیم‌یافته، سیستم می‌تواند در حین مکالمه زنده پاسخ‌های دقیق‌تر و هوشمندانه‌تری تولید کند. این فناوری مرز بین ارائه هوش مصنوعی و گفت‌وگوی واقعی با آن را بیش از هر زمان دیگری کم‌رنگ کرده است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "با این ساختار هزینه‌ای، می‌توانید برای هر دانش‌آموز یک معلم خصوصی هوش مصنوعی زنده داشته باشید که به صورت لحظه‌ای به آن‌ها کمک کند. تصور کنید جمینای کلاس درس را با روش سقراطی پرسش و پاسخ اداره کند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "واقعاً عالی است. اما کمی بیش از حد احساسی و پرانرژی صحبت نمی‌کند؟ حس می‌کنم هوش مصنوعی دارد تلاش می‌کند چیزی را به من بفروشد 😸"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "تاخیر واقعی در تعامل زنده در مقایسه با مدل استاندارد چقدر است؟ به هر حال تبریک به ساندار پیچای و ساس‌واریور 🚀✌️"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "دموی بسیار جذابی بود. به‌ویژه از نحوه صدا زدن جمینای توسط ارائه‌دهنده و سپس توضیح به‌روزرسانی‌ها و ویژگی‌های جدید توسط خود جمینای خوشم آمد. مشارکت هوش مصنوعی در معرفی محصول خود، تعامل را به طرز شگفت‌انگیزی طبیعی کرده بود. مرز بین معرفی هوش مصنوعی و گفت‌وگوی واقعی با آن خیلی سریع در حال باریک شدن است!"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: تعاملات صوتی سنتی با هوش مصنوعی معمولاً با تاخیر بالا و لحن غیرطبیعی همراه هستند؛ Gemini ۳.۸ Live با پردازش زنده و مستقیم صوت و قابلیت استدلال هم‌زمان (Extended Thinking)، مکالمه‌ای کاملاً طبیعی، روان و بدون تاخیر را ممکن ساخته است.\nمعماری و تکنولوژی: این مدل بر پایه معماری مولتی‌مودال صوتی-به-صوتی (Audio-to-Audio) توسعه یافته و از پروتکل‌های ارتباطی کم‌تاخیر مانند WebRTC استفاده می‌کند تا پاسخ‌ها به صورت جریان مداوم (Streaming) ارسال شوند.\nمدل درآمدی: مدل کسب‌وکار مبتنی بر اشتراک مصرفی (Pay-as-you-go API)، فروش لایسنس به سازمان‌ها جهت ادغام در سیستم‌های پشتیبانی و ارائه سرویس‌های آموزش خصوصی آنلاین است.\nنقاط قوت: تعامل فوق‌العاده طبیعی و انسانی، تاخیر بسیار پایین، درک عمیق‌تر از زمینه مکالمه و توانایی خودمعرفی تعاملی.\nنقاط ضعف: لحن گاهی بیش از حد تبلیغاتی یا هیجانی، و نیاز به توان پردازشی بسیار بالای سرورها.\nنکته طلایی برای ایران: پیاده‌سازی این الگوی صوتی زنده به زبان فارسی با تمرکز بر حوزه آموزش (معلم خصوصی هوشمند سقراطی) می‌تواند تحولی بزرگ در پلتفرم‌های ادتک ایران ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "هم‌یار صوتی زنده (آواپرو)",
+          "description": "این پلتفرم یک دستیار گفت‌وگوی زنده صوتی مبتنی بر هوش مصنوعی است که امکان مکالمه روان و بدون تاخیر را به زبان فارسی فراهم می‌کند. سامانه از فناوری پردازش صوت تعاملی برای آموزش خصوصی، خدمات مشتریان و پشتیبانی هوشمند استفاده می‌کند. این محصول با درک زمینه مکالمه و لحن کاربر، برنامه‌ای اختصاصی برای تعاملات صوتی ارائه می‌دهد.",
+          "marketOpportunity": "در بازار ایران نیاز شدیدی به دستیارهای صوتی فارسی‌زبان هوشمند برای پشتیبانی ۲۴/۷ مشتریان و سیستم‌های آموزش آنلاین وجود دارد. عدم وجود نمونه بومی باکیفیت و با تاخیر پایین، فرصت فوق‌العاده‌ای برای تصاحب بازار خدمات هوشمند تعاملی ایجاد کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "مؤسسات آموزشی آنلاین، پلتفرم‌های ادتک (EdTech)، مراکز پشتیبانی مشتریان و کسب‌وکارهای E-commerce",
+          "challenges": [
+            "چالش تبدیل گفتار به متن و متن به گفتار روان و طبیعی با لهجه‌های مختلف فارسی",
+            "تامین زیرساخت‌های سخت‌افزاری و پردازشی (GPU) با تاخیر بسیار پایین در داخل کشور"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه به کاربران و دانش‌آموزان جهت آموزش زنده",
+            "ارائه API پردازش گفتار تعاملی به سازمان‌ها بر اساس میزان دقیقه مصرفی"
+          ],
+          "techStack": [
+            "Next.js",
+            "FastAPI (Python)",
+            "PostgreSQL",
+            "WebSockets / WebRTC",
+            "PyTorch"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-today-4",
@@ -188,7 +345,7 @@
         "maker": "Jamie G",
         "makerTitle": "Tech Enthusiast | Early Adopter | CTO",
         "featuredAt": "2026-09-16T07:01:00Z",
-        "votes": 165,
+        "votes": 166,
         "websiteUrl": "https://www.producthunt.com/r/FLVRL7CWDZR4KW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -223,7 +380,66 @@
             "user": "[REDACTED]",
             "text": "The cutest emoji mascot on this PH day :)"
           }
-        ]
+        ],
+        "faDescription": "به هدر دادن ۳ روز زمان برای هماهنگی یک جلسه گروهی ۳۰ دقیقه‌ای یا شروع مجدد فرایند هماهنگی با هر بار کنسل شدن جلسه را متوقف کنید. توکی (Toki) مانند یک دستیار اجرایی واقعی، به شرکت‌کنندگان ایمیل می‌زند، بر سر زمانی که برای همه مناسب باشد مذاکره می‌کند، در صورت نیاز پیگیری انجام می‌دهد و دعوت‌نامه‌ها را ارسال می‌کند. همچنین توکی به شما کمک می‌کند از زمان خود محافظت کنید، جدول زمانی خود را معماری نمایید، ترجیحات شما را به خاطر بسپارد و اولویت‌بندی مهم‌ترین وظایف و ددلاین‌های فوری را مدیریت کنید. به جای پرداخت ده‌ها هزار دلار برای دستیار شخصی، این سرویس اکنون رایگان در دسترس شماست.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به همگی در پروداکت هانت 👋 ما با نسخه جدیدی از توکی بازگشته‌ایم که حول یک فکربزرگ‌تر ساخته شده است: چه می‌شد اگر هماهنگی یک جلسه مثل واگذاری آن به یک دستیار اجرایی واقعی بود؟ اکثر ابزارهای تقویم می‌توانند زمان‌های آزاد را نشان دهند یا بازه‌های زمانی پیشنهاد کنند، اما اصطکاک اصلی بعد از آن رخ می‌دهد؛ یعنی تماس با افراد، مقایسه برنامه‌ها، رفت‌وبرگشت‌های متوالی و هماهنگ کردن همه. بنابراین توکی اکنون خود فرایند هماهنگی را بر عهده می‌گیرد. کافی است به توکی بگویید می‌خواهید با چه کسی دیدار کنید. توکی می‌تواند: 📧 از طریق ایمیل با شرکت‌کنندگان ارتباط برقرار کند، 🤝 زمان‌های آزاد چند نفر را هماهنگ کند، 📅 زمانی مناسب همه پیدا کند و پس از تأیید، دعوت‌نامه بفرستد. ما همچنین توکی را بسیار شخصی‌سازی‌پذیرتر کرده‌ایم؛ می‌توانید نام، شخصیت و لحن بیان آن را انتخاب کنید، در حالی که توکی به مرور زمان ترجیحات برنامه‌ریزی، روتین‌ها و عادات ارتباطی شما را یاد می‌گیرد. ایده ساده است: دستیاری که می‌تواند به نیابت از شما عمل کند و به مرور زمان کاملاً متعلق به شما شود. خوشحال می‌شویم نسخه جدید را امتحان کنید و به ما بگویید دوست دارید در قدم بعدی چه کارهایی را به یک دستیار اجرایی هوش مصنوعی بسپارید. ما اینجا هستیم تا بازخوردهای شما را بخوانیم و پاسخ دهیم ❤️"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "این ابزار چه حس و تجربه‌ای برای دریافت‌کنندگان ایمیل ایجاد می‌کند؟ آیا دریافت‌کنندگان می‌دانند که در حال گفتگو با یک دستیار هوش مصنوعی هستند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "آیا این ابزار با سایر ابزارهای برنامه‌ریزی جلسه مانند ۴۲min.us، cal.com یا calendly یکپارچه‌سازی می‌شود؟ فکر می‌کنم این موضوع روند کار را بسیار ساده‌تر و سریع‌تر می‌کند."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "برنامه‌ریزی اولیه جلسات آسان است؛ پیگیری‌ها جایی است که اکثر ابزارها در آن جا می‌زنند و تسلیم می‌شوند. این ویژگی که توکی مدیریت هر دو سمت چرخه هماهنگی جلسه را بر عهده می‌گیرد، بسیار جذاب است."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "بخشی که کمی من را نگران می‌کند، ایمیل زدن مستقیم توکی به شرکت‌کنندگان از طرف من است. اگر پاسخ کسی را اشتباه برداشت کند (مثلاً کسی دعوت را رد کند اما لحن مبهمی داشته باشد، یا در حالت Reply-All تداخلی ایجاد شود) و به هرحال دعوت‌نامه نهایی را بفرستد، آسیب آن بیرونی است و قبل از اینکه من بفهمم در اینباکس طرف مقابل ثبت شده است. آیا مرحله بازبینی قبل از ارسال واقعی وجود دارد یا پس از تحویل کار کاملاً خودمختار عمل می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "اگر در حال مذاکره برای زمان جلسه بین چند شرکت‌کننده باشد، آیا سیستم برای رسیدن به نظر اکثریت بهینه‌سازی شده یا در صورت عدم توافق اطلاع‌رسانی می‌کند؟ تبریک به جیمی و زاک 🎊✌️"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "به نظر من قوی‌ترین بخش این به‌روزرسانی، تغییر رویکرد از «به من در مدیریت تقویم کمک کن» به «این هماهنگی را برای من انجام بده» است. این یک تغییر ظریف اما بسیار مهم است و به نحوه واگذاری واقعی کارها به یک دستیار انسانی بسیار نزدیک‌تر است."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "بانمک‌ترین نماد و mascot ایموجی در پروداکت هانت امروز :)"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل:\nبزرگ‌ترین اصطکاک در برنامه‌ریزی جلسات، اتلاف وقت در رفت‌وبرگشت پیام‌ها برای یافتن زمان مشترک و پیگیری‌های بعدی است. اکثر ابزارهای موجود مثل Calendly فقط فرم رزرو زمان هستند، اما Toki با نقش‌آفرینی به عنوان یک دستیار خودمختار، فرایند مذاکره، پیگیری و ارسال دعوت‌نامه را کاملاً بر عهده می‌گیرد.\n\nمعماری و تکنولوژی:\nاین محصول بر پایه ایجنت‌های هوش مصنوعی (AI Agents) و مدل‌های زبانی بزرگ (LLM) برای فهم ایمیل‌ها و پاسخ به آن‌ها توسعه یافته است. یکپارچه‌سازی با سرویس‌های ایمیل و تقویم (مثل Google Calendar) و سیستم یادگیری ترجیحات کاربر، هسته اصلی معماری فنی آن را تشکیل می‌دهد.\n\nمدل درآمدی:\nدر حال حاضر برای جذب کاربر به صورت رایگان عرضه شده است، اما پتانسیل کسب درآمد از طریق اشتراک‌های پریمیوم برای امکانات پیشرفته شخصی‌سازی، قابلیت‌های امنیتی سازمانی و اتصال به نرم‌افزارهای CRM را دارد.\n\nنقاط قوت:\n- تغییر پارادایم از «نمایش تقویم» به «انجام خودکار هماهنگی» (Delegation).\n- قابلیت پیگیری خودکار (Follow-up) که نقطه‌ضعف ابزارهای مشابه است.\n- شخصی‌سازی لحن و شخصیت دستیار.\n\nنقاط ضعف و ریسک‌ها:\n- ریسک خطای هوش مصنوعی در درک پاسخ‌های مبهم شرکت‌کنندگان و ارسال دعوت‌نامه اشتباه.\n- حساسیت کاربران نسبت به ارسال ایمیل مستقیم از طرف آن‌ها بدون تایید نهایی.\n\nنکته طلایی برای ایران:\nپیاده‌سازی این ابزار در ایران نباید فقط متکی بر ایمیل باشد؛ اگر این دستیار بتواند از طریق ربات تلگرام یا پیام‌رسان‌های بومی با طرفین جلسه به زبان فارسی و با فهم تعارفات معمول ایرانی مذاکره کند و با تقویم شمسی همگام شود، به یک ابزار بی‌رقیب برای مدیران ایرانی تبدیل خواهد شد.",
+        "iranEquivalent": {
+          "productName": "توکی فارسی (دست‌یار هماهنگی جلسات)",
+          "description": "یک دستیار هوشمند اختصاصی که به تقویم و بستر ارتباطی شما (ایمیل، تلگرام یا بله) متصل شده و فرایند مذاکره و هماهنگی زمان جلسات کاری را با شرکت‌کنندگان بر عهده می‌گیرد. این ابزار با پشتیبانی کامل از تقویم شمسی و یادگیری عادات کاری کاربر، پیگیری‌ها و ارسال دعوت‌نامه‌ها را به صورت اتوماتیک انجام می‌دهد. هدف آن حذف رفت‌وبرگشت‌های طولانی پیام‌ها برای تنظیم یک جلسه کاری است.",
+          "marketOpportunity": "مدیران ارشد، بنیان‌گذاران استارتاپ‌ها و مشاوران در ایران روزانه زمان زیادی را صرف هماهنگی جلسات در پیام‌رسان‌ها می‌کنند. نبود یک ابزار بومی هوشمند که هماهنگی اتوماتیک را با پشتیبانی از تقویم شمسی انجام دهد، فرصت شغلی و تجاری مناسبی در بازار نرم‌افزارهای سازمانی ایجاد کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "مدیران عامل، مدیران فروش، مشاوران کسب‌وکار، تیم‌های HR و فریلنسرهایی که جلسات متعددی با مشتریان دارند.",
+          "challenges": [
+            "عدم تمرکز فرهنگ کاری ایران بر ایمیل و اتکای بیش از حد به پیام‌رسان‌ها مانند تلگرام و واتس‌اپ",
+            "چالش‌های دقیق فهم زبان طبیعی (NLP) فارسی در تشخیص لحن تعارفات و پاسخ‌های مبهم ایرانیان برای زمان جلسه"
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه یا سالانه (Freemium با محدودیت تعداد جلسه در ماه)",
+            "فروش اکانت‌های سازمانی (B۲B) با قابلیت اتصال به اتوماسیون اداری و تقویم‌های داخلی شرکت‌ها"
+          ],
+          "techStack": [
+            "Next.js",
+            "Python (FastAPI)",
+            "PostgreSQL",
+            "LangChain",
+            "OpenAI API / Local LLMs"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-today-5",
@@ -276,7 +492,50 @@
             "user": "[REDACTED]",
             "text": "This one is original :D I actually had an idea for the app how your kid would look like if you had it with your crush :D"
           }
-        ]
+        ],
+        "faDescription": "اپلیکیشن Cat Me عکس شخصی را به شکل گربه‌ای شبیه‌اش تبدیل می‌کند! این اپ ساده و عالی است؛ فقط عکس بگیرید، گربه‌ای منحصر به فرد بسازید و آن را با دوستانتان به اشتراک بگذارید. هر Purrtrait توسط هوش مصنوعی بر اساس عکس اصلی تولید می‌شود و ویژگی‌های انسانی، حالت‌ها، مدل مو و لوازم جانبی را به گربه‌ای بی‌نظیر تبدیل می‌کند. چه شکلی به عنوان گربه می‌شدید؟",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "چطور به عنوان گربه به نظر می‌رسید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "ایده‌ی جذاب و نتایج واقعاً سرگرم‌کننده هستند، نه فقط فیلتر. چیزی که قبل از بارگذاری عکس دوست (نه فقط خودم) می‌خواستم بدانم، این است که عکس اصلی پس از تولید نسخه گربه چقدر باقی می‌ماند—آیا فوراً حذف می‌شود یا برای بهبود مدل نگه داشته می‌شود؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "این نوع محصولی است که مردم واقعاً به دوستانشان می‌فرستند. سرگرم‌کننده، واضح و جذاب. تبریک برای راه‌اندازی."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ایده‌ی ایجاد Purrtrait شخصی‌سازی‌شده خیلی جذاب است. می‌توانم ببینم مردم در حال لذت بردن از ساخت نسخه گربه‌ای گروه دوستانشان هستند."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "این محصول اصیل است :D در واقع یک ایده برای اپ داشتم: چطور فرزندتان به نظر می‌رسد اگر با علاقه‌مندی‌تان آن را داشته باشید :D"
+          }
+        ],
+        "iranEquivalent": {
+          "productName": "کات می",
+          "description": "کات می یک اپلیکیشن است که عکس شخصی را به گربه‌ای شبیه‌اش تبدیل می‌کند. با استفاده از هوش مصنوعی، ویژگی‌های انسانی را به شکل گربه‌ای منحصر به فرد تبدیل می‌کند. کاربران می‌توانند عکس خود یا دوستانشان را بارگذاری کرده و نسخه گربه‌ای خود را به اشتراک بگذارند.",
+          "marketOpportunity": "بازار ایران برای اپلیکیشن‌های سرگرمی و فیلترهای تصویری در حال رشد است. فرصت‌های تبلیغاتی و فروش درون‌برنامه‌ای برای این نوع محصول وجود دارد.",
+          "estimatedBudget": "۳ میلیارد تومان",
+          "targetAudience": "افراد جوان، کاربران شبکه‌های اجتماعی، علاقه‌مندان به گربه‌ها و محتوای سرگرم‌کننده.",
+          "challenges": [
+            "حفظ حریم خصوصی و حذف عکس‌های کاربران پس از پردازش",
+            "توسعه مدل هوش مصنوعی برای تولید گربه‌های واقعی و جذاب"
+          ],
+          "monetization": [
+            "فروش درون‌برنامه‌ای (آیتم‌های گرافیکی، فیلترهای ویژه)",
+            "تبلیغات درون‌برنامه‌ای و همکاری با برندهای مرتبط با حیوانات"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL"
+          ],
+          "confidence": 75
+        }
       },
       {
         "id": "ph-today-6",
@@ -373,9 +632,9 @@
         ]
       },
       {
-        "id": "ph-today-8",
+        "id": "ph-today-9",
         "date": "2026-09-16",
-        "rank": 8,
+        "rank": 9,
         "name": "Fide Island",
         "slug": "fide-island-2",
         "tagline": "Media, Notes, on-device translation + more in your Notch",
@@ -412,9 +671,9 @@
         ]
       },
       {
-        "id": "ph-today-9",
+        "id": "ph-today-8",
         "date": "2026-09-16",
-        "rank": 9,
+        "rank": 8,
         "name": "Twigg",
         "slug": "twigg-4",
         "tagline": "The context layer you never have to build",
@@ -461,57 +720,44 @@
         "id": "ph-today-10",
         "date": "2026-09-16",
         "rank": 10,
-        "name": "Jottoo",
-        "slug": "jottoo",
-        "tagline": "AI meeting notes that turn into tracked tasks",
-        "description": "Jottoo turns meetings and notes into organised, deadline-tracked tasks — automatically. Record, upload, or type — no bot joins your call, nothing to install. Ask Jottoo anything about a past meeting and get the answer instantly. One flat plan, $13.99/month",
-        "category": "Productivity • SaaS • Artificial Intelligence",
-        "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
-        "url": "https://www.producthunt.com/products/jottoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/8808dac9-6745-49a5-b0f2-4f3c3cf1e0e6.png?auto=format",
+        "name": "ZeroClick",
+        "slug": "zeroclick",
+        "tagline": "Sell your product to AI agents",
+        "description": "ZeroClick helps businesses sell to AI agents. Turn your API or product into a storefront AI agents can discover and buy from, with payments, pricing controls, and transaction tracking in one place. Free to start, with help getting set up.",
+        "category": "Payments • Developer Tools • Artificial Intelligence",
+        "categoryFa": "Payments • ابزار توسعه‌دهندگان • هوش مصنوعی",
+        "url": "https://www.producthunt.com/products/zeroclick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/8e1873a0-c390-4398-86f6-59fcd7dec6ef.png?auto=format",
         "screenshots": [
-          "https://ph-files.imgix.net/b081597a-a74e-44a3-98aa-afd907783ace.png?auto=format",
-          "https://ph-files.imgix.net/6bf50007-20fb-4b57-93d7-371edc53c983.png?auto=format",
-          "https://ph-files.imgix.net/8da1bc43-bfae-433f-bb2e-82b8a2bd8625.png?auto=format",
-          "https://ph-files.imgix.net/95970314-61ab-49c9-adf0-1043522c95ec.png?auto=format"
+          "https://ph-files.imgix.net/e29635e3-a0c3-4c43-ba95-cb70f6d33075.png?auto=format",
+          "https://ph-files.imgix.net/be849434-1cde-40de-85f8-ff8fa8e16c51.png?auto=format",
+          "https://ph-files.imgix.net/faa3dd8e-d6a0-4ca7-89a5-7b871ca8c859.png?auto=format",
+          "https://ph-files.imgix.net/5918ca1f-a3f8-442c-b4c9-960ac02480e4.png?auto=format",
+          "https://ph-files.imgix.net/60517ac7-4df1-425c-bd23-bb7daece36b1.png?auto=format",
+          "https://ph-files.imgix.net/b5e12f5b-7e86-43a3-955a-8deab8f2dd19.png?auto=format",
+          "https://ph-files.imgix.net/71ba241f-a95a-4a0a-b1de-ddf3990646d2.jpeg?auto=format"
         ],
-        "maker": "Fady Sharobeem",
+        "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-16T07:01:00Z",
-        "votes": 101,
-        "websiteUrl": "https://www.producthunt.com/r/76QCSX3DKL7KCG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "votes": 104,
+        "websiteUrl": "https://www.producthunt.com/r/IGCCV7RYIWJV4K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
-            "text": "Hey Crew, The reason I built Jottoo is because I got tired of AI note-takers that either require a bot to join your call or hand you a transcript and call it done. What I needed was to walk out of a client meeting knowing exactly what I promised, by when, and to whom. Jottoo records your meeting (or takes an upload or your typed notes) and turns it into organised, deadline-tracked tasks — not just a summary you have to re-read. No bot joins your call. Everything gets organised into folders by client or project. And you can ask Jottoo to write follow up email or organise a CRM post about the meeting you just had. I built Jottoo for individual professionals — consultants, sales reps, personal assistants — not teams. One flat plan with all features included: $13.99/month, no upsells. iOS and Android are in closed beta right now, and I’m very eager to get as many people as I can into the beta. In return for helping me test it and sharing your feedback, I’ll give you 1 month of full access to Jottoo. Would love your feedback — especially if you’ve been frustrated by the same “transcript, not action” gap I was."
+            "text": "Hey Product Hunt! Michael here from the ZeroClick team.An AI agent can recommend your product. But can it become a paying customer?Most buying flows still assume a person will navigate a website, create an account, and complete checkout. ZeroClick helps businesses make that journey work for AI agents.If you sell an API, data, software, or an online service, ZeroClick gives you a storefront AI agents can read and buy from. You can:• Publish your services, prices, and purchase instructions in one place.• Accept payments and choose how you charge.• Track visits, purchases, and handoffs to a human.The video shows a real example: my AI agent buying an image from DeepAI. The gallery also shows a live Bytemine storefront and the seller dashboard.ZeroClick is free to start, and we help you get set up. Visit https://zeroclick.ai to get started.I'd love feedback from people building and selling products: what do you sell, and where does an AI agent get stuck trying to buy it today?Thanks for taking a look. Happy to answer questions!"
           },
           {
             "user": "[REDACTED]",
-            "text": "This is super interesting. I think that a big issue I've always had is exactly what you described. I just got off a meeting with a tax consultant yesterday and had no idea what to do so I asked him for the meeting notes. He sent them to me via email. Having this is really, really good because instead of having to have him send me the meeting notes, I can basically just have them and then they can just tell me exactly what to do afterwards. I really like this idea."
+            "text": "Congrats on the launch!Fun fact: Your ZeroClick agents can even make themselves smarter by accessing verified real-time data from leading news and data providers with @Dappier! Let your agent automatically purchase and analyze live financial data from providers like Benzinga, local news data from hundreds of news stations across the US, sports stories and scores, and more.Fun fact #2: Your ZeroClick agents can also make your workflows more cost effective, by tapping into small language models from @ZeroGPU. If you use AI for the routine stuff most businesses do - classifying text, summarizing, etc. - you're probably overspending on frontier models. Let your Zeroclick agents automatically tap into and purchase more cost effective means of inference via ZeroGPU's catalog of open and small language models."
           },
           {
             "user": "[REDACTED]",
-            "text": "the no-bot-joins-the-call angle is a real differentiator - a lot of people (myself included) are uncomfortable with a visible recorder bot sitting in every meeting, especially with external clients. how does accuracy hold up on turning a vague spoken commitment like \"I'll get back to you on that\" into an actual tracked task with a deadline - does it only pick up clear explicit asks, or does it sometimes invent deadlines that were never actually said?"
+            "text": "Excited to share @ZeroClick with the PH Community! Your agent customers are already here. They just show up in your analytics as direct traffic.An agent read your docs, compared your pricing, and picked you. A human approved it and paid with a card. But increasingly, agents will have wallets of their own. Can they easily buy from you without waiting on a human?"
           },
           {
             "user": "[REDACTED]",
-            "text": "I like the concept of this, particularly the fact it does not add a bot to the call. Does it work from a web dashboard or do you need to download an app to your device? Does it work on Linux? This has been an issue I have had with other ai meeting note apps, they didn't work on Linux so looking for an option that might. As others have mentioned, having an integration so the tasks auto populate your to-do app would be great."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Meeting notes that become tracked tasks are the only version of meeting AI that sticks. Closing that loop is huge. Great launch."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "fady, I've walked out of back-to-back calls with no memory of what I said I'd send. Those promises coming back as dated tasks sounds like a relief. The folders by client would save me a heap of digging too."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "That's awesome Fady! Task management is easier with this. Is it integrated with Asana or another similar?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "What is the extent of the search in this case when you 'ask Jottoo anything about a previous meeting'? Is there any limitation on how far back its memory goes?Btw, Congratulations @fadysharobeem on the launch of @Jottoo ⭐✌️"
+            "text": "Pumped to share ZeroClick with the PH Community! Agents are here. 57% of web traffic is agentic. It's time for startups to sell to them.ZeroClick makes it easy to sell to agents. We build you an agent-optimized storefront and make your APIs purchasable by agents, with controls for pricing, identity, payments, and analytics. NO fixed fees - just a low rev share. So we all win together.You're not selling to agents. Let's change that."
           }
         ]
       }
@@ -542,7 +788,7 @@
         "maker": "Nikolaos Christoforakos",
         "makerTitle": "Co-founder at tiun.io",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 546,
+        "votes": 548,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -719,7 +965,8 @@
           "https://ph-files.imgix.net/c0c6ba33-d66e-4f5b-9e0f-f633e2b3cec3.png?auto=format",
           "https://ph-files.imgix.net/0efb9a10-8d56-4f1d-8e46-7d9a572efeb3.png?auto=format",
           "https://ph-files.imgix.net/fa62f37e-5065-4c3c-af52-ad861826026c.png?auto=format",
-          "https://ph-files.imgix.net/0433b881-1769-494d-980e-07815e8e70d7.jpeg?auto=format"
+          "https://ph-files.imgix.net/0433b881-1769-494d-980e-07815e8e70d7.jpeg?auto=format",
+          "https://ph-files.imgix.net/007732af-2631-4fe8-b794-9872d5d136d9.jpeg?auto=format"
         ],
         "maker": "[REDACTED]",
         "makerTitle": "",
@@ -730,6 +977,10 @@
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! I’m Samim, founder of siift 👋📖 Why we built siiftTwo years ago I ran my last startup on a general-purpose AI. It felt like a superpower: research, plans, content, decisions, all accelerated. As the business grew, our thinking got buried across chats, and no one really understood the details anymore.AI did everything we asked, without any second thought or filtering. It helped us make rushed decisions, not informed ones. The work it produced wasn't documented, reliable or built to scale, so we followed its advice until we were lost in the noise. Lacking a clear direction, we had to shut down the company.AI didn't kill the business. It let us go further than we should have, which cost us a year and tens of thousands of dollars. So we built the tool we wished we'd had, to prevent others from falling into the same rabbit hole.💡 What siift doessiift helps you decide. It's for anyone building a business or working on a project who has to make risky decisions and figure out what deserves their time.Instead of another chat window, you get to:See the big picture. Ideas, actions and results on one visual canvas your team can share.Trust data-driven guidance. Follow evidence and metrics instead of black-box, yes-man AI advice.Build on everything. Your context, strategy and decisions all compound scalabley.Know what's next. See where you are, what you've learned, and what is actually a priority.siift balances the convenience of AI automation with human judgement and control. 🎁 Product Hunt Launch OfferThis week only, sign up to get 30% off lifetime with our launch deal.🔗 Try siift todayWe’d genuinely love your feedback. What works? What doesn’t? And what else should a Human-first AI for serious business builders offer?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Just posted our official launch video, check it out :) https://youtu.be/koqtJGcEXpc"
           },
           {
             "user": "[REDACTED]",
@@ -754,10 +1005,6 @@
           {
             "user": "[REDACTED]",
             "text": "Where 'proven processes' are concerned, what frameworks do they follow - the well-tested methodologies, or something self-developed?Btw, Congratulations @samims @sivapoba & team @siift 🚀✌️"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "seeing a tool turn that noise into clear execution steps is refreshing because i have been through the nightmare of conflicting advisor chats."
           }
         ]
       },
@@ -794,7 +1041,41 @@
             "user": "[REDACTED]",
             "text": "This is cool as heck. Two questions:Is this billed purely via API billing, or can usage from these agents flow through subscriptions?Is the eventual goal to offer 24/7 cloud agents inside the ChatGPT app (or your environment of choice) similar to the Grok Bot app + Grok Bots? Or am I misunderstanding?"
           }
-        ]
+        ],
+        "faDescription": "OpenAI Agents API نسخه مدیریت‌شده از زیرساخت Codex است که امکان ساخت عامل‌های هوشمند ابری را با یک فراخوانی API ساده فراهم می‌کند. این پلتفرم به‌طور خودکار مدیریت جلسات طولانی، استفاده هوشمندانه از ابزارها و اجرای موازی زیرعامل‌ها را بر عهده می‌گیرد. محیط‌های اجرایی می‌توانند روی زیرساخت OpenAI یا ساندباکس‌های شرکای مختلف مانند Modal و Cloudflare اجرا شوند. هزینه‌های اضافی وجود ندارد و فقط بر اساس مصرف توکن و ابزارها محاسبه می‌شود.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "Agents API نسخه مدیریت‌شده از زیرساخت Codex است که همان معماری و زیرساخت پشت Codex و ChatGPT for Work را به صورت API در اختیار شما قرار می‌دهد. با یک فراخوانی می‌توانید یک عامل تولیدی بسازید و مدل، ابزارها و محیط را مشخص کنید؛ OpenAI مسئولیت هماهنگی (Orchestration) را بر عهده می‌گیرد. تفاوت کلیدی این است که این زیرساخت با هر انتشار مدل جدید به‌روزرسانی می‌شود، بنابراین نیازی به بازسازی مداوم آن نیست. خودِ هسته (Harness) نیز متن‌باز است و می‌توانید دقیقاً ببینید چگونه فراخوانی مدل‌ها، ابزارها و زمینه (Context) هماهنگ می‌شوند. ویژگی‌های کلیدی شامل فشرده‌سازی خودکار زمینه برای جلسات طولانی، جستجوی ابزار برای کاهش مصرف توکن، فراخوانی برنامه‌ای ابزارها به صورت موازی و پشتیبانی از چندعاملی (Multi-agent) است. شما می‌توانید محیط اجرا را انتخاب کنید: ساندباکس میزبان OpenAI، زیرساخت خودتان یا ساندباکس‌های شرکا. این محصول برای توسعه‌دهندگانی مناسب است که می‌خواهند بدون ساخت و نگهداری لایه هماهنگی، عامل‌های تولیدی بسازند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "این محصول فوق‌العاده خنک است. دو سوال دارم: آیا این سرویس صرفاً از طریق صورتحساب API محاسبه می‌شود یا می‌توان مصرف این عامل‌ها را از طریق اشتراک‌ها نیز مدیریت کرد؟ آیا هدف نهایی ارائه عامل‌های ابری ۲۴ ساعته داخل اپلیکیشن ChatGPT (یا محیط انتخابی شما) مشابه Grok Bot app + Grok Bots است؟ یا من اشتباه فهمیدم؟"
+          }
+        ],
+        "aiReview": "مسئله اصلی، پیچیدگی ساخت و نگهداری لایه هماهنگی (Orchestration) برای عامل‌های هوش مصنوعی است که نیازمند مدیریت پیچیده زمینه (Context)، ابزارها و موازی‌سازی است. راه‌حل ارائه یک API مدیریت‌شده است که این پیچیدگی‌ها را پنهان می‌کند و توسعه‌دهنده را از دغدغه‌های زیرساختی رها می‌سازد. از نظر معماری، این سیستم بر پایه یک هسته متن‌باز (Codex Harness) بنا شده که قابلیت ویرایش و شفافیت دارد و از تکنولوژی‌های فشرده‌سازی خودکار زمینه و فراخوانی موازی ابزارها استفاده می‌کند. مدل درآمدی بر اساس مصرف توکن و ابزارهاست که ریسک مالی پایینی برای کاربر ایجاد می‌کند. نقاط قوت شامل به‌روزرسانی خودکار با مدل‌های جدید، انعطاف‌پذیری در انتخاب محیط اجرا (از ابری تا On-premise) و متن‌باز بودن هسته است. نقاط ضعف ممکن است شامل وابستگی به زیرساخت‌های ابری خارجی و هزینه‌های پنهان در مقیاس‌های بالا باشد. نکته طلایی برای ایران: تمرکز بر ایجاد ساندباکس‌های امن داخلی (On-premise) برای اجرای کد، می‌تواند مزیت رقابتی بزرگی در برابر محدودیت‌های اینترنت و نگرانی‌های امنیتی داده باشد.",
+        "iranEquivalent": {
+          "productName": "پلتفرم عامل‌های هوشمند ابری (Cloud Agent Platform)",
+          "description": "یک پلتفرم B۲B که به توسعه‌دهندگان ایرانی امکان می‌دهد بدون نیاز به ساخت زیرساخت پیچیده، عامل‌های هوش مصنوعی خودکار بسازند. این سیستم به صورت خودکار مدیریت جریان داده، فراخوانی ابزارها و هماهنگی بین چندین زیرعامل را انجام می‌دهد. محیط‌های ایزوله (Sandbox) برای اجرای امن کد و ابزارها فراهم می‌شود.",
+          "marketOpportunity": "بازار ایران به شدت به خودکارسازی فرآیندهای پشتیبانی، توسعه نرم‌افزار و تحلیل داده نیاز دارد اما زیرساخت‌های ابری بومی برای اجرای کد ایمن و مدیریت Agentها ضعیف است. این محصول می‌تواند شکاف بین مدل‌های زبانی و اجرای عملی آن‌ها در محیط‌های واقعی را پر کند.",
+          "estimatedBudget": "۳.۵ میلیارد تومان",
+          "targetAudience": "شرکت‌های فناوری، استارتاپ‌های SaaS و تیم‌های توسعه‌دهنده که به دنبال خودکارسازی فرآیندهای پیچیده هستند.",
+          "challenges": [
+            "محدودیت‌های دسترسی به مدل‌های زبانی پیشرفته و هزینه بالای توکن در ایران",
+            "نیاز به زیرساخت‌های ابری امن و مقیاس‌پذیر برای اجرای کد (Sandboxing) که در ایران کمیاب است"
+          ],
+          "monetization": [
+            "مدل مصرفی (Pay-as-you-go) بر اساس تعداد توکن و زمان اجرای کد",
+            "پلن‌های اشتراکی ماهانه برای شرکت‌ها با سقف مصرف مشخص"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes"
+          ],
+          "confidence": 70
+        }
       },
       {
         "id": "ph-yesterday-6",
@@ -981,7 +1262,66 @@
             "user": "[REDACTED]",
             "text": "Supporting text, links, images, files, colors and code in one clipboard history makes this much more useful than a basic copy past tool."
           }
-        ]
+        ],
+        "faDescription": "پیک‌پست (PeekPaste) یک مدیریت‌کننده کلیپ‌بورد بومی برای سیستم‌عامل مک است که تا زمان نیاز، کاملاً دور از چشم و مسیر کاری شما باقی می‌ماند. تنها کافی است نشانگر ماوس خود را به لبه صفحه نمایش فشار دهید تا کلیپ‌بورد به آرامی به داخل بلغزد. شما می‌توانید متن، کد، لینک، تصویر، کد رنگ و فایل‌های مختلف را پیدا کرده و حتی با استفاده از قابلیت OCR روی دستگاه، درون اسکرین‌شات‌ها به جستجو بپردازید. علاوه بر امکان سنجاق کردن و سازمان‌دهی کلیپ‌های پرکاربرد، می‌توانید در صورت نیاز به بررسی بیشتر، کتابخانه کامل را باز کنید. همه اطلاعات فقط و فقط روی مک شما باقی می‌مانند و هیچ حساب کاربری، آنالیتیکس، تله‌متری یا سرویس کلیپ‌بورد ابری در کار نیست.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به همگی، پیک‌پست با یک ایده ساده شروع شد: کلیپ‌بورد شما باید همیشه در دسترس باشد. اکثر مدیریت‌کننده‌های کلیپ‌بورد شما را مجبور می‌کنند پنجره دیگری باز کنید یا کاری را که انجام می‌دهید متوقف سازید. من ابزاری می‌خواستم که بیشتر شبیه بخشی از خود سیستم‌عامل macOS باشد. نشانگر ماوس را به لبه صفحه فشار دهید تا پیک‌پست روی هر چیزی که روی آن کار می‌کنید ظاهر شود. کلیپ مورد نظرتان را پیدا و انتخاب کنید و مستقیماً به ادامه کارتان برگردید. پیک‌پست متن، کد، لینک، تصویر، رنگ و فایل را به خاطر می‌سپارد. می‌توانید با استفاده از OCR روی دستگاه درون اسکرین‌شات‌ها جستجو کنید، با کلید Space پیش‌نمایش کلیپ‌ها را ببینید، موارد پرکاربرد را سنجاق و مرتب کنید، بر اساس برنامه یا تاریخ فیلتر اعمال کنید و در صورت نیاز به بررسی گذشته، کتابخانه کامل را باز کنید. حریم خصوصی از همان ابتدا اولویت بود. تاریخچه کلیپ‌بورد می‌تواند شامل اطلاعات بسیار شخصی باشد، بنابراین همه چیز روی مک شما باقی می‌ماند. هیچ حساب کاربری، آمارگیری، تله‌متری یا سرویس کلیپ‌بورد ابری وجود ندارد. این برنامه اختصاصی برای macOS ساخته شده، به گونه‌ای طراحی شده که مزاحم کارتان نباشد و هر زمان به چیزی نیاز داشتید آماده است. عرضه برنامه با یک پیشنهاد ویژه برای جامعه پروداکت هانت همراه است - ۶.۹۹ دلار با استفاده از کد PEEKPASTEPH (برای ۵۰ خرید اول، معتبر تا ۳۰ سپتامبر). متشکرم!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "تبریک برای عرضه محصول! به نظرم چیزی که می‌تواند این برنامه را متمایز کند تجارب کاربری (UX) عالی آن است. آنچه احساس می‌کنم ابزار اسکرین‌شات بومی مک کم دارد، روشی آسان برای افزودن یادداشت و نشانه‌گذاری روی عکس است (قابلیتی که ابزاری مثل Lightshot ارائه می‌داد)؛ آیا این کاری است که پیک‌پست انجام دهد؟ ایده جالب دیگر داشتن یک برنامه iOS است که بتواند با این نسخه همگام‌سازی شود. بارها پیش آمده لینک یا متنی را کپی کنم و فقط برای انتقال بین دستگاه‌ها آن را در واتس‌اپ پیست کنم. با آرزوی بهترین‌ها برای پیک‌پست."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "به نظر ابزار فوق‌العاده‌ای برای کسانی می‌رسد که به دنبال یک تجربه بصری جذاب هستند! پشتیبانی از کلیدهای میانبر چطور؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ابزارهای کلیپ‌بورد برای من با قابلیت جستجویشان زنده می‌مانند یا می‌میرند. آیا این ابزار درون متن کامل موارد قدیمی‌تر هم جستجو می‌کند یا فقط خط اول را بررسی می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "این خیلی عالی به نظر می‌رسد! من همیشه می‌خواستم ببینم چه چیزهایی را کپی کرده‌ام، به‌ویژه تصاویر، چون این روزها جای‌گذاری آن‌ها در محیط‌های برنامه‌نویسی (IDE) بسیار ساده شده است."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "سلام، تبریک می‌گویم بابت عرضه محصول! آیا برنامه‌ای برای انتشار این برنامه برای ویندوز هم دارید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "آیا کلیپ‌های سنجاق‌شده می‌توانند به طور دائمی باقی بمانند در حالی که موارد قدیمی‌تر کلیپ‌بورد به طور خودکار پاکسازی می‌شوند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "پشتیبانی از متن، لینک، تصویر، فایل، رنگ و کد در یک تاریخچه کلیپ‌بورد، این ابزار را بسیار کاربردی‌تر از یک ابزار کپی-پیست ساده می‌کند."
+          }
+        ],
+        "aiReview": "**مسئله و راه‌حل:**\nکاربران سیستم‌عامل‌ها به‌طور مداوم در حال کپی و پیست کردن اطلاعات مختلف هستند، اما حافظه کلیپ‌بورد پیش‌فرض سیستم‌عامل محدود به یک مورد است. ابزارهای موجود نیز معمولاً با میانبرهای کیبورد پیچیده یا باز کردن پنجره‌های جدید، جریان کاری کاربر را قطع می‌کنند. PeekPaste با ایده خلاقانه «فشار دادن ماوس به لبه صفحه» (Edge-trigger UX) و باز شدن کشویی کلیپ‌بورد، بدون قطع تمرکز کاربر، دسترسی آنی به تاریخچه کاملی از متن، تصویر، کد و فایل را فراهم می‌سازد.\n\n**معماری و تکنولوژی:**\nتوسعه بومی (Native) برای macOS باعث شده محصول فوق‌العاده کم‌حجم، سریع و هماهنگ با اکوسیستم اپل باشد. استفاده از فناوری On-device OCR برای جستجو در متن اسکرین‌شات‌ها بدون ارسال داده به سرورهای ابری، یک شاهکار معماری در حفظ سرعت و حریم خصوصی است.\n\n**مدل درآمدی:**\nمدل خریدارانه یک‌باره (One-time purchase به مبلغ ۶.۹۹ دلار در کمپین) برای ابزارهای Utility دسکتاپ بسیار محبوب است و نرخ تبدیل بالاتری نسبت به مدل‌های اشتراکی ماهانه در این حوزه دارد.\n\n**نقاط قوت:**\n۱. تجربه کاربری (UX) بسیار روان و نوآورانه با تحریک حاشیه صفحه.\n۲. حفظ کامل حریم خصوصی بدون وابستگی به سرورهای ابری یا آنالیتیکس.\n۳. پشتیبانی از فرمت‌های متنوع دادهای شامل کد، رنگ، عکس و فایل.\n۴. قابلیت OCR محلی روی اسکرین‌شات‌ها.\n\n**نقاط ضعف:**\n۱. محدود بودن منحصر‌به‌فرد به اکوسیستم مک و عدم پشتیبانی از ویندوز.\n۲. عدم امکان همگام‌سازی (Sync) بین چند دستگاه به دلیل عدم استفاده از سرویس ابری.\n\n**نکته طلایی برای بازار ایران:**\nبرای بومی‌سازی این محصول در ایران، توسعه نسخه‌ای چندپلتفرمی (ویندوز و مک) با فرم‌ورک Tauri توصیه می‌شود. افزودن موتور OCR اختصاصی برای زبان فارسی و همچنین ایجاد قابلیت انتقال سریع کلیپ‌بورد بین کامپیوتر و گوشی همراه از طریق شبکه Wi-Fi محلی (بدون نیاز به اینترنت)، ارزش افزوده بسیار بالایی ایجاد کرده و ارزش خرید محصول را برای کاربران ایرانی چندین برابر می‌کند.",
+        "iranEquivalent": {
+          "productName": "کلیپ‌گیر (ClipGeer)",
+          "description": "کلیپ‌گیر یک دستیار هوشمند و سبک برای مدیریت کلیپ‌بورد در دسکتاپ است که دسترسی سریع به تاریخچه کپی‌ها را با لغزش ماوس به حاشیه تصویر فراهم می‌کند. این نرم‌افزار تمامی متون، کدها، تصاویر و فایل‌ها را به صورت کاملاً محلی ذخیره کرده و امکان جستجوی هوشمند متون فارسی و انگلیسی را در اسکرین‌شات‌ها فراهم می‌سازد. تمرکز اصلی محصول بر حفظ حریم خصوصی کاربران، عدم نیاز به اینترنت و سرعت بالای اجرا در کارهای روزمره است.",
+          "marketOpportunity": "با افزایش جمعیت توسعه‌دهندگان، طراحان گرافیک و تولیدکنندگان محتوا در ایران، نیاز به ابزارهای افزایش بهره‌وری دسکتاپ بیش از پیش احساس می‌شود. نبود یک ابزار بومی مدیریت کلیپ‌بورد با پشتیبانی کامل از OCR زبان فارسی و قیمت‌گذاری ریالی، شانس بالایی برای تصاحب بازار کاربران حرفه‌ای ایجاد کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، طراحان UI/UX، تولیدکنندگان محتوا، دیجیتال مارکترها و کاربران حرفه‌ای رایانه",
+          "challenges": [
+            "توسعه دقیق موتور OCR برای تشخیص متون فارسی و فونت‌های متنوع به صورت On-device و بدون کندی سیستم",
+            "بهینه‌سازی مصرف حافظه RAM و منابع پردازشی جهت اجرای دائمی و بدون وقفه نرم‌افزار در پس‌زمینه"
+          ],
+          "monetization": [
+            "فروش لایسنس دائمی (One-time Purchase) نرم‌افزار با دریافت آپدیت‌های یک‌ساله",
+            "ارائه نسخه سازمانی با قابلیت‌های مدیریت پیشرفته کدهای تکراری و قالب‌های متنی برای تیم‌ها"
+          ],
+          "techStack": [
+            "Tauri",
+            "Rust",
+            "React",
+            "SQLite",
+            "Tesseract OCR"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-yesterday-9",
@@ -1008,7 +1348,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 112,
+        "votes": 113,
         "websiteUrl": "https://www.producthunt.com/r/T5MY5GABVVLMSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1027,7 +1367,52 @@
             "user": "[REDACTED]",
             "text": "Narrative is so powerful.Truly feels like a cursor moment for video editing"
           }
-        ]
+        ],
+        "faDescription": "نریتیو (Narrative) ابزارهای ویرایش ویدیو، موشن گرافیک‌های اختصاصی و تطبیق سبک ویدیوهای مرجع را در یک محیط کاربری یکپارچه جمع‌آوری کرده است. شما می‌توانید ویدیوهای خود را بارگذاری کنید، تغییرات مدنظرتان را توضیح دهید و از طریق چت، نتیجه را بهبود ببخشید. افزودن موسیقی، افکت‌های صوتی، ترنزیشن‌ها و الهام‌گیری از ویدیوهای مرجع تنها با چند پیام متنی امکان‌پذیر است. از کلیپ‌های پادکست گرفته تا ویدیوهای معرفی محصول، می‌توانید بدون نیاز به یادگیری نرم‌افزارهای پیچیده‌ای مثل پریمیر یا افترافکتس محتوا تولید کنید. پردازش و ذخیره‌سازی ویدیوها تماماً بر عهده ماست و حتی ویدیوی رونمایی خود ما نیز به‌طور کامل در نریتیو ساخته شده است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به اهالی پروداکت هانت! 👋 من آرین هستم، یکی از سه سازنده نریتیو. هر کدام از ما بیش از ۱۰ سال تجربه ویرایش ویدیو داریم و عاشق این کار هستیم. اما فاصله زیادی بین 'داشتن یک ایده' تا یک ویدیوی نهایی وجود دارد، حتی زمانی که تسلط کاملی بر پریمیر و افترافکتس داشته باشید. طی یک سال و نیم گذشته، ما سیستم‌های ویدیویی مبتنی بر هوش مصنوعی را برای سازمان‌های ورزشی توسعه داده‌ایم که به خلق ویدیوهایی با میلیون‌ها بازدید کمک کرده است. اکنون این تجربه را در اختیار تمامی تولیدکنندگان محتوا قرار می‌دهیم. نریتیو به شما اجازه می‌دهد تنها با توضیح دادن خواسته‌هایتان به ایجنت هوش مصنوعی، ویدیوها را ویرایش کنید، موشن گرافیک بسازید و تغییرات لازم را اعمال کنید. تمرکز ما فقط ارائه یک پیش‌نویس اولیه نیست؛ بلکه هدف این است که بتوانید کار روی ویدیو را تا رسیدن به نتیجه دقیق ذهنی‌تان ادامه دهید، بدون اینکه نیازی به انتقال پروژه به ابزار دیگری داشته باشید. ویدیوی خود را آپلود کنید، یک ویدیوی مرجع برای استایلی که دوست دارید ضمیمه کنید و ادیت مدنظرتان را شرح دهید. سپس از طریق چت آن را بازبینی و اصلاح کنید: 'این اینترو را سریع‌تر کن'، 'یک عنوان متحرک اضافه کن'، 'موسیقی را تغییر بده'. شما می‌توانید افکت‌های صوتی، موشن گرافیک‌های سفارشی و افکت‌های مختلف را در همان مکالمه اضافه کنید. این ایجنت به‌طور اختصاصی برای ادیت ویدیو طراحی شده و دارای قابلیت تطبیق استایل و راهنمای سبک است تا هماهنگی کار حفظ شود. رندرینگ و ذخیره‌سازی نیز بر عهده ماست تا شما فقط روی خلق اثر تمرکز کنید. تمام ویدیوی معرفی ما در نریتیو ساخته شده است که نمونه‌ای از امکانات آن در کنار برش‌های پادکست، ویدیوهای شرکتی، محتوای UGC و غیره است. به شخصه یکی از استفاده‌های محبوب من، ساخت ادیت‌های سرگرم‌کننده از ویدیوهای دوستانم است؛ چرا که همه چیز نباید پروژه کاری یا رونمایی باشد. خوشحال می‌شویم با آن کار کنید، قابلیت‌هایش را بسنجید و نقاط ضعفش را به ما بگویید. از کد PRODUCTHUNT برای دریافت ۵۰۰ اعتبار اضافی استفاده کنید."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "نریتیو حداقل ۵ ساعت در هفته در وقت من صرفه‌جویی کرده است!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "فوق‌العاده به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "نریتیو فوق‌العاده قدرتمند است؛ واقعاً حس یک نقطه عطف و تحول بزرگ (مشابه لحظه ظهور Cursor) را برای ویرایش ویدیو تداعی می‌کند."
+          }
+        ],
+        "aiReview": "پلتفرم Narrative دست روی یکی از اصطکاک‌های اصلی دنیای تولید محتوا گذاشته است: فاصله زمانی و فنی میان داشتن ایده تا تحویل ویدیوی نهایی.\n\n**مسئله و راه‌حل:** کار با نرم‌افزارهایی مانند Premiere و After Effects بسیار زمان‌بر است و نیازمند تخصص بالاست. Narrative با ارائه یک ایجنت هوش مصنوعی اختصاصی برای ادیت ویدیو، رابط کاربری چت‌محور و قابلیت Style Matching (تطبیق استایل با ویدیوی مرجع)، این فرایند را به صحبت کردن با یک ویرایشگر حرفه‌ای تبدیل کرده است.\n\n**معماری و تکنولوژی:** زیرساخت محصول از ایجنت‌های هوش مصنوعی پیشرفته بهره می‌برد که توانایی درک تایم‌لاین، اعمال افکت‌های دیداری و شنیداری، و نگهداری استایل‌گاید یکپارچه را دارند. بخش سنگین رندرینگ و ذخیره‌سازی به پردازش ابری منتقل شده تا کاربر درگیر سخت‌افزار نشود.\n\n**مدل درآمدی:** مدل فری‌میوم بر پایه اعتبارات (Credits) که برای رندر و پردازش استفاده می‌شود، روشی ایده‌آل برای جذب کاربر و سپس تبدیل آن‌ها به مشترکان پولی است.\n\n**نقاط قوت:**\n۱. تجربه کاربری تعاملی (Iterative) که امکان بازبینی مداوم کارهای قبلی را می‌دهد.\n۲. قابلیت یکپارچه ساخت موشن گرافیک و افکت صوتی بدون نیاز به ابزار جانبی.\n۳. حذف نیاز به سیستم‌های سخت‌افزاری قوی.\n\n**نقاط ضعف:**\n۱. چالش نرخ تاخیر (Latency) در اصلاحات لحظه‌ای ویدیو.\n۲. هزینه‌های زیرساختی بالای GPU با افزایش تعداد کاربران.\n\n**نکته طلایی برای بازار ایران:** برای ساخت نمونه مشابه ایرانی، تمرکز ویژه بر **پشتیبانی قوی از NLP فارسی (فهم اصطلاحات ادیت)** و **فشرده‌سازی هوشمند در سمت کلاینت قبل از آپلود** برای غلبه بر محدودیت‌های اینترنت ایران، رمز موفقیت و جذب تولیدکنندگان محتوای اینستاگرام و یوتیوب خواهد بود.",
+        "iranEquivalent": {
+          "productName": "روایت‌گر AI",
+          "description": "روایت‌گر یک پلتفرم بومی ویرایش ویدیوی مبتنی بر هوش مصنوعی است که به کاربران ایرانی اجازه می‌دهد با دستورات متنی فارسی ویدیوهای خود را ادیت کنند. این ابزار با امکاناتی مثل ساخت موشن گرافیک، افزودن زیرنویس و افکت‌های صوتی هوشمند، نیاز تولیدکنندگان محتوا به نرم‌افزارهای پیچیده را برطرف می‌سازد. زیرساخت این محصول برای پردازش سریع و بدون دغدغه تحریم یا اختلالات اینترنتی بهینه‌سازی شده است.",
+          "marketOpportunity": "با رشد روزافزون تولید محتوای ویدیویی در اینستاگرام و یوتیوب، نیاز مبرمی به ابزارهای ویرایش سریع و هوشمند ویدیو در بازار ایران وجود دارد. نبود ابزار اختصاصی فارسی‌زبان که توانایی پردازش متن به ویدیو و ادیت تعاملی را داشته باشد، شانس موفقیت این محصول را بسیار بالا می‌برد.",
+          "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+          "targetAudience": "تولیدکنندگان محتوا، ادمین‌های شبکه‌های اجتماعی، آژانس‌های دیجیتال مارکتینگ و سازندگان پادکست",
+          "challenges": [
+            "هزینه‌های بالای تامین سرورهای GPU برای رندرینگ و پردازش ابری",
+            "محدودیت‌های اینترنتی و سرعت پایین آپلود فایل‌های ویدیویی خام",
+            "چالش‌های پردازش زبان طبیعی فارسی در فهم دقیق دستورات متنی ویرایشی"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه/سالانه بر اساس زمان رندر و حجم ذخیره‌سازی",
+            "مدل اعتباری (Credit-based) برای پروژه‌های موردی",
+            "ارائه پنل سازمانی با قابلیت ساخت استایل‌گاید اختصاصی برای برندها"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python / FastAPI",
+            "PyTorch / FFmpeg",
+            "Redis"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-10",
@@ -1077,7 +1462,58 @@
             "user": "[REDACTED]",
             "text": "I’ve been an early tester and use it daily for key notes, Thoughts, and things I need to focus on that often get lost in the noise."
           }
-        ]
+        ],
+        "faDescription": "برنامه Thoughts یک اپلیکیشن کاربردی برای منوبار مک است که به شما کمک می‌کند ایده‌ها و یادداشت‌های خود را به سرعت از طریق متن، تصویر و صدا ثبت کنید. با افزودن کلید API هوش مصنوعی دلخواه خود، این برنامه می‌تواند فایل‌های صوتی را به متن تبدیل کند و تصاویر را جهت استخراج متن مورد تحلیل قرار دهد. همچنین قابلیت انجام ویرایش‌های متنی ساده مانند بزرگ‌نویسی حروف، ترجمه و اصلاح غلط‌های املایی را در اختیارتان قرار می‌دهد. این نرم‌افزار را می‌توانید به عنوان یک جعبه‌ابزار کوچک، جذاب و چندکاره برای منوبار سیستم‌عامل مک خود تصور کنید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به هانترهای عزیز! من با یک اپلیکیشن منوبار جدید برگشتم که جانشین برنامه محبوب من یعنی Thought Train از سال ۲۰۱۸ است. وقتی Thoughts را ساختم، می‌خواستم استفاده از آن آسان‌تر، جذاب‌تر و در عین حال قدرتمندتر باشد. آن را رایگان کرده‌ام تا هر کسی در وقت آزاد خود بتواند از آن استفاده کند؛ اگر سوالی درباره ساخت، روند تفکر یا هر چیز دیگری دارید در کامنت‌ها بپرسید. پ.ن: بله، این برنامه با Cursor کدنویسی شده و بعد از حدود ۲۰ سال ساخت محصول، خوشحالم بگویم استفاده از هوش مصنوعی واقعاً به اجرای ایده‌ای که سال‌ها در سرم بود سرعت بخشید."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "مثل همیشه بسیار تمیز و شیک به نظر می‌رسد @marcperel، ضمن اینکه عاشق رایگان بودنش هستم!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "🚨 کاربران نسخه Golden Gate، فردا یک به‌روزرسانی کوچک برای رفع باگ عدم باز شدن برنامه دریافت خواهید کرد 🚨"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ثبت یک فکر ۱۵ ثانیه‌ای دقیقاً همان چیزی است که می‌خواهم بدون ایجاد وقفه در کارهای جاری‌ام انجام دهم. قرارگیری در منوبار برای این نوع جریان کاری سبک بسیار مناسب است."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "آیا در آینده حالت یادداشت‌برداری روزانه (Journal) برای ویدیو هم خواهد داشت؟ با آرزوی موفقیت برای عرضه برنامه!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "من از تست‌کنندگان اولیه بوده‌ام و روزانه از آن برای یادداشت‌های کلیدی، افکار و مواردی که باید روی آن‌ها تمرکز کنم و معمولاً در شلوغی کارهای روزمره گم می‌شوند، استفاده می‌کنم."
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: مشکل اصلی، حواس‌پرتی کاربران هنگام باز کردن برنامه‌های سنگین یادداشت‌برداری برای ثبت یک فکر کوتاه است. راه‌حل این محصول ارائه یک ابزار مینیمال در منوبار است که امکان ثبت سریع متن، صوت و تصویر را با کمک هوش مصنوعی فراهم می‌کند.\nمعماری و تکنولوژی: استفاده از الگوی Bring Your Own Key (BYOK) بار مالی پردازش هوش مصنوعی را از روی دوش سازنده برداشته و توسعه با ابزارهای نوین مثل Cursor سرعت ارائه به بازار را بسیار بالا برده است.\nمدل درآمدی: محصول رایگان ارائه شده تا جلب کاربر کند، اما قابلیت توسعه به مدل Freemium با فروش قابلیت‌های ابری و پردازشی را دارد.\nنقاط قوت: دسترسی بسیار سریع، عدم قطع جریان کاری، رابط کاربری پاکیزه و انعطاف‌پذیری در پردازش متون.\nنقاط ضعف: محدودیت اولیه به کاربران مک و پیچیدگی تنظیم کلید API برای کاربران غیرفنی.\nنکته طلایی برای ایران: افزودن موتور تبدیل گفتار به متن اختصاصی برای زبان فارسی (Whisper بومی‌سازی‌شده) و پشتیبانی از تقویم شمسی و یادداشت صوتی، این ابزار را به محصولی بی‌رقیب برای متخصصان ایرانی تبدیل خواهد کرد.",
+        "iranEquivalent": {
+          "productName": "فکربرگ (FekrBerg)",
+          "description": "این محصول یک دستیار سبک و سریع برای منوبار دسکتاپ است که امکان ثبت لحظه‌ای افکار متنی، صوتی و تصویری را بدون قطع تمرکز کاربر فراهم می‌کند. این ابزار با پشتیبانی از مدل‌های هوش مصنوعی، فایل‌های صوتی فارسی را به متن تبدیل کرده و خلاصه یادداشت‌ها را سازماندهی می‌کند. فکربرگ به عنوان یک ابزار همیشه در دسترس، به مدیریت افکار پراکنده در محیط کار دیجیتال کمک شایانی می‌کند.",
+          "marketOpportunity": "بازار ایران تشنه ابزارهای بومی افزایش بهره‌وری است که از زبان فارسی و تبدیل گفتار به متن بومی پشتیبانی دقیق داشته باشند. با رشد روزافزون فریلنسرها و متخصصان حوزه دیجیتال در ایران، ارائه یک ابزار دسکتاپ سبک با قابلیت دور زدن تحریم‌های API می‌تواند سهم بازار بالایی کسب کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، مدیران محصول، فریلنسرها، تولیدکنندگان محتوا و پژوهشگرانی که نیاز به یادداشت‌برداری سریع دارند.",
+          "challenges": [
+            "محدودیت‌های دسترسی به APIهای بین‌المللی و نیاز به زیرساخت واسط بومی",
+            "توسعه نسخه چندپلتفرمی (ویندوز و مک) با مصرف بسیار کم حافظه رم"
+          ],
+          "monetization": [
+            "اشتراک ماهانه برای دسترسی به هوش مصنوعی تبدیل صوت به متن فارسی",
+            "فروش لایسنس دائمی نرم‌افزار برای حالت استفاده از کلید API شخصی"
+          ],
+          "techStack": [
+            "Tauri",
+            "React",
+            "Next.js",
+            "PostgreSQL",
+            "Python"
+          ],
+          "confidence": 85
+        }
       }
     ],
     "week": [
@@ -1106,7 +1542,7 @@
         "maker": "Nikolaos Christoforakos",
         "makerTitle": "Co-founder at tiun.io",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 546,
+        "votes": 548,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1207,9 +1643,9 @@
         ]
       },
       {
-        "id": "ph-week-3",
+        "id": "ph-week-4",
         "date": "2026-09-14",
-        "rank": 3,
+        "rank": 4,
         "name": "Naoma AI Demo Agent V2",
         "slug": "naoma-ai-demo-agent-v2",
         "tagline": "Turns website traffic into booked, qualified meetings",
@@ -1263,9 +1699,9 @@
         ]
       },
       {
-        "id": "ph-week-4",
+        "id": "ph-week-3",
         "date": "2026-09-11",
-        "rank": 4,
+        "rank": 3,
         "name": "Anysite.io",
         "slug": "anysite-io",
         "tagline": "Build and enrich B2B lists by chatting to your agent",
@@ -1895,7 +2331,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 546,
+        "votes": 548,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
