@@ -1,5 +1,6 @@
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
+import corpusSnapshot from '@/generated/corpus.snapshot.json';
 import type { DailyData, PHComment, Product } from '@/types';
 import { isDailyDataFilename } from '@/lib/storage';
 
@@ -112,13 +113,19 @@ export async function buildCorpusFromHistory(): Promise<ProductCorpus> {
 }
 
 export async function loadCorpus(): Promise<ProductCorpus> {
+  const bundled = corpusSnapshot as ProductCorpus;
+  if (Array.isArray(bundled.products) && bundled.products.length > 0) {
+    return bundled;
+  }
+
   try {
     const raw = await readFile(CORPUS_FILE, 'utf8');
     const parsed = JSON.parse(raw) as ProductCorpus;
     if (Array.isArray(parsed.products) && parsed.products.length > 0) return parsed;
   } catch {
-    // Fall through to historical reconstruction.
+    // Fall through to historical reconstruction for Node-based maintenance workflows.
   }
+
   return buildCorpusFromHistory();
 }
 
