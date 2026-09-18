@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-09-17T00:53:21.793Z",
-  "latestDataset": "2026-09-17.json",
+  "checkedAt": "2026-09-18T00:45:41.480Z",
+  "latestDataset": "2026-09-18.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 33,
-  "backlogAfter": 24,
-  "completedProducts": 343,
-  "missingFaDescription": 6,
-  "missingFaComments": 22,
-  "missingAiReview": 9,
-  "missingIranEquivalent": 6,
-  "failures": []
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 34,
+  "backlogAfter": 25,
+  "completedProducts": 352,
+  "missingFaDescription": 7,
+  "missingFaComments": 24,
+  "missingAiReview": 10,
+  "missingIranEquivalent": 7,
+  "failures": [
+    {
+      "slug": "creem-2-0",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    }
+  ]
 }
