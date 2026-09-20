@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "scrapedAt": "2026-09-19T22:26:47.037Z",
+  "scrapedAt": "2026-09-20T00:16:59.646Z",
   "periods": {
     "today": [
       {
@@ -24,7 +24,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 184,
+        "votes": 193,
         "websiteUrl": "https://www.producthunt.com/r/4A3VQBDVIUMA2D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -39,7 +39,47 @@
             "user": "[REDACTED]",
             "text": "\"91% of Bolt's top paid model on their internal benchmark\" is doing a lot of work in that sentence - internal benchmarks tend to be picked to flatter the new thing. Is there a public eval or a task set outsiders can rerun, or is 91% something we just have to take on faith for now?"
           }
-        ]
+        ],
+        "faDescription": "بولت فورج (Bolt Forge) یک ایجنت جدید درون پلتفرم Bolt.new است که کاملاً بر پایه مدل‌های هوش مصنوعی متن‌باز اجرا می‌شود. تمام مشترکان طرح پرو می‌توانند بدون هیچ محدودیت روزانه‌ای، تا ۵۰ برابر استفاده بیشتری از این ایجنت داشته باشند. این ابزار بر اساس ارزیابی‌های بنچمارک داخلی، به کارایی ۹۱ درصدی نسبت به برترین مدل پولی بولت دست یافته است. این محصول گزینه‌ای عالی برای توسعه‌دهندگانی است که می‌خواهند بدون استرس تمام شدن سهمیه، به ایده‌پردازی و کدنویسی بپردازند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "بولت فورج یک ایجنت جدید درون Bolt.new است که تماماً روی مدل‌های متن‌باز اجرا می‌شود. این ایجنت در کنار گزینه‌های Standard و Max قرار گرفته و فقط بر پایه مدل‌های باز ساخته شده است؛ مدل‌های GLM ۵.۳ Flash و GLM ۵.۳ به عنوان زوج اصلی و Kimi K۳ و DeepSeek v۴ Pro به عنوان گزینه‌های آزمایشی. ویژگی خاص آن این است که هر کاربر طرح پرو تا ۱۴ اکتبر ۲۰۲۶ تا ۵۰ برابر استفاده بیشتری روی Forge به صورت رایگان دریافت می‌کند. این معامله انتخابی است: جلسات ساخت شما (پرامپت‌ها، کدها و مسیرهای رفع خطا) ناشناس شده و جهت آموزش مدل‌های وزن‌باز جدید با همکاری Arcee AI (یک آزمایشگاه مدل‌های باز در آمریکا) استفاده می‌شود. شما می‌توانید هر زمان با سوییچ به Standard یا Max اشتراک‌گذاری داده را متوقف کنید. ویژگی‌های کلیدی: یک نوار مصرف ماهانه بدون محدودیت روزانه؛ با رسیدن به ۱۰۰٪ به طور خودکار به Standard سوییچ می‌شود بدون هزینه اضافی؛ کسب امتیاز ۹۲.۲ در برابر ۱۰۱ مدل پولی برتر بولت در بنچمارک داخلی (حدود ۹۱٪ توانمندی)؛ اجرا روی WebContainers داخل مرورگر بدون هزینه سرور. پیش از تست پروژه‌های جدی از پروژه خود نسخه پشتیبان بگیرید چون هنوز در مرحله پیش‌نمایش تحقیقاتی است. مخاطبان: سازندگانی که شارژ خود را در مرحله طوفان فکری/پیش‌نویس سریع تمام می‌کنند و می‌خواهند بدون دست زدن به سهمیه تولید، فضای آزمایش داشته باشند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "کار فوق‌العاده‌ای از تیم بولت بود. تا جایی که من می‌دانم، این اولین راهکار از نسل vibe-coding است که واقعاً به صورت کامل روی مدل‌های متن‌باز سرمایه‌گذاری کرده و من شما را تحسین می‌کنم!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "جمله '۹۱ درصد کارایی برترین مدل پولی بولت در بنچمارک داخلی' مسئولیت سنگینی روی دوش دارد؛ بنچمارک‌های داخلی معمولاً طوری انتخاب می‌شوند که محصول جدید را خوب نشان دهند. آیا ارزیابی عمومی یا مجموعه وظایفی وجود دارد که افراد بیرونی بتوانند دوباره اجرا کنند، یا ۹۱ درصد چیزی است که فعلاً فقط باید به آن اعتماد کنیم؟"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: هزینه‌های بالای توکن‌ها و محدودیت‌های شدید استفاده در مدل‌های تجاری (مانند Claude یا GPT-۴) باعث کُند شدن روند ایده‌پردازی و تست اولیه برای برنامه‌نویسان می‌شود. Bolt Forge با مهار قدرت مدل‌های متن‌باز پیشرفته (مانند DeepSeek و GLM) و ارائه سهمیه ۵۰ برابری بدون سقف روزانه، این مشکل را حل کرده است.\n\nمعماری و تکنولوژی: این محصول از فناوری WebContainers برای اجرای مرورگری کدها بدون تحمیل هزینه سرور استفاده می‌کند. ترکیب مدل‌های متن‌باز با مکانیزم بازخورد کاربر (Data Flywheel) از طریق همکاری با Arcee AI، به آن‌ها اجازه می‌دهد مدل‌ها را برای کارهای کدنویسی بهبود دهند.\n\nمدل درآمدی: مدل تجاری بر پایه Data-for-Usage تنظیم شده است؛ کاربران سهمیه ۵۰ برابری دریافت می‌کنند و در ازای آن، داده‌های ناشناس‌شده توسعه خود را جهت آموزش مدل‌های جدید اهدا می‌کنند، در حالی که اشتراک‌های پرو منبع درآمد مستقیم مستمر هستند.\n\nنقاط قوت:\n۱. رفع محدودیت‌های مصرفی روزانه و کاهش شدید هزینه‌ها.\n۲. استفاده هوشمندانه از WebContainers برای کاهش هزینه‌های زیرساختی.\n۳. ایجاد بازخورد متقابل برای بهبود مدل‌های متن‌باز.\n\nنقاط ضعف:\n۱. وابستگی به بنچمارک‌های داخلی که شفافیت کامل در مورد کیفیت واقعی مدل‌ها ندارند.\n۲. کیفیت پایین‌تر مدل‌های متن‌باز در مقایسه با پیشرفته‌ترین مدل‌های تجاری در سناریوهای پیچیده.\n\nنکته طلایی برای ایران: در ایران به دلیل هزینه‌های بالای ارز و تحریم‌ها، توسعه یک دستیار کدنویسی بومی با استفاده از مدل‌های متن‌باز (مانند DeepSeek) و اجرای پردازش در سمت کلاینت یا مرورگر کاربر، می‌تواند به ایده‌آل‌ترین ابزار برای استارتاپ‌ها و برنامه‌نویسان ایرانی تبدیل شود بدون اینکه نیازمند زیرساخت‌های سروری گران‌قیمت باشد.",
+        "iranEquivalent": {
+          "productName": "کد فورج ایران",
+          "description": "کد فورج یک دستیار هوشمند برنامه‌نویسی بومی است که با بهره‌گیری از مدل‌های هوش مصنوعی متن‌باز، امکان تولید و خطایابی خودکار کد را فراهم می‌کند. این پلتفرم با ارائه سهمیه بالا و بدون محدودیت روزانه، به توسعه‌دهندگان ایرانی اجازه می‌دهد پروژه‌های خود را با سرعت بالا اجرا کنند. با ذخیره‌سازی داده‌های ساخت به صورت ناشناس، مدل‌های اختصاصی برنامه‌نویسی برای زبان‌ها و فریم‌ورک‌های رایج در ایران آموزش داده می‌شوند.",
+          "marketOpportunity": "با توجه به تحریم‌ها و هزینه‌های دلاری بالای مدل‌های تجاری مانند OpenAI، بازار ایران تشنه ابزارهای کدنویسی ارزان و مبتنی بر مدل‌های متن‌باز است. ایجاد ابزاری که بتواند روی محیط‌های مرورگر یا سرورهای داخلی کار کند، پتانسیل جذب هزاران برنامه‌نویس و شرکت نرم‌افزاری ایرانی را دارد.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، استارتاپ‌ها، برنامه‌نویسان آزاد (فریلنسرها) و تیم‌های توسعه نرم‌افزار در ایران",
+          "challenges": [
+            "تامین زیرساخت‌های پردازشی و کارت‌های گرافیک قوی برای میزبانی مدل‌های متن‌باز",
+            "چالش‌های مربوط به حریم خصوصی کاربران و جلب اعتماد آن‌ها برای بهینه‌سازی مدل‌ها"
+          ],
+          "monetization": [
+            "فروش اشتراک‌های ماهانه پرو و سازمانی با سهمیه مصرف بالا",
+            "ارائه نسخه‌های اختصاصی آن‌پرمیس (On-Premise) برای شرکت‌های بزرگ و ارگان‌های دولتی"
+          ],
+          "techStack": [
+            "Next.js",
+            "WebContainers",
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Docker"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-today-2",
@@ -62,7 +102,7 @@
         "maker": "Brent Vardy",
         "makerTitle": "Code and Sea: Software to own, not rent",
         "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 158,
+        "votes": 162,
         "websiteUrl": "https://www.producthunt.com/r/EWJKZOW5DRPD2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -89,52 +129,61 @@
             "user": "[REDACTED]",
             "text": "As part of the launch, if Product Hunt community members want to upgrade and unlock the Mantra+ premium features, the following discount code can be redeemed. This code discounts the one-time in app purchase from US$9.99 to US$5.99.CODE: LAUNCH2026LINK: https://apps.apple.com/redeem?ctx=offercodes&id=6781308416&code=LAUNCH2026You can redeem the code using the 'Redeem' option within the 'More' tab in the app or by clicking the above URL from your iPhone."
           }
-        ]
+        ],
+        "faDescription": "اپلیکیشن تایمر مدیتیشن مانترا، تعقیب پیچیده و حجم زائد برنامه‌های سلامت‌محور مدرن را رد می‌کند. این برنامه شیک iOS که برای تمرین‌دهندگان مستقل طراحی شده است، تجربه‌ای بدون حواس‌پرتی و با صفر درصد جمع‌آوری داده ارائه می‌دهد. کاربران می‌توانند از تایمرهای اصلی مدیتیشن، نواهای آرامش‌بخش و بررسی‌های ذهنی یا جسمی به صورت کاملاً رایگان بهره‌مند شوند. برای تمرین‌دهندگان حرفه‌ای مانترا، یک پرداخت یک‌باره و کوچک، آمار پیشرفته و سفارشی‌سازی‌های عمیق‌تر را فعال می‌سازد؛ بدون خستگی ناشی از اشتراک‌های ماهانه، فقط یک ابزار فوق‌العاده ساده برای تمرین عمیق روزانه.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "الهام‌بخش و مسئله: من به مدت بیش از ۳۷۰۰ روز متوالی روزانه مدیتیشن ترنسندنتال تمرین کرده‌ام. پس از یک دهه تمرین، صرفاً ابزاری تمیز برای پشتیبانی از تمرین روزانه‌ام می‌خواستم. در عوض، با بازار سلامتی مواجه شدم که اشباع از برنامه‌های سنگین و پیچیده بود. گزینه‌های رسمی نیازمند اطلاعات شخصی فضولانه بودند، بقیه برنامه‌های هدایت‌شده بی‌پایان را تحمیل می‌کردند و تقریباً همه آن‌ها فقط برای سکوت نشستن، اشتراک ماهانه درخواست می‌کردند. مانترا تایمر از ناامیدی محض متولد شد. می‌خواستم تایمری زیبا و بدون حواس‌پرتی بسازم که با احترام با تمرین‌کنندگان رفتار کند—یعنی صفر جمع‌آوری داده و صفر نوتیفیکیشن برای جلب توجه. نحوه تکامل محصول: ساخت یک استودیوی نرم‌افزاری با سرعتی کندتر و انسان‌محور همراه با مدیریت یک بیماری مزمن، شما را مجبور می‌کند تا فوق‌العاده هدفمند باشید. کنار گذاشتن اشتراک: من ابتدا قصد داشتم پلن اشتراک سالانه استاندارد داشته باشم. اما با تثبیت فلسفه ضد اجاره‌داری استودیو، این کار منافقانه به نظر می‌رسید. بنابراین مسیر را کاملاً تغییر دادم. هسته اصلی برنامه کاملاً رایگان است و قابلیت‌های اضافی برای تمرین‌کنندگان حرفه‌ای از طریق یک پرداخت یک‌باره و کوچک باز می‌شود. یک بار بخرید، برای همیشه مالک آن باشید. من در بخش نظرات حضور خواهم داشت و خوشحال می‌شوم بازخوردها، انتقادات یا داستان‌های شما در مبارزه با خستگی از اشتراک‌ها را بشنوم!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آرامش‌بخش به نظر می‌رسد، مدل درآمدی آن چیست؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "سلام برنت. با عدم جمع‌آوری هیچ‌گونه داده، چگونه متوجه می‌شوید که آیا مردم واقعاً روزانه از آن استفاده می‌کنند یا این چیزی است که خودتان از پیگیری آن صرف‌نظر کرده‌اید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "سلام برنت! برنامه فوق‌العاده‌ای است! بسیار خوب و تمیز به نظر می‌رسد. موقع ساخت برنامه تصمیم گرفتید چه چیزهایی را شامل نکنید؟ می‌دانم این سوال ساده به نظر می‌رسد اما با مفهوم ذهن‌آگاهی که فکر می‌کنم دنبالش هستید ارتباط دارد. انتشار برنامه‌تان را تبریک می‌گویم و بهترین‌ها را برایتان آرزو دارم!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "از این خویشتن‌داری خوشم آمد! پیچیدگی در برنامه‌های سلامتی اغلب خود به موضوع دیگری برای مدیریت تبدیل می‌شود. این حس بسیار بیشتری با خودِ تمرین همخوانی دارد."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "به عنوان بخشی از راه‌اندازی، اگر اعضای جامعه پروداکت هانت می‌خواهند برنامه را ارتقا داده و ویژگی‌های پرمیوم Mantra+ را فعال کنند، کد تخفیف زیر قابل استفاده است. این کد خرید درون‌برنامه‌ای یک‌باره را از ۹.۹۹ دلار به ۵.۹۹ دلار کاهش می‌دهد. کد: LAUNCH۲۰۲۶ لینک: https://apps.apple.com/redeem?ctx=offercodes&id=۶۷۸۱۳۰۸۴۱۶&code=LAUNCH۲۰۲۶ شما می‌توانید کد را از طریق گزینه 'Redeem' در تب 'More' داخل برنامه یا با کلیک روی لینک فوق از آیفون خود بازخرید کنید."
+          }
+        ],
+        "aiReview": "تحلیل ساختاریافته محصول Mantra Timer:\n\n۱. مسئله و راه‌حل:\nبازار اپلیکیشن‌های ذهن‌آگاهی دچار شلوغی بیش از حد، درخواست‌های فضولانه برای دریافت داده‌های شخصی و مدل‌های اشتراک ماهانه خسته‌کننده شده است. مانترا تایمر با حذف تمام عناصر حواس‌پرت‌کننده، ردیابی داده‌ها و نوتیفیکیشن‌ها، محیطی امن و بی‌صدا برای تمرین عمیق مدیتیشن فراهم می‌کند.\n\n۲. معماری و تکنولوژی:\nطراحی این برنامه مبتنی بر اصول بومی iOS و تمرکز بر پردازش سمت کاربر (Client-side) است. عدم ذخیره‌سازی داده در سرورها (Zero Data Collection) باعث امنیت کامل، سرعت بالا و قابلیت استفاده ۱۰۰٪ آفلاین شده است.\n\n۳. مدل درآمدی:\nجایگزینی مدل اشتراکی با پرداخت یک‌باره (One-off Purchase) نقطه قوت تجاری برنامه است. نسخه پایه رایگان بوده و نسخه کامل با یک بار پرداخت خرد برای همیشه آزاد می‌شود.\n\n۴. نقاط قوت:\n- طراحی مینیمال و تجربه کاربری بی‌نظیر\n- احترام کامل به حریم خصوصی کاربر\n- قیمت‌گذاری منصفانه و شفاف\n\n۵. نقاط ضعف:\n- عدم دسترسی توسعه‌دهنده به آنالیتیکس رفتاری کاربران جهت بهبود محصول\n- محدود بودن بازار هدف به تمرین‌کنندگان حرفه‌ای (عدم پوشش افراد مبتدی که نیاز به آموزش دارند)\n\n۶. نکته طلایی برای ایران:\nدر ایران به دلیل مشکلات پرداخت بین‌المللی و لغو اشتراک‌های دلاری، ارائه یک اپلیکیشن مدیتیشن مینیمال با پرداخت یک‌باره ریالی (تراکنش مستقیم) می‌تواند نرخ تبدیل بسیار بالاتری نسبت به مدل‌های اشتراکی ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "مانترا: تایمر بومی مدیتیشن",
+          "description": "نمونه بومی‌سازی شده مانترا تایمر، یک ابزار ساده و بدون حواس‌پرتی برای تمرینات روزانه مدیتیشن و ذهن‌آگاهی در ایران است. این اپلیکیشن بدون نیاز به اینترنت و بدون جمع‌آوری اطلاعات شخصی، تجربه متمرکزی از زمان‌بندی مدیتیشن را ارائه می‌دهد. کاربران ایرانی می‌توانند با یک‌بار پرداخت ریالی خرد، به ابزارهای پیشرفته آمار و شخصی‌سازی دسترسی کامل داشته باشند.",
+          "marketOpportunity": "با توجه به افزایش استرس‌های روزمره و رشد گرایش جوانان ایرانی به تمرینات ذهن‌آگاهی، بازار اپلیکیشن‌های سلامت روان در ایران در حال رشد است. نبود اپلیکیشن‌های ساده، غیرتبلیغاتی و بدون اشتراک ماهانه، فرصت مناسبی برای جذب مخاطبان وفادار ایجاد کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "علاقه‌مندان به مدیتیشن، یوگا و ذهن‌آگاهی، افراد فراری از اپلیکیشن‌های شلوغ و اشتراکی",
+          "challenges": [
+            "فرهنگ‌سازی برای پرداخت یک‌باره در برابر برنامه‌های کاملاً رایگان یا کرک شده",
+            "چالش‌های فنی حفظ کارکرد کاملاً آفلاین در عین ارائه گزارش‌های دقیق"
+          ],
+          "monetization": [
+            "خرید درون‌برنامه‌ای یک‌باره برای باز کردن ویژگی‌های پیشرفته آمار و افکت‌های صوتی",
+            "ارائه پکیج‌های اختصاصی نواهای آرامش‌بخش ایرانی"
+          ],
+          "techStack": [
+            "Flutter",
+            "SQLite",
+            "GetX"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-today-3",
         "date": "2026-09-19",
         "rank": 3,
-        "name": "Lumiko",
-        "slug": "lumiko",
-        "tagline": "Screen recordings that edit themselves with Auto Zoom-Pan ",
-        "description": "Lumiko records your screen and edits the footage while you work. It tracks your cursor and clicks, then builds smooth zoom and pan moves over them automatically, no keyframes. Trim, split, and reorder clips on a timeline right in the browser. Smart Blur hides API keys and passwords in one drag. Add a webcam bubble, custom backgrounds, click effects. Exports up to 4K. Runs locally, no account, no upload queue. Free to start.",
-        "category": "Chrome Extensions • Productivity • Video",
-        "categoryFa": "افزونه کروم • بهره‌وری • ویدیو",
-        "url": "https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/c98e165e-7e0d-4724-9a12-f58b0ecb906c.webp?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/87282358-fca1-4d6f-99d8-4f3265373c06.jpeg?auto=format",
-          "https://ph-files.imgix.net/012acaa6-7edd-44bd-b636-abf449db2bd3.png?auto=format",
-          "https://ph-files.imgix.net/02b7a044-9507-496a-a8bf-01c571240b7d.png?auto=format",
-          "https://ph-files.imgix.net/ff9c9109-dd2a-4acd-b20a-0cde0b6b9d56.png?auto=format",
-          "https://ph-files.imgix.net/051e04a3-1aab-4975-ad53-00862ba40574.png?auto=format",
-          "https://ph-files.imgix.net/a8c3bc33-25a9-460c-8e07-86602fc63c0c.png?auto=format"
-        ],
-        "maker": "Ashish Patnaik",
-        "makerTitle": "I am a Tech enthusiast ",
-        "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 131,
-        "websiteUrl": "https://www.producthunt.com/r/6HXPPPSI732OW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋 I built Lumiko because I kept losing an hour to keyframes after every five-minute recording. The zoom-and-pan you see in slick tutorial videos usually comes from someone manually placing markers over every click, and I got tired of it. Lumiko watches where your cursor goes while you record, then generates that zoom and pan movement on its own once you stop. You still get a full timeline editor for trimming and reordering clips, plus Smart Blur for hiding sensitive info like API keys before you share anything. Everything renders on your machine. No account, no upload step, no waiting on a server queue. Pro is $9, one time, no subscription. It removes the watermark, unlocks 4K exports, and covers 3 devices for life. Would love to hear what part of your current recording workflow eats the most time. That's what I'm building toward next."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Hey brother, I bought the Pro license but nothing happens when I press Download extension, I did install the free extensions but I can't see a place to paste in the license code. Can you assist? thanks."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Cursor position is right most of the time and wrong on the takes where I'm moving the mouse while I talk. Can I override a zoom it placed?"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-4",
-        "date": "2026-09-19",
-        "rank": 4,
         "name": "Steam Frame",
         "slug": "steam-frame",
         "tagline": "Your Steam library, now on a wearable PC",
@@ -159,7 +208,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 130,
+        "votes": 137,
         "websiteUrl": "https://www.producthunt.com/r/DVSJS2NGMZJEFP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -177,6 +226,46 @@
           {
             "user": "[REDACTED]",
             "text": "the \"controllers double as VR wands and a full gamepad\" bit is the smart part here - most standalone headsets make you choose between VR input and a real controller. Curious how heavy the headset ends up being for long sessions compared to Quest, since Valve's controllers alone aren't light."
+          }
+        ]
+      },
+      {
+        "id": "ph-today-4",
+        "date": "2026-09-19",
+        "rank": 4,
+        "name": "Lumiko",
+        "slug": "lumiko",
+        "tagline": "Screen recordings that edit themselves with Auto Zoom-Pan ",
+        "description": "Lumiko records your screen and edits the footage while you work. It tracks your cursor and clicks, then builds smooth zoom and pan moves over them automatically, no keyframes. Trim, split, and reorder clips on a timeline right in the browser. Smart Blur hides API keys and passwords in one drag. Add a webcam bubble, custom backgrounds, click effects. Exports up to 4K. Runs locally, no account, no upload queue. Free to start.",
+        "category": "Chrome Extensions • Productivity • Video",
+        "categoryFa": "افزونه کروم • بهره‌وری • ویدیو",
+        "url": "https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/c98e165e-7e0d-4724-9a12-f58b0ecb906c.webp?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/87282358-fca1-4d6f-99d8-4f3265373c06.jpeg?auto=format",
+          "https://ph-files.imgix.net/012acaa6-7edd-44bd-b636-abf449db2bd3.png?auto=format",
+          "https://ph-files.imgix.net/02b7a044-9507-496a-a8bf-01c571240b7d.png?auto=format",
+          "https://ph-files.imgix.net/ff9c9109-dd2a-4acd-b20a-0cde0b6b9d56.png?auto=format",
+          "https://ph-files.imgix.net/051e04a3-1aab-4975-ad53-00862ba40574.png?auto=format",
+          "https://ph-files.imgix.net/a8c3bc33-25a9-460c-8e07-86602fc63c0c.png?auto=format"
+        ],
+        "maker": "Ashish Patnaik",
+        "makerTitle": "I am a Tech enthusiast ",
+        "featuredAt": "2026-09-19T07:01:00Z",
+        "votes": 133,
+        "websiteUrl": "https://www.producthunt.com/r/6HXPPPSI732OW5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋 I built Lumiko because I kept losing an hour to keyframes after every five-minute recording. The zoom-and-pan you see in slick tutorial videos usually comes from someone manually placing markers over every click, and I got tired of it. Lumiko watches where your cursor goes while you record, then generates that zoom and pan movement on its own once you stop. You still get a full timeline editor for trimming and reordering clips, plus Smart Blur for hiding sensitive info like API keys before you share anything. Everything renders on your machine. No account, no upload step, no waiting on a server queue. Pro is $9, one time, no subscription. It removes the watermark, unlocks 4K exports, and covers 3 devices for life. Would love to hear what part of your current recording workflow eats the most time. That's what I'm building toward next."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey brother, I bought the Pro license but nothing happens when I press Download extension, I did install the free extensions but I can't see a place to paste in the license code. Can you assist? thanks."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Cursor position is right most of the time and wrong on the takes where I'm moving the mouse while I talk. Can I override a zoom it placed?"
           }
         ]
       },
@@ -206,7 +295,7 @@
         "maker": "Evan Lane",
         "makerTitle": "Founder, Lull. Creative director.",
         "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 104,
+        "votes": 113,
         "websiteUrl": "https://www.producthunt.com/r/UK2JLUE5QAYOL3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -256,6 +345,54 @@
         "id": "ph-today-7",
         "date": "2026-09-19",
         "rank": 7,
+        "name": "Squirrel",
+        "slug": "squirrel-a67e2d12-a1ba-48b0-a452-fc12b8c641b9",
+        "tagline": "An app blocker that pays you back",
+        "description": "Squirrel puts a price on the apps you open too much. Tap Instagram and you get a hard block, not a screen you can wave away. Want to check a DM? That's fine, but you have to open Squirrel, pick how long, and set aside a few dollars for yourself first. No money moves through the app. No card or bank account to connect. When you're ready, invest it in your own brokerage and tell Squirrel what you bought. It tracks your holdings with live prices.",
+        "category": "iOS • Productivity • Personal Finance",
+        "categoryFa": "آی‌او‌اس • بهره‌وری • Personal Finance",
+        "url": "https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/6804dcb5-b072-4946-86a0-2d9ea75d5c31.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/087e19bb-169a-44fe-b063-d28bd37cd655.png?auto=format",
+          "https://ph-files.imgix.net/81094a21-794c-4462-84dc-d34662f206ad.png?auto=format",
+          "https://ph-files.imgix.net/9dca7ab5-0d9b-4cac-af30-33868b7261a6.png?auto=format",
+          "https://ph-files.imgix.net/cbc8dce1-0bef-401e-8a9f-ae2c784db147.png?auto=format",
+          "https://ph-files.imgix.net/d7e641da-91da-4f00-bdac-492939a2a666.png?auto=format",
+          "https://ph-files.imgix.net/ba25c7dc-146d-4420-963a-637feb757e1a.png?auto=format"
+        ],
+        "maker": "Brian Hall",
+        "makerTitle": "Solo iOS dev. Building Squirrel. 🐿️",
+        "featuredAt": "2026-09-19T07:01:00Z",
+        "votes": 99,
+        "websiteUrl": "https://www.producthunt.com/r/PKEWAZ5UH5CJHO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey PH! Brian here, really excited to intro you all to my baby. I built Squirrel by myself (with some help from my friend Claude ofc). So this came out of a night over Thanksgiving break this past year. I was talking with some friends after a night out, and at one point the topic of Instagram/social media came up. The overall sentiment was basically that social media has hijacked our brains. It’s rarely something we consciously decide to open, more so just a knee-jerk reaction... then 30 minutes go by and you have no clue how you got there. That same night we somehow got onto investing, and pretty much everyone felt behind there too. Like it was this thing we knew we should be doing more of, but weren’t. I was on a massive entrepreneurial kick at the time, and hearing the whole room agree on both of those problems made me want to connect them somehow. And that was basically the birth of Squirrel (it started off as “Reclaim,” but that felt way too boring). The idea is pretty simple. You choose the apps you open too much and set your own toll for them. When you instinctively tap one, it’s actually blocked. If you really want to open it, you go into Squirrel, choose how long you want it unlocked for, and choose the toll. Those few seconds where you actually have to decide are honestly doing most of the work. Important bit because people always ask: Squirrel never charges you anything. No card, no bank account, and you’re not paying me to unlock Instagram lol (Unless..? Joking. Joking.). It just keeps track of what you set aside for yourself. When you’re ready, you buy whatever you want in your own brokerage, tell Squirrel what you bought, and it tracks it from there with live prices. For some context, I had a 45 minute daily Instagram limit for months and still averaged 10+ hours a week on it. My first week using Squirrel was 1h45m. The week after was 56 minutes. Obviously that’s just me, but the difference was big enough that I figured other people might want to try it too. Blocking and your savings history are free. Portfolio tracking is the paid part. I would love feedback, especially from anyone who has tried other screen time apps before (Opal, Brick, one sec, ScreenZen, Jomo, etc.). What made you stop using them?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I really like the idea of putting something between you and doomscrolling. But, I don’t really believe time = money. What if the currency was time itself? If you’re a musician and spend an hour scrolling instead of creating, you owe your music an hour. Not because you can get that hour back. Just to make you think about where the next one goes."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Brian. On the \"what made you stop using other screen time apps\" question, mine was always finding the \"just this once\" override button. Does Squirrel have any override at all, or is the block genuinely hard once it's on?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "So does it use the user's money to regulate / manage his smartphone behaviour? First, I thought that someone would pay me. 😁"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Nice idea, personally I dug out my Gameboy Advance, whenever the urge to scroll hits, I play Pokemon or Mario Bros instead, and honestly it feels satisfying to do something I'll actually remember instead of just mindless scroll dumps haha"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-8",
+        "date": "2026-09-19",
+        "rank": 8,
         "name": "VoiceCap",
         "slug": "voicecap",
         "tagline": "The AI notetaker for meetings in your language",
@@ -289,54 +426,6 @@
           {
             "user": "[REDACTED]",
             "text": "congrats on the launch! , what is unique about VoiceCap compared to others , that makes it stand out"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-8",
-        "date": "2026-09-19",
-        "rank": 8,
-        "name": "Squirrel",
-        "slug": "squirrel-a67e2d12-a1ba-48b0-a452-fc12b8c641b9",
-        "tagline": "An app blocker that pays you back",
-        "description": "Squirrel puts a price on the apps you open too much. Tap Instagram and you get a hard block, not a screen you can wave away. Want to check a DM? That's fine, but you have to open Squirrel, pick how long, and set aside a few dollars for yourself first. No money moves through the app. No card or bank account to connect. When you're ready, invest it in your own brokerage and tell Squirrel what you bought. It tracks your holdings with live prices.",
-        "category": "iOS • Productivity • Personal Finance",
-        "categoryFa": "آی‌او‌اس • بهره‌وری • Personal Finance",
-        "url": "https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/6804dcb5-b072-4946-86a0-2d9ea75d5c31.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/087e19bb-169a-44fe-b063-d28bd37cd655.png?auto=format",
-          "https://ph-files.imgix.net/81094a21-794c-4462-84dc-d34662f206ad.png?auto=format",
-          "https://ph-files.imgix.net/9dca7ab5-0d9b-4cac-af30-33868b7261a6.png?auto=format",
-          "https://ph-files.imgix.net/cbc8dce1-0bef-401e-8a9f-ae2c784db147.png?auto=format",
-          "https://ph-files.imgix.net/d7e641da-91da-4f00-bdac-492939a2a666.png?auto=format",
-          "https://ph-files.imgix.net/ba25c7dc-146d-4420-963a-637feb757e1a.png?auto=format"
-        ],
-        "maker": "Brian Hall",
-        "makerTitle": "Solo iOS dev. Building Squirrel. 🐿️",
-        "featuredAt": "2026-09-19T07:01:00Z",
-        "votes": 94,
-        "websiteUrl": "https://www.producthunt.com/r/PKEWAZ5UH5CJHO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey PH! Brian here, really excited to intro you all to my baby. I built Squirrel by myself (with some help from my friend Claude ofc). So this came out of a night over Thanksgiving break this past year. I was talking with some friends after a night out, and at one point the topic of Instagram/social media came up. The overall sentiment was basically that social media has hijacked our brains. It’s rarely something we consciously decide to open, more so just a knee-jerk reaction... then 30 minutes go by and you have no clue how you got there. That same night we somehow got onto investing, and pretty much everyone felt behind there too. Like it was this thing we knew we should be doing more of, but weren’t. I was on a massive entrepreneurial kick at the time, and hearing the whole room agree on both of those problems made me want to connect them somehow. And that was basically the birth of Squirrel (it started off as “Reclaim,” but that felt way too boring). The idea is pretty simple. You choose the apps you open too much and set your own toll for them. When you instinctively tap one, it’s actually blocked. If you really want to open it, you go into Squirrel, choose how long you want it unlocked for, and choose the toll. Those few seconds where you actually have to decide are honestly doing most of the work. Important bit because people always ask: Squirrel never charges you anything. No card, no bank account, and you’re not paying me to unlock Instagram lol (Unless..? Joking. Joking.). It just keeps track of what you set aside for yourself. When you’re ready, you buy whatever you want in your own brokerage, tell Squirrel what you bought, and it tracks it from there with live prices. For some context, I had a 45 minute daily Instagram limit for months and still averaged 10+ hours a week on it. My first week using Squirrel was 1h45m. The week after was 56 minutes. Obviously that’s just me, but the difference was big enough that I figured other people might want to try it too. Blocking and your savings history are free. Portfolio tracking is the paid part. I would love feedback, especially from anyone who has tried other screen time apps before (Opal, Brick, one sec, ScreenZen, Jomo, etc.). What made you stop using them?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I really like the idea of putting something between you and doomscrolling. But, I don’t really believe time = money. What if the currency was time itself? If you’re a musician and spend an hour scrolling instead of creating, you owe your music an hour. Not because you can get that hour back. Just to make you think about where the next one goes."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Brian. On the \"what made you stop using other screen time apps\" question, mine was always finding the \"just this once\" override button. Does Squirrel have any override at all, or is the block genuinely hard once it's on?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "So does it use the user's money to regulate / manage his smartphone behaviour? First, I thought that someone would pay me. 😁"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Nice idea, personally I dug out my Gameboy Advance, whenever the urge to scroll hits, I play Pokemon or Mario Bros instead, and honestly it feels satisfying to do something I'll actually remember instead of just mindless scroll dumps haha"
           }
         ]
       },
@@ -559,7 +648,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-18T07:01:00Z",
-        "votes": 453,
+        "votes": 454,
         "websiteUrl": "https://www.producthunt.com/r/AMDH6JBWMRKU7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -594,7 +683,65 @@
             "user": "[REDACTED]",
             "text": "Looks interesting, Congrats on the launch!"
           }
-        ]
+        ],
+        "faDescription": "بسیاری از تیم‌ها از سیستم‌های جداگانه برای پشتیبانی، تخته بازخورد و ابزار نظرسنجی استفاده می‌کنند و تمام هفته را صرف کپی‌پیست بین این ابزارها می‌کنند، اما ProductBridge یک سیستم یکپارچه است. این پلتفرم یک عامل هوش مصنوعی است که چت‌های پشتیبانی را بر اساس مرکز کمک شما پاسخ می‌دهد، از طریق ابزارها، جریان‌های کاری و MCP به APIهای شما دسترسی پیدا می‌کند و در زمان مناسب به انسان‌ها ارجاع می‌دهد. هر چت، نظرسنجی و رأی ثبت، تکراری‌ها حذف شده و بر اساس پوشش و درآمد امتیازدهی می‌شوند تا نقشه راه شما بر اساس شواهد واقعی و نه نظرات شخصی شکل بگیرد. پس از انتشار ویژگی جدید، به همه کسانی که درخواست کرده بودند اطلاع‌رسانی می‌شود و این محصول با قیمت‌گذاری ثابت و پلن رایگان همراه است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt 👋 هاریش هستم، بنیان‌گذار ProductBridge. در ماه مارس ما اینجا به عنوان یک عامل هوش مصنوعی که بازخورد را از Slack، Intercom، سایت‌های نقد و بررسی و تخته بازخورد شما جمع‌آوری می‌کند، تکراری‌ها را ادغام می‌کند و آن انباشته را به نقشه راه تبدیل می‌کند، راه‌اندازی کردیم. شما ما را به رتبه اول روز رساندید. از این بابت سپاسگزارم 🙏 ما شش ماه گذشته را صرف مشاهده نحوه استفاده واقعی تیم‌ها از محصول کردیم و یک الگوی تکراری مشاهده شد: درخواست ویژگی تقریباً هرگز از تخته بازخورد شروع نمی‌شد. آن به عنوان یک مکالمه پشتیبانی در ابزاری دیگر، متصل به رکورد مشتری دیگری شروع می‌شد. پشتیبانی اولین نفری بود که آن را دید، محصول آخرین نفر، و به کسی که درخواست کرده بود اطلاع داده نشد که چه زمانی منتشر شد. بنابراین ما نیمه دیگر را ساختیم. ProductBridge اکنون پشتیبانی و بازخورد بومی هوش مصنوعی روی یک رکورد مشتری واحد است: 💬 چت زنده + صندوق ورودی مشترک — چت و ایمیل با هم، با تخصیص‌ها، SLA و CSAT 🤖 عامل پشتیبانی هوش مصنوعی — مبتنی بر مرکز کمک شما، از طریق ابزارها و جریان‌های کاری به APIهای شما دسترسی دارد و در صورت نیاز به انسان ارجاع می‌دهد 📚 مرکز کمک — یک مقاله را یک بار بنویسید و عامل از آن پاسخ می‌دهد 📊 نظرسنجی‌ها — NPS، CSAT و CES داخل محصول شما، با پاسخ‌هایی که به همان هوش بازخورد می‌ریزند 🔌 سرور MCP — ۳۶ ابزار، بنابراین می‌توانید از Claude، ChatGPT یا Cursor بپرسید مشتریان شما چه می‌خواهند 🔁 همان حلقه بسته از قبل — یک چت پشتیبانی به درخواست ویژگی تبدیل می‌شود، بر اساس پوشش و درآمد امتیازدهی می‌شود و مشتری درخواست‌کننده هنگام انتشار مطلع می‌شود چه چیزی تغییر نکرده: قیمت ثابت. بدون هزینه به ازای هر کاربر، بدون هزینه به ازای هر کاربر ردیابی‌شده، بدون هزینه به ازای هر حل‌شدگی. یک پلن رایگان وجود دارد، اکثر تیم‌ها در حدود ۱۵ دقیقه فعال می‌شوند و اگر روی Canny، Featurebase یا Intercom هستید، ما به شما در مهاجرت کمک می‌کنیم. یک سوال برای شما 👇 چه چیزی در استک پشتیبانی + بازخورد شما هنوز باعث می‌شود به صورت دستی کپی‌پیست کنید؟ معمولاً جایی است که ما چیز بعدی را برای ساختن پیدا می‌کنیم. من تمام روز اینجا هستم تا به سوالات پاسخ دهم 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "همه بهترین‌ها"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "روز خوبی! شما کار شگفت‌انگیزی انجام دادید. آیا امروز توانستید کاربران جدیدی جذب کنید یا بازخورد ارزشمندی دریافت کنید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "یکی از بزرگ‌ترین چالش‌هایی که با آن مواجه شدم، دریافت بازخورد واقعی از کاربران و عمل به آن‌ها بود. ایمیل‌ها و نظرسنجی‌ها ابزارهایی هستند که به آن‌ها تکیه می‌کنم و فکر می‌کنم این محصول به من کمک می‌کند تا جریان کاری‌ام را ساده‌تر کنم. محصول خوبی است. تبریک بابت راه‌اندازی."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "تبریک بابت راه‌اندازی! یک دور سریع زدم و دو چیز فوراً برجسته شد: تنظیم برند نام، رنگ‌ها و حتی لوگوی شما را مستقیماً از URL سایت شما می‌کشد، بنابراین فضای کاری در چند ثانیه کامل به نظر می‌رسد. و بررسی تکراری قبل از ارسال بازخورد جدید یک لمسه خوب است، دقیقاً همان چیزی را انجام می‌دهد که خط «ادغام تکراری‌ها» در صفحه اصلی شما وعده می‌دهد. ساده برای یادگیری و به وضوح خوب فکر شده. مشتاقم ببینم این محصول به کجا می‌رسد!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "تبریک بابت راه‌اندازی! کنجکاو هستم که چگونه از عوامل هوش مصنوعی که شرکت‌های پشتیبانی ارائه می‌دهند متفاوت است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "خوشحالم که می‌بینم تیم گوش داده و پیوستگی بیشتری برای رکوردهای مشتری و بستن حلقه ساخته است. تبریک بابت راه‌اندازی!"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "جالب به نظر می‌رسد، تبریک بابت راه‌اندازی!"
+          }
+        ],
+        "aiReview": "مسئله اصلی این است که داده‌های ارزشمند مشتریان در ابزارهای پراکنده (پشتیبانی، نظرسنجی، تخته بازخورد) قفل شده‌اند و تیم محصول آخرین نفری است که از نیازهای واقعی مشتری باخبر می‌شود. راه‌حل ProductBridge ایجاد یک لایه هوش مصنوعی است که این ابزارها را یکپارچه می‌کند، تکراری‌ها را حذف می‌کند و بازخورد را به درخواست‌های محصول با امتیازدهی بر اساس درآمد تبدیل می‌کند. از نظر معماری، این محصول از یک عامل هوش مصنوعی (Agent) استفاده می‌کند که از طریق پروتکل MCP به ابزارهای مختلف متصل می‌شود و از مرکز کمک به عنوان منبع دانش (Grounding) بهره می‌برد. مدل درآمدی بر اساس قیمت‌گذاری ثابت (Flat Pricing) است که برای تیم‌ها جذاب‌تر از مدل‌های مبتنی بر تعداد کاربر است. نقاط قوت اصلی شامل حلقه بسته (Closed-loop) از دریافت درخواست تا اطلاع‌رسانی انتشار، و یکپارچگی عمیق با ابزارهای AI مدرن مانند Claude و ChatGPT است. نقاط ضعف احتمالی می‌تواند شامل پیچیدگی تنظیمات اولیه برای تیم‌های غیرفنی و وابستگی به کیفیت مرکز کمک باشد. نکته طلایی برای ایران: تمرکز بر «حلقه بسته» و اطلاع‌رسانی به مشتری هنگام انتشار ویژگی، می‌تواند به عنوان یک مزیت رقابتی قوی در بازار ایران که در آن ارتباط مستقیم با مشتری بسیار ارزشمند است، عمل کند.",
+        "iranEquivalent": {
+          "productName": "پل محصول (ProductBridge Iran)",
+          "description": "این پلتفرم یک سیستم یکپارچه برای مدیریت پشتیبانی مشتری و جمع‌آوری بازخورد است که با استفاده از هوش مصنوعی، مکالمات پشتیبانی را به درخواست‌های محصول تبدیل می‌کند. با اتصال به ابزارهای داخلی شرکت و مرکز کمک، تکراری‌ها را حذف کرده و بر اساس ارزش تجاری به آن‌ها امتیاز می‌دهد. این سیستم اطمینان می‌دهد که تیم محصول بر اساس داده‌های واقعی و نه حدس و گمان، نقشه راه خود را تدوین می‌کند.",
+          "marketOpportunity": "بازار ایران با وجود رشد استارتاپ‌ها و شرکت‌های SaaS، با چالش جدی در یکپارچه‌سازی ابزارهای پشتیبانی و بازخورد مواجه است. بسیاری از کسب‌وکارها از ابزارهای پراکنده استفاده می‌کنند و داده‌های ارزشمند مشتریان در این فرآیند گم می‌شود.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "استارتاپ‌های فناوری، شرکت‌های SaaS، فروشگاه‌های آنلاین بزرگ و تیم‌های محصول و پشتیبانی در سازمان‌های متوسط تا بزرگ.",
+          "challenges": [
+            "مقاومت در برابر تغییر فرآیندها و عادت‌های قدیمی تیم‌های پشتیبانی",
+            "پیچیدگی اتصال به APIهای متنوع و قدیمی که در زیرساخت‌های ایرانی رایج هستند"
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه با پلن‌های مختلف بر اساس حجم مکالمات",
+            "خدمات پیاده‌سازی و مهاجرت داده از ابزارهای موجود"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "LangChain",
+            "Redis"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-4",
@@ -712,7 +859,69 @@
             "user": "[REDACTED]",
             "text": "Congratulations on the launch! Having the bot by the side of the application rather than in another separate chat window is the right approach in my opinion."
           }
-        ]
+        ],
+        "faDescription": "یک دستیار هوش مصنوعی در کنار هر برنامه مک در اختیار شما قرار می‌گیرد. نوار کناری سایدر اومنی محتوای صفحه نمایش شما را می‌بیند و مستقیماً در همان محیط کاری که هستید اقدام می‌کند. شما می‌توانید نتیجه را ببینید و تغییر بعدی را درخواست کنید. هیچ نیازی به کپی کردن یا آپلود فایل وجود ندارد. این برنامه بر پایه GPT-۶ Astra ساخته شده و می‌تواند با اعتبارات فعلی ChatGPT یا Codex شما اجرا شود.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام! ما تیم سازنده سایدر اومنی هستیم. 👋 ما سایدر اومنی را ساختیم تا دستیار هوشمند شما بتواند به کارهایی که در حال انجامشان هستید ملحق شود، با درک کامل زمینه کار و توانایی اقدام روی آن. با باز کردن یک جدول در برنامه Numbers بپرسید: «از این جدول یک نمودار میله‌ای بر اساس منطقه بساز.» 📊 سایدر اومنی جدول روی صفحه را می‌خواند و نمودار را در همان برنامه‌ی Numbers می‌سازد. همان‌طور که آن را بررسی می‌کنید، اصلاحات بیشتری بطلبید: «حالا نرخ بازگشتی بر اساس منطقه را در یک نمودار مجزا نشان بده.» 🔁 شما می‌توانید داده‌های منبع و هر تغییر را در همان محیط کاری ببینید و بدون خروجی گرفتن از داده‌ها یا شروع مجدد، مرحله بعدی را درخواست کنید. همچنین می‌توانید از میان مدل‌های پشتیبانی‌شده از جمله GPT-۶ Astra انتخاب کنید و یک آیکون همراه انتخاب کنید که در تمام برنامه‌ها شما را دنبال کند. ✨ خوشحال می‌شویم بشنویم شما برای چه کاری از سایدر اومنی استفاده خواهید کرد. 💬"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آیا اطلاعات و داده‌ها از فضای محلی دستگاه خارج می‌شوند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "عدم نیاز به خروجی گرفتن از داده‌ها قبل از درخواست نمودار، یک صرفه‌جویی کوچک اما واقعاً کاربردی در زمان است."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "به عنوان کسی که در طول یک روز بین برنامه‌های Pages، Numbers و وب درگیر هستم، زمان زیادی را با سوییچ کردن از این پنجره به آن پنجره برای پرسش از هوش مصنوعی هدر داده‌ام. یک دستیار که درست در کنارم باشد، سند را بخواند و ویرایش‌ها را اعمال کند دقیقاً همان چیزی است که آرزویش را داشتم."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "به عنوان یک کاربر فعال ایمیل در برنامه Mail، تنها عادت بد من سه بار تایپ مجدد پاسخ است. اگر سایدر اومنی بتواند کل ایمیل را بخواند و درست از همان‌جا تایپ کند، چند دقیقه در زمانم صرفه‌جویی می‌شود. آیا از فایل‌های ضمیمه هم پشتیبانی می‌کند یا فقط متن‌های قابل مشاهده را می‌خواند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "برایم سوال است که در نرم‌افزارهایی با رابط کاربری اختصاصی مانند فیگما یا لاجیک پرو چطور کار می‌کند؟ آیا به لیبل‌های دسترسی‌پذیری (Accessibility Labels) در مک‌او‌اس وابسته است یا بیشتر از اسکرین‌شات استفاده می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "مثال نمودار در Numbers برای من کاملاً ملموس بود. من نیمی از زمانم را صرف انتقال اطلاعات بین برنامه‌ها می‌کنم، بنابراین بهبود یک نمودار با پرسیدن مراحل بعدی بسیار جذاب به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک برای عرضه محصول! به نظر من داشتن ربات در کنار برنامه به جای یک پنجره چت مجزا و جداگانه، رویکرد کاملاً درستی است."
+          }
+        ],
+        "aiReview": "### مسئله و راه‌حل\nکاربران هنگام استفاده از ابزارهای هوش مصنوعی مجبورند مداوماً بین پنجره‌های مختلف سوئیچ کنند، داده‌ها را کپی-پیست کنند یا فایل‌ها را آپلود نمایند که موجب اتلاف وقت و ضربه به تمرکز می‌شود. سایدر اومنی با ارائه یک نوار کناری هوشمند روی سیستم‌عامل، مستقیماً محتوای صفحه را تحلیل کرده و بدون نیاز به انتقال داده، تغییرات را درون نرم‌افزارهای فعال اعمال می‌کند.\n\n### معماری و تکنولوژی\nاین ابزار بر پایه ترکیب تحلیل تصویری (Vision/OCR) و خواندن داده‌های دسترسی‌پذیری (Accessibility APIs) سیستم‌عامل توسعه یافته و از مدل‌های پیشرفته بینایی ماشین پشتیبانی می‌کند. همچنین معماری آن امکان استفاده از اعتبارات موجود کاربر در سیستم‌های دیگر (مانند ChatGPT) را فراهم می‌سازد.\n\n### مدل درآمدی\nمدل درآمدی به صورت اشتراکی (SaaS) و یا پرداخت بر اساس میزان مصرف (Pay-as-you-go) با قابلیت اتصال به کلیدهای API شخصی یا حساب‌های موجود کاربری طراحی شده است.\n\n### نقاط قوت\n- یکپارچگی کامل با جریان کاری کاربر بدون نیاز به خروجی گرفتن داده‌ها\n- کاهش چشمگیر زمان اتلافی برای کپی-پیست و جابه‌جایی بین پنجره‌ها\n- امکان استفاده از اعتبارات قبلی کاربر در بسترهای هوش مصنوعی\n\n### نقاط ضعف\n- وابستگی شدید به مجوزها و دسترسی‌های امنیتی سیستم‌عامل\n- چالش‌های عملکردی ممکن در نرم‌افزارهایی با رابط کاربری سفارشی و غیراستاندارد\n- مصرف بالای منابع سیستم و اینترنت در صورت تحلیل مداوم تصویری\n\n### نکته طلایی برای ایران\nبرای موفقیت نمونه مشابه در ایران، علاوه بر بومی‌سازی پشتیبانی از زبان فارسی و OCR فارسی در اسناد، ارائه قابلیت کار با نرم‌افزارهای بومی و حسابداری ایرانی و همچنین امکان اتصال به مدل‌های بومی یا سیستم‌های بدون نیاز به تحریم، می‌تواند مزیت رقابتی فوق‌العاده‌ای ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "دستیار هوشمند نوار کناری (سایدر بومی)",
+          "description": "این محصول یک دستیار هوشمند نوار کناری برای سیستم‌عامل مک است که محتوای صفحه نمایش کاربر را تحلیل می‌کند. ابزار مذکور بدون نیاز به کپی‌پیست یا آپلود، دستورات متنی کاربر را مستقیماً در نرم‌افزارهای فعال اعمال می‌کند. این سامانه با حذف جابه‌جایی بین پنجره‌ها، سرعت و بهره‌وری کاربران حرفه‌ای را به طور چشمگیری افزایش می‌دهد.",
+          "marketOpportunity": "با توجه به رشد روزافزون استفاده از هوش مصنوعی در کارهای اداری و طراحی در ایران، نیاز شدیدی به دستیارهای یکپارچه با سیستم‌عامل وجود دارد. بومی‌سازی چنین ابزاری با پشتیبانی از زبان فارسی و برنامه‌های رایج اداری می‌تواند بازار گسترده‌ای از فریلنسرها و شرکت‌های ایرانی را جذب کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، تحلیل‌گران داده، طراحان UI/UX، تولیدکنندگان محتوا و مدیران اداری",
+          "challenges": [
+            "محدودیت‌ها و مجوزهای سخت‌گیرانه دسترسی امنیتی در سیستم‌عامل مک (Accessibility APIs)",
+            "چالش‌های پردازش تصویر (OCR) و درک دقیق فونت‌ها و متون فارسی در نرم‌افزارهای مختلف",
+            "هزینه بالای فراخوانی APIهای هوش مصنوعی بینایی ماشین (Vision Models) و تحریم‌های مرتبط"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه بر اساس تعداد درخواست‌ها",
+            "ارائه لایسنس نرم‌افزار با قابلیت وارد کردن API Key شخصی کاربر",
+            "فروش پلن‌های سازمانی برای شرکت‌ها با امکان اتصال به مدل‌های بومی یا خصوصی"
+          ],
+          "techStack": [
+            "Swift",
+            "macOS Accessibility API",
+            "Next.js",
+            "PostgreSQL",
+            "Python",
+            "OpenAI Vision API"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-6",
@@ -776,7 +985,66 @@
             "user": "[REDACTED]",
             "text": "This looks super interesting, looking forward to testing it! Congrats on the launch!"
           }
-        ]
+        ],
+        "faDescription": "بزرگ‌ترین شرکت‌های جهان مانند آمازون و اوبر مدت‌هاست که از مفهوم «ارتقادهنده استانداردهای کاری» (Bar Raiser) برای رشد استعدادها و حفظ کیفیت خود استفاده می‌کنند و اکنون شما هم می‌توانید به این ابزار دسترسی داشته باشید. دستیار هوشمند «آری» به شما و تیم‌تان کمک می‌کند تا با مدیریت خودکار کارهای حاشیه‌ای، استانداردهای اجرایی بالاتری را حفظ کرده و ارتقا دهید. این ابزار وظایف روزمره، پیگیری تعهدات، گزارش‌دهی پیشرفت، همراستاسازی ارتباطات و اولویت‌ها را به عهده می‌گیرد و بازخورد کارهای موفق را نشان می‌دهد تا بتوانید تمرکز خود را بر نقاط قوت بگذارید. در نهایت، شما و تمام اعضای تیم زمان و فضای ذهنی بیشتری برای انجام کارهای پرمعنا و پیشبردن جاه‌طلبانه‌ترین پروژه‌های خود به دست می‌آورید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به پروداکت هانت 👋 من ارکانگ هستم، یکی از سازندگان آریسو. ما در حال ساخت دستیار هوشمند ارتقادهنده استانداردها برای تیم شما و سیستم‌عاملی هستیم که شکل‌دهنده آینده کاری است. 🚀 ما آری را بر اساس تجربه‌ای ساختیم که به مرور در مسیر مهندسی، مشاوره، رهبری تیم‌ها و اکنون تاسیس یک شرکت آموختم: سخت‌ترین بخش کار، خودِ کار نیست؛ بلکه کارهای حاشیه‌ای پیرامون آن است؛ یعنی جلوگیری از گم شدن تصمیمات در جعبه سیاه، شناسایی زودهنگام ریسک‌ها، شفاف ماندن اولویت‌ها، پیگیری تعهدات و اطمینان از اینکه افراد درست از تغییرات و موارد نیازمند توجه آگاه هستند. با پیچیده‌تر شدن کارها، این لایه هماهنگی خودش تبدیل به کار اصلی می‌شود. آمازون و اوبر از افراد ارتقادهنده استاندارد استفاده می‌کنند تا استانداردهای سازمان را بالا نگه دارند و آری این فرآیند را به صورت خودکار وارد جریان کاری روزمره شما می‌کند. آری پروژه‌ها، جلسات، پیگیری‌ها، اولویت‌ها، مخاطبین، استراتژی، مدیریت و مربی‌گری را متصل کرده و چرخه را اجرا می‌کند: رهگیری اتفاقات (تعهدات، تصمیمات و ریسک‌ها)، گزارش تغییرات و موارد نیازمند توجه، همراستاسازی افراد و اولویت‌ها قبل از انحراف کار، و اندازه‌گیری پیگیری‌ها. آری بدون وقفه در پس‌زمینه کار می‌کند و پشتیبان شماست. تجربه شخصی من: یک‌بار آری به من درباره ایمیل فیشینگی که برای همکارم فرستاده بودم هشدار داد (با اینکه من ۲۰ سال سابقه در امنیت سایبری دارم!). بار دیگر به من در مدیریت یک گفتگو سخت با کارکنانم کمک کرد. هر روز آری به من یادآوری می‌کند چه اتفاقی افتاده تا نیازی نباشد همه چیز را در ذهن نگه دارم. آری به مغز دوم و سیستم پشتیبان من، تیمم و شرکت تبدیل شده است. هدف آن جایگزینی یا قضاوت نیست، بلکه ایجاد زمان و فضای ذهنی بیشتر برای کارهایی است که در آن‌ها فوق‌العاده هستید. ما در مراحل اولیه هستیم و مشتاقانه گوش می‌دهیم. خوشحالیم که اینجا هستید! ضمناً تیم من پیش از این پیچیده‌ترین سیستم‌های امنیتی را ساخته‌اند و این امنیت در آری لحاظ شده؛ داده‌های شما هرگز برای آموزش مدل استفاده نمی‌شود. پاسخگوی سوالات شما هستیم. 🙏"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "تبریک برای انتشار! آیا آری یک ایجنت ۲۴ساعته است که تمام کارهای حاشیه‌ای را زیر نظر دارد؟ آیا مکانیزم تعیین اولویت یا حفاظی وجود دارد که اگر موضوع فوری پیش آمد بدون خطا و به موقع مطلع شویم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "آریسو برای چه نوع یا اندازه‌ای از تیم‌ها مناسب‌تر است؟ کسب‌وکارهای کوچک یا سازمان‌های بزرگ‌تر با دپارتمان‌های متعدد؟ همچنین نما و دیدگاه صریح آری (Ari brain view) چه مزیت اجرایی ایجاد می‌کند و چگونه نحوه کار شما را تغییر می‌دهد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "جذاب به نظر می‌رسد، کاربران اصلی آری چه کسانی هستند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "آیا آری می‌تواند یک دستیار متمرکز بر یک محصول خاص باشد یا ماهیتاً طوری ساخته شده که چتر حمایتی کل سازمان باشد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "محصول بسیار فوق‌العاده‌ای است! من از آن برای کسب‌وکارم استفاده کرده‌ام و بسیار مفید بوده است."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "عالی به نظر می‌رسد تیم، خسته نباشید!"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "بسیار جالب به نظر می‌رسد، مشتاقم آن را تست کنم. تبریک بابت انتشار!"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل:\nبزرگ‌ترین چالش تیم‌های کاری، نه انجام خودِ کار، بلکه «کارهای پیرامون کار» مانند هماهنگی‌ها، پیگیری تعهدات و شفاف‌سازی اولویت‌هاست. Ari با الگوبرداری از نقش Bar Raiser در آمازون، یک ایجنت هوش مصنوعی ارائه می‌دهد که در پس‌زمینه فعال است و فرآیند پیگیری، شناسایی ریسک‌ها، متصل کردن پروژه‌ها و گزارش‌دهی را خودکار می‌کند تا زمان و تمرکز اعضا آزاد شود.\n\nمعماری و تکنولوژی:\nپلتفرم بر پایه معماری ایجنت‌های هوشمند (AI Agents) چندمنظوره و پردازش زبان طبیعی (NLP) توسعه یافته است. یکپارچگی عمیق با ابزارهای کاری، تمرکز ویژه بر امنیت داده‌ها (عدم استفاده از داده‌های کاربر برای آموزش مدل) و قابلیت فعالیت ۲۴/۷ از ویژگی‌های کلیدی زیرساختی آن است.\n\nمدل درآمدی:\nمدل اشتراک B۲B SaaS بر اساس تعداد اعضای فعال تیم یا سازمان، همراه با پلن‌های ویژه Enterprise برای قابلیت‌های سفارشی و امنیتی پیشرفته.\n\nنقاط قوت:\n۱. دست گذاشتن روی یک نقطه درد واقعی در مدیریت تیم‌ها (کاهش زحمت هماهنگی).\n۲. سابقه قوی تیم موسس در حوزه امنیت سایبری که اعتماد سازمانی را جلب می‌کند.\n۳. فعالیت غیرمزاحم در پس‌زمینه و ارائه ارزش به عنوان «مغز دوم سازمان».\n\nنقاط ضعف:\n۱. چالش اعتماد کاربران به توصیه‌ها یا پیگیری‌های خودکار هوش مصنوعی در مسائل حساس.\n۲. خطر توهم مدل (Hallucination) در خلاصه‌سازی تصمیمات و جلسات.\n\nنکته طلایی برای ایران:\nدر بازار ایران که فرهنگ پیگیری دستی و جلسات طولانی مداوم وجود دارد، بومی‌سازی ابزاری مانند Ari که بتواند با تلگرام یا بله متصل شده و «تعهدات شفاهی جلسات را به تسک‌های قابل پیگیری تبدیل کند»، ارزش فوق‌العاده‌ای برای مدیران هلدینگ‌ها و تیم‌های نرم‌افزاری ایجاد خواهد کرد.",
+        "iranEquivalent": {
+          "productName": "ارتقا (Artqa AI)",
+          "description": "ارتقا یک دستیار هوشمند هماهنگی و مدیریت عملکرد تیمی است که بار پیگیری‌های مداوم و کارهای حاشیه‌ای را از دوش اعضا برمی‌دارد. این پلتفرم با اتصال به ابزارهای ارتباطی و مدیریتی، اولویت‌ها و تعهدات کاری را شفاف‌سازی کرده و از اتلاف زمان جلوگیری می‌کند. همچنین با ارائه گزارش‌های دقیق، به مدیران ایرانی کمک می‌کند استانداردهای اجرایی سازمان خود را بهبود دهند.",
+          "marketOpportunity": "با افزایش تیم‌های دورکار و تعاملی در ایران، نیاز شدیدی به ابزارهای خودکارسازی هماهنگی و جلوگیری از اتلاف زمان در جلسات بی‌حاصل وجود دارد. عدم وجود یک نمونه بومی هوشمند که نقش تسهیل‌گر و ارتقادهنده استانداردها را ایفا کند، شانس بالایی برای تصاحب بازار کسب‌وکارهای در حال رشد فراهم کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "تیم‌های توسعه نرم‌افزار، استارتاپ‌های در حال رشد، مدیران محصول، آژانس‌های دیجیتال مارکتینگ و سازمان‌های متوسط",
+          "challenges": [
+            "عدم یکپارچگی آسان با پیام‌رسان‌های بومی و ابزارهای مدیریت پروژه ایرانی",
+            "مقاومت سازمان‌ها در برابر به اشتراک‌گذاری داده‌های جلسات و تصمیمات به دلیل نگرانی‌های امنیتی"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه/سالانه به ازای هر کاربر (SaaS)",
+            "ارائه نسخه اختصاصی و نصب درون‌سازمانی (On-Premise) برای سازمان‌های بزرگ"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python (FastAPI)",
+            "LangChain",
+            "Redis"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-7",
@@ -836,7 +1104,63 @@
             "user": "[REDACTED]",
             "text": "This way of displaying English is also quite clever. Seeing the natural structure of sentences as you type can help new expressions sink in better without feeling like a separate lesson."
           }
-        ]
+        ],
+        "faDescription": "کیزیک یک روش ورودی رایگان برای مک است که به شما امکان می‌دهد انگلیسی را در حین تایپ چینی یاد بگیرید. این ابزار، معادل انگلیسی کلمات و جملات را به صورت هم‌زمان با متن چینی شما نمایش می‌دهد تا فرآیند یادگیری طبیعی‌تر شود. شما می‌توانید کلمات، عبارات یا جملات کاملی را که قصد بیان آن‌ها را دارید ذخیره کنید. در آینده، پشتیبانی از زبان‌های ژاپنی، کره‌ای و سایر زبان‌ها نیز اضافه خواهد شد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "آیا برنامه‌ای برای اضافه کردن زبان‌های دیگر هم دارید؟ تبریک بابت راه‌اندازی محصول!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "می‌بینم که این ابزار به ویژه برای کسانی مفید است که انگلیسی را می‌فهمند اما در یافتن سریع کلمات مناسب هنگام نوشتن مشکل دارند. ایده‌ی خوبی است!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "این روش بسیار عملی‌تر از اپلیکیشن‌های سنتی لغت به نظر می‌رسد. دیدن معادل انگلیسی در کنار چیزی که در حال تایپ آن هستید، می‌تواند باعث شود کلمات جدید بهتر در ذهن بمانند."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "تبریک @rick_fan آیا این ابزار می‌تواند در آینده برای یادگیری زبان‌های دیگر هم کار کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "خیلی عالی می‌شود اگر در آینده گزینه‌ای برای تغییر بین لهجه‌های بریتانیایی و آمریکایی انگلیسی اضافه شود."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "آیا این روش می‌تواند یادگیری انگلیسی را نسبت به استفاده از اپلیکیشن‌های سنتی زبان طبیعی‌تر کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "کنجکاوم آیا برنامه‌ای برای نسخه ویندوز در آینده وجود دارد، اما برای کاربران مک بسیار شیک و کاربردی به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "این شیوه نمایش انگلیسی بسیار هوشمندانه است. دیدن ساختار طبیعی جملات هنگام تایپ می‌تواند به درک بهتر عبارات جدید کمک کند بدون اینکه حس درس خواندن جداگانه را بدهد."
+          }
+        ],
+        "aiReview": "مسئله‌ی اصلی، شکاف بین یادگیری نظری زبان و کاربرد آن در لحظه‌ی نیاز است؛ راه‌حل Keysake با ادغام آموزش در فرآیند تایپ، این شکاف را پر می‌کند. از نظر معماری، این محصول به عنوان یک Input Method Engine (IME) عمل می‌کند که نیازمند یک موتور پردازش زبان طبیعی (NLP) قوی برای ترجمه‌ی هم‌زمان و حفظ ساختار جملات است. مدل درآمدی احتمالی بر پایه‌ی Freemium است، جایی که هسته‌ی اصلی رایگان است و ویژگی‌های تکمیلی پولی. نقاط قوت شامل تجربه‌ی کاربری یکپارچه و یادگیری زمینه‌ای (Contextual Learning) است، اما نقاط ضعف شامل وابستگی به دقت بالای ترجمه‌ی ماشینی و محدودیت اولیه به پلتفرم مک است. نکته‌ی طلایی برای ایران: تمرکز بر ترجمه‌ی فارسی به انگلیسی با حفظ اصطلاحات رایج روزمره و اداری می‌تواند یک محصول بسیار پرتقاضا ایجاد کند، زیرا بسیاری از ایرانیان در تبدیل ذهنی فارسی به انگلیسی هنگام نوشتن ایمیل یا چت مشکل دارند.",
+        "iranEquivalent": {
+          "productName": "کلیدزبان",
+          "description": "کلیدزبان یک افزونه‌ی ورودی برای سیستم‌عامل‌های رایج است که به کاربران اجازه می‌دهد زبان انگلیسی را در حین تایپ فارسی یاد بگیرند. این ابزار، ترجمه‌ی لحظه‌ای و ساختار جملات انگلیسی را در کنار متن فارسی نمایش می‌دهد تا یادگیری در بافت واقعی رخ دهد. کاربران می‌توانند عبارات کلیدی را ذخیره کرده و به مرور زمان دایره‌ی لغات خود را گسترش دهند.",
+          "marketOpportunity": "بازار آموزش زبان در ایران بسیار بزرگ است و بسیاری از کاربران به دنبال روش‌های غیرسنتی و کاربردی برای یادگیری انگلیسی هستند. ترکیب یادگیری با ابزارهای روزمره‌ی تایپ، یک مزیت رقابتی منحصربه‌فرد ایجاد می‌کند.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "دانشجویان، متخصصان IT و افرادی که نیاز به مکالمه و نوشتن انگلیسی در محیط کار دارند.",
+          "challenges": [
+            "نیاز به دقت بالا در ترجمه‌ی خودکار و حفظ ساختار جملات فارسی به انگلیسی.",
+            "رقابت با اپلیکیشن‌های رایگان و محبوب آموزش زبان موجود در بازار."
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه برای دسترسی به ویژگی‌های پیشرفته مانند ذخیره‌سازی ابری و تحلیل پیشرفت.",
+            "فروش بسته‌های آموزشی تخصصی مرتبط با حوزه‌های شغلی خاص."
+          ],
+          "techStack": [
+            "Electron",
+            "PostgreSQL"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-8",
@@ -886,7 +1210,54 @@
             "user": "[REDACTED]",
             "text": "How did Astra change the scope or ambition of what you built?"
           }
-        ]
+        ],
+        "faDescription": "پوشاری ایل (Pushary Isle) ابزارهای هوش مصنوعی مانند Claude Code، Codex، Cursor، Gemini CLI، VS Code و OpenCode را مستقیماً در ناچ مک شما قرار می‌دهد. شما می‌توانید تنها با فشردن یک کلید دسترسی‌ها را تأیید کرده یا مستقیماً به ترمینال مربوطه منتقل شوید. همچنین هنگام دور شدن از سیستم، امکان پاسخگویی به درخواست‌ها از طریق تلفن همراه وجود دارد. این برنامه کاملاً نیتیو (Native) بوده، حجم دانلود آن تنها ۸ مگابایت است و در حالت غیرفعال، حدود ۳۸ مگابایت حافظه مصرف می‌کند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام PH 👋 عادل هستم. رونمایی قبلی پوشاری تأییدیه ایجنت‌ها را روی صفحه قفل قرار می‌داد، اما این نسخه آن‌ها را به ناچ مک می‌آورد. مشکل اینجاست که وقتی چند ایجنت همزمان اجرا می‌شوند، وقفه کوچک اما مدوامی ایجاد می‌شود: پیدا کردن ترمینال درست، خواندن سؤال، حرکت دادن دست به سمت ماوس، پاسخ دادن و بازگشت. اکثر برنامه‌های ناچ وقتی از پای سیستم بلند می‌شوید دیگر کمکی نمی‌کنند. ویژگی جدید این است که Pushary Isle هنگام نیاز ایجنت باز می‌شود. دکمه Y/N مجوزها را تأیید یا رد می‌کند و کلیدهای ۱ تا ۹ گزینه‌ها را انتخاب می‌کنند. می‌توانید پاسخ را تایپ کنید یا مستقیماً به تب ترمینال مربوطه بروید. با باز کردن برنامه، ابزارهایی مانند Claude Code، Codex، Cursor، Gemini CLI، VS Code و OpenCode را روی مک شما شناسایی می‌کند بدون اینکه نیاز به دستور، کلید یا فایل کانفیگ باشد. این برنامه با SwiftUI + AppKit نیتیو ساخته شده: ۷ مگابایت حجم دانلود، ۳۸ مگابایت حافظه در حالت بیکار و ۰٪ مصرف CPU در تست ما. اندازه و دستورات بازتولید تست روی سایت هست. وقتی از سیستم دور می‌شوید، همین تصمیم به گوشی، مرورگر یا اسلک شما ارسال می‌شود؛ یک‌بار پاسخ دهید و در همه‌جا بسته می‌شود. بخش صریح: نیاز به macOS ۱۴+ دارد. برنامه مک رایگان دانلود می‌شود و روی اشتراک ۹.۹۹ دلار/ماهانه بعد از ۳ روز تست کار می‌کند. Vibe Island از ایجنت‌های بیشتر، SSH و ردگیری سهمیه پشتیبانی می‌کند. پوشاری برای کسانی است که می‌خواهند تصمیم‌گیری‌ها خارج از میز کار هم دنبالشان بیاید، با ردپای سبُک‌تر و ردپای حسابرسی. خوشحال می‌شوم اگر دو ایجنت را همزمان اجرا کنید و بگویید آیا ناچ لحظه درست را بدون تبدیل شدن به یک دردسر جدید شکار می‌کند یا نه. تمام روز اینجا هستم <۳"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "نحوه ورود اعلانات و تعاملات از طریق ناچ واقعاً تمیز و جذاب به نظر می‌رسد!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "عادل — مشکل «جستجو در تب‌های ترمینال فقط برای زدن دکمه Y» کاملاً واقعی است و ناچ دقیقا میزان رابط کاربری مناسبی برای آن است. دو سؤال: وقتی دو ایجنت در یک لحظه سؤال می‌پرسند، آیا ناچ آن‌ها را صف‌بندی می‌کند یا هر دو را نشان می‌دهد؟ و آیا سیاست تأیید خودکار برای هر ابزار بعد از آپدیت برنامه باقی می‌ماند یا باید دوباره تنظیم شود؟ همچنین بابت نظر دیروزت روی AskDeck ممنون، حس مشابهی داریم: پاسخ باید هر جا هستی به سمتت بیاید، نه برعکس."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "آیا می‌توانید در همان پنجره تأیید نشان دهید که ایجنت‌ها دقیقاً چه چیزی را می‌خواهند تأیید کنند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "پروژه Astra چگونه دامنه یا چشم‌انداز آنچه ساخته‌اید را تغییر داد؟"
+          }
+        ],
+        "aiReview": "پوشاری (Pushary) یک راه‌حل فوق‌العاده خلاقانه و کاربردی برای مشکل تمرکززدایی توسعه‌دهندگانی است که همزمان با چندین ایجنت هوش مصنوعی کار می‌کنند. **مسئله و راه‌حل:** برنامه‌نویسان هنگام کار با ایجنت‌هایی مثل Claude Code یا Cursor مدام باید بین تب‌های ترمینال جابه‌جا شوند تا مجوز انجام یک دستور (Y/N) را صادر کنند. پوشاری با انتقال این تعاملات به ناچ مک و قابلیت همگام‌سازی با موبایل، اصطکاک کاری را به حداقل می‌رساند. **معماری و تکنولوژی:** استفاده از SwiftUI و AppKit نیتیو باعث شده نرم‌افزار بسیار سبک (حجم دانلود ۸ مگابایت، مصرف رم ۳۸ مگابایت و صفر درصد مصرف CPU) باشد. **مدل درآمدی:** مدل SaaS با اشتراک ماهانه ۹.۹۹ دلار پس از ۳ روز تست رایگان. **نقاط قوت:** UX خیره‌کننده، استفاده هوشمندانه از فضای ناچ، بهینه‌سازی عالی منابع سیستم و قابلیت پاسخگویی مولتی‌پلتفرم. **نقاط ضعف:** محدودیت به macOS ۱۴ به بالا و وابستگی به پلتفرم اپل. **نکته طلایی برای ایران:** بومی‌سازی این ابزار با قابلیت اتصال به تلگرام یا پیام‌رسان‌های داخلی برای دریافت تأییدیه‌ها روی گوشی، می‌تواند به یک دستیار ضروری برای توسعه‌دهندگان ایرانی تبدیل شود.",
+        "iranEquivalent": {
+          "productName": "ناچ‌یار (NotchYar)",
+          "description": "ناچ‌یار یک ابزار بومی برای مدیریت ایجنت‌های هوش مصنوعی در سیستم‌عامل مک است که اعلانات و تأییدیه‌ها را در ناچ صفحه نمایش متمرکز می‌کند. این برنامه برنامه‌نویسان را از سردرگمی میان تب‌های متعدد ترمینال نجات داده و سرعت تأیید دستورات هوش مصنوعی را افزایش می‌دهد. همچنین امکان ارسال اعلانات تأیید به پیام‌رسان‌های بومی یا تلگرام در صورت دوری از سیستم فراهم است.",
+          "marketOpportunity": "با رشد روزافزون استفاده برنامه‌نویسان ایرانی از ایجنت‌های هوش مصنوعی جهت کدنویسی، نیاز به ابزاری برای مدیریت متمرکز و سریع اعلانات آن‌ها به شدت احساس می‌شود. این محصول می‌تواند بازار توسعه‌دهندگان حرفه‌ای و تیم‌های نرم‌افزاری در ایران را هدف قرار دهد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، توسعه‌دهندگان ارشد، مهندسان DevOps و کاربران حرفه‌ای macOS",
+          "challenges": [
+            "محدودیت‌های فنی و پیاده‌سازی زیرساخت نیتیو macOS جهت اتصال دقیق به ناچ",
+            "چالش‌های مربوط به زیرساخت اینترنت و فیلترینگ برای ارسال سریع اعلانات روی موبایل"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه به توسعه‌دهندگان",
+            "ارائه لایسنس‌های تیمی و سازمانی برای شرکت‌های نرم‌افزاری"
+          ],
+          "techStack": [
+            "SwiftUI",
+            "AppKit",
+            "Node.js",
+            "PostgreSQL",
+            "Telegram Bot API"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-yesterday-9",
@@ -948,7 +1319,69 @@
             "user": "[REDACTED]",
             "text": "Saw Ankush's forum post about the friend-of-a-friend-of-a-friend research that led here - the \"guessing who'd actually reply at 2am\" pain is very real and specific. Curious how you score \"warmth\" beyond just mutual follows on X - does it weight things like recent interactions/replies between the two people in the chain, or is a stale follow from 3 years ago worth the same as an active mutual right now?"
           }
-        ]
+        ],
+        "faDescription": "کسی که می‌شناسید، فردی را می‌شناسد که آرزوی آشنایی با او را دارید. نپو نتورک این ارتباطات را میان شما و افرادی که می‌خواهید در شبکه اجتماعی X به آن‌ها برسید نقشه‌برداری می‌کند و مسیرهای محتمل برای یک معرفی گرم و صمیمانه را آشکار می‌سازد. در این پلتفرم می‌توانید مسیرهای رتبه‌بندی‌شده را بررسی کنید، واسطه‌های هر مرحله را ببینید، متن درخواست خود را تنظیم کرده و فرآیند ارتباط‌گیری‌تان را پیگیری نمایید. شبکه ارتباطی شما دارای خانواده گسترده و به‌طرز شگفت‌انگیزی کاربردی است که می‌تواند درهای جدیدی را به روی شما بگشاید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "شما می‌توانید کارهای بزرگی انجام دهید اگر دوستِ دوستی را بشناسید که او هم دوست دیگری را می‌شناسد! سلام همراهان پروداکت هانت 👋 من آنکوش، توسعه‌دهنده نپو نت هستم. یک ماه پیش ما پروژه Construct Computer را اینجا معرفی کردیم که رتبه ۱ محصول روز شد. این اتفاق شانس نبود و قطعاً حاصل پیام‌های ناشناس و سرد هم نبود. پیش از روز رونمایی، ما افرادی که نیاز داشتیم را نقشه‌برداری کردیم: شکارچیان پروداکت هانت، سازندگانی با مخاطبان بزرگ، و بنیان‌گذارانی که یک ری‌پوست آن‌ها رونمایی را تکان می‌دهد. سپس افرادی را که از قبل می‌شناختیم و آن‌ها را می‌شناختند پیدا کردیم. هر معرفی از طرف دوستِ یک دوست آمد و هر درخواستی مشخص و پاسخ به آن آسان بود. افرادی که هرگز اسم ما را نشنیده بودند فقط به این دلیل آمدند که فرد مورد اعتمادشان از آن‌ها خواسته بود. این روش جواب داد، اما هفته‌ها وقت ما را صرف مرور لیست دنبال‌کنندگان، جدول‌های اکسل و حدس زدن روابط کرد. بنابراین ابزاری را ساختیم که آرزو داشتیم آن زمان می‌داشتیم. نپوتیسم نتورک صمیمی‌ترین زنجیره معرفی را از شما به هر کسی در X پیدا می‌کند. هر آیدی را تایپ کنید تا کسانی که دنبال می‌کند، کسانی که شما را دنبال می‌کنند و افراد میان شما را نقشه‌برداری کند، سپس گرم‌ترین مسیرها را رتبه‌بندی کرده و هر مرحله را توضیح می‌دهد. این ابزار با دلایل محکم به شما می‌گوید ابتدا با چه کسی دوست شوید و چرا. با یک کلیک درباره همه افراد مسیر مطالعه می‌کند و برنامه‌ای می‌نویسد: به چه کسی پیام دهید، چه زمانی، چرا کمک می‌کنند و پیش‌نویس هر پیام را آماده می‌کند. این ابزار هرگز چیزی از طرف شما ارسال نمی‌کند و تصمیم نهایی برای ارتباط با شماست. برای آسان‌تر شدن کارتان پیگیری کنید که از چه کسانی درخواست کرده‌اید و چه اتفاقی افتاده است. می‌توانید از ChatGPT، Claude، Codex یا Cursor از طریق پروتکل MCP استفاده کنید؛ ایجنت شما به همان ابزارهای شما دسترسی دارد. راحت باشید و آن را امتحان کنید، آیدی خود را تایپ کنید و اولین جستجو را اجرا کنید. برای حامیان پروداکت هانت یک ماه اشتراک پرمیوم رایگان ارائه می‌دهیم. امتحان کنید: https://nepotism.network یا با ما در دیسکورد همراه شوید. عشق فراوان به @zaczuo و تیم PH 🩵"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "بچه‌ها کارتون عالی بود! من واقعاً نام محصول را دوست دارم، فوق‌العاده جذاب و در یاد ماندنی است 😄"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "رونمایی‌تان مبارک! 🎉 چه روش هوشمندانه‌ای برای تبدیل ارتباطات موجود به معرفی‌های ارزشمند و معنا‌دار. برای تیم نپو نتورک آرزوی رونمایی عالی دارم! 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "دیوانه‌کننده به نظر می‌رسه! چطور با احتمال تهدیدات سایبری و امنیتی برخورد می‌کنه؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "@ankushkun چه ایده دیوانه‌کننده‌ای! 🫡 وقتی اسم محصول را دیدم می‌دانستم پشت آن یک ذهن خلاق و دیوانه قرار دارد. همین الان جستجو کردم که چگونه می‌توانم نکهیل کامات را ملاقات کنم. محصول فوق‌العاده‌ای است، تبریک می‌گویم :)"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "مرحله پیش‌نویس متن درخواست چیزی است که من واقعاً به آن متکی خواهم بود. من می‌توانم تمام روز متن لندینگ پیج بنویسم اما هنوز روی یک خط درخواست معرفی خشکم بزند! آیا لحن کلام من را حفظ می‌کند یا تمام درخواست‌ها شبیه هم و کلیشه‌ای می‌شوند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "این خیلی جذاب و عالی به نظر می‌رسه!"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "پست آنکوش را در انجمن درباره تحقیقات دوستِ دوستِ دوست دیدم که به اینجا ختم شد؛ دردسر 'حدس زدن اینکه چه کسی واقعاً ساعت ۲ شب پاسخ می‌دهد' بسیار واقعی و ملموس است. کنجکاوم بدانم چطور میزان 'صمیمیت' را فراتر از دنبال‌کردن‌های متقابل در X محاسبه می‌کنید؟ آیا تعاملات/پاسخ‌های اخیر بین دو نفر در زنجیره وزن بیشتری دارد یا یک دنبال‌کردن قدیمی مربوط به ۳ سال پیش ارزش یکسانی با یک ارتباط فعال دارد؟"
+          }
+        ],
+        "aiReview": "**مسئله و راه‌حل:**\nپیام‌های مستقیم سرد (Cold DMs) معمولاً نرخ پاسخ‌دهی بسیار پایینی دارند و برقراری ارتباط با سرمایه‌گذاران، مشاوران یا مشتریان بزرگ همواره دشوار است. Nepotism Network با هوشمندسازی مفهوم «دوستِ دوست»، شبکه‌ای از واسطه‌های مورد اعتماد میان کاربر و هدف نهایی را ترسیم می‌کند. این ابزار نه تنها صمیمی‌ترین مسیر معرفی گرم (Warm Intro) را رتبه‌بندی می‌کند، بلکه با هوش مصنوعی متن پیام درخواست را نیز متناسب با طرفین نگارش می‌نماید.\n\n**معماری و تکنولوژی:**\nپلتفرم از دیتابیس‌های گراف‌محور (مانند Neo۴j) برای تحلیل زنجیره ارتباطات و محاسبات کوتاه‌ترین مسیر بهره می‌برد. یکپارچه‌سازی با API شبکه X و پشتیبانی از پروتکل MCP (Model Context Protocol) امکان استفاده مستقیم ایجنت‌های هوش مصنوعی (مانند ChatGPT و Claude) از ابزارهای نقشه ارتباطات را فراهم ساخته است.\n\n**مدل درآمدی:**\nمدل درآمدی فری‌پریم (Freemium) است که جستجوهای پایه را به صورت رایگان ارائه داده و برای تحلیل‌های عمیق‌تر، نگارش هوشمند پیام‌ها و مدیریت کمپین‌های ارتباطی، اشتراک‌های ماهانه حرفه‌ای دریافت می‌کند.\n\n**نقاط قوت:**\n- رفع یکی از چالش‌های اصیل و دردناک در بازاریابی و جذب سرمایه.\n- قابلیت اتصال بی‌نظیر با ایجنت‌های هوش مصنوعی از طریق استاندارد MCP.\n- کاهش استرس نگارش متن درخواست معرفی با تولید هوشمند پیش‌نویس‌ها.\n\n**نقاط ضعف:**\n- وابستگی مستقیم به API و سیاست‌های شبکه X.\n- چالش فنی در تشخیص صمیمیت واقعی افراد صرفاً از روی لایک یا دنبال‌کردن متقابل.\n\n**نکته طلایی برای ایران:**\nدر ایران «اعتماد شبکه‌ای» حرف اول را در معامله و جذب سرمایه می‌زند. اجرای این ایده با ترکیب داده‌های لینکدین، تلگرام و حتی حضور در رویدادهای حضوری اکوسیستم، می‌تواند ابزاری کلیدی برای استارتاپ‌های ایرانی در جهت فتح جلسات فروش B۲B و جذب سرمایه باشد.",
+        "iranEquivalent": {
+          "productName": "پارتی‌نت (PartiNet)",
+          "description": "شبکه‌ای هوشمند بر پایه تحلیل روابط کاربران در شبکه‌های اجتماعی حرفه‌ای و رسانه‌های محلی که مسیرهای ارتباطی گرم با افراد کلیدی، سرمایه‌گذاران و مدیران ارشد را کشف می‌کند. این سیستم با شناسایی واسطه‌های مشترک، صمیمی‌ترین زنجیره معرفی را پیشنهاد داده و متن درخواست را متناسب با ادبیات شبکه تعاملی ایرانی نگارش می‌کند. همچنین فرآیند پیگیری پیام‌ها و درخواست معرفی را تا دست‌یابی به نتیجه مدیریت می‌نماید.",
+          "marketOpportunity": "در فرهنگ کسب‌وکار ایران که ارزیابی اعتبار و اعتماد بر پایه روابط شخصی و توصیه‌نامه‌های شفاهی شکل می‌گیرد، چنین ابزاری نیاز مبرم اکوسیستم استارتاپی است. با توجه به دشواری ارتباط مستقیم با سرمایه‌گذاران و مدیران ارشد در ایران، تسهیل معرفی‌های گرم شانس موفقیت جذب سرمایه و فروش B۲B را به شدت افزایش می‌دهد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "بنیان‌گذاران استارتاپ‌ها، مدیران توسعه کسب‌وکار (BD)، تیم‌های فروش B۲B و جویندگان سرمایه",
+          "challenges": [
+            "محدودیت دسترسی به API کامل شبکه‌های اجتماعی مانند لینکدین و توییتر در ایران",
+            "حساسیت‌های فرهنگی در زمینه واسطه‌گری و تمایل نداشتن برخی افراد به معرفی دیگران",
+            "پیچیدگی الگوریتم‌های سنجش واقع‌گرایانه میزان صمیمیت و فعال بودن روابط"
+          ],
+          "monetization": [
+            "اشتراک ماهانه و سالانه حرفه‌ای برای جستجوهای نامحدود و نگارش هوشمند پیام",
+            "فروش پلن‌های سازمانی به تیم‌های توسعه فروش B۲B",
+            "کارمزد موفقیت در معرفی‌های تجاری و اتصال به شبکه سرمایه‌گذاران"
+          ],
+          "techStack": [
+            "Next.js",
+            "Python",
+            "Neo۴j",
+            "PostgreSQL",
+            "Redis",
+            "OpenAI API"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-yesterday-10",
@@ -1010,7 +1443,63 @@
             "user": "[REDACTED]",
             "text": "How do you decide which runtime the agent should use? Do you guys plan to have a broader agent runtime ecosystem?"
           }
-        ]
+        ],
+        "faDescription": "MakersClaw ۲.۰ هدفی را به‌صورت خودکار به مجموعه‌ای از برنامه‌ها، عوامل هوشمند و اتوماسیون‌های لازم تبدیل می‌کند. این پلتفرم دیگر نیازی به اختصاص نقش خاص به یک عامل ندارد؛ کافی است هدف را تعریف کنید تا سیستم ابزارهای مناسب را بسازد، به ابزارهای شما متصل کند و به‌صورت مداوم کار را پیش ببرد. تمام تصمیمات، فایل‌ها و نتایج در حافظهٔ مشترک ذخیره می‌شوند تا عامل‌ها بتوانند از نقطهٔ قبلی ادامه دهند. در نسخهٔ جدید تمرکز بر روی فرآیندهای بازاریابی و فروش (go‑to‑market) است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt 👋 شریانس اینجا، سازنده MakersClaw. ما ابتدا MakersClaw را در ژوئن به‌صورت کارمندان هوش مصنوعی در Slack، Teams و Telegram عرضه کردیم. امروز پس از بازطراحی کامل، محصول را در Astra Day دوباره راه‌اندازی می‌کنیم. دیگر به‌جای اختصاص نقش، هدف را می‌گویید و سیستم ابزارها، عوامل و اتوماسیون‌های لازم را می‌سازد، به فضای کاری شما متصل می‌کند و کار را به‌صورت پیوسته اجرا می‌کند. این بار تمرکز روی تحقیق بازار، محتوا، خروجی، پیگیری‌ها و گردش‌کارهای مرتبط است."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آیا می‌توانم ببینم عوامل دقیقاً چه کاری برای رسیدن به هدف انجام دادند؟ آیا می‌توانم یک ردپا یا گزارش خروجی بگیرم؟ من بخش زیادی از GTM خود را با Claude / Codex اجرا می‌کنم؛ آیا MakersClaw به آن متصل می‌شود یا می‌خواهد همه چیز را خود مدیریت کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "دوستان، امروز روز پرهیجانی بود، نه؟ چند کاربر جدید امروز به محصول‌تان جذب کردید و چه مقدار بازخورد دریافت کردید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ایدهٔ دادن هدف به یک عامل به‌جای یک وظیفهٔ ساده واقعاً جالب است. بخش اجرای مداوم و ساخت جریان‌های کاری متناسب با هدف، به‌ویژه جذاب است. مشتاقم ببینم با افزودن گردش‌کارهای واقعی چگونه پیشرفت می‌کند. 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "تبریک برای نسخهٔ ۲.۰! به‌عنوان یک بنیان‌گذار تک‌نفره، فروش همیشه هزینه‌بر است، پس این ایده خیلی جالب به‌نظر می‌رسد. آیا با گذشت زمان خودکارسازی outreach را بر اساس پاسخ‌ها تنظیم می‌کند یا نتایج را برای تأیید نهایی به من نشان می‌دهد؟ موفق باشید!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "تغییر از «استخدام نقش هوش مصنوعی» به «تعریف هدف و ساخت خودکار نیازها» را خیلی دوست داشتم. مسیر جالبی است"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "به‌نظر می‌رسد سطح اتوماسیونی که در grm.sh برای تنظیم تحویل ویژگی‌ها داریم مشابه است. آیا می‌توانید تمام چرخهٔ عمر ابزار را بدون هیچ دخالت انسانی خودکار کنید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "چگونه تصمیم می‌گیرید عامل از چه runtime‌ای استفاده کند؟ آیا برنامه‌ای برای ایجاد اکوسیستم گسترده‌تری از runtimeهای عامل دارید؟"
+          }
+        ],
+        "aiReview": "مسئله: شرکت‌های ایرانی برای فروش و بازاریابی نیاز به ابزارهای هوشمند دارند که هزینهٔ توسعهٔ سفارشی را کاهش دهند و بتوانند به‌صورت مداوم و بدون از دست دادن زمینه کار کنند. راه‌حل: MakersClaw ۲.۰ با دریافت هدف کلی، خودکار ابزارها، عوامل و گردش‌کارهای لازم را می‌سازد، به ابزارهای داخلی متصل می‌شود و در یک فضای مشترک حافظه‌دار کار را ادامه می‌دهد. معماری: لایهٔ پیش‌فرآیند با LLM برای تحلیل هدف، موتور ساخت خودکار (کد ژنراتور) که برنامه‌ها را روی Next.js می‌سازد، عامل‌های هوشمند مبتنی بر مدل‌های زبانی برای اجرا و نظارت، و لایهٔ ذخیره‌سازی PostgreSQL برای حافظهٔ مشترک. تکنولوژی: استفاده از مدل‌های زبانی پیشرفته (مانند Claude یا GPT)، زیرساخت سرورless برای اجرای پویا، APIهای یکپارچه با ابزارهای داخلی (CRM، ایمیل، پیام‌رسان). مدل درآمدی: اشتراک ماهانه بر پایه تعداد عامل‌های فعال و حجم کار، به‌علاوه کمیسیون بر نتایج فروش موفق. نقاط قوت: خودکارسازی هدف‑محور، حفظ زمینه کار، قابلیت تنظیم بودجه، سازگاری با ابزارهای مختلف. نقاط ضعف: نیاز به تنظیم دقیق امنیت داده‌ها، وابستگی به مدل‌های زبانی خارجی و هزینهٔ پردازش. نکته طلایی برای ایران: تمرکز بر ارائهٔ یک لایهٔ محلی برای ذخیره‌سازی و پردازش داده‌ها (به‌صورت on‑premise یا در دیتاسنترهای داخلی) تا ملاحظات حریم‌خصوصی و قوانین داده‌ای رعایت شود و اعتماد کاربران ایرانی جلب گردد.",
+        "iranEquivalent": {
+          "productName": "MakersClaw ۲.۰",
+          "description": "MakersClaw ۲.۰ هدف کسب‌وکارها را به‌صورت خودکار به برنامه‌ها، عوامل هوشمند و اتوماسیون‌های مورد نیاز تبدیل می‌کند. کاربر فقط هدف را تعریف می‌کند و سیستم ابزارهای مناسب را می‌سازد، به ابزارهای داخلی متصل می‌کند و به‌صورت پیوسته کار را پیش می‌برد. در نسخهٔ جدید تمرکز بر روی فرآیندهای بازاریابی و فروش است.",
+          "marketOpportunity": "بازار ابزارهای هوش مصنوعی برای خودکارسازی فروش و بازاریابی در ایران به سرعت در حال رشد است و شرکت‌ها به‌دنبال راه‌حل‌های کم‌هزینه برای افزایش بهره‌وری هستند. MakersClaw می‌تواند با ارائه یک پلتفرم یکپارچه، نیازهای این بخش را به‌صورت جامع پوشش دهد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "استارتاپ‌ها و شرکت‌های متوسط که نیاز به خودکارسازی فرآیندهای فروش، بازاریابی و مدیریت پروژه دارند و می‌خواهند بدون هزینهٔ بالا از هوش مصنوعی بهره‌برداری کنند.",
+          "challenges": [
+            "یکپارچه‌سازی با ابزارهای داخلی و سامانه‌های موجود در شرکت‌ها",
+            "حفظ امنیت و حریم خصوصی داده‌ها در محیط‌های خودکار"
+          ],
+          "monetization": [
+            "اشتراک ماهانه بر پایه تعداد عوامل فعال",
+            "کمیسیون بر موفقیت‌های فروش تولید شده توسط سیستم"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL"
+          ],
+          "confidence": 75
+        }
       }
     ],
     "week": [
@@ -1099,7 +1588,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 568,
+        "votes": 569,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1342,7 +1831,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 489,
+        "votes": 494,
         "websiteUrl": "https://www.producthunt.com/r/3BV5OZ5E63H3QD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1443,9 +1932,9 @@
         ]
       },
       {
-        "id": "ph-week-8",
+        "id": "ph-yesterday-3",
         "date": "2026-09-18",
-        "rank": 8,
+        "rank": 3,
         "name": "ProductBridge",
         "slug": "productbridge-2",
         "tagline": "AI-native customer support and feedback agent",
@@ -1464,7 +1953,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-18T07:01:00Z",
-        "votes": 453,
+        "votes": 454,
         "websiteUrl": "https://www.producthunt.com/r/AMDH6JBWMRKU7M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1499,7 +1988,65 @@
             "user": "[REDACTED]",
             "text": "Looks interesting, Congrats on the launch!"
           }
-        ]
+        ],
+        "faDescription": "بسیاری از تیم‌ها از سیستم‌های جداگانه برای پشتیبانی، تخته بازخورد و ابزار نظرسنجی استفاده می‌کنند و تمام هفته را صرف کپی‌پیست بین این ابزارها می‌کنند، اما ProductBridge یک سیستم یکپارچه است. این پلتفرم یک عامل هوش مصنوعی است که چت‌های پشتیبانی را بر اساس مرکز کمک شما پاسخ می‌دهد، از طریق ابزارها، جریان‌های کاری و MCP به APIهای شما دسترسی پیدا می‌کند و در زمان مناسب به انسان‌ها ارجاع می‌دهد. هر چت، نظرسنجی و رأی ثبت، تکراری‌ها حذف شده و بر اساس پوشش و درآمد امتیازدهی می‌شوند تا نقشه راه شما بر اساس شواهد واقعی و نه نظرات شخصی شکل بگیرد. پس از انتشار ویژگی جدید، به همه کسانی که درخواست کرده بودند اطلاع‌رسانی می‌شود و این محصول با قیمت‌گذاری ثابت و پلن رایگان همراه است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt 👋 هاریش هستم، بنیان‌گذار ProductBridge. در ماه مارس ما اینجا به عنوان یک عامل هوش مصنوعی که بازخورد را از Slack، Intercom، سایت‌های نقد و بررسی و تخته بازخورد شما جمع‌آوری می‌کند، تکراری‌ها را ادغام می‌کند و آن انباشته را به نقشه راه تبدیل می‌کند، راه‌اندازی کردیم. شما ما را به رتبه اول روز رساندید. از این بابت سپاسگزارم 🙏 ما شش ماه گذشته را صرف مشاهده نحوه استفاده واقعی تیم‌ها از محصول کردیم و یک الگوی تکراری مشاهده شد: درخواست ویژگی تقریباً هرگز از تخته بازخورد شروع نمی‌شد. آن به عنوان یک مکالمه پشتیبانی در ابزاری دیگر، متصل به رکورد مشتری دیگری شروع می‌شد. پشتیبانی اولین نفری بود که آن را دید، محصول آخرین نفر، و به کسی که درخواست کرده بود اطلاع داده نشد که چه زمانی منتشر شد. بنابراین ما نیمه دیگر را ساختیم. ProductBridge اکنون پشتیبانی و بازخورد بومی هوش مصنوعی روی یک رکورد مشتری واحد است: 💬 چت زنده + صندوق ورودی مشترک — چت و ایمیل با هم، با تخصیص‌ها، SLA و CSAT 🤖 عامل پشتیبانی هوش مصنوعی — مبتنی بر مرکز کمک شما، از طریق ابزارها و جریان‌های کاری به APIهای شما دسترسی دارد و در صورت نیاز به انسان ارجاع می‌دهد 📚 مرکز کمک — یک مقاله را یک بار بنویسید و عامل از آن پاسخ می‌دهد 📊 نظرسنجی‌ها — NPS، CSAT و CES داخل محصول شما، با پاسخ‌هایی که به همان هوش بازخورد می‌ریزند 🔌 سرور MCP — ۳۶ ابزار، بنابراین می‌توانید از Claude، ChatGPT یا Cursor بپرسید مشتریان شما چه می‌خواهند 🔁 همان حلقه بسته از قبل — یک چت پشتیبانی به درخواست ویژگی تبدیل می‌شود، بر اساس پوشش و درآمد امتیازدهی می‌شود و مشتری درخواست‌کننده هنگام انتشار مطلع می‌شود چه چیزی تغییر نکرده: قیمت ثابت. بدون هزینه به ازای هر کاربر، بدون هزینه به ازای هر کاربر ردیابی‌شده، بدون هزینه به ازای هر حل‌شدگی. یک پلن رایگان وجود دارد، اکثر تیم‌ها در حدود ۱۵ دقیقه فعال می‌شوند و اگر روی Canny، Featurebase یا Intercom هستید، ما به شما در مهاجرت کمک می‌کنیم. یک سوال برای شما 👇 چه چیزی در استک پشتیبانی + بازخورد شما هنوز باعث می‌شود به صورت دستی کپی‌پیست کنید؟ معمولاً جایی است که ما چیز بعدی را برای ساختن پیدا می‌کنیم. من تمام روز اینجا هستم تا به سوالات پاسخ دهم 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "همه بهترین‌ها"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "روز خوبی! شما کار شگفت‌انگیزی انجام دادید. آیا امروز توانستید کاربران جدیدی جذب کنید یا بازخورد ارزشمندی دریافت کنید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "یکی از بزرگ‌ترین چالش‌هایی که با آن مواجه شدم، دریافت بازخورد واقعی از کاربران و عمل به آن‌ها بود. ایمیل‌ها و نظرسنجی‌ها ابزارهایی هستند که به آن‌ها تکیه می‌کنم و فکر می‌کنم این محصول به من کمک می‌کند تا جریان کاری‌ام را ساده‌تر کنم. محصول خوبی است. تبریک بابت راه‌اندازی."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "تبریک بابت راه‌اندازی! یک دور سریع زدم و دو چیز فوراً برجسته شد: تنظیم برند نام، رنگ‌ها و حتی لوگوی شما را مستقیماً از URL سایت شما می‌کشد، بنابراین فضای کاری در چند ثانیه کامل به نظر می‌رسد. و بررسی تکراری قبل از ارسال بازخورد جدید یک لمسه خوب است، دقیقاً همان چیزی را انجام می‌دهد که خط «ادغام تکراری‌ها» در صفحه اصلی شما وعده می‌دهد. ساده برای یادگیری و به وضوح خوب فکر شده. مشتاقم ببینم این محصول به کجا می‌رسد!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "تبریک بابت راه‌اندازی! کنجکاو هستم که چگونه از عوامل هوش مصنوعی که شرکت‌های پشتیبانی ارائه می‌دهند متفاوت است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "خوشحالم که می‌بینم تیم گوش داده و پیوستگی بیشتری برای رکوردهای مشتری و بستن حلقه ساخته است. تبریک بابت راه‌اندازی!"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "جالب به نظر می‌رسد، تبریک بابت راه‌اندازی!"
+          }
+        ],
+        "aiReview": "مسئله اصلی این است که داده‌های ارزشمند مشتریان در ابزارهای پراکنده (پشتیبانی، نظرسنجی، تخته بازخورد) قفل شده‌اند و تیم محصول آخرین نفری است که از نیازهای واقعی مشتری باخبر می‌شود. راه‌حل ProductBridge ایجاد یک لایه هوش مصنوعی است که این ابزارها را یکپارچه می‌کند، تکراری‌ها را حذف می‌کند و بازخورد را به درخواست‌های محصول با امتیازدهی بر اساس درآمد تبدیل می‌کند. از نظر معماری، این محصول از یک عامل هوش مصنوعی (Agent) استفاده می‌کند که از طریق پروتکل MCP به ابزارهای مختلف متصل می‌شود و از مرکز کمک به عنوان منبع دانش (Grounding) بهره می‌برد. مدل درآمدی بر اساس قیمت‌گذاری ثابت (Flat Pricing) است که برای تیم‌ها جذاب‌تر از مدل‌های مبتنی بر تعداد کاربر است. نقاط قوت اصلی شامل حلقه بسته (Closed-loop) از دریافت درخواست تا اطلاع‌رسانی انتشار، و یکپارچگی عمیق با ابزارهای AI مدرن مانند Claude و ChatGPT است. نقاط ضعف احتمالی می‌تواند شامل پیچیدگی تنظیمات اولیه برای تیم‌های غیرفنی و وابستگی به کیفیت مرکز کمک باشد. نکته طلایی برای ایران: تمرکز بر «حلقه بسته» و اطلاع‌رسانی به مشتری هنگام انتشار ویژگی، می‌تواند به عنوان یک مزیت رقابتی قوی در بازار ایران که در آن ارتباط مستقیم با مشتری بسیار ارزشمند است، عمل کند.",
+        "iranEquivalent": {
+          "productName": "پل محصول (ProductBridge Iran)",
+          "description": "این پلتفرم یک سیستم یکپارچه برای مدیریت پشتیبانی مشتری و جمع‌آوری بازخورد است که با استفاده از هوش مصنوعی، مکالمات پشتیبانی را به درخواست‌های محصول تبدیل می‌کند. با اتصال به ابزارهای داخلی شرکت و مرکز کمک، تکراری‌ها را حذف کرده و بر اساس ارزش تجاری به آن‌ها امتیاز می‌دهد. این سیستم اطمینان می‌دهد که تیم محصول بر اساس داده‌های واقعی و نه حدس و گمان، نقشه راه خود را تدوین می‌کند.",
+          "marketOpportunity": "بازار ایران با وجود رشد استارتاپ‌ها و شرکت‌های SaaS، با چالش جدی در یکپارچه‌سازی ابزارهای پشتیبانی و بازخورد مواجه است. بسیاری از کسب‌وکارها از ابزارهای پراکنده استفاده می‌کنند و داده‌های ارزشمند مشتریان در این فرآیند گم می‌شود.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "استارتاپ‌های فناوری، شرکت‌های SaaS، فروشگاه‌های آنلاین بزرگ و تیم‌های محصول و پشتیبانی در سازمان‌های متوسط تا بزرگ.",
+          "challenges": [
+            "مقاومت در برابر تغییر فرآیندها و عادت‌های قدیمی تیم‌های پشتیبانی",
+            "پیچیدگی اتصال به APIهای متنوع و قدیمی که در زیرساخت‌های ایرانی رایج هستند"
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه با پلن‌های مختلف بر اساس حجم مکالمات",
+            "خدمات پیاده‌سازی و مهاجرت داده از ابزارهای موجود"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "LangChain",
+            "Redis"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-week-9",
@@ -1562,9 +2109,9 @@
         ]
       },
       {
-        "id": "ph-week-10",
+        "id": "ph-yesterday-5",
         "date": "2026-09-18",
-        "rank": 10,
+        "rank": 5,
         "name": "Sider Omni Sidebar",
         "slug": "sider-omni-sidebar",
         "tagline": "Give every Mac app an Agent Sidebar",
@@ -1617,7 +2164,69 @@
             "user": "[REDACTED]",
             "text": "Congratulations on the launch! Having the bot by the side of the application rather than in another separate chat window is the right approach in my opinion."
           }
-        ]
+        ],
+        "faDescription": "یک دستیار هوش مصنوعی در کنار هر برنامه مک در اختیار شما قرار می‌گیرد. نوار کناری سایدر اومنی محتوای صفحه نمایش شما را می‌بیند و مستقیماً در همان محیط کاری که هستید اقدام می‌کند. شما می‌توانید نتیجه را ببینید و تغییر بعدی را درخواست کنید. هیچ نیازی به کپی کردن یا آپلود فایل وجود ندارد. این برنامه بر پایه GPT-۶ Astra ساخته شده و می‌تواند با اعتبارات فعلی ChatGPT یا Codex شما اجرا شود.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام! ما تیم سازنده سایدر اومنی هستیم. 👋 ما سایدر اومنی را ساختیم تا دستیار هوشمند شما بتواند به کارهایی که در حال انجامشان هستید ملحق شود، با درک کامل زمینه کار و توانایی اقدام روی آن. با باز کردن یک جدول در برنامه Numbers بپرسید: «از این جدول یک نمودار میله‌ای بر اساس منطقه بساز.» 📊 سایدر اومنی جدول روی صفحه را می‌خواند و نمودار را در همان برنامه‌ی Numbers می‌سازد. همان‌طور که آن را بررسی می‌کنید، اصلاحات بیشتری بطلبید: «حالا نرخ بازگشتی بر اساس منطقه را در یک نمودار مجزا نشان بده.» 🔁 شما می‌توانید داده‌های منبع و هر تغییر را در همان محیط کاری ببینید و بدون خروجی گرفتن از داده‌ها یا شروع مجدد، مرحله بعدی را درخواست کنید. همچنین می‌توانید از میان مدل‌های پشتیبانی‌شده از جمله GPT-۶ Astra انتخاب کنید و یک آیکون همراه انتخاب کنید که در تمام برنامه‌ها شما را دنبال کند. ✨ خوشحال می‌شویم بشنویم شما برای چه کاری از سایدر اومنی استفاده خواهید کرد. 💬"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آیا اطلاعات و داده‌ها از فضای محلی دستگاه خارج می‌شوند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "عدم نیاز به خروجی گرفتن از داده‌ها قبل از درخواست نمودار، یک صرفه‌جویی کوچک اما واقعاً کاربردی در زمان است."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "به عنوان کسی که در طول یک روز بین برنامه‌های Pages، Numbers و وب درگیر هستم، زمان زیادی را با سوییچ کردن از این پنجره به آن پنجره برای پرسش از هوش مصنوعی هدر داده‌ام. یک دستیار که درست در کنارم باشد، سند را بخواند و ویرایش‌ها را اعمال کند دقیقاً همان چیزی است که آرزویش را داشتم."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "به عنوان یک کاربر فعال ایمیل در برنامه Mail، تنها عادت بد من سه بار تایپ مجدد پاسخ است. اگر سایدر اومنی بتواند کل ایمیل را بخواند و درست از همان‌جا تایپ کند، چند دقیقه در زمانم صرفه‌جویی می‌شود. آیا از فایل‌های ضمیمه هم پشتیبانی می‌کند یا فقط متن‌های قابل مشاهده را می‌خواند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "برایم سوال است که در نرم‌افزارهایی با رابط کاربری اختصاصی مانند فیگما یا لاجیک پرو چطور کار می‌کند؟ آیا به لیبل‌های دسترسی‌پذیری (Accessibility Labels) در مک‌او‌اس وابسته است یا بیشتر از اسکرین‌شات استفاده می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "مثال نمودار در Numbers برای من کاملاً ملموس بود. من نیمی از زمانم را صرف انتقال اطلاعات بین برنامه‌ها می‌کنم، بنابراین بهبود یک نمودار با پرسیدن مراحل بعدی بسیار جذاب به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک برای عرضه محصول! به نظر من داشتن ربات در کنار برنامه به جای یک پنجره چت مجزا و جداگانه، رویکرد کاملاً درستی است."
+          }
+        ],
+        "aiReview": "### مسئله و راه‌حل\nکاربران هنگام استفاده از ابزارهای هوش مصنوعی مجبورند مداوماً بین پنجره‌های مختلف سوئیچ کنند، داده‌ها را کپی-پیست کنند یا فایل‌ها را آپلود نمایند که موجب اتلاف وقت و ضربه به تمرکز می‌شود. سایدر اومنی با ارائه یک نوار کناری هوشمند روی سیستم‌عامل، مستقیماً محتوای صفحه را تحلیل کرده و بدون نیاز به انتقال داده، تغییرات را درون نرم‌افزارهای فعال اعمال می‌کند.\n\n### معماری و تکنولوژی\nاین ابزار بر پایه ترکیب تحلیل تصویری (Vision/OCR) و خواندن داده‌های دسترسی‌پذیری (Accessibility APIs) سیستم‌عامل توسعه یافته و از مدل‌های پیشرفته بینایی ماشین پشتیبانی می‌کند. همچنین معماری آن امکان استفاده از اعتبارات موجود کاربر در سیستم‌های دیگر (مانند ChatGPT) را فراهم می‌سازد.\n\n### مدل درآمدی\nمدل درآمدی به صورت اشتراکی (SaaS) و یا پرداخت بر اساس میزان مصرف (Pay-as-you-go) با قابلیت اتصال به کلیدهای API شخصی یا حساب‌های موجود کاربری طراحی شده است.\n\n### نقاط قوت\n- یکپارچگی کامل با جریان کاری کاربر بدون نیاز به خروجی گرفتن داده‌ها\n- کاهش چشمگیر زمان اتلافی برای کپی-پیست و جابه‌جایی بین پنجره‌ها\n- امکان استفاده از اعتبارات قبلی کاربر در بسترهای هوش مصنوعی\n\n### نقاط ضعف\n- وابستگی شدید به مجوزها و دسترسی‌های امنیتی سیستم‌عامل\n- چالش‌های عملکردی ممکن در نرم‌افزارهایی با رابط کاربری سفارشی و غیراستاندارد\n- مصرف بالای منابع سیستم و اینترنت در صورت تحلیل مداوم تصویری\n\n### نکته طلایی برای ایران\nبرای موفقیت نمونه مشابه در ایران، علاوه بر بومی‌سازی پشتیبانی از زبان فارسی و OCR فارسی در اسناد، ارائه قابلیت کار با نرم‌افزارهای بومی و حسابداری ایرانی و همچنین امکان اتصال به مدل‌های بومی یا سیستم‌های بدون نیاز به تحریم، می‌تواند مزیت رقابتی فوق‌العاده‌ای ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "دستیار هوشمند نوار کناری (سایدر بومی)",
+          "description": "این محصول یک دستیار هوشمند نوار کناری برای سیستم‌عامل مک است که محتوای صفحه نمایش کاربر را تحلیل می‌کند. ابزار مذکور بدون نیاز به کپی‌پیست یا آپلود، دستورات متنی کاربر را مستقیماً در نرم‌افزارهای فعال اعمال می‌کند. این سامانه با حذف جابه‌جایی بین پنجره‌ها، سرعت و بهره‌وری کاربران حرفه‌ای را به طور چشمگیری افزایش می‌دهد.",
+          "marketOpportunity": "با توجه به رشد روزافزون استفاده از هوش مصنوعی در کارهای اداری و طراحی در ایران، نیاز شدیدی به دستیارهای یکپارچه با سیستم‌عامل وجود دارد. بومی‌سازی چنین ابزاری با پشتیبانی از زبان فارسی و برنامه‌های رایج اداری می‌تواند بازار گسترده‌ای از فریلنسرها و شرکت‌های ایرانی را جذب کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، تحلیل‌گران داده، طراحان UI/UX، تولیدکنندگان محتوا و مدیران اداری",
+          "challenges": [
+            "محدودیت‌ها و مجوزهای سخت‌گیرانه دسترسی امنیتی در سیستم‌عامل مک (Accessibility APIs)",
+            "چالش‌های پردازش تصویر (OCR) و درک دقیق فونت‌ها و متون فارسی در نرم‌افزارهای مختلف",
+            "هزینه بالای فراخوانی APIهای هوش مصنوعی بینایی ماشین (Vision Models) و تحریم‌های مرتبط"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه بر اساس تعداد درخواست‌ها",
+            "ارائه لایسنس نرم‌افزار با قابلیت وارد کردن API Key شخصی کاربر",
+            "فروش پلن‌های سازمانی برای شرکت‌ها با امکان اتصال به مدل‌های بومی یا خصوصی"
+          ],
+          "techStack": [
+            "Swift",
+            "macOS Accessibility API",
+            "Next.js",
+            "PostgreSQL",
+            "Python",
+            "OpenAI Vision API"
+          ],
+          "confidence": 80
+        }
       }
     ],
     "month": [
@@ -1706,7 +2315,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 568,
+        "votes": 569,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2778,7 +3387,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2025-10-30T07:01:00Z",
-        "votes": 962,
+        "votes": 965,
         "websiteUrl": "https://www.producthunt.com/r/4NNTZPVHW5U5GH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
