@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-09-20T00:21:57.256Z",
-  "latestDataset": "2026-09-20.json",
+  "checkedAt": "2026-09-21T00:30:48.807Z",
+  "latestDataset": "2026-09-21.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 37,
-  "backlogAfter": 27,
-  "completedProducts": 371,
-  "missingFaDescription": 8,
-  "missingFaComments": 26,
-  "missingAiReview": 11,
-  "missingIranEquivalent": 8,
-  "failures": []
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 40,
+  "backlogAfter": 32,
+  "completedProducts": 377,
+  "missingFaDescription": 10,
+  "missingFaComments": 30,
+  "missingAiReview": 14,
+  "missingIranEquivalent": 10,
+  "failures": [
+    {
+      "slug": "voicecap",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    }
+  ]
 }
