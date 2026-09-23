@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-09-22T01:07:32.655Z",
-  "latestDataset": "2026-09-22.json",
+  "checkedAt": "2026-09-23T00:55:48.738Z",
+  "latestDataset": "2026-09-23.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
+  "succeeded": 9,
+  "failed": 1,
   "backlogBefore": 43,
-  "backlogAfter": 33,
-  "completedProducts": 386,
-  "missingFaDescription": 10,
-  "missingFaComments": 31,
-  "missingAiReview": 14,
-  "missingIranEquivalent": 10,
-  "failures": []
+  "backlogAfter": 34,
+  "completedProducts": 395,
+  "missingFaDescription": 11,
+  "missingFaComments": 32,
+  "missingAiReview": 15,
+  "missingIranEquivalent": 11,
+  "failures": [
+    {
+      "slug": "turfs",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"از دسکتاپ خود برای نگهداری محتوای سراسر مک در مناطقی مشخص و قابل دسترس استفاده کنید یا آن را کلاً خلوت و مرتب نگه‌دارید. یک «تیرف» (Turf) می‌تواند توسط یک پوش"
+    }
+  ]
 }
