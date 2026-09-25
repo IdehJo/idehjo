@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-09-24T00:50:11.076Z",
-  "latestDataset": "2026-09-24.json",
+  "checkedAt": "2026-09-25T00:46:36.005Z",
+  "latestDataset": "2026-09-25.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 44,
-  "backlogAfter": 36,
-  "completedProducts": 403,
-  "missingFaDescription": 11,
-  "missingFaComments": 33,
-  "missingAiReview": 16,
-  "missingIranEquivalent": 11,
-  "failures": []
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 47,
+  "backlogAfter": 39,
+  "completedProducts": 411,
+  "missingFaDescription": 13,
+  "missingFaComments": 36,
+  "missingAiReview": 18,
+  "missingIranEquivalent": 13,
+  "failures": [
+    {
+      "slug": "naise-ai",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    }
+  ]
 }
