@@ -1,11 +1,29 @@
 {
-  "status": "success",
-  "lastAttemptAt": "2026-09-27T00:47:16.269Z",
+  "status": "failed",
+  "lastAttemptAt": "2026-09-27T23:39:28.069Z",
   "lastSuccessAt": "2026-09-27T00:47:36.847Z",
-  "lastFailureAt": "2026-08-30T05:21:12.905Z",
-  "lastFailureReason": null,
-  "consecutiveFailures": 0,
+  "lastFailureAt": "2026-09-27T23:39:50.471Z",
+  "lastFailureReason": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7",
+  "consecutiveFailures": 3,
   "recentRuns": [
+    {
+      "status": "failed",
+      "startedAt": "2026-09-27T23:39:28.069Z",
+      "finishedAt": "2026-09-27T23:39:50.471Z",
+      "error": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7"
+    },
+    {
+      "status": "failed",
+      "startedAt": "2026-09-27T23:24:19.702Z",
+      "finishedAt": "2026-09-27T23:24:27.988Z",
+      "error": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7 - week: expected at least 5 products, got 0 - month: expected at least 5 products, got 0 - year: expected at least 5 products, got 0"
+    },
+    {
+      "status": "failed",
+      "startedAt": "2026-09-27T23:18:56.827Z",
+      "finishedAt": "2026-09-27T23:19:19.629Z",
+      "error": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7"
+    },
     {
       "status": "success",
       "startedAt": "2026-09-27T00:47:16.269Z",
@@ -106,24 +124,6 @@
       "status": "success",
       "startedAt": "2026-09-19T00:30:26.176Z",
       "finishedAt": "2026-09-19T00:30:51.845Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-18T22:45:35.771Z",
-      "finishedAt": "2026-09-18T22:46:01.921Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-18T00:39:22.172Z",
-      "finishedAt": "2026-09-18T00:39:44.863Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-09-17T22:59:59.097Z",
-      "finishedAt": "2026-09-17T23:00:31.026Z",
       "error": null
     }
   ]
