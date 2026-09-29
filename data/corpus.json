@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:29:34.000Z",
+  "generatedAt": "2026-09-29T02:17:57.501Z",
   "sourceFiles": 50,
   "products": [
     {
@@ -11377,9 +11377,71 @@
       }
     },
     {
-      "id": "ph-week-6",
+      "id": "ph-today-1",
+      "date": "2026-09-28",
+      "rank": 1,
+      "name": "MCP Connectors by Databox",
+      "slug": "mcp-connectors-by-databox",
+      "tagline": "Give your AI Analyst context to explain performance and act",
+      "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
+      "category": "Analytics • SaaS • Artificial Intelligence",
+      "categoryFa": "تحلیل داده • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format",
+        "https://ph-files.imgix.net/83e9c4f9-a8ad-4be6-86e8-68214e6d90b3.png?auto=format",
+        "https://ph-files.imgix.net/773220bb-fd37-448d-a87c-09e642bf9ef2.png?auto=format",
+        "https://ph-files.imgix.net/6f815bc4-9d71-4f47-8839-8203064b9d74.png?auto=format",
+        "https://ph-files.imgix.net/7310613d-2094-4f6f-a855-1b31dbb42185.png?auto=format",
+        "https://ph-files.imgix.net/6997e9b0-7b23-4096-b315-5a552c8000f3.png?auto=format",
+        "https://ph-files.imgix.net/a6cf6360-6f15-469a-ab5e-0a75ee4b2267.png?auto=format",
+        "https://ph-files.imgix.net/8b3809ed-ac47-40b0-b629-defa77e13f25.jpeg?auto=format"
+      ],
+      "maker": "Ziga Potocnik",
+      "makerTitle": "Product | Growth | AI",
+      "featuredAt": "2026-09-28T07:01:00Z",
+      "votes": 382,
+      "websiteUrl": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋I'm Pete from Databox. Today we're launching MCP connectors for Genie, our AI Analyst.Genie analyzes your live metrics and tells you what changed. But a metric alone rarely explains what's going on. Trial signups dip, and the reason is a pricing change your team shipped two weeks ago. Traffic jumps, and behind it is an influencer mentioning you on reddit that none of your analytics can track. The numbers alone can't tell you why something happened. The deal context in your CRM, the tickets in your support desk, the tasks in your project tool and the Slack messages where your team discussed that unexpected Reddit mention. That's the explanation, and it's spread across the tools where work and conversations happen.That context is what separates a generic report from a useful one. Any AI can look at a chart and tell you a number fell 12%. Knowing that two big deals slipped because you didn't anticipate a more extensive legal review, support tickets spiked after a feature release, and the reasons your ad strategy changed mid-month is what makes a report useful and actionable. Until now, getting that kind of answer meant someone gathering the context by hand, every time.MCP connectors give Genie that context. Connect your tools, and Genie pulls from them during analysis, so its answers reflect what's actually happening in your business. In addition to automating reporting, you can also use Databox's new MCP connectors to execute actions in other tools, based on your analysis. Want to shut down an ad campaign once it stops performing? No problem. Just write a skill in Databox that instructs your ad platform to shut down a campaign once frequency hits 5 and conversion rate drops below 1%. Want to update content on a website page after it stops getting search traffic? Easy. Want to create a task for your sales team if they have too many deals open without a next step? Even easier. How it works:One-click connectors: HubSpot, Slack, Notion, Linear, Mixpanel, Semrush, Klaviyo, Ahrefs, and more, with 10+ available at launchCustom connectors: add any MCP server by URL, with OAuth, API key, or bearer token supportPermissions you control: set every tool to always allow, needs approval, or blocked, so Genie only acts where you've said it canSkills & Routines: Write skills that pull data from specific integrations and context from specific MCP servers, automate actions based on the analysis. Run it completely autonomously using Routines.MCP connectors are live today: https://databox.com/If there's a tool you want Genie connected to, tell us below. Thanks for checking it out 🙏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The per-tool approval settings are the part I’d want in any setup like this. Pulling context is one thing, but once an analyst can update a CRM or stop a campaign, “needs approval” can’t be an afterthought."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"it can act on what it finds\" is the line I'd want to poke at. explaining why a metric moved is read-only and low risk, but acting implies it's writing something back into the CRM or support desk, not just reading from it. what does that write path actually look like in practice, is it drafting a task for a human to approve, or can Genie create/update records in the connected tool directly without a person in the loop first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good job, team! Since launch, I managed to setup full end-2-end workflows, leveraging data retrieval via @Langchain MCP, semantic analysis of the conversations and digesting the results in the datasets. Meanwhile, I put agents to work on daily/weekly routines for insights and anomaly tracking. Unlimited data-analysis-related use cases."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Bringing MCP connectors makes the “why behind the numbers” much more useful."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Jakob, on the approval default: how does that work for a Routine running on a schedule, when nobody's in the chat to say OK? I run a few agents unattended on a Mac Mini and that's the case I'd worry about. A routine waiting on approval and a routine that found nothing to do look much the same from the outside, unless one of them says so."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch! When the tools point to different reasons (say the CRM notes blame a legal review but a Slack thread blames pricing), does Genie show both explanations and let you judge, or does it pick the most likely one?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice, congratz! I work in support and from a technical perspective it's awesome that every connector ships with read AND write tools. Write is just turned off until permissions and oversight catch up. This is a cleaner path to v2 than adding support for write access after the fact"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-7",
       "date": "2026-09-25",
-      "rank": 6,
+      "rank": 7,
       "name": "PixVerse R2",
       "slug": "pixverse-r2-2",
       "tagline": "A real-time world model you can explore and change",
@@ -11614,68 +11676,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-28",
-      "rank": 1,
-      "name": "MCP Connectors by Databox",
-      "slug": "mcp-connectors-by-databox",
-      "tagline": "Give your AI Analyst context to explain performance and act",
-      "description": "Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.",
-      "category": "Analytics • SaaS • Artificial Intelligence",
-      "categoryFa": "تحلیل داده • نرم‌افزار ابری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format",
-        "https://ph-files.imgix.net/83e9c4f9-a8ad-4be6-86e8-68214e6d90b3.png?auto=format",
-        "https://ph-files.imgix.net/773220bb-fd37-448d-a87c-09e642bf9ef2.png?auto=format",
-        "https://ph-files.imgix.net/6f815bc4-9d71-4f47-8839-8203064b9d74.png?auto=format",
-        "https://ph-files.imgix.net/7310613d-2094-4f6f-a855-1b31dbb42185.png?auto=format",
-        "https://ph-files.imgix.net/6997e9b0-7b23-4096-b315-5a552c8000f3.png?auto=format",
-        "https://ph-files.imgix.net/a6cf6360-6f15-469a-ab5e-0a75ee4b2267.png?auto=format",
-        "https://ph-files.imgix.net/8b3809ed-ac47-40b0-b629-defa77e13f25.jpeg?auto=format"
-      ],
-      "maker": "Ziga Potocnik",
-      "makerTitle": "Product | Growth | AI",
-      "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 377,
-      "websiteUrl": "https://www.producthunt.com/r/G6WOTY7G4NBGJP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! 👋I'm Pete from Databox. Today we're launching MCP connectors for Genie, our AI Analyst.Genie analyzes your live metrics and tells you what changed. But a metric alone rarely explains what's going on. Trial signups dip, and the reason is a pricing change your team shipped two weeks ago. Traffic jumps, and behind it is an influencer mentioning you on reddit that none of your analytics can track. The numbers alone can't tell you why something happened. The deal context in your CRM, the tickets in your support desk, the tasks in your project tool and the Slack messages where your team discussed that unexpected Reddit mention. That's the explanation, and it's spread across the tools where work and conversations happen.That context is what separates a generic report from a useful one. Any AI can look at a chart and tell you a number fell 12%. Knowing that two big deals slipped because you didn't anticipate a more extensive legal review, support tickets spiked after a feature release, and the reasons your ad strategy changed mid-month is what makes a report useful and actionable. Until now, getting that kind of answer meant someone gathering the context by hand, every time.MCP connectors give Genie that context. Connect your tools, and Genie pulls from them during analysis, so its answers reflect what's actually happening in your business. In addition to automating reporting, you can also use Databox's new MCP connectors to execute actions in other tools, based on your analysis. Want to shut down an ad campaign once it stops performing? No problem. Just write a skill in Databox that instructs your ad platform to shut down a campaign once frequency hits 5 and conversion rate drops below 1%. Want to update content on a website page after it stops getting search traffic? Easy. Want to create a task for your sales team if they have too many deals open without a next step? Even easier. How it works:One-click connectors: HubSpot, Slack, Notion, Linear, Mixpanel, Semrush, Klaviyo, Ahrefs, and more, with 10+ available at launchCustom connectors: add any MCP server by URL, with OAuth, API key, or bearer token supportPermissions you control: set every tool to always allow, needs approval, or blocked, so Genie only acts where you've said it canSkills & Routines: Write skills that pull data from specific integrations and context from specific MCP servers, automate actions based on the analysis. Run it completely autonomously using Routines.MCP connectors are live today: https://databox.com/If there's a tool you want Genie connected to, tell us below. Thanks for checking it out 🙏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "\"it can act on what it finds\" is the line I'd want to poke at. explaining why a metric moved is read-only and low risk, but acting implies it's writing something back into the CRM or support desk, not just reading from it. what does that write path actually look like in practice, is it drafting a task for a human to approve, or can Genie create/update records in the connected tool directly without a person in the loop first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good job, team! Since launch, I managed to setup full end-2-end workflows, leveraging data retrieval via @Langchain MCP, semantic analysis of the conversations and digesting the results in the datasets. Meanwhile, I put agents to work on daily/weekly routines for insights and anomaly tracking. Unlimited data-analysis-related use cases."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Bringing MCP connectors makes the “why behind the numbers” much more useful."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Jakob, on the approval default: how does that work for a Routine running on a schedule, when nobody's in the chat to say OK? I run a few agents unattended on a Mac Mini and that's the case I'd worry about. A routine waiting on approval and a routine that found nothing to do look much the same from the outside, unless one of them says so."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch! When the tools point to different reasons (say the CRM notes blame a legal review but a Slack thread blames pricing), does Genie show both explanations and let you judge, or does it pick the most likely one?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice, congratz! I work in support and from a technical perspective it's awesome that every connector ships with read AND write tools. Write is just turned off until permissions and oversight catch up. This is a cleaner path to v2 than adding support for write access after the fact"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "We spent a good chunk of time on connector management, so seeing people use the permission settings is a nice payoff. My setup for Notion: read tools on Always allow, everything else on Needs approval. Fast for lookups, still asks before changing anything."
-        }
-      ]
     },
     {
       "id": "ph-week-10",
@@ -14232,6 +14232,124 @@
       }
     },
     {
+      "id": "ph-yesterday-1",
+      "date": "2026-09-27",
+      "rank": 1,
+      "name": "Humalike x GTA RP",
+      "slug": "humalike-x-gta-rp",
+      "tagline": "AI NPCs that talk, remember & act on their own",
+      "description": "A new roleplay experience. Build characters and entire AI societies with memory, personality and voice that recognize players, form relationships and react to everything around them. Live on Poland's largest roleplay server. Now, add it to yours.",
+      "category": "Developer Tools • Artificial Intelligence • Games",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • بازی",
+      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a81e2367-4dfc-45b4-a1a3-781f43173b99.png?auto=format",
+        "https://ph-files.imgix.net/f3338a86-4498-44d6-97ea-06b0abf251d0.png?auto=format",
+        "https://ph-files.imgix.net/e99af53d-7507-46a9-81a3-4040c4c70dfe.png?auto=format",
+        "https://ph-files.imgix.net/a89112ea-4bc9-4175-801b-8290cc736e62.png?auto=format",
+        "https://ph-files.imgix.net/2de2a6d2-f525-4de9-b4b2-e627ca7f659f.png?auto=format",
+        "https://ph-files.imgix.net/e7b7d5f0-77dd-40c5-b870-aff6a28a466e.png?auto=format",
+        "https://ph-files.imgix.net/847d778a-bf0f-4662-93fd-d4f721f7abca.png?auto=format",
+        "https://ph-files.imgix.net/05c79e34-390f-4dbf-beb5-ea606dc4c066.jpeg?auto=format"
+      ],
+      "maker": "Martí Carmona Serrat",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 345,
+      "websiteUrl": "https://www.producthunt.com/r/V63RWUYZIRKDTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Is it just me or documentation link is not accessible?I might be your first customer. Please help me with this! @Humalike"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of NPCs reacting to clothing, masks, weapons, gunfire, and server events is seriously cool. What inspired you to build this? 😀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats, team! Can custom NPC groups have their own shared history or relationships with each other or how does it work?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats! What’s the memory window? How much can an NPC member about an individual player across different sessions?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "AI NPCs that actually remember players and build relationships could completely change the feel of RP servers. This is probably the best implementation of AI in gaming 🔥"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally, NPCs that feel like participants in the world rather than scripted dialogue boxes. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’d love to see what happens when multiple AI NPCs with different personalities interact with each other. 🤣"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The relationship memory is something I would like to test. Does an NPC actually treat a returning player differently versus a new one?"
+        }
+      ],
+      "faDescription": "یک تجربه جدید نقش‌آفرینی. می‌توانید شخصیت‌ها و کل جامعه‌های هوش مصنوعی را با حافظه، شخصیت و صدایی که بازیکنان را شناسایی می‌کنند، روابط می‌سازند و به همه چیز اطرافشان واکنش نشان می‌دهند، بسازید. این سرویس هم‌اکنون بر روی بزرگ‌ترین سرور نقش‌آفرینی لهستان فعال است. حالا می‌توانید این قابلیت را به سرور خود اضافه کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "آیا فقط من هستم یا لینک مستندات قابل دسترسی نیست؟ ممکن است اولین مشتری شما باشم. لطفاً در این زمینه کمک کنید! @Humalike"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایدهٔ این‌که NPCها به لباس‌ها، ماسک‌ها، سلاح‌ها، شلیک‌ها و رویدادهای سرور واکنش نشان دهند، واقعاً جالب است. چه چیزی الهام‌بخش ساخت این محصول بود؟ 😀"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به تیم! آیا گروه‌های سفارشی NPC می‌توانند تاریخچه یا روابط مشترکی با یکدیگر داشته باشند یا این چطور کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک! بازهٔ حافظه چقدر است؟ یک NPC تا چه حد می‌تواند دربارهٔ یک بازیکن خاص در جلسات مختلف به یاد داشته باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "NPCهای هوش مصنوعی که واقعاً بازیکنان را به خاطر می‌سپارند و روابط می‌سازند می‌توانند حس سرورهای نقش‌آفرینی را به‌طور کامل تغییر دهند. این احتمالاً بهترین پیاده‌سازی هوش مصنوعی در بازی‌هاست 🔥"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "سرانجام، NPCهایی که حس می‌شوند شرکت‌کنندگان واقعی در جهان هستند نه جعبه‌های گفتگوی اسکریپت‌شده. تبریک!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "دوست دارم ببینم وقتی چندین NPC هوش مصنوعی با شخصیت‌های متفاوت با هم تعامل می‌کنند چه می‌شود. 🤣"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "حافظهٔ روابط چیزی است که می‌خواهم آزمایش کنم. آیا یک NPC واقعاً بازیکن بازگشتی را نسبت به بازیکن جدید متفاوت رفتار می‌کند؟"
+        }
+      ],
+      "aiReview": "مسئله: سرورهای نقش‌آفرینی ایرانی با محتوای پیش‌فرض و دیالوگ‌های اسکریپت‌شده جذابیت کافی ندارند و تعامل بازیکن با جهان محدود است. راه‌حل: ارائهٔ پلتفرم Humalike x GTA RP که با هوش مصنوعی NPCهای با حافظه، شخصیت و صدا می‌سازد و قادر به تشخیص لباس، سلاح و رویدادهای سرور است. معماری و تکنولوژی: لایهٔ پیش‌پردازش صوتی و متنی با مدل‌های بزرگ زبان (LLM) بر بستر سرویس‌های ابری، ذخیره‌سازی حافظهٔ کوتاه‌مدت در PostgreSQL و کش Redis، رابط کاربری با Next.js برای مدیریت NPCها. مدل درآمدی: ترکیب اشتراک ماهانه برای دسترسی به API و فروش لایسنس سفارشی برای سرورهای بزرگ؛ همچنین امکان فروش افزونه‌های خاص (مثلاً شخصیت‌های تاریخی). نقاط قوت: تجربهٔ تعاملی واقعی، قابلیت مقیاس‌پذیری، یکپارچگی با سرورهای موجود و قابلیت شخصی‌سازی بالا. نقاط ضعف: نیاز به زیرساخت‌های پردازشی قوی، هزینهٔ پردازش مداوم و چالش‌های قانونی مرتبط با محتوای تولیدشده توسط AI در ایران. نکتهٔ طلایی برای بازار ایران: تمرکز بر ارائهٔ نسخهٔ محلی با مدل‌های زبان فارسی بهینه‌شده و استفاده از زیرساخت‌های ابری داخلی (مانند ابر آروان) برای کاهش هزینهٔ پهنای باند و اطمینان از سازگاری با قوانین دادهٔ ملی.",
+      "iranEquivalent": {
+        "productName": "Humalike x GTA RP",
+        "description": "یک پلتفرم هوش مصنوعی برای ساخت NPCهای پویا در سرورهای نقش‌آفرینی. این NPCها با حافظه، شخصیت و صدا می‌توانند بازیکنان را شناسایی و روابط طولانی‌مدت برقرار کنند. امکان افزودن این سرویس به سرورهای داخلی نیز فراهم است.",
+        "marketOpportunity": "بازار بازی‌های نقش‌آفرینی آنلاین در ایران با رشد سریع کاربران جوان مواجه است. استفاده از هوش مصنوعی برای ارتقای تجربهٔ بازی می‌تواند تمایز قابل توجهی ایجاد کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "سرورهای نقش‌آفرینی آنلاین، استودیوهای بازی‌سازی کوچک و متوسط، و جامعهٔ گیمینگ ایرانی که به دنبال تجربهٔ تعاملی پیشرفته هستند.",
+        "challenges": [
+          "محدودیت‌های زیرساختی برای پردازش زندهٔ هوش مصنوعی",
+          "پذیرش فرهنگی و قانونی محتواهای تولیدشده توسط هوش مصنوعی در ایران"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای دسترسی به API و ابزارهای سفارشی‌سازی",
+          "فروش لایسنس‌های سفارشی برای سرورهای بزرگ با قابلیت‌های پیشرفته"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-08-09",
       "rank": 8,
@@ -14713,6 +14831,122 @@
           "Open Policy Agent (OPA)"
         ],
         "confidence": 80
+      }
+    },
+    {
+      "id": "ph-yesterday-2",
+      "date": "2026-09-27",
+      "rank": 2,
+      "name": "GPT-6 Sol & Luna",
+      "slug": "gpt-6-sol-luna",
+      "tagline": "Frontier AI intelligence, now at half the price",
+      "description": "OpenAI expands the GPT-6 family with Sol and Luna with faster, cheaper models trained like Astra. 50% lower API pricing, near-Astra factuality/coding/computer use gains, better prompt caching (90% off cached reads), and alignment improvements. Live in ChatGPT Work, Codex, and via API.",
+      "category": "API • Developer Tools • Artificial Intelligence",
+      "categoryFa": "API • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6d11edf5-395b-4e4a-a2d7-ae6ea133ca08.jpeg?auto=format",
+        "https://ph-files.imgix.net/61b6965e-a19e-44e1-bf46-19c4d5f97b80.png?auto=format",
+        "https://ph-files.imgix.net/51a3c089-3aed-4dfb-9beb-df7cdca20157.png?auto=format",
+        "https://ph-files.imgix.net/e0666992-9a02-4084-b0c8-1126c5b8dd54.png?auto=format",
+        "https://ph-files.imgix.net/517eb865-4566-40a8-854c-460e8b1a106d.png?auto=format",
+        "https://ph-files.imgix.net/1b896a86-4365-42f6-be76-7987f1b09a1a.png?auto=format"
+      ],
+      "maker": "Sam Altman",
+      "makerTitle": "President, YC",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 335,
+      "websiteUrl": "https://www.producthunt.com/r/TYGMCTMYJRKMMV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "GPT-6 Sol and Luna extend OpenAI's newest model family below Astra, trained the same way but tuned for speed and cost.What makes it different: Sol beats Claude Opus 5 on Automation Bench at roughly 9% of the cost per task, and matches Claude Fable 5.1 on DeepSWE at about 80% lower cost. Both models also carry over Astra's alignment gains, including fewer misleading claims about their own coding work.Key features:50% lower API pricing than GPT-5.6 equivalentsPrompt caching improvements, 90% discount on cached input readsNear-Astra factuality, coding, and computer-use performanceWho it's for: developers and teams running high-volume or long-running agent workflows who need frontier-level performance without frontier-level cost.Try it via ChatGPT Work, Codex, or through the APIP.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Chat has been such a help with getting all my tasks organized and is a very helpful assistant to invest in. I've explored just a few other agents but none seem to get it the way chat does."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The 90% discount on cached reads may be the bigger deal here than the headline price cut. Long-running agent work keeps pulling in the same project context, so that cost adds up quietly."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "So far we’re at 5.6 sols, but if the 6-sol version turns out stronger and significantly cheaper... I am totally beyond excited! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Intereting to see GPT 6 Sol and Luna focused on different use cases the lower cost and faster models could be really useful for everyday AI workflows"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the \"9% of the cost per task\" number is the headline but for us the thing that actually matters is tokens/sec, not cost per token. we run voice agents where a model that's cheaper but 200ms slower to first token is a worse deal than a pricier one that's fast, since the caller notices the silence way before they'd notice the bill. anyone tried Sol specifically in a low-latency streaming setup yet, or is the benchmarking so far all batch/offline style tasks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Day by day it's getting complete bullshit, useless, previously I was saying everybody that chatgpt is good but it's too bad more and more less than a child memory. useless specially now a days just after astra is launched. chat gpt just moved normal chat gpt veriosn to astra and made normal chatgpt version is bullshit ever no body can expect this. it's not able to change the font weight from a single html and css file. and so on i have seen. you guys are not fixing just launching new version. update should be fixed not to create a completely new version which has so many bugs. The chatgpt says always yes even if something is totally incorrect. is this you guys have Artificial intelligence mind??"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the prompt caching for Sol and Luna work the same way as it does for Astra?"
+        }
+      ],
+      "faDescription": "شرکت OpenAI خانواده مدل‌های GPT-۶ را با معرفی دو مدل جدید به نام‌های Sol و Luna گسترش داده است که مانند مدل Astra آموزش دیده‌اند اما برای سرعت بیشتر و هزینه کمتر بهینه‌سازی شده‌اند. این مدل‌های پیشتاز هوش مصنوعی با ۵۰ درصد کاهش قیمت در بخش API ارائه می‌شوند. علاوه بر این، ارتقای قابل توجهی در دقت واقع‌گرایی، کدنویسی، تعامل با رایانه و سیستم حافظه پنهان پرامپت با ۹۰ درصد تخفیف برای خواندن داده‌های کش‌شده ایجاد شده است. این مدل‌ها همچنین بهبودهای چشمگیری در بخش ترازسازی و ایمنی داشته‌اند و هم‌اکنون در ChatGPT Work، Codex و از طریق API در دسترس هستند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "مدل‌های GPT-۶ Sol و Luna خانواده جدیدترین مدل‌های OpenAI را به سطحی پایین‌تر از Astra گسترش می‌دهند؛ آنها با همان روش آموزش دیده‌اند اما برای سرعت و هزینه بهینه‌سازی شده‌اند. آنچه این مدل‌ها را متمایز می‌کند: مدل Sol بنچمارک Automation Bench را با تنها حدود ۹ درصد هزینه به ازای هر وظیفه نسبت به Claude Opus ۵ شکست می‌دهد و در DeepSWE با حدود ۸۰ درصد هزینه کمتر با Claude Fable ۵.۱ برابری می‌کند. هر دو مدل پیشرفت‌های ترازسازی Astra مانند ادعاهای گمراه‌کننده کمتر درباره کدنویسی خود را به ارث برده‌اند. ویژگی‌های کلیدی: ۵۰ درصد قیمت API پایین‌تر نسبت به معادل‌های GPT-۵.۶، بهبود حافظه پنهان پرامپت با ۹۰ درصد تخفیف روی ورودی‌های کش‌شده، و عملکرد نزدیک به Astra در واقع‌گرایی، کدنویسی و استفاده از رایانه. مخاطبان هدف: توسعه‌دهندگان و تیم‌هایی که ایجنت‌های سنگین یا طولانی‌مدت اجرا می‌کنند و به عملکرد هوش مصنوعی پیشتاز بدون هزینه‌های سنگین نیاز دارند. آن را از طریق ChatGPT Work، Codex یا API امتحان کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چت‌جی‌پتی در سازماندهی تمام کارهایم بسیار کمک‌کننده بوده و یک دستیار بسیار ارزشمند برای سرمایه‌گذاری است. من چند ایجنت دیگر را امتحان کرده‌ام اما هیچ‌کدام مثل چت‌جی‌پتی متوجه منظور من نمی‌شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تخفیف ۹۰ درصدی روی ورودی‌های کش‌شده ممکن است حتی از کاهش قیمت اصلی هم اهمیت بیشتری داشته باشد. کارهای ایجنتی طولانی‌مدت مدام همان کانتکست پروژه را بازخوانی می‌کنند، بنابراین این هزینه‌ها به شکلی چراغ‌خاموش انباشته می‌شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تا اینجای کار ما روی ۵.۶ سول هستیم، اما اگر نسخه ۶ سولی قوی‌تر و به‌طور قابل توجهی ارزان‌تر باشد... من واقعاً بی‌نهایت هیجان‌زده‌ام! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "جالب است که می‌بینیم GPT ۶ Sol و Luna روی کاربردهای مختلف تمرکز کرده‌اند؛ مدل‌های ارزان‌تر و سریع‌تر می‌توانند برای جریان‌های کاری روزمره هوش مصنوعی بسیار مفید باشند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "عدد «۹ درصد هزینه به ازای هر وظیفه» جذاب است، اما برای ما آنچه واقعاً اهمیت دارد تعداد توکن بر ثانیه است، نه هزینه بر توکن. ما ایجنت‌های صوتی را اجرا می‌کنیم که در آن‌ها مدلی که ارزان‌تر اما ۲۰۰ میلی‌ثانیه در ارائه اولین توکن کندتر باشد معامله بدتری است نسبت به مدل گران‌تری که سریع است، چرا که تماس‌گیرنده سکوت را خیلی زودتر از صورت‌حساب متوجه می‌شود. آیا کسی Sol را در یک ساختار استریمینگ با تاخیر کم امتحان کرده یا تمام بنچمارک‌ها تا کنون فقط از نوع وظایف دسته‌ای و آفلاین بوده‌اند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "روز به روز همه‌چیز چرت‌تر و بی‌مصرف‌تر می‌شود. قبلاً به همه می‌گفتم چت‌جی‌پتی خوب است اما الان خیلی بد شده و حافظه‌اش از یک بچه هم کمتر است. به‌خصوص این روزها دقیقاً بعد از عرضه Astra بی‌مصرف شده است. چت‌جی‌پتی نسخه معمولی را به Astra منتقل کرد و نسخه معمولی را بی‌ارزش کرد، هیچ‌کس انتظارش را نداشت. حتی نمی‌تواند وزن فونت را از یک فایل HTML و CSS ساده تغییر دهد و موارد مشابه دیگر. شما بچه‌ها به جای حل مشکلات فقط نسخه‌های جدید ارائه می‌دهید. آپدیت باید باگ‌ها را رفع کند نه اینکه یک نسخه کاملاً جدید با این همه باگ بسازد. چت‌جی‌پتی همیشه می‌گوید بله حتی اگر چیزی کاملاً غلط باشد. آیا این همان ذهن هوش مصنوعی شماست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "آیا سیستم حافظه پنهان پرامپت (Prompt Caching) برای Sol و Luna دقیقاً مثل Astra کار می‌کند؟"
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** توسعه‌دهندگان ایجنت‌های هوشمند همواره با چالش هزینه‌های بالای زیرساختی و تاخیر در پاسخ‌دهی روبه‌رو هستند. معرفی مدل‌های GPT-۶ Sol & Luna با کاهش ۵۰ درصدی قیمت API و تخفیف ۹۰ درصدی روی پرامپت‌های کش‌شده، مسئله هزینه‌های کمرشکن اتوماسیون‌های طولانی‌مدت را بدون افت قابل‌توجه کیفیت حل کرده است.\n\n**معماری و تکنولوژی:** این مدل‌ها بر پایه معماری آموزشی Astra توسعه یافته‌اند اما برای ارائه حداکثر سرعت و کارایی قیمتی تنظیم شده‌اند. ارتقای ترازسازی (Alignment) جهت کاهش ادعاهای کاذب در کدنویسی و بهبود ابزارهای تعامل با رایانه (Computer Use) از ویژگی‌های بارز معماری آنهاست.\n\n**مدل درآمدی:** ارائه مدل مبتنی بر مصرف با ۵۰ درصد قیمت پایین‌تر، استراتژی OpenAI برای جذب حجم بالاتری از فراخوان‌های API و تثبیت موقعیت خود در بازار ایجنت‌های خودکار است.\n\n**نقاط قوت:** کاهش فوق‌العاده هزینه اجرا در پروژه‌های بزرگ، بهینه‌سازی بی‌نظیر سیستم Prompt Caching، و عملکرد رقابتی بالا نسبت به مدل‌های گران‌قیمتی مثل Claude Opus ۵.\n\n**نقاط ضعف:** دغدغه‌های مربوط به تاخیر زمانی دریافت اولین توکن (Time-to-first-token) برای کاربردهای زنده صوتی و نارضایتی برخی کاربران از تغییرات رفتاری مدل‌ها در نسخه‌های جدید.\n\n**نکته طلایی برای ایران:** استارتاپ‌های ایرانی با معماری درست سیستم‌های خود حول سیستم Prompt Caching این مدل‌ها می‌توانند کانتکست‌های ثابت فارسی و پرامپت‌های اولیه را کش کرده و هزینه‌های ارزی API خود را تا ۹۰ درصد در فراخوان‌های تکراری کاهش دهند.",
+      "iranEquivalent": {
+        "productName": "پلتفرم مدیریت و بهینه‌سازی زیرساخت‌های هوش مصنوعی «سایه و آفتاب»",
+        "description": "این پلتفرم یک زیرساخت میان‌افزار بومی برای کاهش هزینه‌های پردازش مدل‌های زبانی بزرگ و افزایش سرعت ایجنت‌های هوشمند در کسب‌وکارهای ایرانی است. سیستم با ذخیره‌سازی هوشمند کانتکست‌های تکراری و مدیریت کشینگ پرامپت‌ها، هزینه‌های استعلام API را تا حد چشمگیری کاهش می‌دهد. همچنین ابزارهای تخصصی جهت پیاده‌سازی ایجنت‌های خودکار کارهای روزمره و پشتیبانی صوتی را ارائه می‌کند.",
+        "marketOpportunity": "با توجه به افزایش قیمت ارز و هزینه‌های سنگین زیرساخت‌های هوش مصنوعی برای شرکت‌های ایرانی، تقاضای بسیار بالایی برای ابزارهای کاهش هزینه API وجود دارد. همچنین توسعه ایجنت‌های پشتیبانی و صوتی کم‌تاخیر در استارتاپ‌های بومی یک بازار بکر و پررشد محسوب می‌شود.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، استارتاپ‌های حوزه هوش مصنوعی، شرکت‌های ارائه دهنده خدمات پشتیبانی و ایجنت‌های صوتی، و سازمان‌های دارای اتوماسیون داده‌محور",
+        "challenges": [
+          "محدودیت‌ها و تحریم‌های بین‌المللی در دسترسی مستقیم به APIهای پیشرفته",
+          "چالش تاخیر زمانی (Latency) در ایجنت‌های صوتی تعاملی به دلیل فاصله جغرافیایی از سرورها"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه مبتنی بر میزان حجم پردازش و میزان صرفه‌جویی در هزینه API",
+          "تقديم پکیج‌های سفارشی‌سازی شده سازمانی برای پیاده‌سازی ایجنت‌های اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 85
       }
     },
     {
@@ -18460,6 +18694,122 @@
       }
     },
     {
+      "id": "ph-yesterday-3",
+      "date": "2026-09-27",
+      "rank": 3,
+      "name": "Cuey",
+      "slug": "cuey-2",
+      "tagline": "Compare ChatGPT, Claude & Gemini answers in one tab.",
+      "description": "AI gives you wrong answers in the same confident tone as right ones. Cuey cross-checks your AI's answer against ChatGPT, Claude, Gemini, and 30+ other models. It surfaces where they disagree and what your model missed. No copy-pasting between tabs, no repeating yourself, no extra subscriptions. Get a second opinion before you get burned by the first.",
+      "category": "Productivity • Artificial Intelligence • Tech",
+      "categoryFa": "بهره‌وری • هوش مصنوعی • Tech",
+      "url": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/61a07363-27c9-4d56-beb4-537a6f130596.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b7b0db09-1d8f-43bf-96b6-7deb3b3453c8.png?auto=format",
+        "https://ph-files.imgix.net/9c2dec9d-a8d2-43e6-9125-d5efe82d1d2f.png?auto=format",
+        "https://ph-files.imgix.net/551a7d11-a32d-479b-a113-14b744ffc31b.png?auto=format",
+        "https://ph-files.imgix.net/71e6b29c-1049-4306-b9fa-7d53b99039e9.png?auto=format",
+        "https://ph-files.imgix.net/d3f4367f-4faf-4b6f-b77d-7d975640779c.png?auto=format",
+        "https://ph-files.imgix.net/af0f48d3-950a-4e0d-949c-724c8990295c.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 290,
+      "websiteUrl": "https://www.producthunt.com/r/KQXSDK666ISFA3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋Longtime hunter, first-time maker here. After years of discovering products on PH, it feels pretty special to help launch Cuey here today.We’ve probably all had that moment when we’re about to act on an AI answer that sounds completely convincing…until we realize it’s wrong. The problem is that getting a more trustworthy answer still takes a surprising amount of work: copying prompts across models, comparing their responses, and repeatedly providing the same context.We built Cuey to make that power-user workflow easier, and in many cases automatic.Cuey is a Chrome extension that works alongside ChatGPT, Claude, and Gemini. It compares responses from leading models in the background, highlights meaningful disagreements, and surfaces when another model may have a better answer. It also carries your context across AI tools, so every second opinion considers the information that actually matters.The idea is simple: get more confidence in the AI you already use, without changing how you work.We’d love for you to install the extension, try it out and tell us where it helps or falls short.Curious: when AI gives you an answer you’re not sure about, how do you check it today?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really enjoyed doing mission critical research across models using Cuey."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, @kaz, @mani_kabir, and the team! As the co-founder of @HeyNews , I’m especially interested in tools that help people check AI answers before publishing. Bringing a second opinion into the same tab makes that much easier.What’s a recent example where Cuey caught something the original model missed that changed someone’s decision? Would love to see one."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "love this idea. makes it easy to catch when models blatantly lie to you. if i had a penny... congrats on the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is such a useful idea for avoiding confident ai mistakes having multiple models cross check the answer makes a lot of sense"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Before the night is over, wanted to take a lesson learned from @rohanrecommends and add some search bait ;) Cuey is a Chrome extension that helps you compare answers across ChatGPT, Claude, Gemini, and other leading AI models in one place.What makes it different:Cuey helps you get a better-informed answer without bouncing between tabs. It compares responses in the background, surfaces meaningful disagreements and brings in additional perspectives when they’re likely to be useful.It can also carry your context across AI tools, so you don’t have to keep starting from scratch.Key features:Ask once and compare answers across multiple leading AI modelsSurface meaningful disagreements and blind spots in AI answers fasterBring in additional perspectives when they can improve your answerCarry your personal context across multiple toolsWho it’s for:Anyone who relies on AI answers for work or everyday questions and wants a better-informed second opinion before acting on an answer. More common questions addressed here: https://cuey.io/cuey-faq Try Cuey from the Chrome Web Store or get started at cuey.io."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations 👏 I am certainly going to try it.I remember a friend told me that most of the AI tools mostly gives confident answers. Inspired by his thoughts I created a multi-LLM validation and fact checking MCP server. Ours is in the private domain. We use it for research and fact validation. Certainly going to use yours."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Just tried this and it's excellent. I'm a very heavy AI user and I regularly find myself bouncing between ChatGPT and Claude to sanity-check important answers. Cuey basically turned that whole workflow into one click - and on a couple of more nuanced questions, it surfaced differences between the models that were genuinely useful. Really polished implementation of a problem I didn't realize could be solved this seamlessly. Congrats on the launch!"
+        }
+      ],
+      "faDescription": "هوش مصنوعی اغلب پاسخ‌های نادرست را با همان لحن اطمینان‌بخش پاسخ‌های صحیح ارائه می‌دهد. کیوی (Cuey) پاسخ مدل هوش مصنوعی شما را به‌صورت خودکار با چت‌جی‌پی‌تی، کلود، جمنی و بیش از ۳۰ مدل دیگر مقایسه می‌کند. این ابزار دقیقاً نشان می‌دهد که کجاها اختلاف‌نظر وجود دارد و مدل اصلی شما چه نکاتی را از قلم انداخته است. دیگر نیازی به کپی‌پیست بین تب‌ها، تکرار اطلاعات یا خرید اشتراک‌های اضافی نیست تا پیش از متضرر شدن، یک نظر دوم معتبر دریافت کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت! 👋 من سال‌هاست شکارچی فعال اینجایم و اولین بار است که به‌عنوان سازنده محصولی را اینجا راه‌اندازی می‌کنم. پس از سال‌ها کشف محصولات در این پلتفرم، احساس خاصی دارم که امروز کیوی را اینجا معرفی می‌کنم. احتمالاً همه ما لحظه‌ای را تجربه کرده‌ایم که می‌خواستیم بر اساس پاسخ کاملاً متقاعدکننده هوش مصنوعی اقدام کنیم... تا اینکه متوجه شدیم اشتباه است. مشکل اینجاست که دریافت پاسخ قابل‌اعتمادتر هنوز نیاز به تلاش قابل‌توجهی دارد: کپی کردن پرامپت‌ها بین مدل‌ها، مقایسه پاسخ‌ها و بارها و بارها ارائه همان زمینه. ما کیوی را برای ساده‌سازی این فرآیند کاربردی و در بسیاری از موارد خودکار کردن آن ساختیم. کیوی یک افزونه کروم است که در کنار چت‌جی‌پی‌تی، کلود و جمنی کار می‌کند. این افزونه پاسخ‌ها را در پس‌زمینه مقایسه می‌کند، اختلاف‌نظرهای معنادار را برجسته می‌کند و زمانی که مدل دیگری ممکن است پاسخ بهتری داشته باشد، آن را نشان می‌دهد. همچنین زمینه (Context) شما را بین ابزارهای هوش مصنوعی منتقل می‌کند تا هر نظر دوم بر اساس اطلاعاتی که واقعاً اهمیت دارند در نظر گرفته شود. ایده ساده است: اعتماد بیشتری به هوش مصنوعی‌ای که از آن استفاده می‌کنید داشته باشید، بدون اینکه نحوه کار خود را تغییر دهید. خوشحال می‌شویم افزونه را نصب کنید، امتحان کنید و بگویید کجاها کمک‌کننده است یا کجاها کوتاه می‌آید. کنجکاویم بدانم: وقتی هوش مصنوعی پاسخی می‌دهد که مطمئن نیستید، امروز چطور آن را بررسی می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "از انجام تحقیقات حیاتی و مهم بین مدل‌ها با استفاده از کیوی بسیار لذت بردم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به راه‌اندازی، @kaz، @mani_kabir و تیم! به‌عنوان هم‌بنیان‌گذار @HeyNews، به‌طور خاص به ابزارهایی علاقه‌مندم که به مردم کمک می‌کنند پاسخ‌های هوش مصنوعی را قبل از انتشار بررسی کنند. آوردن یک نظر دوم در همان تب، این کار را بسیار آسان‌تر می‌کند. آیا مثال اخیری وجود دارد که کیوی چیزی را که مدل اصلی از قلم انداخته بود کشف کرده و تصمیم کسی را تغییر داده باشد؟ دوست دارم یکی از آن‌ها را ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این ایده را دوست دارم. باعث می‌شود راحت بفهمیم وقتی مدل‌ها آشکارا دروغ می‌گویند. اگر یک سنت هم داشتم... تبریک بابت راه‌اندازی."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ایده بسیار کاربردی برای اجتناب از اشتباهات با اطمینان هوش مصنوعی است. داشتن چندین مدل برای چک‌کردن پاسخ منطقی به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "قبل از پایان شب، می‌خواستم یک درس آموخته از @rohanrecommends بگیرم و کمی برای جستجو بهینه‌سازی کنم ;) کیوی یک افزونه کروم است که به شما کمک می‌کند پاسخ‌ها را در یک مکان بین چت‌جی‌پی‌تی، کلود، جمنی و سایر مدل‌های پیشرو هوش مصنوعی مقایسه کنید. چه چیزی آن را متفاوت می‌کند: کیوی به شما کمک می‌کند بدون پرش بین تب‌ها، پاسخ آگاهانه‌تری دریافت کنید. این ابزار پاسخ‌ها را در پس‌زمینه مقایسه می‌کند، اختلاف‌نظرهای معنادار را برجسته می‌کند و زمانی که احتمالاً مفید است، دیدگاه‌های اضافی را وارد می‌کند. همچنین می‌تواند زمینه شخصی شما را بین چندین ابزار منتقل کند تا مجبور نباشید بارها از صفر شروع کنید. ویژگی‌های کلیدی: یک بار بپرسید و پاسخ‌ها را بین چندین مدل پیشرو مقایسه کنید. اختلاف‌نظرهای معنادار و نقاط کور پاسخ‌های هوش مصنوعی را سریع‌تر آشکار کنید. زمانی که می‌توانند پاسخ شما را بهبود بخشند، دیدگاه‌های اضافی را وارد کنید. زمینه شخصی خود را بین چندین ابزار منتقل کنید. برای چه کسانی است: هر کسی که برای کار یا سؤالات روزمره به پاسخ‌های هوش مصنوعی تکیه می‌کند و قبل از اقدام بر اساس یک پاسخ، به یک نظر دوم آگاهانه‌تر نیاز دارد. سؤالات رایج بیشتر در اینجا پاسخ داده شده است: https://cuey.io/cuey-faq کیوی را از فروشگاه وب کروم امتحان کنید یا در cuey.io شروع کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک 👏 قطعاً قصد دارم آن را امتحان کنم. به یاد دارم یک دوست به من گفت که اکثر ابزارهای هوش مصنوعی پاسخ‌های با اطمینان می‌دهند. الهام‌گرفته از افکار او، یک سرور MCP برای اعتبارسنجی و راستی‌آزمایی چند LLM ساختم. آن ما در حوزه خصوصی است. ما از آن برای تحقیق و اعتبارسنجی حقایق استفاده می‌کنیم. قطعاً از محصول شما هم استفاده خواهم کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "همین الان این را امتحان کردم و عالی است. من یک کاربر بسیار سنگین هوش مصنوعی هستم و منظم خودم را در حال پرش بین چت‌جی‌پی‌تی و کلود برای بررسی عقلانی پاسخ‌های مهم می‌یابم. کیوی اساساً کل آن فرآیند را به یک کلیک تبدیل کرد - و در چند سؤال ظریف‌تر، تفاوت‌هایی بین مدل‌ها را آشکار کرد که واقعاً مفید بودند. پیاده‌سازی بسیار صیقل‌خورده‌ای از مشکلی که نمی‌دانستم می‌تواند این‌قدر بی‌درنگ حل شود. تبریک بابت راه‌اندازی!"
+        }
+      ],
+      "aiReview": "مسئله اصلی، عدم اطمینان کاربر از صحت پاسخ‌های هوش مصنوعی و هزینه زمانی بالای مقایسه دستی بین چندین مدل است. راه‌حل کیوی، خودکارسازی این فرآیند در پس‌زمینه مرورگر و برجسته‌سازی اختلافات است. از نظر معماری، این محصول به‌عنوان یک افزونه مرورگر (Chrome Extension) عمل می‌کند که با APIهای مختلف LLMها ارتباط برقرار کرده و از تکنولوژی‌هایی مانند Node.js برای مدیریت درخواست‌های موازی و مقایسه الگوریتمی متن‌ها استفاده می‌کند. مدل درآمدی احتمالاً بر اساس اشتراک ماهانه (SaaS) با سطوح مختلف محدودیت استفاده است. نقاط قوت شامل کاهش اصطکاک در کار، افزایش اعتماد کاربر و تمایز در بازار ابزارهای کمکی هوش مصنوعی است. نقاط ضعف عبارتند از وابستگی به APIهای خارجی (که در ایران چالش‌برانگیز است)، هزینه بالای محاسباتی و نیاز به مدیریت دقیق نرخ‌های درخواست (Rate Limiting). نکته طلایی برای ایران: تمرکز بر اتصال به مدل‌های داخلی (مانند مدل‌های هوش مصنوعی بومی) در کنار مدل‌های خارجی، می‌تواند مزیت رقابتی بزرگی ایجاد کند و مشکل دسترسی را حل نماید.",
+      "iranEquivalent": {
+        "productName": "چک‌ای‌آی (CheckAI)",
+        "description": "چک‌ای‌آی یک افزونه مرورگر است که پاسخ‌های هوش مصنوعی را از سرویس‌های داخلی و خارجی مقایسه می‌کند. این ابزار اختلافات بین مدل‌ها را برجسته می‌کند تا کاربر از صحت اطلاعات اطمینان حاصل کند. با انتقال خودکار زمینه گفتگو، نیاز به تکرار پرامپت‌ها را حذف می‌کند.",
+        "marketOpportunity": "با افزایش استفاده از هوش مصنوعی در ایران و نگرانی‌های ناشی از هالوسینیشن (توهم) مدل‌ها، نیاز به ابزارهای اعتبارسنجی بالا رفته است. بازار فارسی‌زبان هنوز ابزار یکپارچه‌ای برای مقایسه همزمان چندین مدل هوش مصنوعی ندارد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "پژوهشگران، نویسندگان محتوا، توسعه‌دهندگان نرم‌افزار و دانشجویان که به دقت اطلاعات هوش مصنوعی وابسته‌اند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای مدل‌های خارجی و نیاز به پروکسی‌های پایدار",
+          "هزینه بالای پردازش همزمان چندین مدل هوش مصنوعی برای کاربران ایرانی"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه با سقف استفاده مشخص",
+          "فروش لایسنس سازمانی برای شرکت‌های دانش‌بنیان و استارتاپ‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
+    },
+    {
       "id": "ph-today-2",
       "date": "2026-09-26",
       "rank": 2,
@@ -21077,6 +21427,59 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-09-28",
+      "rank": 2,
+      "name": "Statable Analytics",
+      "slug": "statable-analytics",
+      "tagline": "Web analytics built for you and your AI agents",
+      "description": "Statable is web analytics built for humans and AI agents. Use the simple dashboard yourself, or connect Claude, ChatGPT, Cursor, Codex, and other agents through MCP to read reports, analyze traffic, and configure tracking, goals, and funnels. No cookies, no analytics consent banner in most cases, and your data stays hosted in the EU.",
+      "category": "Analytics • Artificial Intelligence",
+      "categoryFa": "تحلیل داده • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/ca5b43bf-23b6-46cb-bbfc-457139f9a245.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c817401a-ed30-443c-8e45-4c572aaad332.png?auto=format",
+        "https://ph-files.imgix.net/7d9a2bae-27ee-418e-82fe-cb66f2c9a85e.png?auto=format",
+        "https://ph-files.imgix.net/57fa37b2-2dca-49a7-9f01-a958390644eb.png?auto=format",
+        "https://ph-files.imgix.net/d893c072-6e6d-4d26-9030-cffcdd2ff7ec.png?auto=format",
+        "https://ph-files.imgix.net/1adbde89-846f-43b9-8344-1e1ce49c45ec.png?auto=format",
+        "https://ph-files.imgix.net/9dd303a7-d5c7-4c63-8b4a-96dc02e3e53e.png?auto=format",
+        "https://ph-files.imgix.net/88a82aac-c860-468d-9d75-5317f60b7e03.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-28T07:01:00Z",
+      "votes": 264,
+      "websiteUrl": "https://www.producthunt.com/r/XNQ4NCU2AP5NPN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt. Yevhen here.I have built and grown websites for over 20 years, living inside analytics every day. GA4 kept growing, with more reports and more setup, most of which I never opened. :) At some point I found myself taking a Google Analytics course, and that is when it clicked: I am not the audience for this product. So I started building my own.Building it myself meant I set the requirements, and from the start those were: collect as little as possible, no fingerprinting, and a product shaped around European regulation. Statable is cookieless, EU-hosted (NL) and needs no consent banner for analytics.Then AI got good enough to take over my routine work, but agents had no way into analytics. That is what the MCP server fixed. Now the numbers live where I already work: I ask Claude what moved last week and get an answer from my own data, and when I need a funnel for the signup flow I describe it in a sentence instead of clicking through a builder.Connecting is one OAuth sign-in, and you choose whether an assistant can configure anything or only read.Free forever on .edu and GitHub or GitLab Pages.Would you use this? If not, what stops you? I am here all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the read vs configure split on the OAuth connection is the detail that would actually get this approved internally, most MCP analytics tools I've seen just hand the agent full write access and hope for the best. one thing I'd want to know before connecting it to anything real: if I only grant read access, can the agent still see raw visitor-level data (IPs, hashed IDs, individual sessions) or is it aggregated numbers only at that permission level? that distinction matters a lot once you're piping traffic data through a model you don't fully control."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "That's impressive Yevhen! Congrats on the launch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "this looks really useful for teams that want analytic without adding more complexity the MCP support for connecting AI agents directly to analytics is especially interesting"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How it handles sites with several domains or subdomains. Can one account keep those properties organized separately?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does it still capture enough detail for meaningful conversion analysis without cookies?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-08-10",
       "rank": 3,
@@ -22100,59 +22503,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-09-28",
-      "rank": 2,
-      "name": "Statable Analytics",
-      "slug": "statable-analytics",
-      "tagline": "Web analytics built for you and your AI agents",
-      "description": "Statable is web analytics built for humans and AI agents. Use the simple dashboard yourself, or connect Claude, ChatGPT, Cursor, Codex, and other agents through MCP to read reports, analyze traffic, and configure tracking, goals, and funnels. No cookies, no analytics consent banner in most cases, and your data stays hosted in the EU.",
-      "category": "Analytics • Artificial Intelligence",
-      "categoryFa": "تحلیل داده • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/ca5b43bf-23b6-46cb-bbfc-457139f9a245.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c817401a-ed30-443c-8e45-4c572aaad332.png?auto=format",
-        "https://ph-files.imgix.net/7d9a2bae-27ee-418e-82fe-cb66f2c9a85e.png?auto=format",
-        "https://ph-files.imgix.net/57fa37b2-2dca-49a7-9f01-a958390644eb.png?auto=format",
-        "https://ph-files.imgix.net/d893c072-6e6d-4d26-9030-cffcdd2ff7ec.png?auto=format",
-        "https://ph-files.imgix.net/1adbde89-846f-43b9-8344-1e1ce49c45ec.png?auto=format",
-        "https://ph-files.imgix.net/9dd303a7-d5c7-4c63-8b4a-96dc02e3e53e.png?auto=format",
-        "https://ph-files.imgix.net/88a82aac-c860-468d-9d75-5317f60b7e03.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 253,
-      "websiteUrl": "https://www.producthunt.com/r/XNQ4NCU2AP5NPN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt. Yevhen here.I have built and grown websites for over 20 years, living inside analytics every day. GA4 kept growing, with more reports and more setup, most of which I never opened. :) At some point I found myself taking a Google Analytics course, and that is when it clicked: I am not the audience for this product. So I started building my own.Building it myself meant I set the requirements, and from the start those were: collect as little as possible, no fingerprinting, and a product shaped around European regulation. Statable is cookieless, EU-hosted (NL) and needs no consent banner for analytics.Then AI got good enough to take over my routine work, but agents had no way into analytics. That is what the MCP server fixed. Now the numbers live where I already work: I ask Claude what moved last week and get an answer from my own data, and when I need a funnel for the signup flow I describe it in a sentence instead of clicking through a builder.Connecting is one OAuth sign-in, and you choose whether an assistant can configure anything or only read.Free forever on .edu and GitHub or GitLab Pages.Would you use this? If not, what stops you? I am here all day."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the read vs configure split on the OAuth connection is the detail that would actually get this approved internally, most MCP analytics tools I've seen just hand the agent full write access and hope for the best. one thing I'd want to know before connecting it to anything real: if I only grant read access, can the agent still see raw visitor-level data (IPs, hashed IDs, individual sessions) or is it aggregated numbers only at that permission level? that distinction matters a lot once you're piping traffic data through a model you don't fully control."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "That's impressive Yevhen! Congrats on the launch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "this looks really useful for teams that want analytic without adding more complexity the MCP support for connecting AI agents directly to analytics is especially interesting"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How it handles sites with several domains or subdomains. Can one account keep those properties organized separately?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does it still capture enough detail for meaningful conversion analysis without cookies?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -23408,6 +23758,67 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-09-28",
+      "rank": 3,
+      "name": "SaleSmartly",
+      "slug": "salesmartly",
+      "tagline": "Turn conversations across every channel into customers",
+      "description": "SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace. Manage leads with a built-in CRM, let AI agents answer questions and qualify customers 24/7, translate conversations in real time, and automate follow-ups—all while your team keeps the context needed to turn more conversations into customers.",
+      "category": "Messaging • Sales • Social Media",
+      "categoryFa": "پیام‌رسان • فروش • شبکه‌های اجتماعی",
+      "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/cd3bacd3-ee76-4ec3-92d3-c229414cd8a7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/9023bdb9-9972-4394-a212-2c95be93c0d0.png?auto=format",
+        "https://ph-files.imgix.net/7411d30f-0d22-4f83-a8a5-f5785c732ec4.png?auto=format",
+        "https://ph-files.imgix.net/a0de3b36-b3ad-4b05-a654-db3b003d0825.png?auto=format",
+        "https://ph-files.imgix.net/0dac3d7d-7033-42e2-b7d5-55a9e712a2b8.png?auto=format",
+        "https://ph-files.imgix.net/8c266120-c99b-4d9a-8740-549e9b80100f.png?auto=format",
+        "https://ph-files.imgix.net/3935e199-c1f8-46fd-b93c-8a16404c5dc1.png?auto=format",
+        "https://ph-files.imgix.net/a9ed0875-1659-478a-8bcb-bc56a0731144.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-28T07:01:00Z",
+      "votes": 241,
+      "websiteUrl": "https://www.producthunt.com/r/EZKALQKOCUWIZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, I’m Jia, the founder of SaleSmartly.👋Over the past few years, I’ve been working closely with businesses serving customers across different markets. I kept seeing the same challenge: customer conversations were spreading across WhatsApp, Instagram, Facebook, TikTok, and other channels, making it harder for teams to keep track of leads, respond quickly, and build lasting customer relationships.That’s why we built SaleSmartly.🚀We started with a simple idea: bring every customer conversation into one place.💬Today, SaleSmartly combines omnichannel inbox, CRM, automation, and AI to help businesses capture leads, manage conversations, automate repetitive work, and turn customer interactions into real business growth.As we worked with more customers, their feedback pushed us beyond simply managing messages. They wanted AI to handle more conversations, smarter automation across the customer journey, and better ways to understand and convert their leads.That feedback is shaping our roadmap for the years ahead.✨We’re building toward a more intelligent customer engagement platform where AI Agents and human teams work together, conversations can trigger automated workflows, and customer data can be connected across the entire journey—from the first interaction to conversion and retention.🤖🤝Our goal is simple:Help businesses turn every customer conversation into an opportunity for growth.📈We’re excited to share SaleSmartly with the Product Hunt community.🧡👉 Try SaleSmartly and let us know what you think. Your feedback will directly help shape what we build next.And if you find SaleSmartly useful, we’d really appreciate your support for our Product Hunt launch.🙌If you’re interested in learning more about SaleSmartly or exploring how it could work for your business, feel free to reach out to us directly:💬 WhatsApp: https://d.salesmartly.com/fx9oas✈️ Telegram: https://d.salesmartly.com/fx9najThanks for being here!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the \"AI agents qualify customers 24/7\" part is the one I'd want to test on a channel like WhatsApp or WeChat specifically, where a wrong answer to a customer can't just be silently edited after the fact the way it can in a web widget. is there a review step before the AI's answer actually sends on the higher-stakes channels, or does it reply live and rely on the human catching mistakes afterward in the shared inbox?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Will love to try it; Is there any plan to bring LinkedIn on board?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "So many apps for chat now, having them all in one place would be super cool. Does this work good on phones too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @rooster_zeng & team, congrats on the launch. Lovely product around customer conversion; really a good problem to be solved especially for people running with small team and short on time. Congrats & best wishes on launch :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is it suitable for small businesses as well, and how accurate is it's real time translation feature?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey congratulations on the launch! How does the handoff work when an agent passes a lead to a human? Does the person taking over see a summary of the conversation so far? Best of luck today!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Will definitely save me from the hassle of having to switch between inboxes to know whats new"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-08-31",
       "rank": 4,
@@ -23522,6 +23933,68 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-09-28",
+      "rank": 4,
+      "name": "Vitals ",
+      "slug": "vitals-4",
+      "tagline": "A Mac activity monitor that thinks in apps, not processes",
+      "description": "Activity Monitor lists a thousand processes, a hundred of them called Google Chrome Helper. Vitals adds every helper to the app that launched it, so you see 60 apps instead of 1,000 processes, each with one figure for memory, CPU, energy, disk and network. It keeps 30 days of history, alerts you when an app misbehaves, finds forgotten dev servers, and shows temperatures, fans and battery. Every readout can sit in your menu bar, arranged your way. Pay once. No subscription, no account.",
+      "category": "Mac • Developer Tools • Menu Bar Apps",
+      "categoryFa": "مک • ابزار توسعه‌دهندگان • Menu Bar Apps",
+      "url": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/1ea922a7-4ad3-4e0a-99b1-6ef369aadc55.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/edc86e9f-acd3-4bcb-b646-35ae82f8d882.png?auto=format",
+        "https://ph-files.imgix.net/36256168-ce98-4a41-ad78-36076d2b63b5.png?auto=format",
+        "https://ph-files.imgix.net/0cfe78ed-e1f7-4336-a5d7-1e846eb9e8ed.png?auto=format",
+        "https://ph-files.imgix.net/4cff5c82-708e-441c-a116-016bc24cd486.png?auto=format",
+        "https://ph-files.imgix.net/d8ade726-7229-400f-bed0-7e245264e2ab.png?auto=format",
+        "https://ph-files.imgix.net/8403d124-5ee9-483b-9ef6-c7a4fac1e497.png?auto=format",
+        "https://ph-files.imgix.net/97f53a07-0b3c-4715-a581-43eebf525db3.png?auto=format",
+        "https://ph-files.imgix.net/3d754323-2668-41d7-ae63-7365eee9fe55.jpeg?auto=format"
+      ],
+      "maker": "Atta 🐬",
+      "makerTitle": "Building Vitals and Flit for Mac ",
+      "featuredAt": "2026-09-28T07:01:00Z",
+      "votes": 240,
+      "websiteUrl": "https://www.producthunt.com/r/AI4LWX7QMJSJZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Atta. I make Mac apps on my own, and Vitals is the one I made for myself first.My Mac would get hot and slow, so I'd open Activity Monitor and find 1,041 processes, 96 of them called \"Google Chrome Helper\". It never told me the one thing I wanted to know: which app is doing this?So I built the tool that answers that. Vitals adds every helper to the app that launched it. One row per app, one figure each for memory, CPU, energy, disk, and network. Click the row, and everything about that app is in one place. It keeps 30 days of history, tells you when an app starts misbehaving, and finds the dev servers you forgot were running, grouped by project.That is also what makes it different. Activity Monitor and the terminal tools show you processes and leave the adding up to you. The menu bar monitors show you how busy your Mac is, with gauges and graphs, but not which app is behind it. Vitals starts from the app, and I built it to feel like one native Mac app, not a dashboard. Version 1.1 ships today. Every readout can be its own menu bar item; volume and Bluetooth sit beside them, and you arrange the panel and the window the way you like.Two days ago I put it on X. 800+ people bought it in 72 hours, which I still don't quite believe. It's $5 for the first 1,000 licenses, then $29. One payment, no subscription, no account, and nothing leaves your Mac.👉 https://vitalsmac.comI'll be here all day. Tell me what you'd want Vitals to answer next, and what you'd want it to stop doing."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It is a simple yet effective tool for mac. Lucky to be part of the first 1000 to get it $5. Looking forward to the Storage cleanup feature and many more in the futute."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I bought Vitals and have been using it, and I’m really impressed. It delivers on its promise: I can see which apps are using my Mac’s resources without digging through a long list of processes. The interface is clear, beautifully designed, and a pleasure to use. Congrats on the launch! 🙌"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "great idea! hope it helps me manage my CPU better :D Is this free? would love to give it a go"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "A lot of power users already run iStat Menus or Stats for sensors + menu bar graphs—what’s the clearest “switching moment” where those tools (or Activity Monitor) stop being enough and Vitals becomes the faster answer?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Excited to hunt Vitals today.Vitals is a native Mac monitor that shows which apps are actually using your resources, instead of making you dig through hundreds of individual processes.What stands out:• App-level monitoring: CPU, memory, energy, disk, and network in one view.• 30-day history: Spot apps that start misbehaving over time.• Dev server detection: Find forgotten Node/Python servers by project and port.• Privacy-first: No account, no subscription, and everything stays on your Mac."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "One of the first users here and I'm finding it so much more useful that Activity Monitor, I can see what's happening at a glance. And its surprisingly fast too!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch! This is amazing!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -23926,67 +24399,6 @@
       }
     },
     {
-      "id": "ph-today-3",
-      "date": "2026-09-28",
-      "rank": 3,
-      "name": "SaleSmartly",
-      "slug": "salesmartly",
-      "tagline": "Turn conversations across every channel into customers",
-      "description": "SaleSmartly brings customer conversations from WhatsApp, Instagram, Messenger, TikTok, Telegram, LINE, WeChat and more into one workspace. Manage leads with a built-in CRM, let AI agents answer questions and qualify customers 24/7, translate conversations in real time, and automate follow-ups—all while your team keeps the context needed to turn more conversations into customers.",
-      "category": "Messaging • Sales • Social Media",
-      "categoryFa": "پیام‌رسان • فروش • شبکه‌های اجتماعی",
-      "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/cd3bacd3-ee76-4ec3-92d3-c229414cd8a7.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/9023bdb9-9972-4394-a212-2c95be93c0d0.png?auto=format",
-        "https://ph-files.imgix.net/7411d30f-0d22-4f83-a8a5-f5785c732ec4.png?auto=format",
-        "https://ph-files.imgix.net/a0de3b36-b3ad-4b05-a654-db3b003d0825.png?auto=format",
-        "https://ph-files.imgix.net/0dac3d7d-7033-42e2-b7d5-55a9e712a2b8.png?auto=format",
-        "https://ph-files.imgix.net/8c266120-c99b-4d9a-8740-549e9b80100f.png?auto=format",
-        "https://ph-files.imgix.net/3935e199-c1f8-46fd-b93c-8a16404c5dc1.png?auto=format",
-        "https://ph-files.imgix.net/a9ed0875-1659-478a-8bcb-bc56a0731144.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 234,
-      "websiteUrl": "https://www.producthunt.com/r/EZKALQKOCUWIZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, I’m Jia, the founder of SaleSmartly.👋Over the past few years, I’ve been working closely with businesses serving customers across different markets. I kept seeing the same challenge: customer conversations were spreading across WhatsApp, Instagram, Facebook, TikTok, and other channels, making it harder for teams to keep track of leads, respond quickly, and build lasting customer relationships.That’s why we built SaleSmartly.🚀We started with a simple idea: bring every customer conversation into one place.💬Today, SaleSmartly combines omnichannel inbox, CRM, automation, and AI to help businesses capture leads, manage conversations, automate repetitive work, and turn customer interactions into real business growth.As we worked with more customers, their feedback pushed us beyond simply managing messages. They wanted AI to handle more conversations, smarter automation across the customer journey, and better ways to understand and convert their leads.That feedback is shaping our roadmap for the years ahead.✨We’re building toward a more intelligent customer engagement platform where AI Agents and human teams work together, conversations can trigger automated workflows, and customer data can be connected across the entire journey—from the first interaction to conversion and retention.🤖🤝Our goal is simple:Help businesses turn every customer conversation into an opportunity for growth.📈We’re excited to share SaleSmartly with the Product Hunt community.🧡👉 Try SaleSmartly and let us know what you think. Your feedback will directly help shape what we build next.And if you find SaleSmartly useful, we’d really appreciate your support for our Product Hunt launch.🙌If you’re interested in learning more about SaleSmartly or exploring how it could work for your business, feel free to reach out to us directly:💬 WhatsApp: https://d.salesmartly.com/fx9oas✈️ Telegram: https://d.salesmartly.com/fx9najThanks for being here!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the \"AI agents qualify customers 24/7\" part is the one I'd want to test on a channel like WhatsApp or WeChat specifically, where a wrong answer to a customer can't just be silently edited after the fact the way it can in a web widget. is there a review step before the AI's answer actually sends on the higher-stakes channels, or does it reply live and rely on the human catching mistakes afterward in the shared inbox?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Will love to try it; Is there any plan to bring LinkedIn on board?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "So many apps for chat now, having them all in one place would be super cool. Does this work good on phones too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey @rooster_zeng & team, congrats on the launch. Lovely product around customer conversion; really a good problem to be solved especially for people running with small team and short on time. Congrats & best wishes on launch :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is it suitable for small businesses as well, and how accurate is it's real time translation feature?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey congratulations on the launch! How does the handoff work when an agent passes a lead to a human? Does the person taking over see a summary of the conversation so far? Best of luck today!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Will definitely save me from the hassle of having to switch between inboxes to know whats new"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-2",
       "date": "2026-09-20",
       "rank": 2,
@@ -24287,68 +24699,6 @@
       }
     },
     {
-      "id": "ph-today-4",
-      "date": "2026-09-28",
-      "rank": 4,
-      "name": "Vitals ",
-      "slug": "vitals-4",
-      "tagline": "A Mac activity monitor that thinks in apps, not processes",
-      "description": "Activity Monitor lists a thousand processes, a hundred of them called Google Chrome Helper. Vitals adds every helper to the app that launched it, so you see 60 apps instead of 1,000 processes, each with one figure for memory, CPU, energy, disk and network. It keeps 30 days of history, alerts you when an app misbehaves, finds forgotten dev servers, and shows temperatures, fans and battery. Every readout can sit in your menu bar, arranged your way. Pay once. No subscription, no account.",
-      "category": "Mac • Developer Tools • Menu Bar Apps",
-      "categoryFa": "مک • ابزار توسعه‌دهندگان • Menu Bar Apps",
-      "url": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/1ea922a7-4ad3-4e0a-99b1-6ef369aadc55.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/edc86e9f-acd3-4bcb-b646-35ae82f8d882.png?auto=format",
-        "https://ph-files.imgix.net/36256168-ce98-4a41-ad78-36076d2b63b5.png?auto=format",
-        "https://ph-files.imgix.net/0cfe78ed-e1f7-4336-a5d7-1e846eb9e8ed.png?auto=format",
-        "https://ph-files.imgix.net/4cff5c82-708e-441c-a116-016bc24cd486.png?auto=format",
-        "https://ph-files.imgix.net/d8ade726-7229-400f-bed0-7e245264e2ab.png?auto=format",
-        "https://ph-files.imgix.net/8403d124-5ee9-483b-9ef6-c7a4fac1e497.png?auto=format",
-        "https://ph-files.imgix.net/97f53a07-0b3c-4715-a581-43eebf525db3.png?auto=format",
-        "https://ph-files.imgix.net/3d754323-2668-41d7-ae63-7365eee9fe55.jpeg?auto=format"
-      ],
-      "maker": "Atta 🐬",
-      "makerTitle": "Building Vitals and Flit for Mac ",
-      "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 229,
-      "websiteUrl": "https://www.producthunt.com/r/AI4LWX7QMJSJZL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm Atta. I make Mac apps on my own, and Vitals is the one I made for myself first.My Mac would get hot and slow, so I'd open Activity Monitor and find 1,041 processes, 96 of them called \"Google Chrome Helper\". It never told me the one thing I wanted to know: which app is doing this?So I built the tool that answers that. Vitals adds every helper to the app that launched it. One row per app, one figure each for memory, CPU, energy, disk, and network. Click the row, and everything about that app is in one place. It keeps 30 days of history, tells you when an app starts misbehaving, and finds the dev servers you forgot were running, grouped by project.That is also what makes it different. Activity Monitor and the terminal tools show you processes and leave the adding up to you. The menu bar monitors show you how busy your Mac is, with gauges and graphs, but not which app is behind it. Vitals starts from the app, and I built it to feel like one native Mac app, not a dashboard. Version 1.1 ships today. Every readout can be its own menu bar item; volume and Bluetooth sit beside them, and you arrange the panel and the window the way you like.Two days ago I put it on X. 800+ people bought it in 72 hours, which I still don't quite believe. It's $5 for the first 1,000 licenses, then $29. One payment, no subscription, no account, and nothing leaves your Mac.👉 https://vitalsmac.comI'll be here all day. Tell me what you'd want Vitals to answer next, and what you'd want it to stop doing."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It is a simple yet effective tool for mac. Lucky to be part of the first 1000 to get it $5. Looking forward to the Storage cleanup feature and many more in the futute."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I bought Vitals and have been using it, and I’m really impressed. It delivers on its promise: I can see which apps are using my Mac’s resources without digging through a long list of processes. The interface is clear, beautifully designed, and a pleasure to use. Congrats on the launch! 🙌"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "great idea! hope it helps me manage my CPU better :D Is this free? would love to give it a go"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A lot of power users already run iStat Menus or Stats for sensors + menu bar graphs—what’s the clearest “switching moment” where those tools (or Activity Monitor) stop being enough and Vitals becomes the faster answer?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Excited to hunt Vitals today.Vitals is a native Mac monitor that shows which apps are actually using your resources, instead of making you dig through hundreds of individual processes.What stands out:• App-level monitoring: CPU, memory, energy, disk, and network in one view.• 30-day history: Spot apps that start misbehaving over time.• Dev server detection: Find forgotten Node/Python servers by project and port.• Privacy-first: No account, no subscription, and everything stays on your Mac."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "One of the first users here and I'm finding it so much more useful that Activity Monitor, I can see what's happening at a glance. And its surprisingly fast too!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch! This is amazing!"
-        }
-      ]
-    },
-    {
       "id": "ph-today-5",
       "date": "2026-08-12",
       "rank": 5,
@@ -24437,7 +24787,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 226,
+      "votes": 228,
       "websiteUrl": "https://www.producthunt.com/r/25TSH4XBNECIO2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -26538,6 +26888,87 @@
           "MCP Protocol"
         ],
         "confidence": 70
+      }
+    },
+    {
+      "id": "ph-yesterday-4",
+      "date": "2026-09-27",
+      "rank": 4,
+      "name": "Superhuman Go",
+      "slug": "superhuman-go",
+      "tagline": "The AI assistant that works where you do",
+      "description": "Go works inside Gmail, Slack, your docs, and your browser nudging better phrasing, drafting replies that sound like you, and prepping meetings before you think to. Add no-code agents that run on their own schedule. Free to start.",
+      "category": "Productivity • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/bfe78647-8f80-413b-a4f7-5376effac536.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f1d595ac-9597-4d64-9d0e-2d03c1daa81e.jpeg?auto=format",
+        "https://ph-files.imgix.net/3b098ffe-9b7c-483e-b1aa-0caafc27118a.png?auto=format",
+        "https://ph-files.imgix.net/78e47fe0-0e55-4a80-88d4-1d226bc9b707.png?auto=format",
+        "https://ph-files.imgix.net/b8bfff7f-de54-45f3-8844-a9a629c32ba0.png?auto=format",
+        "https://ph-files.imgix.net/e4428cf5-a93b-4f6d-b064-b8e608a20ccd.png?auto=format"
+      ],
+      "maker": "Rahul Vohra",
+      "makerTitle": "Founder & CEO of Superhuman, Rapportive.",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 203,
+      "websiteUrl": "https://www.producthunt.com/r/XBSELBXBOG2RGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Superhuman Go lives inside the apps you already use - Gmail, Slack, docs, your browser, instead of a separate chat window.It suggests edits as you type, drafts email replies in your voice, and preps meeting agendas before you ask. No switching tabs, no re-explaining context each time.What makes it different: it's proactive instead of prompt-based, and it's backed by Grammarly's 17-year writing engine rather than a new AI starting from scratch.Key features:Real-time suggestions as you type, across appsPre-drafted email replies in your voiceMeeting prep and follow-up (agendas, task assignment)Custom no-code agents that trigger on a schedule or eventMCP connectors so suggestions are grounded in your real toolsWho it's for: anyone who wants AI help in the flow of their work, not in a separate window they have to remember to open.Try it superhuman.com/go P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Maybe @Pretty Prompt should work inside Superhuman Go!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"proactive instead of prompt-based\" is the harder thing to get right though, a prompt-based tool only bothers you when you ask, a proactive one has to guess when its suggestion is actually welcome versus just noise you learn to ignore. real-time suggestions across apps sounds like it could get pretty noisy if it's firing on every keystroke in Slack the same way it would in a long email draft. is there a per-app or per-context tuning for how aggressive the suggestions are, or is it one sensitivity setting everywhere?"
+        }
+      ],
+      "faDescription": "سوپرهیومن گو (Superhuman Go) یک دستیار هوش مصنوعی هوشمند است که دقیقاً در همان محیطی که کار می‌کنید فعالیت می‌کند. این ابزار به طور مستقیم درون جیمیل، اسلک، اسناد و مرورگر شما قرار می‌گیرد و با ارائه پیشنهادهایی برای بهبود لحن و نگارش، به شما کمک می‌کند. این سرویس پاسخ‌های ایمیل را هماهنگ با لحن شخصی‌تان پیش‌نویس کرده و پیش از آنکه حتی به آن فکر کنید، مقدمات جلسات را آماده می‌سازد. علاوه بر این، می‌توانید ایجنت‌های بدون کد اضافه کنید تا بر اساس زمان‌بندی اختصاصی اجرا شوند. شروع استفاده از این محصول کاملاً رایگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سوپرهیومن گو به جای یک پنجره چت مجزا، درون برنامه‌هایی فعال می‌شود که از قبل استفاده می‌کنید؛ مثل جیمیل، اسلک، اسناد و مرورگر شما. این ابزار هم‌زمان با تایپ کردن پیشنهادات ویرایشی می‌دهد، پاسخ‌های ایمیل را با لحن خودتان پیش‌نویس می‌کند و دستور جلسات را پیش از درخواست شما آماده می‌سازد. بدون نیاز به تعویض تب یا توضیح دوباره زمینه در هر بار استفاده. آنچه آن را متمایز می‌کند، پیش‌فعال بودن (Proactive) به جای مبتنی بر پرامپت بودن است و همچنین پشتیبانی از موتور نگارشی ۱۷ ساله گرامرلی به جای یک هوش مصنوعی نوپا. ویژگی‌های کلیدی: پیشنهادات آنی هنگام تایپ در برنامه‌های مختلف، پیش‌نویس ایمیل با لحن شخصی، آماده‌سازی و پیگیری جلسات (دستور جلسه، تخصیص وظایف)، ایجنت‌های سفارشی بدون کد با قابلیت اجرا بر اساس زمان‌بندی یا رویداد، و اتصال‌دهنده‌های MCP جهت استناد پیشنهادات به ابزارهای واقعی شما. مناسب برای هر کسی که می‌خواهد هوش مصنوعی در جریان طبیعی کارش حضور داشته باشد، نه در پنجره‌ای مجزا که باید یادش بماند آن را باز کند. امتحانش کنید: superhuman.com/go. پی‌نوشت: من جدیدترین و بهترین رونمایی‌های فناوری، نرم‌افزارهای ابری و هوش مصنوعی را شکار می‌کنم، برای اطلاع دنبال کنید -> rohanrecommends@"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "شاید Pretty Prompt@ باید داخل سوپرهیومن گو کار کند!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "با این حال، اجرای درستِ ویژگی «پیش‌فعال بودن به جای مبتنی بر پرامپت» کار سخت‌تری است؛ ابزار مبتنی بر پرامپت فقط زمانی مزاحم شما می‌شود که از آن بخواهید، اما یک ابزار پیش‌فعال باید حدس بزند که چه زمانی پیشنهادش واقعاً مفید است و چه زمانی فقط یک سر و صدای اضافی است که یاد می‌گیرید نادیده‌اش بگیرید. پیشنهادات آنی در برنامه‌های مختلف به نظر می‌رسد ممکن است خیلی شلوغ و رو اعصاب شود، اگر قرار باشد روی هر کلید در اسلک به همان شکلی که در یک پیش‌نویس طولانی ایمیل فعال می‌شود، کار کند. آیا تنظیماتی برای هر برنامه یا هر زمینه وجود دارد تا میزان تهاجمی بودن پیشنهادات مشخص شود، یا فقط یک تنظیم حساسیت کلی برای همه‌جا دارد؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبسیاری از ابزارهای هوش مصنوعی کاربر را مجبور به جابه‌جایی بین تب‌ها و بازنویسی مداوم زمینه (Context) می‌کنند. Superhuman Go با ارائه یک دستیار پیش‌فعال (Proactive) که در برنامه‌هایی مانند Gmail، Slack و مرورگر قرار می‌گیرد، پیشنهادات آنی ارائه داده و بدون نیاز به پرامپت‌نویسی دستی، کارها را جلو می‌برد.\n\nمعماری و تکنولوژی:\nاین محصول از موتور ویرایشی قدرتمند Grammarly، اتصالات MCP برای دسترسی به داده‌های واقعی ابزارها و سیستم ساخت ایجنت‌های بدون کد (No-code Agents) استفاده می‌کند. زیرساخت آن بر پایه افزونه‌های مرورگر و یکپارچه‌سازی API برنامه‌ها طراحی شده است.\n\nمدل درآمدی:\nمدل درآمدی Freemium است؛ ورود کاربران با ابزارهای رایگان اولیه تسهیل شده و برای استفاده از ایجنت‌های زمان‌بندی‌شده، اتصال‌دهنده‌های پیشرفته و پیشنهادات نامحدود، اشتراک خریداری می‌شود.\n\nنقاط قوت:\n۱) حفظ جریان کاری کاربر بدون نیاز به تعویض تب.\n۲) رویکرد پیش‌فعال که بدون درخواست کاربر پیشنهادات مفید ارائه می‌دهد.\n۳) تکیه بر زیرساخت قابل اعتماد و باسابقه نگارشی.\n\nنقاط ضعف:\n۱) احتمال ایجاد مزاحمت صوتی/بصری هنگام تایپ مداوم.\n۲) نگرانی‌های حریم خصوصی به دلیل دسترسی دستیار به تمامی برنامه‌ها و متون.\n\nنکته طلایی برای بازار ایران:\nسازگاری کامل با پیام‌رسان‌ها و اتوماسیون‌های بومی ایرانی (مانند بله، ایتا و چارگون) و فهم دقیق لحن‌های رسمی و محاوره‌ای زبان فارسی می‌تواند ارزش خلق‌شده فوق‌العاده‌ای برای سازمان‌ها ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "دستیار هوشمند کارپرو (KarPro)",
+        "description": "این محصول یک افزونه و دستیار هوش مصنوعی یکپارچه است که در نرم‌افزارهای روزمره ایرانی نظیر بله، ایتا، کوئرا و مرورگر کاربر فعال می‌شود. سیستم با تحلیل متن‌های در حال تایپ، پاسخ‌های ایمیل و پیام‌ها را طبق لحن خود فرد پیش‌نویس کرده و دستور جلسات را برنامه‌ریزی می‌کند. همچنین امکان تعریف ایجنت‌های خودکار بدون کد برای انجام وظایف دوره‌ای اداری را فراهم می‌سازد.",
+        "marketOpportunity": "نیاز مبرم سازمان‌ها و فریلنسرهای ایرانی به افزایش سرعت مکاتبات و مدیریت جلسات، بستر مناسبی برای این محصول ایجاد کرده است. عدم وجود دستیار بومی که لحن و محتوای فارسی را در برنامه‌های بومی پشتیبانی کند، فرصتی طلایی برای جذب کاربران حرفه‌ای محسوب می‌شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران محصول، کارشناسان بازاریابی و ارتباطات، پشتیبانان مشتریان، مدیران اجرایی و فریلنسرها",
+        "challenges": [
+          "حفظ حریم خصوصی داده‌های متنی کاربران در ابزارهای مختلف",
+          "مدیریت اعلان‌های ناخواسته و مزاحمت هنگام تایپ سریع (Noise Control)",
+          "چالش‌های پردازش زبان فارسی و تشخیص دقیق لحن و فرمت‌های مختلف اداری و محاوره‌ای"
+        ],
+        "monetization": [
+          "اشتراک ماهانه و سالانه (SaaS)",
+          "پلان‌های سازمانی با قابلیت اتصال به اتوماسیون‌های داخلی",
+          "مدل رایگان پایه (Freemium) با محدودیت تعداد پیشنهادات روزانه"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Chrome Extension API",
+          "Python (FastAPI)",
+          "LangChain",
+          "Redis"
+        ],
+        "confidence": 80
       }
     },
     {
@@ -34283,6 +34714,98 @@
       ]
     },
     {
+      "id": "ph-yesterday-5",
+      "date": "2026-09-27",
+      "rank": 5,
+      "name": "KiwiDesk",
+      "slug": "kiwidesk",
+      "tagline": "Tiling that feels like it shipped with macOS.",
+      "description": "KiwiDesk is a tiling window manager for macOS that keeps your Mac calm and organized: every window finds its place in one of seven layouts, apps open with a shortcut, and mouse users get a Space Bar they can drag windows onto. It works with your native macOS Desktops: bind a profile to each one and it loads the moment you swipe there, with its own spaces, layouts, colors and shortcuts. Everything is set in a native Settings app, no config file needed. Free to use, source on GitHub.",
+      "category": "Mac • Productivity • Developer Tools",
+      "categoryFa": "مک • بهره‌وری • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/kiwidesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7bfa1644-8667-4990-8389-990fd05b932d.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/62f70f6d-3b3b-47b2-97e8-65c3bc305ad5.png?auto=format",
+        "https://ph-files.imgix.net/c1a9b060-177e-4d2a-a4a0-834765e2bf69.png?auto=format",
+        "https://ph-files.imgix.net/b59812a9-cab0-4d22-83c4-6b92ce26b610.png?auto=format"
+      ],
+      "maker": "Maikel",
+      "makerTitle": "Solo dev building KiwiDesk & KiwiCV",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 148,
+      "websiteUrl": "https://www.producthunt.com/r/MLKOVEXGXQJVWE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Why can't window management on macOS just work out of the box, with a proper native GUI, instead of terminal configs and Linux-style setups? Hey Product Hunt! 👋 I'm Maikel, a solo developer from Germany. Life taught me that our time is the most precious thing we have, so I grow Kiwis for the boring stuff. The freshest one is KiwiDesk. I love tiling window managers, but I could never recommend one to my non-programmer friends. On macOS they all want terminal configs, and the most powerful one wants you to disable SIP. I wondered whether any of that is really necessary. KiwiDesk is my answer to this problem: - Windows organize themselves — 7 layouts, including an \"infinite scrolling\" desktop where your apps sit on a ribbon that glides as you focus. - A real native settings app with sliders and pickers. Mouse users get clickable space/app bars. Keyboard people get hotkeys, Vim-style layers, and \"Open or Focus\": one key opens an app or brings its window to you. - Needs only the Accessibility permission. You don't need to turn SIP off, no input-monitoring, no account, no analytics. - Free for personal use, source-available under BSL 1.1 (MIT four years after each release). Lua + CLI under the hood for power users. It's macOS 14+ on Apple Silicon, installable via Homebrew or a notarized DMG. 70-second trailer: https://youtu.be/RvziMM_B544 I'd love to know: what's kept YOU from trying a tiling window manager so far? That answer shapes what I build next. I'm here all day 🥝"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Native settings + no SIP changes is the part that sold me. Makes tiling feel way more approachable. Nice work, Maikel."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "👏🏻 👏🏻 👏🏻 👏🏻 👏🏻"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"needs only the Accessibility permission, no SIP disable\" is the actual selling point for me over the terminal-config tiling managers, that's the exact tradeoff that keeps me from recommending yabai to anyone non-technical. curious how the per-Desktop profile binding holds up with external monitors though - if I unplug a second display, does the layout bound to that Desktop just wait for the monitor to come back, or does it get reassigned to whatever Desktop is next in line and I lose the mapping?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! This looks really clean. Curious to see how the different layouts feel in day to day use. Nice work 👏"
+        }
+      ],
+      "faDescription": "کیوی‌دسک (KiwiDesk) یک مدیریت‌کننده پنجره‌های کاشی‌کاری‌شده (Tiling Window Manager) برای سیستم‌عامل مک است که محیط کاری شما را تمیز، آرام و کاملاً منظم نگه می‌دارد. در این برنامه، هر پنجره به طور خودکار در یکی از هفت چیدمان متنوع جای می‌گیرد و برنامه‌ها تنها با یک کلید میانبر باز می‌شوند. همچنین برای کاربران ماوس، یک نوار فضایی (Space Bar) اختصاصی طراحی شده تا بتوانند پنجره‌ها را به راحتی روی آن بکشند و رها کنند. این ابزار به طور کامل با دسکتاپ‌های بومی مک همگام می‌شود؛ به طوری که می‌توانید به هر دسکتاپ یک پروفایل مجزا اختصاص دهید تا به محض سوایپ کردن روی آن، فضه‌ها، چیدمان‌ها، رنگ‌ها و میانبرهای مربوط به همان دسکتاپ بارگذاری شوند. تمام تنظیمات در یک برنامه بومی انجام می‌شود و هیچ نیازی به فایل‌های پیکربندی پیچیده یا کدنویسی ندارد. استفاده از این ابزار رایگان بوده و سورس کد آن در گیتهاب دسترس‌پذیر است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "چرا مدیریت پنجره‌ها در مک‌او‌اس نباید از همان ابتدا و به صورت پیش‌فرض با یک رابط کاربری بومی و مناسب کار کند، به‌جای اینکه نیازمند تنظیمات ترمینال و پیکربندی‌های لینوکسی باشد؟ سلام پروداکت هانت! 👋 من مایکل هستم، یک توسعه‌دهنده مستقل از آلمان. زندگی به من آموخته که زمان ارزشمندترین دارایی ماست، بنابراین من پروژه‌های کیوی را برای کارهای خسته‌کننده می‌سازم. تازه‌ترین آن‌ها کیوی‌دسک است. من عاشق مدیرهای پنجره کاشی‌کاری‌شده هستم، اما هرگز نمی‌توانستم یکی از آن‌ها را به دوستان غیربرنامه‌نویسم پیشنهاد کنم. در مک همه‌شان فایل‌های پیکربندی ترمینالی می‌خواهند و قدرتمندترین آن‌ها از شما می‌خواهد که SIP را غیرفعال کنید. از خودم پرسیدم آیا واقعاً هیچ‌کدام از این‌ها لازم است؟ کیوی‌دسک پاسخ من به این مشکل است: پنجره‌ها خودشان را سازمان‌دهی می‌کنند (۷ چیدمان، از جمله دسکتاپ اسکرول بی‌نهایت که برنامه‌های شما روی نواری لغزنده حرکت می‌کنند)، یک برنامه تنظیمات کاملاً بومی با اسلایدرها و انتخاب‌گرها وجود دارد، کاربران ماوس نوارهای قابل کلیک دارند و کاربران کیبورد کلیدهای میانبر و لایه‌های سبک Vim را دریافت می‌کنند. تنها به مجوز Accessibility نیاز دارد و نیازی به خاموش کردن SIP، پایش ورودی، حساب کاربری یا آمارگیری ندارد. برای استفاده شخصی رایگان است و سورس آن تحت لایسنس BSL ۱.۱ منتشر شده است. مجهز به لوا (Lua) و CLI برای کاربران حرفه‌ای است. برای مک‌او‌اس ۱۴ به بالا روی تراشه‌های اپل سیلیکون عرضه شده است. خیلی دوست دارم بدانم: چه چیزی تا کنون شما را از امتحان کردن یک مدیریت پنجره کاشی‌کاری بازداشته است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تنظیمات بومی + عدم نیاز به تغییرات SIP بخش اصلی بود که من را جذب کرد. این باعث می‌شود کاشی‌کاری پنجره‌ها بسیار دست‌یافتنی‌تر به نظر برسد. کار عالی بود، مایکل."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "👏🏻 👏🏻 👏🏻 👏🏻 👏🏻"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "عبارت «تنها به مجوز Accessibility نیاز دارد و نیازی به غیرفعال کردن SIP نیست» نقطه فروش واقعی این محصول برای من نسبت به مدیران پنجره با تنظیمات ترمینالی است؛ این دقیقاً همان هزینه‌ای است که مانع می‌شود من yabai را به افراد غیرفنی توصیه کنم. با این حال کنجکاوم بدانم اتصال پروفایل به ازای هر دسکتاپ با مانیتورهای خارجی چگونه کار می‌کند - اگر مانیتور دوم را جدا کنم، آیا چیدمان متصل به آن دسکتاپ منتظر بازگشت مانیتور می‌ماند یا به دسکتاپ بعدی منتقل می‌شود و نگاشت را از دست می‌دهم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "انتشار محصول را تبریک می‌گویم! بسیار تمیز و مرتب به نظر می‌رسد. کنجکاوم ببینم چیدمان‌های مختلف در استفاده روزمره چه حسی دارند. کار عالی بود 👏"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: ابزارهای مدیریت پنجره در سیستم‌عامل مک (مانند yabai) معمولاً بسیار پیچیده هستند، نیازمند پیکربندی متنی در ترمینال بوده و برای عملکرد کامل نیازمند غیرفعال‌سازی مکانیسم امنیتی مک (SIP) می‌باشند. KiwiDesk با ارائه یک رابط کاربری گرافیکی و بومی (Native GUI)، عدم نیاز به دستکاری‌های امنیتی خطرناک و استفاده تنها از دسترسی Accessibility، مدیریت کاشی‌کاری پنجره‌ها را برای کاربران غیرفنی هم ساده و لذت‌بخش کرده است.\n\nمعماری و تکنولوژی: این برنامه برای macOS ۱۴ به بالا و تراشه‌های Apple Silicon بهینه‌سازی شده و با SwiftUI توسعه یافته است. در زیر کاپوت از لایه Lua و CLI برای کاربران پیشرفته بهره می‌برد و بدون نیاز به سرور یا جمع‌آوری داده‌ها به صورت محلی کار می‌کند.\n\nمدل درآمدی: در حال حاضر برای استفاده شخصی رایگان است و تحت لایسنس BSL ۱.۱ عرضه شده است (که پس از چهار سال به MIT تبدیل می‌شود). مدل کسب‌وکار می‌تواند در آینده بر پایه لایسنس‌های تجاری/سازمانی یا قابلیت‌های ابری پیشرفته شکل گیرد.\n\nنقاط قوت: عدم نیاز به غیرفعال‌سازی SIP، رابط کاربری بومی و بسیار تمیز، پشتیبانی از ۷ چیدمان متنوع (شامل Ribbon Scrolling)، و اتصال هوشمند پروفایل‌ها به دسکتاپ‌های native مک.\n\nنقاط ضعف: محدود بودن به سیستم‌عامل مک (macOS ۱۴+) و بازاری نیچ که رقبای قدیمی و رایگانی در آن فعال هستند.\n\nنکته طلایی برای ایران: در بازار ایران به دلیل غلبه کاربران ویندوز، پیاده‌سازی ابزار مشابه به صورت Cross-Platform (با اولویت ویندوز و مک) که مشخصاً برای نیاز تریدرها و برنامه‌نویسان ایرانی (مانند چیدمان‌های چندمانیتوره و کلیدهای میانبر فارسی) شخصی‌سازی شده باشد، پتانسیل جذب بالای کاربران حرفه‌ای را دارد.",
+      "iranEquivalent": {
+        "productName": "دسک‌فلو (DeskFlow)",
+        "description": "دسک‌فلو یک نرم‌افزار بومی مدیریت و چیدمان هوشمند پنجره‌ها برای کاربران دسکتاپ است که بدون نیاز به دانش فنی، فضای کاری متمرکز و مرتبی ایجاد می‌کند. این برنامه با پشتیبانی از چند مانیتور و میانبرهای شخصی‌سازی‌شده فارسی، مدیریت پنجره‌ها را برای متخصصان آسان می‌سازد. همچنین قابلیت تعریف پروفایل‌های کاری مجزا برای فعالیت‌های مختلف مانند برنامه‌نویسی، طراحی و تحلیل مالی را داراست.",
+        "marketOpportunity": "با رشد جامعه توسعه‌دهندگان، طراحان و تریدرهای ایرانی که ساعات طولانی با مانیتورهای متعدد کار می‌کنند، ابزاری ساده و بومی برای افزایش بهره‌وری و مدیریت پنجره‌ها شانس بالایی برای جذب این کاربران حرفه‌ای دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، طراحان UI/UX، تریدرهای بازار سرمایه و رمزارز، تولیدکنندگان محتوا و کاربران حرفه‌ای مک و ویندوز",
+        "challenges": [
+          "محدودتر بودن بازار کاربران مک در ایران نسبت به ویندوز که نیازمند ساخت نسخه چندپلتفرمی است",
+          "چالش‌های مرتبط با دسترسی‌های سطح سیستم‌عامل در ویندوز و مک برای مدیریت بدون تاخیر پنجره‌ها"
+        ],
+        "monetization": [
+          "فروش لایسنس دائمی یا اشتراک سالانه برای ابزارهای پیشرفته و پشتیبانی از چند مانیتور",
+          "ارائه قالب‌ها و پروفایل‌های سفارشی‌سازی‌شده برای مشاغل مختلف در فروشگاه درون‌برنامه‌ای"
+        ],
+        "techStack": [
+          "Swift",
+          "SwiftUI",
+          "Electron",
+          "Rust",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-09-06",
       "rank": 6,
@@ -35338,6 +35861,125 @@
       }
     },
     {
+      "id": "ph-yesterday-6",
+      "date": "2026-09-27",
+      "rank": 6,
+      "name": "Harmony",
+      "slug": "harmony-982296bc-0df8-4ef7-b35b-7c003a3afc31",
+      "tagline": "AI agents that resolve IT/HR tickets inside Slack and Teams",
+      "description": "Harmony is an AI-native ITSM platform for IT teams. Instead of bolting a chatbot onto a ticketing tool, we built the helpdesk around AI agents: employees ask in Slack or Teams, and 100+ production-ready agents handle password resets, app access, onboarding, device issues and more end to end, escalating to a human only when needed. Ticketing, asset inventory, SaaS management and workflows live in one workspace, so agents have context to act. Teams hit 60%+ auto-resolution in days.",
+      "category": "Productivity • SaaS • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/harmony-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9efa7000-c05c-4928-b977-c2c5feafe469.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/8e44a07e-688e-40cc-a105-4bce692d7066.jpeg?auto=format",
+        "https://ph-files.imgix.net/ab38e074-4e4d-4517-a3f1-015f601d3baa.png?auto=format",
+        "https://ph-files.imgix.net/a9219960-4679-4d7b-ad18-e221500ea991.webp?auto=format",
+        "https://ph-files.imgix.net/69044e21-24d8-41c8-a87b-916936b1343c.webp?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 142,
+      "websiteUrl": "https://www.producthunt.com/r/NNMZDIS3NQH7H7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! I'm Ran, co-founder and CTO of Harmony. After our previous company (Epsagon, acquired by Cisco for $500m), Nitzan and I spent years talking to IT leaders at fast-growing companies and kept hearing the same story: the helpdesk eats the team's week. Password resets, app access, onboarding, \"my laptop is slow\" - hundreds of repetitive requests, and the tools built for them (Freshservice, Jira Service Management and friends) were designed to track the work, not do it. So we built Harmony as an AI-native ITSM platform, with the agents at the core instead of bolted on: - Employees ask in Slack or Teams. Agents verify identity, take the action in your systems (Okta, Entra ID, Google Workspace and 100+ integrations) and close the loop. No portal, no form. - 100+ production-ready agents out of the box, plus a builder for your own workflows. - Ticketing, asset inventory, SaaS management, onboarding/offboarding and AI governance in one workspace, so the agents actually have the context to act safely. - Customers typically reach 60%+ auto-resolution within the first couple of weeks. Cyera is at 89% of employee requests auto-resolved; n8n runs IT for hundreds of employees with a single IT person. We'd love your feedback, especially from IT folks who have lived with legacy ITSM tools. What's the first thing you'd hand off to an AI agent? I'll be here all day answering questions."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "agents that actually close IT tickets not just chat about them 👏 whats the false-positive rate looking like?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the \"60%+ auto-resolution within the first couple of weeks\" number is the claim I'd want to poke at, that's a fast ramp for a helpdesk tool since most of the friction in IT support isn't the request itself, it's edge cases where the AI has to know when to escalate instead of confidently doing the wrong thing. what does the failure mode look like when an agent gets a request wrong, does it just get flagged by the employee or is there a way it catches its own uncertainty before acting on something like access changes?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Mid-market teams already use Okta or Google Workspace self-service for password resets and app access. Chat triage in Slack was never the bottleneck in internal IT. The real problem is audit compliance, rogue SaaS seats nobody deprovisions, and messy approval hierarchies. An agent auto-resolving access across HR or Finance tools will not have the verified approval authority an auditor needs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love it! looks super interesting, and a true problem space! IT teams have always struggled, from experience back in the old days :)Best of luck!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The hardest part of building internal tools isn't the model, it’s getting reliable context out of your corporate tools. If your HR suite, MDM, and directory services don't talk to each other seamlessly, your AI is operating blind. Once your data layer is clean and accessible with Harmony, adding automation takes minimal effort."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Lfg! What a great idea team love itCongrats on the launch keep shipping have some ideas in mind would love to connect"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As VP of R&D at Harmony, what stands out to me isn't only the 60%+ auto-resolution number, it's the architecture underneath it: the model never executes actions directly, it only matches requests to pre-approved workflows, and every object it references has to resolve against your real IdP/MDM data or the request just fails. That's the right answer to \"what happens when the agent is wrong or fed a malicious prompt,\" which is the question every security team actually asks and most AI tools dodge. Scoped credentials, eligibility rules, human approval on sensitive actions, and a full audit trail mean prompt injection can steer the model's interpretation but has nowhere to steer it to. That's what building agentic AI the way a security team would've designed it themselves looks like! 🚀"
+        }
+      ],
+      "faDescription": "هارمونی یک پلتفرم بومی هوش مصنوعی برای مدیریت خدمات فناوری اطلاعات (ITSM) است که اختصاصاً برای تیم‌های IT ساخته شده است. این بستر به جای افزودن یک چت‌بات ساده به سامانه‌های تیکتینگ موجود، تمام مرکز پشتیبانی را بر پایه ایجنت‌های هوش مصنوعی بازطراحی کرده است. کارمندان درخواست‌های خود را در بسترهای اسلک یا تیمز مطرح می‌کنند و بیش از ۱۰۰ ایجنت آماده، فرآیندهایی نظیر بازیابی رمز عبور، دسترسی به برنامه‌ها، آنبوردینگ و مشکلات سخت‌افزاری را به‌صورت کامل و صفر تا صد انجام می‌دهند و تنها در صورت نیاز موضوع را به اپراتور انسانی ارجاع می‌دهند. سیستم‌های تیکتینگ، مدیریت دارایی‌ها، مدیریت ابزارهای SaaS و گردش‌کارها همگی در یک فضای کاری واحد قرار دارند تا ایجنت‌ها زمینه و داده‌های کافی برای اقدام دقیق را داشته باشند. تیم‌های IT با استفاده از این ابزار تنها ظرف چند روز به نرخ حل خودکار بیش از ۶۰ درصدی درخواست‌ها دست می‌یابند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت! من ران، هم‌بنیان‌گذار و مدیر ارشد فناوری هارمونی هستم. پس از شرکت قبلی‌مان (اپساگون که با قیمت ۵۰۰ میلیون دلار توسط سيسكو تصاحب شد)، من و نیتزان سال‌ها با مدیران IT در شرکت‌های در حال رشد گفتگو کردیم و مدام یک داستان تکراری می‌شنیدیم: پشتیبانی IT تمام زمان هفته تیم را می‌بلعد. ریست رمز عبور، دسترسی به برنامه‌ها، فرآیند جذب و کند بودن لپ‌تاپ - صدها درخواست تکراری که ابزارهای قدیمی (مثل فرپ‌سرویس، جیرا و غیره) صرفاً برای پیگیری آن‌ها ساخته شده بودند نه انجام دادنشان. بنابراین هارمونی را به عنوان یک پلتفرم بومی هوش مصنوعی برای ITSM ساختیم که ایجنت‌ها در هسته آن قرار دارند: کارمندان در اسلک یا تیمز درخواست می‌دهند، ایجنت‌ها احراز هویت کرده و در سیستم‌های شما (اوکتا، انترای مایکروسافت، گوگل ورک‌اسپیس و بیش از ۱۰۰ یکپارچه‌سازی دیگر) اقدام لازم را انجام داده و کار را به پایان می‌رسانند. بدون نیاز به پورتال یا فرم. بیش از ۱۰۰ ایجنت آماده به همراه ابزار ساخت گردش‌کار اختصاصی. تیکتینگ، مدیریت دارایی، مدیریت SaaS، جذب/خروج نیرو و حاکمیت هوش مصنوعی همگی در یک فضای کاری واحد قرار دارند تا ایجنت‌ها با درک کامل زمینه اقدام امن کنند. مشتریان معمولاً ظرف چند هفته اول به نرخ حل خودکار بالای ۶۰٪ می‌رسند؛ شرکت Cyera به ۸۹٪ رسیده و n۸n پشتیبانی IT صدها کارمند را تنها با یک نیروی انسانی اداره می‌کند. مشتاق دریافت نظرات شما هستیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایجنت‌هایی که واقعاً تیکت‌های IT را می‌بندند و فقط درباره آن‌ها چت نمی‌کنند 👏 نرخ مثبت کاذب (خطا) چطور است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ادعای حل خودکار بالای ۶۰٪ در چند هفته اول چیزی است که باید دقیق‌تر بررسی شود؛ این سرعت راه‌اندازی بسیار بالاست چون بزرگ‌ترین چالش در پشتیبانی IT خود درخواست نیست، بلکه حالت‌های خاص (Edge Cases) است که هوش مصنوعی باید بداند چه زمانی کار را به انسان ارجاع دهد تا اینکه با اطمینان کاذب کار اشتباهی انجام دهد. حالت شکست سیستم وقتی ایجنت اشتباه می‌کند چگونه است؟ آیا توسط کارمند گزارش می‌شود یا راهی هست که خود هوش مصنوعی قبل از اعمال تغییرات حساسی مثل دسترسی‌ها، عدم قطعیت خود را تشخیص دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تیم‌های متوسط در حال حاضر از خدمات خودسرویس اوکتا یا گوگل ورک‌اسپیس برای ریست رمز عبور و دسترسی برنامه‌ها استفاده می‌کنند. اولویت‌بندی چت در اسلک هرگز گلوگاه IT داخلی نبوده است. مشکل واقعی ممیزی انطباق (Audit Compliance)، لایسنس‌های بلاتکلیف SaaS که کسی آن‌ها را لغو نکرده و سلسله‌مراتب نامنظم تاییدات است. ایجنتی که دسترسی‌ها را در ابزارهای مالی یا HR به‌صورت خودکار تایید می‌کند، مجوز تایید معتبری که یک ممیز نیاز دارد را نخواهد داشت."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "عالی است! بسیار جذاب به نظر می‌رسد و دست روی یک مشکل واقعی گذاشته است! تیم‌های IT همیشه با این چالش‌ها دست‌وپنجه نرم کرده‌اند. با آرزوی موفقیت!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "سخت‌ترین بخش ساخت ابزارهای داخلی مدل هوش مصنوعی نیست، بلکه دریافت داده‌های زمینه‌ای قابل اعتماد از ابزارهای سازمانی است. اگر ابزارهای HR، MDM و دایرکتوری شما به‌صورت یکپارچه با هم ارتباط نداشته باشند، هوش مصنوعی شما نابینا عمل می‌کند. زمانی که لایه داده‌های شما پاک و قابل دسترس باشد، اضافه کردن اتوماسیون با هارمونی حداقل تلاش را نیاز دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی بود! چه ایده فوق‌العاده‌ای، تبریک به تیم. به عرضه محصولات ادامه دهید، ایده‌هایی در ذهن دارم که خوشحال می‌شوم با هم گفتگو کنیم."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "به عنوان معاون تحقیق و توسعه در هارمونی، آنچه برای من برجسته است فقط رقم حل خودکار ۶۰ درصدی نیست، بلکه معماری زیرین آن است: مدل هرگز اقدامات را مستقیم اجرا نمی‌کند، بلکه درخواست‌ها را فقط با گردش‌کارهای از پیش تاییدشده تطبیق می‌دهد و هر داده‌ای که به آن ارجاع می‌دهد باید با داده‌های واقعی IdP/MDM مطابقت یابد وگرنه درخواست لغو می‌شود. این پاسخ درست به سوال «اگر ایجنت اشتباه کند یا دستور مخرب دریافت کند چه می‌شود» است؛ سوالی که تمام تیم‌های امنیتی می‌پرسند و اکثر ابزارهای هوش مصنوعی از آن طفره می‌روند. دسترسی‌های محدودشده، قواعد صلاحیت، تایید انسانی برای اقدامات حساس و ردپای کامل ممیزی باعث می‌شود که حمله پرامپت اینجکشن فقط بر تفسیر مدل تاثیر بگذارد اما راهی برای اجرای اقدام مخرب نداشته باشد. این یعنی ساخت هوش مصنوعی ایجنتی دقیقا به همان روشی که یک تیم امنیتی خودش طراحی می‌کرد! 🚀"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nسامانه‌های سنتی مدیریت خدمات فناوری اطلاعات (ITSM) مانند جیرا یا ابزارهای داخلی، صرفاً برای ثبت و پیگیری تیکت‌ها طراحی شده‌اند و بار عملیاتی حل مشکل همچنان بر دوش تیم IT است. هارمونی با ارائه یک بستر بومی هوش مصنوعی (AI-Native) که در بستر پیام‌رسان‌ها کار می‌کند، بیش از ۱۰۰ ایجنت هوشمند را برای انجام خودکار و صفر تا صدی درخواست‌ها (مانند بازیابی رمز عبور، آنبوردینگ و دسترسی به ابزارها) به کار می‌گیرد.\n\n### معماری و تکنولوژی\nهارمونی از معماری کنترل‌شده و امن استفاده می‌کند. مدل هوش مصنوعی مستقیماً دسترسی اجرای دستور ندارد، بلکه درخواست‌ها را به گردش‌کارهای (Workflows) از پیش تاییدشده متصل می‌سازد. تمامی داده‌ها و هویت‌ها پیش از اقدام با سامانه مدیریت هویت (IdP) مطابقت داده می‌شوند که این امر سیستم را در برابر حملات تزریق پرامپت (Prompt Injection) کاملاً مقاوم می‌کند.\n\n### مدل درآمدی\nمدل B۲B SaaS مبتنی بر اشتراک سازمانی بر اساس تعداد کارمندان یا میزان استفاده از ایجنت‌ها.\n\n### نقاط قوت\n۱. رسیدن به نرخ حل خودکار ۶۰ تا ۸۰ درصدی تیکت‌ها در کوتاه‌ترین زمان.\n۲. رویکرد انجام کار (Action-oriented) به جای صرفاً پاسخ‌دهی متنی یا چت‌بات‌های ساده.\n۳. معماری امنیت‌محور با قابلیت ممیزی کامل (Audit Trail) که رضایت تیم‌های امنیت شبکه را جلب می‌کند.\n\n### نقاط ضعف\n۱. وابستگی کامل به یکپارچگی و تمیز بودن لایه داده‌های سازمان (MDM/HRIS/IdP).\n۲. چالش متقاعدسازی مدیران سنتی در خصوص اعطای دسترسی‌های اجرایی به هوش مصنوعی.\n\n### نکته طلایی برای بازار ایران\nدر سازمان‌های ایرانی، زیرساخت‌های Identity و HR معمولاً جزیره‌ای و غیراستاندارد هستند. کلید موفقیت نمونه ایرانی این محصول، ساخت یک «لایه واسط واسنجی داده» (Data Cleaning Middleware) است که بتواند داده‌های نامنظم دایرکتوری‌های داخلی (مثل Active Directoryهای قدیمی) را قبل از ورود به چرخه هوش مصنوعی، یکپارچه و استانداردسازی کند.",
+      "iranEquivalent": {
+        "productName": "همساز (Hamsaz AI)",
+        "description": "همساز یک سامانه بومی مدیریت خدمات IT و پشتیبانی سازمانی مبتنی بر ایجنت‌های هوش مصنوعی است. این بستر به پیام‌رسان‌های سازمانی متصل شده و درخواست‌های تکراری کارمندان مانند بازیابی رمز عبور، دسترسی به سامانه‌ها و مشکلات شبکه را بدون دخالت انسان حل می‌کند. با یکپارچه‌سازی با دایرکتوری‌های داخلی و سامانه‌های پرسنلی، همساز بار کاری تیم‌های IT را به شدت کاهش می‌دهد.",
+        "marketOpportunity": "با رشد سازمان‌های متوسط و بزرگ در ایران و کمبود نیروهای متخصص IT، نیاز مبرمی به اتوماسیون فرآیندهای پشتیبانی وجود دارد. کاهش بار تیکت‌های تکراری و آزاد کردن زمان تیم‌های فناوری برای پروژه‌های زیرساختی، ارزش اقتصادی بالایی برای سازمان‌ها ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های دانش‌بنیان، سازمان‌ها و هلدینگ‌های متوسط و بزرگ، بانک‌ها، اپراتورها و شرکت‌های ارائه دهنده خدمات ابری",
+        "challenges": [
+          "عدم وجود دایرکتوری‌ها و سامانه مدیریت هویت (IAM) یکپارچه و استاندارد در اکثر سازمان‌های ایرانی",
+          "مقاومت شدید تیم‌های امنیتی و حراست سازمان‌ها در برابر اتصال هوش مصنوعی به زیرساخت‌های حساس",
+          "محدودیت‌های پیام‌رسان‌های سازمانی بومی در ارائه APIهای استاندارد و تعاملی"
+        ],
+        "monetization": [
+          "فروش اشتراک سالانه بر اساس تعداد کاربران فعال سازمان (B۲B SaaS)",
+          "هزینه پیاده‌سازی، سفارشی‌سازی و نصب در محل (On-Premise) برای سازمان‌های بزرگ و امنیتی"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 80
+      }
+    },
+    {
       "id": "ph-today-5",
       "date": "2026-09-26",
       "rank": 5,
@@ -36065,6 +36707,61 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-yesterday-7",
+      "date": "2026-09-27",
+      "rank": 7,
+      "name": "Clicks Communicator",
+      "slug": "clicks-communicator",
+      "tagline": "A new kind of mobile communicator designed for doing",
+      "description": "Clicks Communicator is a compact Android 17 phone built around a physical keyboard and a home screen for conversations. Use it as your main phone or a companion, with full 5G and apps while keeping messages, typing, and quick replies close at hand.",
+      "category": "Custom Keyboards • Hardware • Cell Phone",
+      "categoryFa": "Custom Keyboards • Hardware • Cell Phone",
+      "url": "https://www.producthunt.com/products/clicks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/49f1e2e6-57c7-4eca-b7b7-062cdb069ced.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/8429d008-fdf8-40ac-a1cd-acf1bdb45097.jpeg?auto=format",
+        "https://ph-files.imgix.net/f7cbf038-1d07-4d33-a26f-c70d71170e6e.avif?auto=format",
+        "https://ph-files.imgix.net/4d1bf830-b2eb-4692-8206-e1e2a1e3e8cf.avif?auto=format",
+        "https://ph-files.imgix.net/beeaef0e-c675-4f83-b79c-4e39d7a1ee01.avif?auto=format",
+        "https://ph-files.imgix.net/82becbd4-4d79-46a7-b146-a6c8dfa49563.avif?auto=format",
+        "https://ph-files.imgix.net/2bf0e804-00d6-46e0-a6ac-1c158debd39e.avif?auto=format",
+        "https://ph-files.imgix.net/dcfd4829-a820-4f9a-9d4c-2a6a22412ace.avif?auto=format",
+        "https://ph-files.imgix.net/d0b9adaa-9215-4755-9617-b734928dd33b.avif?auto=format",
+        "https://ph-files.imgix.net/74bb5d45-dab7-4b5c-92c2-abb97f46172f.png?auto=format",
+        "https://ph-files.imgix.net/83300a18-d7b4-45c9-8146-fa764fdff893.avif?auto=format",
+        "https://ph-files.imgix.net/a7edaf19-5615-41dc-86e4-fc7d70b0c6bb.avif?auto=format",
+        "https://ph-files.imgix.net/cf41f1bf-5545-4885-b2ad-9382e1f282f5.avif?auto=format",
+        "https://ph-files.imgix.net/aa913186-6ea6-4997-8783-9050ba58c73b.png?auto=format",
+        "https://ph-files.imgix.net/0c7678c1-26dd-419e-bed4-0c2d19996743.png?auto=format",
+        "https://ph-files.imgix.net/20b5b872-4177-46d7-8578-32c05e19959e.png?auto=format",
+        "https://ph-files.imgix.net/4a477f2d-5585-4340-9526-c22abd5af551.png?auto=format",
+        "https://ph-files.imgix.net/d2178467-6300-452d-bd9e-41f424692267.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 138,
+      "websiteUrl": "https://www.producthunt.com/r/27XWJYYEJSFQFE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone!There’s something nice about a phone that puts the keyboard back at the center.Communicator is small enough that the screen clearly isn’t the whole point. The keyboard is touch-sensitive, the Signal LED tells you who’s trying to reach you, and the Message Hub lets you deal with conversations without opening every app one by one.It still runs full Android 17, so you can use it as your main phone if you want. It just makes typing and messaging feel like the default again.The side key handles voice input too. Hold it to dictate, record something, or transcribe a meeting.Clicks also bumped the final hardware to 12GB RAM and a 4,350mAh battery before shipping, without increasing the $499 launch price.Turns out, buttons still make a lot of sense!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "physical keyboard comeback is real, my thumbs miss this so much 📱 hows battery life holding up day to day?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Immediately sent this to two friends and they were stoked. Excited to know what I'm getting them for Christmas / Hanukkah now!I tried to message you on your website but didn't see a contact form so I'm sending a quick note here. Not a big deal, but your site promotes a $30 discount (which you are delivering). But the second step in the flow, where the user signs up for text, says that the discount is $20. Your marketing team might want to change that $20 figure on your Postscript SMS marketing tool to $30, just to avoid confusion."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "a touch-sensitive keyboard is the part I hadn't seen before, most of these retro-keyboard phones treat the keys as pure mechanical input and bolt a trackpad-gesture zone onto the space bar at best. does the touch layer replace the trackpad entirely or is it additive, like can you still do cursor placement by dragging on the keys themselves the way BlackBerry's old keyboard-as-trackpad trick worked?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -42954,7 +43651,43 @@
           "user": "[REDACTED]",
           "text": "pickups instead of screen time makes a lot more sense, half my pickups are just checking nothing. any plans for iOS? I know a launcher isn't possible there, curious if you've looked at what the screen time api would let you do"
         }
-      ]
+      ],
+      "faDescription": "فِور یک لانچر اندروید است که تمرکز آن بر شمارش دفعات برداشتن گوشی است، نه صرفاً زمان استفاده از صفحه نمایش. این اپلیکیشن یک صفحه اصلی آرام ارائه می‌دهد که وظیفه روزانه شما، تعداد دفعاتی که به گوشی نگاه کرده‌اید (و چه تعداد از آن‌ها بی‌دلیل بوده است) و شش ابزار اصلی که واقعاً استفاده می‌کنید را نمایش می‌دهد. اپلیکیشن‌های پرت‌کننده توجه با یک مکث کوتاه مواجه می‌شوند تا شما را به فکر وادارند. هیچ سروری وجود ندارد، نیازی به حساب کاربری نیست و تبلیغی در کار نیست؛ همه داده‌ها روی دستگاه شما می‌مانند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت، من علی هستم و سازنده فِور هستم. من ابزارهای معمولی زمان صفحه نمایش را امتحان کردم اما هیچ‌کدام برای من تغییری ایجاد نکردند. عددی که واقعاً اهمیت داشت، تعداد دفعاتی بود که در طول روز گوشی را برمی‌داشتم و اینکه چه تعداد از آن‌ها بی‌دلیل بودند: قفل باز کردن، نگاه کردن و قفل کردن مجدد. بیشترشان همین‌طور بود. بنابراین فِور یک صفحه اصلی است که دقیقاً همین را اندازه می‌گیرد و عمداً کارهای بسیار کمی انجام می‌دهد: • شمارنده روی صفحه اصلی قرار دارد: «۳۴ برداشت امروز، ۱۴ بی‌دلیل.» کسی نمی‌خواهد به ۹۰ برسد. • یک خط در بالا می‌گوید امروز برای چیست. روز دوشنبه چند سوال می‌پرسد و از شما می‌خواهد پنج کار برای هفته انتخاب کنید؛ هر صبح یکی از آن‌ها وظیفه روز است. • اینستاگرام، یوتیوب و موارد مشابه «چاه‌های زمانی» هستند. باز کردن یکی از آن‌ها از صفحه اصلی یک مکث کوتاه را نشان می‌دهد که می‌پرسد چند دقیقه می‌مانید. هرگز قفل نمی‌شود — وقتی برمی‌گردید فقط چیزی که گفته‌اید را با آنچه اتفاق افتاده مقایسه می‌کند. • هیچ ویجت، آیکون، پس‌زمینه یا نقطه اعلان وجود ندارد. شش ابزار، یک خط جستجو و میان‌برهایی که شما انتخاب کرده‌اید. • هیچ چیزی از گوشی خارج نمی‌شود. بدون سرور، بدون حساب کاربری، بدون تحلیل داده و بدون تبلیغات. دسترسی به استفاده اختیاری است و اپلیکیشن بدون آن هم کار می‌کند. رایگان است؛ یک خرید یک‌بار (فِور پرو) پس از یک دوره آزمایشی کامل ۱۴ روزه، برنامه‌ریزی هفتگی، بلوک‌های روزانه، بودجه‌ها و خلاصه هفت‌روزه را باز می‌کند. نُه زبان. فقط اندروید — باید این‌طور باشد، چون یک لانچر است. دوست دارم بدانم به جای این چه چیزی را اندازه می‌گیرید و چه چیزی را حذف می‌کنید. کل اپلیکیشن یک استدلال برای حذف کردن است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "«بدون سرور، بدون حساب کاربری» برای چیزی که قرار است شما را نسبت به برداشتن گوشی خودآگاه کند، تصمیم درستی است، اگر یک ردیاب عادت به خانه زنگ بزند، حس عجیبی خواهد داشت. آیا شمارش برداشتن‌ها کاملاً از رویدادهای روشن شدن صفحه در سطح سیستم‌عامل است، یا برای تشخیص یک برداشت واقعی از اینکه فقط ساعت را روی صفحه قفل چک می‌کنید، به مجوزهای دسترسی‌پذیری نیاز دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "برداشتن‌ها به جای زمان صفحه نمایش منطقی‌تر به نظر می‌رسد، نیمی از برداشتن‌های من فقط برای چک کردن هیچ‌چیز است. آیا برنامه‌ای برای iOS دارید؟ می‌دانم که لانچر در آنجا ممکن نیست، کنجکاو هستم ببینم آیا به این فکر کرده‌اید که API زمان صفحه نمایش چه کاری را ممکن می‌سازد."
+        }
+      ],
+      "aiReview": "مسئله اصلی، «فرسایش توجه» ناشی از برداشتن‌های بی‌دلیل گوشی است که ابزارهای سنتی زمان صفحه نمایش آن را نادیده می‌گیرند. راه‌حل فِور، تغییر پارادایم از «زمان روشن بودن صفحه» به «تعداد تعاملات فیزیکی» است که با ارائه یک لانچر مینیمال و محلی، این داده را به صورت بصری و غیرتهاجمی نمایش می‌دهد. از نظر معماری، این محصول یک لانچر اندروید است که از APIهای سیستم‌عامل برای شناسایی رویدادهای برداشتن (Pickup) استفاده می‌کند و بدون نیاز به سرور، داده‌ها را در حافظه محلی ذخیره می‌کند؛ این رویکرد حریم خصوصی را به یک ویژگی کلیدی تبدیل کرده است. مدل درآمدی بر اساس فروش یک‌بار (One-time purchase) برای امکانات پیشرفته است که با توجه به ماهیت ابزار، نرخ تبدیل پایدارتری نسبت به اشتراک‌های ماهانه دارد. نقاط قوت شامل تمرکز بر یک مسئله مشخص، حذف کامل سربارهای دیجیتال و حفظ حریم خصوصی است. نقاط ضعف شامل محدودیت به پلتفرم اندروید و پیچیدگی فنی توسعه لانچرهای سازگار با همه دستگاه‌هاست. نکته طلایی برای ایران: با توجه به ضعف اینترنت و نگرانی‌های امنیتی کاربران ایرانی، تأکید بر «کارکرد آفلاین» و «عدم ارسال داده» می‌تواند به عنوان یک مزیت رقابتی اصلی در بازاریابی استفاده شود، به ویژه در مقایسه با اپلیکیشن‌های خارجی که نیاز به حساب کاربری دارند.",
+      "iranEquivalent": {
+        "productName": "کم‌کار",
+        "description": "کم‌کار یک لانچر اندروید است که با شمارش دقیق دفعات برداشتن گوشی، عادت‌های دیجیتال کاربران را اصلاح می‌کند. این محصول با حذف عناصر حواس‌پرت‌کن و تمرکز بر وظایف روزانه، محیطی آرام برای مدیریت توجه ایجاد می‌کند. داده‌ها به صورت محلی پردازش شده و حریم خصوصی کاربران به طور کامل تضمین می‌شود.",
+        "marketOpportunity": "بازار ایران با افزایش شدید استفاده از شبکه‌های اجتماعی و نگرانی‌های جدی درباره اعتیاد دیجیتال، پتانسیل بالایی برای پذیرش ابزارهای مدیریت توجه دارد. وجود یک محصول بومی با قیمت مناسب و بدون نیاز به اینترنت برای کارکرد اصلی، مزیت رقابتی قوی‌ای ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "کاربران اندروید در رده سنی ۱۸ تا ۴۵ سال که به دنبال کنترل بهتر زمان استفاده از گوشی و افزایش بهره‌وری هستند.",
+        "challenges": [
+          "محدودیت‌های فنی در توسعه لانچرهای سفارشی روی نسخه‌های مختلف اندروید و سازگاری با برندهای مختلف گوشی.",
+          "رقابت با اپلیکیشن‌های مدیریت زمان رایگان و تغییر عادت کاربران برای استفاده از لانچرهای غیراستاندارد."
+        ],
+        "monetization": [
+          "فروش یک‌بار نسخه پرو با امکانات پیشرفته برنامه‌ریزی و تحلیل هفتگی.",
+          "ارائه بسته‌های سازمانی برای شرکت‌هایی که می‌خواهند بهره‌وری کارکنان را بدون نظارت مستقیم افزایش دهند."
+        ],
+        "techStack": [
+          "Kotlin",
+          "Jetpack Compose"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -43975,6 +44708,60 @@
     },
     {
       "id": "ph-today-10",
+      "date": "2026-09-28",
+      "rank": 10,
+      "name": "Dina 4.5",
+      "slug": "dina-4-5",
+      "tagline": "Beautiful screen recordings, screenshots, and 3D motion",
+      "description": "Record your screen, capture beautiful screenshots, add cinematic 3D motion and perspective, customize every detail, and share instantly with a link. Dina 4.5 brings screen recordings, screenshots, 3D animations, and sharing into one fast, beautifully designed workflow.",
+      "category": "Design Tools • Productivity • Video",
+      "categoryFa": "ابزار طراحی • بهره‌وری • ویدیو",
+      "url": "https://www.producthunt.com/products/dina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/96675e81-cb26-4342-a76d-7cb50a91ac71.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/bf7f2321-86a9-4cb1-9abe-4cee4ceca9a4.png?auto=format",
+        "https://ph-files.imgix.net/9004b920-64fa-43f3-b941-c01afdbeb242.png?auto=format",
+        "https://ph-files.imgix.net/b99c77e6-08c3-49c2-8980-215c4a507ec7.png?auto=format",
+        "https://ph-files.imgix.net/05d1644b-6ba3-4fdb-8be0-9502051c4fa3.jpeg?auto=format"
+      ],
+      "maker": "Zaid",
+      "makerTitle": "Love creating beautiful things",
+      "featuredAt": "2026-09-28T07:01:00Z",
+      "votes": 111,
+      "websiteUrl": "https://www.producthunt.com/r/VA6OUT2YK62EQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I’ve been building Dina pretty much every day, shipping small improvements, fixing things, and slowly turning it into the product I always wanted to use myself. Dina 4.5 is probably the update I’ve enjoyed building the most so far. One of the biggest additions is Shareable Links. I never liked the idea that sharing your own videos should lock you into another storage subscription, so with Dina you can either use Dina Cloud or connect your own storage and keep your files under your control. I also added Screenshot Mode, which is something I’m especially excited about. Right now it’s a simple way to capture and polish screenshots, but I see this becoming a much bigger part of Dina over time. I want Dina to become the place where you can capture, edit, present, and share anything from your screen, while continuing to make the video side genuinely great. And then there’s 3D. This was a fun one. You can now give recordings depth, perspective, and cinematic movement without needing to touch any 3D software. I’ve put a lot of love into this update and I’m still improving Dina constantly based on what people ask for. You can try Dina free for 7 days, no credit card required :- https://www.dina.so/download And for the Product Hunt community, you can use DINAPH at checkout for a 10% discount. Would genuinely love to hear what you think, what feels good, and what you’d like me to build next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Using Dina for editing for all my launch videos, explainers etc for 6 months now, Dina is a breeze to work with and the new set of features are totally mindblowing!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When someone is considering Dina vs Screen Studio, what’s the most decisive difference they’ll notice in the final video (not the feature list)—and what tradeoffs did you make to deliver that while staying fully native and offline-first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been using Dina since it first launched on Product Hunt. It's my go-to for sharing demo and screen recordings! Good editor, no recurring fees, and just works. Awesome job @zaidbren and excited for the new updates!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I have been able to follow the project since Zaid started and how this update has evolved is crazy.For me this is one of those apps that is well built, from the UI and the UX designed for the task that their users must execute.Congratulations on all the improvements you have been adding, Zaid."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Happy Dina customer here! Love the product."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Been using Dina for a few months now. All my product launches - are recorded through it! Love the tool and the new features!"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-10",
       "date": "2026-09-23",
       "rank": 10,
       "name": "GBrain",
@@ -44406,60 +45193,6 @@
         {
           "user": "کاربر ProductHunt 4",
           "text": "فقط به Vizard Agent بگویید چه ویدئویی می‌خواهید بسازید، سپس بنشینید و بگذارید شما را شگفت‌زده کند. تبریک برای راه‌اندازی! 🚀"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-09-28",
-      "rank": 10,
-      "name": "Dina 4.5",
-      "slug": "dina-4-5",
-      "tagline": "Beautiful screen recordings, screenshots, and 3D motion",
-      "description": "Record your screen, capture beautiful screenshots, add cinematic 3D motion and perspective, customize every detail, and share instantly with a link. Dina 4.5 brings screen recordings, screenshots, 3D animations, and sharing into one fast, beautifully designed workflow.",
-      "category": "Design Tools • Productivity • Video",
-      "categoryFa": "ابزار طراحی • بهره‌وری • ویدیو",
-      "url": "https://www.producthunt.com/products/dina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/96675e81-cb26-4342-a76d-7cb50a91ac71.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/bf7f2321-86a9-4cb1-9abe-4cee4ceca9a4.png?auto=format",
-        "https://ph-files.imgix.net/9004b920-64fa-43f3-b941-c01afdbeb242.png?auto=format",
-        "https://ph-files.imgix.net/b99c77e6-08c3-49c2-8980-215c4a507ec7.png?auto=format",
-        "https://ph-files.imgix.net/05d1644b-6ba3-4fdb-8be0-9502051c4fa3.jpeg?auto=format"
-      ],
-      "maker": "Zaid",
-      "makerTitle": "Love creating beautiful things",
-      "featuredAt": "2026-09-28T07:01:00Z",
-      "votes": 110,
-      "websiteUrl": "https://www.producthunt.com/r/VA6OUT2YK62EQY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I’ve been building Dina pretty much every day, shipping small improvements, fixing things, and slowly turning it into the product I always wanted to use myself. Dina 4.5 is probably the update I’ve enjoyed building the most so far. One of the biggest additions is Shareable Links. I never liked the idea that sharing your own videos should lock you into another storage subscription, so with Dina you can either use Dina Cloud or connect your own storage and keep your files under your control. I also added Screenshot Mode, which is something I’m especially excited about. Right now it’s a simple way to capture and polish screenshots, but I see this becoming a much bigger part of Dina over time. I want Dina to become the place where you can capture, edit, present, and share anything from your screen, while continuing to make the video side genuinely great. And then there’s 3D. This was a fun one. You can now give recordings depth, perspective, and cinematic movement without needing to touch any 3D software. I’ve put a lot of love into this update and I’m still improving Dina constantly based on what people ask for. You can try Dina free for 7 days, no credit card required :- https://www.dina.so/download And for the Product Hunt community, you can use DINAPH at checkout for a 10% discount. Would genuinely love to hear what you think, what feels good, and what you’d like me to build next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Using Dina for editing for all my launch videos, explainers etc for 6 months now, Dina is a breeze to work with and the new set of features are totally mindblowing!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When someone is considering Dina vs Screen Studio, what’s the most decisive difference they’ll notice in the final video (not the feature list)—and what tradeoffs did you make to deliver that while staying fully native and offline-first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been using Dina since it first launched on Product Hunt. It's my go-to for sharing demo and screen recordings! Good editor, no recurring fees, and just works. Awesome job @zaidbren and excited for the new updates!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I have been able to follow the project since Zaid started and how this update has evolved is crazy.For me this is one of those apps that is well built, from the UI and the UX designed for the task that their users must execute.Congratulations on all the improvements you have been adding, Zaid."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Happy Dina customer here! Love the product."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Been using Dina for a few months now. All my product launches - are recorded through it! Love the tool and the new features!"
         }
       ]
     },
@@ -45377,7 +46110,66 @@
           "user": "[REDACTED]",
           "text": "This is basically what my partner and I use WhatsApp for when we’re shopping."
         }
-      ]
+      ],
+      "faDescription": "پست (Psst) یک برنامه لیست خرید مشترک است که ویژگی متمایز آن به یاد داشتن هزینه‌های پرداختی قبلی شماست. با عکس گرفتن از رسید خریدهای خود، خطوط رسید به صورت داده‌های ساختاریافته استخراج می‌شوند؛ به طوری که هر آیتم بخش مربوط به خود در عکس رسید، آخرین قیمت پرداخت‌شده و فروشگاه مربوطه را نشان می‌دهد. بخش زیادی از توسعه برنامه صرف این شده است که در صورت عدم اطمینان، اطلاعات نادرستی به کاربر نمایش داده نشود. قیمت‌ها با واحدهای متفاوت هرگز با هم مقایسه نمی‌شوند و مقایسه همواره بر اساس قیمت واحد انجام می‌گیرد نه مبلغ کل خرید، بنابراین خرید دو کیلوگرم به‌جای یک کیلوگرم افزایش قیمت محسوب نمی‌شود. این اپلیکیشن برای سیستم‌عامل‌های iOS و اندروید عرضه شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سازنده برنامه هستم. جرقه‌ی اصلی این پروژه از یک لیست خرید خواربار مشترک زده شد که در واقع اسکرین‌شاتی از برنامه نوت بود و مدام بین ما دست‌به‌دست می‌شد و همیشه یک نسخه عقب‌تر بود. تمام برنامه‌های مدیریتی که امتحان کردم برای یک نفر ساخته شده بودند و قابلیت اشتراک‌گذاری بعداً به آن‌ها اضافه شده بود، بنابراین به محض اینکه دو نفر هم‌زمان روی یک لیست کار می‌کردند، برنامه بهم می‌ریخت یا نیاز به ارتقا به طرح پولی تیمی داشت. پس «Psst» از اساس برعکس طراحی شد. هر لیست در واقع یک دعوت‌نامه است؛ افراد مربوطه را اضافه می‌کنید و آن‌ها هر تغییری را به محض وقوع می‌بینند. این برنامه شامل نقش‌های کاربری برای جلوگیری از ویرایش‌های اشتباه، کامنت‌گذاری روی هر آیتم برای ثبت تصمیمات در کنار خود کار، فید فعالیت‌ها و نمایش حضور افراد آنلاین در لیست است. همه این‌ها در طرح رایگان قرار دارند؛ برنامه یک دموی ناقص با قابلیت همکاری پولی نیست، چرا که همکاری و اشتراک‌گذاری کل هدف این برنامه است. برنامه کاملاً آفلاین کار می‌کند و هنگام اتصال مجدد همگام‌سازی می‌شود که این موضوع در سوپرمارکت‌های بدون آنتن بسیار مهم است. اگر بخواهم شفاف بگویم: پروژه هنوز در مراحل اولیه است و تعداد نظرات هم گواهی بر همین موضوع است. نسخه‌های iOS، اندروید و وب بدون تبلیغات، بدون ردیابی و بدون فروش اطلاعات ارائه شده‌اند. ترجیح می‌دهم بشنوم چیزی کم است تا اینکه محترمانه از برنامه تعریف کنید. بیشترین سوالی که ذهنم را درگیر کرده این است: اگر امروز با کسی لیست مشترک دارید، اولین چیزی که خراب می‌شود چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخش تبدیل رسید به آیتم‌های ساختاریافته محصول اصلی اینجاست و قابلیت لیست مشترک در حال حاضر یک ویژگی استاندارد و بدیهی محسوب می‌شود. آیا تاریخچه قیمت بر اساس نام دقیق آیتم در متن رسید تطبیق داده می‌شود، یا مجبور شدید برای زمانی که یک محصول در فروشگاه‌های مختلف نام متفاوتی دارد منطق تطبیق تقریبی (Fuzzy Matching) بسازید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "درباره پیشنهاد ۰.۹۹ دلاری برای ۳ ماه نسخه پرو کنجکاوم. آیا این روش نسبت به دوره آزمایشی رایگان معمولی، تبدیل به کاربر پولی بیشتری ایجاد می‌کند؟ همیشه برایم سوال بوده که آیا یک پرداخت بسیار کوچک می‌تواند افرادی را که هرگز قصد پرداخت ندارند فیلتر کند یا نه."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تاریخچه قیمت‌ها چیزی است که این برنامه را برای من جذاب‌تر از یک لیست مشترک معمولی می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "دوست دارم که تصمیم‌گیری‌های کوچک روی خود آیتم نگه داشته می‌شوند به جای اینکه در چت گم شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دیدن اینکه قبلاً آن قیمت را در کجا پرداخت کرده‌اید می‌تواند به طرز شگفت‌انگیزی کاربردی باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "حالت آفلاین بسیار مهم است؛ سوپرمارکت‌ها گاهی آنتن‌دهی فوق‌العاده ضعیفی دارند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "این دقیقاً کاری است که من و پارتنرم هنگام خرید از واتس‌اپ برای انجامش استفاده می‌کنیم."
+        }
+      ],
+      "aiReview": "پروژه Psst مسئله‌ای بسیار ملموس را در خرید روزمره خانوار هدف قرار داده است.\n\n**مسئله و راه‌حل:**\nاغلب افراد برای خریدهای مشترک از پیام‌رسان‌ها یا یادداشت‌های گوشی استفاده می‌کنند که منجر به عدم هماهنگی، خرید اشتباه و نادیده گرفتن قیمت‌ها می‌شود. Psst با ارائه یک لیست خرید چندکاربره هم‌زمان (Collaboration-first) و ترکیب آن با فناوری OCR برای استخراج خط‌به‌خط فاکتورها، امکان مقایسه دقیق قیمت واحد کالاها و سابقه خرید را فراهم می‌کند.\n\n**معماری و تکنولوژی:**\nطراحی به روش Offline-First یکی از تصمیمات معماری کلیدی این اپلیکیشن است، زیرا سوپرمارکت‌ها غالباً آنتن‌دهی ضعیفی دارند. همچنین تمرکز بر الگوریتم‌های هوشمند عدم مقایسه قیمت‌های غیرهم‌نام یا ناهم‌واحد، نشان‌دهنده دقت بالای توسعه‌دهنده در حفظ کیفیت داده‌هاست.\n\n**مدل درآمدی:**\nمدل اصلی Freemium است که تمام قابلیت‌های همکاری را رایگان ارائه می‌دهد و با آزمایش قیمت‌های خرد (مانند ۰.۹۹ دلار برای ۳ ماه) تلاش می‌کند نرخ تبدیل به کاربران پولی پرو را افزایش دهد.\n\n**نقاط قوت:**\n- معماری هم‌زمان و آفلاین‌محور عالی.\n- هوشمندی در محاسبه قیمت بر اساس واحد سنجش کالا.\n- عدم محدودسازی قابلیت‌های اصلی تعاملی در لایه پولی.\n- حفظ حریم خصوصی و عدم استفاده از تبلیغات.\n\n**نقاط ضعف:**\n- پیچیدگی منطق تطبیق نام کالاها (Fuzzy Matching) بین فروشگاه‌های مختلف.\n- ریسک مالی به دلیل ارائه‌ی رایگان اکثر ویژگی‌های جذاب برنامه.\n\n**نکته طلایی برای بازار ایران:**\nدر ایران به دلیل تورم بالا، ویژگی «به یاد داشتن قیمت قبلی» ارزش فوق‌العاده‌ای دارد. اگر نمونه ایرانی بتواند OCR فاکتورهای فروشگاه‌های بزرگ (مثل افق کوروش، جانبو، هایپرمی) را پیاده‌سازی کند و شاخص تورم اختصاصی سبد خرید هر خانواده را نشان دهد، به یک ابزار ضروری برای خریداران ایرانی تبدیل خواهد شد.",
+      "iranEquivalent": {
+        "productName": "رسیدچی (ResidChi)",
+        "description": "رسیدچی یک دستیار خرید هوشمند و لیست خواربار مشترک برای خانوار ایرانی است. این اپلیکیشن با اسکن فاکتور خرید سوپرمارکت‌ها و فروشگاه‌های زنجیره‌ای، قیمت آیتم‌ها را ثبت کرده و سابقه قیمتی آن‌ها را نگهداری می‌کند. اعضای خانواده می‌توانند به صورت هم‌زمان لیست خرید را مدیریت کرده و تغییرات قیمت کالاهای مصرفی را رصد کنند.",
+        "marketOpportunity": "با توجه به تورم لحظه‌ای و تنوع شدید قیمت‌ها در فروشگاه‌های مختلف ایران، نیاز شدیدی به مدیریت دقیق هزینه‌های خواربار وجود دارد. همچنین جایگزینی لیست‌های دستی و پیام‌رسان‌ها با یک ابزار اختصاصی هم‌زمان، شانس جذب مخاطبان زیادی را دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "خانواده‌ها، زوج‌های جوان، هم‌خانه‌ای‌ها و خریداران هوشمندی که به دنبال مدیریت هزینه‌های سبد خواربار هستند.",
+        "challenges": [
+          "چالش‌های فنی مربوط به تشخیص متون فارسی (OCR) روی فاکتورهای خرید با چاپ کم‌کیفیت یا حرارتی در ایران",
+          "تورم شدید و نوسانات سریع قیمت‌ها که سنجش ارزانی یا گران‌فروشی را با پیچیدگی مواجه می‌کند"
+        ],
+        "monetization": [
+          "فروش اشتراک ویژه (Pro) برای نمودارهای تحلیلی تورم شخصی و گزارش‌گیری پیشرفته مالی",
+          "همکاری در فروش (Affiliate Marketing) با معرفی تخفیف‌ها و پیشنهادهای ویژه فروشگاه‌های زنجیره‌ای آنلاین"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "React Native",
+          "Python (FastAPI)",
+          "Tesseract OCR / Vision AI"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -45873,7 +46665,65 @@
           "user": "[REDACTED]",
           "text": "Good call supporting Macs without a notch too The little tab seems like a simple way to keep the same workflow."
         }
-      ]
+      ],
+      "faDescription": "کلینلی (Kleanly) یک برنامه کاربردی و جالب برای مک‌بوک است که درست در بخش ناچ (Notch) دستگاه شما مستقر می‌شود. تنها با یک بار فشردن ناچ، کیبورد و ترک‌پد دستگاه قفل می‌شوند تا بتوانید بدون قطع شدن پخش ویدیو، تمام سطوح را گردگیری و تمیز کنید. با فعال بودن این قابلیت، اگر کودکان هنگام پخش کارتون به کلیدها ضربه بزنند، هیچ متنی تایپ نشده و اختلالی در پخش ایجاد نمی‌شود. پس از اتمام کار، کافی است روی ترک‌پد دوبار ضربه بزنید تا دستگاه مجدداً فعال شود. در نسخه جدید، قابلیت‌هایی مانند کنترل مستقیم از ناچ، آپدیت‌های درون‌برنامه‌ای، امکان انتقال لایسنس به مک جدید و یک تب کوچک برای مانیتورهای بدون ناچ اضافه شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! کلینلی حدود یک سال پیش برای اولین بار به عنوان راهکاری ساده برای قفل کردن کیبورد و ترک‌پد هنگام تمیزکاری مک معرفی شد. نسخه ۲ یک بازطراحی بزرگ است: در ناچ قرار می‌گیرد (کافی است نشانگر را ببرید و روی پخش بزنید تا آماده تمیزکاری شوید)، صفحه روشن می‌ماند تا ویدیو هنگام تمیز کردن کلیدها قطع نشود، ضد کودک است و کودکان می‌توانند هنگام پخش کارتون روی کیبورد بزنند بدون اینکه چیزی تایپ شود، با دوبار ضربه روی ترک‌پد قفل باز می‌شود، دارای لایه تاریک اختیاری برای تمیز کردن صفحه نمایش است، به‌روزرسانی درون‌برنامه‌ای و قابلیت انتقال لایسنس به مک جدید توسط خودتان را دارد و روی مک‌های بدون ناچ هم به شکل یک تب کوچک در بالای صفحه کار می‌کند. خوشحال می‌شوم بدانم شما چطور مک خود را تمیز می‌کنید و چه چیزی کلینلی را بهتر می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "راستش سناریوی کوبیدن دست کودکان روی کیبورد هنگام پخش کارتون، بیشتر از کاربرد تمیز کردن دستگاه نظرم را جلب کرد. اگر برنامه هنگ کند یا مک ریستارت شود چه اتفاقی می‌افتد؟ آیا قفل می‌ماند یا با ریستارت همیشه قفل باز می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "به نظرم لایه تاریک اختیاری هنگام تمیز کردن خود نمایشگر بسیار کاربردی است. تشخیص اثر انگشت و گرد و غبار روی یک صفحه تاریک‌تر قطعاً آسان‌تر خواهد بود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "من از قابلیت دوبار ضربه زدن روی ترک‌پد برای باز کردن قفل خوشم می‌آید؛ زیرا یک حرکت فیزیکی ساده و یادماندنی است و نیازی به گشتن در منوها بعد از اتمام کار ندارد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "استفاده از این برنامه برای سناریوی کودکان واقعاً کاربردی و واقعی است. می‌توانم ببینم وقتی بچه‌ها مشغول تماشای چیزی هستند و ناخودآگاه کلیدهای تصادفی را فشار می‌دهند، چقدر مفید خواهد بود."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "لایه تاریک برای تمیز کردن صفحه نمایش کاملاً منطقی است؛ من احتمالاً هر بار که بخواهم صفحه را تمیز کنم آن را فعال می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "دوست دارم که این برنامه سعی نمی‌کند ۱۰ کار مختلف را هم‌زمان انجام دهد. در واقع فقط یک مشکل روی اعصاب را حل می‌کند و سر راه کاربر قرار نمی‌گیرد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "حرکت خوبی بود که از مک‌های بدون ناچ هم پشتیبانی کردید. تب کوچک بالای صفحه یک راهکار ساده برای حفظ همان روند کاری است."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: Kleanly یک مشکل بسیار مشخص و ملموس (تایپ ناخواسته هنگام تمیز کردن کیبورد یا تماشای فیلم توسط کودکان) را با یک راهکار فوق‌العاده ساده و مینیمال حل کرده است.\n\nمعماری و تکنولوژی: برنامه به صورت نیتیو (Native) برای macOS توسعه یافته و از APIهای Accessibility سیستم‌عامل برای مسدودسازی ورودی‌های سخت‌افزاری استفاده می‌کند. ادغام جذاب با Notch مک‌بوک، UX بسیار روانی ایجاد کرده است.\n\nمدل درآمدی: مدل درآمدی بر پایه فروش لایسنس یک‌باره است که برای این دسته از برنامه‌های Utility بسیار مناسب و پذیرفته‌شده است.\n\nنقاط قوت: تمرکز روی یک مسئله خاص (Micro-SaaS)، UX بی‌نظیر، حل چالش روزمره والدین و کاربران حرفه‌ای، و عدم مزاحمت در حافظه و پردازنده.\n\nنقاط ضعف: محدود بودن بازار هدف به کاربران مک (در صورت عدم توسعه برای ویندوز) و احتمال تغییر سیاست‌های اپل در دسترسی به Notch یا قوانین Accessibility.\n\nنکته طلایی برای ایران: در بازار ایران، ساخت یک نمونه چندسکوئی (Cross-platform) برای ویندوز و مک با نام تجاری بومی و قیمت‌گذاری ریالی مناسب، می‌تواند به سرعت توسط فریلنسرها و برنامه‌نویسان ایرانی که حساسیت زیادی روی نگهداری تجهیزات گرون‌قیمت خود دارند پذیرفته شود.",
+      "iranEquivalent": {
+        "productName": "پاک‌کلید (CleanKey)",
+        "description": "این محصول یک ابزار کاربردی و سبک دسکتاپ جهت قفل سریع ورودی‌ها هنگام تمیزکاری یا استفاده کودکان است. ابزار مذکور به کاربر اجازه می‌دهد بدون قطع شدن محتوای در حال پخش، کیبورد و ماوس را غیرفعال کند. همچنین امکاناتی مانند حالت تاریک برای تشخیص بهتر کثیفی‌های صفحه نمایش را در اختیار کاربر قرار می‌دهد.",
+        "marketOpportunity": "با توجه به افزایش استفاده از لپ‌تاپ‌ها توسط فریلنسرها و خانواده‌ها در ایران، نیاز به ابزارهای نگهداری تجهیزات و جلوگیری از تداخل کودکان روزبه‌روز بیشتر می‌شود. ارائه بومی این محصول با پشتیبانی از ویندوز و مک می‌تواند سهم بازار مناسبی در میان کاربران حرفه‌ای و خانگی ایجاد کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کاربران مک‌بوک و لپ‌تاپ، فریلنسرها، والدینی که فرزند کوچک دارند، و طراحانی که نیاز به پاکسازی مداوم مانیتور دارند.",
+        "challenges": [
+          "محدودیت‌های دسترسی سیستم‌عامل (Accessibility Permissions) برای قفل‌سازی ورودی‌ها در سطح پایین",
+          "کوچک بودن اندازه بازار کاربران صرفاً مک در ایران و نیاز به توسعه نسخه ویندوز"
+        ],
+        "monetization": [
+          "فروش لایسنس یک‌باره (One-time purchase) با قیمت اقتصادی",
+          "ارائه نسخه ویژه سازمانی برای شرکت‌ها و آتلیه‌های طراحی"
+        ],
+        "techStack": [
+          "Swift",
+          "macOS Accessibility API",
+          "Tauri",
+          "Rust"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-10",
@@ -45933,7 +46783,63 @@
           "user": "[REDACTED]",
           "text": "I like that there’s no Lisen server sitting in the middle of this."
         }
-      ]
+      ],
+      "faDescription": "لیسن یک افزونه رایگان برای مرورگر کروم است که امکان پخش صوتی مقالات وب را با استفاده از صداهای کارتسیا فراهم می‌کند. این ابزار بدون نیاز به اشتراک اضافی یا ایجاد حساب کاربری جدید، از کلید API موجود شما در پلتفرم کارتسیا استفاده می‌کند. متن صفحات وب، از جمله مقالات، وبلاگ‌ها و مستندات، به صورت زنده یا با تولید قبلی فایل صوتی، با قابلیت هایلایت کلمات خوانده می‌شود. داده‌های شما روی سرورهای لیسن ذخیره نمی‌شوند و فقط هنگام پخش، متن به کارتسیا ارسال می‌گردد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "پخش رایگان هر مقاله با صداهای کارتسیا. بدون اشتراک اضافی روی پلن کارتسیا شما. لیسن یک افزونه رایگان کروم است که صفحات وب را با صداهای کارتسیا که قبلاً برای آن‌ها هزینه کرده‌اید، می‌خواند و هزینه اضافی ندارد. بدون اشتراک، بدون نیاز به ساخت حساب. آنچه می‌خوانید را می‌شنوید: مقالات، پست‌های وبلاگ، خبرنامه‌ها، مستندات، ساب‌استک، میدیوم و تریدهای طولانی؛ هر چیزی که بدنه متنی در صفحه داشته باشد. در مسیر رفت‌وآمد، هنگام آشپزی یا وقتی چشم‌هایتان از صفحه خسته شده‌اند گوش دهید. روی صفحه همراهی می‌کند. روی آیکون در یک مقاله کلیک کنید و یک پلیر کوچک ظاهر می‌شود. هنگام پخش، پاراگراف فعلی رنگی می‌شود و کلمه تلفظ‌شده علامت‌گذاری می‌شود تا هرگز جای خود را گم نکنید. همین حالا شروع کنید یا کل آن را تولید کنید. استریمینگ به محض فشار دکمه پخش شروع به صحبت می‌کند. تولید از قبل کل مقاله را ابتدا تولید می‌کند، سپس طول دقیق و نوار اسکراب را نشان می‌دهد. همه اعداد روی پلیر از صدا اندازه‌گیری می‌شوند؛ هیچ‌چیز تخمینی نیست. حساب شما، صداهای شما. کلید API کارتسیا را پیست کنید و هر صدایی از کتابخانه خود انتخاب کنید، از جمله صداهایی که در آنجا کلون یا طراحی کرده‌اید. شما فقط برای آنچه در کارتسیا تولید می‌کنید پرداخت می‌کنید. آن را به صورت صوتی ذخیره کنید. هر مقاله را به صورت WAV دانلود کنید. تایمینگ کلمات در فایل ذخیره می‌شود، بنابراین خواندن همراه هنگام باز کردن مجدد آن کار می‌کند. چیزی خارج نمی‌شود مگر اینکه پخش را فشار دهید. سرور لیسن وجود ندارد. کلید و تنظیمات شما در کروم روی دستگاه شما باقی می‌ماند. متن صفحه فقط هنگام فشار پخش و فقط از صفحاتی که پلیر را در آن‌ها باز کرده‌اید به کارتسیا می‌رود. بدون آنالیتیکس، بدون تله‌متری. آیا به حساب کارتسیا نیاز دارم؟ بله. لیسن از طریق کارتسیا صحبت می‌کند، بنابراین به یک حساب و کلید API از آن نیاز دارید. هزینه چقدر است؟ لیسن رایگان است. شما برای صدایی که تولید می‌کنید به کارتسیا پرداخت می‌کنید، بر اساس هر پلنی که با آن‌ها دارید که با یک سطح رایگان شروع می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چارچوب‌بندی برای یک لحظه مرا گیج کرد، «رایگان» در اینجا به خود افزونه اشاره دارد، نه صداهای، زیرا شما هنوز به پلن کارتسیای خود برای فراخوان‌های واقعی TTS نیاز دارید، درست است؟ شفاف بودن در مورد این تقسیم‌بندی برای کسانی که «رایگان» را می‌خوانند و انتظار دارند هزینه تولید صدا را نیز شامل شود، ارزشمند است. اگر کسی کارتسیا را تنظیم نکرده باشد، آیا به صدای بومی مرورگر برمی‌گردد، یا آیا این یک الزام سخت برای استفاده از آن است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ساختن روی پلن کارتسیا که کاربر از قبل دارد، به جای انباشتن یک اشتراک دیگر، جزئیاتی است که بیشترین علاقه‌مندی من را در اینجا برمی‌انگیزد. من در Callie Care روی هوش مصنوعی صوتی برای بزرگسالان کار می‌کنم، بنابراین زاویه دسترسی‌پذیری برای من برجسته است: پخش صوتی یک برد واقعی برای افرادی است که بینایی‌شان در حال کاهش است، اما اکثر ابزارها کنترل‌ها را پنهان می‌کنند و سرعت آهسته را در ۰.۷۵x محدود می‌کنند، که برای بسیاری از افراد ۷۵ ساله هنوز سریع است. آیا لیسن را با کسی در آن بازه سنی آزمایش کرده‌اید و نرخ گفتار شما تا چه حد پایین می‌رود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "نداشتن اشتراک اضافی روی کارتسیا یک مدل نسبتاً ساده و مستقیم است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "هایلایت کلمات احتمالاً ویژگی‌ای است که بیشترین استفاده را از آن می‌برم. گم کردن جای خود هنگام گوش دادن آزاردهنده است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این افزونه چگونه با صفحاتی که اطراف مقاله اصلی چیزهای زیادی دارند، برخورد می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "خروجی WAV جالب است. انتظار نداشتم این را از یک افزونه ساده پخش صوتی ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "دوست دارم که سرور لیسن در میان این فرآیند قرار نگرفته است."
+        }
+      ],
+      "aiReview": "مسئله اصلی، خستگی چشمی کاربران هنگام مطالعه متون طولانی در وب و نیاز به دسترسی آسان به محتوای صوتی است. راه‌حل ارائه‌شده، یک افزونه سبک‌وزن است که با استفاده از زیرساخت صوتی موجود کاربر (کارتسیا)، بدون ایجاد لایه واسط اضافی، متن را به صدا تبدیل می‌کند. از نظر معماری، این محصول رویکرد Edge-first را دنبال می‌کند؛ یعنی پردازش و ذخیره‌سازی تنظیمات به صورت محلی در مرورگر انجام می‌شود و فقط درخواست‌های TTS به سرورهای خارجی ارسال می‌شوند، که این امر حریم خصوصی را افزایش می‌دهد. مدل درآمدی مبتنی بر مدل B۲B۲C است که در آن محصول رایگان است و درآمد از طریق مصرف API توسط کاربر ایجاد می‌شود، اما برای توسعه‌دهنده، فرصت‌هایی مانند فروش لایسنس سازمانی یا ارائه صداهای اختصاصی وجود دارد. نقاط قوت شامل عدم نیاز به سرور واسط، حفظ حریم خصوصی، و قابلیت هایلایت زنده کلمات است. نقاط ضعف عبارتند از وابستگی به سرویس خارجی (کارتسیا) که ممکن است برای کاربران ایرانی چالش‌برانگیز باشد و عدم وجود صدای بومی فارسی در نسخه فعلی. نکته طلایی برای ایران: توسعه یک نسخه با پشتیبانی کامل از زبان فارسی و اتصال به موتورهای صوتی داخلی یا محلی (مانند سرویس‌های ابری ایرانی) می‌تواند مزیت رقابتی قوی ایجاد کند، زیرا کاربران ایرانی به دلیل محدودیت‌های اینترنتی به ابزارهایی نیاز دارند که با زیرساخت‌های داخلی سازگار باشند و کیفیت بالایی در تلفظ فارسی داشته باشند.",
+      "iranEquivalent": {
+        "productName": "خوانا",
+        "description": "خوانا یک افزونه مرورگری است که امکان تبدیل متن مقالات وب به گفتار را با استفاده از موتورهای صوتی داخلی یا خارجی فراهم می‌کند. این ابزار با هایلایت زنده کلمات، تجربه گوش دادن را برای کاربران ایرانی بهبود می‌بخشد. خوانا بدون نیاز به اشتراک ماهانه اضافی، از کلیدهای API موجود کاربران بهره می‌برد.",
+        "marketOpportunity": "بازار ایران به دلیل محدودیت‌های دسترسی به سرویس‌های خارجی و نیاز به ابزارهای سبک‌وزن برای مطالعه آنلاین، پتانسیل بالایی دارد. افزایش استفاده از محتواهای متنی طولانی در پلتفرم‌های ایرانی فرصت خوبی برای ورود است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "دانشجویان، پژوهشگران، علاقه‌مندان به مطالعه آنلاین و افراد دارای محدودیت بینایی",
+        "challenges": [
+          "محدودیت‌های اینترنتی در دسترسی به APIهای خارجی صوتی",
+          "نیاز به بهینه‌سازی برای پردازش متن فارسی و دستورات صوتی دقیق"
+        ],
+        "monetization": [
+          "مدل رایگان با قابلیت‌های پایه و اشتراک ویژه برای صداهای اختصاصی",
+          "فروش لایسنس سازمانی برای پلتفرم‌های آموزشی و خبری"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-10",
@@ -48920,6 +49826,40 @@
       }
     },
     {
+      "id": "ph-yesterday-8",
+      "date": "2026-09-27",
+      "rank": 8,
+      "name": "OpenScience",
+      "slug": "openscience",
+      "tagline": "The open-source AI workbench for scientific research",
+      "description": "OpenScience is an open-source AI agent for scientific research. It reads papers, writes and runs code, works in notebooks and a terminal, and sends long jobs to Modal, your own servers, or a Slurm/PBS cluster. Give it a metric and Autoresearch runs experiments, logs every one, and keeps hill-climbing. Use 30+ models through one wallet, sign in with ChatGPT, or run a local model. It ranks #1 on agentic scientific research benchmarks. Free and open source.",
+      "category": "Open Source • Artificial Intelligence • Science",
+      "categoryFa": "متن‌باز • هوش مصنوعی • Science",
+      "url": "https://www.producthunt.com/products/openscience?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d381fb88-c04d-477d-9ac7-97872c36a2c8.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a1cd3bb6-e269-4ca2-b44d-012900fe79cf.jpeg?auto=format",
+        "https://ph-files.imgix.net/e4944818-e0a3-434f-8330-e0f15bb8d4ca.png?auto=format",
+        "https://ph-files.imgix.net/f8a38f5b-4984-4848-be3d-01850a5a331e.png?auto=format",
+        "https://ph-files.imgix.net/53c34597-043c-47fe-82ab-9b547d68384b.png?auto=format",
+        "https://ph-files.imgix.net/43936d98-e9c3-46a7-89e8-a51c3df73e09.png?auto=format",
+        "https://ph-files.imgix.net/fcfb5e22-d653-4290-aae8-7bb8512a4ca1.png?auto=format",
+        "https://ph-files.imgix.net/ed2fa81d-04d5-4c95-8875-0b6c9199f57f.png?auto=format",
+        "https://ph-files.imgix.net/c65d1115-3384-466d-a9cd-39fe3a82050d.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 74,
+      "websiteUrl": "https://www.producthunt.com/r/NAXPU3QZ47AMRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I'm Ishaan, one of the people building OpenScience.We started this because doing research with AI meant copying things back and forth between a chat window, a terminal, a notebook, and whatever cluster you had access to. OpenScience puts all of that in one place and lets an agent work across it.We also think scientific tools should be open. However, the strongest models and products increasingly come with restrictions set by the labs that train them: which fields they'll help with, who gets access, and on what terms. So OpenScience is open source and model-agnostic. Pick any model, swap it mid-project, or run it locally on your own hardware.OpenScience is currently #1 on agentic scientific research benchmarks, including Terminal Bench Science, TerminalBench 4.0 (Science subset), BiomniBench, and our internal OpenScience Bench.What's in this launch:1. New IDE: a faster, redesigned workspace with papers, code, notebooks, a LaTeX editor, a terminal, and 3D protein and genomics viewers next to the agent2. Autoresearch: experiment loops that run on Modal GPUs, your own servers, or Slurm and PBS clusters3. OpenScience Ace: 30+ models (GPT-6 Astra, Claude Opus 5.5, Kimi K3, GLM-5.3 and more) through one pay-as-you-go wallet, or bring your own keys, your ChatGPT/Codex login, or a local model4. Updated tooling: 300+ research skills, 50+ scientific tools and databases, and NVIDIA BioNeMo supportNot a scientist? Autoresearch is probably what you'll care about. Give it a metric, like validation loss, p99 latency, or build time, and it forms hypotheses, runs experiments, and logs every attempt so you can see what worked.OpenScience is built for computational research across ML, biology, chemistry, physics, and data science. Researchers at 30+ universities and labs used the beta, and now it's open to everyone. Sign up with a .edu email for $5 in free Ace credit.I'll be in the comments all day, would love to hear what you think!"
+        }
+      ]
+    },
+    {
       "id": "ph-today-9",
       "date": "2026-08-29",
       "rank": 9,
@@ -49384,12 +50324,12 @@
     }
   ],
   "audit": {
-    "products": 481,
-    "withRealComments": 481,
-    "withPersianComments": 467,
-    "withPersianDescription": 467,
-    "withAiReview": 459,
-    "withIranEquivalent": 467,
-    "totalRealComments": 2976
+    "products": 489,
+    "withRealComments": 489,
+    "withPersianComments": 477,
+    "withPersianDescription": 477,
+    "withAiReview": 469,
+    "withIranEquivalent": 477,
+    "totalRealComments": 3021
   }
 }
