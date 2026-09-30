@@ -1,16 +1,25 @@
 {
-  "checkedAt": "2026-09-29T02:17:57.531Z",
-  "latestDataset": "2026-09-29.json",
+  "checkedAt": "2026-09-30T01:32:13.896Z",
+  "latestDataset": "2026-09-30.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 51,
-  "backlogAfter": 42,
-  "completedProducts": 447,
-  "missingFaDescription": 12,
-  "missingFaComments": 36,
-  "missingAiReview": 20,
-  "missingIranEquivalent": 13,
-  "failures": []
+  "succeeded": 8,
+  "failed": 2,
+  "backlogBefore": 52,
+  "backlogAfter": 44,
+  "completedProducts": 455,
+  "missingFaDescription": 14,
+  "missingFaComments": 38,
+  "missingAiReview": 22,
+  "missingIranEquivalent": 15,
+  "failures": [
+    {
+      "slug": "clicks-communicator",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"کلیکس کامونیکیتور یک گوشی هوشمند و فشرده مبتنی بر اندروید 17 است که حول محور یک کیبورد فیزیکی و یک صفحه اصلی اختصاصی برای گفت‌وگوها طراحی و ساخته شده است. شما"
+    },
+    {
+      "slug": "okara-2",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"اوکارا اولین مدیر ارشد بازاریابی مبتنی بر هوش مصنوعی (AI CMO) در جهان است. شما کافی است آدرس وب‌سایت خود را وارد کنید تا این پلتفرم محصولات، رقبا و لحن برندتا"
+    }
+  ]
 }
