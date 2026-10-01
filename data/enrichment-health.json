@@ -1,25 +1,25 @@
 {
-  "checkedAt": "2026-09-30T01:32:13.896Z",
-  "latestDataset": "2026-09-30.json",
+  "checkedAt": "2026-10-01T01:31:04.687Z",
+  "latestDataset": "2026-10-01.json",
   "batchLimit": 10,
   "attempted": 10,
   "succeeded": 8,
   "failed": 2,
-  "backlogBefore": 52,
-  "backlogAfter": 44,
-  "completedProducts": 455,
-  "missingFaDescription": 14,
-  "missingFaComments": 38,
-  "missingAiReview": 22,
-  "missingIranEquivalent": 15,
+  "backlogBefore": 55,
+  "backlogAfter": 48,
+  "completedProducts": 462,
+  "missingFaDescription": 18,
+  "missingFaComments": 42,
+  "missingAiReview": 26,
+  "missingIranEquivalent": 19,
   "failures": [
     {
-      "slug": "clicks-communicator",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"کلیکس کامونیکیتور یک گوشی هوشمند و فشرده مبتنی بر اندروید 17 است که حول محور یک کیبورد فیزیکی و یک صفحه اصلی اختصاصی برای گفت‌وگوها طراحی و ساخته شده است. شما"
+      "slug": "zenabm",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     },
     {
-      "slug": "okara-2",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"اوکارا اولین مدیر ارشد بازاریابی مبتنی بر هوش مصنوعی (AI CMO) در جهان است. شما کافی است آدرس وب‌سایت خود را وارد کنید تا این پلتفرم محصولات، رقبا و لحن برندتا"
+      "slug": "paste-7",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"کلیپ‌بورد هوشمند قابلیت جدیدی در اپلیکیشن Paste است؛ برنامه‌ای برای افزایش بهره‌وری که تمام موارد کپی‌شده شما را به خاطر می‌سپارد. اکنون Paste بر اساس فعالیتی"
     }
   ]
 }

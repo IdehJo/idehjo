@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:06:18.035Z",
+  "generatedAt": "2026-10-01T01:31:04.659Z",
   "sourceFiles": 52,
   "products": [
     {
@@ -2515,7 +2515,7 @@
       "maker": "Yuriy Zaremba",
       "makerTitle": "Trying to make something people want :)",
       "featuredAt": "2026-09-18T07:01:00Z",
-      "votes": 653,
+      "votes": 655,
       "websiteUrl": "https://www.producthunt.com/r/IABJ4YWI3SSSWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -9892,7 +9892,63 @@
           "user": "[REDACTED]",
           "text": "@dimneo This looks useful especially for teams putting agents into real workflows where they can actually take actions. How do you handle changes after the audit though? Like if I change the system prompt or give the agent access to another tool, would I need to run the whole audit again?"
         }
-      ]
+      ],
+      "faDescription": "iFixAi یک سرویس مستقل برای ارزیابی و بازرسی هوش مصنوعی‌های سازمانی است که به شرکت‌ها کمک می‌کند بفهمند آیا می‌توانند به عوامل هوش مصنوعی خود اعتماد کنند یا نه. این سرویس با ترکیبی از ۲۵۰ بازرسی در ۶۹ دسته مختلف از ناهماهنگی‌های هوش مصنوعی، شامل تست‌های قرمز تیمی، تضمین عملیاتی و دیدگاه‌های فلسفی، اخلاقی و جامعه‌شناختی، به شناسایی خطاها می‌پردازد. نتایج به زبان تجاری ارائه می‌شود تا تیم‌های ریسک و کسب‌وکار بتوانند شدت و پیامدهای کسب‌وکاری مشکلات را درک کنند و مهندسان شواهد کافی برای رفع آن‌ها داشته باشند. همچنین گزارش‌های انطباق با چارچوب‌های بین‌المللی مانند قانون هوش مصنوعی اتحادیه اروپا و NIST ارائه می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من دیِم، هم‌بنیان‌گذار iFixAi هستم. در اکتبر ۲۰۲۵ من هم‌بنیان‌گذار iMe Life Ltd. بودم که برای شرکت‌ها عوامل هوش مصنوعی سفارشی می‌ساختیم. یکی از این عوامل یک دستیار حقوقی بود که سندی ساخت که وجود نداشت و کاربر نهایی را فریب داد که آن را خودش ایجاد کرده است. پس از افشای این اتفاق، مشتری قرارداد را لغو کرد و ما تصمیم گرفتیم روی مشکل ناهماهنگی هوش مصنوعی تمرکز کنیم. این‌گونه iFixAi شکل گرفت و پس از چهار ماه به بیش از ۱۵ هزار ستاره، ۲۰۰۰ دانلود PyPI و ۱۴۰۰ فورک رسید. سپس نسخه پریمیوم با بازرسی‌های بیشتر و گزارش‌های دقیق‌تر راه‌اندازی شد. هدف ما این است که نشان دهیم چگونه می‌توان به عوامل هوش مصنوعی اعتماد کرد و از رفتارهای خلاف سیاست شرکت جلوگیری کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چگونه می‌توانیم حسابرس (iFixAi) را نیز بازرسی کنیم؟ اگر یک عامل مخرب دور iFixAi حرکت کند، چگونه می‌توانیم صحت آن را تأیید کنیم؟ من به دنبال محصولی مثل این بودم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "باوررسی عوامل قبل از اینکه به‌سراغ خرابکاری بروند، یک نیاز واقعی در حال حاضر است 🔥 کدام تیم‌ها اولین بار به شما مراجعه می‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "داستان سند ساختگی یک داستان اصلی خوب است چون نه یک حملهٔ جیل‌بریک است و نه یک تست قرمز تیم، بلکه عاملی است که در استفادهٔ عادی دربارهٔ اقدامات خود دروغ می‌گوید. این یک حالت شکست ترسناک‌تر از اکثر تست‌های امنیتی است. سؤال: چون مدل پایهٔ عامل می‌تواند به‌صورت ساکت توسط ارائه‌دهنده تعویض یا به‌روزرسانی شود، آیا بازرسی iFixAi یک snapshot لحظه‌ای است یا وقتی مدل یا پرامپت عامل تغییر کرد، به‌صورت خودکار دوباره اجرا می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک برای راه‌اندازی! رایج‌ترین الگوهای شکست که تا به حال در عوامل هوش مصنوعی مشاهده کرده‌اید چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ما از کد تخفیف برای بازرسی رایگان استفاده کردیم و می‌خواستم بگویم - گزارش بسیار جامع و به‌راحتی قابل درک بود."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "رویکرد بسیار جالبی برای اعتماد و مسئولیت‌پذیری عوامل هوش مصنوعی است. مثال واقعی iFixAi مشکل را بسیار قابل‌درک می‌کند. بازرسی مستقل می‌تواند لایه‌ای مهم برای شرکت‌ها باشد که به عوامل هوش مصنوعی مسئولیت‌های بیشتری می‌دهند. تبریک برای راه‌اندازی، دیِم! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "@dimneo این ابزار برای تیم‌هایی که عوامل را در جریان‌های کاری واقعی قرار می‌دهند و می‌توانند اقدام کنند، بسیار مفید است. پس از بازرسی، تغییرات مثل تغییر پرامپت سیستم یا افزودن ابزار جدید را چگونه مدیریت می‌کنید؟ آیا باید کل بازرسی را دوباره اجرا کنیم؟"
+        }
+      ],
+      "aiReview": "مسئله: شرکت‌ها با خطر ناهماهنگی عوامل هوش مصنوعی مواجه‌اند؛ این عوامل می‌توانند بدون اطلاع کاربر کارهای خلاف سیاست یا قوانین انجام دهند که منجر به خسارت مالی و reputational می‌شود. راه‌حل: iFixAi به‌عنوان یک حسابرس مستقل، با ۲۵۰ بازرسی در ۶۹ حوزه، از دیدگاه‌های فنی، اخلاقی و عملیاتی، رفتار عامل را در محیط شبیه‌سازی شده ارزیابی می‌کند و نتایج را به‌صورت گزارش‌های تجاری و شواهد فنی ارائه می‌دهد. معماری و تکنولوژی: سرویس بر پایهٔ Next.js برای رابط کاربری و PostgreSQL برای ذخیره‌سازی داده‌های بازرسی ساخته شده؛ با استفاده از مدل‌های بزرگ زبان (LLM) که در سرورهای جداگانه اجرا می‌شوند، رفتار عامل شبیه‌سازی می‌شود و نتایج توسط مدل‌های ارزیابی مستقل تحلیل می‌شود. مدل درآمدی: ترکیبی از اشتراک ماهانه برای بازرسی‌های پایه و فروش بسته‌های پیشرفته با گزارش‌های سفارشی و مشاورهٔ فنی؛ همچنین امکان فروش لایسنس برای استفاده داخلی در سازمان‌های بزرگ. نقاط قوت: پوشش جامع بازرسی‌ها، ارائه شواهد فنی، گزارش‌های تجاری قابل‌فهم برای تیم‌های ریسک، انطباق با چارچوب‌های بین‌المللی، و قابلیت ادغام با GitHub و MCP. نقاط ضعف: نیاز به دسترسی به کد و پیکربندی عامل برای شبیه‌سازی دقیق، و هزینه اولیه برای راه‌اندازی محیط شبیه‌سازی. نکته طلایی برای ایران: با توجه به رشد سریع استفاده از عوامل هوش مصنوعی در بانک‌ها و شرکت‌های دولتی، ایجاد یک نهاد مستقل ملی برای بازرسی iFixAi می‌تواند به‌عنوان استاندارد قانونی و تضمین اعتماد در بازار داخلی عمل کند.",
+      "iranEquivalent": {
+        "productName": "iFixAi",
+        "description": "iFixAi یک پلتفرم مستقل برای ارزیابی ریسک و ناهماهنگی عوامل هوش مصنوعی در سازمان‌هاست. با بیش از ۲۵۰ بازرسی در ۶۹ دسته، ترکیبی از تست‌های قرمز تیمی، تضمین عملیاتی و دیدگاه‌های اخلاقی را ارائه می‌دهد. نتایج به‌صورت گزارش‌های تجاری و شواهد فنی برای تیم‌های مهندسی و ریسک ارائه می‌شود.",
+        "marketOpportunity": "در ایران، شرکت‌های بزرگ فناوری و بانک‌ها به‌سرعت از عوامل هوش مصنوعی در فرآیندهای حساس استفاده می‌کنند و نیاز به تضمین اعتماد دارند. بازار بازرسی مستقل هوش مصنوعی می‌تواند به‌عنوان یک لایهٔ حفاظتی جدید برای جلوگیری از خسارات مالی و reputational شناخته شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران فناوری (CTO)، مدیران اطلاعات (CIO)، تیم‌های مهندسی نرم‌افزار و مسئولین ریسک در شرکت‌های بزرگ و متوسط",
+        "challenges": [
+          "دسترسی به داده‌های حساس برای آزمون‌های واقعی",
+          "همگام‌سازی با به‌روزرسانی‌های مداوم مدل‌های هوش مصنوعی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای بازرسی‌های پایه",
+          "فروش بسته‌های پیشرفته با گزارش‌های سفارشی و مشاورهٔ فنی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-week-4",
@@ -13878,7 +13934,18 @@
           "user": "[REDACTED]",
           "text": "the retention and on-disk answers below cover your own data well. the case I'm curious about is other people's: a screen share where a coworker's Slack DMs are visible in the background, or a video call where someone else's face and name are on screen. that's not really \"your history\" anymore, it's theirs, captured without them opting into anything. is there any redaction or exclusion for windows/apps you don't own the content of, or is the assumption that if it crossed your screen it's fair game to record?"
         }
-      ]
+      ],
+      "iranEquivalent": {
+        "productName": "",
+        "description": "",
+        "marketOpportunity": "",
+        "estimatedBudget": "",
+        "targetAudience": "",
+        "challenges": [],
+        "monetization": [],
+        "techStack": [],
+        "confidence": 0
+      }
     },
     {
       "id": "ph-week-8",
@@ -14229,9 +14296,71 @@
       ]
     },
     {
-      "id": "ph-week-8",
+      "id": "ph-today-1",
+      "date": "2026-09-30",
+      "rank": 1,
+      "name": "Pexo",
+      "slug": "pexo-2",
+      "tagline": "Produce pitch perfect launch videos with precise control",
+      "description": "Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.",
+      "category": "Marketing • Artificial Intelligence • Video",
+      "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format",
+        "https://ph-files.imgix.net/e18faf10-70ed-4ff4-8ac6-ebde586d29d2.png?auto=format",
+        "https://ph-files.imgix.net/cc03e4de-5845-4b37-8c94-51ca4f764be9.png?auto=format",
+        "https://ph-files.imgix.net/70247dd9-59b0-4481-bdb3-381f15fd132c.png?auto=format",
+        "https://ph-files.imgix.net/79273f58-6c60-4448-a2cc-f922745e860e.png?auto=format",
+        "https://ph-files.imgix.net/41cea317-88f8-4234-a2aa-5eb0de5a3e9c.png?auto=format",
+        "https://ph-files.imgix.net/4a61af5b-6cbb-458c-a250-f98d82f685f6.png?auto=format",
+        "https://ph-files.imgix.net/9553a184-e0d9-469f-921c-4ec9720fea05.jpeg?auto=format"
+      ],
+      "maker": "Stelly Lin",
+      "makerTitle": "Marketing specialist",
+      "featuredAt": "2026-09-30T07:01:00Z",
+      "votes": 352,
+      "websiteUrl": "https://www.producthunt.com/r/O3T2IT5O2KIEFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Evan and team! The conversational edit flow looks genuinely useful."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Killer idea - love to see all of this shipping in real time - Dev side working overtime haha"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the frame-comment editing model is the part that stands out to me - most AI video tools still make you rewrite the whole prompt and hope the regeneration keeps everything else intact. pointing at a specific frame and saying what's wrong with it is a much closer match to how people already give feedback on a cut. curious how far that goes though - can you comment on just the audio/voiceover of a scene without touching the visuals, or does every edit regenerate the whole clip?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Talking about my app for an hour v.s. explain it in 30 seconds!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Can Pexo remember a brand’s style when creating videos for different launches?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like this whole concept. Can it also \"scan\" e.g. my look/appearance and I will be the narrator in the explainer video?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Opened it for a quick look and ended up finishing a product video. Wasn’t on today’s to-do list, but I’ll take it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Wait it can turn our product page into a full video? That’s pretty cool!"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-9",
       "date": "2026-09-27",
-      "rank": 8,
+      "rank": 9,
       "name": "Humalike x GTA RP",
       "slug": "humalike-x-gta-rp",
       "tagline": "AI NPCs that talk, remember & act on their own",
@@ -14418,68 +14547,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-09-30",
-      "rank": 1,
-      "name": "Pexo",
-      "slug": "pexo-2",
-      "tagline": "Produce pitch perfect launch videos with precise control",
-      "description": "Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.",
-      "category": "Marketing • Artificial Intelligence • Video",
-      "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
-      "url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format",
-        "https://ph-files.imgix.net/e18faf10-70ed-4ff4-8ac6-ebde586d29d2.png?auto=format",
-        "https://ph-files.imgix.net/cc03e4de-5845-4b37-8c94-51ca4f764be9.png?auto=format",
-        "https://ph-files.imgix.net/70247dd9-59b0-4481-bdb3-381f15fd132c.png?auto=format",
-        "https://ph-files.imgix.net/79273f58-6c60-4448-a2cc-f922745e860e.png?auto=format",
-        "https://ph-files.imgix.net/41cea317-88f8-4234-a2aa-5eb0de5a3e9c.png?auto=format",
-        "https://ph-files.imgix.net/4a61af5b-6cbb-458c-a250-f98d82f685f6.png?auto=format",
-        "https://ph-files.imgix.net/9553a184-e0d9-469f-921c-4ec9720fea05.jpeg?auto=format"
-      ],
-      "maker": "Stelly Lin",
-      "makerTitle": "Marketing specialist",
-      "featuredAt": "2026-09-30T07:01:00Z",
-      "votes": 350,
-      "websiteUrl": "https://www.producthunt.com/r/O3T2IT5O2KIEFF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Evan and team! The conversational edit flow looks genuinely useful."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Killer idea - love to see all of this shipping in real time - Dev side working overtime haha"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the frame-comment editing model is the part that stands out to me - most AI video tools still make you rewrite the whole prompt and hope the regeneration keeps everything else intact. pointing at a specific frame and saying what's wrong with it is a much closer match to how people already give feedback on a cut. curious how far that goes though - can you comment on just the audio/voiceover of a scene without touching the visuals, or does every edit regenerate the whole clip?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Talking about my app for an hour v.s. explain it in 30 seconds!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Can Pexo remember a brand’s style when creating videos for different launches?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like this whole concept. Can it also \"scan\" e.g. my look/appearance and I will be the narrator in the explainer video?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Opened it for a quick look and ended up finishing a product video. Wasn’t on today’s to-do list, but I’ll take it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Wait it can turn our product page into a full video? That’s pretty cool!"
-        }
-      ]
     },
     {
       "id": "ph-week-9",
@@ -14864,7 +14931,7 @@
       "maker": "Sam Altman",
       "makerTitle": "President, YC",
       "featuredAt": "2026-09-27T07:01:00Z",
-      "votes": 342,
+      "votes": 343,
       "websiteUrl": "https://www.producthunt.com/r/TYGMCTMYJRKMMV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -15083,6 +15150,68 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-09-30",
+      "rank": 2,
+      "name": "Ferndesk",
+      "slug": "ferndesk",
+      "tagline": "The help center that never goes out of date",
+      "description": "Ferndesk is a complete help center with an agent that checks every article against your product, catches what changed, and drafts the fixes for you.",
+      "category": "Customer Success • Customer Communication • Artificial Intelligence",
+      "categoryFa": "Customer Success • Customer Communication • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/352126fa-e851-48ab-9922-ed4b73ec60dd.png?auto=format",
+        "https://ph-files.imgix.net/657e5e9d-d378-43c6-b668-4d35cf3e74a7.png?auto=format",
+        "https://ph-files.imgix.net/492eccbd-5731-4ab9-9c91-4d9fcbf755d7.png?auto=format",
+        "https://ph-files.imgix.net/09f1e598-5306-4e62-8125-be8126ed3c71.png?auto=format",
+        "https://ph-files.imgix.net/e8d8e045-5d7d-4b0a-ad19-6cd9e482f7b5.png?auto=format",
+        "https://ph-files.imgix.net/06ff3ee9-f8d5-441f-905a-5f1240c6fbc4.png?auto=format",
+        "https://ph-files.imgix.net/5e0883f3-c4a2-4ce9-9c3d-6180ea3764a8.png?auto=format",
+        "https://ph-files.imgix.net/2623a81a-c2c4-47a4-8373-fe0607f367fc.jpeg?auto=format"
+      ],
+      "maker": "Wilson Wilson",
+      "makerTitle": "Founder of Ferndesk",
+      "featuredAt": "2026-09-30T07:01:00Z",
+      "votes": 336,
+      "websiteUrl": "https://www.producthunt.com/r/576PDTHXOH2PTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Today I’m excited to finally share Ferndesk! The first help center that never goes out of date. At my last company, we shipped new product incredibly quickly. But as a small team, we never had the bandwidth to keep our docs up to date. We wanted to spend less time in support and more time growing the business, but our docs were a bottleneck. So one year ago, I set out to build a docs platform that keeps up with you. Today, Ferndesk saves 100+ SaaS teams 20-50 hours/mo on docs, and counting. In year two, we're going to help 1,000."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Out-of-date docs cost more than missing ones because people trust them. Nice to see a tool built around catching that."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Wilson! A help center that keeps itself current is exactly the pain most support teams quietly live with. Love that it stays in sync instead of rotting after every release."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really like the idea of keeping the help center updated automatically"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super smooth poduct, another gem by @wilsonsquared"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "this is awesome!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How should a team handle a feature that has merged into the codebase but is still behind a feature flag?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "search inside docs would help a lot. right now i have to scroll through everything.."
+        }
+      ]
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-08-24",
       "rank": 8,
@@ -15202,68 +15331,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-09-30",
-      "rank": 2,
-      "name": "Ferndesk",
-      "slug": "ferndesk",
-      "tagline": "The help center that never goes out of date",
-      "description": "Ferndesk is a complete help center with an agent that checks every article against your product, catches what changed, and drafts the fixes for you.",
-      "category": "Customer Success • Customer Communication • Artificial Intelligence",
-      "categoryFa": "Customer Success • Customer Communication • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/352126fa-e851-48ab-9922-ed4b73ec60dd.png?auto=format",
-        "https://ph-files.imgix.net/657e5e9d-d378-43c6-b668-4d35cf3e74a7.png?auto=format",
-        "https://ph-files.imgix.net/492eccbd-5731-4ab9-9c91-4d9fcbf755d7.png?auto=format",
-        "https://ph-files.imgix.net/09f1e598-5306-4e62-8125-be8126ed3c71.png?auto=format",
-        "https://ph-files.imgix.net/e8d8e045-5d7d-4b0a-ad19-6cd9e482f7b5.png?auto=format",
-        "https://ph-files.imgix.net/06ff3ee9-f8d5-441f-905a-5f1240c6fbc4.png?auto=format",
-        "https://ph-files.imgix.net/5e0883f3-c4a2-4ce9-9c3d-6180ea3764a8.png?auto=format",
-        "https://ph-files.imgix.net/2623a81a-c2c4-47a4-8373-fe0607f367fc.jpeg?auto=format"
-      ],
-      "maker": "Wilson Wilson",
-      "makerTitle": "Founder of Ferndesk",
-      "featuredAt": "2026-09-30T07:01:00Z",
-      "votes": 334,
-      "websiteUrl": "https://www.producthunt.com/r/576PDTHXOH2PTI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Today I’m excited to finally share Ferndesk! The first help center that never goes out of date. At my last company, we shipped new product incredibly quickly. But as a small team, we never had the bandwidth to keep our docs up to date. We wanted to spend less time in support and more time growing the business, but our docs were a bottleneck. So one year ago, I set out to build a docs platform that keeps up with you. Today, Ferndesk saves 100+ SaaS teams 20-50 hours/mo on docs, and counting. In year two, we're going to help 1,000."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Out-of-date docs cost more than missing ones because people trust them. Nice to see a tool built around catching that."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Wilson! A help center that keeps itself current is exactly the pain most support teams quietly live with. Love that it stays in sync instead of rotting after every release."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really like the idea of keeping the help center updated automatically"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Super smooth poduct, another gem by @wilsonsquared"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "this is awesome!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How should a team handle a feature that has merged into the codebase but is still behind a feature flag?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "search inside docs would help a lot. right now i have to scroll through everything.."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-1",
@@ -21980,7 +22047,7 @@
       "maker": "",
       "makerTitle": "",
       "featuredAt": "2026-09-29T07:01:00Z",
-      "votes": 270,
+      "votes": 271,
       "websiteUrl": "https://www.producthunt.com/r/DWZRO527OIEBF6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -21995,7 +22062,46 @@
           "user": "[REDACTED]",
           "text": "Rohan's note about thinking settings is worth reading twice. When I moved a small agent onto Sonnet 5, responses started coming back with a thinking block first, and my code was reading content[0]. It broke.If anything of yours reads the first block, pick the text or tool_use block by type before you change the model string."
         }
-      ]
+      ],
+      "faDescription": "کلود سونت ۵.۵ جدیدترین مدل هوش مصنوعی سریع و مقرون‌به‌صرفه شرکت آنتروپیک برای انجام کارهای روزمره نظیر کدنویسی، رفع باگ، تنظیم اسناد، ساخت اسلاید و طراحی است. این مدل سرعت اجرا را بیش از ۳۰ درصد نسبت به نسخه سونت ۵ افزایش داده است. همچنین هزینه‌های عملیاتی انجام وظایف مختلف را تا ۳۰ درصد کاهش می‌دهد. کلود سونت ۵.۵ با ارائه عملکردی قدرتمندتر در پردازش کد و پروژه‌های مبتنی بر دانش، گزینه‌ای ایده‌آل برای توسعه‌دهندگان و نیروهای متخصص محسوب می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "کلود سونت ۵.۵ مدل هوش مصنوعی سریع‌تر و اقتصادی‌تر شرکت آنتروپیک برای کدنویسی روزمره و کارهای مبتنی بر دانش است. این مدل با اجرای بیش از ۳۰٪ سریع‌تر نسبت به سونت ۵ و کاهش هزینه‌های کاری تا ۳۰٪، مشکل کندی و گرانی انجام وظایف را حل می‌کند. این محصول سرعت، صرفه اقتصادی و عملکرد قوی‌تر را در کدنویسی و کارهای دانشی با هم ترکیب کرده است. ویژگی‌ها و مزایا: بیش از ۳۰٪ سریع‌تر از سونت ۵، تا ۳۰٪ هزینه کمتر، عملکرد قوی‌تر در کدنویسی و کارهای دانشی، کارکرد روی کد، رفع باگ، اسناد، اسلاید و طراحی. ساخته‌شده برای کاربرانی که روی کد، رفع باگ، اسناد، اسلاید و طراحی کار می‌کنند. شروع به کار: کلود سونت ۵.۵ اکنون در تمامی پلتفرم‌ها از جمله آمازون (AWS)، گوگل کلود و مایکروسافت آزور در دسترس است. توسعه‌دهندگان می‌توانند با مدل claude-sonnet-۵-۵ در پلتفرم کلود شروع کنند. اگر سونت را بدون حالت تفکر (thinking off) اجرا می‌کنید، قبل از مهاجرت به سونت ۵.۵ باید به تنظیمات جدید between_tools سوئیچ کنید تا حالت تفکر اولیه خاموش بماند. پاورقی: من جدیدترین و بهترین محصولات حوزه تکنولوژی، نرم‌افزارهای ابری (SaaS) و هوش مصنوعی را شکار می‌کنم، دنبال کنید تا مطلع شوید ← @rohanrecommends"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "فوق‌العاده است! من از طرفداران پرشور آنتروپیک و مدل‌های شما هستم و به‌صورت روزانه از آن استفاده می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "نکته روهان درباره تنظیمات تفکر (thinking) ارزش دو بار خواندن را دارد. وقتی من یک ایجنت کوچک را به سونت ۵ منتقل کردم، پاسخ‌ها با یک بلاک تفکر در ابتدا برگشتند و کد من متون content[۰] را می‌خواند، که باعث خراب شدن برنامه شد. اگر برنامه‌تان اولین بلاک را می‌خواند، قبل از تغییر رشته مدل (model string)، نوع بلاک را به متن یا tool_use بر اساس تایپ مشخص کنید."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: مدل Claude Sonnet ۵.۵ چالش بالا بودن هزینه پردازش و کندی سرعت در مدل‌های قبلی را برای کارهای روزمره مهندسی نرم‌افزار حل کرده است. آنتروپیک با افزایش ۳۰ درصدی سرعت و کاهش ۳۰ درصدی هزینه، کارایی اجرای فرآیندهای فنی را به شدت ارتقا داده است.\nمعماری و تکنولوژی: این مدل از قابلیت پردازش چندمنظوره (Multimodal) با ساختار بلاک‌های تفکر (Thinking Blocks) و پشتیبانی از ابزارهای مختلف (Tool Use) بهره می‌برد و روی تمامی ابرهای بزرگ (AWS, GCP, Azure) منتشر شده است.\nمدل درآمدی: مدل درآمدی اصلی مبتنی بر پرداخت به ازای مصرف توکن (Pay-as-you-go) از طریق API و فروش اشتراک‌های پلتفرمی است.\nنقاط قوت: سرعت بالای پردازش، کاهش محسوس هزینه‌ها، قدرت بالا در درک کد و پارس کردن اسناد و طراحی‌ها.\nنقاط ضعف: تغییر در ساختار خروجی API (مانند اضافه شدن بلاک‌های تفکر) که در صورت عدم تطبیق کدهای قدیمی توسط توسعه‌دهندگان، باعث بروز خطا در برنامه‌ها می‌شود.\nنکته طلایی برای ایران: استارتاپ‌های ایرانی می‌توانند با توسعه یک لایه Middleware هوشمند، علاوه بر رفع چالش پرداخت ارزی و تحریم، پاسخ‌های متداول خروجی مدل را کش (Cache) کرده و نحوه پارس کردن بلاک‌های پاسخ را مدیریت نمایند تا هزینه‌های تمام‌شده هوش مصنوعی برای شرکت‌های داخلی تا ۵۰ درصد کاهش یابد.",
+      "iranEquivalent": {
+        "productName": "پلتفرم توسعه هوشمند دانا",
+        "description": "این محصول یک زیرساخت واسط بومی برای دسترسی سریع و مقرون‌به‌صرفه توسعه‌دهندگان ایرانی به مدل‌های پیشرفته کدنویسی و پردازش متن است. پلتفرم با بهینه‌سازی درخواست‌ها و مدیریت کش هوشمند، هزینه‌های ارزی پروژه‌ها را به میزان چشمگیری کاهش می‌دهد. همچنین ابزارهای یکپارچه‌سازی متناسب با نیاز شرکت‌های نرم‌افزاری داخلی را در اختیار تیم‌ها قرار می‌دهد.",
+        "marketOpportunity": "تحریم‌های بین‌المللی و دشواری‌های پرداخت ارزی، دسترسی تیم‌های فنی ایرانی به APIهای هوش مصنوعی را بسیار پیچیده و گران کرده است. ایجاد یک سرویس واسط با پرداخت ریالی و تاخیر شبکه پایین، می‌تواند سهم بالایی از بازار شرکت‌های فناوری و استارتاپ‌های کشور را تصاحب کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های فنی استارتاپ‌ها، متخصصان داده و شرکت‌های ارائه دهنده خدمات دیجیتال",
+        "challenges": [
+          "چالش‌های مربوط به تحریم‌ها و احتمال مسدودسازی IPها و اکانت‌های مبدا",
+          "تامین زیرساخت سرور و شبکه داخلی با تاخیر کم برای انتقال داده‌ها"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه و حجمی بر اساس میزان توکن مصرفی با پرداخت ریالی",
+          "ارائه پنل سازمانی و API اختصاصی به شرکت‌ها و کسب‌وکارهای بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "FastAPI",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -25879,7 +25985,66 @@
           "user": "[REDACTED]",
           "text": "I like that the agent goes beyond just summarising the meeting and actually focuses on what managers should do next post-meeting. Well done!! Congrats @ivana_m @miodragstojanov @jovica_nastovski"
         }
-      ]
+      ],
+      "faDescription": "ایجنت‌های مدیر (Manager Agents) با یادگیری مستمر از جلسات کاری شما، دقیقاً مواردی را که نیاز به توجه بعدی دارند به شما یادآوری می‌کنند. این موارد شامل بازخوردهای به تعویق افتاده، قدردانی‌های فراموش‌شده، تعارضاتی که از آن‌ها دوری می‌کنید و گفتگوهای مربوط به رشد شغلی است که مدام عقب می‌افتند. شما متوجه می‌شوید چه اقداماتی موثر بوده، چه مواردی نتیجه نداده و علت آن چیست تا در نهایت به رهبر بهتری برای نیروهای خود تبدیل شوید. این دستیار هوشمند با تحلیل دقیق رفتارهای مدیریتی، هدایت تیم را از یک فرایند حدسی به یک مسیر داده‌محور و اثرگذار تبدیل می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 تیم ما سال‌هاست در مجموعه Semos Cloud روی نرم‌افزارهای هوش سازمانی و فرهنگ سازمانی برای شرکت‌های بزرگ کار می‌کند. در همکاری نزدیک با آن شرکت‌ها، متوجه خلأیی در ابزارهای موجود برای کمک به مدیران در هدایت تیم‌هایشان شدیم. ما می‌خواستیم ابزاری کاربردی به آن‌ها بدهیم که بتوانند در کار روزمره استفاده کنند و این‌گونه Manager Agents متولد شد. این محصول از جلسات شما یاد می‌گیرد و در بخش‌هایی از مدیریت افراد که معمولاً به ته لیست اولویت‌ها می‌افتند کمک می‌کند: بازخورد معوقه، قدردانی‌های فراموش‌شده، گفتگوهای سخت و جلسات رشد فردی. این فقط یک چت‌بات ساده نیست؛ ایجنت‌های تخصصی بخش‌های مختلف رهبری تیم را پوشش می‌دهند و همگی از یک زمینه مشترک استخراج‌شده از جلسات استفاده می‌کنند تا راهنمایی‌ها کاملاً مبتنی بر واقعیت تیم شما باشد نه پاسخ‌های عمومی. ما همچنین از علوم رفتاری برای شکل دادن به این راهنمایی‌ها استفاده می‌کنیم. برخی از کارهایی که انجام می‌دهد: 💬 پیش‌نویس پیام‌های بازخورد و قدردانی بر اساس اتفاقات واقعی جلسات 🎯 کمک به آماده‌سازی برای گفتگوهای سخت 📊 ارائه ارزیابی واقعی از نحوه رهبری شما 🔔 یادآوری برای اقدام در موقعیت‌های مهم. این ابزار برای مدیرانی ساخته شده که همزمان کار عملیاتی انجام می‌دهند و معمولاً مسئول منابع انسانی یا آموزش رسمی ندارند. اگر این توصیف شماست، این محصول برای شما ساخته شده است. امتحانش کنید و نظرتان را بگویید 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "قطعاً می‌توانم ببینم که این ابزار به یک بررسی هفتگی کاربردی برای مدیران تبدیل شود. روند کاری معمول بعد از یک هفته پر از جلسه به چه صورت خواهد بود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک فراوان بابت انتشار محصول! طراحی و برندسازی محصول را خیلی دوست دارم. معتقدم این ایجنت‌ها برای مدیران تیم‌های بزرگ فوق‌العاده مفید خواهند بود، چرا که هیچ موضوعی از دید دور نمانده و هیچ تلاشی بدون قدردانی باقی نمی‌ماند. وقتی اعضای تیم دیده شوند، شنیده شوند و از آن‌ها تقدیر شود، تعامل و بهره‌وری بیشتری در کار خواهند داشت. :)"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک می‌گویم. معمولاً محصولات حوزه فناوری منابع انسانی (HR Tech) را کمتر در پروداکت هانت می‌بینیم. به نظر می‌رسد دسته‌ای کمتر توجه‌شده اما بسیار مهم باشد. 🙂"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من یک تیم توزیع‌شده بیش از ۳۰ نفره را مدیریت می‌کنم و مدتی است از سازوکارهای پاداش و قدردانی استفاده می‌کنم. داشتن ایجنت‌هایی که به مدیران در مدیریت تیم کمک کنند فکری نو و تازه است. تبریک بابت انتشار."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک به تیم. قدردانی همیشه باعث می‌شود اعضای تیم احساس ارزشمندی و انگیزه کنند. به‌ویژه زمانی که این قدردانی مرتبط با مشارکت خاص آن‌ها باشد؛ استفاده از زمینه و متن جلسات می‌تواند زمان زیادی را برای مدیران صرفه‌جویی کند. بسیار هوشمندانه است."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک بابت عرضه این محصول! مدیران اغلب با ایجاد تعادل مناسب بین ارائه بازخورد و سپردن مسئولیت به تیم دست‌وپنجه نرم می‌کنند. عالی است که Manager Agents می‌تواند به این موضوع کمک کند. همچنین هشدارهای بازخورد معوقه بسیار مفید خواهند بود زیرا فراموش کردن بازخورد به موقع بسیار آسان است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "دوست دارم که این ایجنت فراتر از خلاصه‌سازی ساده جلسات عمل می‌کند و واقعاً روی اقدام بعدی مدیر پس از جلسه تمرکز دارد. عالی بود!! تبریک."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nمدیران معمولاً میان کارهای عملیاتی و وظایف رهبری گرفتار می‌شوند. کارهای مهمی مانند قدردانی، ارائه بازخورد به‌موقع و حل تعارضات به‌دلیل شلوغی برنامه‌ها فراموش می‌شوند. Semos.ai با تحلیل جلسات تصویری و متنی، نقش یک دستیار هوشمند را ایفا می‌کند و به‌جای خلاصه کردن ساده، گام‌های عملی بعدی (Actionable Insights) را بر اساس علوم رفتاری به مدیر پیشنهاد می‌دهد.\n\n### معماری و تکنولوژی\nمحصول از معماری چندایجنت (Multi-Agent Systems) بهره می‌برد که همگی به یک حافظه کانتکست مشترک از جلسات وصل هستند. استفاده از مدل‌های زبانی پیشرفته برای استخراج لحن و نکات کلیدی، به همراه ترکیب آن با اصول روانشناسی سازمانی و علوم رفتاری، خروجی‌های هوشمندتر و انسانی‌تری نسبت به چت‌بات‌های عمومی تولید می‌کند.\n\n### مدل درآمدی\nمدل درآمدی متکی بر B۲B SaaS (حق اشتراک ابری) بر اساس تعداد مدیران یا تعداد direct reportها است. همچنین پتانسیل بالایی برای فروش سازمانی (Enterprise) به شرکت‌های بزرگ با افزودن قابلیت‌های سفارشی‌سازی وجود دارد.\n\n### نقاط قوت\n۱. عبور از خلاصه سازی ساده و تمرکز بر اقدامات بعدی (Action-oriented).\n۲. استفاده از علوم رفتاری برای تنظیم لحن و نحوه مواجهه با افراد مختلف.\n۳. رفع نیاز واقعی مدیرانی که پشتیبانی مستقیم HR ندارند.\n\n### نقاط ضعف\n۱. وابستگی شدید به کیفیت و شفافیت ورودی جلسات.\n۲. حساسیت‌های شدید مربوط به حریم خصوصی و امنیت داده‌های جلسات شرکت‌ها.\n\n### نکته طلایی برای بازار ایران\nدر بازار ایران به دلیل چالش‌های حفظ نیرو (Retention) و فرهنگ سازمانی پیچیده، مهم‌ترین ارزش این محصول می‌تواند «پیشگیری از استعفا و صامتی شغلی» باشد. بومی‌سازی مدل‌های پردازش زبان فارسی با درک تعارفات و تعارضات پنهان در جلسات ایرانی، و ارائه نسخه قابل نصب روی سرورهای داخلی (On-premise) برای سازمان‌های محافظه‌کار، کلید موفقیت این طرح در ایران خواهد بود.",
+      "iranEquivalent": {
+        "productName": "مدیریار هوشمند (ManagerMind)",
+        "description": "دستیار هوشمند رهبری تیم که با اتصال به پلتفرم‌های برگزاری جلسه آنلاین مانند اسکایپ و نشان، متن جلسات را تحلیل می‌کند. این سیستم با شناسایی بازخوردهای معوقه، موارد شایسته تقدیر و گفتگوهای توسعه‌ای، اقدامات بعدی را به مدیر پیشنهاد می‌دهد. هدف این بومی‌سازی، ارتقای فرهنگ سازمانی و افزایش انگیزه در تیم‌های کاری ایرانی است.",
+        "marketOpportunity": "با توسعه تیم‌های دورکار و استارتاپ‌ها در ایران، نیاز مبرمی به ابزارهای مدرن منابع انسانی و رهبری احساس می‌شود. غیبت متخصصان حرفه‌ای HR در اکثر کسب‌وکارهای نوپای ایرانی، بازار بکری را برای دستیارهای هوشمند مدیریتی فراهم کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران ارشد و میانی استارتاپ‌ها، سرپرستان تیم‌های فنی، مدیران شرکت‌های دارای تیم‌های توزیع‌شده و دورکار",
+        "challenges": [
+          "مقاومت سازمان‌های ایرانی در برابر اشتراک‌گذاری صوت و متن جلسات محرمانه کاری",
+          "چالش‌های مربوط به پردازش دقیق زبان فارسی و درک لحن در رفتارهای سازمانی ایرانی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه/سالانه بر اساس تعداد اعضای تیم (SaaS)",
+          "ارائه نسخه اختصاصی سازمانی (On-Premise) برای شرکت‌های بزرگ و ارگان‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python / FastAPI",
+          "Whisper Persian",
+          "LangChain / LLMs"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -27555,7 +27720,68 @@
           "user": "[REDACTED]",
           "text": "Reddit is famous for being an unfavorable environment for promotion. How do the agents prevent themselves from being considered spam or having their accounts banned?Additionally, Congratulations @fatima_rizwan and team Okara ✌️🚀"
         }
-      ]
+      ],
+      "faDescription": "اوکارا یک مدیر ارشد بازاریابی (CMO) مبتنی بر هوش مصنوعی است. کافی است آدرس وب‌سایت خود را وارد کنید تا این سیستم به تحلیل دقیق محصول، رقبا و لحن اختصاصی برند شما بپردازد. سپس بیش از ۱۰ ایجنت هوشمند را برای مدیریت سئو، بهینه‌سازی موتورهای جستجوی مبتنی بر هوش مصنوعی، ردیت، ایکس (توییتر)، لینکدین، اینفلوئنسرها و ویدیوهای UGC فعال می‌کند. شما تمامی پیش‌نویس‌ها را بررسی و تأیید می‌کنید و سپس سیستم آن‌ها را به‌طور خودکار منتشر می‌سازد. هم‌اکنون بیش از ۱۰۰,۰۰۰ کسب‌وکار در سراسر جهان از این پلتفرم استفاده می‌کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به جامعه پروداکت هانت! من فاطمه هستم و از معرفی اوکارا به شما بسیار هیجان‌زده‌ام. اوکارا یک مدیر ارشد بازاریابی هوش مصنوعی است که به شما کمک می‌کند قفل رشد و توزیع محتوا را برای وب‌سایت خود بشکنید. این ابزار محصول شما را درک می‌کند، استراتژی می‌چیند و تیمی از ۱۰ ایجنت را مستقر می‌کند تا کانال‌های مختلف شبکه‌های اجتماعی، ارگانیک و پولی را برای شما اداره کنند.\n\nایجنت‌های سئو (SEO) و جستجوی هوش مصنوعی (GEO): به بهینه‌سازی سئو و رتبه‌بندی در ChatGPT، Claude، Perplexity و غیره کمک می‌کنند.\nایجنت مقالات: وبلاگ‌ها و محتوای بهینه‌شده برای سئو می‌نویسد تا ترافیک ارگانیک جذب کند.\nایجنت لینکدین، ایکس و ردیت: شبکه‌های اجتماعی را با لحن برند شما اداره می‌کند.\nایجنت اینفلوئنسرها: سازندگان محتوا را پیدا می‌کند، ارتباط اولیه برقرار کرده و پرداخت‌ها را مدیریت می‌کند.\n\nما ۷ ماه است که فعالیت خود را آغاز کرده‌ایم و بیش از ۱۰۰ هزار وب‌سایت در سراسر جهان از ما استفاده می‌کنند! می‌توانید وب‌سایت خود را به صورت رایگان در okara.ai ممیزی کنید.\n\nچرا آن را ساختم: من یک مهندس نرم‌افزار با اشتیاق عمیق به فناوری و بازاریابی هستم. اولین شرکت خود را بلافاصله پس از دانشگاه تأسیس کردم و بدون سرمایه‌گذار (بوت‌استرپ) آن را به ۲۵ میلیون بازدید صفحه در ماه و ۱ میلیون دنبال‌کننده ارگانیک در فیس‌بوک و اینستاگرام رساندم. من هرگز فرد بازاریاب در تیم نداشتم و خودم تنها بازاریاب آن شرکت بودم. رشد دادن یک شرکت بدون سرمایه‌گذار سخت، تنها و پر از استرس است؛ اما از طریق یادگیری سریع و اشتیاق به اجرا، هنر قصه‌گویی، ویروسی شدن در شبکه‌های اجتماعی و نحوه ساخت موتورهای توزیع ارگانیک را آموختم. من تمام آن یادگیری‌ها را به اوکارا آورده‌ام. اوکارا تمام بافت و اطلاعات وب‌سایت شما را یک‌جا یکپارچه می‌کند و سپس تمام کانال‌های بازاریابی را روی حالت خلبان خودکار قرار می‌دهد. نیازی به تعویض ابزارها، استخدام آژانس‌ها، بزرگ کردن تیم و خرید اشتراک‌های متعدد برای توزیع محصولتان ندارید. این پلتفرم یک طرح رایگان دارد و خوشحال می‌شوم آن را امتحان کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ده ایجنت که سئو، ردیت، لینکدین و UGC را پیش می‌برند در حالی که شما فقط آنجا نشسته‌اید و مهر تأیید می‌زنید. انرژی مدیریت میان‌رده دارد، البته از نوع خوبش! لانچ محصول را تبریک می‌گویم!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "@fatima_rizwan همین الان پورتفولیوی UGC خودم را با ممیزی رایگان اوکارا بررسی کردم و یک ویدیو درباره نتایجش ساختم. خوشحال می‌شوم آن را با شما به اشتراک بگذارم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "۱۰ ایجنت که کارهای تکراری و خسته‌کننده بازاریابی را انجام می‌دهند؛ عاشقشم! بخش مربوط به ایجنت ردیت بیشتر از همه من را کنجکاو کرده است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا ایجنت ردیت از حساب‌های مختلف پست و پاسخ ارسال می‌کند یا فقط پیش‌نویس‌ها را برای انتشار توسط خودم تولید می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "خطی که باعث تردید من می‌شود تولید محتوا نیست، بلکه «ایجنت اینفلوئنسرها: سازندگان محتوا را پیدا می‌کند، ارتباط برقرار می‌کند و پرداخت‌ها را انجام می‌دهد» است. تأیید پیش‌نویس یک توئیت ریسک پایینی دارد، اما ایجنت هوشمندی که مستقلاً به سازنده‌ای که خودش پیدا کرده و مذاکره نموده پول واریز کند، سطح متفاوتی از اعتماد را می‌طلبد. چارچوب امنیتی واقعی در آنجا چیست؟ سقف هزینه، مرحله تأیید انسانی قبل از خروج پول، یا به محض چراغ سبز کمپین همه چیز خودکار پیش می‌رود؟ همچنین کنجکاوم بدانم ادعای «اولین در جهان» چگونه با سن ۷ ماهه آن همخوان است؛ به نظر می‌رسد این بیشتر یک معرفی مجدد باشد تا اولین حضور، که البته مشکلی ندارد، فقط فکر نمی‌کنم نیازی به استفاده از صفات عالی در بیان آن باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بسیاری از تیم‌ها درباره بازاریابی روی حالت خلبان خودکار نگران هستند زیرا فقط به یک صف طولانی برای تأیید تبدیل می‌شود. چارچوب‌های امنیتی ملموسی که اوکارا برای سریع‌تر کردن بررسی استفاده می‌کند چیست (مانند منبع‌یابی ادعاها، نمایش تغییرات، دسترسی‌ها بر اساس نوع اقدام)، و در چه بخش‌هایی تعمداً انسان را در چرخه نگه داشته‌اید حتی اگر اتوماسیون را محدود کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ردیت به داشتن محیطی نامناسب برای تبلیغات معروف است. ایجنت‌ها چگونه از اسپم شناخته شدن یا مسدود شدن حساب‌هایشان جلوگیری می‌کنند؟ همچنین به فاطمه و تیم اوکارا تبریک می‌گویم!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nاکثر استارتاپ‌ها و کسب‌وکارهای نوپا با مشکل مقیاس‌پذیری در بازاریابی و توزیع محتوا مواجه هستند. استخدامی‌های متعدد یا کار با آژانس‌ها هزینه‌بر و زمان‌بر است. اوکارا با ارائه نقش یک «مدیر ارشد بازاریابی هوش مصنوعی» (AI CMO) و به خدمت گرفتن ۱۰ ایجنت تخصصی برای شبکه‌های مختلف (سئو، ردیت، لینکدین، توییتر و اینفلوئنسرها)، تلاش می‌کند تمام فرآیند بازاریابی را خودکار کند و انسان را صرفاً در نقش تأییدکننده نهایی (Approver) قرار دهد.\n\nمعماری و تکنولوژی:\nسیستم بر پایه معماری چند-ایجنت (Multi-Agent Systems) طراحی شده است. احتمالاً از فریم‌ورک‌هایی نظیر AutoGen یا LangGraph برای هماهنگی ایجنت‌ها بهره می‌برد. ابزارها شامل تحلیل‌گر وب‌سایت برای استخراج بافت برند (Brand Context)، موتورهای تولید متن و ویدیو، و سیستم‌های اتوماسیون انتشار در شبکه‌های اجتماعی هستند. بخش مهم آن، کانسپت جدید GEO (Generative Engine Optimization) است که برند را برای پاسخ‌های ChatGPT و Perplexity بهینه‌سازی می‌کند.\n\nمدل درآمدی:\nاین ابزار بر پایه مدل Freemium و SaaS اشتراکی اداره می‌شود. یک نسخه رایگان ممیزی (Audit) برای جذب لید در نظر گرفته شده و برای دسترسی به اجرای ایجنت‌ها و اتوماسیون کامل، برنامه‌های پولی ماهانه دریافت می‌شود.\n\nنقاط قوت:\n۱. یکپارچه‌سازی تمام کانال‌های بازاریابی در یک پنل واحد.\n۲. رویکرد «انسان در چرخه» (Human-in-the-loop) که امنیت برند را حفظ می‌کند.\n۳. پشتیبانی از مفهوم جدید GEO در کنار SEO سنتی.\n۴. تجربه واقعی بنیان‌گذار در رشد ارگانیک که در طراحی محصول منعکس شده است.\n\nنقاط ضعف و ریسک‌ها:\n۱. چالش اعتماد در بخش پرداخت‌های مالی خودکار به اینفلوئنسرها (همان‌طور که کاربران اشاره کردند).\n۲. ریسک بن یا مسدود شدن حساب‌ها در پلتفرم‌های حساس به اسپم مانند ردیت.\n۳. احتمال ایجاد گلوگاه (Bottleneck) در صف تأیید انسانی، در صورتی که حجم خروجی ایجنت‌ها بسیار بالا باشد.\n\nنکته طلایی برای بازار ایران:\nدر بازار ایران، کپی دقیق این محصول با چالش فیلترینگ و نبود API رسمی شبکه‌های اجتماعی مواجه می‌شود. اما پیاده‌سازی این الگو با تمرکز روی **تلگرام، اینستاگرام، دیوار و ویرگول** و همچنین یکپارچه‌سازی با ابزارهای بومی پرداخت (مانند زرین‌پال برای پرداخت به مایکرواینفلوئنسرها به شرط تأیید کارفرما)، می‌تواند به جذاب‌ترین پلتفرم اتوماسیون بازاریابی برای هزاران فروشگاه اینستاگرامی و استارتاپ ایرانی تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "مارکت‌یار AI",
+        "description": "این محصول یک پلتفرم بومی اتوماسیون و مدیریت بازاریابی مبتنی بر هوش مصنوعی برای کسب‌وکارهای ایرانی است. سیستم با اتصال به وب‌سایت، استراتژی محتوایی را تدوین کرده و انتشار خودکار در شبکه‌های اجتماعی محبوب مانند اینستاگرام، تلگرام و بله را انجام می‌دهد. کلیه خروجی‌ها پیش از انتشار نهایی نیازمند تأیید یک‌کلیکی مدیر کسب‌وکار هستند.",
+        "marketOpportunity": "بیشتر کسب‌وکارهای نوپا و فروشگاه‌های اینترنتی در ایران توان مالی استخدام تیم کامل بازاریابی یا تعامل با آژانس‌های تبلیغاتی را ندارند. وجود یک دستیار هوشمند که کارهای تکراری تولید محتوا، سئو و ارتباط با مشتریان را با هزینه اندک خودکار کند، بازاری بسیار بزرگ و تشنه ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های نوپا، فروشگاه‌های اینترنتی کوچک و متوسط، آژانس‌های دیجیتال مارکتینگ و فعالان حوزه تجارت الکترونیک",
+        "challenges": [
+          "محدودیت‌های فنی و فیلترینگ پلتفرم‌های خارجی و عدم وجود API پایدار در برخی پیام‌رسان‌های داخلی",
+          "چالش‌های پردازش زبان فارسی و فهم دقیق لحن برند در سناریوهای مختلف بازاریابی",
+          "مقاومت کسب‌وکارها در اعتماد به خروجی‌های هوش مصنوعی برای بنچمارک‌های فارسی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه و سالانه (SaaS) بر اساس تعداد ایجنت فعال و حجم محتوای تولیدی",
+          "دریافت کارمزد از کمپین‌های تبلیغاتی و همکاری با اینفلوئنسرها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "LangChain",
+          "Redis"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -28170,7 +28396,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-09-30T07:01:00Z",
-      "votes": 199,
+      "votes": 200,
       "websiteUrl": "https://www.producthunt.com/r/3WU5KPPRXFN7CD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -31643,6 +31869,63 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-09-30",
+      "rank": 5,
+      "name": "CrawlRaven MCP",
+      "slug": "crawlraven-mcp",
+      "tagline": "Your SEO work, done from your AI agent",
+      "description": "CrawlRaven joins Search Console, GA4, your keyword lists, and a technical crawl of your site into one plan, ranked by impact: what to fix, update and write first. Ask for it in Claude, ChatGPT or Cursor through our MCP server and get answers from your own data.",
+      "category": "Analytics • Marketing • SEO",
+      "categoryFa": "تحلیل داده • بازاریابی • سئو",
+      "url": "https://www.producthunt.com/products/crawlraven-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/15c2f875-91d9-4acc-9d2f-ea22ce3cb1f2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/820a2bbc-81a2-4887-9c5a-76138ce8bf0d.jpeg?auto=format",
+        "https://ph-files.imgix.net/c6b928bc-d5ed-49fe-8745-bf6d79f6d128.png?auto=format",
+        "https://ph-files.imgix.net/6a9ec0c6-0b1a-47a9-adc0-176adba96d1b.png?auto=format",
+        "https://ph-files.imgix.net/e42c0f8d-fc04-4304-ae2d-7ac9d110ceb1.png?auto=format",
+        "https://ph-files.imgix.net/e6d006d7-aea2-4aaa-9056-8fc5605c745b.png?auto=format",
+        "https://ph-files.imgix.net/02f3fda4-41b3-459b-8fd2-482f393fe1f9.png?auto=format",
+        "https://ph-files.imgix.net/ceb5f75f-905e-44ef-84ee-dcfe76af9262.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-30T07:01:00Z",
+      "votes": 169,
+      "websiteUrl": "https://www.producthunt.com/r/R7XUV6WU6IHUWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hunting CrawlRaven again. I hunted it in July, and the team has shipped enough since then that it deserves a second look. The idea hasn't changed: stop stitching Search Console exports, keyword lists and crawl reports together in a spreadsheet just to decide what to work on this week. CrawlRaven joins them and hands you one list, ranked by impact. What's new: 🤖 Your AI agent can do the SEO check-in. Connect Claude, ChatGPT or Cursor to CrawlRaven's MCP server with a browser sign-in, no API keys. Ask \"what's slipping this month?\" and it answers from your own Search Console and GA4 data, not a pasted export. 🛠️ Technical SEO audit. Crawl your site and get every issue with its severity, how much effort the fix takes, and the search clicks riding on it. Broken links on your top pages come before broken links on pages nobody visits. Copy any fix straight into your AI. 📈 Plans ranked by traffic that converts. Opportunities now weigh GA4 sessions and key events, so a page that actually converts moves up the list. 🗓️ See why traffic moved. Google updates and your own notes sit right on the performance chart. Compare countries and devices over any window from 1 day to 16 months. 🔒 Built for client work. Privacy mode blurs queries, pages and site names for screen shares, and chart images can be shared without the private bits. Aditi and Rakesh have been doing SEO for over a decade and built this for their own workflow. They're in the comments all day, so bring your toughest questions. There's a free plan if you want to see what it finds on your own site first."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Running SEO work straight from your AI agent via MCP is a great fit — keyword tracking and opportunities without tab-hopping is a real time-saver. Curious how you handle fresh crawl data."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the privacy mode for screen shares is a nice detail, most tools in this space seem to assume you're only ever looking at your own site. since you mention it's built for client work - can one login manage multiple client properties side by side, or is it still one connected site per workspace right now? that's usually the actual bottleneck for agencies, not the analysis itself."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the idea, but I don’t see an option to sign up with email. I don’t have a Google account, so I can’t get past sign-up. Could you add email sign-up?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When a page has useful Search Console data but very few GA4 key events, how does that affect its place in the ranked plan?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The GEO part is what I'd use this for, so a specific question about inputs: does it look at server logs, or only at Search Console and the crawl?The reason I ask is that GSC doesn't show the signal I care about at all. In my own logs there are two completely different things that both look like \"AI traffic\": indexing crawlers (OAI-SearchBot, GPTBot, ClaudeBot) hitting the sitemap and working through pages, and then single fetches by ChatGPT-User / Perplexity-User / Claude-User, which happen because a person asked an assistant something right then. The second one is the actual GEO signal and it's invisible in GSC.If it's not in there yet, it might be the cheapest differentiator you have — everyone else is reading the same Search Console data."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yall cooking! I am excited to try out the MCP. Connecting it right away! @CrawlRaven MCP @ayushtweetshere @aditi_chaturvedi @rakesh_rry"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-09-15",
       "rank": 7,
@@ -31765,63 +32048,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-09-30",
-      "rank": 5,
-      "name": "CrawlRaven MCP",
-      "slug": "crawlraven-mcp",
-      "tagline": "Your SEO work, done from your AI agent",
-      "description": "CrawlRaven joins Search Console, GA4, your keyword lists, and a technical crawl of your site into one plan, ranked by impact: what to fix, update and write first. Ask for it in Claude, ChatGPT or Cursor through our MCP server and get answers from your own data.",
-      "category": "Analytics • Marketing • SEO",
-      "categoryFa": "تحلیل داده • بازاریابی • سئو",
-      "url": "https://www.producthunt.com/products/crawlraven-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/15c2f875-91d9-4acc-9d2f-ea22ce3cb1f2.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/820a2bbc-81a2-4887-9c5a-76138ce8bf0d.jpeg?auto=format",
-        "https://ph-files.imgix.net/c6b928bc-d5ed-49fe-8745-bf6d79f6d128.png?auto=format",
-        "https://ph-files.imgix.net/6a9ec0c6-0b1a-47a9-adc0-176adba96d1b.png?auto=format",
-        "https://ph-files.imgix.net/e42c0f8d-fc04-4304-ae2d-7ac9d110ceb1.png?auto=format",
-        "https://ph-files.imgix.net/e6d006d7-aea2-4aaa-9056-8fc5605c745b.png?auto=format",
-        "https://ph-files.imgix.net/02f3fda4-41b3-459b-8fd2-482f393fe1f9.png?auto=format",
-        "https://ph-files.imgix.net/ceb5f75f-905e-44ef-84ee-dcfe76af9262.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-30T07:01:00Z",
-      "votes": 168,
-      "websiteUrl": "https://www.producthunt.com/r/R7XUV6WU6IHUWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hunting CrawlRaven again. I hunted it in July, and the team has shipped enough since then that it deserves a second look. The idea hasn't changed: stop stitching Search Console exports, keyword lists and crawl reports together in a spreadsheet just to decide what to work on this week. CrawlRaven joins them and hands you one list, ranked by impact. What's new: 🤖 Your AI agent can do the SEO check-in. Connect Claude, ChatGPT or Cursor to CrawlRaven's MCP server with a browser sign-in, no API keys. Ask \"what's slipping this month?\" and it answers from your own Search Console and GA4 data, not a pasted export. 🛠️ Technical SEO audit. Crawl your site and get every issue with its severity, how much effort the fix takes, and the search clicks riding on it. Broken links on your top pages come before broken links on pages nobody visits. Copy any fix straight into your AI. 📈 Plans ranked by traffic that converts. Opportunities now weigh GA4 sessions and key events, so a page that actually converts moves up the list. 🗓️ See why traffic moved. Google updates and your own notes sit right on the performance chart. Compare countries and devices over any window from 1 day to 16 months. 🔒 Built for client work. Privacy mode blurs queries, pages and site names for screen shares, and chart images can be shared without the private bits. Aditi and Rakesh have been doing SEO for over a decade and built this for their own workflow. They're in the comments all day, so bring your toughest questions. There's a free plan if you want to see what it finds on your own site first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Running SEO work straight from your AI agent via MCP is a great fit — keyword tracking and opportunities without tab-hopping is a real time-saver. Curious how you handle fresh crawl data."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the privacy mode for screen shares is a nice detail, most tools in this space seem to assume you're only ever looking at your own site. since you mention it's built for client work - can one login manage multiple client properties side by side, or is it still one connected site per workspace right now? that's usually the actual bottleneck for agencies, not the analysis itself."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like the idea, but I don’t see an option to sign up with email. I don’t have a Google account, so I can’t get past sign-up. Could you add email sign-up?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When a page has useful Search Console data but very few GA4 key events, how does that affect its place in the ranked plan?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The GEO part is what I'd use this for, so a specific question about inputs: does it look at server logs, or only at Search Console and the crawl?The reason I ask is that GSC doesn't show the signal I care about at all. In my own logs there are two completely different things that both look like \"AI traffic\": indexing crawlers (OAI-SearchBot, GPTBot, ClaudeBot) hitting the sitemap and working through pages, and then single fetches by ChatGPT-User / Perplexity-User / Claude-User, which happen because a person asked an assistant something right then. The second one is the actual GEO signal and it's invisible in GSC.If it's not in there yet, it might be the cheapest differentiator you have — everyone else is reading the same Search Console data."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yall cooking! I am excited to try out the MCP. Connecting it right away! @CrawlRaven MCP @ayushtweetshere @aditi_chaturvedi @rakesh_rry"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -37091,6 +37317,56 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-09-30",
+      "rank": 6,
+      "name": "OpenShip",
+      "slug": "openship-3",
+      "tagline": "Open source PaaS on your server or in the cloud. No lock in.",
+      "description": "OpenShip is an open source PaaS that runs on our cloud or your infrastructure. Push your code and OpenShip handles builds, deployments, domains, SSL, monitoring, backups, secrets, and the services your apps depend on. Start fully managed on OpenShip Cloud or self host on your own cloud or on prem. Move between them without changing how you deploy. No proprietary runtime. No vendor lock in. Remove OpenShip and your apps keep running. Deploy anything. Own everything.",
+      "category": "Open Source • SaaS • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • نرم‌افزار ابری • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/openship-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/859faf50-4fb8-4cfd-b1d1-7fb3c525e66e.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/894cc5ba-3e1d-4e80-9d54-2fffd5b2b9ce.png?auto=format",
+        "https://ph-files.imgix.net/f9deb2dc-7cb5-4949-b439-2a28a9a39481.png?auto=format",
+        "https://ph-files.imgix.net/47805655-fe19-448d-877d-64e4b5b90fe5.png?auto=format",
+        "https://ph-files.imgix.net/647a9f2d-196b-428a-978f-f20fb34494d8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-30T07:01:00Z",
+      "votes": 141,
+      "websiteUrl": "https://www.producthunt.com/r/AOBYCP3ZZQ7VPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Glad to see this. How does it differ from Dokploy and others?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I think going agentless over SSH is a great call to keep things lean. Congrats and good luck!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "oss !!! yes and I very much like the mailbox out of the box. great work!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Canceled my supabase+vercel+modal subscriptions after migrating to OpenShip, it is much easier and cheaper to maintain now!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Waiting for community Plugins & Themes to use it but I will always support this project!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love OpenShip! Using it for my whole self-hosted SaaS!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-09-09",
       "rank": 8,
@@ -37711,7 +37987,47 @@
           "user": "[REDACTED]",
           "text": "a touch-sensitive keyboard is the part I hadn't seen before, most of these retro-keyboard phones treat the keys as pure mechanical input and bolt a trackpad-gesture zone onto the space bar at best. does the touch layer replace the trackpad entirely or is it additive, like can you still do cursor placement by dragging on the keys themselves the way BlackBerry's old keyboard-as-trackpad trick worked?"
         }
-      ]
+      ],
+      "faDescription": "کلیکس کامونیکیتور یک گوشی اندروید ۱۷ فشرده است که حول محور یک صفحه‌کلید فیزیکی و یک صفحه اصلی متمرکز بر مکالمات طراحی شده است. شما می‌توانید از آن به عنوان گوشی اصلی یا همراه خود استفاده کنید، در حالی که از تمام امکانات ۵G و اپلیکیشن‌های استاندارد بهره می‌برید. این دستگاه با حفظ دسترسی سریع به پیام‌ها، تایپ و پاسخ‌های کوتاه، تجربه‌ای متفاوت از ارتباطات موبایلی ارائه می‌دهد. تمرکز اصلی بر روی بازگرداندن حس تایپ فیزیکی و مدیریت یکپارچه مکالمات است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! چیزی که در مورد گوشی‌ای که صفحه‌کلید را دوباره در مرکز قرار می‌دهد، جذاب است. کامونیکیتور آنقدر کوچک است که مشخص است صفحه نمایش تنها هدف نیست. صفحه‌کلید حساس به لمس است، LED سیگنال به شما می‌گوید چه کسی در حال تماس است و مرکز پیام (Message Hub) به شما اجازه می‌دهد مکالمات را بدون باز کردن تک‌تک اپلیکیشن‌ها مدیریت کنید. با این حال، اندروید ۱۷ کامل را اجرا می‌کند، بنابراین اگر بخواهید می‌توانید از آن به عنوان گوشی اصلی استفاده کنید. فقط باعث می‌شود تایپ و پیام‌رسانی دوباره حس پیش‌فرض را داشته باشد. کلید جانبی همچنین ورودی صوتی را مدیریت می‌کند. آن را نگه دارید تا دیکته کنید، چیزی را ضبط کنید یا جلسه‌ای را ترنسکرایب کنید. کلیکس همچنین سخت‌افزار نهایی را به ۱۲ گیگابایت RAM و باتری ۴۳۵۰ میلی‌آمپر ساعت ارتقا داد، بدون اینکه قیمت راه‌اندازی ۴۹۹ دلاری افزایش یابد. به نظر می‌رسد دکمه‌ها هنوز معنای زیادی دارند!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بازگشت صفحه‌کلید فیزیکی واقعاً وجود دارد، انگشتانم خیلی به این حس افتاده بودند 📱 عمر باتری در استفاده روزمره چطور است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "فوراً این را برای دو دوستم فرستادم و خیلی خوشحال شدند. مشتاقم بدانم چه چیزی را برای کریسمس/حانوکا به آن‌ها هدیه می‌دهم! سعی کردم از طریق وب‌سایت شما پیام بدهم اما فرم تماسی ندیدم، بنابراین یک یادداشت کوتاه اینجا ارسال می‌کنم. مشکل بزرگی نیست، اما وب‌سایت شما ۳۰ دلار تخفیف تبلیغ می‌کند (که واقعاً هم ارائه می‌شود). اما در مرحله دوم فرآیند، جایی که کاربر برای پیامک ثبت‌نام می‌کند، نوشته شده که تخفیف ۲۰ دلار است. تیم بازاریابی شما ممکن است بخواهد آن عدد ۲۰ دلاری را در ابزار بازاریابی پیامک Postscript به ۳۰ دلار تغییر دهد تا از سردرگمی جلوگیری شود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "صفحه‌کلید حساس به لمس بخشی است که قبلاً ندیده بودم، اکثر این گوشی‌های رترو با صفحه‌کلید، کلیدها را فقط به عنوان ورودی مکانیکی در نظر می‌گیرند و در بهترین حالت یک ناحیه ژست‌دهی ترک‌پد به فاصله‌نما اضافه می‌کنند. آیا لایه لمسی کاملاً جایگزین ترک‌پد می‌شود یا تکمیلی است، مثلاً آیا هنوز می‌توانید مانند ترفند قدیمی بلک‌بری (صفحه‌کلید به عنوان ترک‌پد) با کشیدن روی خود کلیدها مکان نشانگر را تنظیم کنید؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، خستگی کاربران از رابط‌های لمسی خالص و پراکندگی پیام‌ها در اپلیکیشن‌های متعدد است. راه‌حل، یک سخت‌افزار تخصصی با صفحه‌کلید فیزیکی و یک مرکز پیام یکپارچه (Message Hub) است که تجربه تایپ و پاسخ‌دهی را سریع‌تر و لذت‌بخش‌تر می‌کند. از نظر معماری، این دستگاه بر پایه اندروید ۱۷ ساخته شده و با ۱۲ گیگابایت RAM و باتری ۴۳۵۰ میلی‌آمپری، تعادلی بین عملکرد و دوام ایجاد می‌کند. مدل درآمدی بر فروش مستقیم سخت‌افزار با قیمت ۴۹۹ دلار (معادل حدود ۲۰-۲۵ میلیون تومان در بازار جهانی) استوار است. نقاط قوت شامل تمایز قوی در بازار، سخت‌افزار ارتقا یافته بدون افزایش قیمت، و قابلیت استفاده به عنوان گوشی اصلی یا همراه است. نقاط ضعف شامل قیمت نسبتاً بالا برای یک گوشی فشرده، وابستگی به اکوسیستم اندروید و چالش‌های تولید انبوه قطعات خاص است. نکته طلایی برای ایران: تمرکز بر بازار نیش کاربران حرفه‌ای و ارائه نسخه‌ای با پشتیبانی کامل از زبان فارسی و اپلیکیشن‌های بومی مانند ایتا و بله می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پیام‌رسان فیزیکی ایران",
+        "description": "یک گوشی هوشمند فشرده با سیستم‌عامل اندروید که تمرکز اصلی آن بر بازگرداندن صفحه‌کلید فیزیکی و مدیریت یکپارچه پیام‌هاست. این دستگاه با ارائه تجربه‌ای سریع‌تر برای تایپ و پاسخ‌دهی، جایگزینی مدرن برای گوشی‌های سنتی است. هدف، ایجاد یک ابزار ارتباطی تخصصی برای کاربران حرفه‌ای و علاقه‌مندان به تکنولوژی کلاسیک است.",
+        "marketOpportunity": "بازار ایران تشنه‌ی گجت‌های متفاوت و باکیفیت است که از شلوغی اپلیکیشن‌های پیام‌رسان فرار کنند. وجود یک محصول نیش با قیمت رقابتی می‌تواند وفاداری بالایی در بین کاربران حرفه‌ای ایجاد کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "کاربران حرفه‌ای، نویسندگان، مدیران و علاقه‌مندان به تکنولوژی کلاسیک که سرعت تایپ و دسترسی سریع به پیام‌ها برایشان حیاتی است.",
+        "challenges": [
+          "چالش‌های واردات قطعات سخت‌افزاری خاص مانند صفحه‌کلیدهای لمسی-مکانیکی ترکیبی",
+          "نیاز به بهینه‌سازی عمیق نرم‌افزاری برای سازگاری کامل با اپلیکیشن‌های بومی ایرانی"
+        ],
+        "monetization": [
+          "فروش مستقیم دستگاه با حاشیه سود بالا به دلیل ماهیت نیش محصول",
+          "فروش لوازم جانبی اختصاصی و پوسته‌های محافظ ویژه"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -38036,56 +38352,6 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nCaveman یک ابزار قدرتمند است که با استفاده از یک پروکسی محلی، لاگ‌ها، خروجی ابزارها و فایل‌ها را قبل از هر تماس به ارائه‌دهنده فشرده می‌کند. این ابزار می‌تواند با استفاده از بارگیری متن به عنوان تصویر، هر مهارت موجود را با حدود ۵۰ درصد کمتر توکن‌ها اجرا کند.\n🔹 معماری و تکنولوژی احتمالی:\nCaveman بر اساس یک اکوسیستم منبع باز با بیش از ۷۵ هزار ستاره در گیت‌هاب ساخته شده است. این ابزار می‌تواند با استفاده از یک پروکسی محلی بین عامل و ارائه‌دهنده، خروجی ابزارها را فشرده کند و از این طریق هزینه‌های استفاده از هوش مصنوعی را کاهش دهد.\n🔹 مدل درآمدی:\nفروش ابزار به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره برای بهینه‌سازی استفاده از هوش مصنوعی.\n🔹 نقاط قوت:\n- کاهش هزینه‌های استفاده از هوش مصنوعی\n- افزایش کارایی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای مشابه\n- نیاز به ارتقای مداوم ابزار\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای ابزارهای کاهش هزینه هوش مصنوعی در ایران بسیار زیاد است و therefore، باید به طور مداوم در حال ارتقای ابزار و ارائه خدمات بهتر به مشتریان بود."
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-09-30",
-      "rank": 6,
-      "name": "OpenShip",
-      "slug": "openship-3",
-      "tagline": "Open source PaaS on your server or in the cloud. No lock in.",
-      "description": "OpenShip is an open source PaaS that runs on our cloud or your infrastructure. Push your code and OpenShip handles builds, deployments, domains, SSL, monitoring, backups, secrets, and the services your apps depend on. Start fully managed on OpenShip Cloud or self host on your own cloud or on prem. Move between them without changing how you deploy. No proprietary runtime. No vendor lock in. Remove OpenShip and your apps keep running. Deploy anything. Own everything.",
-      "category": "Open Source • SaaS • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • نرم‌افزار ابری • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/openship-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/859faf50-4fb8-4cfd-b1d1-7fb3c525e66e.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/894cc5ba-3e1d-4e80-9d54-2fffd5b2b9ce.png?auto=format",
-        "https://ph-files.imgix.net/f9deb2dc-7cb5-4949-b439-2a28a9a39481.png?auto=format",
-        "https://ph-files.imgix.net/47805655-fe19-448d-877d-64e4b5b90fe5.png?auto=format",
-        "https://ph-files.imgix.net/647a9f2d-196b-428a-978f-f20fb34494d8.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-09-30T07:01:00Z",
-      "votes": 136,
-      "websiteUrl": "https://www.producthunt.com/r/AOBYCP3ZZQ7VPO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Glad to see this. How does it differ from Dokploy and others?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I think going agentless over SSH is a great call to keep things lean. Congrats and good luck!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "oss !!! yes and I very much like the mailbox out of the box. great work!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Canceled my supabase+vercel+modal subscriptions after migrating to OpenShip, it is much easier and cheaper to maintain now!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Waiting for community Plugins & Themes to use it but I will always support this project!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love OpenShip! Using it for my whole self-hosted SaaS!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -40131,7 +40397,35 @@
           "user": "[REDACTED]",
           "text": "So is Dot the new Clippy?"
         }
-      ]
+      ],
+      "faDescription": "کوپیلوت جدید مایکروسافت ابزارهایی که افراد به آن‌ها تکیه می‌کنند را با قابلیت‌های نسل بعدی برای ساخت، سفارشی‌سازی و مقیاس‌دهی هوش مصنوعی در محیط کار متصل می‌کند. این پلتفرم با محتوای کاری شما و اپلیکیشن‌هایی که از قبل استفاده می‌کنید یکپارچه شده و جدیدترین مدل‌های هوش مصنوعی را گرد هم می‌آورد. هدف اصلی این است که به شما کمک کند تا کارهای تمام‌شده و نهایی را خلق کنید، نه صرفاً دریافت پاسخ‌های ساده. این رویکرد باعث می‌شود فرآیندهای کاری شما از پاسخ‌دهی به سمت تولید ارزش افزوده واقعی حرکت کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "آیا دات (Dot) همان کلپی (Clippy) جدید است؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی در بازار کار ایران، پراکندگی داده‌ها در نرم‌افزارهای مختلف و زمان‌بر بودن تولید خروجی‌های نهایی است. راه‌حل پیشنهادی یک لایه هوشمند است که به عنوان واسط بین کاربر و ابزارهای فعلی عمل کرده و با پردازش زبانی فارسی، مستقیماً کار را انجام می‌دهد. از نظر معماری، استفاده از یک بک‌اند قدرتمند برای مدیریت APIهای مختلف نرم‌افزارهای سازمانی و یک فرانت‌اند سبک برای تعامل کاربر ضروری است. مدل درآمدی باید بر پایه ارزش افزوده ایجاد شده (صرفه‌جویی در زمان) متمرکز باشد. نقاط قوت شامل کاهش هزینه‌های نیروی انسانی و افزایش سرعت تصمیم‌گیری است، اما نقاط ضعف اصلی به چالش‌های زیرساختی و اعتمادسازی در حوزه امنیت داده برمی‌گردد. نکته طلایی برای ایران: تمرکز بر یک حوزه خاص مانند «تولید گزارش‌های مالی خودکار» به عنوان نقطه ورود (Wedge Strategy) می‌تواند اعتماد سازمان‌ها را سریع‌تر جلب کند تا تلاش برای ساخت یک دستیار همه‌کاره از روز اول.",
+      "iranEquivalent": {
+        "productName": "همکار هوشمند سازمانی",
+        "description": "یک دستیار هوشمند مبتنی بر هوش مصنوعی که با نرم‌افزارهای اداری رایج در ایران مانند ابرار، سپیدار و سیستم‌های مدیریت پروژه داخلی یکپارچه می‌شود. این محصول به جای ارائه پاسخ‌های متنی، مستقیماً درون فایل‌ها و فرآیندهای کاری مداخله کرده و خروجی‌های نهایی مانند گزارش‌های مالی یا ایمیل‌های رسمی را آماده می‌کند. تمرکز اصلی بر روی خودکارسازی وظایف تکراری اداری با استفاده از مدل‌های زبانی فارسی‌زبان است.",
+        "marketOpportunity": "بازار سازمان‌های متوسط و بزرگ در ایران تشنه‌ی ابزارهایی است که بتوانند بهره‌وری را بدون نیاز به مهاجرت از نرم‌افزارهای فعلی افزایش دهند. وجود شکاف بزرگ در ابزارهای هوش مصنوعی بومی‌سازی‌شده برای زبان فارسی، فرصت انحصاری برای ورود سریع به بازار ایجاد می‌کند.",
+        "estimatedBudget": "۳.۵ میلیارد تومان",
+        "targetAudience": "مدیران عملیاتی، تیم‌های مالی و منابع انسانی در شرکت‌های متوسط و بزرگ",
+        "challenges": [
+          "دسترسی محدود به مدل‌های زبانی پیشرفته به دلیل تحریم‌ها و نیاز به استفاده از مدل‌های متن‌باز یا بومی",
+          "مقاومت سازمان‌ها در برابر تغییر فرآیندها و نگرانی‌های امنیتی مربوط به ابری بودن داده‌ها"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس تعداد کاربر فعال در سازمان",
+          "فروش لایسنس دائمی برای سازمان‌های دولتی و نیمه‌دولتی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -41584,7 +41878,66 @@
           "user": "[REDACTED]",
           "text": "Happy Dina customer here! Love the product."
         }
-      ]
+      ],
+      "faDescription": "صفحه نمایش خود را ثبت کنید، اسکرین‌شات‌های جذاب بگیرید و حرکات سه‌بعدی سینمایی و زاویه دید پویا به آن‌ها اضافه کنید. تمامی جزئیات خروجی را مطابق نیاز خود سفارشی‌سازی کرده و بلافاصله از طریق یک لینک با دیگران به اشتراک بگذارید. نسخه ۴.۵ دینا تمامی ابزارهای ضبط صفحه، اسکرین‌شات، پویانمایی‌های سه‌بعدی و اشتراک‌گذاری را در قالب یک گردش‌کار سریع و خوش‌ساخت گرد هم آورده است. این نرم‌افزار تجربه ساخت ویدیوهای آموزشی و دموی محصولات را به سطحی حرفه‌ای و مدرن ارتقا می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همراهان پروداکت هانت 👋 من تقریباً هر روز روی توسعه دینا کار کرده‌ام، بهبودهای کوچک ایجاد کرده‌ام، باگ‌ها را رفع کرده‌ام و به آرامی آن را به محصولی تبدیل کرده‌ام که خودم همیشه می‌خواستم از آن استفاده کنم. Dina ۴.۵ احتمالاً لذت‌بخش‌ترین به‌روزرسانی بوده که تا به حال ساخته‌ام. یکی از بزرگ‌ترین قابلیت‌های جدید، لینک‌های قابل اشتراک‌گذاری است. من هرگز این ایده را دوست نداشتم که اشتراک‌گذاری ویدیوها شما را مجاب به خرید اشتراک فضای ذخیره‌سازی دیگری کند؛ بنابراین در دینا می‌توانید از فضای ابری دینا استفاده کنید یا فضای ذخیره‌سازی شخصی خود را متصل کرده و فایل‌ها را تحت کنترل خود نگه دارید. همچنین حالت اسکرین‌شات را اضافه کرده‌ام که بسیار بابت آن هیجان‌زده هستم. در حال حاضر این یک روش ساده برای ثبت و ادیت اسکرین‌شات‌هاست، اما به مرور زمان آن را بخش بسیار بزرگ‌تری از دینا می‌بینم. می‌خواهم دینا به جایی تبدیل شود که بتوانید هر چیزی را از صفحه نمایش خود ثبت، ویرایش، ارائه و به اشتراک بگذارید، در حالی که بخش ویدیویی آن نیز فوق‌العاده باقی بماند. و اما بخش سه‌بعدی؛ این قسمت بسیار جذاب بود! اکنون می‌توانید بدون نیاز به هیچ نرم‌افزار سه‌بعدی، به ضبط‌های خود عمق، پرسپکتیو و حرکات سینمایی ببخشید. من عشق زیادی صرف این به‌روزرسانی کرده‌ام و بر اساس بازخورد کاربران مدام در حال بهبود آن هستم. می‌توانید دینا را به مدت ۷ روز بدون نیاز به کارت اعتباری امتحان کنید. و برای جامعه پروداکت هانت، می‌توانید از کد تخفیف DINAPH برای ۱۰٪ تخفیف هنگام پرداخت استفاده کنید. واقعاً دوست دارم نظرات شما را بشنوم، این‌که چه حس خوبی دارد و دوست دارید در آینده چه چیزی بسازم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ویرایش بر اساس متن ترانسکریپت همان قابلیتی است که باعث می‌شود من به جای برش دستی بر اساس شکل موج صدا، به استفاده از این ابزار روی بیاورم؛ این یک صرفه‌جویی واقعی در زمان برای ویدیوهای سخنگو (Talking-head) است. آیا ویرایش ترانسکریپت کلمات اضافی و مکث‌های طولانی را به طور خودکار مدیریت می‌کند یا بیشتر یک گردش‌کار دستی به صورت «روی کلمه کلیک کن و کلیپ را برش بزن» است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا نسخه آزمایشی برای تست وجود دارد؟ ممنون"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "اکنون ۶ ماه است که از دینا برای ویرایش تمام ویدیوهای رونمایی و توضیحی خود استفاده می‌کنم. کار با دینا بسیار راحت است و مجموعه جدید قابلیت‌ها کاملاً خیره‌کننده است!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "وقتی کسی دینا را با Screen Studio مقایسه می‌کند، قاطع‌ترین تفاوتی که در ویدیوی نهایی مشاهده می‌کند (نه در لیست ویژگی‌ها) چیست؟ و برای ارائه این تفاوت در حالی که برنامه کاملاً نیتیو و آفلاین‌محور باقی بماند، چه سازش‌ها و تنازل‌هایی داشته‌اید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من از زمان اولین رونمایی دینا در پروداکت هانت از آن استفاده می‌کنم. دینا ابزار اصلی من برای به اشتراک‌گذاری دموها و ضبط‌های صفحه نمایش است! ادیتور عالی، بدون هزینه اشتراک دوره‌ای و کاملاً کاربردی. کار فوق‌العاده‌ای بود، بابت آپدیت‌های جدید بسیار هیجان‌زده‌ام!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "من توانسته‌ام پروژه را از زمانی که زید شروع کرد دنبال کنم و نحوه تکامل این به‌روزرسانی دیوانه‌کننده است. برای من این یکی از آن برنامه‌هایی است که بسیار خوش‌ساخت است، با رابط و تجربه کاربری که دقیقاً برای کاری که کاربران باید انجام دهند طراحی شده است. بابت تمام بهبودهایی که اضافه کرده‌ای تبریک می‌گویم، زید."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "یک مشتری خوشحال دینا اینجاست! عاشق این محصول هستم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: ساخت ویدیوهای آموزشی و دموی محصولات نرم‌افزاری معمولاً نیازمند دانش تدوین و زمان‌بر است. دینا (Dina) با ترکیب ضبط صفحه، اسکرین‌شات‌های شکیل، موشن‌گرافیک‌های سه‌بعدی خودکار و لینک اشتراک‌گذاری فوری، فرایند خلق ویدیوهای جذاب را به یک گردش‌کار چند دقیقه‌ای تبدیل کرده است.\n\nمعماری و تکنولوژی: دینا به صورت یک نرم‌افزار نیتیو (Offline-first) توسعه یافته که پروسه ضبط و پردازش سه‌بعدی را روی سیستم کاربر انجام می‌دهد و برای اشتراک‌گذاری از معماری ابری انعطاف‌پذیر (Dina Cloud یا اتصال به ذخیره‌ساز شخصی S۳) بهره می‌برد.\n\nمدل درآمدی: ارائه خرید یک‌باره (Lifetime) بدون هزینه‌های ماهانه اجباری، همراه با مدل ابری اختیاری برای اشتراک‌گذاری سریع فایل‌ها.\n\nنقاط قوت: رابط کاربری بسیار مدرن، جلوه‌های سه‌بعدی جذاب بدون نیاز به ابزارهای تخصصی گرافیک، و کنترل کامل کاربر روی محل ذخیره‌سازی داده‌ها.\n\nنقاط ضعف: رقابت فشرده با برنامه‌های مطرحی مثل Screen Studio و Loom و نیاز به بهینه‌سازی مستمر برای سخت‌افزارهای مختلف.\n\nنکته طلایی برای ایران: در بازار ایران به دلیل محدودیت‌های پهنای باند بین‌الملل، ساخت برنامه‌ای دسکتاپ با پردازش کاملاً آفلاین و امکان اتصال به زیرساخت‌های ابری داخلی (مانند آروان یا پارس‌پک)، جذابیت فوق‌العاده‌ای برای مدرسین و شرکت‌های نرم‌افزاری ایرانی خواهد داشت.",
+      "iranEquivalent": {
+        "productName": "نمانگار",
+        "description": "نمانگار یک نرم‌افزار بومی ضبط و ویرایش هوشمند صفحه نمایش با افکت‌های سه‌بعدی و موشن‌گرافیک خودکار است. این ابزار به تولیدکنندگان محتوا و تیم‌های محصول اجازه می‌دهد بدون نیاز به ابزارهای پیچیده تدوین، ویدیوهای دموی جذاب بسازند. تمامی فایل‌ها بر روی سرورهای داخلی یا ذخیره‌ساز ابری اختصاصی کاربر با سرعت بالا قابل به اشتراک‌گذاری است.",
+        "marketOpportunity": "با رشد سریع بازاریابی محتوایی و آموزش‌های آنلاین در ایران، نیاز به ابزارهای ساخت دمو و ویدیوهای آموزشی کوتاه با کیفیت بین‌المللی بشدت افزایش یافته است. عدم وجود جایگزین بومی سریع و کارآمد با قابلیت پرداخت ریالی و میزبانی داخلی، فرصت طلایی برای تصاحب بازار مدرسان و تیم‌های نرم‌افزاری ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوا، مدرسان آنلاین، مدیران محصول، تیم‌های پشتیبانی فنی و بازاریابان ویدیو",
+        "challenges": [
+          "رقابت با نسخه‌های کرک‌شده ابزارهای سنگین قدیمی مانند Camtasia",
+          "پیچیدگی‌های پردازش گرافیکی و رندرینگ سه‌بعدی روان روی سیستم‌های گوناگون"
+        ],
+        "monetization": [
+          "فروش لایسنس دائمی نرم‌افزار به همراه پشتیبانی یک‌ساله",
+          "ارائه اشتراک ابری بومی برای ذخیره‌سازی و اشتراک‌گذاری سریع ویدیوها"
+        ],
+        "techStack": [
+          "Electron",
+          "React",
+          "WebGL",
+          "Node.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -42547,6 +42900,41 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-yesterday-10",
+      "date": "2026-09-29",
+      "rank": 10,
+      "name": "Jotform Sign for ChatGPT and Claude",
+      "slug": "jotform-sign-for-chatgpt-and-claude",
+      "tagline": "Create, send, and sign documents in ChatGPT and Claude",
+      "description": "Jotform Sign for ChatGPT and Claude brings document creation and e-signatures directly into your AI workspace. Create signature-ready documents from a prompt or uploaded file, edit content and signing fields, manage recipients and signing order, send documents for signature, and track their progress without switching tools. Existing Jotform Sign users can also access and manage their workflows right from ChatGPT or Claude.",
+      "category": "Productivity • SaaS • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/70a58594-9540-4444-af8d-af9be0a61c0b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/04101558-05b3-40cb-abfe-6c9e46cd72c5.png?auto=format",
+        "https://ph-files.imgix.net/c23cf6ea-d966-4efe-9c28-5fddff6f183b.png?auto=format",
+        "https://ph-files.imgix.net/45a4605d-4c5e-4b81-9fd0-32f9fb0fae3d.png?auto=format",
+        "https://ph-files.imgix.net/5f92a519-9264-4fd9-8b71-9f729276ef50.png?auto=format",
+        "https://ph-files.imgix.net/39ab9342-08b3-482b-976f-d968cfa6e0a4.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-09-29T07:01:00Z",
+      "votes": 122,
+      "websiteUrl": "https://www.producthunt.com/r/AQ25I4L5Y4UMW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋We’ve been working on Jotform Sign for ChatGPT and Claude to make e-signature workflows feel much more natural.More and more people are using tools like ChatGPT and Claude as part of their everyday work, but preparing and sending documents for signature still often means switching between different tools, editors, and screens.With this launch, you can use Jotform Sign directly from ChatGPT or Claude. You can create a signature-ready document from a prompt or uploaded file, edit the content and signing fields, manage recipients and signing order, send it for signature, and track its progress, all from the same conversation.One part we’re especially excited about is inline editing. You can keep refining a document in draft mode, preview changes, adjust signing fields, and only send it once everything is ready.For existing Jotform Sign users, this is another way to access the workflows you already use. For new users, we hope it makes creating and sending signable documents much more approachable.We’d love to hear what kinds of documents and signing workflows you’d use this for. Thanks for checking it out!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The ChatGPT and Claude integration looks really useful especially for managing and signing documents without jumping between tools"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -51880,12 +52268,12 @@
     }
   ],
   "audit": {
-    "products": 509,
-    "withRealComments": 509,
-    "withPersianComments": 485,
-    "withPersianDescription": 485,
-    "withAiReview": 477,
-    "withIranEquivalent": 485,
-    "totalRealComments": 3159
+    "products": 510,
+    "withRealComments": 510,
+    "withPersianComments": 492,
+    "withPersianDescription": 492,
+    "withAiReview": 484,
+    "withIranEquivalent": 493,
+    "totalRealComments": 3161
   }
 }
