@@ -1,25 +1,16 @@
 {
-  "checkedAt": "2026-10-01T01:31:04.687Z",
-  "latestDataset": "2026-10-01.json",
+  "checkedAt": "2026-10-02T01:51:41.055Z",
+  "latestDataset": "2026-10-02.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 55,
-  "backlogAfter": 48,
-  "completedProducts": 462,
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 58,
+  "backlogAfter": 49,
+  "completedProducts": 471,
   "missingFaDescription": 18,
   "missingFaComments": 42,
-  "missingAiReview": 26,
+  "missingAiReview": 27,
   "missingIranEquivalent": 19,
-  "failures": [
-    {
-      "slug": "zenabm",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "paste-7",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"کلیپ‌بورد هوشمند قابلیت جدیدی در اپلیکیشن Paste است؛ برنامه‌ای برای افزایش بهره‌وری که تمام موارد کپی‌شده شما را به خاطر می‌سپارد. اکنون Paste بر اساس فعالیتی"
-    }
-  ]
+  "failures": []
 }
