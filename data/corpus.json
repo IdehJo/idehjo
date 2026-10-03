@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:58:15.614Z",
+  "generatedAt": "2026-10-03T01:24:21.415Z",
   "sourceFiles": 54,
   "products": [
     {
@@ -7593,7 +7593,7 @@
       "maker": "Ben Haynes",
       "makerTitle": "Founder & CEO @Directus",
       "featuredAt": "2026-10-01T07:01:00Z",
-      "votes": 456,
+      "votes": 457,
       "websiteUrl": "https://www.producthunt.com/r/OROVPQZ3Y6HPUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -7628,7 +7628,65 @@
           "user": "[REDACTED]",
           "text": "Heya! 👋 Super excited to finally lift the curtains on Monospace! We've spent the last decade building Directus and helping people out with their data and content management needs. Monospace takes what we've learned during that time and applies it to a problem that we keep seeing: data scattered across systems, with every new app or AI agent needing another integration and another set of access rules.The fact that Monospace can deliver your data as a single unified governed API without having to copy over all your data into it's own system is magical ✨Love to hear what you're connecting to in your projects, and where giving an app or agent access to that fleet of data sources is difficult today :)"
         }
-      ]
+      ],
+      "faDescription": "مونواسپیس یک لایه API تحت مدیریت است که بین داده‌های سازمانی و تمامی کسانی که بر روی آن‌ها توسعه می‌دهند قرار می‌گیرد. با اتصال به هر منبع داده‌ای، توسعه‌دهندگان، تیم‌های کسب‌وکار و عامل‌های هوش مصنوعی به داده‌های زنده با دسترسی خواندن و نوشتن دسترسی پیدا می‌کنند. این فرآیند تحت یک مدل مجوزهای ریزدانه و یکپارچه انجام می‌شود و بدون نیاز به کپی یا جابجایی داده‌ها اجرا می‌شود. دیتابیس‌های قدیمی شما برای هوش مصنوعی یا اپلیکیشن‌های مدرن طراحی نشده بودند، اما مونواسپیس با بررسی بلادرنگ اسکیمای آن‌ها، رابط‌های کاربری را مستقیماً از روی همان ساختارهای موجود تولید می‌کند تا نیاز به بازسازی آن‌ها نباشد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت... بن هستم، مدیرعامل دایرکتوس 👋 سال‌ها پیش، ما دایرکتوس را ساختیم زیرا هر پروژه با یک دیتابیس پر از داده و هفته‌ها کار پیش از اینکه کسی بتواند به‌طور ایمن بر روی آن بسازد، شروع می‌شد. این مشکل ثابت نمانده است. داده‌ها در سیستم‌های بیشتری پراکنده شده‌اند و تعداد افرادی که به آن‌ها نیاز دارند نیز در حال افزایش است. توسعه‌دهندگان در حال انتشار اپلیکیشن‌ها، تیم‌های کسب‌وکار که می‌خواهند ابزارهای خود را بسازند و عامل‌های هوش مصنوعی. هر پروژه یک یکپارچه‌سازی دیگر و مجموعه مجوزهای دیگری برای نگهداری اضافه می‌کند. مونواسپیس پاسخ ماست. یک لایه API تحت مدیریت بین داده‌های شما و همه کسانی که بر روی آن‌ها می‌سازند. هر دیتابیس، API یا سیستم SaaS را که اجرا می‌کنید متصل کنید و افراد، اپلیکیشن‌ها و عامل‌ها دسترسی زنده خواندن و نوشتن را تحت یک مدل مجوزها دریافت می‌کنند. هر فراخواننده کلید اختصاصی خود را دارد. قوانین سطح ردیف و فیلد تعیین می‌کنند که در هر درخواست چه چیزی را می‌تواند ببیند. هیچ داده‌ای کپی یا جابجا نمی‌شود و شما می‌توانید آن را به صورت خودمیزبانی (Self-host) اجرا کنید. از بازخورد و سؤالات شما بسیار خوشحال می‌شویم. واقعاً از اینکه وقت گذاشتید و به لانچ ما نگاه کردید قدردانی می‌کنیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "مونواسپیس برای چه نوع پروژه‌هایی مناسب‌تر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "مدل مجوزهای ریزدانه ادعای کلیدی اینجا است. آیا این به سطح ردیف/فیلد برای هر عامل (Agent) می‌رسد، یا فقط دسترسی سطح جدول است؟ می‌پرسم چون سطح حمله عامل‌ها با یک توسعه‌دهنده انسانی متفاوت است - یک عامل می‌تواند فریب بخورد و درخواست داده‌ای را بدهد که از نظر فنی به آن دسترسی دارد اما نباید در آن زمینه به آن دست بزند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بعد از ۵+ سال ساخت ابزارهایی مانند دایرکتوس و تست بسیاری از ابزارهای بازار، چیز زیادی وجود ندارد که واقعاً من را تحت تأثیر قرار دهد. اما مونواسپیس کاملاً این کار را انجام داد. این را فقط به این دلیل نمی‌گویم که در تیم هستم، بلکه به عنوان سازنده‌ای که درد داده‌های پراکنده را می‌شناسم. توانایی مدیریت داده از منابع متعدد در یک مکان، که در یک رابط کاربری شیک و شهودی پیچیده شده است؟ یک تغییر بازی است. تجربه توسعه‌دهنده در سطح بعدی و عملکرد با سرعتی در سطح بعدی است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سلام به همه! فلورین هستم، مهندس نرم‌افزار ارشد در تیم فرانت‌اند مونواسپیس که روی تجربه استودیو کار می‌کنم. همکاران من «چرا» و «چگونه» را پوشش داده‌اند، بنابراین من فقط چیزی را که بیشترین هیجان را برایم دارد به اشتراک می‌گذارم: آنچه در ادامه می‌آید. آنچه امروز لانچ می‌کنیم بنیاد است. ما زمان زیادی را صرف درست کردن مبانی کردیم و حالا که آن‌ها در جای خود قرار گرفته‌اند، می‌توانیم بسیار سریع‌تر حرکت کنیم. شما خواهید دید که از اینجا به بعد بیشتر و بیشتر چیزی را منتشر می‌کنیم، بنابراین اگر امروز کنجکاو شدید، منتظر بمانید. این فقط شروع است 🚀 و اگر استودیو را امتحان کنید، عاشق شنیدن این هستم که می‌خواهید آن چه کاری بعداً انجام دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "به نظر امیدوارکننده می‌رسد! 🤞 من در حال فکر کردن به این هستم که چگونه این امکان را به کسب‌وکارها می‌دهد تا اپلیکیشن‌های داخلی بسازند یا با داده در تمام دیتابیس‌ها و سرویس‌های متصل کار کنند. آیا نرده‌های امنیتی (Guardrails) برای کاربران کم‌فنی وجود دارد تا مطمئن شوند که با تست کردن پلتفرم هیچ چیزی را خراب نمی‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "علاقه‌مند به ایده یک راه برای دسترسی به داده در سیستم‌های مختلف هستم... لانچ واقعاً چشمگیر است! کنجکاو هستم ببینم آن را به کجا می‌برید. بخش مجوزها و حاکمیت به ویژه کاربردی به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام! 👋 خیلی هیجان‌زده‌ام که بالاخره پرده از مونواسپیس برداشته شد! ما ده سال گذشته را صرف ساخت دایرکتوس و کمک به مردم در نیازهای داده و مدیریت محتوا کرده‌ایم. مونواسپیس آنچه را که در این مدت آموخته‌ایم را به مشکلی اعمال می‌کند که مدام با آن مواجه می‌شویم: داده‌های پراکنده در سیستم‌ها، که هر اپلیکیشن جدید یا عامل هوش مصنوعی به یک یکپارچه‌سازی دیگر و مجموعه‌ای دیگر از قوانین دسترسی نیاز دارد. این واقعیت که مونواسپیس می‌تواند داده‌های شما را به عنوان یک API یکپارچه و تحت مدیریت ارائه دهد، بدون اینکه مجبور باشید تمام داده‌ها را به سیستم خود کپی کنید، جادویی است ✨ دوست دارم بشنوم که در پروژه‌های خود به چه چیزهایی متصل می‌شوید و جایی که دادن دسترسی به یک اپلیکیشن یا عامل به آن ناوگان از منابع داده دشوار است، امروز کجاست :)"
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، پراکندگی داده‌ها در سیستم‌های ناهمگون و دشواری دسترسی امن و یکپارچه به آن‌ها برای توسعه‌دهندگان و هوش مصنوعی است. راه‌حل ارائه‌شده، ایجاد یک لایه API متمرکز است که بدون کپی داده، دسترسی بلادرنگ و تحت کنترل را فراهم می‌کند. از نظر معماری، این سیستم بر پایه تحلیل بلادرنگ اسکیمای دیتابیس‌ها (Introspection) و اعمال قوانین مجوزهای ریزدانه (Row/Field-level) استوار است که برای محیط‌های سازمانی حیاتی است. مدل درآمدی احتمالی شامل اشتراک‌های سازمانی و لایسنس‌های خودمیزبانی (Self-hosted) خواهد بود. نقاط قوت اصلی شامل عدم نیاز به جابجایی داده (که هزینه و ریسک را کاهش می‌دهد)، پشتیبانی از عامل‌های هوش مصنوعی و رابط کاربری شهودی است. از نقاط ضعف می‌توان به پیچیدگی پیاده‌سازی در زیرساخت‌های بسیار قدیمی و نیاز به اعتمادسازی در مورد امنیت داده‌ها اشاره کرد. نکته طلایی برای ایران: با توجه به پراکندگی داده‌ها در بخش‌های دولتی و بانکی و تحریم‌ها، ارائه نسخه‌ای که کاملاً آفلاین و روی سرورهای داخلی سازمان (On-premise) قابل اجرا باشد و از هوش مصنوعی برای خودکارسازی گزارش‌دهی استفاده کند، می‌تواند مزیت رقابتی بی‌نظیری ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پل داده هوشمند",
+        "description": "این پلتفرم یک لایه API متمرکز و تحت مدیریت ایجاد می‌کند که به تیم‌های فنی و غیرفنی اجازه می‌دهد بدون جابجایی فیزیکی داده، به منابع مختلف سازمانی دسترسی داشته باشند. با استفاده از هوش مصنوعی، ساختار دیتابیس‌های قدیمی را به‌صورت بلادرنگ تحلیل کرده و رابط‌های کاربری مدرن برای آن‌ها تولید می‌کند. امنیت و کنترل دسترسی در سطح ردیف و فیلد تضمین می‌شود تا هر کاربر یا عامل هوش مصنوعی فقط به اطلاعات مجاز خود دسترسی یابد.",
+        "marketOpportunity": "بازار ایران با وجود پراکندگی داده‌ها در سیستم‌های قدیمی و نیاز فزاینده به اتوماسیون و هوش مصنوعی، تشنه‌ی راه‌حل‌هایی است که بدون بازسازی کامل زیرساخت، داده‌ها را یکپارچه کنند. این محصول می‌تواند شکاف بین داده‌های خام و کاربردپذیری برای کسب‌وکارهای متوسط و بزرگ را پر کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری اطلاعات، بانک‌ها و مؤسسات مالی، و سازمان‌های بزرگ با زیرساخت‌های داده‌ای قدیمی که به دنبال مدرن‌سازی بدون ریسک هستند.",
+        "challenges": [
+          "مقاومت سازمانی در برابر تغییر فرآیندهای امنیتی و اعتماد به سیستم‌های جدید.",
+          "پیچیدگی فنی در یکپارچه‌سازی با دیتابیس‌های متنوع و قدیمی که مستندات کافی ندارند."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس حجم داده یا تعداد کاربران فعال.",
+          "فروش لایسنس دائمی برای سازمان‌های بزرگ با نیاز به استقرار داخلی (On-premise)."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-week-2",
@@ -7889,7 +7947,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "AI Philosopher Engineer",
       "featuredAt": "2026-09-29T07:01:00Z",
-      "votes": 444,
+      "votes": 445,
       "websiteUrl": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -10131,6 +10189,67 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-02",
+      "rank": 1,
+      "name": "Gauth Unlimited Digital Canvas ",
+      "slug": "gauth-unlimited-digital-canvas",
+      "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
+      "description": "Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.",
+      "category": "Education • Artificial Intelligence • Online Learning",
+      "categoryFa": "آموزش • هوش مصنوعی • Online Learning",
+      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format",
+        "https://ph-files.imgix.net/3fa8cbd8-9234-42ba-ad2b-5181253be7ac.jpeg?auto=format",
+        "https://ph-files.imgix.net/175bd340-179f-414b-acda-2128c853f37e.jpeg?auto=format",
+        "https://ph-files.imgix.net/4f3cb8c7-0f0b-4034-9660-8339d96c6865.jpeg?auto=format",
+        "https://ph-files.imgix.net/17e623ef-5e94-48be-b07d-3936188c0a19.jpeg?auto=format",
+        "https://ph-files.imgix.net/c2723ec1-6c64-4820-8fd7-9971c61a2453.jpeg?auto=format",
+        "https://ph-files.imgix.net/2ba694b5-6eb2-49ae-ab6e-ff0c4994d4e3.jpeg?auto=format"
+      ],
+      "maker": "Clara Bennett",
+      "makerTitle": "Marketing",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 412,
+      "websiteUrl": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Excited to hunt Gauth Unlimited Digital Canvas today. I hunted Gauth AI Course last month, and this update takes it in a much more visual direction. Instead of another linear chat or slide deck, the whole lesson now unfolds on one continuous canvas. What stood out: - Chapters expand side by side - Notes, visuals, and AI narration stay in sync - Ask the AI Tutor directly inside the lesson - Zoom from the full concept map down to a single formula - Generate, share, or export your own canvas lessons My favorite part is the in-context tutoring: answers stay attached to the exact step you’re working on instead of disappearing into a long chat thread. Worth checking out if you learn better by seeing how ideas connect."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can I write my own steps on the canvas with an Apple Pencil? That would make this a great tool"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This seems really useful, especially when you’re stuck on a problem and need a little extra help. I love that it can make studying easier and help you actually understand what you’re working on!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@alan_wang13 This feels much more natural for visual learners. How long does it take to create a lesson?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the spatial layout is a nice break from the endless chat scrollback most AI tutors default to. curious how it handles a really long course though - once you've generated like 15-20 chapters side by side, does zooming out to the full concept map stay smooth, or does it start chugging once the canvas gets that dense?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is actually such a good idea because not everybody learns the same way so having this infinite canvas is super cool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’m curious about the handwriting recognition. Does it still work with quick, messy notes?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Math is taught on a board for a reason. This format fits."
+        }
+      ]
+    },
+    {
       "id": "ph-week-4",
       "date": "2026-09-24",
       "rank": 4,
@@ -10492,67 +10611,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-02",
-      "rank": 1,
-      "name": "Gauth Unlimited Digital Canvas ",
-      "slug": "gauth-unlimited-digital-canvas",
-      "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
-      "description": "Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.",
-      "category": "Education • Artificial Intelligence • Online Learning",
-      "categoryFa": "آموزش • هوش مصنوعی • Online Learning",
-      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format",
-        "https://ph-files.imgix.net/3fa8cbd8-9234-42ba-ad2b-5181253be7ac.jpeg?auto=format",
-        "https://ph-files.imgix.net/175bd340-179f-414b-acda-2128c853f37e.jpeg?auto=format",
-        "https://ph-files.imgix.net/4f3cb8c7-0f0b-4034-9660-8339d96c6865.jpeg?auto=format",
-        "https://ph-files.imgix.net/17e623ef-5e94-48be-b07d-3936188c0a19.jpeg?auto=format",
-        "https://ph-files.imgix.net/c2723ec1-6c64-4820-8fd7-9971c61a2453.jpeg?auto=format",
-        "https://ph-files.imgix.net/2ba694b5-6eb2-49ae-ab6e-ff0c4994d4e3.jpeg?auto=format"
-      ],
-      "maker": "Clara Bennett",
-      "makerTitle": "Marketing",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 402,
-      "websiteUrl": "https://www.producthunt.com/r/TCMAWBRPUPSDRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Excited to hunt Gauth Unlimited Digital Canvas today. I hunted Gauth AI Course last month, and this update takes it in a much more visual direction. Instead of another linear chat or slide deck, the whole lesson now unfolds on one continuous canvas. What stood out: - Chapters expand side by side - Notes, visuals, and AI narration stay in sync - Ask the AI Tutor directly inside the lesson - Zoom from the full concept map down to a single formula - Generate, share, or export your own canvas lessons My favorite part is the in-context tutoring: answers stay attached to the exact step you’re working on instead of disappearing into a long chat thread. Worth checking out if you learn better by seeing how ideas connect."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can I write my own steps on the canvas with an Apple Pencil? That would make this a great tool"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This seems really useful, especially when you’re stuck on a problem and need a little extra help. I love that it can make studying easier and help you actually understand what you’re working on!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@alan_wang13 This feels much more natural for visual learners. How long does it take to create a lesson?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the spatial layout is a nice break from the endless chat scrollback most AI tutors default to. curious how it handles a really long course though - once you've generated like 15-20 chapters side by side, does zooming out to the full concept map stay smooth, or does it start chugging once the canvas gets that dense?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is actually such a good idea because not everybody learns the same way so having this infinite canvas is super cool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I’m curious about the handwriting recognition. Does it still work with quick, messy notes?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Math is taught on a board for a reason. This format fits."
-        }
-      ]
     },
     {
       "id": "ph-week-6",
@@ -14351,6 +14409,124 @@
           "Docker"
         ],
         "confidence": 80
+      }
+    },
+    {
+      "id": "ph-week-9",
+      "date": "2026-09-27",
+      "rank": 9,
+      "name": "Humalike - AI NPC",
+      "slug": "humalike-ai-npc",
+      "tagline": "AI NPCs that talk, remember & act on their own",
+      "description": "A new roleplay experience. Build characters and entire AI societies with memory, personality and voice that recognize players, form relationships and react to everything around them. Live on Poland's largest roleplay server. Now, add it to yours.",
+      "category": "Developer Tools • Artificial Intelligence • Games",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • بازی",
+      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a81e2367-4dfc-45b4-a1a3-781f43173b99.png?auto=format",
+        "https://ph-files.imgix.net/f3338a86-4498-44d6-97ea-06b0abf251d0.png?auto=format",
+        "https://ph-files.imgix.net/e99af53d-7507-46a9-81a3-4040c4c70dfe.png?auto=format",
+        "https://ph-files.imgix.net/a89112ea-4bc9-4175-801b-8290cc736e62.png?auto=format",
+        "https://ph-files.imgix.net/2de2a6d2-f525-4de9-b4b2-e627ca7f659f.png?auto=format",
+        "https://ph-files.imgix.net/e7b7d5f0-77dd-40c5-b870-aff6a28a466e.png?auto=format",
+        "https://ph-files.imgix.net/847d778a-bf0f-4662-93fd-d4f721f7abca.png?auto=format",
+        "https://ph-files.imgix.net/05c79e34-390f-4dbf-beb5-ea606dc4c066.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-09-27T07:01:00Z",
+      "votes": 357,
+      "websiteUrl": "https://www.producthunt.com/r/V63RWUYZIRKDTC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Is it just me or documentation link is not accessible?I might be your first customer. Please help me with this! @Humalike"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "very interesting, what if they remember interactions like the vendetta system?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of NPCs reacting to clothing, masks, weapons, gunfire, and server events is seriously cool. What inspired you to build this? 😀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats, team! Can custom NPC groups have their own shared history or relationships with each other or how does it work?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats! What’s the memory window? How much can an NPC member about an individual player across different sessions?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "AI NPCs that actually remember players and build relationships could completely change the feel of RP servers. This is probably the best implementation of AI in gaming 🔥"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally, NPCs that feel like participants in the world rather than scripted dialogue boxes. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’d love to see what happens when multiple AI NPCs with different personalities interact with each other. 🤣"
+        }
+      ],
+      "faDescription": "تجربه‌ای نوین از نقش‌آفرینی که در آن می‌توانید شخصیت‌ها و حتی جوامع کامل هوش مصنوعی را بسازید. این NPCها دارای حافظه، شخصیت و صدای منحصربه‌فرد هستند که بازیکنان را می‌شناسند، روابط شکل می‌دهند و به همه چیز اطرافشان واکنش نشان می‌دهند. این محصول در حال حاضر روی بزرگ‌ترین سرور نقش‌آفرینی لهستان فعالیت می‌کند. اکنون می‌توانید این قابلیت را به سرور خود نیز اضافه کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "آیا فقط من هستم یا لینک مستندات قابل دسترسی نیست؟ ممکن است اولین مشتری شما باشم. لطفاً به من کمک کنید! @Humalike"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بسیار جالب است، چه می‌شود اگر آن‌ها تعاملات را مانند سیستم کینه‌ورزی (vendetta) به خاطر بسپارند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ایده اینکه NPCها به لباس، ماسک، سلاح‌ها، شلیک گلوله و رویدادهای سرور واکنش نشان دهند، واقعاً خنک است. چه چیزی الهام‌بخش شما برای ساخت این محصول بود؟ 😀"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک، تیم! آیا گروه‌های سفارشی NPC می‌توانند تاریخچه مشترک یا روابطی با یکدیگر داشته باشند یا چطور کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک! پنجره حافظه چقدر است؟ یک عضو NPC می‌تواند در سراسر جلسات مختلف، چقدر درباره یک بازیکن فردی به خاطر بسپارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "NPCهای هوش مصنوعی که واقعاً بازیکنان را به خاطر می‌سپارند و روابطی با آن‌ها می‌سازند، می‌توانند حس سرورهای RP را کاملاً تغییر دهند. این احتمالاً بهترین پیاده‌سازی هوش مصنوعی در گیمینگ است 🔥"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بالاخره، NPCهایی که مانند شرکت‌کنندگان در دنیای بازی به نظر می‌رسند، نه جعبه‌های دیالوگ اسکریپت‌شده. تبریک!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "علاقه‌مندم ببینم چه اتفاقی می‌افتد وقتی چندین NPC هوش مصنوعی با شخصیت‌های مختلف با یکدیگر تعامل می‌کنند. 🤣"
+        }
+      ],
+      "aiReview": "مسئله اصلی در سرورهای نقش‌آفرینی، خشکی و تکراری بودن رفتار NPCهای اسکریپت‌شده است که حس غیبت از دنیای بازی را ایجاد می‌کند. راه‌حل Humalike، پیاده‌سازی NPCهایی با حافظه بلندمدت، شخصیت مستقل و توانایی واکنش به محیط و بازیکنان است که تجربه را از یک سری دیالوگ ثابت به یک تعامل زنده تبدیل می‌کند. از نظر معماری، این سیستم نیازمند یک لایه میان‌افزاری قدرتمند برای مدیریت وضعیت (State Management) و حافظه برداری (Vector Database) برای بازیابی خاطرات است که روی موتورهای بازی موجود اجرا می‌شود. مدل درآمدی بر اساس B۲B (فروش به سرورها) با اشتراک‌های تدریجی بر اساس تعداد NPCها و پیچیدگی تعاملات است. نقاط قوت شامل تمایز قوی در بازار، وفاداری بالای کاربران به سرورهای باکیفیت و قابلیت مقیاس‌پذیری نرم‌افزاری است. نقاط ضعف عبارتند از مصرف بالای منابع سرور، نیاز به تنظیمات دقیق برای جلوگیری از رفتارهای نامتناسب هوش مصنوعی و وابستگی به زیرساخت‌های ابری گران‌قیمت. نکته طلایی برای ایران: تمرکز بر بهینه‌سازی مصرف منابع برای سرورهای داخلی با سخت‌افزار محدودتر و ایجاد یک مارکت‌پلیس برای فروش شخصیت‌های NPC آماده به زبان فارسی می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "هم‌نقش هوشمند",
+        "description": "پلتفرمی برای ایجاد NPCهای هوشمند با حافظه بلندمدت و شخصیت‌پردازی عمیق در سرورهای بازی. این سیستم امکان تعاملات پویا و غیرخطی بین بازیکنان و شخصیت‌های غیرقابل کنترل را فراهم می‌کند. هدف اصلی، زنده کردن دنیای مجازی و ایجاد حس حضور واقعی در محیط‌های نقش‌آفرینی است.",
+        "marketOpportunity": "بازار گیمینگ ایران با وجود محدودیت‌های دسترسی به سرویس‌های خارجی، تشنه‌ی محتوای تعاملی و نوآورانه است. وجود جامعه‌ای فعال از گیمرهای نقش‌آفرینی و توسعه‌دهندگان سرورهای اختصاصی، پتانسیل بالایی برای پذیرش این فناوری ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان سرورهای بازی، گیمرهای حرفه‌ای نقش‌آفرینی و استودیوهای بازی‌سازی داخلی",
+        "challenges": [
+          "هزینه‌های بالای محاسباتی برای پردازش همزمان تعداد زیادی از NPCها با حافظه بلندمدت",
+          "چالش‌های فنی در یکپارچه‌سازی با موتورهای بازی محبوب در ایران و مدیریت پهنای باند"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای سرورهای اختصاصی با سقف مشخص از تعداد NPCها",
+          "فروش پکیج‌های شخصیت‌پردازی پیشرفته و صداهای اختصاصی به صورت یک‌بار"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
       }
     },
     {
@@ -23133,6 +23309,62 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-02",
+      "rank": 2,
+      "name": "Veltrix AI for E-commerce",
+      "slug": "veltrix-ai-for-e-commerce",
+      "tagline": "Find how your e-commerce business could earn more",
+      "description": "Find ways to make your e-commerce business more profitable. Veltrix uses AI to analyze your sales, costs, customers and marketing. Get help deciding what to promote, where to cut spending and how to solve problems holding the business back. Connect your business tools or upload files. Start with a Business Health Check to find improvements you may have missed. Then use Veltrix to work out what to improve. Your first check is free. No card required.",
+      "category": "Artificial Intelligence • E-Commerce • Business",
+      "categoryFa": "هوش مصنوعی • E-Commerce • کسب‌وکار",
+      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/00754c3c-732d-4226-ad58-1196546bb224.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7a11c7b2-5b14-4083-a815-4c5f1fef098e.png?auto=format",
+        "https://ph-files.imgix.net/d76e1fee-9e36-4510-8094-d23a2fa99e8f.png?auto=format",
+        "https://ph-files.imgix.net/9c84affd-d3d3-40a3-9d5a-033ccfd64f5b.png?auto=format",
+        "https://ph-files.imgix.net/2fcb55bf-8ff4-4954-95bb-a13bff9e15dc.png?auto=format",
+        "https://ph-files.imgix.net/125e7aac-6577-4792-aeb7-edb321668571.png?auto=format",
+        "https://ph-files.imgix.net/66651400-ac81-4e6c-8d49-95482a64d00d.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 260,
+      "websiteUrl": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "the \"business is not a 72/100\" health check score is a strong hook for getting someone past the free-check wall, but a single number like that invites the same question every credit-score-style product gets: what's the actual spread between a 72 and an 85 in dollar terms for a typical store? without that, people either panic over the number or ignore it as just another vanity metric. does the report translate the score gap into \"fixing this gets you roughly $X more a month,\" or is it more of a relative ranking against similar stores?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@bohdan_sitar Congratulations. And happy product launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is how you make my accountant stay relevant and earn their keep in the age of AI :-) Excellent product - I connected my business's Xero instance and it gave great recommendations immediately. I would want my accountant to do the same so they can proactively advise me on cash flow, tax etc."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "looks cool, good luck with teh launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great work, everyone. I'm looking forward to seeing how our users take to the new features!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice to see an AI product focused on actual business numbers rather than generic advice."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Business Health Check is a smart starting point. Most owners don’t know what question to ask first."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-09-22",
       "rank": 4,
@@ -23917,62 +24149,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-02",
-      "rank": 2,
-      "name": "Veltrix AI for E-commerce",
-      "slug": "veltrix-ai-for-e-commerce",
-      "tagline": "Find how your e-commerce business could earn more",
-      "description": "Find ways to make your e-commerce business more profitable. Veltrix uses AI to analyze your sales, costs, customers and marketing. Get help deciding what to promote, where to cut spending and how to solve problems holding the business back. Connect your business tools or upload files. Start with a Business Health Check to find improvements you may have missed. Then use Veltrix to work out what to improve. Your first check is free. No card required.",
-      "category": "Artificial Intelligence • E-Commerce • Business",
-      "categoryFa": "هوش مصنوعی • E-Commerce • کسب‌وکار",
-      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/00754c3c-732d-4226-ad58-1196546bb224.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7a11c7b2-5b14-4083-a815-4c5f1fef098e.png?auto=format",
-        "https://ph-files.imgix.net/d76e1fee-9e36-4510-8094-d23a2fa99e8f.png?auto=format",
-        "https://ph-files.imgix.net/9c84affd-d3d3-40a3-9d5a-033ccfd64f5b.png?auto=format",
-        "https://ph-files.imgix.net/2fcb55bf-8ff4-4954-95bb-a13bff9e15dc.png?auto=format",
-        "https://ph-files.imgix.net/125e7aac-6577-4792-aeb7-edb321668571.png?auto=format",
-        "https://ph-files.imgix.net/66651400-ac81-4e6c-8d49-95482a64d00d.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 255,
-      "websiteUrl": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "This is how you make my accountant stay relevant and earn their keep in the age of AI :-) Excellent product - I connected my business's Xero instance and it gave great recommendations immediately. I would want my accountant to do the same so they can proactively advise me on cash flow, tax etc."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks cool, good luck with teh launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great work, everyone. I'm looking forward to seeing how our users take to the new features!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice to see an AI product focused on actual business numbers rather than generic advice."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Business Health Check is a smart starting point. Most owners don’t know what question to ask first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really cool to see this come together. Congrats to everyone involved!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice project! Are you integrating directly only with Shopify? What about other engines?And more importantly. What about online marketplaces- Amazon, eBay, Kaufland, Walmart? Could your product could be used here as well?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -27479,7 +27655,69 @@
           "user": "[REDACTED]",
           "text": "​Tested a concept prompt this afternoon it mapped out the architecture, code and BOM layout in just a few mints."
         }
-      ]
+      ],
+      "faDescription": "آتونومی‌ور (Autonomyware) ایده شما را به یک محصول فیزیکی مهندسی‌شده تبدیل می‌کند. شما می‌توانید با چشم‌انداز ذهنی خود شروع کرده و اجازه دهید هوش مصنوعی خودکار، تمام فرآیند مهندسی را از ابتدا تا انتها مدیریت کند. با توصیف آنچه می‌خواهید بسازید، از تعریف محصول به سمت معماری، ارزیابی ریسک، مدل‌سازی CAD، صورت مواد اولیه (BOM)، کدنویسی، اعتبارسنجی و آماده‌سازی برای تولید حرکت می‌کنید. این فضای کاری مبتنی بر هوش مصنوعی، تمامی تصمیمات و خروجی‌های مهندسی را از مرحله ایده تا اجرا به صورت متصل و یکپارچه نگه می‌دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 من تئو هستم، یک متخصص سه‌بعدی با هشت سال سابقه در خلق دارایی‌های دیجیتال، رندرینگ و هنر فنی. من بخش زیادی از این زمان را صرف یادگیری نحوه تبدیل ایده‌ها به اشیاء دیجیتال کرده‌ام. با آتونومی‌ور، ما می‌خواهیم افراد بیشتری بتوانند بدون نیاز به صرف سال‌ها زمان برای یادگیری ابزارها، محصولات فیزیکی خلق کنند. 💬 پرامپت ← ⚙️ ساخت ← 🛠️ تولید. شما آنچه را که می‌خواهید بسازید توصیف می‌کنید و هوش مصنوعی خودکار فرآیند طراحی و مهندسی را پیش می‌برد. می‌توانید مدل سه‌بعدی را بررسی، بهینه‌سازی و برای پرینت یا ساخت صادر کنید. یک مجسمه دکوری یا یک ابزار مکانیکی نقطه شروع خوبی است. برای پروژه‌های پیچیده‌تر، این فضای کاری الزامات، معماری، تحلیل ریسک، لیست قطعات (BOM)، کدنویسی، اعتبارسنجی و آماده‌سازی تولید را نیز پوشش می‌دهد. مدل‌ها، فایل‌ها و تصمیمات مهندسی متصل باقی می‌مانند تا بتوانید فرآیند شکل‌گیری طراحی را بررسی کنید. 🔍 ما اکنون دسترسی را باز کرده‌ایم 🚀 دمو فرآیند چند ساخت را نشان می‌دهد و جزئیات بیشتری از درون برنامه ارائه می‌دهد. خوشحال می‌شویم آن را امتحان کنید و نظرات، ابهامات یا بخش‌هایی که در آن گیر کرده‌اید را با ما در میان بگذارید. همچنین اگر چیزی هست که همیشه می‌خواستید بسازید، مشتاقیم درباره‌اش بشنویم. 👇"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من مجسمه سه‌بعدی پرینت‌شده Golden Kitty خودم را در طول تماس تصویری بالا گرفتم و از تئو و ولاد پرسیدم: آیا آتونومی‌ور می‌تواند این را با حس و حال مهندسی (vibe-engineer) بازسازی کند؟ یانیک پاسخ داد که نمونه کاربردی من برای قابلیت مجسمه‌سازی بسیار عالی است و در طول همان تماس آن را اثبات کرد. همان‌جا بود که همه چیز برایم روشن شد. آتونومی‌ور فقط یک برنامه سه‌بعدی دیگر نیست که مدل‌های به‌ظاهر موجه می‌سازد؛ شما می‌توانید یک جسم عجیب که برای روی میزتان می‌خواهید را توصیف کنید و این ابزار فایل‌های CAD و خروجی‌های ساخت مورد نیاز برای تبدیل آن به ماده واقعی را مهندسی می‌کند. عبارت \"Lovable برای محصولات فیزیکی\" سطح‌پایین به نظر می‌رسد تا زمانی که بفهمید می‌توانید از آن برای ساخت اسباب‌بازی فرزندتان، هدیه‌ای برای پارتنرتان یا حتی Golden Kitty خودتان استفاده کنید! 😜🏆"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای راه‌اندازی! حرکت از ایده به محصول فیزیکی گامی جسورانه و بلندپروازانه است و ویدیو دمو بسیار چشمگیر به نظر می‌رسد. مشتاقم ببینم با سریع‌تر و دقیق‌تر شدن حلقه بازخورد مهندسی، این محصول به کجا خواهد رسید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این رویای واقعی من است تئودور! ارزش پیشنهادی و نحوه تبدیل ایده‌ها به محصولات فیزیکی را دوست دارم. بهترین‌ها را برایتان آرزو می‌کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "چه ایده فوق‌العاده‌ای! عاشق این محصول شدم. تبریک به تیم سازنده برای این راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تا کنون چه نوع محصولات فیزیکی را دیده‌اید که مردم با استفاده از این ابزار می‌سازند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "خیلی خوب می‌شد اگر چرخش جسم در نمایشگر بدون این اینرسی اعصاب‌خردکن کار می‌کرد. در غیر این صورت، محصول فوق‌العاده‌ای است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "امروز بعدازظهر یک پرامپت مفهومی را تست کردم؛ این ابزار تنها در چند دقیقه معماری، کد و ساختار لیست قطعات (BOM) را نقشه‌برداری و آماده کرد."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nطراحی و مهندسی محصولات فیزیکی فرآیندی پیچیده، هزینه‌بر و نیازمند تسلط بر چندین نرم‌افزار تخصصی (مانند SolidWorks، Altium و محیط‌های کدنویسی) است. Autonomyware با ارائه یک محیط کاری یکپارچه مبتنی بر هوش مصنوعی، این مسیر را هموار کرده است. کاربر با ورود یک توصیف متنی (Prompt)، فرآیند مهندسی را از تعریف الزامات تا تولید مدل CAD، کد، لیست قطعات (BOM) و تحلیل ریسک به صورت خودکار طی می‌کند.\n\n### معماری و تکنولوژی\nاین پلتفرم از ترکیب مدل‌های زبانی بزرگ (LLM) برای تحلیل الزامات و معماری، مدل‌های مولد سه‌بعدی برای ساخت هندسه اوليه، و هسته‌های هندسی مهندسی (Geometric Kernels) برای تولید خروجی‌های دقیق CAD بهره می‌برد. فرانت‌اند برنامه با وب‌گل/Three.js برای نمایش تعاملی مدل‌های سه‌بعدی بهینه‌سازی شده و در بک‌اند، پیوند محکمی میان تمام تصمیمات مهندسی و فایل‌های خروجی حفظ می‌شود.\n\n### مدل درآمدی\nمدل درآمدی اصلی مبتنی بر اشتراک ابری (SaaS) است. علاوه بر این، پلتفرم می‌تواند از طریق ارائه خدمات پریمیوم مهندسی، فروش مستقیم خروجی‌های ساخت به تولیدکنندگان متصل، و ارائه لایسنس‌های سازمانی به بخش‌های R&D درآمدزایی کند.\n\n### نقاط قوت\n۱. **یکپارچگی بی‌نظیر:** وصل کردن ایده متنی به فایل‌های ساخت و لیست قطعات در یک محیط واحد.\n۲. **کاهش زمان R&D:** کاهش زمان نمونه‌سازی از چند هفته به چند دقیقه.\n۳. **دسترسی‌پذیری بالا:** امکان خلق محصول فیزیکی برای افراد ناآشنا با نرم‌افزارهای پیچیده مهندسی.\n\n### نقاط ضعف\n۱. **مشکلات جزئی تجربه کاربری:** وجود برخی بازخوردهای منفی کاربران در مورد نحوه ناوبری و اینرسی دوربین در نمایشگر ۳بعدی.\n۲. **چالش دقت صنعتی:** اطمینان از قابلیت ساخت قطعات بسیار دقیق یا پیچیده در دنیای واقعی نیازمند تست‌های بیشتر است.\n\n### نکته طلایی برای بازار ایران\nبزرگ‌ترین برگ برنده اجرای این ایده در ایران، **اتصال خودکار سیستم BOM به تامین‌کنندگان داخلی** است. اگر هوش مصنوعی قطعات مورد نیاز (از پیچ و مهره تا برد الکترونیکی) را بر اساس موجودی و قیمت فروشگاه‌های بومی (مانند فروشگاه‌های بازار جمهوری یا پامنار) پیشنهاد دهد، ارزش فوق‌العاده‌ای برای سخت‌افزارسازان ایرانی ایجاد خواهد شد.",
+      "iranEquivalent": {
+        "productName": "سازنده‌شو (SazandehSho)",
+        "description": "سازنده‌شو بومی‌سازی شده پلتفرم طراحی و مهندسی معکوس تجهیزات فیزیکی با هوش مصنوعی در ایران است. این سامانه ایده متنی یا متغیرهای ورودی کاربران را دریافت کرده و نقشه CAD، لیست قطعات (BOM) قابل تهیه از بازار تهران و کدهای کنترلی را تولید می‌کند. هدف اصلی این پلتفرم شتاب‌دهی به نمونه‌سازی سریع برای سخت‌افزارسازان و کارگاه‌های تولیدی بومی است.",
+        "marketOpportunity": "با توجه به رشد صنعت ساخت دیجیتال، پرینت سه‌بعدی و نیازمندی‌های فراوان ایده‌پردازان ایرانی به نمونه‌سازی سریع، خلاء یک ابزار هوشمند مهندسی کاملاً محسوس است. بومی‌سازی این پلتفرم می‌تواند هزینه‌های R&D استارتاپ‌های سخت‌افزاری و قطعه‌سازان را به شدت کاهش دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "مهندسان مکانیک و الکترونیک، استارتاپ‌های سخت‌افزاری، طراحان صنعتی، کارگاه‌های نمونه‌سازی و علاقمندان به ساخت دیجیتال (Makers)",
+        "challenges": [
+          "تطبیق لیست قطعات (BOM) تولید شده توسط AI با بازار قطعات الکترونیک و مکانیک ایران (مانند بازار جمهوری و پاساژ امجد)",
+          "پیچیدگی‌های هندسی و نیاز به تولید فایل‌های کاملاً دقیق قابل ساخت با دستگاه‌های CNC و پرینترهای سه‌بعدی بومی",
+          "محدودیت زیرساخت‌های پردازشی سنگین برای رندرینگ و پردازش مدل‌های سه‌بعدی پیچیده"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه پلتفرم (SaaS) بر اساس تعداد پروژه‌ها",
+          "دریافت درصد کارمزد از ارجاع سفارش‌های ساخت به کارگاه‌های پرینت سه‌بعدی و برش لیزر همکار",
+          "فروش پکیج‌های سفارشی برای شرکت‌های صنعتی و R&D"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Three.js / WebGL",
+          "Python",
+          "FastAPI",
+          "OpenCASCADE"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -27719,6 +27957,55 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-10-02",
+      "rank": 3,
+      "name": "Teachoo",
+      "slug": "teachoo-2",
+      "tagline": "AI that helps you learn anything and everything.",
+      "description": "Teachoo helps students work through homework one question at a time. Type a problem or upload a photo, then work toward the answer with guided questions, feedback and hints. Need more help? Ask for a bigger hint or an explanation of the step. Free to use. Try a problem you haven’t solved in years.",
+      "category": "Education • Artificial Intelligence • Online Learning",
+      "categoryFa": "آموزش • هوش مصنوعی • Online Learning",
+      "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d9094751-1c32-41f0-b9db-16163150603b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b5bdd52a-1841-4098-974e-a42a94ef4479.jpeg?auto=format",
+        "https://ph-files.imgix.net/319ba9c4-e5f5-49a7-acf4-37a479285de2.png?auto=format",
+        "https://ph-files.imgix.net/7bc73e90-dd84-4674-8b49-516412eced92.png?auto=format",
+        "https://ph-files.imgix.net/f0d375c1-a143-4a4d-8e3c-f3383af8866f.png?auto=format",
+        "https://ph-files.imgix.net/23aac09a-fb2a-4374-b808-b7503981acc5.png?auto=format",
+        "https://ph-files.imgix.net/56aa9fc0-45eb-4a22-8322-d59b757ab612.png?auto=format",
+        "https://ph-files.imgix.net/e53e36de-56ac-4eea-b8d0-b47d5f094203.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 211,
+      "websiteUrl": "https://www.producthunt.com/r/KFXWOSQJDAFLPW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I’m Phillip, one of the makers of Teachoo.Teachoo comes from the team behind iAsk.ai, which has handled nearly 1 billion searches since launch. With Teachoo, we’re bringing that experience to helping students work through problems and understand how to solve them.Ever read a perfectly clear explanation, thought “got it,” then had no idea where to start on the next problem?That’s the gap we’re working on.Teachoo is a free AI tutor that helps students work through problems one question at a time. Type a question or upload a photo of your homework, and it guides you through the reasoning.Here’s an example from our demo. A student asks:“Solve x² − 5x + 6 = 0.”Teachoo starts by asking which two numbers multiply to 6 and add up to −5. The student tries an answer, gets feedback, and works toward the solution through a conversation.Those attempts matter. They give Teachoo something to respond to and the student a chance to figure out the next step.When you need more support, “Bigger hint” gives you another nudge, and “I’m Stuck” helps explain the step. There are also visual explanations, flashcards with spaced repetition, and a dashboard to follow your progress.We want students to leave a session feeling more ready to tackle the next problem themselves.Even if your homework days are behind you, try a problem you haven’t solved in years on Teachoo. It’s free to use.I’d love to hear where the guidance felt helpful and where you wanted it to get to the point faster.Thanks for giving Teachoo a try!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"read the explanation, thought got it, then had no idea where to start on the next problem\" is a really specific and true observation, that's the actual failure mode of most homework help tools, not the one they market against. the thing I'd want to know as a parent: what stops a kid from just mashing \"bigger hint\" until the hint is basically the answer? guided questions only teach something if the difficulty ramps slower than the kid's patience for clicking through them."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks clean UI. Kudos 🎉 . is there any option to upload handwritten notes ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Guiding students toward the answer with hints instead of just handing it over is the right call for actual learning, and free access makes it easy to try. The option to ask for a bigger hint versus a full step explanation is a nice bit of control. Does it adapt the hint difficulty based on how the student is doing?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@phillipderenzo The photo upload featured looks helpful. Can it understand questions from a notebook photo?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -28423,51 +28710,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-02",
-      "rank": 3,
-      "name": "Teachoo",
-      "slug": "teachoo-2",
-      "tagline": "AI that helps you learn anything and everything.",
-      "description": "Teachoo helps students work through homework one question at a time. Type a problem or upload a photo, then work toward the answer with guided questions, feedback and hints. Need more help? Ask for a bigger hint or an explanation of the step. Free to use. Try a problem you haven’t solved in years.",
-      "category": "Education • Artificial Intelligence • Online Learning",
-      "categoryFa": "آموزش • هوش مصنوعی • Online Learning",
-      "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d9094751-1c32-41f0-b9db-16163150603b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b5bdd52a-1841-4098-974e-a42a94ef4479.jpeg?auto=format",
-        "https://ph-files.imgix.net/319ba9c4-e5f5-49a7-acf4-37a479285de2.png?auto=format",
-        "https://ph-files.imgix.net/7bc73e90-dd84-4674-8b49-516412eced92.png?auto=format",
-        "https://ph-files.imgix.net/f0d375c1-a143-4a4d-8e3c-f3383af8866f.png?auto=format",
-        "https://ph-files.imgix.net/23aac09a-fb2a-4374-b808-b7503981acc5.png?auto=format",
-        "https://ph-files.imgix.net/56aa9fc0-45eb-4a22-8322-d59b757ab612.png?auto=format",
-        "https://ph-files.imgix.net/e53e36de-56ac-4eea-b8d0-b47d5f094203.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 204,
-      "websiteUrl": "https://www.producthunt.com/r/KFXWOSQJDAFLPW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I’m Phillip, one of the makers of Teachoo.Teachoo comes from the team behind iAsk.ai, which has handled nearly 1 billion searches since launch. With Teachoo, we’re bringing that experience to helping students work through problems and understand how to solve them.Ever read a perfectly clear explanation, thought “got it,” then had no idea where to start on the next problem?That’s the gap we’re working on.Teachoo is a free AI tutor that helps students work through problems one question at a time. Type a question or upload a photo of your homework, and it guides you through the reasoning.Here’s an example from our demo. A student asks:“Solve x² − 5x + 6 = 0.”Teachoo starts by asking which two numbers multiply to 6 and add up to −5. The student tries an answer, gets feedback, and works toward the solution through a conversation.Those attempts matter. They give Teachoo something to respond to and the student a chance to figure out the next step.When you need more support, “Bigger hint” gives you another nudge, and “I’m Stuck” helps explain the step. There are also visual explanations, flashcards with spaced repetition, and a dashboard to follow your progress.We want students to leave a session feeling more ready to tackle the next problem themselves.Even if your homework days are behind you, try a problem you haven’t solved in years on Teachoo. It’s free to use.I’d love to hear where the guidance felt helpful and where you wanted it to get to the point faster.Thanks for giving Teachoo a try!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks clean UI. Kudos 🎉 . is there any option to upload handwritten notes ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Guiding students toward the answer with hints instead of just handing it over is the right call for actual learning, and free access makes it easy to try. The option to ask for a bigger hint versus a full step explanation is a nice bit of control. Does it adapt the hint difficulty based on how the student is doing?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@phillipderenzo The photo upload featured looks helpful. Can it understand questions from a notebook photo?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -29187,7 +29429,62 @@
           "user": "[REDACTED]",
           "text": "Yall cooking! I am excited to try out the MCP. Connecting it right away! @CrawlRaven MCP @ayushtweetshere @aditi_chaturvedi @rakesh_rry"
         }
-      ]
+      ],
+      "faDescription": "کرال‌ریون یک ابزار جامع و هوشمند سئو است که داده‌های گوگل سرچ کنسول، گوگل آنالیتیکس ۴، لیست کلمات کلیدی و خزش فنی سایت شما را در قالب یک برنامه اقدام یکپارچه ترکیب می‌کند. این سیستم تمامی وظایف سئو را بر اساس میزان تأثیر واقعی بر ترافیک و درآمد اولویت‌بندی می‌کند تا دقیقاً بدانید چه مواردی را باید در اولویت اول اصلاح، به‌روزرسانی یا تولید کنید. شما می‌توانید از طریق سرور MCP، این ابزار را به چت‌بات‌هایی مانند کلود، چت‌جی‌پی‌تی یا کرسر متصل کرده و پاسخ سوالات تحلیلی خود را مستقیماً از داده‌های اختصاصی سایتتان دریافت کنید. این سرویس بدون نیاز به کلیدهای پیچیده API و تنها با ورود از طریق مرورگر، فرآیند تحلیل و بهبود سئوی سایت را کاملاً خودکار و مدرن می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "باز هم معرفی کرال‌ریون! من در ماه جولای هم آن را معرفی کرده بودم، اما تیم از آن زمان تاکنون قابلیت‌های جدید زیادی عرضه کرده که ارزش بررسی مجدد را دارد. ایده اصلی تغییری نکرده: دست از ترکیب خروجی‌های اکسل سرچ کنسول، لیست کلمات کلیدی و گزارش‌های خزش بکشید تا ببینید این هفته باید روی چه چیزی کار کنید. کرال‌ریون همه را ترکیب کرده و یک لیست اولویت‌بندی‌شده بر اساس تأثیر به شما می‌دهد. قابلیت‌های جدید: 🤖 دستیار هوش مصنوعی شما می‌تواند بررسی سئو را انجام دهد. کلود، چت‌جی‌پی‌تی یا کرسر را بدون نیاز به کلید API و تنها با ورود مرورگر به سرور MCP وصل کنید. بپرسید «این ماه چه بخش‌هایی افت داشته؟» و پاسخ را از داده‌های واقعی سرچ کنسول و GA۴ دریافت کنید، نه یک فایل اکسل پیست‌شده. 🛠️ ممیزی فنی سئو. سایت خود را خزش کنید و تمام مشکلات را همراه با میزان شدت، زحمت لازم برای رفع و میزان کلیک‌های جستجوی درگیر دریافت کنید. لینک‌های خراب در صفحات پربازدید، بالاتر از لینک‌های خراب در صفحات بی‌بیننده قرار می‌گیرند. هر راهکاری را مستقیماً در هوش مصنوعی خود کپی کنید. 📈 برنامه‌های اولویت‌بندی‌شده بر اساس ترافیک تبدیل‌شونده. فرصت‌ها اکنون ورودی‌های GA۴ و رویدادهای کلیدی را وزن‌دهی می‌کنند، بنابراین صفحه‌ای که واقعاً تبدیل ایجاد می‌کند در بالای لیست قرار می‌گیرد. 🗓️ دلیل تغییرات ترافیک را ببینید. آپدیت‌های گوگل و یادداشت‌های شما دقیقاً روی نمودار عملکرد قرار می‌گیرند. کشورها و دستگاه‌ها را در بازه‌های زمانی ۱ روز تا ۱۶ ماه مقایسه کنید. 🔒 ساخته‌شده برای کارهای پروژه‌ای و کارفرمایی. حالت حریم خصوصی، کوئری‌ها، صفحات و نام سایت‌ها را برای اشتراک‌گذاری صفحه تار می‌کند و تصاویر نمودار بدون اطلاعات خصوصی قابل اشتراک‌گذاری هستند. آدیتی و راکِش بیش از یک دهه است که سئو کار می‌کنند و این ابزار را برای جریان کاری خود ساخته‌اند. آن‌ها تمام روز در بخش نظرات هستند، پس سخت‌ترین سوالات خود را بپرسید. یک طرح رایگان هم وجود دارد تا ابتدا ببینید چه چیزی در سایت شما پیدا می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک برای انتشار! انجام کارهای سئو مستقیماً از طریق دستیار هوش مصنوعی و پروتکل MCP ترکیب فوق‌العاده‌ای است — پیگیری کلمات کلیدی و یافتن فرصت‌ها بدون نیاز به جابه‌جایی بین تب‌های مختلف، زمان زیادی را ذخیره می‌کند. مشتاقم بدانم داده‌های خزش جدید را چگونه مدیریت می‌کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "حالت حریم خصوصی برای اشتراک‌گذاری صفحه جزئیات بسیار جذابی است؛ اکثر ابزارها در این حوزه فرض می‌کنند شما فقط سایت خودتان را نگاه می‌کنید. از آنجایی که اشاره کردید این ابزار برای کار با مشتریان ساخته شده، آیا با یک حساب کاربر می‌توان چند دامنه مشتری را کنار هم مدیریت کرد یا در حال حاضر برای هر محیط کاری فقط یک سایت متصل می‌شود؟ معمولاً گلوگاه اصلی آژانس‌ها همین است، نه خودِ تحلیل."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ایده را دوست دارم، اما گزینه‌ای برای ثبت‌نام با ایمیل نمی‌بینم. من حساب گوگل ندارم، بنابراین نمی‌توانم از مرحله ثبت‌نام عبور کنم. امکان دارد ثبت‌نام با ایمیل را اضافه کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "وقتی صفحه‌ای داده‌های مفید در سرچ کنسول دارد اما رویدادهای کلیدی GA۴ آن بسیار کم است، این موضوع چه تأثیری بر جایگاه آن در برنامه اولویت‌بندی‌شده دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "بخش GEO (بهینه‌سازی برای موتورهای هوش مصنوعی) چیزی است که من برای آن از این ابزار استفاده خواهم کرد، بنابراین یک سوال مشخص درباره ورودی‌ها دارم: آیا لاگ‌های سرور را بررسی می‌کند یا فقط سرچ کنسول و خزش سایت؟ دلیلم برای پرسش این است که GSC اصلاً سیگنال مورد نظر من را نشان نمی‌دهد. در لاگ‌های سرور من دو چیز کاملاً متفاوت وجود دارد که هر دو شبیه «ترافیک هوش مصنوعی» به نظر می‌رسند: ربات‌های خزش‌گر نمایه (مثل OAI-SearchBot، GPTBot، ClaudeBot) که نقشه سایت را بررسی کرده و صفحات را پیمایش می‌کنند، و درخواست‌های تکی توسط ChatGPT-User / Perplexity-User / Claude-User که دقیقاً زمانی رخ می‌دهند که یک کاربر همان لحظه از دستیار سوالی پرسیده است. مورد دوم سیگنال واقعی GEO است و در GSC کاملاً نامرئی است. اگر هنوز این قابلیت در برنامه نیست، می‌تواند ارزان‌ترین نقطه تمایز شما باشد — چرا که همه ابزارهای دیگر دارند همان داده‌های سرچ کنسول را می‌خوانند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی پیش می‌رید! برای امتحان کردن MCP بسیار هیجان‌زده‌ام. همین الان متصلش می‌کنم!"
+        }
+      ],
+      "aiReview": "### تحلیل جامع محصول CrawlRaven MCP\n\n#### ۱. مسئله و راه‌حل\nمتخصصان سئو همواره با چالش پراکندگی داده‌ها روبرو هستند؛ داده‌های ترافیک در Google Search Console، داده‌های تبدیل در GA۴، لیست کلمات کلیدی در اکسل و خطاهای فنی در ابزارهای خزش. ترکیب دستی این داده‌ها زمان‌بر است. **CrawlRaven** با یکپارچه‌سازی تمام این منابع و اولویت‌بندی وظایف بر اساس «تأثیر بر ترافیک و تبدیل»، مسئله را حل کرده است. افزودن **پروتکل MCP** به کاربران اجازه می‌دهد مستقیم در محیط دستیارهای هوش مصنوعی (مانند Claude و ChatGPT) با داده‌های خود گفتگو کنند.\n\n#### ۲. معماری و تکنولوژی\nبهره‌گیری از **Model Context Protocol (MCP)** نقطه عطف معماری این محصول است. این ابزار بدون نیاز به دریافت کلیدهای پیچیده API از کاربر، از طریق OAuth مرورگر احراز هوست شده و داده‌های تحلیلی را به عنوان Context به مدل‌های زبانی متصل می‌کند. سیستم خزش اختصاصی و موتور وزن‌دهی به داده‌ها (ترکیب GA۴ Key Events با فنی سئو) زیرساخت اصلی آن را تشکیل می‌دهد.\n\n#### ۳. مدل درآمدی\nمدل درآمدی متداول SaaS (اشتراکی) بر پایه Freemium است. پلن رایگان برای تست اولیه و پیدا کردن خطاهای اصلی سایت، و پلن‌های پولی بر اساس حجم خزش، تعداد پروژه‌ها، دسترسی‌های آژانسی (Privacy Mode) و قابلیت‌های پیشرفته تحلیل ارائه می‌شود.\n\n#### ۴. نقاط قوت\n- **اولویت‌بندی بر اساس درآمد:** بها دادن به صفحاتی که واقعاً تبدیل (Conversion) ایجاد می‌کنند نه فقط ترافیک خام.\n- **یکپارچگی با MCP:** عدم نیاز به سوئیچ بین تب‌های مختلف و امکان گرفتن گزارش مستقیماً در محیط چت.\n- **حالت حریم خصوصی (Privacy Mode):** ابزاری بسیار کاربردی برای آژانس‌ها هنگام پرزنتیشن و اسکرین‌شر با مشتریان.\n\n#### ۵. نقاط ضعف\n- **عدم پشتیبانی از Server Logs:** طبق اشاره کاربران، ابزار سیگنال‌های واقعی GEO (جستجوی هوش مصنوعی در لحظه) را از لاگ سرور نمی‌خواند و صرفاً متکی به داده‌های گوگل است.\n- **محدودیت ثبت‌نام:** الزام به استفاده از حساب گوگل و عدم پشتیبانی از ثبت‌نام با ایمیل معمولی.\n\n#### ۶. نکته طلایی برای بازار ایران\nدر بازار ایران، اضافه کردن امکان **تحلیل لاگ‌های سرور (Server Logs)** برای شناسایی رفتار ربات‌های هوش مصنوعی و همچنین **یکپارچه‌سازی با مدل‌های بومی یا پیام‌رسان‌ها (مانند بله/ایتا برای ارسال آلارم‌های افت ترافیک)** می‌تواند این ابزار را به یک محصول کاملاً متمایز و پرفروش برای آژانس‌های دیجیتال مارکتینگ ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "سئوگرام MCP (SeoGram)",
+        "description": "سئوگرام یک دستیار هوشمند و یکپارچه سئو برای متخصصان و آژانس‌های ایرانی است که داده‌های سرچ کنسول و گوگل آنالیتیکس را با خزش فنی سایت ترکیب می‌کند. این ابزار لیست اقدامات اولویت‌بندی‌شده‌ای بر اساس میزان فروش و ترافیک موثر ارائه می‌دهد تا کارشناسان از درگیری با فایل‌های پراکنده اکسل رها شوند. همچنین از طریق پروتکل MCP، امکان تحلیل مستقیم داده‌های سئو درون محیط‌های هوش مصنوعی را فراهم می‌سازد.",
+        "marketOpportunity": "هزاران آژانس دیجیتال مارکتینگ و فروشگاه اینترنتی در ایران روزانه زمان زیادی را صرف تحلیل دستی داده‌های سرچ کنسول و تهیه گزارش برای کارفرمایان می‌کنند. ارائه ابزاری که این فرایند را خودکار کرده و اولویت‌های کاری را بر اساس تبدیل و فروش مشخص کند، بازار بسیار جذابی در میان کسب‌وکارهای آنلاین ایرانی دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "متخصصان و مشاوران سئو، آژانس‌های دیجیتال مارکتینگ، مدیران محتوا و صاحبان فروشگاه‌های اینترنتی.",
+        "challenges": [
+          "محدودیت‌ها و تحریم‌های احتمالی در دسترسی به APIهای گوگل (GSC و GA۴)",
+          "نوسانات دسترسی به مدل‌های هوش مصنوعی بین‌المللی و نیاز به زیرساخت واسط پایدار"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه بر اساس تعداد دامنه‌های متصل و تعداد صفحات خزش‌شده",
+          "ارائه پلن‌های ویژه آژانسی با قابلیت مدیریت چند مشتری و گزارش‌دهی سفید (White-label)"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "PostgreSQL",
+          "Redis",
+          "MCP Protocol"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -29309,6 +29606,71 @@
         ],
         "confidence": 70
       }
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-10-02",
+      "rank": 4,
+      "name": "Famulor",
+      "slug": "famulor-6",
+      "tagline": "Your agent to answer calls and follow ups on WhatsApp",
+      "description": "Famulor answers calls, runs campaigns and follows up on WhatsApp. GDPR-ready, EU hosting. Try it free.",
+      "category": "Android • Email • Messaging",
+      "categoryFa": "اندروید • ایمیل • پیام‌رسان",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/544c90f5-eeeb-4be7-b917-035bd16bcb1a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/24b9cf66-96a2-485c-b84b-aa186a7e6466.jpeg?auto=format",
+        "https://ph-files.imgix.net/3528fa26-5401-418c-be3e-c6c94c52a04a.png?auto=format",
+        "https://ph-files.imgix.net/b41ab4ff-6811-4d14-a46e-ae68eb72be20.jpeg?auto=format",
+        "https://ph-files.imgix.net/f0c77ca4-6e0b-4050-bcfe-14afcc447691.png?auto=format",
+        "https://ph-files.imgix.net/3533f6ab-a27c-4247-974a-6a1acb80ab51.jpeg?auto=format",
+        "https://ph-files.imgix.net/7557bb5d-fc7a-48ac-a9d8-c06ff881b05b.png?auto=format",
+        "https://ph-files.imgix.net/186f737b-96f1-4d3e-aaa9-90153b54c251.jpeg?auto=format",
+        "https://ph-files.imgix.net/9052bcfa-11f8-4bf1-9d94-43a46bba3703.png?auto=format",
+        "https://ph-files.imgix.net/60eb7f4a-49e6-47b4-b7b9-27854739e01c.png?auto=format",
+        "https://ph-files.imgix.net/71ff4637-7bfa-4446-8082-3650f46df7c3.png?auto=format",
+        "https://ph-files.imgix.net/5c8a5779-17b4-4a71-bec8-b82844640f72.jpeg?auto=format"
+      ],
+      "maker": "Iman Koma",
+      "makerTitle": "Founder of BEK & Talentivo",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 197,
+      "websiteUrl": "https://www.producthunt.com/r/QBHP7XRZGWA2R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Makers & Hunters! 🚀Every business we talked to had the same problem: calls go unanswered, leads go cold overnight, and every channel lives in a different tool.So we built Famulor, the AI-native business phone platform. One agent. Everywhere.One AI agent answers your calls, runs outbound campaigns and keeps the same conversation going on WhatsApp, email and your website. Same script, same knowledge base, one contact record.What's inside:- Inbound and outbound calls that sound human, in 120 languages- 21 channels: phone, WhatsApp, email, web widget, Slack, Teams, Telegram and more- Loop: a full business phone system (extensions, queues, ring groups) with the agent built in- Milian, our AI copilot: it builds, connects and tests your automations for you- Voice simulations: test your agent with a real call before it goes live- Made in Germany, GDPR-ready, no code, from $0.05/minWhy \"AI-native\"? We didn't bolt AI onto a phone system. The agent is the core, and the phone system, inbox and automations are built around it.We also integrated @Jev to help our agents make decisions during calls. And we ship every day: https://docs.famulor.io/changelog🎁 For the Product Hunt community: 30 free calling minutes. Build your AI agent for free and test it on a real call.One question for you: which channel do your customers actually reply on, and which one does your team never get to?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks great! All the best!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "we're building in this space too (phone number for AI agents) so this is close to home. the part I'm always most curious about with \"same conversation, same script across channels\" is what happens when a call and a WhatsApp follow-up from the same lead overlap in real time - does the agent lock state per contact so it doesn't say something on WhatsApp that contradicts what it just told them on the call, or is there a real chance of a timing collision there?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I see you build an automation build in???"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can the voice agent hand a call over to a human when needed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that it can handle calls and WhatsApp follow-ups in the same workflow. That could save a lot of witching between tools."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The visual flow editor looks really useful. It makes setting up call handling feel much easier."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Answering calls and then following up on WhatsApp in one flow covers the gap where most small businesses actually lose leads, so this is well aimed. EU hosting and GDPR readiness are a sensible touch for anyone handling customer calls. Nice to see it start free."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -29550,71 +29912,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-02",
-      "rank": 4,
-      "name": "Famulor",
-      "slug": "famulor-6",
-      "tagline": "Your agent to answer calls and follow ups on WhatsApp",
-      "description": "Famulor answers calls, runs campaigns and follows up on WhatsApp. GDPR-ready, EU hosting. Try it free.",
-      "category": "Android • Email • Messaging",
-      "categoryFa": "اندروید • ایمیل • پیام‌رسان",
-      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/544c90f5-eeeb-4be7-b917-035bd16bcb1a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/24b9cf66-96a2-485c-b84b-aa186a7e6466.jpeg?auto=format",
-        "https://ph-files.imgix.net/3528fa26-5401-418c-be3e-c6c94c52a04a.png?auto=format",
-        "https://ph-files.imgix.net/b41ab4ff-6811-4d14-a46e-ae68eb72be20.jpeg?auto=format",
-        "https://ph-files.imgix.net/f0c77ca4-6e0b-4050-bcfe-14afcc447691.png?auto=format",
-        "https://ph-files.imgix.net/3533f6ab-a27c-4247-974a-6a1acb80ab51.jpeg?auto=format",
-        "https://ph-files.imgix.net/7557bb5d-fc7a-48ac-a9d8-c06ff881b05b.png?auto=format",
-        "https://ph-files.imgix.net/186f737b-96f1-4d3e-aaa9-90153b54c251.jpeg?auto=format",
-        "https://ph-files.imgix.net/9052bcfa-11f8-4bf1-9d94-43a46bba3703.png?auto=format",
-        "https://ph-files.imgix.net/60eb7f4a-49e6-47b4-b7b9-27854739e01c.png?auto=format",
-        "https://ph-files.imgix.net/71ff4637-7bfa-4446-8082-3650f46df7c3.png?auto=format",
-        "https://ph-files.imgix.net/5c8a5779-17b4-4a71-bec8-b82844640f72.jpeg?auto=format"
-      ],
-      "maker": "Iman Koma",
-      "makerTitle": "Founder of BEK & Talentivo",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 195,
-      "websiteUrl": "https://www.producthunt.com/r/QBHP7XRZGWA2R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Makers & Hunters! 🚀Every business we talked to had the same problem: calls go unanswered, leads go cold overnight, and every channel lives in a different tool.So we built Famulor, the AI-native business phone platform. One agent. Everywhere.One AI agent answers your calls, runs outbound campaigns and keeps the same conversation going on WhatsApp, email and your website. Same script, same knowledge base, one contact record.What's inside:- Inbound and outbound calls that sound human, in 120 languages- 21 channels: phone, WhatsApp, email, web widget, Slack, Teams, Telegram and more- Loop: a full business phone system (extensions, queues, ring groups) with the agent built in- Milian, our AI copilot: it builds, connects and tests your automations for you- Voice simulations: test your agent with a real call before it goes live- Made in Germany, GDPR-ready, no code, from $0.05/minWhy \"AI-native\"? We didn't bolt AI onto a phone system. The agent is the core, and the phone system, inbox and automations are built around it.We also integrated @Jev to help our agents make decisions during calls. And we ship every day: https://docs.famulor.io/changelog🎁 For the Product Hunt community: 30 free calling minutes. Build your AI agent for free and test it on a real call.One question for you: which channel do your customers actually reply on, and which one does your team never get to?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks great! All the best!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "we're building in this space too (phone number for AI agents) so this is close to home. the part I'm always most curious about with \"same conversation, same script across channels\" is what happens when a call and a WhatsApp follow-up from the same lead overlap in real time - does the agent lock state per contact so it doesn't say something on WhatsApp that contradicts what it just told them on the call, or is there a real chance of a timing collision there?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I see you build an automation build in???"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can the voice agent hand a call over to a human when needed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that it can handle calls and WhatsApp follow-ups in the same workflow. That could save a lot of witching between tools."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The visual flow editor looks really useful. It makes setting up call handling feel much easier."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Answering calls and then following up on WhatsApp in one flow covers the gap where most small businesses actually lose leads, so this is well aimed. EU hosting and GDPR readiness are a sensible touch for anyone handling customer calls. Nice to see it start free."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -30376,7 +30673,57 @@
           "user": "[REDACTED]",
           "text": "Can each bot remember decisions from previous runs or does every execution start fresh?"
         }
-      ]
+      ],
+      "faDescription": "جیت‌بات (GitBot) وظایف تکراری که مدام به هوش مصنوعی‌های کدنویسی مانند Claude Code، Codex یا OpenCode می‌دهید را به ربات‌های خودکار تبدیل می‌کند. شما فقط یک بار دستورالعمل‌ها را می‌نویسید، محدوده دسترسی ربات را تعیین می‌کنید و آن را در هر مخزن کدی اجرا می‌کنید. هر اجرا به صورت یک رشته گفتگو (Thread) ذخیره می‌شود تا بتوانید بعداً به آن برگردید و نتیجه را بررسی کنید. می‌توانید ربات‌های دیگران را از کتابخانه نصب کنید یا ربات خود را با یک کد ساده با همکارانتان به اشتراک بگذارید؛ برای مثال ربات ShipGuard شاخه‌های کد را بررسی کرده و با ارائه شواهد فایل و خط، تصمیم به ادغام یا بلوک‌زنی می‌گیرد. این ابزار به صورت متن‌باز روی سیستم شما اجرا می‌شود، از لاگین‌های موجود شما استفاده می‌کند و هیچ حساب کاربری یا تله‌متری ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به محصول هانت، بیشتر ما هر هفته همان چند کار تکراری را به هوش مصنوعی کدنویسی می‌سپاریم: بررسی این شاخه، نوشتن یادداشت‌های ریلیز و پیدا کردن تست‌های جاافتاده. هر بار دستورالعمل‌های یکسان را کپی می‌کنیم و دوباره مجوزها را انتخاب می‌کنیم. جیت‌بات آن کار را به عنوان یک ربات ذخیره می‌کند. شما دستورالعمل‌ها را می‌نویسید، Claude Code، Codex یا OpenCode را انتخاب می‌کنید و تعیین می‌کنید چه چیزی را مجاز به لمس کردن است. سپس آن را در هر مخزنی اجرا می‌کنید. هر اجرا رشته گفتگوی اختصاصی خود را دارد، بنابراین می‌توانید تب را ببندید و بعداً برگردید. اشتراک‌گذاری ربات‌ها آسان است. هفته گذشته یک شب ساخت آنلاین ۹۰ دقیقه‌ای داشتیم. دو توسعه‌دهنده که هرگز از جیت‌بات استفاده نکرده بودند، ربات‌هایی ساختند و قبل از پایان به کتابخانه اضافه کردند: ShipGuard (ساخته Somesh) شاخه شما را بررسی می‌کند و با نتیجه ادغام یا بلوک‌زنی تمام می‌شود. آن فایل و خط را استناد می‌کند و هیچ ویرایشی انجام نمی‌دهد. Sheet Consolidator (ساخته Guru) تب‌های جدول محاسباتی را در یک جدول ادغام می‌کند. هیچ ارتباطی با کد ندارد، که ما عاشقش شدیم. امتحان کنید: npm install -g @gitbot-hq/gitbotgitbot start روی سیستم شما با لاگین‌های هوش مصنوعی که از قبل دارید اجرا می‌شود. حساب جیت‌بات، پایگاه داده میزبانی‌شده یا تله‌متری وجود ندارد. متن‌باز است. در دسترس بعدی: زمان‌بندی‌ها و تریگرها، بنابراین ربات می‌تواند بدون اینکه شما آن را شروع کنید اجرا شود. یک نکته صادقانه: جیت‌بات هنوز ورودی شبکه ندارد. آن را روی یک شبکه قابل اعتماد نگه دارید و پورت آن را به اینترنت باز نکنید. چه کاری را مدام به هوش مصنوعی خود می‌دهید که باید یک ربات باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "اولین چیزی که من ذخیره می‌کنم، نوشتن ورودی‌های چنج‌لاگ (changelog) از دیف (diff) یک PR ادغام‌شده است. من هر ریلیز این کار را انجام می‌دهم، همیشه شکل یکسانی دارد (چه چیزی تغییر کرد، چرا، مراحل مهاجرت) و همیشه آن را نیمه‌کاره انجام می‌دهم چون آخرین مرحله قبل از انتشار است و فقط می‌خواهم تمام شود. رباتی که از قبل فرمت چنج‌لاگ ما را می‌داند و فقط به دیف نیاز دارد، واقعاً استفاده می‌شود، برخلاف نیمی از ایده‌های اتوماسیونی که من دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به خاطر راه‌اندازی جیت‌بات! ساختن روی هوش مصنوعی کدنویسی که از قبل استفاده می‌کنید، زاویه هوشمندانه‌ای است — هیچ جریان کاری جدیدی برای یادگیری وجود ندارد و ربات‌ها دقیقاً جایی زندگی می‌کنند که کار انجام می‌شود. اجرای خوبی بود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "یک پینگ در اسلک (Slack) وقتی اجرای ربات شکست بخورد، از من نجات می‌دهد تا دستی چک نکنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ممنون که GITB-۰۰۲ را سریع راه‌اندازی کردید! از طریق شاخه localhost-default خواندم: پیش‌فرض ۱۲۷.۰.۰.۱، انتخاب صریح --host ۰.۰.۰.۰ و تستی که بررسی می‌کند LAN رد می‌شود. جایزه خوبی هم حذف جستجوی IP عمومی بود. منتظر رسیدن آن به ریلیز npm هستم. یک توکن روی URL/QR در LAN میوه روی کیک خواهد بود 🍒"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "آیا هر ربات می‌تواند تصمیمات از اجراهای قبلی را به خاطر بسپارد یا هر اجرا از صفر شروع می‌شود؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، تکراری بودن فرآیندهای توسعه نرم‌افزار و اتلاف وقت توسعه‌دهندگان در کپی‌پیست کردن دستورالعمل‌ها به هوش مصنوعی است. راه‌حل ارائه‌شده، تبدیل این دستورالعمل‌ها به ربات‌های خودکار و قابل اشتراک‌گذاری است که مستقیماً روی سیستم کاربر اجرا می‌شوند. از نظر معماری، این محصول رویکرد Local-first را اتخاذ کرده و با استفاده از لاگین‌های موجود کاربر برای هوش مصنوعی‌های کدنویسی، نیاز به ثبت‌نام مجدد یا ارسال داده‌ها به سرورهای خارجی را حذف می‌کند. این رویکرد برای بازار ایران که با محدودیت‌های اینترنت و نگرانی‌های امنیتی سرویس‌های ابری دست‌وپنجه نرم می‌کند، بسیار جذاب است. مدل درآمدی احتمالی شامل نسخه رایگان متن‌باز برای افراد و نسخه پولی سازمانی با امکانات مدیریت و پشتیبانی است. نقاط قوت اصلی شامل حریم خصوصی بالا، عدم نیاز به زیرساخت ابری و قابلیت اشتراک‌گذاری آسان ربات‌هاست. نقاط ضعف عبارتند از وابستگی به کیفیت خروجی هوش مصنوعی‌های پایه و نبود قابلیت زمان‌بندی خودکار در نسخه اولیه. نکته طلایی برای ایران: تمرکز بر یکپارچه‌سازی با مدل‌های هوش مصنوعی داخلی یا محلی (مانند مدل‌های فارسی‌زبان یا مدل‌های اجراشده روی GPU داخلی شرکت‌ها) می‌تواند مزیت رقابتی بزرگی ایجاد کند و مشکل دسترسی به APIهای خارجی را حل نماید.",
+      "iranEquivalent": {
+        "productName": "ربات‌کد (RobatCode)",
+        "description": "ربات‌کد یک پلتفرم متن‌باز است که وظایف تکراری توسعه‌دهندگان را با استفاده از هوش مصنوعی‌های کدنویسی موجود خودکار می‌کند. کاربران می‌توانند دستورالعمل‌های ثابت خود را به ربات‌های قابل اشتراک‌گذاری تبدیل کرده و آن‌ها را در مخازن گیت‌هاب یا گیت‌لاب داخلی اجرا کنند. این ابزار بدون نیاز به سرور ابری و با حفظ حریم خصوصی کد، مستقیماً روی سیستم توسعه‌دهنده کار می‌کند.",
+        "marketOpportunity": "بازار ایران با وجود محدودیت‌های دسترسی به سرویس‌های ابری خارجی، تشنه‌ی ابزارهای محلی (Local-first) و متن‌باز است که هزینه‌های اشتراک را حذف کنند. تیم‌های نرم‌افزاری ایرانی برای افزایش سرعت توسعه و کاهش خطاهای انسانی در فرآیندهای CI/CD به شدت به این نوع اتوماسیون‌های هوشمند نیاز دارند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه‌دهنده نرم‌افزار، استارتاپ‌های فناوری و فریلنسرهایی که با پروژه‌های گیت‌بیسد کار می‌کنند و به دنبال افزایش بهره‌وری هستند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به مدل‌های هوش مصنوعی خارجی و نیاز به یکپارچه‌سازی با مدل‌های داخلی یا محلی",
+          "مقاومت فرهنگی در برابر تغییر فرآیندهای توسعه و نیاز به آموزش گسترده برای اعتمادسازی"
+        ],
+        "monetization": [
+          "مدل متن‌باز با نسخه سازمانی (Enterprise) شامل پشتیبانی، مدیریت دسترسی‌ها و گزارش‌دهی پیشرفته",
+          "فروش لایسنس برای شرکت‌هایی که نیاز به استقرار داخلی (On-premise) و امنیت بالا دارند"
+        ],
+        "techStack": [
+          "Node.js",
+          "React",
+          "SQLite",
+          "Docker"
+        ],
+        "confidence": 82
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -36129,7 +36476,54 @@
           "user": "[REDACTED]",
           "text": "Hey Product Hunt 👋We built OpenShip because deploying still feels like a stack of tools: a PaaS for git deploys, a panel for servers, scripts for rollbacks, and a lock-in problem if you ever want to move.OpenShip is an open source platform for deploying apps on infrastructure you own or on OpenShip Cloud if you don’t want to run servers.Push from Git, the CLI, the desktop app, or an AI agent over MCP. It detects the stack, builds an immutable version on your machine, ships it over SSH, and brings the new version live with zero downtime. No agent installed on the server. One click rolls back to any previous version.Same workflow everywhere:•⁠ ⁠OpenShip Cloud when you want managed deploys•⁠ ⁠Your own VPS, bare metal, or homelab when you want ownership•⁠ ⁠Hybrid when you want both•⁠ ⁠Move either direction later without rebuildingAlso included: preview URLs for PRs, custom domains + auto SSL, scaling across servers, live logs, and a topology view of what’s actually running.Self host is free and Apache-2.0. Cloud starts at $5/mo.If you’ve been stuck between “easy but locked in” and “owned but painful,” this is the version we wanted.Try today: www.openship.io"
         }
-      ]
+      ],
+      "faDescription": "OpenShip یک پلتفرم متن باز PaaS است که می‌توانید آن را روی سرورهای خود یا در ابر اجرا کنید. با ارسال کد به مخزن گیت، OpenShip فرآیند ساخت، استقرار، مدیریت دامنه، SSL، مانیتورینگ، بکاپ، رازها و سرویس‌های مورد نیاز برنامه را به‌صورت خودکار انجام می‌دهد. می‌توانید به‌صورت کاملاً مدیریت‌شده در OpenShip Cloud استفاده کنید یا آن را به‌صورت خود میزبانی روی زیرساخت خود یا در محل نصب کنید. بدون قفل‌گذاری فروشنده، می‌توانید بین ابر و خود میزبانی جابه‌جا شوید و برنامه‌ها بدون تغییر در روش استقرار ادامه کار می‌دهند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "خوشحالم که این محصول را دیدم. تفاوت آن با Dokploy و سایر سرویس‌ها چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "او اس اس !!! بله و من خیلی از صندوق پست پیش‌فرض خوشم می‌آید. کار عالی!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "پس از مهاجرت به OpenShip، اشتراک‌های supabase+vercel+modal خود را لغو کردم؛ حالا نگهداری بسیار آسان‌تر و ارزان‌تر است!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "منتظر افزونه‌ها و تم‌های جامعه برای استفاده هستم اما همیشه از این پروژه حمایت خواهم کرد!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من OpenShip را دوست دارم! از آن برای تمام سرویس SaaS خود میزبانی می‌کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "سلام Product Hunt 👋 ما OpenShip را ساختیم چون استقرار هنوز حس مجموعه‌ای از ابزارها دارد: یک PaaS برای استقرار از گیت، یک پنل برای سرورها، اسکریپت‌های بازگشت، و مشکل قفل‌گذاری اگر بخواهید جابه‌جا شوید. OpenShip یک پلتفرم متن باز برای استقرار برنامه‌ها روی زیرساخت خود یا OpenShip Cloud است. می‌توانید از گیت، CLI، برنامه دسکتاپ یا یک عامل هوش مصنوعی از طریق MCP استفاده کنید. این سرویس استک را تشخیص می‌دهد، نسخه‌ای غیرقابل تغییر روی ماشین شما می‌سازد، از طریق SSH می‌فرستد و بدون زمان توقف نسخه جدید را فعال می‌کند. هیچ عاملی روی سرور نصب نمی‌شود. یک کلیک برای بازگشت به هر نسخه قبلی. همان جریان کار در همه جا: • OpenShip Cloud برای استقرار مدیریت‌شده • سرورهای VPS، bare‑metal یا homelab برای مالکیت کامل • ترکیبی برای هر دو • امکان جابه‌جایی بعدی بدون بازسازی. همچنین URL پیش‌نمایش برای PRها، دامنه‌های سفارشی با SSL خودکار، مقیاس‌پذیری بین سرورها، لاگ‌های زنده و نمای توپولوژی ارائه می‌شود. خود میزبانی رایگان و تحت Apache‑۲.۰ است. ابر از ۵ دلار در ماه شروع می‌شود. اگر بین «آسان اما قفل‌دار» و «مالکیت اما دردسرآفرین» گیر کرده‌اید، این همان نسخه‌ای است که می‌خواستید. امروز امتحان کنید: www.openship.io"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "OpenShip",
+        "description": "OpenShip یک پلتفرم متن باز برای ارائه سرویس‌های PaaS است که می‌تواند بر روی سرورهای داخلی یا ابر عمومی اجرا شود. این سرویس تمام مراحل استقرار از ساخت تا مانیتورینگ، SSL و بکاپ را به‌صورت خودکار مدیریت می‌کند. کاربران می‌توانند بین استفاده از سرویس ابری مدیریت‌شده یا میزبانی خود انتخاب کنند و بدون قفل‌گذاری به‌راحتی جابه‌جا شوند.",
+        "marketOpportunity": "در ایران تقاضا برای راه‌حل‌های استقرار خودمیزبانی با هزینه پایین و بدون وابستگی به فروشنده‌ها در حال رشد است. OpenShip می‌تواند با ارائه یک پلتفرم یکپارچه، نیاز شرکت‌های نوپا و استارتاپ‌ها به زیرساخت‌های انعطاف‌پذیر را برآورده کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌ها، شرکت‌های فناوری متوسط و تیم‌های توسعه که به دنبال کنترل کامل زیرساخت و هزینه‌های پیش‌بینی‌پذیر هستند.",
+        "challenges": [
+          "پذیرش فناوری متن باز در میان شرکت‌های بزرگ",
+          "پشتیبانی و مستندسازی برای کاربران ایرانی"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای سرویس ابری با پلن‌های مختلف",
+          "فروش خدمات پشتیبانی و مشاوره برای استقرار خودمیزبانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -37776,6 +38170,59 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-02",
+      "rank": 5,
+      "name": "ShipHQ",
+      "slug": "shiphq",
+      "tagline": "Build your own app studio, powered by your real apps",
+      "description": "ShipHQ turns your app's real numbers into a living isometric startup office. Connect RevenueCat and every paying subscriber becomes a person at your desks. Each morning the Daily Brief replays last night: new subscribers walk in to applause, trials arrive in caps, churn gets a send-off. Milestones land as trophies on your wall — earned, never bought, never retroactive. AI managers bring a 09:00 standup on growth, reviews and competitors. Free on iPhone.",
+      "category": "Productivity • Analytics • Games",
+      "categoryFa": "بهره‌وری • تحلیل داده • بازی",
+      "url": "https://www.producthunt.com/products/shiphq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b475da35-086e-4738-b000-65752f1ca40c.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/db7c100f-4492-49ca-8ebd-bca5af622d48.jpeg?auto=format",
+        "https://ph-files.imgix.net/13573d5b-1670-4a6c-99f2-4fc5de572658.png?auto=format",
+        "https://ph-files.imgix.net/e57b2286-daae-4d7e-bce5-661d3908baf1.gif?auto=format",
+        "https://ph-files.imgix.net/97195510-dac7-4c17-aa8f-6d159f73ff81.png?auto=format",
+        "https://ph-files.imgix.net/74c0c9fb-b7f9-4f9b-a90d-7a061997c1ef.png?auto=format",
+        "https://ph-files.imgix.net/be2ed5f1-ffee-41b2-870d-f7c7ec8c7c8b.png?auto=format",
+        "https://ph-files.imgix.net/c73f1144-ff76-44ff-af3d-9a1b91aa16fa.png?auto=format",
+        "https://ph-files.imgix.net/6b85f847-ec75-4d84-8bb2-5a63c7c5964a.png?auto=format",
+        "https://ph-files.imgix.net/27b47e8a-be88-41ed-8df3-1654c6a2caab.png?auto=format",
+        "https://ph-files.imgix.net/f95a5fb3-8541-4e4f-b295-1a7cc9a3441e.png?auto=format",
+        "https://ph-files.imgix.net/07bcf987-9f7e-4765-a13e-26f0b795d92e.png?auto=format"
+      ],
+      "maker": "Rıdvan Uyan",
+      "makerTitle": "Build Mobile apps and Ship",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 145,
+      "websiteUrl": "https://www.producthunt.com/r/OTJP662DLDAQ2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! I'm Rıdvan, an indie developer with a handful of apps on the App Store. My morning routine used to be: open RevenueCat, see MRR move by $12, close the tab, feel nothing. Those were real wins — strangers paid for something I built — but a chart made them invisible. I think that's how a lot of us burn out: not from failing, but from never noticing we're making progress. So I built ShipHQ: your own app studio, built from your real apps. A living startup office where your actual numbers move in. How it works • Connect RevenueCat with one sign-in (no API keys). Each app gets a desk, and paying subscribers become the people in your office. Add GA4 and your traffic becomes the street outside. • Every morning the Daily Brief replays last night. New subscribers wait at the door, it opens, confetti, your team claps. Trials wander in wearing a cap and take it off when they convert. • Churn walks out too, and someone pours a cup of water after them. In Turkey we do that when someone leaves, so they come back. • Milestones become trophies on your wall: first $100, first 100 paying customers, a 30-day streak — 40+ of them. • Desks earn Company Cash from your real MRR. Spend it on furniture, rooms and coffee. Desk levels (Pro Desk at $100 MRR, Product Pod at $1K, Prestige at $10K) can't be bought, only earned. • On Growth and HQ, a small AI team holds a 09:00 standup: Leo (growth), Ada (market and competitors), Noah (App Store reviews, with a reply draft), Emre (Reddit mentions) and Zoe (news). Every note links to its source. Two rules I refused to break 1. No invented numbers. A metric without a connected source shows a dash, never an estimate. 2. No retroactive trophies. The day you connect is your baseline, and only progress from there is celebrated. A trophy for something nobody watched happen means nothing — which also means every milestone you cross before you install is gone from your wall for good. Pricing: free for up to 2 apps. Memberships (Mini, Growth, HQ — from $4.99/month) add desks, rooms, AI reports and managers. Launch offer, until Oct 15: every annual plan starts with 1 month free. Product Hunt code PRODUCTHUNT adds one more month on HQ Annual (2 months free), for the first 100 redemptions: https://apps.apple.com/redeem?ct... No revenue yet? Explore a sample office as a guest first. I'd love your honest feedback, especially this: which milestone would you want on your wall that isn't there yet?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"earned, never bought, never retroactive\" is a good rule to hold yourself to, stops it turning into a vanity dashboard. the part I'm curious about is the bad months though - if churn is getting someone a \"send-off\" and new subscribers get applause, what does a genuinely quiet week look like in the office? does it just sit still, or is there a version of this that risks making a slow month feel worse than the raw number already does, which would push founders toward avoiding the Daily Brief exactly when they need to see it most."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Such a fun idea. Love how it makes RC stats feel way more alive 😄 Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on your launch! When will it be available on android?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Turning real subscriber numbers into a little isometric office where new customers walk in each morning is a fun twist on analytics. The idea of your metrics having presence instead of sitting in a table is memorable. Churn getting a send-off made me laugh."
+        }
+      ]
+    },
+    {
       "id": "ph-today-3",
       "date": "2026-08-29",
       "rank": 3,
@@ -37871,51 +38318,44 @@
       }
     },
     {
-      "id": "ph-today-5",
+      "id": "ph-today-6",
       "date": "2026-10-02",
-      "rank": 5,
-      "name": "ShipHQ",
-      "slug": "shiphq",
-      "tagline": "Build your own app studio, powered by your real apps",
-      "description": "ShipHQ turns your app's real numbers into a living isometric startup office. Connect RevenueCat and every paying subscriber becomes a person at your desks. Each morning the Daily Brief replays last night: new subscribers walk in to applause, trials arrive in caps, churn gets a send-off. Milestones land as trophies on your wall — earned, never bought, never retroactive. AI managers bring a 09:00 standup on growth, reviews and competitors. Free on iPhone.",
-      "category": "Productivity • Analytics • Games",
-      "categoryFa": "بهره‌وری • تحلیل داده • بازی",
-      "url": "https://www.producthunt.com/products/shiphq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b475da35-086e-4738-b000-65752f1ca40c.png?auto=format",
+      "rank": 6,
+      "name": "Mintlify Desktop",
+      "slug": "mintlify-desktop",
+      "tagline": "An AI-native app for writing documentation and knowledge",
+      "description": "A dedicated home for all your documentation, from internal knowledge bases, runbooks and onboarding guides to public docs. Keep projects open side by side across organizations and pick up where you left off. An agent works alongside you on the page you’re editing, while local files let you write offline and sync when you reconnect. Tabs, split views, and persistent sessions help you move between projects without losing context.",
+      "category": "Writing • SaaS • Developer Tools",
+      "categoryFa": "نوشتن • نرم‌افزار ابری • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6ed41091-a85b-4b82-a952-683437519b85.png?auto=format",
       "screenshots": [
-        "https://ph-files.imgix.net/db7c100f-4492-49ca-8ebd-bca5af622d48.jpeg?auto=format",
-        "https://ph-files.imgix.net/13573d5b-1670-4a6c-99f2-4fc5de572658.png?auto=format",
-        "https://ph-files.imgix.net/e57b2286-daae-4d7e-bce5-661d3908baf1.gif?auto=format",
-        "https://ph-files.imgix.net/97195510-dac7-4c17-aa8f-6d159f73ff81.png?auto=format",
-        "https://ph-files.imgix.net/74c0c9fb-b7f9-4f9b-a90d-7a061997c1ef.png?auto=format",
-        "https://ph-files.imgix.net/be2ed5f1-ffee-41b2-870d-f7c7ec8c7c8b.png?auto=format",
-        "https://ph-files.imgix.net/c73f1144-ff76-44ff-af3d-9a1b91aa16fa.png?auto=format",
-        "https://ph-files.imgix.net/6b85f847-ec75-4d84-8bb2-5a63c7c5964a.png?auto=format",
-        "https://ph-files.imgix.net/27b47e8a-be88-41ed-8df3-1654c6a2caab.png?auto=format",
-        "https://ph-files.imgix.net/f95a5fb3-8541-4e4f-b295-1a7cc9a3441e.png?auto=format",
-        "https://ph-files.imgix.net/07bcf987-9f7e-4765-a13e-26f0b795d92e.png?auto=format"
+        "https://ph-files.imgix.net/1a567b74-ae30-407f-8e76-d83f86c74937.jpeg?auto=format",
+        "https://ph-files.imgix.net/b0db73f1-324c-4a7c-bffd-3df1e570273d.png?auto=format",
+        "https://ph-files.imgix.net/ea40d363-70e2-4e01-b46b-cf13c2bd1dab.png?auto=format",
+        "https://ph-files.imgix.net/150027ba-9d3a-40d5-a1df-e675e14c1c45.png?auto=format"
       ],
-      "maker": "Rıdvan Uyan",
-      "makerTitle": "Build Mobile apps and Ship",
+      "maker": "[REDACTED]",
+      "makerTitle": "",
       "featuredAt": "2026-10-02T07:01:00Z",
       "votes": 144,
-      "websiteUrl": "https://www.producthunt.com/r/OTJP662DLDAQ2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "websiteUrl": "https://www.producthunt.com/r/KXVFCRAGWYL3WT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
           "user": "[REDACTED]",
-          "text": "Hey Product Hunt! I'm Rıdvan, an indie developer with a handful of apps on the App Store. My morning routine used to be: open RevenueCat, see MRR move by $12, close the tab, feel nothing. Those were real wins — strangers paid for something I built — but a chart made them invisible. I think that's how a lot of us burn out: not from failing, but from never noticing we're making progress. So I built ShipHQ: your own app studio, built from your real apps. A living startup office where your actual numbers move in. How it works • Connect RevenueCat with one sign-in (no API keys). Each app gets a desk, and paying subscribers become the people in your office. Add GA4 and your traffic becomes the street outside. • Every morning the Daily Brief replays last night. New subscribers wait at the door, it opens, confetti, your team claps. Trials wander in wearing a cap and take it off when they convert. • Churn walks out too, and someone pours a cup of water after them. In Turkey we do that when someone leaves, so they come back. • Milestones become trophies on your wall: first $100, first 100 paying customers, a 30-day streak — 40+ of them. • Desks earn Company Cash from your real MRR. Spend it on furniture, rooms and coffee. Desk levels (Pro Desk at $100 MRR, Product Pod at $1K, Prestige at $10K) can't be bought, only earned. • On Growth and HQ, a small AI team holds a 09:00 standup: Leo (growth), Ada (market and competitors), Noah (App Store reviews, with a reply draft), Emre (Reddit mentions) and Zoe (news). Every note links to its source. Two rules I refused to break 1. No invented numbers. A metric without a connected source shows a dash, never an estimate. 2. No retroactive trophies. The day you connect is your baseline, and only progress from there is celebrated. A trophy for something nobody watched happen means nothing — which also means every milestone you cross before you install is gone from your wall for good. Pricing: free for up to 2 apps. Memberships (Mini, Growth, HQ — from $4.99/month) add desks, rooms, AI reports and managers. Launch offer, until Oct 15: every annual plan starts with 1 month free. Product Hunt code PRODUCTHUNT adds one more month on HQ Annual (2 months free), for the first 100 redemptions: https://apps.apple.com/redeem?ct... No revenue yet? Explore a sample office as a guest first. I'd love your honest feedback, especially this: which milestone would you want on your wall that isn't there yet?"
+          "text": "the \"write offline, sync when you reconnect\" plus \"agent works alongside you on the page\" combination is the part I'd want to pressure test. if I'm offline editing a page locally and the agent (or a teammate) also touched that same section before I reconnect, what happens on sync - do I get a merge view to resolve it, or is it last-write-wins and I just lose whichever version didn't make it? offline-first is great until two edits collide, and that's usually where these tools go quiet."
         },
         {
           "user": "[REDACTED]",
-          "text": "Such a fun idea. Love how it makes RC stats feel way more alive 😄 Congrats on the launch!"
+          "text": "Having the docs saved locally and being able to work offline is really useful. Especially when the internet decides to disappear"
         },
         {
           "user": "[REDACTED]",
-          "text": "congrats on your launch! When will it be available on android?"
+          "text": "Incredible!We can't live without Mintlify, and this is such a great addition to their product suite."
         },
         {
           "user": "[REDACTED]",
-          "text": "Turning real subscriber numbers into a little isometric office where new customers walk in each morning is a fun twist on analytics. The idea of your metrics having presence instead of sitting in a table is memorable. Churn getting a send-off made me laugh."
+          "text": "Hey Product Hunt, Justin here, Engineering Manager at Mintlify 👋We've spent the last few years making documentation easier to create, maintain, and collaborate on. One thing kept becoming obvious as we used Mintlify ourselves: docs had outgrown the browser tab.So we built Mintlify Desktop: an agent-native home for your docs and internal knowledge.What does \"agent-native\" mean here?Every page is structured Markdown in files you own. Agents can read, search, and update your knowledge as easily as your team can, and there's an agent built right into the app, working next to the page you have open. No copying context into another tool to get help.Why a desktop app?A normal day might involve updating an internal runbook, launching new customer-facing docs, drafting messaging on an upcoming launch, and a pull request changing something else entirely.In the browser, all of that info gets buried between Slack, Linear, Gmail, and fifteen other tabs (or more if it's my browser ). Mintlify Desktop gives all of your documentation a home of its own.What's different from the web editor?You can keep pages open in tabs, and run different projects or Mintlify organizations side by side.Close the app and everything is still there when you come back.Your files also live locally, so you can keep working offline and sync once you reconnect.Is this only for public docs?No. A lot of what teams write never ships publicly: runbooks, onboarding guides, internal processes, notes from the last incident. That knowledge usually ends up scattered across wikis and shared drives, where it's easy for it to go stale.Desktop puts internal knowledge and public docs in the same app, so the pages your team uses to do the work sit right next to the pages your customers read.Is collaboration different?No. Someone can be editing visually in Desktop while someone else works directly in Markdown or from the web.It's the same collaborative workflow, built for people who spend a lot of their day in docs.Why now?Docs are becoming core infrastructure for engineering, product, support, and agents. That's just as true for the internal knowledge your team relies on as it is for your public docs.The web editor made Mintlify accessible to everyone on a team. Desktop is for the people who live in it.We're launching in beta today on Mac, Windows, and Linux. It's still early, and we'd love to hear what you think about its performance, interface, sign-in, or what would make this useful for you.Read more about it on our blog: https://www.mintlify.com/blog/mintlify-desktop"
         }
       ]
     },
@@ -39024,44 +39464,6 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
-      "id": "ph-today-6",
-      "date": "2026-10-02",
-      "rank": 6,
-      "name": "Mintlify Desktop",
-      "slug": "mintlify-desktop",
-      "tagline": "An AI-native app for writing documentation and knowledge",
-      "description": "A dedicated home for all your documentation, from internal knowledge bases, runbooks and onboarding guides to public docs. Keep projects open side by side across organizations and pick up where you left off. An agent works alongside you on the page you’re editing, while local files let you write offline and sync when you reconnect. Tabs, split views, and persistent sessions help you move between projects without losing context.",
-      "category": "Writing • SaaS • Developer Tools",
-      "categoryFa": "نوشتن • نرم‌افزار ابری • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/6ed41091-a85b-4b82-a952-683437519b85.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/1a567b74-ae30-407f-8e76-d83f86c74937.jpeg?auto=format",
-        "https://ph-files.imgix.net/b0db73f1-324c-4a7c-bffd-3df1e570273d.png?auto=format",
-        "https://ph-files.imgix.net/ea40d363-70e2-4e01-b46b-cf13c2bd1dab.png?auto=format",
-        "https://ph-files.imgix.net/150027ba-9d3a-40d5-a1df-e675e14c1c45.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 137,
-      "websiteUrl": "https://www.producthunt.com/r/KXVFCRAGWYL3WT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Having the docs saved locally and being able to work offline is really useful. Especially when the internet decides to disappear"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Incredible!We can't live without Mintlify, and this is such a great addition to their product suite."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Justin here, Engineering Manager at Mintlify 👋We've spent the last few years making documentation easier to create, maintain, and collaborate on. One thing kept becoming obvious as we used Mintlify ourselves: docs had outgrown the browser tab.So we built Mintlify Desktop: an agent-native home for your docs and internal knowledge.What does \"agent-native\" mean here?Every page is structured Markdown in files you own. Agents can read, search, and update your knowledge as easily as your team can, and there's an agent built right into the app, working next to the page you have open. No copying context into another tool to get help.Why a desktop app?A normal day might involve updating an internal runbook, launching new customer-facing docs, drafting messaging on an upcoming launch, and a pull request changing something else entirely.In the browser, all of that info gets buried between Slack, Linear, Gmail, and fifteen other tabs (or more if it's my browser ). Mintlify Desktop gives all of your documentation a home of its own.What's different from the web editor?You can keep pages open in tabs, and run different projects or Mintlify organizations side by side.Close the app and everything is still there when you come back.Your files also live locally, so you can keep working offline and sync once you reconnect.Is this only for public docs?No. A lot of what teams write never ships publicly: runbooks, onboarding guides, internal processes, notes from the last incident. That knowledge usually ends up scattered across wikis and shared drives, where it's easy for it to go stale.Desktop puts internal knowledge and public docs in the same app, so the pages your team uses to do the work sit right next to the pages your customers read.Is collaboration different?No. Someone can be editing visually in Desktop while someone else works directly in Markdown or from the web.It's the same collaborative workflow, built for people who spend a lot of their day in docs.Why now?Docs are becoming core infrastructure for engineering, product, support, and agents. That's just as true for the internal knowledge your team relies on as it is for your public docs.The web editor made Mintlify accessible to everyone on a team. Desktop is for the people who live in it.We're launching in beta today on Mac, Windows, and Linux. It's still early, and we'd love to hear what you think about its performance, interface, sign-in, or what would make this useful for you.Read more about it on our blog: https://www.mintlify.com/blog/mintlify-desktop"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-7",
       "date": "2026-10-01",
       "rank": 7,
@@ -39089,10 +39491,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "Open Source + \"any terminal\" is the right scope for this. To answer Jack's question above: for me it'd be webhook/deploy status — I run a small SaaS where a Gumroad webhook issues license keys and sends email, and the one thing I actually want glanceable while I'm in the terminal is \"did the last webhook call succeed\" without tabbing to a dashboard. Piping a simple curl/jq check into the bar would cover that. Following to see what people end up building for it."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "Curious what you run in your bar day-to-day! Is it easy to pipe in custom stuff like Git branches, active K8s context, or CPU load?"
         },
         {
@@ -39114,6 +39512,10 @@
         {
           "user": "[REDACTED]",
           "text": "I’m wondering what people end up putting in the bar most often. There are a few things I’d want visible while working in a terminal."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I spend enough time in terminals that I can see myself finding this useful."
         }
       ]
     },
@@ -40404,6 +40806,48 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-02",
+      "rank": 7,
+      "name": "Eleven v4 and Eleven v4 Turbo",
+      "slug": "eleven-v4-and-eleven-v4-turbo",
+      "tagline": "Elevenlabs' fastest and most emotive voice models yet",
+      "description": "Meet Eleven v4 and Eleven v4 Turbo by ElevenLabs, their most expressive models yet, with Turbo built for real-time use. Available in apps, API, and agents.",
+      "category": "API • Artificial Intelligence • Audio",
+      "categoryFa": "API • هوش مصنوعی • صدا",
+      "url": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/8592dbad-4f55-4b04-979b-0e79877bbc61.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c09eec67-3992-47ab-9639-55b6727e6f58.webp?auto=format",
+        "https://ph-files.imgix.net/691f79c9-bf8b-4c55-9acf-63218db920d0.jpeg?auto=format",
+        "https://ph-files.imgix.net/981c0354-34f2-4c4d-8b75-e9b54852ae8a.png?auto=format",
+        "https://ph-files.imgix.net/f22d8b71-9d20-4e9d-b303-e9887408ca52.png?auto=format",
+        "https://ph-files.imgix.net/98ec9017-5d66-4ff7-bda9-34dab01bf4ed.png?auto=format",
+        "https://ph-files.imgix.net/0dc53224-8ba7-41e3-83d9-8e209d671478.png?auto=format",
+        "https://ph-files.imgix.net/b214c92d-1bc6-4815-a5aa-9cb5ae83acde.png?auto=format",
+        "https://ph-files.imgix.net/527ee778-bd2b-42f9-b67e-37d6564f221b.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 132,
+      "websiteUrl": "https://www.producthunt.com/r/6XZVTY74NPFNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Eleven v4 and Eleven v4 Turbo are ElevenLabs’ fastest and most emotive voice models yet.Built on an entirely new architecture, Eleven v4 interprets tone, pacing, emotion, character, and context to generate speech that feels performed. Eleven v4 Turbo brings the same research to low-latency use cases such as agents, generating speech with a median inference latency of ~100 ms.Voice cloning is more authentic and consistent. Instant Voice Clones capture voices with extraordinary fidelity from just 10 seconds of audio, and Professional Voice Clones offer our highest fidelity. For long-form creation, Eleven v4 preserves speaker identity reliably across infinite generations, perfect for long form narration, dialogue, and regenerated lines.Direct the performance with inline tags. Specify delivery, emotion, pacing, reactions, SFX, or style. Eleven v4 stages the scene and performs it with naturalness and precision.What's new:A completely new Text to Speech architecture built for expressive performanceEleven v4 Turbo for agents and anything live, at a 100ms median latencyInstant Voice Clones from 10 seconds of audio, Professional Voice Clones for highest fidelityImproved performance across 90+ languages, with new languages including Cantonese, Mongolian, and OdiaSpeaker identity preserved across long-form narration, dialogue, and regenerated linesMore natural multi-speaker dialoguePronunciation control with IPA supportInline tags for direct control over delivery, emotion, pacing, reactions, SFX, and styleAvailable now in ElevenCreative, ElevenAgents, and ElevenAPI.Try Eleven v4 → https://elevenlabs.io/v4P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "v4 with tags works really well ngl"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The ~100 ms median latency on Turbo is the number that matters for us. We build a voice companion that phones older adults every day, and for that audience the pause after they finish speaking is what breaks the feel of a conversation, since many speak slowly and with long gaps. Curious how v4 handles hesitations and trailing-off sentences when used in agents: do the inline tags let you slow pacing and soften delivery per turn, or is that inferred from context?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-09-30",
       "rank": 8,
@@ -40461,7 +40905,66 @@
           "user": "[REDACTED]",
           "text": "I like that you can use subscriptions you already have. One less monthly charge to think about."
         }
-      ]
+      ],
+      "faDescription": "با افزودن ماکالی کلاود (Macaly Cloud) به کلود (Claude) یا چت‌جی‌پیتی (ChatGPT)، می‌توانید وب‌سایت‌ها و اپلیکیشن‌های خود را مستقیماً از داخل محیط چت بسازید و منتشر کنید. این ابزار تمامی زیرساخت‌های لازم مانند پایگاه داده، هاستینگ، دامنه و بیش از ۷۰ مهارت کاربردی برنامه‌نویسی را فراهم می‌کند تا پروژه شما بلافاصله آنلاین شود. شما برای استفاده از این قابلیت‌ها نیازی به پرداخت هزینه اضافه ندارید و از همان اشتراک فعلی چت‌جی‌پیتی یا کلود خود استفاده می‌کنید. این سرویس همچنین با ابزارهایی مانند Claude Code، Codex و ربات Grok به خوبی یکپارچه می‌شود و فرایند راه‌اندازی برنامه را بسیار ساده‌تر می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام هانترها 👋 من پتر هستم، مدیرعامل و هم‌بنیان‌گذار ماکالی. طی چند ماه گذشته، بیشترین شکایت در حوزه کاری ما ربط چندانی به امکانات نداشت: مردم هزینه کلود یا چت‌جی‌پیتی را می‌پردازند، سپس به یک ابزار برنامه‌نویسی با هوش مصنوعی (vibe coding) حق اشتراک دوم به همراه اعتبار به ازای هر پیام می‌دهند. یک توئیت این موضوع را به بهترین شکل بیان کرد: «من نمی‌خواهم از ایجنت شما استفاده کنم؛ می‌خواهم ایجنت خودم از سرویس شما استفاده کند.» ماکالی کلاود پاسخ ماست. آن را به کلود یا چت‌جی‌پیتی (کلود کد، کدکس و ربات گرک هم کار می‌کنند) اضافه کنید و سایت یا برنامه‌ای را که می‌خواهید درست در همان چتی که استفاده می‌کنید توصیف کنید. ماکالی کلاود آنچه را که پروژه برای آنلاین شدن نیاز دارد فراهم می‌کند: پایگاه داده، هاستینگ و بیش از ۷۰ مهارت مانند سئو، پرداخت و تولید تصویر. این سرویس روی همان اشتراک کلود یا چت‌جی‌پیتی که از قبل دارید اجرا می‌شود، بنابراین به هیچ اعتبار هوش مصنوعی ماکالی نیاز ندارید. آن را تا ۱ اکتبر رایگان امتحان کنید. بی‌صبرانه منتظر شنیدن نظرات شما و دیدن آنچه با ماکالی کلاود می‌سازید هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "نام من یوست است. اکثر عمرم به روش‌های قدیمی (برنامه‌ها و وب‌سایت‌ها) توسعه انجام داده‌ام. در شش سال گذشته فقط از ابزارهای بدون کد (no-code) استفاده کرده‌ام و اخیراً ماکالی را پیدا کردم. از توانمندی این محیط در ساخت وب‌سایت‌ها و برنامه‌ها شگفت‌زده شده‌ام. در ابتدا کمی نگران قابلیت ویرایش کد بودم، اما راستش را بخواهید اصلاً به کد نگاه نکرده‌ام. شما فقط به ماکالی می‌گویید چه می‌خواهید، و بعد به آن می‌گویید چه چیزی اضافه کند، چه چیزی را تغییر دهد... و انجام می‌شود. من ماکالی را به کلود متصل کرده‌ام و سریع‌تر (و بهتر) از هر زمان دیگری در حال ساخت هستم. بنابراین بله، برای من ادامه استفاده از این ابزارها کاملاً منطقی و بدون تردید است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا ادغام‌های API در طرح Pro موجود است یا فقط ادغام‌های MCP ارائه می‌شوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت عرضه محصول! بسیار عالی است که می‌بینم روی تمام ابزارهای اصلی هوش مصنوعی کار می‌کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ابزار چگونه تصمیم می‌گیرد که کدام بخش‌ها باید خودکار شوند و کدام بخش‌ها در کنترل توسعه‌دهنده باقی بمانند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من برای هر MVP جدید مجبور بودم سی‌اس‌اس را به صورت دستی دستکاری کنم و ابزارهای تحلیل‌گر سوم‌شخص را تنظیم کنم؛ بنابراین داشتن سئو و ردیابی خودکار داخلی زمان بسیار زیادی در پیکربندی صرفه‌جویی می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بخشی که در مورد آن کنجکاو هستم این است که توسعه‌دهندگان پس از ایجاد نسخه اول، چقدر روی کد تولید شده کنترل دارند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "دوست دارم که می‌توانید از اشتراک‌هایی که از قبل دارید استفاده کنید. یک هزینه ماهانه کمتر که باید به آن فکر کرد."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** کاربران ابزارهای توسعه با هوش مصنوعی (Vibe Coding) از پرداخت هزینه‌های دوگانه برای هوش مصنوعی و پلتفرم‌های جانبی خسته شده‌اند. ماکالی کلاود با متصل شدن مستقیم به دستیارهای موجود (مثل Claude و ChatGPT)، تمام زیرساخت‌های لازم نظیر هاست، داتابیس و سئو را بدون هزینه اضافه هوش مصنوعی فراهم می‌کند.\n\n**معماری و تکنولوژی:** این ابزار بر پایه پروتکل‌های مدرن اتصال مدل (مانند MCP) طراحی شده و سرویس‌های Backend-as-a-Service (BaaS) را مستقیماً از طریق دستورات متنی به پرامپت هوش مصنوعی متصل می‌کند.\n\n**مدل درآمدی:** مدل درآمدی مبتنی بر ارائه زیرساخت ابری، هاستینگ و خدمات پیشرفته در قالب طرح‌های پرو است و نیازی به فروش مجدد اعتبارات API ندارد.\n\n**نقاط قوت:** عدم نیاز به اشتراک مجدد هوش مصنوعی، کاهش چشمگیر زمان تنظیمات زیرساختی (CSS، سئو، آنالیتیکس) و پشتیبانی از ابزارهای متعدد هوش مصنوعی.\n\n**نقاط ضعف:** ابهام کاربران در میزان کنترل مستقیم روی کدهای تولید شده پس از نسخه اولیه و وابستگی شدید به سیاست‌های اکوسیستم‌های هوش مصنوعی واسط.\n\n**نکته طلایی برای ایران:** نمونه مشابه ایرانی می‌تواند با اتصال این سرویس به هاست‌های داخلی و اضافه کردن «مهارت‌های بومی» (مانند اتصال خودکار به درگاه‌های پرداخت ایرانی و سامانه‌های پیامکی)، ساخت سریع پروژه‌های درآمدزا را برای کاربران ایرانی بسیار ساده کند.",
+      "iranEquivalent": {
+        "productName": "ابر وب‌ساز هوشمند",
+        "description": "این پلتفرم یک افزونه زیرساختی برای هوش‌های مصنوعی محبوب مانند چت‌جی‌پیتی است که امکان ساخت و انتشار مستقیم وب‌سایت را فراهم می‌کند. کاربران بدون نیاز به خرید اشتراک مجزای هوش مصنوعی، از پایگاه داده، هاست و ابزارهای آماده سئو در داخل همان محیط چت بهره‌مند می‌شوند. این محصول فرایند راه‌اندازی کمینه محصول پذیرفتنی (MVP) را برای کارآفرینان و توسعه‌دهندگان ایرانی به چند دقیقه کاهش می‌دهد.",
+        "marketOpportunity": "با توجه به رشد روزافزون استفاده از هوش مصنوعی در ایران و چالش‌های خرید اشتراک‌های متعدد ارزی، ارائه یک بستر متمرکز اتصال هوش مصنوعی به زیرساخت وب محلی شانس بالایی دارد. این ابزار می‌تواند نیاز استارتاپ‌های نوپا را به تیم زیرساخت و هاستینگ در مراحل اولیه به حداقل برساند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان وب، برنامه‌نویسان هوش مصنوعی، بنیان‌گذاران استارتاپ و طراحان محصول",
+        "challenges": [
+          "محدودیت‌های دسترسی به API مدل‌های هوش مصنوعی بین‌المللی در ایران",
+          "چالش‌های اتصال خودکار به درگاه‌های پرداخت و سامانه‌های احراز هویت داخلی"
+        ],
+        "monetization": [
+          "ارائه اشتراک ماهانه برای ابزارهای میزبانی و دامنه‌های اختصاصی",
+          "فروش افزونه‌ها و مهارت‌های ویژه سازگار با بوم ایران (مانند درگاه‌های بانکی و پیامک)"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Docker",
+          "Model Context Protocol (MCP)"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -40513,7 +41016,57 @@
           "user": "[REDACTED]",
           "text": "Turning the notch from wasted space into an always visible glanceable dashboard is such a clever reframe, basically the Dynamic Island idea done right for the Mac."
         }
-      ]
+      ],
+      "faDescription": "ناچ‌دودو ناچ مک شما را به بخشی کاربردی و مفید از گردش کار روزمره‌تان تبدیل می‌کند. این برنامه با داشتن ۱۴ ابزار داخلی، دسترسی سریع به امکانات پرکاربرد را بدون ایجاد وقفه در کارتان فراهم می‌سازد. این نرم‌افزار بسیار سبک و ساده بوده و به طور اختصاصی برای مک‌های دارای ناچ طراحی شده است. به جای دور زدن یا نادیده گرفتن ناچ، آن را به ابزاری مفید تبدیل کنید. ۱۴ ابزار در یک ناچ، تجربه کاربری مفیدتری را در مک برای شما رقم می‌زند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ناچ‌دودو ناچ مک شما را از فضایی که مجبور بودید آن را دور بزنید، به بخشی کاربردی از گردش کار روزمره‌تان تبدیل می‌کند. ناچ‌دودو به جای اینکه صرفاً یک برنامه سفارشی‌سازی ناچ باشد، ۱۴ ابزار کاربردی را در قالب یک برنامه سبک مک گرد هم آورده است تا ناچ را واقعاً مفید کند. چه چیز جدید و متفاوتی وجود دارد؟ 🛠️ ۱۴ ابزار در یک برنامه — ابزارهای سریعی که حول ناچ و گردش کار روزانه شما طراحی شده‌اند. 🖥️ طراحی اختصاصی برای ناچ مک — ناچ‌دودو از فضای اطراف ناچ به عنوان بخشی تعاملی از دسکتاپ شما استفاده می‌کند نه فقط برای تزئین آن. ⚡ دسترسی سریع با حداقل اصطکاک — بدون نیاز به تعویض مداوم برنامه‌ها یا جستجو در منوها به ابزارهای مفید دسترسی پیدا کنید. 🎨 تجربه تمیز و نیتیو — طراحی ساده سیاه و سفید با الهام از زیبایی‌شناسی مدرن مک. 🦤 نگاهی نوآورانه و سرگرم‌کننده به ناچ — ناچ‌دودو قابلیت‌های کاربردی را با شخصیت یک نماد دودو ترکیب می‌کند. هدف ساده است: کاربردی کردن ناچ مک. ناچ‌دودو برای افرادی ساخته شده که می‌خواهند بهره‌وری بیشتری از مک خود داشته باشند بدون اینکه یک سیستم بهره‌وری پیچیده دیگر اضافه کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من بیشتر ساعات روز از مک‌بوک متصل به مانیتور خارجی استفاده می‌کنم و درب لپ‌تاپ بسته است، بنابراین هیچ ناچ فیزیکی در دید نیست. آیا ناچ‌دودو در این حالت اجرا نمی‌شود، یا وقتی ناچی برای استقرار وجود ندارد داشبورد را در جای دیگری قرار می‌دهد؟ این وضعیت تقریباً کل روز کاری من است، بنابراین دانستن این موضوع تعیین می‌کند که آیا این برنامه اصلاً برای من مفید است یا خیر."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "فوق‌العاده است! عاشقش شدم! آیا می‌توانم ویجت‌های خودم را سفارشی‌سازی کرده و اضافه کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک می‌گویم الماس! تبدیل ناچ به یک داشبورد واقعی، استفاده بسیار هوشمندانه و خلاقانه‌ای از فضای مرده در مک است. ویژگی Wrapped باعث لبخند من شد — یک لمس جذاب از شخصیت در کنار کاربرد واقعی."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "محصول واقعاً جذاب است و علاوه بر این، صفحه فرود آن (notchdodo.com) فوق‌العاده عالی طراحی شده - به نظر می‌رسد مستقیماً توسط خود اپل ساخته شده است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبدیل ناچ از یک فضای تلف‌شده به یک داشبورد همیشه در دسترس و قابل مشاهده، یک بازتعریف بسیار هوشمندانه است؛ در واقع همان ایده داینامیک آیلند که به درستی برای مک پیاده‌سازی شده است."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** ناچ در مک‌بوک‌ها همواره به عنوان یک بریدگی مزاحم و فضای مرده بصری شناخته می‌شد. NotchDodo با الهام از ایده داینامیک آیلند، این بریدگی را به یک داشبورد تعاملی و میانبر دسترسی به ۱۴ ابزار کاربردی تبدیل کرده تا اصطکاک در گردش کار روزمره کاربران را کاهش دهد.\n\n**معماری و تکنولوژی:** برای توسعه چنین ابزاری روی macOS، استفاده از زبان Swift و فریم‌ورک SwiftUI جهت ارتباط مستقیم با APIهای نیتیو سیستم‌عامل، مصرف بهینه منابع (CPU و RAM) و حفظ زیبایی‌شناسی اپل ضروری است. وب‌سایت و بخش مدیریت لایسنس‌ها نیز با Next.js و PostgreSQL قابل پیاده‌سازی است.\n\n**مدل درآمدی:** ارائه نسخه پایه به صورت Freemium و فروش لایسنس یک‌باره یا اشتراک سالانه برای باز کردن تمام ۱۴ ابزار و سفارشی‌سازی ویجت‌ها.\n\n**نقاط قوت:** تجربه کاربری نیتیو و فوق‌العاده تمیز، تبدیل یک محدودیت سخت‌افزاری به ابزار بهره‌وری، عدم اشغال فضای دسکتاپ و وزن بسیار سبک برنامه.\n\n**نقاط ضعف:** بلااستفاده بودن در حالت Clamshell (استفاده از مانیتور خارجی با درب بسته)، محدود بودن بازار هدف فقط به دارندگان مک‌بوک‌های ناچ‌دار و وابستگی شدید به سیاست‌ها و تغییرات آتی macOS.\n\n**نکته طلایی برای ایران:** نسخه ایرانی این محصول می‌تواند با اضافه کردن ویجت تقویم هجری شمسی و مناسبت‌ها، نمایش لحظه‌ای قیمت دلار/طلا/رمزارزها و اتصال به یادداشت‌های بومی، به یک ابزار ضروری برای تمام کاربران ایرانی مک تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "ناچ‌بورد مک (NotchBoard)",
+        "description": "بومی‌سازی ابزار مدیریت ناچ مک برای کاربران ایرانی همراه با ویجت‌های اختصاصی تقویم شمسی، قیمت لحظه‌ای ارز و طلا. این ابزار به کاربران اجازه می‌دهد بدون نیاز به باز کردن برنامه‌های مختلف، به ابزارهای روزمره خود از طریق ناچ دسترسی داشته باشند. طراحی سبک و مینیمال آن تجربه کاربری یکپارچه‌ای با سیستم‌عامل مک ایجاد می‌کند.",
+        "marketOpportunity": "رشد چشمگیر استفاده از مک‌بوک‌های جدید سری M در میان توسعه‌دهندگان و طراحان ایرانی، بازار هدف بالادستی و نقدپذیری ایجاد کرده است. نبود ابزارهای بومی‌سازی‌شده که ویجت‌های کاربردی ایران مانند تقویم شمسی و نرخ ارز را در ناچ ادغام کنند، یک خلاء جدی در این بازار محسوب می‌شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، طراحان UI/UX، فریلنسرها، تریدرها و کاربران حرفه‌ای مک‌بوک در ایران",
+        "challenges": [
+          "چالش‌های فنی در مدیریت نمایش داشبورد هنگام متصل بودن مک به مانیتورهای خارجی و بسته بودن درب لپ‌تاپ",
+          "مقاومت برخی کاربران ایرانی در پرداخت هزینه نرم‌افزار به دلیل عادت به استفاده از نسخه‌های کرک‌شده"
+        ],
+        "monetization": [
+          "فروش لایسنس مادام‌العمر (One-time purchase) با درگاه‌های پرداخت شتابی",
+          "اشتراک سالانه برای دسترسی به ویجت‌های پیشرفته متصل به APIهای اختصاصی (مانند تحلیل بازار ارز و هوش مصنوعی)"
+        ],
+        "techStack": [
+          "Swift",
+          "SwiftUI",
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -40927,48 +41480,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-10-02",
-      "rank": 7,
-      "name": "Eleven v4 and Eleven v4 Turbo",
-      "slug": "eleven-v4-and-eleven-v4-turbo",
-      "tagline": "Elevenlabs' fastest and most emotive voice models yet",
-      "description": "Meet Eleven v4 and Eleven v4 Turbo by ElevenLabs, their most expressive models yet, with Turbo built for real-time use. Available in apps, API, and agents.",
-      "category": "API • Artificial Intelligence • Audio",
-      "categoryFa": "API • هوش مصنوعی • صدا",
-      "url": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/8592dbad-4f55-4b04-979b-0e79877bbc61.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c09eec67-3992-47ab-9639-55b6727e6f58.webp?auto=format",
-        "https://ph-files.imgix.net/691f79c9-bf8b-4c55-9acf-63218db920d0.jpeg?auto=format",
-        "https://ph-files.imgix.net/981c0354-34f2-4c4d-8b75-e9b54852ae8a.png?auto=format",
-        "https://ph-files.imgix.net/f22d8b71-9d20-4e9d-b303-e9887408ca52.png?auto=format",
-        "https://ph-files.imgix.net/98ec9017-5d66-4ff7-bda9-34dab01bf4ed.png?auto=format",
-        "https://ph-files.imgix.net/0dc53224-8ba7-41e3-83d9-8e209d671478.png?auto=format",
-        "https://ph-files.imgix.net/b214c92d-1bc6-4815-a5aa-9cb5ae83acde.png?auto=format",
-        "https://ph-files.imgix.net/527ee778-bd2b-42f9-b67e-37d6564f221b.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 131,
-      "websiteUrl": "https://www.producthunt.com/r/6XZVTY74NPFNZP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Eleven v4 and Eleven v4 Turbo are ElevenLabs’ fastest and most emotive voice models yet.Built on an entirely new architecture, Eleven v4 interprets tone, pacing, emotion, character, and context to generate speech that feels performed. Eleven v4 Turbo brings the same research to low-latency use cases such as agents, generating speech with a median inference latency of ~100 ms.Voice cloning is more authentic and consistent. Instant Voice Clones capture voices with extraordinary fidelity from just 10 seconds of audio, and Professional Voice Clones offer our highest fidelity. For long-form creation, Eleven v4 preserves speaker identity reliably across infinite generations, perfect for long form narration, dialogue, and regenerated lines.Direct the performance with inline tags. Specify delivery, emotion, pacing, reactions, SFX, or style. Eleven v4 stages the scene and performs it with naturalness and precision.What's new:A completely new Text to Speech architecture built for expressive performanceEleven v4 Turbo for agents and anything live, at a 100ms median latencyInstant Voice Clones from 10 seconds of audio, Professional Voice Clones for highest fidelityImproved performance across 90+ languages, with new languages including Cantonese, Mongolian, and OdiaSpeaker identity preserved across long-form narration, dialogue, and regenerated linesMore natural multi-speaker dialoguePronunciation control with IPA supportInline tags for direct control over delivery, emotion, pacing, reactions, SFX, and styleAvailable now in ElevenCreative, ElevenAgents, and ElevenAPI.Try Eleven v4 → https://elevenlabs.io/v4P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "v4 with tags works really well ngl"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The ~100 ms median latency on Turbo is the number that matters for us. We build a voice companion that phones older adults every day, and for that audience the pause after they finish speaking is what breaks the feel of a conversation, since many speak slowly and with long gaps. Curious how v4 handles hesitations and trailing-off sentences when used in agents: do the inline tags let you slow pacing and soften delivery per turn, or is that inferred from context?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -41541,7 +42052,46 @@
           "user": "[REDACTED]",
           "text": "Really cool! I wonder if we could get an existing url, and load it in, so then we can tweak on top of that, instead of starting from scratch."
         }
-      ]
+      ],
+      "faDescription": "جام‌بیلد (jambuild) یک ابزار کدنویسی مبتنی بر گفتار و حس (وایب‌کدینگ) به صورت تعاملی و چندنفره است که در آن تنها با صحبت کردن و اشاره با ماوس تغییرات را ایجاد می‌کنید. در این پلتفرم، تمامی تغییرات و کدهای درخواستی تنها ظرف چند ثانیه اعمال شده و به صورت زنده نمایش داده می‌شوند. برای شروع و امتحان کردن ابزار، اعتبارات رایگان و محدودی در اختیار کاربر قرار می‌گیرد. همچنین برای دسترسی کامل‌تر و استفاده نامحدود، امکان وارد کردن کلیدهای اختصاصی API خود کاربر نیز فراهم شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "در حالی که همه ما با ابزارهای کدنویسی مبتنی بر ایجنت‌ها مولدتر شده‌ایم، من هنوز یک تجربه همکاری چندنفره یا گروهی جذاب در کدنویسی ندیده‌ام. مطمئناً ابزارهایی برای تحویل کار یا فورک کردن جلسات وجود دارند، اما ابزاری نیست که بتوانید مانند فیگما یا در مقابل یک تخته وایت‌برد واقعی وارد جریان همکاری شوید. من می‌خواستم چنین تجربه‌ای را بازسازی کنم، بنابراین یک محیط برنامه‌نویسی تحت وب ساختم که با صوت هدایت می‌شود. این ابزار از تشخیص پیش‌دستانه نوبت برای شروع ساخت و مدل‌های سریع بدون استدلال سنگین استفاده می‌کند تا مطمئن شود هر تغییر در چند ثانیه اعمال می‌شود و می‌توانید ساخته شدن محصول را ببینید. بیشترین چیزی که دوست دارم بدانم این است که آیا استفاده از این ابزار با فردی دیگر لذت‌بخش یا مفید است یا خیر. وارد شوید، ایده جدید خود را نمونه‌سازی کنید، لینک را برای دوستتان بفرستید و نتیجه را به من بگویید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "امروز امتحانش کردم. بخش تایپ کردن خوب کار می‌کرد، اما بخش صوتی فقط زبان انگلیسی را متوجه می‌شد و انگلیسی من چندان خوب نیست. برای غیرانگلیسی‌زبانان، بخش صحبت کردن مانع اصلی است. درخواستی برای پشتیبانی از زبان‌های گفتاری دیگر ثبت کردم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "واقعاً عالی است! برام سواله که آیا می‌توانیم یک آدرس وب‌سایت (URL) موجود را وارد کنیم و روی آن تغییرات اعمال کنیم، به جای اینکه همه چیز را از صفر شروع کنیم؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: اکثر ابزارهای کدنویسی هوش مصنوعی تجربیات انفرادی ارائه می‌دهند و ابزارهای همکاری موجود صرفاً ابزار تعویض شیفت یا فورک کردن هستند. jambuild مسئله عدم وجود تعامل زنده (Multiplayer Flow) مشابه فیگما را در کدنویسی حل کرده است. راه‌حل آن، ترکیب فرمان‌های صوتی، اشاره‌گر ماوس و مدل‌های زبانی فوق‌سریع است که تغییرات کد را ظرف چند ثانیه اجرا می‌کنند.\n\nمعماری و تکنولوژی: این محصول در مرورگر اجرا می‌شود و از تکنیک Preemptive Turn Detection (تشخیص پیش‌دستانه نوبت گفتار) برای شروع فرایند ساخت قبل از پایان سخن کاربر استفاده می‌کند. همچنین با خاموش کردن استدلال (Reasoning) در مدل‌های زبانی، زمان پاسخ‌دهی را به حداقل رسانده است. معماری هم‌زمان (Real-time) آن متکی بر وب‌سوکت و وب‌ارتی‌سی است.\n\nمدل درآمدی: ارائه اعتبارات رایگان در ابتدا برای جذب کاربر و امکان اتصال کلیدهای API شخصی (BYO API key) جهت کاهش هزینه‌های زیرساختی شرکت و انتقال هزینه پردازش سنگین به کاربران حرفه‌ای.\n\nنقاط قوت: سرعت فوق‌العاده بالا، تجربه کاربری همکاری هم‌زمان جذاب، کاهش اصطکاک ورود با فرمان صوتی و اشاره.\n\nنقاط ضعف: وابستگی شدید به زبان انگلیسی در فاز فعلی، عدم امکان بارگذاری وب‌سایت‌های موجود جهت ویرایش، و احتمال کاهش دقت کد به دلیل خاموش کردن استدلال مدل‌ها.\n\nنکته طلایی برای بازار ایران: نمونه ایرانی این محصول می‌تواند با تمرکز بر پشتیبانی قوی از زبان فارسی (مدل‌های تبدیل گفتار به متن بومی) و فراهم کردن امکان وارد کردن فایل‌ها یا سایت‌های ایرانی موجود، به ابزاری بی‌رقیب برای جلسات هم‌فکری آنلاین مدیران محصول و طراحان ایرانی تبدیل شود تا بدون نیاز به دانش عمیق برنامه‌نویسی، خروجی‌های واقعی ایجاد کنند.",
+      "iranEquivalent": {
+        "productName": "هم‌کد صوتی (HamKod Voice)",
+        "description": "هم‌کد صوتی یک پلتفرم بومی برنامه‌نویسی گروهی مبتنی بر هوش مصنوعی است که به تیم‌های توسعه اجازه می‌دهد با فرمان‌های صوتی و اشاره ماوس ایده‌های خود را بسازند. این محصول با حذف نیاز به کدنویسی دستی سنتی، تجربه همکاری زنده مشابه فیگما را به دنیای برنامه‌نویسی و طراحی نمونه اولیه می‌آورد. کاربران ایرانی می‌توانند با اتصال APIهای بومی یا بین‌المللی خود، سرعت ساخت فرانت‌اند و برنامه‌های وب را به چند ثانیه کاهش دهند.",
+        "marketOpportunity": "با رشد روزافزون استارتاپ‌ها و کمبود نیروی فنی متخصص در ایران، نیاز به ابزارهای ساخت سریع نمونه اولیه (MVP) به شدت احساس می‌شود. ایجاد بستر همکاری صوتی به زبان فارسی می‌تواند بازار بزرگ برنامه‌نویسان، طراحان محصول و مدیران فنی ایرانی را به سرعت جذب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند، مدیران محصول، طراحان UI/UX و تیم‌های استارتاپی در مرحله بذری",
+        "challenges": [
+          "چالش‌های پردازش زبان طبیعی و تبدیل گفتار فارسی به کد دقیق با توجه به پیچیدگی‌های زبان فارسی",
+          "تأخیر اینترنت و محدودیت‌های زیرساختی در برقراری ارتباط‌های هم‌زمان (Multiplayer) کم‌تأخیر"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه سازمانی و تیم‌ها (SaaS Model) بر اساس تعداد کاربر و میزان مصرف پردازش صوتی",
+          "مدل Freemium با ارائه اعتبارات رایگان محدود و امکان خرید اعتبار اختصاصی یا اتصال API شخصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "WebSockets",
+          "WebRTC",
+          "Whisper AI"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -43847,6 +44397,10 @@
         {
           "user": "[REDACTED]",
           "text": "Hi everyone!This is Bambu’s first standalone laser cutter. The H2D put a diode module in the printer, and a lot of people did not want soot in that box.The useful part is the mirror alignment. On a CO2 laser, that usually means thermal paper, test shots, and tiny screws. R1 clips a sensor onto the toolhead and does the alignment automatically in about a minute.The work area is 600 × 300 mm, speed goes up to 1000 mm/s, and a lot of the motion-control thinking comes from Bambu’s printers. Thick cuts need the longer-focus lenses, which are sold separately.One thing worth knowing: add the riser or conveyor and it is no longer a closed Class 1 machine!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the automated alignment is the genuinely useful part, agreed, that's a real chore on every CO2 laser I've seen. the line that'd stop me though is \"add the riser or conveyor and it's no longer a closed Class 1 machine\" - that's exactly the setup most people doing anything bigger than small acrylic pieces would want, the conveyor is half the pitch here. is there a fume extraction and interlock spec for that configuration, or does going beyond Class 1 mean the safety story becomes \"here's a vented room, good luck\"?"
         },
         {
           "user": "[REDACTED]",
@@ -53861,12 +54415,12 @@
     }
   ],
   "audit": {
-    "products": 530,
-    "withRealComments": 530,
-    "withPersianComments": 502,
-    "withPersianDescription": 502,
-    "withAiReview": 493,
-    "withIranEquivalent": 502,
-    "totalRealComments": 3279
+    "products": 531,
+    "withRealComments": 531,
+    "withPersianComments": 511,
+    "withPersianDescription": 511,
+    "withAiReview": 501,
+    "withIranEquivalent": 511,
+    "totalRealComments": 3291
   }
 }
