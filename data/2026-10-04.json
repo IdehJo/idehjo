@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "scrapedAt": "2026-10-03T23:16:31.997Z",
+  "scrapedAt": "2026-10-04T01:52:25.484Z",
   "periods": {
     "today": [
       {
@@ -27,9 +27,17 @@
         "maker": "Anna W",
         "makerTitle": "Turning coffee into prompts since 2023.",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 285,
+        "votes": 291,
         "websiteUrl": "https://www.producthunt.com/r/EIW66MPSNX7TY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch! 🎉 The hardest part of building my own agents has been data — self-built scrapers are a maintenance sink, and paid APIs get pricey and aren't always trustworthy. How does ZooWork handle data access for an agent — does it pull data itself through built-in tools, or are there connectors / data partners in the mix?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I love how seamless and fast it was to integrate with my code. I thought I'd run into problems but I did not. Besides, the run time is impressive!"
+          },
           {
             "user": "[REDACTED]",
             "text": "How do you handle updates to an agent that clients are already using? Can I test a new version before making it live for them?"
@@ -53,14 +61,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on the launch, Ning, David and the ZooWork team. Reading the docs, config_version is a counter rather than a history and rollback is left to the app, while per-user agents each get their own copy of the template. For an FDE shipping one agent to 20 clients, is there a plan for staged rollout and one-click rollback when an SOP change makes things worse? That feels like the part that turns delivery into something you can actually maintain."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Really like the idea of turning domain expertise into AI agents that can actually handle real business workflows"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the delivery part is what most agent builders miss. when the same agent is shared with two clients, how do you keep their files and conversation history separate?"
           }
         ]
       },
@@ -87,12 +87,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 210,
+        "votes": 213,
         "websiteUrl": "https://www.producthunt.com/r/RV2QIX6I3EB5JC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋 I’m Martin, co-founder of miso.com.Over the past year, startups and frontier models have tried to make travel easier. But travel is more than finding a flight or hotel. It’s navigating points, preferences, loyalty status, and the details that make each trip different. And when plans change, the real complexity begins: travelers need someone immediately who can understand the situation and help get it resolved.What if you could plan a trip by simply texting someone who knew your preferences, and have real support when plans changed?So we built miso.com, your personal AI travel agent on iMessage:Text to Book Flights and Hotels: Compare cash and points options, and access exclusive hotel rates and perks.Personalization at Scale: Miso remembers details like your passport, Known Traveler Number, loyalty programs, and preferences. We can also factor your status into upgrade options.24/7 Support: Our concierge team is available 24/7 to help with changes, cancellations, and anything that comes up during your trip.Product Hunt Launch SpecialWe’re inviting a large handful of Product Hunt users to try miso.com. Let us know if you travel frequently, we’d love to get you started."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Can miso book base on budget limit?"
           },
           {
             "user": "[REDACTED]",
@@ -117,10 +121,6 @@
           {
             "user": "[REDACTED]",
             "text": "Booking through iMessage is a nice idea, no new app to install and it feels like texting a travel agent. How does it handle changes after booking, like moving a flight or cancelling? That's usually where travel tools get painful."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Booking flights and hotels without leaving iMessage is exactly the kind of thing that removes the twenty tab shuffle, and learning preferences over time should make repeat trips much faster. Direct airline access is the detail that makes me believe the bookings are real. Does it handle changes and cancellations in the same thread?"
           }
         ]
       },
@@ -151,12 +151,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 162,
+        "votes": 168,
         "websiteUrl": "https://www.producthunt.com/r/7BOKASBUEQX4KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "We built Prefer because we realized brands have two users now. There is the human who buys, and the model that recommends. For 25 years, we learned how to market to the first one. Now ChatGPT, Gemini, Perplexity and other AI engines are making decisions before a buyer ever reaches your website. We went looking for a tool that could show us what these models were saying about a brand and then actually help change it. It did not exist. So we built Prefer. The idea is simple: measuring the gap is the easy half. Closing it is the product. Prefer does not just tell you where you are missing. It helps do the on-page, content and off-page work needed to win the citation. Less dashboards. More action. We are early, bootstrapped, and building this with our users. Would love to hear what you think."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey, just want to let you know my account is in softlock (can't get to a page without a failure). Your support email doesn't work either. account email is jordan@jordangibbs.xyz"
           },
           {
             "user": "[REDACTED]",
@@ -191,7 +195,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 151,
+        "votes": 157,
         "websiteUrl": "https://www.producthunt.com/r/4J7IZNCDREAZMO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -246,7 +250,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 137,
+        "votes": 139,
         "websiteUrl": "https://www.producthunt.com/r/2FVYYMWPUAJ4O6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -281,7 +285,7 @@
         "maker": "Çağlar Utku GÜLER",
         "makerTitle": "",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 112,
+        "votes": 113,
         "websiteUrl": "https://www.producthunt.com/r/PSQ4HWY5PXORPM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -340,7 +344,7 @@
         "maker": "Nelson John",
         "makerTitle": "2x \"Failed\" Founder - Shipped 30+ Apps",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 88,
+        "votes": 89,
         "websiteUrl": "https://www.producthunt.com/r/USKITC5YZNVI3N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -472,7 +476,7 @@
         "maker": "Naga vamsi Y",
         "makerTitle": "I build the missing pieces",
         "featuredAt": "2026-10-03T07:01:00Z",
-        "votes": 79,
+        "votes": 80,
         "websiteUrl": "https://www.producthunt.com/r/OUQTPBUOJZO4W6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -567,7 +571,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-02T07:01:00Z",
-        "votes": 303,
+        "votes": 304,
         "websiteUrl": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -681,7 +685,7 @@
         "maker": "Iman Koma",
         "makerTitle": "Founder of BEK & Talentivo",
         "featuredAt": "2026-10-02T07:01:00Z",
-        "votes": 228,
+        "votes": 229,
         "websiteUrl": "https://www.producthunt.com/r/QBHP7XRZGWA2R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1221,7 +1225,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-29T07:01:00Z",
-        "votes": 450,
+        "votes": 451,
         "websiteUrl": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {

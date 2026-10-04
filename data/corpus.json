@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:16:31.997Z",
+  "generatedAt": "2026-10-04T01:56:59.581Z",
   "sourceFiles": 55,
   "products": [
     {
@@ -7777,7 +7777,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "AI Philosopher Engineer",
       "featuredAt": "2026-09-29T07:01:00Z",
-      "votes": 450,
+      "votes": 451,
       "websiteUrl": "https://www.producthunt.com/r/GH7ZXAZXZF36UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -16801,7 +16801,65 @@
           "user": "[REDACTED]",
           "text": "the idea of making ai agents feel more natural is really interesting especially when they can actually handle task instead of just chatting"
         }
-      ]
+      ],
+      "faDescription": "کاربران شما نباید مجبور باشند یاد بگیرند که هر قابلیت در کجای محصول قرار دارد. یدریک یک عامل هوش مصنوعی قابل جاسازی به SaaS شما اضافه می‌کند که درخواست‌های زبان طبیعی را به عملیاتی تبدیل می‌کند که محصول شما از قبل توانایی انجام آن را دارد. کاربران فقط کافیست بگویند چه کاری می‌خواهند انجام شود و یدریک تعامل را مدیریت می‌کند. به جای اینکه توسعه‌دهندگان تجربه عامل هوش مصنوعی خود را از صفر بسازند و نگهداری کنند، می‌توانند محصول موجود خود را در کمتر از ۳۰ دقیقه به یک محصول بومی هوش مصنوعی تبدیل کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! 👋 من بیش از دو دهه است که در حال ساخت محصولات SaaS هستم و مدل تعاملی پایه تقریباً تغییر نکرده است: ما تصمیم می‌گیریم نرم‌افزار چه کاری می‌تواند انجام دهد، این قابلیت‌ها را در یک رابط کاربری سازماندهی می‌کنیم و سپس انتظار داریم کاربران بفهمند چگونه کار می‌کند. هر قابلیت جدید به معنای چیزهای بیشتر برای یادگیری توسط کاربران است. هوش مصنوعی به ما فرصتی می‌دهد تا این مدل را برعکس کنیم. به جای اینکه کاربران یاد بگیرند نرم‌افزار ما چگونه کار می‌کند، اگر بتوانند صرفاً بگویند چه چیزی می‌خواهند دست یابند، چه می‌شود؟\n\nاین همان چیزی است که ما برای انجام آن یدریک را ساختیم. یدریک یک عامل هوش مصنوعی قابل جاسازی است که آنچه برنامه شما از قبل می‌تواند انجام دهد را به چیزهایی تبدیل می‌کند که کاربران می‌توانند صرفاً برای آن‌ها درخواست کنند. شما به یدریک دسترسی به دانش محصول، زمینه کاربر و APIهای خود را می‌دهید و او می‌تواند واقعاً کارهایی را درون برنامه شما انجام دهد.\n\nما در ابتدا این فناوری را برای اپلیکیشن‌های Shopify خودمان ساختیم. می‌خواستیم کاربران بتوانند چیزهایی مانند «اعلان‌های ایمیل را خاموش کن» یا «یکپارچگی خراب من را اصلاح کن» بگویند و اپلیکیشن به جای ارسال آن‌ها به مستندات، پشتیبانی یا هزارتویی از تنظیمات، آن را برای آن‌ها مدیریت کند.\n\nسپس اتفاقی غیرمنتظره رخ داد. آن مکالمات به یکی از بهترین منابع بینش محصول ما تبدیل شدند. وقتی کاربران برای چیزی درخواست می‌کردند که اپلیکیشن‌های ما نمی‌توانستند انجام دهند، می‌توانستیم دقیقاً ببینیم آن‌ها در حال تلاش برای دستیابی به چه چیزی هستند، با کلمات خودشان، در لحظه‌ای که در حال تلاش برای انجام آن بودند. در یک ماه، یک اپلیکیشن تنها بیش از ۸۰ درخواست ویژگی متمایز را به این صورت آشکار کرد.\n\nآن زمان بود که متوجه شدیم این نباید فقط چیزی باشد که برای خودمان ساخته‌ایم. ما تلاش کرده‌ایم افزودن این نوع هوش مصنوعی به یک محصول SaaS موجود را به‌شدت آسان کنیم. اکثر توسعه‌دهندگان می‌توانند یدریک را در کمتر از ۳۰ دقیقه راه‌اندازی کنند و این رایگان است (شما کلید LLM خود را می‌آورید).\n\nما هنوز در مراحل اولیه هستیم و این بخش بزرگی از دلیل راه‌اندازی ما در اینجا است. کنجکاو هستم که آیا سازندگان SaaS دیگر نیز همین تغییر را می‌بینند: پنج سال دیگر، چقدر از نرم‌افزارها هنوز کاربران را مجبور به پیمایش در یک رابط کاربری می‌کنند در مقابل اجازه دادن به آن‌ها برای صرفاً درخواست آنچه می‌خواهند؟\n\nممنون که یدریک را بررسی کردید. من تمام روز اینجا هستم تا به سوالات پاسخ دهم و از بازخورد شما خوشحال می‌شوم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "اجازه دادن به کاربران برای صرفاً گفتن آنچه می‌خواهند درون SaaS، ایده‌ای مفید است 👏 راه‌اندازی واقعاً چقدر طول می‌کشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک بابت راه‌اندازی! 🚀 اگر API موجود خود را به این سرویس متصل کنم، عملیات‌های مخرب چگونه مدیریت می‌شوند؟ حذف یک فضای کاری یا تغییر مجوزهای کسی بسیار متفاوت از فیلتر کردن یک لیست است و API ما هیچ تمایزی بین آن‌ها قائل نمی‌شود، همه این‌ها در حال حاضر در UI اعمال می‌شود. آیا مرحله تأییدی در میانه وجود دارد یا بر عهده من است که صرفاً آن endpointها را قرار ندهم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش «عملیاتی که محصول شما از قبل می‌داند چگونه انجام دهد» بخش جالبی است - آیا این به‌طور پیش‌فرض محدود به عملیات‌های فقط‌خواندنی/امن است، یا می‌تواند همان endpointهای مخرب را که یک مدیر انسانی می‌تواند بزند (حذف، به‌روزرسانی انبوه و غیره) فعال کند؟ کنجکاو هستم که چگونه این خط را برای یک راه‌اندازی ۳۰ دقیقه‌ای می‌کشید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "@aaroneous دادن یک روش ساده به کاربران برای کنترل محصول منطقی به نظر می‌رسد. چه نوع APIهایی با یدریک بهتر کار می‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "داشبورد مکالمات به نظر من جواهر کل این کار است. توانایی دیدن سریع داده‌های ساختاریافته با بینش‌های واقعی درباره اینکه مشتریان مکالمات را در کجا هدایت می‌کنند، زندگی را بسیار آسان‌تر می‌کند وقتی صحبت از شناسایی نقاط درد و خلأهای مستندات به میان می‌آید. هیچ چیزی از دست نمی‌رود."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ساخت دستیار درون‌برنامه‌ای خودم برای یک اپلیکیشن فروش میدانی به من آموخت که بخش سخت، درک درخواست نیست، بلکه تصمیم گرفتن است که عامل مجاز به انجام چه کاری بدون پرسیدن است. خواندن داده‌ها آسان است، اما حذف یک مشتری یا تغییر یک قرارداد نیست. شما چگونه تأیید برای عملیات‌های مخرب را مدیریت می‌کنید؟ آیا این توسط توسعه‌دهنده برای هر عملیات تنظیم می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ایده ایجاد حس طبیعی‌تر برای عوامل هوش مصنوعی واقعاً جالب است، به‌ویژه وقتی می‌توانند وظایف را مدیریت کنند به جای صرفاً چت کردن"
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، شکاف بین قابلیت‌های فنی یک نرم‌افزار و توانایی درک آن توسط کاربران عادی است. راه‌حل ارائه‌شده، یک لایه واسط هوشمند است که به‌جای بازطراحی رابط کاربری، یک کانال گفتگویی ایجاد می‌کند که مستقیماً با APIهای محصول تعامل دارد. از نظر معماری، این سیستم احتمالاً از الگوهای Agent-based استفاده می‌کند که شامل یک لایه درک زبان طبیعی (NLU)، یک موتور تصمیم‌گیری برای نگاشت درخواست به endpointهای صحیح، و یک لایه ایمنی برای مدیریت دسترسی‌ها است. مدل درآمدی بر اساس مصرف (Usage-based) یا اشتراک‌های تیراژ‌محور (Tiered) است که برای توسعه‌دهندگان جذاب است زیرا هزینه ثابت پایینی دارد. نقاط قوت اصلی شامل سرعت پیاده‌سازی (کمتر از ۳۰ دقیقه)، کاهش هزینه‌های پشتیبانی و به دست آوردن بینش‌های ارزشمند از مکالمات کاربران است. نقاط ضعف شامل وابستگی به کیفیت مستندات و ساختار APIهای موجود، و چالش‌های امنیتی در مدیریت عملیات‌های مخرب (مانند حذف داده) است. نکته طلایی برای ایران: با توجه به ضعف مستندات فنی در بسیاری از استارتاپ‌های ایرانی، این ابزار می‌تواند به عنوان یک «مستندساز زنده» عمل کند؛ یعنی از طریق تحلیل مکالمات کاربران، تیم‌های محصول می‌توانند دقیقاً بفهمند کاربران در کجا گیر می‌کنند و مستندات خود را به‌صورت هدفمند بهبود دهند، که یک مزیت رقابتی بزرگ در بازار داخلی است.",
+      "iranEquivalent": {
+        "productName": "یار هوشمند SaaS",
+        "description": "این پلتفرم یک دستیار هوش مصنوعی قابل جاسازی برای محصولات نرم‌افزاری ابری ارائه می‌دهد که تعامل کاربران را از پیمایش در منوهای پیچیده به گفتگوی زبان طبیعی تبدیل می‌کند. توسعه‌دهندگان می‌توانند با اتصال APIهای موجود خود، در کمتر از ۳۰ دقیقه قابلیت‌های هوشمند به اپلیکیشن‌های خود اضافه کنند. این سیستم به‌طور خودکار درخواست‌های کاربران را به عملیات‌های فنی تبدیل کرده و بدون نیاز به بازسازی رابط کاربری، تجربه کاربری را مدرن می‌کند.",
+        "marketOpportunity": "بازار SaaS در ایران با رشد سریع اپلیکیشن‌های سازمانی و استارتاپ‌های نرم‌افزاری مواجه است که اغلب با چالش پیچیدگی رابط کاربری و نیاز به آموزش کاربران روبرو هستند. ارائه راه‌حلی که بدون هزینه‌های سنگین توسعه، تجربه کاربری را بهبود بخشد، پتانسیل بالایی برای جذب مشتریان B۲B دارد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان استارتاپ‌های SaaS، شرکت‌های نرم‌افزاری B۲B و تیم‌های محصول که به دنبال کاهش هزینه‌های پشتیبانی و افزایش رضایت کاربران هستند.",
+        "challenges": [
+          "نیاز به زیرساخت‌های ابری پایدار و دسترسی به مدل‌های زبانی قوی که ممکن است با محدودیت‌های ارزی و تحریمی مواجه باشد.",
+          "اعتمادسازی در مورد امنیت داده‌ها و مدیریت صحیح دسترسی‌ها برای عملیات‌های حساس در محیط‌های سازمانی ایران."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس تعداد کاربران فعال یا حجم درخواست‌های پردازش شده.",
+          "پلن‌های سازمانی با پشتیبانی اختصاصی و امکان سفارشی‌سازی عمیق‌تر روی APIهای داخلی شرکت‌ها."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "LangChain",
+          "Redis"
+        ],
+        "confidence": 72
+      }
     },
     {
       "id": "ph-week-10",
@@ -18801,6 +18859,62 @@
     },
     {
       "id": "ph-yesterday-2",
+      "date": "2026-10-02",
+      "rank": 2,
+      "name": "Veltrix AI for E-commerce",
+      "slug": "veltrix-ai-for-e-commerce",
+      "tagline": "Find how your e-commerce business could earn more",
+      "description": "Find ways to make your e-commerce business more profitable. Veltrix uses AI to analyze your sales, costs, customers and marketing. Get help deciding what to promote, where to cut spending and how to solve problems holding the business back. Connect your business tools or upload files. Start with a Business Health Check to find improvements you may have missed. Then use Veltrix to work out what to improve. Your first check is free. No card required.",
+      "category": "Artificial Intelligence • E-Commerce • Business",
+      "categoryFa": "هوش مصنوعی • E-Commerce • کسب‌وکار",
+      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/00754c3c-732d-4226-ad58-1196546bb224.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7a11c7b2-5b14-4083-a815-4c5f1fef098e.png?auto=format",
+        "https://ph-files.imgix.net/d76e1fee-9e36-4510-8094-d23a2fa99e8f.png?auto=format",
+        "https://ph-files.imgix.net/9c84affd-d3d3-40a3-9d5a-033ccfd64f5b.png?auto=format",
+        "https://ph-files.imgix.net/2fcb55bf-8ff4-4954-95bb-a13bff9e15dc.png?auto=format",
+        "https://ph-files.imgix.net/125e7aac-6577-4792-aeb7-edb321668571.png?auto=format",
+        "https://ph-files.imgix.net/66651400-ac81-4e6c-8d49-95482a64d00d.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 304,
+      "websiteUrl": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "action-oriented instead of another dashboard, love that 👍 margin leaks are what founders realy miss"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the \"business is not a 72/100\" health check score is a strong hook for getting someone past the free-check wall, but a single number like that invites the same question every credit-score-style product gets: what's the actual spread between a 72 and an 85 in dollar terms for a typical store? without that, people either panic over the number or ignore it as just another vanity metric. does the report translate the score gap into \"fixing this gets you roughly $X more a month,\" or is it more of a relative ranking against similar stores?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@bohdan_sitar Congratulations. And happy product launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is how you make my accountant stay relevant and earn their keep in the age of AI :-) Excellent product - I connected my business's Xero instance and it gave great recommendations immediately. I would want my accountant to do the same so they can proactively advise me on cash flow, tax etc."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "looks cool, good luck with teh launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great work, everyone. I'm looking forward to seeing how our users take to the new features!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Business Health Check is a smart starting point. Most owners don’t know what question to ask first."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-2",
       "date": "2026-09-10",
       "rank": 2,
       "name": "AI Observability by OpenObserve",
@@ -19014,62 +19128,6 @@
         {
           "user": "کاربر ProductHunt 5",
           "text": "کنجکاوم «آماده برای هوش مصنوعی» دقیقاً در اینجا چه معنایی دارد - آیا زیرساختی مانند تولید یک فایل llms.txt دارد یا بیشتر به این معناست که مارک‌داون به‌صورت تمیز تقسیم و ساختار یافته برای بازیابی باشد؟ ابزارهای مستنداتی که من دیده‌ام و این برچسب را دارند معمولاً فقط به مارک‌داون خوب‌ساختار اشاره می‌کنند، اما مشکل اصلی من همیشه کهنه‌گی بوده است - مستندات که با گذشت زمان از سطح واقعی API فاصله می‌گیرند. آیا Blume کاری برای نشان‌دادن این انحراف انجام می‌دهد یا صرفاً یک لایهٔ تولید/تم‌گذاری بر روی هر مارک‌داونی است که به آن می‌دهید؟"
-        }
-      ]
-    },
-    {
-      "id": "ph-yesterday-2",
-      "date": "2026-10-02",
-      "rank": 2,
-      "name": "Veltrix AI for E-commerce",
-      "slug": "veltrix-ai-for-e-commerce",
-      "tagline": "Find how your e-commerce business could earn more",
-      "description": "Find ways to make your e-commerce business more profitable. Veltrix uses AI to analyze your sales, costs, customers and marketing. Get help deciding what to promote, where to cut spending and how to solve problems holding the business back. Connect your business tools or upload files. Start with a Business Health Check to find improvements you may have missed. Then use Veltrix to work out what to improve. Your first check is free. No card required.",
-      "category": "Artificial Intelligence • E-Commerce • Business",
-      "categoryFa": "هوش مصنوعی • E-Commerce • کسب‌وکار",
-      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/00754c3c-732d-4226-ad58-1196546bb224.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7a11c7b2-5b14-4083-a815-4c5f1fef098e.png?auto=format",
-        "https://ph-files.imgix.net/d76e1fee-9e36-4510-8094-d23a2fa99e8f.png?auto=format",
-        "https://ph-files.imgix.net/9c84affd-d3d3-40a3-9d5a-033ccfd64f5b.png?auto=format",
-        "https://ph-files.imgix.net/2fcb55bf-8ff4-4954-95bb-a13bff9e15dc.png?auto=format",
-        "https://ph-files.imgix.net/125e7aac-6577-4792-aeb7-edb321668571.png?auto=format",
-        "https://ph-files.imgix.net/66651400-ac81-4e6c-8d49-95482a64d00d.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 303,
-      "websiteUrl": "https://www.producthunt.com/r/WLBR6YF7GXE2Z7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "action-oriented instead of another dashboard, love that 👍 margin leaks are what founders realy miss"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the \"business is not a 72/100\" health check score is a strong hook for getting someone past the free-check wall, but a single number like that invites the same question every credit-score-style product gets: what's the actual spread between a 72 and an 85 in dollar terms for a typical store? without that, people either panic over the number or ignore it as just another vanity metric. does the report translate the score gap into \"fixing this gets you roughly $X more a month,\" or is it more of a relative ranking against similar stores?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@bohdan_sitar Congratulations. And happy product launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is how you make my accountant stay relevant and earn their keep in the age of AI :-) Excellent product - I connected my business's Xero instance and it gave great recommendations immediately. I would want my accountant to do the same so they can proactively advise me on cash flow, tax etc."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks cool, good luck with teh launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great work, everyone. I'm looking forward to seeing how our users take to the new features!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Business Health Check is a smart starting point. Most owners don’t know what question to ask first."
         }
       ]
     },
@@ -20009,6 +20067,67 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-1",
+      "date": "2026-10-03",
+      "rank": 1,
+      "name": "ZooWork",
+      "slug": "zoowork",
+      "tagline": "The AI agent delivery platform for FDEs and domain experts",
+      "description": "ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API. Turn your expertise into AI solutions built for real business operations.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3c946e25-562b-4df5-9c91-5a2d881fb80a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/04bae135-5c2e-468b-9d9f-cb2e321786f8.jpeg?auto=format",
+        "https://ph-files.imgix.net/a3ccaa67-e5b0-4d5c-9e25-add309cc6b3d.png?auto=format",
+        "https://ph-files.imgix.net/69acabfb-36e7-4b31-9cbc-a26cfa36ffeb.png?auto=format",
+        "https://ph-files.imgix.net/8a109503-1650-4ddb-864a-3486bfad1bb9.png?auto=format",
+        "https://ph-files.imgix.net/bd617414-90fe-4a16-a29a-7052f1ee4296.png?auto=format",
+        "https://ph-files.imgix.net/7e9c5d06-dd1b-4a99-9d0d-2b4081f8ac8f.png?auto=format",
+        "https://ph-files.imgix.net/93cc9a79-3c3f-4e3a-8b2b-d45a3a7359fd.png?auto=format"
+      ],
+      "maker": "Anna W",
+      "makerTitle": "Turning coffee into prompts since 2023.",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 291,
+      "websiteUrl": "https://www.producthunt.com/r/EIW66MPSNX7TY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! 🎉 The hardest part of building my own agents has been data — self-built scrapers are a maintenance sink, and paid APIs get pricey and aren't always trustworthy. How does ZooWork handle data access for an agent — does it pull data itself through built-in tools, or are there connectors / data partners in the mix?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love how seamless and fast it was to integrate with my code. I thought I'd run into problems but I did not. Besides, the run time is impressive!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle updates to an agent that clients are already using? Can I test a new version before making it live for them?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"Works beautifully on my laptop\" is the most honest line in AI right now. I have at least three agents in that exact state. 1–2 second cold starts and paying nothing while idle is the part that got me. Congrats Ning and team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can an expert update the agents knowledge without rebuilding the entire workflow ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the domain-expert-builds-it-in-the-UI model is the interesting bet here. at Dial we've seen non-technical team members want to tweak a live call flow and the thing we worry about isn't whether they can, it's whether a change they make on a Tuesday afternoon quietly breaks something for a client on Wednesday. is there any review or staging step before an expert's agent update goes live for a client, or does it publish straight through once they're happy with it in the Builder?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great idea! Is there a way for me to track/review the agent’s performance over time?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Ning, David and the ZooWork team. Reading the docs, config_version is a counter rather than a history and rollback is left to the app, while per-user agents each get their own copy of the template. For an FDE shipping one agent to 20 clients, is there a plan for staged rollout and one-click rollback when an SOP change makes things worse? That feels like the part that turns delivery into something you can actually maintain."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -20988,67 +21107,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-03",
-      "rank": 1,
-      "name": "ZooWork",
-      "slug": "zoowork",
-      "tagline": "The AI agent delivery platform for FDEs and domain experts",
-      "description": "ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API. Turn your expertise into AI solutions built for real business operations.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3c946e25-562b-4df5-9c91-5a2d881fb80a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/04bae135-5c2e-468b-9d9f-cb2e321786f8.jpeg?auto=format",
-        "https://ph-files.imgix.net/a3ccaa67-e5b0-4d5c-9e25-add309cc6b3d.png?auto=format",
-        "https://ph-files.imgix.net/69acabfb-36e7-4b31-9cbc-a26cfa36ffeb.png?auto=format",
-        "https://ph-files.imgix.net/8a109503-1650-4ddb-864a-3486bfad1bb9.png?auto=format",
-        "https://ph-files.imgix.net/bd617414-90fe-4a16-a29a-7052f1ee4296.png?auto=format",
-        "https://ph-files.imgix.net/7e9c5d06-dd1b-4a99-9d0d-2b4081f8ac8f.png?auto=format",
-        "https://ph-files.imgix.net/93cc9a79-3c3f-4e3a-8b2b-d45a3a7359fd.png?auto=format"
-      ],
-      "maker": "Anna W",
-      "makerTitle": "Turning coffee into prompts since 2023.",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 285,
-      "websiteUrl": "https://www.producthunt.com/r/EIW66MPSNX7TY2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "How do you handle updates to an agent that clients are already using? Can I test a new version before making it live for them?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "\"Works beautifully on my laptop\" is the most honest line in AI right now. I have at least three agents in that exact state. 1–2 second cold starts and paying nothing while idle is the part that got me. Congrats Ning and team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can an expert update the agents knowledge without rebuilding the entire workflow ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the domain-expert-builds-it-in-the-UI model is the interesting bet here. at Dial we've seen non-technical team members want to tweak a live call flow and the thing we worry about isn't whether they can, it's whether a change they make on a Tuesday afternoon quietly breaks something for a client on Wednesday. is there any review or staging step before an expert's agent update goes live for a client, or does it publish straight through once they're happy with it in the Builder?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great idea! Is there a way for me to track/review the agent’s performance over time?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Ning, David and the ZooWork team. Reading the docs, config_version is a counter rather than a history and rollback is left to the app, while per-user agents each get their own copy of the template. For an FDE shipping one agent to 20 clients, is there a plan for staged rollout and one-click rollback when an SOP change makes things worse? That feels like the part that turns delivery into something you can actually maintain."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really like the idea of turning domain expertise into AI agents that can actually handle real business workflows"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the delivery part is what most agent builders miss. when the same agent is shared with two clients, how do you keep their files and conversation history separate?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -26336,6 +26394,71 @@
       }
     },
     {
+      "id": "ph-yesterday-4",
+      "date": "2026-10-02",
+      "rank": 4,
+      "name": "Famulor",
+      "slug": "famulor-6",
+      "tagline": "Your agent to answer calls and follow ups on WhatsApp",
+      "description": "Famulor answers calls, runs campaigns and follows up on WhatsApp. GDPR-ready, EU hosting. Try it free.",
+      "category": "Android • Email • Messaging",
+      "categoryFa": "اندروید • ایمیل • پیام‌رسان",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/544c90f5-eeeb-4be7-b917-035bd16bcb1a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/24b9cf66-96a2-485c-b84b-aa186a7e6466.jpeg?auto=format",
+        "https://ph-files.imgix.net/3528fa26-5401-418c-be3e-c6c94c52a04a.png?auto=format",
+        "https://ph-files.imgix.net/b41ab4ff-6811-4d14-a46e-ae68eb72be20.jpeg?auto=format",
+        "https://ph-files.imgix.net/f0c77ca4-6e0b-4050-bcfe-14afcc447691.png?auto=format",
+        "https://ph-files.imgix.net/3533f6ab-a27c-4247-974a-6a1acb80ab51.jpeg?auto=format",
+        "https://ph-files.imgix.net/7557bb5d-fc7a-48ac-a9d8-c06ff881b05b.png?auto=format",
+        "https://ph-files.imgix.net/186f737b-96f1-4d3e-aaa9-90153b54c251.jpeg?auto=format",
+        "https://ph-files.imgix.net/9052bcfa-11f8-4bf1-9d94-43a46bba3703.png?auto=format",
+        "https://ph-files.imgix.net/60eb7f4a-49e6-47b4-b7b9-27854739e01c.png?auto=format",
+        "https://ph-files.imgix.net/71ff4637-7bfa-4446-8082-3650f46df7c3.png?auto=format",
+        "https://ph-files.imgix.net/5c8a5779-17b4-4a71-bec8-b82844640f72.jpeg?auto=format"
+      ],
+      "maker": "Iman Koma",
+      "makerTitle": "Founder of BEK & Talentivo",
+      "featuredAt": "2026-10-02T07:01:00Z",
+      "votes": 229,
+      "websiteUrl": "https://www.producthunt.com/r/QBHP7XRZGWA2R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Makers & Hunters! 🚀Every business we talked to had the same problem: calls go unanswered, leads go cold overnight, and every channel lives in a different tool.So we built Famulor, the AI-native business phone platform. One agent. Everywhere.One AI agent answers your calls, runs outbound campaigns and keeps the same conversation going on WhatsApp, email and your website. Same script, same knowledge base, one contact record.What's inside:- Inbound and outbound calls that sound human, in 120 languages- 21 channels: phone, WhatsApp, email, web widget, Slack, Teams, Telegram and more- Loop: a full business phone system (extensions, queues, ring groups) with the agent built in- Milian, our AI copilot: it builds, connects and tests your automations for you- Voice simulations: test your agent with a real call before it goes live- Made in Germany, GDPR-ready, no code, from $0.05/minWhy \"AI-native\"? We didn't bolt AI onto a phone system. The agent is the core, and the phone system, inbox and automations are built around it.We also integrated @Jev to help our agents make decisions during calls. And we ship every day: https://docs.famulor.io/changelog🎁 For the Product Hunt community: 30 free calling minutes. Build your AI agent for free and test it on a real call.One question for you: which channel do your customers actually reply on, and which one does your team never get to?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Awesome stuff! What languages are supported for this currently?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "one agent across calls + whatsapp is the right call, nice work 🙌 how's adoption in the EU so far?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks great! All the best!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "we're building in this space too (phone number for AI agents) so this is close to home. the part I'm always most curious about with \"same conversation, same script across channels\" is what happens when a call and a WhatsApp follow-up from the same lead overlap in real time - does the agent lock state per contact so it doesn't say something on WhatsApp that contradicts what it just told them on the call, or is there a real chance of a timing collision there?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I see you build an automation build in???"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can the voice agent hand a call over to a human when needed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that it can handle calls and WhatsApp follow-ups in the same workflow. That could save a lot of witching between tools."
+        }
+      ]
+    },
+    {
       "id": "ph-today-5",
       "date": "2026-08-12",
       "rank": 5,
@@ -26397,71 +26520,6 @@
         {
           "user": "کاربر ProductHunt 1",
           "text": "سلام به همه! همیشه طرفدار بزرگ @Unsloth هستم — از کدبیس اصلی تا نسخه وب، استفاده از آن همیشه ساده‌تر می‌شود. نسخه دسکتاپ کامل‌ترین نسخه‌ای است که در حال ساخت هستند. همه چیز را در یک برنامه native برای Mac، Windows و Linux بسته‌بندی می‌کند. می‌توانید LLMها، مدل‌های انتشار تصویر/ویدیو و صدا را کاملاً آفلاین اجرا و آموزش دهید بدون اینکه به ترمینال دست بزنید. احتمالاً اولین نسخه Unsloth است که می‌توانم به کسی که مدل‌های محلی را دوست دارد اما نمی‌خواهد AI محلی تبدیل به پروژه‌ای برای آخر هفته شود، توصیه کنم. یک مدل و کوانتیزیشن را انتخاب کنید، دانلود کنید و شروع کنید. همچنین این مدل‌های محلی را خارج از برنامه مفید می‌کند. دستور unsloth start اجازه می‌دهد ابزارهای عامل که قبلاً استفاده می‌کنید، مستقیماً به آن‌ها صدا بزنند. رایگان، متن‌باز و در نهایت یک برنامه دسکتاپ مناسب 🦥"
-        }
-      ]
-    },
-    {
-      "id": "ph-yesterday-4",
-      "date": "2026-10-02",
-      "rank": 4,
-      "name": "Famulor",
-      "slug": "famulor-6",
-      "tagline": "Your agent to answer calls and follow ups on WhatsApp",
-      "description": "Famulor answers calls, runs campaigns and follows up on WhatsApp. GDPR-ready, EU hosting. Try it free.",
-      "category": "Android • Email • Messaging",
-      "categoryFa": "اندروید • ایمیل • پیام‌رسان",
-      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/544c90f5-eeeb-4be7-b917-035bd16bcb1a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/24b9cf66-96a2-485c-b84b-aa186a7e6466.jpeg?auto=format",
-        "https://ph-files.imgix.net/3528fa26-5401-418c-be3e-c6c94c52a04a.png?auto=format",
-        "https://ph-files.imgix.net/b41ab4ff-6811-4d14-a46e-ae68eb72be20.jpeg?auto=format",
-        "https://ph-files.imgix.net/f0c77ca4-6e0b-4050-bcfe-14afcc447691.png?auto=format",
-        "https://ph-files.imgix.net/3533f6ab-a27c-4247-974a-6a1acb80ab51.jpeg?auto=format",
-        "https://ph-files.imgix.net/7557bb5d-fc7a-48ac-a9d8-c06ff881b05b.png?auto=format",
-        "https://ph-files.imgix.net/186f737b-96f1-4d3e-aaa9-90153b54c251.jpeg?auto=format",
-        "https://ph-files.imgix.net/9052bcfa-11f8-4bf1-9d94-43a46bba3703.png?auto=format",
-        "https://ph-files.imgix.net/60eb7f4a-49e6-47b4-b7b9-27854739e01c.png?auto=format",
-        "https://ph-files.imgix.net/71ff4637-7bfa-4446-8082-3650f46df7c3.png?auto=format",
-        "https://ph-files.imgix.net/5c8a5779-17b4-4a71-bec8-b82844640f72.jpeg?auto=format"
-      ],
-      "maker": "Iman Koma",
-      "makerTitle": "Founder of BEK & Talentivo",
-      "featuredAt": "2026-10-02T07:01:00Z",
-      "votes": 228,
-      "websiteUrl": "https://www.producthunt.com/r/QBHP7XRZGWA2R7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Makers & Hunters! 🚀Every business we talked to had the same problem: calls go unanswered, leads go cold overnight, and every channel lives in a different tool.So we built Famulor, the AI-native business phone platform. One agent. Everywhere.One AI agent answers your calls, runs outbound campaigns and keeps the same conversation going on WhatsApp, email and your website. Same script, same knowledge base, one contact record.What's inside:- Inbound and outbound calls that sound human, in 120 languages- 21 channels: phone, WhatsApp, email, web widget, Slack, Teams, Telegram and more- Loop: a full business phone system (extensions, queues, ring groups) with the agent built in- Milian, our AI copilot: it builds, connects and tests your automations for you- Voice simulations: test your agent with a real call before it goes live- Made in Germany, GDPR-ready, no code, from $0.05/minWhy \"AI-native\"? We didn't bolt AI onto a phone system. The agent is the core, and the phone system, inbox and automations are built around it.We also integrated @Jev to help our agents make decisions during calls. And we ship every day: https://docs.famulor.io/changelog🎁 For the Product Hunt community: 30 free calling minutes. Build your AI agent for free and test it on a real call.One question for you: which channel do your customers actually reply on, and which one does your team never get to?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Awesome stuff! What languages are supported for this currently?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "one agent across calls + whatsapp is the right call, nice work 🙌 how's adoption in the EU so far?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks great! All the best!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "we're building in this space too (phone number for AI agents) so this is close to home. the part I'm always most curious about with \"same conversation, same script across channels\" is what happens when a call and a WhatsApp follow-up from the same lead overlap in real time - does the agent lock state per contact so it doesn't say something on WhatsApp that contradicts what it just told them on the call, or is there a real chance of a timing collision there?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I see you build an automation build in???"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can the voice agent hand a call over to a human when needed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that it can handle calls and WhatsApp follow-ups in the same workflow. That could save a lot of witching between tools."
         }
       ]
     },
@@ -27899,6 +27957,66 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-03",
+      "rank": 2,
+      "name": "miso.com",
+      "slug": "miso-com",
+      "tagline": "Book flights and hotels through iMessage",
+      "description": "Stop opening 20 tabs to book a trip. Miso is an AI travel agent in iMessage that finds, books, and manages flights and hotels for you. Just text where you want to go and Miso searches live options, learns your travel preferences, and handles the booking in the same conversation. With direct airline access and 24/7 support, you can go from “I need to be in London Tuesday” to booked without leaving Messages.",
+      "category": "Messaging • Artificial Intelligence • iMessage Apps",
+      "categoryFa": "پیام‌رسان • هوش مصنوعی • iMessage Apps",
+      "url": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3a768d0b-89ac-4465-af20-91611a045de6.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/1ff8840f-b554-47c2-bef5-9f400ce58790.jpeg?auto=format",
+        "https://ph-files.imgix.net/1fafaf20-e104-480e-86f9-6baa59d41685.png?auto=format",
+        "https://ph-files.imgix.net/4d8cf7fe-1a86-418d-81fe-3ecc136ce838.png?auto=format",
+        "https://ph-files.imgix.net/3787d991-f5dc-4202-8ea4-8dd39a486fb0.png?auto=format",
+        "https://ph-files.imgix.net/890ea86a-be18-44dd-8b11-bec0cfb75a55.png?auto=format",
+        "https://ph-files.imgix.net/af389cc9-5174-4fe1-982a-a3a7a1c31592.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 213,
+      "websiteUrl": "https://www.producthunt.com/r/RV2QIX6I3EB5JC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I’m Martin, co-founder of miso.com.Over the past year, startups and frontier models have tried to make travel easier. But travel is more than finding a flight or hotel. It’s navigating points, preferences, loyalty status, and the details that make each trip different. And when plans change, the real complexity begins: travelers need someone immediately who can understand the situation and help get it resolved.What if you could plan a trip by simply texting someone who knew your preferences, and have real support when plans changed?So we built miso.com, your personal AI travel agent on iMessage:Text to Book Flights and Hotels: Compare cash and points options, and access exclusive hotel rates and perks.Personalization at Scale: Miso remembers details like your passport, Known Traveler Number, loyalty programs, and preferences. We can also factor your status into upgrade options.24/7 Support: Our concierge team is available 24/7 to help with changes, cancellations, and anything that comes up during your trip.Product Hunt Launch SpecialWe’re inviting a large handful of Product Hunt users to try miso.com. Let us know if you travel frequently, we’d love to get you started."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can miso book base on budget limit?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "how does it handle more ambiguous scheduling like when you know you want to travel but are flexible when and where?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I am sorry but iMessage? I mean i can’t even reply on that platform and so bad experience why not on WhatsApp?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "when for Android?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the passport and Known Traveler Number storage is the part that'd make me pause before the booking part. does Miso always text you the exact flight and price before charging anything, or can it go ahead and book on its own if it's confident it found what you asked for? I'd want a hard confirm step on the actual charge even if everything upstream is automated."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Martin and the Miso team. Handling changes and cancellations through direct airline integrations, instead of leaving people on hold, is the part most AI travel tools skip. Since you've mentioned EAs among your users, can one assistant run trips for several executives from a single thread, with each person's passport, KTN, status and card kept separate so nothing gets booked on the wrong profile?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Booking through iMessage is a nice idea, no new app to install and it feels like texting a travel agent. How does it handle changes after booking, like moving a flight or cancelling? That's usually where travel tools get painful."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-01",
       "rank": 4,
@@ -28423,66 +28541,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-03",
-      "rank": 2,
-      "name": "miso.com",
-      "slug": "miso-com",
-      "tagline": "Book flights and hotels through iMessage",
-      "description": "Stop opening 20 tabs to book a trip. Miso is an AI travel agent in iMessage that finds, books, and manages flights and hotels for you. Just text where you want to go and Miso searches live options, learns your travel preferences, and handles the booking in the same conversation. With direct airline access and 24/7 support, you can go from “I need to be in London Tuesday” to booked without leaving Messages.",
-      "category": "Messaging • Artificial Intelligence • iMessage Apps",
-      "categoryFa": "پیام‌رسان • هوش مصنوعی • iMessage Apps",
-      "url": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3a768d0b-89ac-4465-af20-91611a045de6.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/1ff8840f-b554-47c2-bef5-9f400ce58790.jpeg?auto=format",
-        "https://ph-files.imgix.net/1fafaf20-e104-480e-86f9-6baa59d41685.png?auto=format",
-        "https://ph-files.imgix.net/4d8cf7fe-1a86-418d-81fe-3ecc136ce838.png?auto=format",
-        "https://ph-files.imgix.net/3787d991-f5dc-4202-8ea4-8dd39a486fb0.png?auto=format",
-        "https://ph-files.imgix.net/890ea86a-be18-44dd-8b11-bec0cfb75a55.png?auto=format",
-        "https://ph-files.imgix.net/af389cc9-5174-4fe1-982a-a3a7a1c31592.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 210,
-      "websiteUrl": "https://www.producthunt.com/r/RV2QIX6I3EB5JC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I’m Martin, co-founder of miso.com.Over the past year, startups and frontier models have tried to make travel easier. But travel is more than finding a flight or hotel. It’s navigating points, preferences, loyalty status, and the details that make each trip different. And when plans change, the real complexity begins: travelers need someone immediately who can understand the situation and help get it resolved.What if you could plan a trip by simply texting someone who knew your preferences, and have real support when plans changed?So we built miso.com, your personal AI travel agent on iMessage:Text to Book Flights and Hotels: Compare cash and points options, and access exclusive hotel rates and perks.Personalization at Scale: Miso remembers details like your passport, Known Traveler Number, loyalty programs, and preferences. We can also factor your status into upgrade options.24/7 Support: Our concierge team is available 24/7 to help with changes, cancellations, and anything that comes up during your trip.Product Hunt Launch SpecialWe’re inviting a large handful of Product Hunt users to try miso.com. Let us know if you travel frequently, we’d love to get you started."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "how does it handle more ambiguous scheduling like when you know you want to travel but are flexible when and where?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I am sorry but iMessage? I mean i can’t even reply on that platform and so bad experience why not on WhatsApp?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "when for Android?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the passport and Known Traveler Number storage is the part that'd make me pause before the booking part. does Miso always text you the exact flight and price before charging anything, or can it go ahead and book on its own if it's confident it found what you asked for? I'd want a hard confirm step on the actual charge even if everything upstream is automated."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Martin and the Miso team. Handling changes and cancellations through direct airline integrations, instead of leaving people on hold, is the part most AI travel tools skip. Since you've mentioned EAs among your users, can one assistant run trips for several executives from a single thread, with each person's passport, KTN, status and card kept separate so nothing gets booked on the wrong profile?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Booking through iMessage is a nice idea, no new app to install and it feels like texting a travel agent. How does it handle changes after booking, like moving a flight or cancelling? That's usually where travel tools get painful."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Booking flights and hotels without leaving iMessage is exactly the kind of thing that removes the twenty tab shuffle, and learning preferences over time should make repeat trips much faster. Direct airline access is the detail that makes me believe the bookings are real. Does it handle changes and cancellations in the same thread?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -30524,7 +30582,67 @@
           "user": "[REDACTED]",
           "text": "I work a day job away from my laptop, so \"before you wake up\" is really \"before I get home\" for me. Last week my bot server showed every process as online for hours while nothing actually ran, because the API credit behind it was empty. No crash, no error, just silence. That's exactly the \"code can't fix it, here's the root cause\" case. Does Polylane catch that kind of silent failure, or does it need an error or alert to start investigating?"
         }
-      ]
+      ],
+      "faDescription": "هیچ‌کس نباید مجبور باشد شیفت آن‌کال (On-Call) و نگران خرابی‌های ناگهانی سیستم باشد. پلی‌لین (Polylane) کدها، زیرساخت‌های ابری و داده‌های نظارتی (Observability) شما را یکپارچه می‌کند تا ایجنت‌های هوش مصنوعی مشکلات پروداکشن را پیش از بیدار شدن شما برطرف کنند. این ابزار با وقوع هر حادثه، علت آن را بررسی کرده و یک پول‌رکوئست (PR) حاوی کد اصلاحی ایجاد می‌کند. همچنین اگر مشکل با تغییر کد قابل حل نباشد، ریشه اصلی بروز خطا به همراه راهکارهای پیشنهادی در اختیار تیم قرار می‌گیرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، من بوریس، بنیان‌گذار Polylane هستم. من قبلاً Baselime را ساختم که یک استارتاپ در زمینه Observability بود و توسط Cloudflare تصاحب شد؛ جایی که بعداً تیم observability سرویس Workers را رهبری می‌کردم. سال‌هاست که از بهترین روش‌های نظارت بر سیستم دفاع کرده‌ام و به توسعه‌دهندگان کمک کرده‌ام برنامه‌های خود را بهتر درک کنند. اما این هنوز کافی نبود و من رنج آن‌کال بودن را بیش از حد دیده‌ام و چشیده‌ام. حالا در حال ساخت Polylane هستم تا مجبور نباشید آن‌کال باشید و ناوگانی از ایجنت‌ها این کار را برای شما انجام دهند. Polylane کد، زیرساخت ابری، داده‌های نظارتی و سیگنال‌های دیگر شما را متصل می‌کند تا درک کند برنامه شما واقعاً چگونه اجرا می‌شود. وقتی خطایی رخ می‌دهد، حادثه را بررسی کرده و یک PR با اصلاحیه پیشنهادی باز می‌کند تا تیم شما بررسی کند. همین کانتکست پروداکشن به شما کمک می‌کند تا: تغییرات پرریسک کد را قبل از رسیدن به پروداکشن شناسایی کنید، پاسخ سوالات پروداکشن را در اسلک دریافت کنید و با استفاده از MCP و CLI به ایجنت‌های کدنویسی خود دسترسی به کانتکست پروداکشن بدهید. تغییرات پروداکشن نیاز به تایید شما دارند و اصلاحات کد از بررسی و CI شما می‌گذرند. می‌توانید همین امروز Polylane را با پلن رایگان امتحان کنید. ابزارهای خود را متصل کنید و به ما بگویید کجای کار کمک می‌کند یا کم می‌آورد. کدام بخش از بررسی یک حادثه را بیشتر دوست دارید تحویل دهید و برای اعتماد به نتیجه به چه مدارکی نیاز دارید؟ من و تیمم برای پاسخ به سوالات اینجا هستیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "پلی‌لین پیش از اینکه بتوان واقعاً به آن اعتماد کرد، به چه میزان کانتکست و زمینه کاری نیاز دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "حل مشکلات پروداکشن قبل از بیدار شدن، واقعاً یک رویاست 🙌 آیا خودش به تنهایی PR را باز می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش «ایجاد پول‌رکوئست با کد اصلاحی» قسمتی است که می‌خواهم بهتر درک کنم؛ آیا اگر CI سبز باشد خودش merge و deploy می‌کند، یا همیشه یک انسان باید PR را قبل از ورود به پروداکشن تایید کند؟ این را می‌پرسم چون برای یک ابزار آن‌کال، خطرناک‌ترین حالت شکست این است که یک اصلاحیه اشتباه با اعتمادبه‌نفس بالا ساعت ۳ صبح بدون بررسی اعمال شود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ما چندین ماه است که تقریباً به صورت تعصبی از Polylane استفاده می‌کنیم. این ابزار تقریبا معجزه‌آساست؛ همیشه در پیدا کردن مشکلات و رفع پیش‌دستانه آن‌ها عالی عمل می‌کند. تیم Polylane نیز بسیار فعال بوده و به بازخوردهای ما گوش داده و تقریباً بلافاصله روی آن‌ها اقدام کرده‌اند که فوق‌العاده است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ما واقعاً تحت تاثیر کیفیت بررسی‌های پیش‌دستانه و PRهایی که Polylane ثبت می‌کند قرار گرفته‌ایم. به محض اینکه کانکتورهای کافی را متصل کردیم (تجربه آنبوردینگ در سطح عالی) و جریان کانتکست برقرار شد، شروع به کار کرد. این اولین ایجنتی است که حس می‌کنم توسعه‌دهنده دیگری در تیم است که به پایداری، نظارت‌پذیری و عملیات اهمیت می‌دهد. برخی از اولین PRها مواردی بودند که در رادار من بودند، اما زمان یا توان اولویت‌بندی آن‌ها را نداشتم. بوریس و تیمش در این حوزه عالی هستند و محصول را به سرعت بهبود می‌بخشند. من بالاخره توانستم بار ذهنی زیادی را از روی دوشم بردارم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بوریس یکی از سازندگان مورد علاقه من است، او هرگز اشتباه نمی‌کند. (ما از Polylane استفاده می‌کنیم)"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من یک شغل روزانه دور از لپ‌تاپم دارم، بنابراین «قبل از بیدار شدن» برای من در واقع یعنی «قبل از رسیدن به خانه». هفته گذشته سرور ربات من ساعت‌ها همه فرآیندها را آنلاین نشان می‌داد در حالی که هیچ‌چیزی اجرا نمی‌شد، چون اعتبار API پشت آن تمام شده بود. هیچ کرش و خطایی وجود نداشت، فقط سکوت. این دقیقاً همان حالت «کد نمی‌تواند آن را حل کند، این علت ریشه‌ای است» می‌باشد. آیا Polylane این نوع شکست‌های خاموش را هم شناسایی می‌کند یا برای شروع بررسی نیاز به یک خطا یا هشدار دارد؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nفشار کاری شیفت‌های آن‌کال (On-Call) و بیدار شدن در نیمه‌شب برای رفع خطاهای پروداکشن یکی از بزرگ‌ترین عوامل دل‌زدگی مهندسان نرم‌افزار است. Polylane با استفاده از ایجنت‌های هوش مصنوعی، خطاهای پروداکشن را پایش کرده، علل ریشه‌ای را ردیابی می‌کند و به جای ارسال فقط یک هشدار ساده، یک Pull Request آماده جهت رفع bug ارائه می‌دهد.\n\n### معماری و تکنولوژی\nاین محصول از پروتکل MCP (Model Context Protocol) و ابزارهای CLI برای اتصال هوش مصنوعی به کانتکست پروداکشن استفاده می‌کند. اتصالات آن به ابزارهای Observability مانند OpenTelemetry، سرویس‌های ابری و مخازن کد (Git) اجازه می‌دهد تصویر کاملی از رفتارهای واقعی سیستم در اختیار ایجنت قرار گیرد.\n\n### مدل درآمدی\nمدل فری‌میوم (Freemium) به همراه پلن‌های تجاری ماهانه بر اساس حجم داده‌های پایش‌شده، تعداد اتصالات (Connectors) و تعداد ایجنت‌های فعال.\n\n### نقاط قوت\n۱. بنیان‌گذار با تجربه و سابقه Exit موفق در حوزه Observability (فروش Baselime به Cloudflare).\n۲. ارائه ارزش واقعی به جای ادعای صرف؛ باز کردن PR اصلاحی به جای صرفاً گزارش خطا.\n۳. حفظ امنیت با شرط نگه‌داشتن انسان در چرخه تایید (Human-in-the-loop).\n\n### نقاط ضعف\n۱. وابستگی شدید به میزان و کیفیت داده‌های Observability موجود در شرکت‌ها.\n۲. ریسک احتمالی ارسال اصلاحیه‌های اشتباه در صورت ناپیوسته بودن کانتکست.\n\n### نکته طلایی برای بازار ایران\nدر بازار ایران به دلیل مهاجرت بالای نیروهای ارشد دواپس، شرکت‌ها با کمبود شدید نیروی آن‌کال مواجهند. ارائه نسخه On-Premises این ابزار با قابلیت اتصال به ابزارهای بومی و متداول مثل GitLab داخلی و Prometheus می‌تواند بازار سازمان‌های بزرگ، بانک‌ها و استارتاپ‌های بزرگ ایرانی را به سرعت فتح کند.",
+      "iranEquivalent": {
+        "productName": "نبض‌کد (NabzCode)",
+        "description": "سامانه بومی نبض‌کد یک دستیار هوشمند برای تیم‌های فنی و دواپس است که داده‌های لاگ و زیرساخت را به کدهای منبع متصل می‌سازد. این پلتفرم به صورت خودکار اختلالات نرم‌افزاری را عیب‌یابی کرده و راهکار اصلاحی را به صورت پیشنهاد تغییر ارائه می‌دهد. با استفاده از این سیستم، نیاز به حضور شبانه‌روزی مهندسان آن‌کال کاهش یافته و پایداری سامانه‌ها تضمین می‌شود.",
+        "marketOpportunity": "با رشد سریع کسب‌وکارهای دیجیتال در ایران و چالش کمبود نیروهای ارشد دواپس، نیاز مبرمی به ابزارهای خودکارسازی عیب‌یابی وجود دارد. این بازار بکر می‌تواند هزینه‌های پشتیبانی و خستگی تیم‌های فنی (Burnout) را در شرکت‌های بزرگ و استارتاپ‌ها به شدت کاهش دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه نرم‌افزار، مهندسان دواپس (DevOps)، مدیران فنی (CTO) و شرکت‌های مقیاس‌بزرگ ایرانی",
+        "challenges": [
+          "مقاومت تیم‌های فنی در برابر اعطای دسترسی هوش مصنوعی به کدها و زیرساخت پروداکشن",
+          "چالش‌های یکپارچه‌سازی با ابزارهای بومی و زیرساخت‌های سنتی یا پرایوت کلود در ایران"
+        ],
+        "monetization": [
+          "فروش حق اشتراک ماهانه/سالانه بر اساس تعداد سرورها و ایجنت‌های فعال",
+          "ارائه نسخه سازمانی در محل (On-Premises) برای بانک‌ها، اپراتورها و سازمان‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "OpenTelemetry",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -32910,7 +33028,60 @@
           "user": "[REDACTED]",
           "text": "Having the same plugin system as the CLI in a desktop app sounds useful. Does it support custom plugin too?"
         }
-      ]
+      ],
+      "faDescription": "دیپ‌سیک هارنس دسکتاپ، اپلیکیشن رسمی مک و ویندوز برای سیستم عامل عامل‌های (Agent Harness) متن‌باز دیپ‌سیک است. با نصب این نرم‌افزار و ورود به حساب کاربری، می‌توانید کارهای روزمره، برنامه‌نویسی و وظایف زمان‌بندی‌شده را به صورت محلی اجرا کنید. این اپلیکیشن از همان سیستم افزونه‌سازی (Plugin System) که در نسخه خط فرمان (CLI) وجود دارد، پشتیبانی می‌کند. این ابزار امکان مدیریت فایل‌ها، مستندات و پروژه‌های کدنویسی را بدون نیاز به ترمینال فراهم می‌آورد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! دیپ‌سیک هارنس قبلاً به صورت خط فرمان (CLI) و رابط کاربری وب وجود داشت. شما باید Node را نصب کرده، دستور npx @deepseek-ai/dsh web را اجرا کنید و از طریق مرورگر کار می‌کردید. حالا یک اپلیکیشن دسکتاپ برای مک و ویندوز وجود دارد. کافیست آن را نصب کنید، با حساب دیپ‌سیک یا کلید API وارد شوید و شروع کنید. فضای کاری، افزونه‌ها، وظایف پس‌زمینه و زمان‌بندی‌شده و تنظیمات «همه چیز یک افزونه است» همگی همراه آن هستند. می‌توانید DSH را کنار سایر اپلیکیشن‌های خود باز بگذارید و برای فایل‌ها، مستندات، کدنویسی، تحقیقات یا کارهای تکراری از آن استفاده کنید، بدون اینکه هر بار از ترمینال شروع کنید. این موضوع استفاده روزمره از DSH را بسیار آسان‌تر می‌کند!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تصمیم خوبی بود که این را به یک اپلیکیشن واقعی تبدیل کردید به جای اینکه فقط CLI باشد. سوالی درباره بخش وظایف زمان‌بندی‌شده دارم - آیا این‌ها به عنوان یک دیمون پس‌زمینه اجرا می‌شوند که پس از ریستارت یا خروج از سیستم زنده می‌مانند، یا اپلیکیشن دسکتاپ باید همیشه باز باشد و کاربر لاگین کرده باشد تا یک شغل زمان‌بندی‌شده اجرا شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک بابت انتشار نسخه دسکتاپ - حفظ مدل افزونه‌های CLI در حالی که وظایف زمان‌بندی‌شده و پس‌زمینه اضافه شده، گامی عملی برای استفاده روزمره به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "منتظرش بودم، ممنون که نسخه دسکتاپ را ساختید. نمی‌توانم صبر کنم تا آن را تست کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "خوشحالم که یک اپلیکیشن دسکتاپ رسمی برای هارنس می‌بینم، اجرای همان سیستم افزونه‌های CLI به صورت محلی یک راحتی واقعی است. یک بار لاگین کردن و سپس اجرای وظایف زمان‌بندی‌شده بدون لمس ترمینال، اصطکاک زیادی را برای استفاده روزانه کاهش می‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دوست دارم بدانم وظایف زمان‌بندی‌شده چگونه عمل می‌کنند وقتی کامپیوتر آفلاین است. آیا به صورت خودکار از سر گرفته می‌شوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "داشتن همان سیستم افزونه‌های CLI در یک اپلیکیشن دسکتاپ مفید به نظر می‌رسد. آیا از افزونه‌های سفارشی (Custom Plugin) هم پشتیبانی می‌کند؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی کاربران، پیچیدگی کار با ابزارهای هوش مصنوعی از طریق ترمینال و نیاز به دانش فنی بالا برای اتوماسیون کارهای روزمره است. راه‌حل ارائه‌شده، یک رابط کاربری گرافیکی (GUI) برای اجرای محلی عامل‌های هوشمند است که امکان مدیریت فایل‌ها، کدنویسی و وظایف زمان‌بندی‌شده را بدون نیاز به خط فرمان فراهم می‌کند. از نظر معماری، این محصول بر پایه سیستم افزونه‌محور (Plugin-based) بنا شده که انعطاف‌پذیری بالایی برای توسعه قابلیت‌های جدید ایجاد می‌کند و از تکنولوژی‌های دسکتاپ مدرن برای اجرا در مک و ویندوز استفاده می‌کند. مدل درآمدی احتمالی شامل فروش لایسنس B۲B و اشتراک‌های سازمانی برای دسترسی به مدل‌های قوی‌تر است. نقاط قوت اصلی شامل حفظ داده‌ها در محیط محلی (حریم خصوصی)، یکپارچگی با اکوسیستم CLI موجود و کاهش اصطکاک در استفاده روزمره است. نقاط ضعف شامل وابستگی به سخت‌افزار قوی برای اجرای محلی مدل‌ها و چالش‌های مربوط به مدیریت وظایف پس‌زمینه در صورت خاموش شدن سیستم است. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری خارجی، توسعه نسخه‌ای از این محصول که از مدل‌های هوش مصنوعی متن‌باز داخلی یا محلی (مانند Llama یا Qwen) پشتیبانی کند و قابلیت اجرای آفلاین کامل داشته باشد، می‌تواند یک مزیت رقابتی بزرگ برای سازمان‌های ایرانی باشد.",
+      "iranEquivalent": {
+        "productName": "دستیار هوشمند سازمانی آریا",
+        "description": "این محصول یک پلتفرم دسکتاپ برای اجرای خودکار وظایف اداری و فنی با استفاده از هوش مصنوعی است. کاربران می‌توانند با نصب نرم‌افزار، فایل‌های محلی خود را پردازش کرده و کارهای تکراری را زمان‌بندی کنند. این ابزار با حفظ امنیت داده‌ها در محیط محلی، نیاز به ابر را کاهش می‌دهد.",
+        "marketOpportunity": "بازار ایران به شدت به ابزارهای اتوماسیون هوشمند نیاز دارد که بتوانند بدون وابستگی به سرویس‌های خارجی کار کنند. وجود محدودیت‌های اینترنتی، تقاضا برای راه‌حل‌های محلی (On-Premise) را افزایش داده است.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری، تیم‌های توسعه‌دهنده نرم‌افزار و سازمان‌هایی که نیاز به پردازش محلی داده‌های حساس دارند.",
+        "challenges": [
+          "نیاز به سخت‌افزار قوی برای اجرای مدل‌های هوش مصنوعی به صورت محلی",
+          "چالش‌های مربوط به به‌روزرسانی مدل‌ها در شرایط محدودیت اینترنت"
+        ],
+        "monetization": [
+          "فروش لایسنس سالانه به سازمان‌ها",
+          "ارائه خدمات پشتیبانی و پیاده‌سازی اختصاصی"
+        ],
+        "techStack": [
+          "Electron",
+          "Python",
+          "FastAPI"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -33488,6 +33659,58 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-10-03",
+      "rank": 3,
+      "name": "Prefer",
+      "slug": "prefer-2",
+      "tagline": "The execution layer for AEO",
+      "description": "AEO should not be another dashboard. Prefer works at the execution layer, helping brands understand how ChatGPT, Claude, Gemini and Perplexity talk about them, identify where they are missing, and take action to improve their visibility. Turn AI search insights into action with autonomous agents. Less reporting. More doing.",
+      "category": "Marketing • SEO • Search",
+      "categoryFa": "بازاریابی • سئو • Search",
+      "url": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/483e53ba-0bc7-4120-9e86-3ba498fd832f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f58b510d-b6e6-4406-a796-4a709e55a413.jpeg?auto=format",
+        "https://ph-files.imgix.net/5493c1b1-f243-4ab6-8017-7bfe2312183c.jpeg?auto=format",
+        "https://ph-files.imgix.net/7aedb49d-5f4c-4d9c-a8a1-e2c06f06f7de.png?auto=format",
+        "https://ph-files.imgix.net/7c19e3db-618d-49ef-8915-f0ddb5543334.png?auto=format",
+        "https://ph-files.imgix.net/2dfed3c6-86d4-4c51-b6c3-51e6601350dd.png?auto=format",
+        "https://ph-files.imgix.net/a0262480-e30d-4f44-9a63-26cb9209a089.png?auto=format",
+        "https://ph-files.imgix.net/e7b7c11b-5803-44ea-8917-e08cfac976c9.png?auto=format",
+        "https://ph-files.imgix.net/b1b8b01d-582b-4a13-9704-acbe8a6691be.png?auto=format",
+        "https://ph-files.imgix.net/a5441055-cb01-4741-826f-da914eea9bac.png?auto=format",
+        "https://ph-files.imgix.net/b0b9c7c5-285e-41d1-8899-6eb1753140f8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 168,
+      "websiteUrl": "https://www.producthunt.com/r/7BOKASBUEQX4KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "We built Prefer because we realized brands have two users now. There is the human who buys, and the model that recommends. For 25 years, we learned how to market to the first one. Now ChatGPT, Gemini, Perplexity and other AI engines are making decisions before a buyer ever reaches your website. We went looking for a tool that could show us what these models were saying about a brand and then actually help change it. It did not exist. So we built Prefer. The idea is simple: measuring the gap is the easy half. Closing it is the product. Prefer does not just tell you where you are missing. It helps do the on-page, content and off-page work needed to win the citation. Less dashboards. More action. We are early, bootstrapped, and building this with our users. Would love to hear what you think."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey, just want to let you know my account is in softlock (can't get to a page without a failure). Your support email doesn't work either. account email is jordan@jordangibbs.xyz"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Javed and the Prefer team. Tying each Action Center fix to the prompts it should move is the right shape. The launch copy leads with Claude, but the pricing page only lists Claude Sonnet 4 via API on Enterprise, so is Claude tracking coming to self-serve tiers? Lots of B2B buyers research vendors in Claude, and API answers can differ from what people see in the app."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Treating AEO as something you act on rather than another dashboard to read is the right instinct, since most brands know they are invisible in AI answers but not what to do about it. Checking how ChatGPT, Claude, Gemini and Perplexity each describe a brand is a practical angle. Curious how you measure whether the actions actually moved visibility."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! How do you tell if an action actually moved a brand's visibility? Model answers change a lot between runs, so I'm curious how you separate real lift from noise."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -34264,54 +34487,6 @@
         "confidence": 80
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nمحصول Progress AI Observability به تیم‌های مهندسی کمک می‌کند تا بتوانند عملکرد هوش مصنوعی خود را در محیط تولید ردیابی، ارزیابی و بهبود بخشند. این محصول با ارائه قابلیت‌های ردیابی، ارزیابی و بهبود، به تیم‌ها کمک می‌کند تا بتوانند مشکلات و اشکالات را به سرعت شناسایی و حل کنند.\n🔹 معماری و تکنولوژی احتمالی:\nاین محصول از زبان‌های NET، Python و JavaScript پشتیبانی می‌کند و دارای یک برنامه رایگان است. همچنین، از فناوری‌های ردیابی و ارزیابی پیشرفته استفاده می‌کند.\n🔹 مدل درآمدی:\nاین محصول می‌تواند از طریق فروش به شرکت‌ها و سازمان‌ها و همچنین ارائه خدمات پشتیبانی و آموزش به مشتریان، درآمدزایی کند.\n🔹 نقاط قوت:\n- ارائه قابلیت‌های ردیابی، ارزیابی و بهبود\n- پشتیبانی از زبان‌های برنامه‌نویسی مختلف\n- دارای یک برنامه رایگان\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با محصولات مشابه خارجی\n- نیاز به آموزش و پشتیبانی مناسب\n- نیاز به سازگاری با زبان‌های برنامه‌نویسی مختلف\n🔹 نکته طلایی برای بازار ایران:\nاین محصول می‌تواند به تیم‌های مهندسی و توسعه‌دهندگان هوش مصنوعی در ایران کمک کند تا بتوانند عملکرد هوش مصنوعی خود را در محیط تولید ردیابی، ارزیابی و بهبود بخشند و از تکرار اشتباهات جلوگیری کنند."
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-03",
-      "rank": 3,
-      "name": "Prefer",
-      "slug": "prefer-2",
-      "tagline": "The execution layer for AEO",
-      "description": "AEO should not be another dashboard. Prefer works at the execution layer, helping brands understand how ChatGPT, Claude, Gemini and Perplexity talk about them, identify where they are missing, and take action to improve their visibility. Turn AI search insights into action with autonomous agents. Less reporting. More doing.",
-      "category": "Marketing • SEO • Search",
-      "categoryFa": "بازاریابی • سئو • Search",
-      "url": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/483e53ba-0bc7-4120-9e86-3ba498fd832f.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f58b510d-b6e6-4406-a796-4a709e55a413.jpeg?auto=format",
-        "https://ph-files.imgix.net/5493c1b1-f243-4ab6-8017-7bfe2312183c.jpeg?auto=format",
-        "https://ph-files.imgix.net/7aedb49d-5f4c-4d9c-a8a1-e2c06f06f7de.png?auto=format",
-        "https://ph-files.imgix.net/7c19e3db-618d-49ef-8915-f0ddb5543334.png?auto=format",
-        "https://ph-files.imgix.net/2dfed3c6-86d4-4c51-b6c3-51e6601350dd.png?auto=format",
-        "https://ph-files.imgix.net/a0262480-e30d-4f44-9a63-26cb9209a089.png?auto=format",
-        "https://ph-files.imgix.net/e7b7c11b-5803-44ea-8917-e08cfac976c9.png?auto=format",
-        "https://ph-files.imgix.net/b1b8b01d-582b-4a13-9704-acbe8a6691be.png?auto=format",
-        "https://ph-files.imgix.net/a5441055-cb01-4741-826f-da914eea9bac.png?auto=format",
-        "https://ph-files.imgix.net/b0b9c7c5-285e-41d1-8899-6eb1753140f8.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 162,
-      "websiteUrl": "https://www.producthunt.com/r/7BOKASBUEQX4KI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "We built Prefer because we realized brands have two users now. There is the human who buys, and the model that recommends. For 25 years, we learned how to market to the first one. Now ChatGPT, Gemini, Perplexity and other AI engines are making decisions before a buyer ever reaches your website. We went looking for a tool that could show us what these models were saying about a brand and then actually help change it. It did not exist. So we built Prefer. The idea is simple: measuring the gap is the easy half. Closing it is the product. Prefer does not just tell you where you are missing. It helps do the on-page, content and off-page work needed to win the citation. Less dashboards. More action. We are early, bootstrapped, and building this with our users. Would love to hear what you think."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Javed and the Prefer team. Tying each Action Center fix to the prompts it should move is the right shape. The launch copy leads with Claude, but the pricing page only lists Claude Sonnet 4 via API on Enterprise, so is Claude tracking coming to self-serve tiers? Lots of B2B buyers research vendors in Claude, and API answers can differ from what people see in the app."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Treating AEO as something you act on rather than another dashboard to read is the right instinct, since most brands know they are invisible in AI answers but not what to do about it. Checking how ChatGPT, Claude, Gemini and Perplexity each describe a brand is a practical angle. Curious how you measure whether the actions actually moved visibility."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! How do you tell if an action actually moved a brand's visibility? Model answers change a lot between runs, so I'm curious how you separate real lift from noise."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -35175,6 +35350,50 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-10-03",
+      "rank": 4,
+      "name": "Muse Gadgets",
+      "slug": "muse-gadgets",
+      "tagline": "Meta's open-source kit for building your own AI gadgets",
+      "description": "Muse Gadgets is Meta's open-source hardware toolkit for bringing Muse into the physical world. Connect an ESP32, Raspberry Pi, or Linux device to displays, microphones, speakers, buttons, sensors, and more, then let Muse interact through the hardware you build. Make a pocket AI companion, e-ink briefing display, smart-home controller, TV interface, or something entirely your own. SDKs and firmware are open source under Apache 2.0.",
+      "category": "Open Source • Hardware • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • Hardware • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f79f1415-f9d1-4073-bbb2-3cf23acc7e13.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/73609543-4268-4072-8958-bc3154547f5d.jpeg?auto=format",
+        "https://ph-files.imgix.net/2436fa47-f58a-4f68-9b21-cb2adf1ad9b3.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 157,
+      "websiteUrl": "https://www.producthunt.com/r/4J7IZNCDREAZMO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Meta just open-sourced the hardware side of @Muse by Meta , and this looks like a lot of fun.Muse Gadgets lets you take an ESP32, Raspberry Pi, or Linux device and basically build your own physical interface for Muse — add a screen, mic, speaker, buttons, sensors, whatever you want.They've already got examples like an e-ink morning briefing display, pocket-size Muse, TV stick, and Home Assistant setup.Meta also made its own little Home Link device for connecting Muse to things around your house.Very curious to see what hardware people build with this."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Where do you see the biggest possible opportunity for this project? Personal AI devices, smart home integrations, or smth more completely new? Maybe like new hardware categories"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "👏🏻👏🏻👏🏻"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "An open hardware kit for ESP32 and Raspberry Pi that lets Muse talk through real displays, mics, and sensors is a genuinely fun idea. Pocket companions and e-ink briefing displays are exactly the kind of small projects people will actually finish. Nice that it starts from parts most makers already own."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Opening up the hardware is a good move, I think. Most of the fun stuff will come from random people with a Pi and too much free time"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -36753,50 +36972,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-03",
-      "rank": 4,
-      "name": "Muse Gadgets",
-      "slug": "muse-gadgets",
-      "tagline": "Meta's open-source kit for building your own AI gadgets",
-      "description": "Muse Gadgets is Meta's open-source hardware toolkit for bringing Muse into the physical world. Connect an ESP32, Raspberry Pi, or Linux device to displays, microphones, speakers, buttons, sensors, and more, then let Muse interact through the hardware you build. Make a pocket AI companion, e-ink briefing display, smart-home controller, TV interface, or something entirely your own. SDKs and firmware are open source under Apache 2.0.",
-      "category": "Open Source • Hardware • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • Hardware • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f79f1415-f9d1-4073-bbb2-3cf23acc7e13.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/73609543-4268-4072-8958-bc3154547f5d.jpeg?auto=format",
-        "https://ph-files.imgix.net/2436fa47-f58a-4f68-9b21-cb2adf1ad9b3.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 151,
-      "websiteUrl": "https://www.producthunt.com/r/4J7IZNCDREAZMO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Meta just open-sourced the hardware side of @Muse by Meta , and this looks like a lot of fun.Muse Gadgets lets you take an ESP32, Raspberry Pi, or Linux device and basically build your own physical interface for Muse — add a screen, mic, speaker, buttons, sensors, whatever you want.They've already got examples like an e-ink morning briefing display, pocket-size Muse, TV stick, and Home Assistant setup.Meta also made its own little Home Link device for connecting Muse to things around your house.Very curious to see what hardware people build with this."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Where do you see the biggest possible opportunity for this project? Personal AI devices, smart home integrations, or smth more completely new? Maybe like new hardware categories"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "👏🏻👏🏻👏🏻"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "An open hardware kit for ESP32 and Raspberry Pi that lets Muse talk through real displays, mics, and sensors is a genuinely fun idea. Pocket companions and e-ink briefing displays are exactly the kind of small projects people will actually finish. Nice that it starts from parts most makers already own."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Opening up the hardware is a good move, I think. Most of the fun stuff will come from random people with a Pi and too much free time"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -39567,6 +39742,49 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-03",
+      "rank": 5,
+      "name": "Kindle 2026",
+      "slug": "kindle-2026",
+      "tagline": "A smaller, faster Kindle with a flush-front display",
+      "description": "Kindle 2026 is Amazon’s redesigned 6-inch e-reader, now smaller and lighter with 30% faster book opening and a flush-front display. It also comes in a new 32GB aluminum version for the first time.",
+      "category": "eBook Reader • Hardware • Books",
+      "categoryFa": "eBook Reader • Hardware • کتاب",
+      "url": "https://www.producthunt.com/products/kindle-2026?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/0fec436e-2417-4f4c-835f-33986c10e9e6.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d57fa15b-f5ce-44cf-a146-559f24340332.jpeg?auto=format",
+        "https://ph-files.imgix.net/59b811c6-4090-4736-aac9-7d9e79c921da.png?auto=format",
+        "https://ph-files.imgix.net/cffac5db-d413-4215-8811-db97fda450dc.png?auto=format",
+        "https://ph-files.imgix.net/8b3b69b6-f703-439e-94e1-949859f6726c.jpeg?auto=format",
+        "https://ph-files.imgix.net/aa193ab0-b6b8-4200-86b6-65f529ce48e2.jpeg?auto=format",
+        "https://ph-files.imgix.net/a2f9c61d-c265-4a33-b2bd-12754260134b.jpeg?auto=format",
+        "https://ph-files.imgix.net/b198fc10-e570-4ea5-a16e-bd9f00c74fa2.jpeg?auto=format",
+        "https://ph-files.imgix.net/9fd1ca22-95bd-456b-9183-2c38a0733300.jpeg?auto=format",
+        "https://ph-files.imgix.net/620b6ab4-6236-4a07-ba42-7dd46249a732.jpeg?auto=format",
+        "https://ph-files.imgix.net/a0b6f792-702f-4ae0-b51a-500f7fb1936c.jpeg?auto=format",
+        "https://ph-files.imgix.net/cbd1002c-36fe-4f5d-99b4-1ccb23abb208.jpeg?auto=format",
+        "https://ph-files.imgix.net/532c62da-4983-415b-af02-613c0097bb1d.jpeg?auto=format",
+        "https://ph-files.imgix.net/fa4af68d-e326-4552-ad98-b8da5c57d8d6.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 139,
+      "websiteUrl": "https://www.producthunt.com/r/2FVYYMWPUAJ4O6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone!This is the new 6-inch Kindle for 2026. It is smaller and lighter, opens books 30% faster, and finally gets a flush-front screen. There is also a 32GB aluminum version for the first time.Amazon refreshed the Paperwhite and Colorsoft at the same time, with thinner bodies, updated displays, and more aluminum options across the lineup.And page-turn buttons are back... sort of. There is now a Bluetooth Kindle Click, plus a Page-Turn Cover with physical buttons for the Paperwhite Signature Edition and Colorsoft Signature Edition.The basic Kindle still has no warm light or waterproofing.Oh, I really miss the Voyage..."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "no warm light on the base model in 2026 is a strange corner to still be cutting, that's such a cheap component relative to everything else they upgraded. the separate Bluetooth Click accessory is a clever workaround for page-turn buttons though, since it doesn't force everyone to pay for the Signature Edition cover just to get a physical button back. still holding onto my Voyage too, the haptic zones were genuinely better than anything since."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-09-27",
       "rank": 7,
@@ -39739,49 +39957,6 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
-      "id": "ph-today-5",
-      "date": "2026-10-03",
-      "rank": 5,
-      "name": "Kindle 2026",
-      "slug": "kindle-2026",
-      "tagline": "A smaller, faster Kindle with a flush-front display",
-      "description": "Kindle 2026 is Amazon’s redesigned 6-inch e-reader, now smaller and lighter with 30% faster book opening and a flush-front display. It also comes in a new 32GB aluminum version for the first time.",
-      "category": "eBook Reader • Hardware • Books",
-      "categoryFa": "eBook Reader • Hardware • کتاب",
-      "url": "https://www.producthunt.com/products/kindle-2026?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/0fec436e-2417-4f4c-835f-33986c10e9e6.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d57fa15b-f5ce-44cf-a146-559f24340332.jpeg?auto=format",
-        "https://ph-files.imgix.net/59b811c6-4090-4736-aac9-7d9e79c921da.png?auto=format",
-        "https://ph-files.imgix.net/cffac5db-d413-4215-8811-db97fda450dc.png?auto=format",
-        "https://ph-files.imgix.net/8b3b69b6-f703-439e-94e1-949859f6726c.jpeg?auto=format",
-        "https://ph-files.imgix.net/aa193ab0-b6b8-4200-86b6-65f529ce48e2.jpeg?auto=format",
-        "https://ph-files.imgix.net/a2f9c61d-c265-4a33-b2bd-12754260134b.jpeg?auto=format",
-        "https://ph-files.imgix.net/b198fc10-e570-4ea5-a16e-bd9f00c74fa2.jpeg?auto=format",
-        "https://ph-files.imgix.net/9fd1ca22-95bd-456b-9183-2c38a0733300.jpeg?auto=format",
-        "https://ph-files.imgix.net/620b6ab4-6236-4a07-ba42-7dd46249a732.jpeg?auto=format",
-        "https://ph-files.imgix.net/a0b6f792-702f-4ae0-b51a-500f7fb1936c.jpeg?auto=format",
-        "https://ph-files.imgix.net/cbd1002c-36fe-4f5d-99b4-1ccb23abb208.jpeg?auto=format",
-        "https://ph-files.imgix.net/532c62da-4983-415b-af02-613c0097bb1d.jpeg?auto=format",
-        "https://ph-files.imgix.net/fa4af68d-e326-4552-ad98-b8da5c57d8d6.jpeg?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 137,
-      "websiteUrl": "https://www.producthunt.com/r/2FVYYMWPUAJ4O6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone!This is the new 6-inch Kindle for 2026. It is smaller and lighter, opens books 30% faster, and finally gets a flush-front screen. There is also a 32GB aluminum version for the first time.Amazon refreshed the Paperwhite and Colorsoft at the same time, with thinner bodies, updated displays, and more aluminum options across the lineup.And page-turn buttons are back... sort of. There is now a Bluetooth Kindle Click, plus a Page-Turn Cover with physical buttons for the Paperwhite Signature Edition and Colorsoft Signature Edition.The basic Kindle still has no warm light or waterproofing.Oh, I really miss the Voyage..."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "no warm light on the base model in 2026 is a strange corner to still be cutting, that's such a cheap component relative to everything else they upgraded. the separate Bluetooth Click accessory is a clever workaround for page-turn buttons though, since it doesn't force everyone to pay for the Signature Edition cover just to get a physical button back. still holding onto my Voyage too, the haptic zones were genuinely better than anything since."
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-7",
       "date": "2026-10-01",
       "rank": 7,
@@ -39835,7 +40010,63 @@
           "user": "[REDACTED]",
           "text": "I spend enough time in terminals that I can see myself finding this useful."
         }
-      ]
+      ],
+      "faDescription": "یک نوار وضعیت برای هر ترمینال. این ابزار به‌صورت مستقل از شل و ویرایشگر ترمینال عمل می‌کند و می‌تواند در هر محیطی نصب شود. با نمایش وضعیت‌های مهم مانند کد خروج، وضعیت کارها و سایر اطلاعات، کاربر را در طول کارهای طولانی‌تر یاری می‌کند. طراحی ساده و قابل تنظیم آن را برای توسعه‌دهندگان و کاربران حرفه‌ای جذاب می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "عاشق این هستم که بدون وابستگی به شل خاص باشد و نه به فرمت پیکربندی یک شل‌ایمولاتور. آیا کد خروج یا وضعیت کارها را با پوشش دادن شل خودش می‌خواند، یا باید یک قطعه کوچک را در فایل rc شل خود فراخوانی کنید تا به رویدادهای پرامپت/کار متصل شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "عالی است که بدانیم روزانه در نوار وضعیت چه چیزهایی اجرا می‌کنید! آیا آسان است که اطلاعات سفارشی مانند شاخه‌های گیت، زمینه فعال کلاستر K۸s یا بار پردازش را به آن وصل کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "وای، این ایده ساده اما واقعاً جذاب است. می‌خواهم بدانم چگونه با Warp و Ghostty کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "یک نوار وضعیت که در هر ترمینالی کار کند، ایده‌ای واقعاً مفید است، به‌ویژه برای ساخت‌های طولانی که می‌خواهید پیشرفت را بدون تغییر پنجره مشاهده کنید. ساده و کاربردی، همان بهترین نوع ابزار است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "قبل از دیدن این، اصلاً به نوار وضعیت برای ترمینال فکر نکرده بودم. حالا در حال بررسی هستم که دقیقاً چه چیزی را می‌خواهم نمایش دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "رایگان و متن‌باز بودن این ابزار را برای آزمایش بسیار ساده می‌کند. کنجکاو هستم بدانم بعد از اینجا به کجا می‌روید."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی است که بدانم مردم معمولاً چه چیزهایی را در نوار قرار می‌دهند. چند مورد وجود دارد که می‌خواهم در حین کار در ترمینال قابل مشاهده باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من زمان کافی را در ترمینال‌ها می‌گذرانم که می‌توانم خود را در حال استفاده از این ابزار ببینم."
+        }
+      ],
+      "aiReview": "مسئله: کاربران ترمینال به ابزارهایی نیاز دارند که بتوانند وضعیت جاری، کد خروج، و اطلاعات مهم دیگر را بدون تغییر محیط یا شل مشاهده کنند. راه‌حل: StatusBar یک نوار وضعیت مستقل از شل است که در هر ترمینالی قابل نصب و تنظیم می‌باشد. معماری: اپلیکیشن وب‌پایه با Next.js در سمت کلاینت، APIهای ساده در سمت سرور، و ذخیره‌سازی وضعیت در PostgreSQL. تکنولوژی: استفاده از WebSocket برای بروزرسانی لحظه‌ای، پلاگین‌های جاوااسکریپت برای گیت، K۸s، و CPU. مدل درآمدی: اشتراک ماهانه برای ویژگی‌های پیشرفته، فروش افزونه‌های سفارشی. نقاط قوت: ساده، قابل تنظیم، متن‌باز، پشتیبانی از چندین شل. نقاط ضعف: نیاز به نصب در هر ترمینال، ممکن است در برخی ویرایشگرهای خاص محدودیت داشته باشد. نکته طلایی برای ایران: تمرکز بر جامعه توسعه‌دهندگان و مهندسان DevOps، ارائه آموزش‌های فارسی و مستندات، و ایجاد بازار داخلی برای افزونه‌های سفارشی.",
+      "iranEquivalent": {
+        "productName": "StatusBar",
+        "description": "StatusBar یک نوار وضعیت ساده و قدرتمند است که در هر ترمینالی قابل نصب می‌باشد. این ابزار به‌صورت مستقل از شل و ویرایشگر ترمینال عمل می‌کند و می‌تواند اطلاعات مهمی مانند وضعیت کارها، کد خروج و سایر متغیرهای محیطی را نمایش دهد. طراحی آن به گونه‌ای است که قابل تنظیم و گسترش برای نیازهای خاص کاربران باشد.",
+        "marketOpportunity": "بازار ابزارهای کمکی برای ترمینال در ایران در حال رشد است، به‌ویژه در میان توسعه‌دهندگان و مهندسان DevOps. با ارائه یک نوار وضعیت ساده و قابل تنظیم، می‌توان نیازهای روزمره این جامعه را برطرف کرد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کاربران حرفه‌ای ترمینال، توسعه‌دهندگان نرم‌افزار، مهندسان DevOps و تیم‌های توسعه نرم‌افزار",
+        "challenges": [
+          "پشتیبانی از تمام شل‌های محبوب و ویرایشگرهای ترمینال مختلف",
+          "یکپارچه‌سازی با ابزارهای مختلف مانند Git و Kubernetes در محیط‌های مختلف"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای ویژگی‌های پیشرفته و پشتیبانی",
+          "فروش افزونه‌های سفارشی برای شرکت‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -44007,7 +44238,33 @@
           "user": "[REDACTED]",
           "text": "the yoursite.com/help part is the detail I'd want to understand before buying a lifetime deal. is that a reverse proxy you run that serves live from chat.sh, or does it actually write static files into my site's repo/folder? makes a real difference for what happens to my help center years from now if chat.sh the company doesn't make it - static files I own outright are a very different risk than a proxy pointed at someone else's server."
         }
-      ]
+      ],
+      "faDescription": "Chat.sh مرکز کمکی است که بعد از خرابی جستجوی Intercom ساخته شد. این محصول یک جستجوی هوش مصنوعی است که پاسخ را می‌نویسد و منابع را ذکر می‌کند. در پوشه‌ی help سایت شما قرار می‌گیرد و به صورت فایل‌های مارک‌داون قابل دسترسی است. پرداخت یک‌بار، بدون اشتراک، و امکاناتی مانند چت‌برنامه و صندوق پشتیبانی در آینده اضافه می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "Hey Product Hunt 👋 دو هفته پیش وقتی «چه هزینه‌ای دارد؟» را در مرکز کمکی Intercom جستجو کردم، فقط «the» را پیدا کرد. 🤦‍♂️ در سال ۲۰۲۶ هنوز جستجوی مرکز کمکی بر اساس کلیدواژه کار می‌کرد. توییت کردم، Intercom اعلام کرد که این یک اشکال است، و گفتم: اگر در ۷ روز اصلاح نشود، خودم می‌سازم. در روز چهارم، محصولی داشتم. این chat.sh بود. من مرکز کمکی testimonial.to را به آن منتقل کردم (در دسترس در testimonial.to/guide) و اکنون هر روز از آن استفاده می‌کنم. تفاوت آن: 🔍 جستجو سؤال را می‌خواند و پاسخ می‌نویسد، با لینک به مقالاتی که از آن‌ها آمده. 📁 در پوشه‌ای روی سایت شما قرار می‌گیرد، نه زیر دامنه. 🔗 URLها قابل خواندن برای انسان هستند و برای هر مقاله کارت پیش‌نمایش وجود دارد. 🤖 هر صفحه می‌تواند به صورت مارک‌داون کپی شود یا در ChatGPT یا Claude باز شود، و همچنین llms.txt برای نماینده‌ها. در آینده: یک چت‌برنامه که همان پاسخ‌ها را در داخل اپ شما می‌دهد، سپس صندوق پشتیبانی. قیمت: پرداخت یک‌بار، بدون اشتراک. 💳 ۳۹۹ دلار (فقط برای الان): ۱۰۰۰ اعتبار هوش مصنوعی در ماه، ۳ همکار، ۳ صندلی صندوق. 💳 ۷۹۹ دلار (فقط برای الان): ۵۰۰۰ اعتبار هوش مصنوعی در ماه، ۵ همکار، ۵ صندلی صندوق. هر بار که بخش بعدی را می‌فرستیم، قیمت ۱۰۰ دلار افزایش می‌یابد. امروز خرید کنید و چت‌برنامه و صندوق را وقتی می‌آیند، بدون پرداخت مجدد دریافت کنید. مشتاقم نظرات شما را بشنوم، مخصوصاً اگر تا به حال مرکز کمکی خود را جستجو کرده‌اید و چیزی پیدا نکرده‌اید. در chat.sh/help امتحان کنید و هر چیزی را بپرسید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "Congrats Damon!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "جزء yoursite.com/help جزئیه‌ای است که قبل از خرید معامله مادام‌العمر می‌خواستم بفهمم. آیا این یک رورس پروکسی است که شما اجرا می‌کنید و از chat.sh به صورت زنده سرو می‌شود، یا واقعا فایل‌های استاتیک را در مخزن/پوشه سایت من می‌نویسد؟ این تفاوت واقعی برای آینده مرکز کمکی من دارد؛ اگر شرکت chat.sh آن را نداشته باشد، فایل‌های استاتیک که من مالک آن هستم، ریسک کاملاً متفاوتی نسبت به پروکسی به سرور شخص دیگری دارند."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "",
+        "description": "",
+        "marketOpportunity": "",
+        "estimatedBudget": "",
+        "targetAudience": "",
+        "challenges": [],
+        "monetization": [],
+        "techStack": [],
+        "confidence": 0
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -47364,7 +47621,54 @@
           "user": "[REDACTED]",
           "text": "Hi Daniel, my spreadsheets tend to die in a browser tab where nobody sees them. Making numbers folks stop and read, that'd win me over. it's neat work ;)"
         }
-      ]
+      ],
+      "faDescription": "دیپ‌استوری (Datastory) یک پلتفرم بدون کد برای راویان داده و تمامی افرادی است که می‌خواهند آمار و ارقام را به داستان‌های جذاب تبدیل کنند. این سامانه به کاربران اجازه می‌دهد با بهره‌گیری از هوش مصنوعی، نمودارهای تعاملی، وب‌سایت‌ها و گزارش‌های تحلیلی خیره‌کننده بسازند. همچنین کاربران می‌توانند به کاتالوگ رو به رشدی از داده‌های آزاد جهانی دسترسی داشته باشند یا داده‌های اختصاصی خود را وارد نمایند. هدف این ابزار، ساده‌سازی و سرعت‌بخشی به فرآیند انتقال مفاهیم پیچیده داده‌ای به عموم مخاطبان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت! دنیل هستم، بنیان‌گذار دیپ‌استوری. من تمام مسیر شغلی خود را صرف قابل‌فهم و کاربردی کردن داده‌ها کرده‌ام؛ از انیمیشن‌سازی سخنرانی‌های TED هانس روسلینگ در Gapminder گرفته تا ساخت پلتفرم‌های داده برای صلیب سرخ، بخش آمار سازمان ملل، مؤسسه بروکینگز و ثبت‌های ملی بهداشت سوئد. هر پروژه همین موضوع را به من نشان داد: سازمان‌ها پلتفرم‌های مشابهی را از صفر و با هزینه سنگین می‌ساختند. ارتباط تصویری خوب با داده‌ها همچنان کاری کند، گران و نیازمند متخصص بود. ما دیپ‌استوری را به عنوان یک سازمان غیرانتفاعی، با انتشار روزنامه‌نگاری داده و ساخت ابزارهای خودمان شروع کردیم چون هیچ ابزار دیگری به اندازه کافی سریع نبود. به مرور زمان، این ابزارها تبدیل به خود محصول شدند که اکنون توسط نهادهای عمومی، پژوهشگران و تحریریه‌های خبری استفاده می‌شوند. داده‌های خودتان را بیاورید یا از کاتالوگ داده‌های آزاد ما استفاده کنید و نمودارهای تعاملی منتشر کنید که می‌توانید هر جایی جاسازی (Embed) کنید. هوش مصنوعی پیش‌نویس می‌سازد و شما آن را ویرایش می‌کنید؛ بدون نیاز به کدنویسی. طرح رایگان امکان تست تمام قابلیت‌ها را می‌دهد. آن را امتحان کنید و نظرتان را بگویید. تمام روز اینجا هستیم. پ.ن: ما هفتگی قالب‌ها و داده‌های آزاد بیشتری اضافه می‌کنیم. برای فرصت‌های بیشتر ما را در لینکدین دنبال کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام به تیم دیپ‌استوری. در نسخه موبایل، هیچ راهی برای افزودن یک شاخص از بخش 'مرور داده‌ها' به پرامپت وجود ندارد. می‌توانید شاخص را انتخاب کنید، اما دکمه 'Add to prompt' در پنل پیش‌نمایش قرار دارد و آن پنل در صفحه‌های کوچک‌تر از تبلت مخفی است. ضربه زدن روی Done فقط دیالوگ را می‌بندد و چیزی اضافه نمی‌شود. آیا امکان دارد این مشکل را رفع کنید تا کاربران موبایل هم بتوانند انتخابی داشته باشند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "یک سوال درباره کد‌های Embed (جاسازی): اگر یک منبع داده زنده را متصل کنم و نموداری منتشر کنم، آیا نسخه جاسازی‌شده با تغییر منبع خودبه‌خود به‌روزرسانی می‌شود یا در همان حالت روز انتشار منجمد می‌ماند؟ چند داشبورد دارم که می‌خواهم یک‌بار تنظیم کنم و دیگر نیازی به بازسازی ماهانه نداشته باشند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت انتشار! تبدیل داده‌های خام به داستان‌های قابل اشتراک‌گذاری، بخشی است که اکثر ابزارها از آن عبور می‌کنند، بنابراین دیدن اینکه این موضوع به عنوان هدف اصلی قرار گرفته بسیار عالی است. ظرافت پیش‌نمایش نمودارها بیشتر از آنچه مردم اعتراف می‌کنند اهمیت دارد — کارتان عالی بود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سلام دنیل، صفحات گسترده (اکسل) من معمولاً در تب‌های مرورگر بدون اینکه کسی ببیند می‌میرند. ترغیب کردن اهالی ارقام به توقف و خواندن، چیزی است که نظر من را جلب می‌کند؛ کار تمیزی است ;)"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: پلتفرم Datastory با درک این چالش که انتقال داده‌های خام به مخاطب عام کاری پرهزینه، زمان‌بر و نیازمند دانش تخصصی است، راه‌حلی بدون کد و متکی بر هوش مصنوعی ارائه داده است که امکان خلق داستان‌های تصویری و نمودارهای تعاملی را در کوتاه‌ترین زمان فراهم می‌کند.\nمعماری و تکنولوژی: این سامانه بر پایه معماری فرانت‌اند قدرتمند با قابلیت جاسازی (Embed) سبک، به همراه موتور هوش مصنوعی برای تولید پیش‌نویس اولیه تجسم داده‌ها و مدیریت کاتالوگ داده‌های آزاد توسعه یافته است.\nمدل درآمدی: مدل فری‌میوم (Freemium) با ارائه قابلیت‌های پایه به‌صورت رایگان و اخذ اشتراک برای دسترسی به قالب‌های پیشرفته، حجم داده بالاتر و قابلیت اتصال به منابع داده زنده.\nنقاط قوت: رابط کاربری بدون کد بسیار ساده، تمرکز ویژه بر ظرافت‌های بصری، پشتیبانی از منابع داده آزاد و قابلیت جاسازی تعاملی.\nنقاط ضعف: ضعف‌های جزئی در تجربه کاربری نسخه موبایل و نیاز به بهبود فرآیند همگام‌سازی خودکار داده‌های زنده.\nنکته طلایی برای ایران: بومی‌سازی این پلتفرم با اتصال مستقیم به پایگاه‌های داده باز کشور (مانند داده‌های مرکز آمار و بانک مرکزی) و ارائه قالب‌های فارسی‌سازی شده، می‌تواند تحولی بزرگ در روزنامه‌نگاری داده و گزارش‌های سالانه شرکت‌های ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "داتانما",
+        "description": "داتانما یک پلتفرم بومی بدون کد برای تبدیل داده‌های خام اقتصادی، اجتماعی و کسب‌وکاری به داستان‌های بصری تعاملی است. این سامانه با اتصال به داده‌های باز کشوری و بهره‌گیری از هوش مصنوعی، امکان ساخت سریع نمودارها و گزارش‌های تحلیلی را فراهم می‌کند. کاربران می‌توانند گزارش‌های خود را به‌صورت زنده در وب‌سایت‌ها و رسانه‌ها جاسازی کنند.",
+        "marketOpportunity": "نیاز مبرم رسانه‌ها، پژوهشکده‌ها و کسب‌وکارهای ایرانی به ابزارهای ساده برای بصری‌سازی داده‌های پیچیده مالی و آماری، بازار بکری ایجاد کرده است. فقدان یک ابزار جامع بومی برای ارائه تعاملی داده‌های رسمی، فرصت رشد سریع این محصول را تضمین می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "روزنامه‌نگاران داده، تحلیل‌گران داده، پژوهشگران، سازمان‌های دولتی، رسانه‌ها و مدیران بازاریابی",
+        "challenges": [
+          "عدم دسترسی آسان و ساختاریافته به داده‌های باز و استاندارد در ایران",
+          "چالش‌های مربوط به زیرساخت و هزینه‌های استفاده از مدل‌های هوش مصنوعی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه (SaaS)",
+          "ارائه خدمات سازمانی برای دسترسی به داده‌های اختصاصی و قالب‌های سفارشی"
+        ],
+        "techStack": [
+          "Next.js",
+          "React",
+          "PostgreSQL",
+          "Python",
+          "TailwindCSS"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -47801,6 +48105,65 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-6",
+      "date": "2026-10-03",
+      "rank": 6,
+      "name": "Cubicle",
+      "slug": "cubicle-2",
+      "tagline": "A live office for your AI agents, read-only by design",
+      "description": "Watch Claude Code, Codex, Gemini CLI and Paperclip agents work in a live office: they sit down and type, raise a hand or line up at your desk when they need you, and go to the lounge when done. KPI board for your tasks, Telegram alerts with the agent's questions, phone view, pixel or HD themes, real faces, your logo. One command (npx), zero dependencies, MIT. Read-only by design: it only watches; the one optional write is your own Telegram reply, posted as a comment.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/cubicle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/37958bd4-270d-4a20-b03b-82bca5e38d4e.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/075b901c-416a-4ed7-9656-e8a2ca3e7ccb.gif?auto=format",
+        "https://ph-files.imgix.net/74a0e7c1-5dab-4018-807b-6e513d9f38a9.png?auto=format",
+        "https://ph-files.imgix.net/a24bc6de-3add-41d5-a5a3-8cc09cddd8fb.png?auto=format",
+        "https://ph-files.imgix.net/6ec4ab84-794b-41af-b19d-ba4b2ed764b7.png?auto=format",
+        "https://ph-files.imgix.net/d3b7fdef-7afe-40cb-b7e5-71409a611845.png?auto=format"
+      ],
+      "maker": "Çağlar Utku GÜLER",
+      "makerTitle": "",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 113,
+      "websiteUrl": "https://www.producthunt.com/r/PSQ4HWY5PXORPM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋 I run a small company of AI agents, and I kept switching between terminals and dashboards to find out one thing: who needs me right now? Cubicle turns that into a room. Every agent (a Claude Code session, a Codex or Gemini CLI session, a Paperclip employee) gets a desk. Working agents type with their current task above their heads. When one needs your approval, it raises its hand and your desktop can ping you. When it finishes, it goes for a coffee. A few things I cared about: - Read-only by design. Cubicle only reads. It cannot approve, run or change anything in your agent system. - Zero dependencies. One Node file and one HTML page. npx @caglarutkuguler/cubicle and you are in. - Works where you are. Standalone page, a TV in kiosk mode, or a Paperclip plugin with a dashboard widget. - Make it yours. Seven themes (pixel, holding HQ, plaza, warehouse, factory, space, military), photo heads cropped from any picture, your logo on the wall. - Replay. Record a day and play it back in minutes, or export a 30-second video. - Follow one agent. Click it: the office zooms in and follows it, with its last steps and how long each took. It is MIT-licensed and themes are one file each, so contributions are very welcome. There are open \"good first issue\" tickets for new themes (hospital, newsroom, kitchen, classroom). I would love to hear which agent tools you want it to show next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "agents lining up at your desk when they're blocked on you is a delightful way to show it, and read-only by design is a smart call. how do you detect that an agent is waiting for input across claude code, codex and gemini cli, hooks or reading the terminal?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Adorable :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Your agents get desks, line up with questions, and take coffee breaks in a lounge while a single HTML page makes GET requests against a local JSON file. Tailing a process log feels like executive management once you draw four chairs and a water cooler."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Will users be able to create custom rules for what gets displayed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the mobile experience show the same level of detail as the desktop version?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How much control do users have over which agent questions trigger notifications?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you decide when an agent should raise a hand instead of continuing on its own?"
+        }
+      ]
     },
     {
       "id": "ph-today-7",
@@ -48365,65 +48728,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-03",
-      "rank": 6,
-      "name": "Cubicle",
-      "slug": "cubicle-2",
-      "tagline": "A live office for your AI agents, read-only by design",
-      "description": "Watch Claude Code, Codex, Gemini CLI and Paperclip agents work in a live office: they sit down and type, raise a hand or line up at your desk when they need you, and go to the lounge when done. KPI board for your tasks, Telegram alerts with the agent's questions, phone view, pixel or HD themes, real faces, your logo. One command (npx), zero dependencies, MIT. Read-only by design: it only watches; the one optional write is your own Telegram reply, posted as a comment.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/cubicle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/37958bd4-270d-4a20-b03b-82bca5e38d4e.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/075b901c-416a-4ed7-9656-e8a2ca3e7ccb.gif?auto=format",
-        "https://ph-files.imgix.net/74a0e7c1-5dab-4018-807b-6e513d9f38a9.png?auto=format",
-        "https://ph-files.imgix.net/a24bc6de-3add-41d5-a5a3-8cc09cddd8fb.png?auto=format",
-        "https://ph-files.imgix.net/6ec4ab84-794b-41af-b19d-ba4b2ed764b7.png?auto=format",
-        "https://ph-files.imgix.net/d3b7fdef-7afe-40cb-b7e5-71409a611845.png?auto=format"
-      ],
-      "maker": "Çağlar Utku GÜLER",
-      "makerTitle": "",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 112,
-      "websiteUrl": "https://www.producthunt.com/r/PSQ4HWY5PXORPM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋 I run a small company of AI agents, and I kept switching between terminals and dashboards to find out one thing: who needs me right now? Cubicle turns that into a room. Every agent (a Claude Code session, a Codex or Gemini CLI session, a Paperclip employee) gets a desk. Working agents type with their current task above their heads. When one needs your approval, it raises its hand and your desktop can ping you. When it finishes, it goes for a coffee. A few things I cared about: - Read-only by design. Cubicle only reads. It cannot approve, run or change anything in your agent system. - Zero dependencies. One Node file and one HTML page. npx @caglarutkuguler/cubicle and you are in. - Works where you are. Standalone page, a TV in kiosk mode, or a Paperclip plugin with a dashboard widget. - Make it yours. Seven themes (pixel, holding HQ, plaza, warehouse, factory, space, military), photo heads cropped from any picture, your logo on the wall. - Replay. Record a day and play it back in minutes, or export a 30-second video. - Follow one agent. Click it: the office zooms in and follows it, with its last steps and how long each took. It is MIT-licensed and themes are one file each, so contributions are very welcome. There are open \"good first issue\" tickets for new themes (hospital, newsroom, kitchen, classroom). I would love to hear which agent tools you want it to show next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "agents lining up at your desk when they're blocked on you is a delightful way to show it, and read-only by design is a smart call. how do you detect that an agent is waiting for input across claude code, codex and gemini cli, hooks or reading the terminal?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Adorable :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Your agents get desks, line up with questions, and take coffee breaks in a lounge while a single HTML page makes GET requests against a local JSON file. Tailing a process log feels like executive management once you draw four chairs and a water cooler."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Will users be able to create custom rules for what gets displayed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does the mobile experience show the same level of detail as the desktop version?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How much control do users have over which agent questions trigger notifications?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do you decide when an agent should raise a hand instead of continuing on its own?"
-        }
-      ]
     },
     {
       "id": "ph-today-10",
@@ -49547,7 +49851,51 @@
           "user": "[REDACTED]",
           "text": "Great that this has launched as I think gov't services in the US really need something like this (gov.uk being a shining example, I assume), so bravo.Curious about the name choice, as I'm sure you've considered this - why choose a name associated with two continents worth of countries?"
         }
-      ]
+      ],
+      "faDescription": "آمریکا دات گاو ساده‌ترین و سریع‌ترین راه برای دریافت اطلاعات از دولت ایالات متحده است. به جای جستجو در وب‌سایت‌های پراکنده‌ی نهادهای مختلف، کافی است سوال خود را به زبان ساده بپرسید و پاسخ روشنی دریافت کنید. این پلتفرم که توسط استودیو طراحی ملی و اداره خدمات عمومی ساخته شده، تمام نهادهای فدرال را در یک مکان واحد گرد هم آورده است. این سرویس در حال حاضر به زبان‌های انگلیسی، فرانسوی و اسپانیایی در دسترس است و در آینده امکان ثبت‌نام، درخواست و پیگیری وضعیت درخواست‌ها را مستقیماً در چت فراهم خواهد کرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "اگرچه ارجاع‌های داده‌شده در دمو اطمینان‌بخش هستند، اما ارجاع به یک منبع و به‌روز بودن آن دو چیز متفاوت‌اند. مبالغ مزایا، مهلت‌های ارسال و قوانین برنامه‌ها به‌طور مداوم در بین نهادهای مختلف تغییر می‌کنند. آیا چرخه‌ی به‌روزرسانی مشخصی برای داده‌های هر نهاد وجود دارد یا ممکن است به صفحه‌ای ارجاع دهد که از نظر فنی واقعی است اما از نظر محتوا قدیمی شده است؟ برای اطلاعات دولتی، یک پاسخ نادرست که ظاهر رسمی دارد، بدتر از نداشتن پاسخ است، زیرا افراد ممکن است بر اساس آن به‌عنوان راهنمای رسمی عمل کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تشکر ویژه از جو گبیا، استودیو طراحی ملی و تیم اداره خدمات عمومی به دلیل اولویت دادن به تجربه کاربری در فناوری عمومی. دیدن اینکه خدمات فدرال به سادگی و شهودی بودن اپلیکیشن‌های مدرن مصرف‌کننده تبدیل شده‌اند، بسیار تازه‌کننده است!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "خب، باورم نمی‌شود، واقعاً معتبر و واقعی است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "یادم نمی‌آید آخرین باری که یک وب‌سایت دولتی توجهی غیر از شکست کامل به خود جلب کرد، چه زمانی بود. خوشحالم که این بار چنین چیزی را می‌بینم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "خوشحالم که این پروژه راه‌اندازی شده است، زیرا معتقدم خدمات دولتی در ایالات متحده واقعاً به چیزی مانند این نیاز دارند (با فرض اینکه gov.uk یک نمونه درخشان باشد)، پس تبریک می‌گویم. کنجکاو هستم درباره انتخاب نام، مطمئنم که این موضوع را در نظر گرفته‌اید - چرا نامی را انتخاب کردید که با دو قاره از کشورها مرتبط است؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، پراکندگی و پیچیدگی دسترسی به اطلاعات و خدمات دولتی است که باعث سردرگمی شهروندان می‌شود؛ راه‌حل ارائه یک دروازه متمرکز با رابط گفت‌وگویی (Chat-based) است که زبان اداری را به زبان ساده تبدیل می‌کند. از نظر معماری، این سیستم نیازمند یک لایه هوش مصنوعی قوی برای پردازش زبان طبیعی (NLP) و یک لایه یکپارچه‌سازی (Integration Layer) برای اتصال به APIهای پراکنده نهادهای دولتی است. مدل درآمدی در نسخه آمریکایی رایگان و دولتی است، اما در ایران می‌توان از طریق ارائه خدمات B۲B به شرکت‌ها یا مدل‌های اشتراکی برای خدمات تخصصی درآمدزایی کرد. نقاط قوت شامل افزایش اعتماد عمومی، کاهش بار کاری مراکز خدماتی و بهبود تجربه کاربری است. نقاط ضعف اصلی، وابستگی شدید به کیفیت و به‌روز بودن داده‌های منبع و چالش‌های فنی یکپارچه‌سازی با سیستم‌های قدیمی اداری است. نکته طلایی برای ایران: تمرکز اولیه بر روی ۳ تا ۵ نهاد پرتردد (مانند ثبت احوال، بیمه، یا مالیات) برای ایجاد اثربخشی سریع و جلب اعتماد اولیه کاربران ضروری است.",
+      "iranEquivalent": {
+        "productName": "دولت من",
+        "description": "پلتفرم یکپارچه‌ای برای دسترسی سریع و ساده به اطلاعات و خدمات دولتی ایران. کاربران می‌توانند با زبان فارسی و به صورت گفت‌وگویی، پاسخ‌های دقیق از نهادهای مختلف دریافت کنند. این سامان، پراکندگی اطلاعات اداری را حذف کرده و تجربه‌ای شبیه به اپلیکیشن‌های مدرن را ارائه می‌دهد.",
+        "marketOpportunity": "بازار ایران با وجود حجم بالای خدمات اداری و پیچیدگی‌های فرآیندی، تشنه‌ی یک رابط کاربری ساده و متمرکز است. کاهش هزینه‌های رفت‌وآمد و زمان انتظار برای شهروندان، پتانسیل پذیرش بالایی ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شهروندان عادی، کسب‌وکارهای کوچک و متوسط، و متقاضیان خدمات اداری که به دنبال تسهیل فرآیندهای دولتی هستند.",
+        "challenges": [
+          "عدم یکپارچگی زیرساخت‌های داده‌ای بین نهادهای دولتی مختلف",
+          "مقاومت سازمانی در برابر تغییر فرآیندها و شفافیت اطلاعاتی"
+        ],
+        "monetization": [
+          "مدل رایگان برای شهروندان با حمایت بودجه‌ای دولتی یا اسپانسرهای استراتژیک",
+          "ارائه بسته‌های ویژه و API اختصاصی برای شرکت‌های بزرگی که نیاز به یکپارچه‌سازی خدمات اداری دارند"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -53856,6 +54204,53 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-03",
+      "rank": 7,
+      "name": "SCMD ",
+      "slug": "scmd",
+      "tagline": "Manage what Claude Remembers and Keeps as Memory.",
+      "description": "Claude only! SCMD is an open-source, local review deck for the persistent memories Claude Code saves about you and your projects. Keep, delete, skip, undo, rewrite, and inspect why a memory was saved. Decisions stay staged until you confirm; deletes go to restorable trash. No telemetry, no cloud service, and zero npm dependencies. Run it with /scmd:run or npx. MIT-licensed and ready for contributors.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/scmd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/42c212d3-d3ac-4c87-9615-e18908bc767a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4f4f1718-88b0-4df9-af16-7e9ab2748807.png?auto=format",
+        "https://ph-files.imgix.net/3d9bc979-6857-4ed0-bf6d-4d7103a0f46a.png?auto=format",
+        "https://ph-files.imgix.net/ee571c02-ac3c-4036-8478-e03b91c04eb4.png?auto=format",
+        "https://ph-files.imgix.net/f8b65b5e-d32b-4c13-ab38-e72f3ab7a847.png?auto=format",
+        "https://ph-files.imgix.net/4f18d569-de74-4d36-86a3-f40cb5614da0.png?auto=format"
+      ],
+      "maker": "Nelson John",
+      "makerTitle": "2x \"Failed\" Founder - Shipped 30+ Apps",
+      "featuredAt": "2026-10-03T07:01:00Z",
+      "votes": 89,
+      "websiteUrl": "https://www.producthunt.com/r/USKITC5YZNVI3N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "So my wife found out that someone named Claude was calling me \"Daddy\". After a lot of explanation... I built SCMD(Stop Calling Me Daddy). It turns out it stored a memory that I didn't remember. SCMD is a simple tool that helps you Review and Manage your Claude memories. SCMD turns that into a local review deck: - Keep, delete, skip, or undo - See why a memory was saved - Rewrite it with your local Claude Code CLI or edit by hand - Review the full batch before anything changes - Restore deleted memories from local trash It runs on localhost, has zero npm dependencies, and has no telemetry. Nothing goes to an SCMD service. If you request a rewrite, the text goes through your own logged-in Claude Code CLI. Try it from a terminal: `npx -y @nelsonjohnsolo/scmd` Or install the Claude Code plugin and run `/scmd:run`. SCMD is MIT-licensed. The repository is open for issues and focused pull requests. I’m especially interested in real-world memory formats, Windows and Git Bash edge cases, accessibility improvements, and ways to make the review flow even simpler."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "staging decisions until you confirm and sending deletes to a restorable trash is such a thoughtful default for something that edits what claude \"knows\" about you. the \"why was this saved\" view is the bit I'd use most. do you plan to support other agents' memory files too, or stay claude only on purpose?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the origin story alone is worth the upvote. I've got my own memory file system going for Claude Code and honestly I've never actually gone back to audit what's in there, I just trust it's fine, which is exactly the kind of assumption your wife's discovery proves wrong. does SCMD review memories written by custom memory setups too, or is it scoped to Claude Code's own built-in memory feature specifically?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How it handles updates when Claude changes its memory system."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does the review deck handle memories that are related to multiple projects?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-08-22",
       "rank": 9,
@@ -53930,53 +54325,6 @@
         ],
         "confidence": 65
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-10-03",
-      "rank": 7,
-      "name": "SCMD ",
-      "slug": "scmd",
-      "tagline": "Manage what Claude Remembers and Keeps as Memory.",
-      "description": "Claude only! SCMD is an open-source, local review deck for the persistent memories Claude Code saves about you and your projects. Keep, delete, skip, undo, rewrite, and inspect why a memory was saved. Decisions stay staged until you confirm; deletes go to restorable trash. No telemetry, no cloud service, and zero npm dependencies. Run it with /scmd:run or npx. MIT-licensed and ready for contributors.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/scmd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/42c212d3-d3ac-4c87-9615-e18908bc767a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/4f4f1718-88b0-4df9-af16-7e9ab2748807.png?auto=format",
-        "https://ph-files.imgix.net/3d9bc979-6857-4ed0-bf6d-4d7103a0f46a.png?auto=format",
-        "https://ph-files.imgix.net/ee571c02-ac3c-4036-8478-e03b91c04eb4.png?auto=format",
-        "https://ph-files.imgix.net/f8b65b5e-d32b-4c13-ab38-e72f3ab7a847.png?auto=format",
-        "https://ph-files.imgix.net/4f18d569-de74-4d36-86a3-f40cb5614da0.png?auto=format"
-      ],
-      "maker": "Nelson John",
-      "makerTitle": "2x \"Failed\" Founder - Shipped 30+ Apps",
-      "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 88,
-      "websiteUrl": "https://www.producthunt.com/r/USKITC5YZNVI3N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "So my wife found out that someone named Claude was calling me \"Daddy\". After a lot of explanation... I built SCMD(Stop Calling Me Daddy). It turns out it stored a memory that I didn't remember. SCMD is a simple tool that helps you Review and Manage your Claude memories. SCMD turns that into a local review deck: - Keep, delete, skip, or undo - See why a memory was saved - Rewrite it with your local Claude Code CLI or edit by hand - Review the full batch before anything changes - Restore deleted memories from local trash It runs on localhost, has zero npm dependencies, and has no telemetry. Nothing goes to an SCMD service. If you request a rewrite, the text goes through your own logged-in Claude Code CLI. Try it from a terminal: `npx -y @nelsonjohnsolo/scmd` Or install the Claude Code plugin and run `/scmd:run`. SCMD is MIT-licensed. The repository is open for issues and focused pull requests. I’m especially interested in real-world memory formats, Windows and Git Bash edge cases, accessibility improvements, and ways to make the review flow even simpler."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "staging decisions until you confirm and sending deletes to a restorable trash is such a thoughtful default for something that edits what claude \"knows\" about you. the \"why was this saved\" view is the bit I'd use most. do you plan to support other agents' memory files too, or stay claude only on purpose?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the origin story alone is worth the upvote. I've got my own memory file system going for Claude Code and honestly I've never actually gone back to audit what's in there, I just trust it's fine, which is exactly the kind of assumption your wife's discovery proves wrong. does SCMD review memories written by custom memory setups too, or is it scoped to Claude Code's own built-in memory feature specifically?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How it handles updates when Claude changes its memory system."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does the review deck handle memories that are related to multiple projects?"
-        }
-      ]
     },
     {
       "id": "ph-today-10",
@@ -54286,7 +54634,7 @@
       "maker": "Naga vamsi Y",
       "makerTitle": "I build the missing pieces",
       "featuredAt": "2026-10-03T07:01:00Z",
-      "votes": 79,
+      "votes": 80,
       "websiteUrl": "https://www.producthunt.com/r/OUQTPBUOJZO4W6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -54919,10 +55267,10 @@
   "audit": {
     "products": 541,
     "withRealComments": 541,
-    "withPersianComments": 511,
-    "withPersianDescription": 511,
-    "withAiReview": 501,
-    "withIranEquivalent": 511,
-    "totalRealComments": 3347
+    "withPersianComments": 518,
+    "withPersianDescription": 518,
+    "withAiReview": 507,
+    "withIranEquivalent": 518,
+    "totalRealComments": 3348
   }
 }
