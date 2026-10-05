@@ -1,29 +1,21 @@
 {
-  "checkedAt": "2026-10-04T01:56:59.613Z",
-  "latestDataset": "2026-10-04.json",
+  "checkedAt": "2026-10-05T01:14:10.071Z",
+  "latestDataset": "2026-10-05.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 7,
-  "failed": 3,
-  "backlogBefore": 62,
-  "backlogAfter": 56,
-  "completedProducts": 485,
-  "missingFaDescription": 23,
-  "missingFaComments": 48,
-  "missingAiReview": 34,
-  "missingIranEquivalent": 25,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 67,
+  "backlogAfter": 58,
+  "completedProducts": 494,
+  "missingFaDescription": 25,
+  "missingFaComments": 50,
+  "missingAiReview": 36,
+  "missingIranEquivalent": 27,
   "failures": [
     {
-      "slug": "dots-by-openai",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"دات‌ها (Dots) ایجنت‌های همیشه فعالی در چت‌جی‌پتی هستند که قدرت خود را از مدل GPT‑6 Astra می‌گیرند. هر دات به یک رایانه ابری و مرورگر اختصاصی مجهز است و از طری"
-    },
-    {
-      "slug": "omnia-agent",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "bracket-2028",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+      "slug": "mintlify-desktop",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"مینتیفای دسکتاپ یک پایگاه اختصاصی برای تمامی مستندات شماست که شامل پایگاه‌های دانش داخلی، کتابچه‌های راهنمای عملیاتی (runbooks)، راهنماهای آنبوردینگ و مستندات"
     }
   ]
 }
