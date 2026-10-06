@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-10-05T01:14:10.071Z",
-  "latestDataset": "2026-10-05.json",
+  "checkedAt": "2026-10-06T02:31:14.194Z",
+  "latestDataset": "2026-10-06.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 67,
-  "backlogAfter": 58,
-  "completedProducts": 494,
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 68,
+  "backlogAfter": 59,
+  "completedProducts": 503,
   "missingFaDescription": 25,
-  "missingFaComments": 50,
+  "missingFaComments": 51,
   "missingAiReview": 36,
   "missingIranEquivalent": 27,
-  "failures": [
-    {
-      "slug": "mintlify-desktop",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"مینتیفای دسکتاپ یک پایگاه اختصاصی برای تمامی مستندات شماست که شامل پایگاه‌های دانش داخلی، کتابچه‌های راهنمای عملیاتی (runbooks)، راهنماهای آنبوردینگ و مستندات"
-    }
-  ]
+  "failures": []
 }
