@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:00:08.489Z",
+  "generatedAt": "2026-10-07T01:49:44.701Z",
   "sourceFiles": 58,
   "products": [
     {
@@ -13945,6 +13945,68 @@
       ]
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-06",
+      "rank": 1,
+      "name": "Rill Browser",
+      "slug": "rill-browser",
+      "tagline": "The browser where Claude Code and Codex work beside you",
+      "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
+      "category": "Developer Tools • Artificial Intelligence",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format",
+        "https://ph-files.imgix.net/8793305e-7c92-4448-b2de-e751ddfce65a.png?auto=format",
+        "https://ph-files.imgix.net/f2df9508-620b-4899-8b58-af67883a0b25.png?auto=format",
+        "https://ph-files.imgix.net/6c39de27-5630-4eec-bda8-5249a2b56b4d.png?auto=format",
+        "https://ph-files.imgix.net/59a1fab9-96db-4569-b32e-4ec5f399e00c.png?auto=format",
+        "https://ph-files.imgix.net/60902f3b-d35e-4384-ba2b-2dd69c1a272c.png?auto=format",
+        "https://ph-files.imgix.net/30190a79-f888-431e-9776-9150b4eb156c.png?auto=format",
+        "https://ph-files.imgix.net/73cd1f7b-1f0f-427b-b75c-11336f1a2d08.png?auto=format"
+      ],
+      "maker": "William",
+      "makerTitle": "World Model Researcher",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 365,
+      "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm William! I made Rill because I want to always stay in the flow. As an ADHD, I never liked code-switching. My best ideas for work come when I'm supposedly not working at all: watching something for fun, reading things and following a rabbit hole, looking at how someone else solved a problem. Then when an idea hit me, I'd have to stop, switch to coding agents, find the project and explain it all, and most of the time I just didn't.Rill is my way of removing that code-switching. It's a browser with your Claude Code or Codex working alongside you. When something on a page gives you an idea, you say so right there, and an agent starts on it in the right project. You don't have to spend time looking for the right folder, rephrasing everything you just saw on the web, and you don't switch in and out of work mode. The work goes on with you in the flow.This matters now more than ever. Agents have shortened the distance between ideas to output near zero. So the bottleneck is capturing the idea at the moment you have it. That moment is nearly always while you're taking something in, and that is what a browser is for.Rill is a free AI-native browser. It's WebKit-based, which means it's native to Mac. And it runs on the Claude Code or Codex plan you already have, so you don't have to buy a new subscription for all of its agentic capabilities.cHow do you keep an idea today when it shows up at the wrong time?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’d love to queue up a few tasks at night and wake up to them done. Is anyone already using it like that?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I use Codex for research too, so I can see this being useful beyond coding. Being able to trace a draft back to the pages that informed it would matter more to me than just handing over the tabs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a pretty need tool. I have always been a fan of these tools that kind of act as a surface to multiple products. I would recommend expanding to include other tools as more tools outside of Codex and Claude Code will come out and being able to \"plug and play\" would be cool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi William, great job defining the use case, e.g. I have an idea, I want to tell my agent about this idea immediately, and then send my agent off to work on my idea. I have a question about the project view (or any of the views). is there a way to view the progress of the agents once they are working on or have completed a task?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "QQ: how is Rill different from Claude in Chrome?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I use Claude Code every day, often while I'm in the browser checking Search Console or a store page, so ⌘E-to-task is exactly the jump I make by hand now: copy the URL, switch to the terminal, explain the context. Is a Windows version on the roadmap? I'm on Windows 11 and would try it the day it ships."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of turning a random thought while browsing into actual work without breaking your focus feels genuinely useful.Congrats @williamgaoharvard"
+        }
+      ]
+    },
+    {
       "id": "ph-week-6",
       "date": "2026-09-29",
       "rank": 6,
@@ -14648,68 +14710,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-06",
-      "rank": 1,
-      "name": "Rill Browser",
-      "slug": "rill-browser",
-      "tagline": "The browser where Claude Code and Codex work beside you",
-      "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
-      "category": "Developer Tools • Artificial Intelligence",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format",
-        "https://ph-files.imgix.net/8793305e-7c92-4448-b2de-e751ddfce65a.png?auto=format",
-        "https://ph-files.imgix.net/f2df9508-620b-4899-8b58-af67883a0b25.png?auto=format",
-        "https://ph-files.imgix.net/6c39de27-5630-4eec-bda8-5249a2b56b4d.png?auto=format",
-        "https://ph-files.imgix.net/59a1fab9-96db-4569-b32e-4ec5f399e00c.png?auto=format",
-        "https://ph-files.imgix.net/60902f3b-d35e-4384-ba2b-2dd69c1a272c.png?auto=format",
-        "https://ph-files.imgix.net/30190a79-f888-431e-9776-9150b4eb156c.png?auto=format",
-        "https://ph-files.imgix.net/73cd1f7b-1f0f-427b-b75c-11336f1a2d08.png?auto=format"
-      ],
-      "maker": "William",
-      "makerTitle": "World Model Researcher",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 356,
-      "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm William! I made Rill because I want to always stay in the flow. As an ADHD, I never liked code-switching. My best ideas for work come when I'm supposedly not working at all: watching something for fun, reading things and following a rabbit hole, looking at how someone else solved a problem. Then when an idea hit me, I'd have to stop, switch to coding agents, find the project and explain it all, and most of the time I just didn't.Rill is my way of removing that code-switching. It's a browser with your Claude Code or Codex working alongside you. When something on a page gives you an idea, you say so right there, and an agent starts on it in the right project. You don't have to spend time looking for the right folder, rephrasing everything you just saw on the web, and you don't switch in and out of work mode. The work goes on with you in the flow.This matters now more than ever. Agents have shortened the distance between ideas to output near zero. So the bottleneck is capturing the idea at the moment you have it. That moment is nearly always while you're taking something in, and that is what a browser is for.Rill is a free AI-native browser. It's WebKit-based, which means it's native to Mac. And it runs on the Claude Code or Codex plan you already have, so you don't have to buy a new subscription for all of its agentic capabilities.cHow do you keep an idea today when it shows up at the wrong time?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a pretty need tool. I have always been a fan of these tools that kind of act as a surface to multiple products. I would recommend expanding to include other tools as more tools outside of Codex and Claude Code will come out and being able to \"plug and play\" would be cool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi William, great job defining the use case, e.g. I have an idea, I want to tell my agent about this idea immediately, and then send my agent off to work on my idea. I have a question about the project view (or any of the views). is there a way to view the progress of the agents once they are working on or have completed a task?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "QQ: how is Rill different from Claude in Chrome?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I use Claude Code every day, often while I'm in the browser checking Search Console or a store page, so ⌘E-to-task is exactly the jump I make by hand now: copy the URL, switch to the terminal, explain the context. Is a Windows version on the roadmap? I'm on Windows 11 and would try it the day it ships."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The idea of turning a random thought while browsing into actual work without breaking your focus feels genuinely useful.Congrats @williamgaoharvard"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the per-turn snapshot and Undo you mentioned in another thread is the detail that got me, I've been asking a version of this question on a few launches lately - does that snapshot/undo only cover the git state, or does it also know about anything the agent did outside the repo during that turn (an API call it made, a form it submitted on the page it was reading)? code is easy to revert, a request that already fired isn't, and that gap is the part I haven't seen anyone solve yet"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, William! The code-switching problem is real. Ideas tend to hit when I'm reading something unrelated, and having ⌘E turn the page into a task for the agent in the right project sounds like a great way to catch them. Looking forward to trying it out."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -16154,7 +16154,63 @@
           "user": "[REDACTED]",
           "text": "Is there a way to give an agent access to only a small subset of connected apps?"
         }
-      ]
+      ],
+      "faDescription": "CoreSpeed یک سیستم‌عامل برای عامل‌های هوش مصنوعی است که به‌صورت یکپارچه تمام نیازهای آن‌ها را پوشش می‌دهد. با یک بار اتصال برنامه‌ها، حساب‌ها و حافظهٔ مشترک یا خصوصی به Claude Code، Codex، Cursor و سایر عامل‌های MCP منتقل می‌شود. این پلتفرم امکان استفاده از چندین حساب برای هر برنامه را فراهم می‌کند و جستجوی وب، پژوهش‌های اجتماعی و تولید رسانه‌های مختلف را به‌صورت داخلی دارد. همچنین اعتبارنامه‌های برنامه‌ها توسط CoreSpeed نگهداری می‌شود و با بودجه، لاگ‌های فعالیت و قابلیت تأیید هوشمند (نسخهٔ بتا) کنترل بهتری بر رفتار عامل‌ها اعمال می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! 👋 ما تیم بنیان‌گذار CoreSpeed هستیم. ما بارها با این مشکل مواجه شدیم که عامل‌های ما توانایی داشتند اما برای انجام کار واقعی نیاز به اتصال یکپارچهٔ سرویس‌ها، مدیریت اعتبارنامه‌ها و بازسازی زمینه داشتند. پس از بازسازی این زیرساخت در سه محصول مختلف، متوجه شدیم که خود زیرساخت محصول اصلی است. بنابراین CoreSpeed را می‌سازیم؛ یک سیستم‌عامل برای عامل‌ها که یک بار تنظیم می‌شود و هر عامل MCP که وارد می‌شود، چه Claude Code، Codex، Cursor یا عامل سفارشی شما، از همان تنظیمات استفاده می‌کند: برنامه‌های متصل، با چندین حساب برای هر برنامه مثل حساب شخصی و شرکتی در X؛ حافظهٔ ذخیره‌شده که می‌تواند به تیم به اشتراک گذاشته یا خصوصی باشد؛ جستجوی وب، پژوهش‌های اجتماعی و تولید تصویر، صدا و ویدئو به‌صورت داخلی. این لایه را می‌توان به‌عنوان OpenRouter برای ابزارهای عامل در نظر گرفت: نیازی به کلیدهای API یا اشتراک‌های جداگانه ندارید؛ فقط به‌صورت pay‑as‑you‑go از طریق CoreSpeed پرداخت می‌کنید. اعتبارنامه‌های برنامه توسط CoreSpeed نگهداری می‌شود و به عامل‌ها تحویل داده نمی‌شود. با بودجه، لاگ‌های فعالیت و تأیید هوشمند (بتا) می‌توانید مشخص کنید کدام اقدامات ابتدا نیاز به تأیید شما دارند. برنامه‌ریزی شده ولی هنوز فعال نیست: Agent Drive، Mail، Pay، sandboxها و موارد دیگر. همهٔ آنچه عامل‌های شما نیاز دارند، از طریق یک نقطهٔ انتهایی MCP. برای شروع رایگان این را به عامل خود بدهید: https://corespeed.io/SKILL.md"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "می‌توانم یک سؤال بپرسم؟ CoreSpeed چه تفاوتی با ابزارهایی مثل Composio دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "جملهٔ «اعتبارنامه‌ها توسط CoreSpeed نگهداری می‌شوند و به عامل‌ها تحویل داده نمی‌شوند» برای من مهم‌ترین نکته است؛ این تفاوت بین یک ابزار و یک ریسک است. ما در Dial نیز با جداسازی مشابه در سمت داده‌ها مواجه بودیم – می‌خواهیم عامل به‌نام کسب‌وکار عمل کند بدون اینکه خود عامل (یا ما) اعتبارنامهٔ خام را ببینند. سؤال دربارهٔ تأیید هوشمند: وقتی عامل در میانهٔ کار به عملی نیاز به تأیید داشته باشد، آیا آن عمل مسدود می‌شود و منتظر می‌ماند یا بقیهٔ برنامه در صف می‌ماند و پس از تأیید شما به آن گام باز می‌گردد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "امکان داشتن چندین حساب برای هر برنامه جزئی است که من دوست دارم؛ حساب‌های شخصی و شرکتی در X به‌صورت همزمان و عامل می‌تواند حساب مناسب را انتخاب کند. من همیشه مجبور می‌شدم برای این کار وارد و خارج شوم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "نگه داشتن اعتبارنامه‌های برنامه دور از عامل‌ها منطقی است. اگر یک قانون تأیید هوشمند مبهم باشد، آیا عمل منتظر تأیید من می‌ماند یا اجرا می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "عامل چگونه بین ابزارهای تولید رسانهٔ موجود انتخاب می‌کند؟ آیا کاربر می‌تواند ارائه‌دهندهٔ مورد علاقهٔ خود را مشخص کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "اتصال یک بار برنامه و استفادهٔ مجدد از همان حساب‌ها و حافظه در Claude Code، Codex و Cursor مشکلی واقعی را حل می‌کند؛ چون همه مجبورند یک‌بار دیگر همان ادغام‌ها را پیاده‌سازی کنند. پشتیبانی از چندین حساب برای هر برنامه جزئی هوشمندانه‌ای است. چگونه حافظهٔ مشترک و خصوصی را بین عامل‌ها جدا نگه می‌دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "آیا راهی وجود دارد تا به یک عامل فقط به زیرمجموعهٔ کوچکی از برنامه‌های متصل دسترسی بدهیم؟"
+        }
+      ],
+      "aiReview": "مسئله: شرکت‌ها و تیم‌های هوش مصنوعی برای استفاده مؤثر از عامل‌ها باید هر بار ادغام‌های مختلف را پیاده‌سازی، اعتبارنامه‌ها را مدیریت و زمینهٔ کاری را بازسازی کنند که هزینهٔ زمان و امنیت را بالا می‌برد. راه‌حل: کوراسپید به‌عنوان یک سیستم‌عامل برای عامل‌ها، تمام این زیرساخت‌ها را یک‌بار متصل می‌کند؛ حساب‌های متعدد، حافظهٔ مشترک یا خصوصی، جستجوی وب و تولید رسانه‌ها به‌صورت داخلی در دسترس هستند و اعتبارنامه‌ها به‌صورت امن توسط پلتفرم نگهداری می‌شود. معماری و تکنولوژی: لایهٔ میانی مبتنی بر Next.js برای رابط کاربری و PostgreSQL برای ذخیره‌سازی امن داده‌ها و لاگ‌ها؛ سرویس‌های میکرو‑سرویس برای مدیریت اعتبارنامه‌ها، بودجه و تأیید هوشمند. مدل درآمدی: ترکیبی از پرداخت بر پایهٔ استفاده (pay‑as‑you‑go) برای درخواست‌های API و اشتراک ماهانه برای ویژگی‌های پیشرفته مانند Smart Approval و حافظهٔ سازمانی. نقاط قوت: یکپارچگی کامل، امنیت بالا با عدم افشای اعتبارنامه‌ها، قابلیت مقیاس‌پذیری و پشتیبانی از چندین حساب برای هر برنامه. نقاط ضعف: وابستگی به زیرساخت مرکزی که ممکن است نقطهٔ شکست باشد و نیاز به پذیرش توسط تیم‌های فنی برای مهاجرت از روش‌های سنتی. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های خارجی و نیاز به حفظ داده‌های حساس داخل کشور، ارائهٔ یک لایهٔ میانی محلی که اعتبارنامه‌ها را در سرورهای داخل‌کشوری نگه دارد و امکان تنظیم قوانین تأیید هوشمند به زبان فارسی، می‌تواند پذیرش گسترده‌ای در سازمان‌های دولتی و خصوصی داشته باشد.",
+      "iranEquivalent": {
+        "productName": "کوراسپید",
+        "description": "کوراسپید یک پلتفرم یکپارچه برای مدیریت ارتباطات و حافظهٔ هوش مصنوعی در شرکت‌هاست. با یک بار اتصال برنامه‌ها، حساب‌های متعدد و داده‌های مشترک یا خصوصی برای تمام عامل‌های داخلی در دسترس قرار می‌گیرد. این سرویس با نگهداری امن اعتبارنامه‌ها و قابلیت تأیید هوشمند، ریسک‌های امنیتی را به حداقل می‌رساند.",
+        "marketOpportunity": "بازار ابزارهای هوش مصنوعی در ایران به سرعت در حال رشد است و نیاز به راه‌حل‌های یکپارچه برای ادغام سرویس‌ها و حفظ امنیت داده‌ها احساس می‌شود. کوراسپید می‌تواند با ارائهٔ زیرساخت مرکزی، خالی از تکرار هزینه‌های توسعه و زمان راه‌اندازی، جایگاه ویژه‌ای در این بازار پیدا کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های فناوری، شرکت‌های نرم‌افزاری، تیم‌های داده و هوش مصنوعی، بخش‌های مالی و بازاریابی پیشرفته",
+        "challenges": [
+          "یکپارچه‌سازی سرویس‌های مختلف در بسترهای داخلی",
+          "اطمینان از امنیت و حاکمیت داده‌ها در محیط‌های حساس"
+        ],
+        "monetization": [
+          "مدل پرداخت بر پایهٔ استفاده (pay‑as‑you‑go) با سطوح قیمت‌گذاری بر حسب تعداد درخواست‌ها",
+          "اشتراک ماهانه برای دسترسی به ویژگی‌های پیشرفته مانند تأیید هوشمند و حافظهٔ سازمانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-1",
@@ -20191,6 +20247,66 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-06",
+      "rank": 2,
+      "name": "AUDR by Chargebee",
+      "slug": "audr-by-chargebee",
+      "tagline": "Open standard for tracking agent run costs",
+      "description": "AUDR (Agent Usage Detail Record) is an open standard, for capturing who initiated an agent run and what it cost across every system that run touches. Inspired by the telecom industry's Call Detail Record, AUDR defines a common JSON schema that any harness, router, or billing system can emit and ingest. Three core rules make it work: a shared run ID minted by the harness, clear field ownership, and strict merge rules where conflicts are rejected and corrections are new records.",
+      "category": "Open Source • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b5e59b3f-a5f4-42c8-ad03-f6d9b497a8e2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/554c8399-f393-4c4e-8917-56879a664bf8.png?auto=format",
+        "https://ph-files.imgix.net/fd849d57-a602-45c1-bfd5-d30207698808.png?auto=format",
+        "https://ph-files.imgix.net/cc315978-40db-4ccd-b442-840b5606961c.png?auto=format",
+        "https://ph-files.imgix.net/d35ad72a-0d6c-4a7c-838a-1d7a65c5283e.png?auto=format",
+        "https://ph-files.imgix.net/28d8b252-f56a-4570-a5f0-4b170e45b9c6.gif?auto=format",
+        "https://ph-files.imgix.net/1f7d5d03-76b7-4e9d-8e76-7e6a0af32720.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 296,
+      "websiteUrl": "https://www.producthunt.com/r/LKE36PULC3BUKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "@Chargebee pioneered the SaaS industry (first launched here in 2014), and so they do in the AI economy.Agents call tools, hit APIs, even pay per request with products like pay.sh by @Solana Foundation. AUDR (Agent Usage Detail Record) is the logical next step, and it's open. @Chargebee pushed the initial commit, adopted by @Mastra, @Merge, and more.Star this repo: github.com/openaudr/audr"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "love it, observability becomes more important with scale, something simple like this was definitely missing."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Observability for Agents is a big deal these days. It is something many organizations are trying to solve for but the solutions are limited. This looks pretty cool"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does it handle runs where one agent calls other agents or tools from different vendors? also is there a sample JSON somewhere I can look at to get started?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Thank you everyone for the love and ideas to take this further. We are launching AUDR along with an initial set of adapters to get you'll going. We'd love for you to co-build adapters or share what you want us building out next. Nemo Relay: https://github.com/openaudr/audr/tree/main/adapters/nemo-relayLiteLLM: https://github.com/openaudr/audr/tree/main/adapters/litellmMerge Gateway: https://github.com/openaudr/audr/tree/main/adapters/merge-gatewayVercel SDK: https://github.com/openaudr/audr/tree/main/adapters/vercel-aiMastra: https://github.com/openaudr/audr/tree/main/adapters/mastraLago Sink: https://github.com/openaudr/audr/tree/main/sinks/lagoChargebee Sink: https://github.com/openaudr/audr/tree/main/sinks/chargebee"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "rejecting conflicting records seems safer than silently picking a cost. when a router reports usage before the provider's final bill arrives, how do you tie the correction back without counting the run twice?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "​looks super sharp. how is the migration process for existing subscribers?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "​does it support automatic usage warnings before a user hits their monthly limit?"
+        }
+      ]
+    },
+    {
       "id": "ph-today-1",
       "date": "2026-08-15",
       "rank": 1,
@@ -21768,66 +21884,6 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-06",
-      "rank": 2,
-      "name": "AUDR by Chargebee",
-      "slug": "audr-by-chargebee",
-      "tagline": "Open standard for tracking agent run costs",
-      "description": "AUDR (Agent Usage Detail Record) is an open standard, for capturing who initiated an agent run and what it cost across every system that run touches. Inspired by the telecom industry's Call Detail Record, AUDR defines a common JSON schema that any harness, router, or billing system can emit and ingest. Three core rules make it work: a shared run ID minted by the harness, clear field ownership, and strict merge rules where conflicts are rejected and corrections are new records.",
-      "category": "Open Source • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b5e59b3f-a5f4-42c8-ad03-f6d9b497a8e2.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/554c8399-f393-4c4e-8917-56879a664bf8.png?auto=format",
-        "https://ph-files.imgix.net/fd849d57-a602-45c1-bfd5-d30207698808.png?auto=format",
-        "https://ph-files.imgix.net/cc315978-40db-4ccd-b442-840b5606961c.png?auto=format",
-        "https://ph-files.imgix.net/d35ad72a-0d6c-4a7c-838a-1d7a65c5283e.png?auto=format",
-        "https://ph-files.imgix.net/28d8b252-f56a-4570-a5f0-4b170e45b9c6.gif?auto=format",
-        "https://ph-files.imgix.net/1f7d5d03-76b7-4e9d-8e76-7e6a0af32720.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 285,
-      "websiteUrl": "https://www.producthunt.com/r/LKE36PULC3BUKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "@Chargebee pioneered the SaaS industry (first launched here in 2014), and so they do in the AI economy.Agents call tools, hit APIs, even pay per request with products like pay.sh by @Solana Foundation. AUDR (Agent Usage Detail Record) is the logical next step, and it's open. @Chargebee pushed the initial commit, adopted by @Mastra, @Merge, and more.Star this repo: github.com/openaudr/audr"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "love it, observability becomes more important with scale, something simple like this was definitely missing."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Observability for Agents is a big deal these days. It is something many organizations are trying to solve for but the solutions are limited. This looks pretty cool"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does it handle runs where one agent calls other agents or tools from different vendors? also is there a sample JSON somewhere I can look at to get started?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Thank you everyone for the love and ideas to take this further. We are launching AUDR along with an initial set of adapters to get you'll going. We'd love for you to co-build adapters or share what you want us building out next. Nemo Relay: https://github.com/openaudr/audr/tree/main/adapters/nemo-relayLiteLLM: https://github.com/openaudr/audr/tree/main/adapters/litellmMerge Gateway: https://github.com/openaudr/audr/tree/main/adapters/merge-gatewayVercel SDK: https://github.com/openaudr/audr/tree/main/adapters/vercel-aiMastra: https://github.com/openaudr/audr/tree/main/adapters/mastraLago Sink: https://github.com/openaudr/audr/tree/main/sinks/lagoChargebee Sink: https://github.com/openaudr/audr/tree/main/sinks/chargebee"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "rejecting conflicting records seems safer than silently picking a cost. when a router reports usage before the provider's final bill arrives, how do you tie the correction back without counting the run twice?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "​looks super sharp. how is the migration process for existing subscribers?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "​does it support automatic usage warnings before a user hits their monthly limit?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-2",
       "date": "2026-08-31",
       "rank": 2,
@@ -23088,6 +23144,66 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-06",
+      "rank": 3,
+      "name": "OpenBot",
+      "slug": "openbot-4",
+      "tagline": "Grok Bot alternative: free, local, open-source, multiplayer",
+      "description": "OpenBot is an open-source workspace for AI teammates. Connect Claude, ChatGPT, Grok, OpenCode, or custom agents on Mac, Windows, and iOS. Give agents clear roles, let them delegate work, and invite your team to collaborate live with the same agents.",
+      "category": "Productivity • Open Source • Artificial Intelligence • GitHub",
+      "categoryFa": "بهره‌وری • متن‌باز • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/62de137a-dc8f-4612-974a-a38f963aa94d.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a7a31e10-1b74-4f56-871f-169a92900251.jpeg?auto=format",
+        "https://ph-files.imgix.net/8cdecfc0-c5b9-4dee-8d6d-3d0331167a96.png?auto=format",
+        "https://ph-files.imgix.net/3203f65b-17f5-41b2-b66d-9e3de3828294.png?auto=format",
+        "https://ph-files.imgix.net/fb673312-c23a-4ae5-a2ee-0bc08bd69302.png?auto=format",
+        "https://ph-files.imgix.net/750dab9e-98f7-4ff0-b038-4f7ffe004788.png?auto=format",
+        "https://ph-files.imgix.net/17c03f48-0b6d-4d3a-9333-2488d942c958.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 273,
+      "websiteUrl": "https://www.producthunt.com/r/6MPDE2Q3ZJDJZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Just got on TestFlight. @kamil_cyrek is the telemetry turned on by default? Can it be turned off, else I cannot use it for work since I work in a regulated field."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@norbertbodziony Congratulations. And happy product launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you keep up with the changing tools? Seems like there are a lot of things out there in terms of models, self-hosting, etc."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Kamil, what was the biggest challenge or discovery you had when building OpenBot? It could be about anything, from open sourcing the app to coordinating the agents. Congrats on the launch today!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Open-source, local and multiplayer is a really interesting combo. Congrats @norbertbodziony"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can I send tasks remotely from my phone? Check in on progress?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I work on outbound systems where different agents often need different context and jobs. The separate workspace + queue model caught my attention. can one agent hand a task to another while preserving the first agent’s context?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can different team members give the same agent separate instructions wihtout affecting eacb others work?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-09-28",
       "rank": 5,
@@ -23846,66 +23962,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "آمار استفاده از محصول توسط خودتان (Dogfooding) متقاعدکننده‌ترین بخش است؛ ۱۶ PR از ۱۵ هزار جلسه بدون اینکه هیچ‌کدام ابتدا به عنوان گزارش باگ ثبت شده باشند. از آن ۱۶ مورد، چند تا بدون مشکل مرج شدند و چه تعداد نیازمند این بودند که یک انسان بگوید این در واقع رفتار مورد انتظار سیستم است؟"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-06",
-      "rank": 3,
-      "name": "OpenBot",
-      "slug": "openbot-4",
-      "tagline": "Grok Bot alternative: free, local, open-source, multiplayer",
-      "description": "OpenBot is an open-source workspace for AI teammates. Connect Claude, ChatGPT, Grok, OpenCode, or custom agents on Mac, Windows, and iOS. Give agents clear roles, let them delegate work, and invite your team to collaborate live with the same agents.",
-      "category": "Productivity • Open Source • Artificial Intelligence • GitHub",
-      "categoryFa": "بهره‌وری • متن‌باز • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/62de137a-dc8f-4612-974a-a38f963aa94d.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/a7a31e10-1b74-4f56-871f-169a92900251.jpeg?auto=format",
-        "https://ph-files.imgix.net/8cdecfc0-c5b9-4dee-8d6d-3d0331167a96.png?auto=format",
-        "https://ph-files.imgix.net/3203f65b-17f5-41b2-b66d-9e3de3828294.png?auto=format",
-        "https://ph-files.imgix.net/fb673312-c23a-4ae5-a2ee-0bc08bd69302.png?auto=format",
-        "https://ph-files.imgix.net/750dab9e-98f7-4ff0-b038-4f7ffe004788.png?auto=format",
-        "https://ph-files.imgix.net/17c03f48-0b6d-4d3a-9333-2488d942c958.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 268,
-      "websiteUrl": "https://www.producthunt.com/r/6MPDE2Q3ZJDJZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "How do you keep up with the changing tools? Seems like there are a lot of things out there in terms of models, self-hosting, etc."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Kamil, what was the biggest challenge or discovery you had when building OpenBot? It could be about anything, from open sourcing the app to coordinating the agents. Congrats on the launch today!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Open-source, local and multiplayer is a really interesting combo. Congrats @norbertbodziony"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can I send tasks remotely from my phone? Check in on progress?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I work on outbound systems where different agents often need different context and jobs. The separate workspace + queue model caught my attention. can one agent hand a task to another while preserving the first agent’s context?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can different team members give the same agent separate instructions wihtout affecting eacb others work?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does OpenBot keep context consistent when multiple people are working with the same agent?Congrats @kamil_cyrek & team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "An open source workspace where you can mix Claude, ChatGPT, Grok and custom agents, give them roles and let them delegate, covers a gap that single model tools leave open. Letting your team collaborate live with the same agents is a neat idea. Is the delegation between agents configurable or does it happen automatically based on the roles?"
         }
       ]
     },
@@ -26169,6 +26225,65 @@
       ]
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-06",
+      "rank": 4,
+      "name": "Incredible",
+      "slug": "incredible-3",
+      "tagline": "Vibe computing. Control your computer with your voice.",
+      "description": "Incredible is your personal AI assistant that gets work done on your computer. It learns how you work by watching you do it. Show it a task on your computer, talk through the steps, and let it handle the routine from there, from processing invoices and updating your CRM to editing spreadsheets.",
+      "category": "Productivity • Artificial Intelligence • Menu Bar Apps",
+      "categoryFa": "بهره‌وری • هوش مصنوعی • Menu Bar Apps",
+      "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/271335d1-1d68-470d-9706-12bcfd32b719.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/9ffc1ba6-97ee-4fb3-b40c-76cc1bae66ce.jpeg?auto=format",
+        "https://ph-files.imgix.net/d11daebe-fe61-4ed2-ad66-ffd01f13e288.png?auto=format",
+        "https://ph-files.imgix.net/ac411eb7-ab07-4543-aca8-276a78138ae1.png?auto=format",
+        "https://ph-files.imgix.net/8deacb87-0c0b-4a10-adeb-ab599b394505.png?auto=format",
+        "https://ph-files.imgix.net/ce231239-4163-48d3-afa3-822564984978.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 245,
+      "websiteUrl": "https://www.producthunt.com/r/4HJ5NAOQFNL6CT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, Emil here, CTO at Incredible.A bit on how it works, since people usually ask. Incredible runs on your own computer. When you hold the key and talk, it looks at what's on your screen, plans the steps, and then clicks and types in your real browser and apps. Because it uses the browser you're already signed in to, it also works in tools that have no API or integration, like an old supplier portal or your company's internal admin page.Before anything is sent or deleted, it stops and asks you. For bigger jobs you see the plan first.I'm here all day answering questions. If you try it and something breaks, tell me and I'll look at it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting design! Is this similar to the Dots and similar tools that have been launched recently? How would you say it differs and what is it's sweet spot?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the idea of controlling my computer by voice. Great job guys!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Oh wow! It’s probably one of the easiest to understand products I’ve ever seen. Watched the promo video and got it right away. Excellent! 👏Can it jump between tabs? If I have an accounting software open in one browser and then a spreadsheet in another. Can it transfer data from one to the other ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi all, congrats on the launch! I used to do a lot of work in software accessibility many, many years ago. First, my technical question. Can you tell me more about the implementation? Are you going through the OS level accessibility tree for a Mac or Windows? Or is this just for web-based apps where you're going through the DOM? Or are you doing something totally different by recording mouse movements?Who is your targeted audience that you're designing for? At first I thought this might be an app for someone with low dexterity, but it is unclear to me what the setup or training would look like."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What happens if something goes wrong halfway through a task? Can Incredible pick up where it left off without doing the same steps twice?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Incredible team :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Huge congrats on the launch @Incredible team, the way it handles tasks right in your existing browser tabs is super slick."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-09-24",
       "rank": 6,
@@ -26523,65 +26638,6 @@
         ],
         "confidence": 78
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-06",
-      "rank": 4,
-      "name": "Incredible",
-      "slug": "incredible-3",
-      "tagline": "Vibe computing. Control your computer with your voice.",
-      "description": "Incredible is your personal AI assistant that gets work done on your computer. It learns how you work by watching you do it. Show it a task on your computer, talk through the steps, and let it handle the routine from there, from processing invoices and updating your CRM to editing spreadsheets.",
-      "category": "Productivity • Artificial Intelligence • Menu Bar Apps",
-      "categoryFa": "بهره‌وری • هوش مصنوعی • Menu Bar Apps",
-      "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/271335d1-1d68-470d-9706-12bcfd32b719.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/9ffc1ba6-97ee-4fb3-b40c-76cc1bae66ce.jpeg?auto=format",
-        "https://ph-files.imgix.net/d11daebe-fe61-4ed2-ad66-ffd01f13e288.png?auto=format",
-        "https://ph-files.imgix.net/ac411eb7-ab07-4543-aca8-276a78138ae1.png?auto=format",
-        "https://ph-files.imgix.net/8deacb87-0c0b-4a10-adeb-ab599b394505.png?auto=format",
-        "https://ph-files.imgix.net/ce231239-4163-48d3-afa3-822564984978.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 241,
-      "websiteUrl": "https://www.producthunt.com/r/4HJ5NAOQFNL6CT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, Emil here, CTO at Incredible.A bit on how it works, since people usually ask. Incredible runs on your own computer. When you hold the key and talk, it looks at what's on your screen, plans the steps, and then clicks and types in your real browser and apps. Because it uses the browser you're already signed in to, it also works in tools that have no API or integration, like an old supplier portal or your company's internal admin page.Before anything is sent or deleted, it stops and asks you. For bigger jobs you see the plan first.I'm here all day answering questions. If you try it and something breaks, tell me and I'll look at it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Interesting design! Is this similar to the Dots and similar tools that have been launched recently? How would you say it differs and what is it's sweet spot?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the idea of controlling my computer by voice. Great job guys!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Oh wow! It’s probably one of the easiest to understand products I’ve ever seen. Watched the promo video and got it right away. Excellent! 👏Can it jump between tabs? If I have an accounting software open in one browser and then a spreadsheet in another. Can it transfer data from one to the other ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi all, congrats on the launch! I used to do a lot of work in software accessibility many, many years ago. First, my technical question. Can you tell me more about the implementation? Are you going through the OS level accessibility tree for a Mac or Windows? Or is this just for web-based apps where you're going through the DOM? Or are you doing something totally different by recording mouse movements?Who is your targeted audience that you're designing for? At first I thought this might be an app for someone with low dexterity, but it is unclear to me what the setup or training would look like."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What happens if something goes wrong halfway through a task? Can Incredible pick up where it left off without doing the same steps twice?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Incredible team :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Huge congrats on the launch @Incredible team, the way it handles tasks right in your existing browser tabs is super slick."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -27027,6 +27083,125 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-06",
+      "rank": 5,
+      "name": "Fuse AI",
+      "slug": "fuse-ai",
+      "tagline": "Build a Custom GTM Stack. One SDK. One MCP.",
+      "description": "Your GTM stack shouldn’t need a dozen tools, subscriptions, and APIs. Fuse gives developers and AI agents one SDK and MCP for the entire workflow. Think OpenRouter x Apollo x Clay x Zapier. Fuse takes care of web automations, data enrichment, multi-channel outreach, workflows, and AI agents. Build unlimited workflows and agents on top, without stitching together separate GTM products for every step.",
+      "category": "Sales • API • Artificial Intelligence",
+      "categoryFa": "فروش • API • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/fuseai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/5b492fe2-2074-4a01-81c0-d8fa0bdac263.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7a556450-a54e-4e0e-83df-d144927a64e5.jpeg?auto=format",
+        "https://ph-files.imgix.net/8ff3b686-8994-4143-b193-0991c7586e4a.png?auto=format",
+        "https://ph-files.imgix.net/d8eb7b4b-35e7-4bbc-945c-ae1cafe448e4.png?auto=format",
+        "https://ph-files.imgix.net/5ccccb4f-a5b6-4770-b554-1a424016686f.png?auto=format",
+        "https://ph-files.imgix.net/e22a703b-6937-4223-9d34-857d19f3243a.png?auto=format",
+        "https://ph-files.imgix.net/d07dc218-21d6-4e0e-a363-bf2b024fbcf8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 237,
+      "websiteUrl": "https://www.producthunt.com/r/I3CDQPOEFCTVY6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 Saurav here, co-founder of Fuse - I previously helped build GTM systems at Deel (YC 19) and quickly realized legacy GTM software was too clunky, rigid, and difficult for teams to manage.Today, we’re launching one SDK and MCP to run your entire GTM stack. A new type of product for GTM teams, think OpenRouter meets Apollo meets Clay, but for GTM.Your GTM stack shouldn’t need a dozen tools, subscriptions, and APIs.We built Fuse to bring all of that together: 1,000+ applications, 40+ data providers, web scraping, AI research agents, managed multi-channel outreach infrastructure, workflows, AI context layer, and much more, accessible through one SDK and MCP.With Fuse you can own custom GTM infrastructure in Claude, ChatGPT, Perplexity, and more, or embed Fuse directly into your application.Here are a few things you can build:🔎 An agent that finds your next customers: Find people and companies that match your ICP, enrich their emails and phone numbers through 40+ data providers, and sync qualified prospects to your CRM.🧠 Your own GTM brain: Connect your business context to your agents so they can research accounts, qualify prospects, and tailor outreach around what matters to your company.🌐 Your own AI research team: Build agents that scrape websites, research accounts, track company signals, and turn unstructured information into useful context for your sales team.⚡ Multi-channel outreach on autopilot: Turn research into personalized email, LinkedIn, and power dialing sequences using managed outreach infrastructure.🛠️ Custom GTM tools inside the AI products you already use: Build account research assistants, prospecting workflows, or a GTM command center tailored to your business.Our goal is to give developers, sales professionals, and AI agents the infrastructure to build any GTM workflow they can imagine. You bring the logic, your customer knowledge, and the ideas. Fuse handles the underlying infrastructure.We’d love for you to try it and tell us what’s missing - feel free to text me anytime at 628-800-4934 for any product feedback or requests, we'll ensure we will prioritize it! :)We’ll be here in the comments answering questions and helping you get started. 🚀LAUNCH SPECIAL: All Product Hunt Users will get an exclusive 20% OFF all-plans for this week! 😊Fun Question: What’s the first thing you’d build if your entire GTM stack was available through one SDK and MCP?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does it also handle marketing funnels or is it purely a sales tool?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As someone just starting out in this arena, I can see that this could be a HUGE help, both in execution in just keeping track of the sheer volume of details, tools, and targets! Congrats on the launch! I look forward to seeing what it can do!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "interesting!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Ive seen how quickly a simple GTM workflow turns into 5–10 different integrations. Putting the infrastructure behind one SDK is a pretty compelling approach."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really interesting approach. Bringing so much of the GTM stack into one SDK could remove a lot of unnecessary integration work."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "really cool, congrats!Is this more for continuous GTM efforts, or does it also support apps such as PH too? I'm actually thinking of doing my own PH launch, and could definitely use some help with it lol."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hey hey congrats! if you want, you can list those endpoints on ApyHub (I co-founded it), an API catalog for devs and AI agents: around 10 min, no exclusivity, callable by agents through our MCP out of the box. we don't have waterfall enrichment in the catalog yet. apyhub.com/become-a-provider, happy to help set it up"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-6",
+      "date": "2026-10-06",
+      "rank": 6,
+      "name": "Extrovert",
+      "slug": "extrovert-10",
+      "tagline": "Run LinkedIn outreach from your agent",
+      "description": "Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice. Review in 20 minutes a day, or hand the whole job to your Claude.",
+      "category": "Sales • Marketing • LinkedIn",
+      "categoryFa": "فروش • بازاریابی • LinkedIn",
+      "url": "https://www.producthunt.com/products/extrovert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9a811123-c871-43bd-902a-d50df261044b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/24ac9e29-a2a0-4502-af50-69d2737533c1.jpeg?auto=format",
+        "https://ph-files.imgix.net/b841604b-a791-4686-b7a7-1b5ffd0f8010.png?auto=format",
+        "https://ph-files.imgix.net/6074dd26-7bf0-49d1-a6ec-01541b18847f.png?auto=format",
+        "https://ph-files.imgix.net/09004555-a60f-4142-aaae-1782729d891d.png?auto=format",
+        "https://ph-files.imgix.net/e4f23b4e-6016-4d3d-9189-84d542cd417f.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 236,
+      "websiteUrl": "https://www.producthunt.com/r/7SIV3AMV5HON7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH! Oleg here, founder of Extrovert 🤘 A lot has changed since our last launch. We’ve taken Extrovert from an outreach copilot you operate yourself to a product your own AI agent can run for you, from finding prospects and setting up campaigns to reviewing comments, writing DMs, and following up. You can connect Claude, ChatGPT, or another MCP client and work from the chat, giving it permission to handle routine actions while keeping anything you want to review yourself. The regular UI is still there, but you no longer have to do all the clicking. The idea behind it is something I care about as a founder: I want the quality of thoughtful, manual outreach without spending half my day checking LinkedIn and remembering who to follow up with. Our goal is manual-quality LinkedIn outreach at 10% of the effort, whether you review the prepared work yourself or delegate it to your agent. That’s also why Extrovert works differently from a sequencer. Instead of moving everyone through the same steps, it uses their posts, your conversation history, and the pace you set to suggest the next comment or DM. Follow-ups can continue after someone replies, because “sounds interesting, I’ll book a call” is usually where the actual sales work starts. Here’s what’s inside: 1. Lead Finder and Intent Signals to find prospects by fit and relevant LinkedIn activity. 2. Prioritized comments and recommended DMs, with drafts based on the post or conversation. 3. Your Voice, built from your business context, writing examples, and DM playbook. 4. MCP tools for your agent to handle setup and daily outreach with the permissions you give it. 5. Team and agency accounts to run the same workflow for colleagues or clients. Give it a try and let me know what you’d trust your agent to handle :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Suggesting who to comment on or DM today, and not just dumping a big list, is the smart part. a short daily list I can actually finish beats a huge one I ignore.."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When you say LinkedIn outreach, do we mean mainly from a social standpoint such as handling posts, replies, newsletters?Or is it more for sales such as researching leads, emailing them, etc.?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love Extrovert and the team of @oleg_sobolev and @dmitry_bergelson !Sales is built on trust and relationship building, I hate spamming and sending cold dm's. Yeah surprise it never works! Extrovert makes outreach intelligent, warm and human! Love extrovert!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great product! Congrats! For how long do you recommend to warmup a lead before sending a DM with a proposal? It’s quite annoying when people send something right after I accept their connection request, it’s equally annoying when they do it like next day or even in a couple of days :-D How many likes/comments does it take to build a relationship? Also, I’m curious to learn what types of companies benefit the most from you tool - B2B, agencies? How about job candidates? What are the most successful use cases?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks really interesting!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'm actually trying to boost my LinkedIn profile right now. And I do outreach pretty often.Great product - good luck with the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Oleg and team!I've used Extrovert for my LinkedIn comments since June. This weekend I connected it to Claude and tried the new features from the chat.Lead Finder was the highlight. Previews are free, so Claude could test filters before spending credits. My first search for LinkedIn ghostwriters returned 709 people, including book ghostwriters and a photographer. One tighter search later it was down to 138, and most of them fit.It also helped me tidy up. I was at 739 of 750 prospects, so Claude found the 136 who hadn't posted in 30 days, removed them after I confirmed, and is now trimming the rest down to my ICP. The two-comment warm-up and the DM playbook are next.One thing I'd love to see next is outgoing signals. When I scroll my feed, I like the posts I want to come back to later. A signal that turns those likes into a campaign would cover the people I want to reach who don't engage with my posts."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-08-06",
       "rank": 4,
@@ -27158,7 +27333,66 @@
           "user": "[REDACTED]",
           "text": "Congrats.. very nice for amazing price .. is it possible to add voice over ?"
         }
-      ]
+      ],
+      "faDescription": "اسموث ریکوردر یک برنامه نیتیو مک برای ضبط ویدیوهای دموی محصول و ویدیوهای آموزشی است. این نرم‌افزار به طور خودکار روی نقاط کلیک‌شده زوم می‌کند، حرکت نشانگر موس را نرم و یکنواخت می‌سازد، و زیرنویس‌های خودکار را در خود سیستم مک تولید می‌نماید. همچنین تمامی ویدیوها را روی یک پس‌زمینه زیبا قرار می‌دهد تا بلافاصله پس از اتمام ضبط، ظاهر تدوین‌شده و حرفه‌ای داشته باشند. اسکرین‌شات‌ها نیز از همین ویژگی‌ها بهره‌مند می‌شوند و به شکلی جذاب آماده اشتراک‌گذاری می‌باشند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پراداکت هانت! من انس هستم. من Smooth Recorder را ساختم چون هر بار که یک دموی محصول ضبط می‌کردم، خود ضبط بخش آسان کار بود. ویرایش ویدیو یک ساعت طول می‌کشید: زوم کردن روی کلیک‌ها، پنهان کردن لرزش موس، افزودن زیرنویس و قرار دادن آن روی یک پس‌زمینه تا شبیه یک ضبط خام به نظر نرسد. بنابراین برنامه‌ای ساختم که همه این کارها را برای شما انجام دهد. ✨ ویژگی‌ها: • زوم خودکار - روی محل کلیک زوم می‌کند و موس را دنبال می‌کند تا بینندگان به راحتی ویدیو را دنبال کنند. • افکت سه‌بعدی (جدید در نسخه ۱.۱) - یک زاویه ملایم هنگام زوم اضافه می‌کند تا ظاهر سینمایی‌تری داشته باشد. • موس نرم، حباب دوربین و زیرنویس - زیرنویس‌ها روی مک شما تولید می‌شوند و می‌توانید ویدیو را فقط با حذف کلمات از متن پیاده‌شده ویرایش کنید. • اسکرین‌شات‌های زیبا - کلید ⌥۱ را فشار دهید، یک منطقه را انتخاب کنید و بلافاصله روی یک تصویر پس‌زمینه با سایه قرار می‌گیرد و آماده به اشتراک‌گذاری است. شامل ۷۶ تصویر پس‌زمینه. این یک برنامه بومی macOS است (با SwiftUI ساخته شده، نه یک برنامه وب در یک پنجره). 💰 دسترسی اولیه: ۹ دلار یک‌باره. ❌ بدون اشتراک. ❌ بدون نیاز به حساب کاربری. خوشحال می‌شوم بشنوم چه چیزی با آن ضبط می‌کنید و دوست دارید چه ویژگی‌هایی را در آینده ببینید. من همه پاسخ‌ها را می‌خوانم. ❤️"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من عاشق این محصول هستم و آن را خریدم. این هم چند بازخورد: ضبط کردن بسیار ساده و مستقیم است. رابط و تجربه کاربری تمیز است اما مواردی وجود دارد که دوست دارم بهبود یابد: ۱. کشیدن نشانگر یا لبه‌های بخش‌های ویدیو: «منطقه لمس» بسیار کوچک است. برای کشیدن آن باید نشانگر موس خود را دقیقاً روی لبه ویدیو یا نشانگر تایم‌لاین تنظیم کنید. ۲. دکمه «Undo» کنار آیکون سطل آشغال: من حدود ۳۰ دقیقه از کار برش و ویرایشم را از دست دادم زیرا تصور می‌کردم دکمه Undo لغو آخرین اقدام است، اما مشخص شد که تمام ویرایش‌های انجام شده روی کلیپ را بدون پرسش در یک پاپ‌آپ لغو می‌کند. لطفاً یا یک پاپ‌آپ برای این اقدام مخرب اضافه کنید یا دکمه را به «لغو آخرین اقدام» واقعی تغییر دهید و یک دکمه Redo کنار آن بگذارید. ۳. اغلب اوقات کلیک روی یک کلیپ ویدیو آن را انتخاب نمی‌کند؛ تنها زمانی کار می‌کند که نشانگر تایم‌لاین روی آن کلیپ باشد و در سمت چپ نشانگر کلیک کنید. غیر از این موارد: تبریک برای عرضه چنین محصول خوش‌ساختی!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "واقعاً کاربردی به نظر می‌رسد. این ویژگی که ویدیو از قبل تدوین‌شده به نظر می‌رسد را دوست دارم. آیا قیمت ۹ دلاری فقط برای دسترسی اولیه است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چه چیزی آن را از ابزارهایی مانند Cap.so و Kap متمایز می‌کند؟ به نظر من رابط کاربری و مجموعه ویژگی‌های آن شباهت زیادی به Cap دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "قابلیت «تار کردن هوشمند» (Smart Redact) همان ویژگی است که واقعاً باعث می‌شود من به استفاده از این ابزار روی بیاورم. من ویدیوهای داخلی زیادی ضبط می‌کنم که در نهایت کلیدهای API یا شماره تلفن مشتریان در ترمینال یا داشبورد قرار می‌گیرند و تار کردن دستی مرحله‌ای است که همیشه فراموش می‌کنم. یک سوال درباره تشخیص: آیا بر اساس الگو کار می‌کند (Regex برای رشته‌های شبیه کلید و فرمت تلفن) یا متون بدون ساختار مثل یک نام در چت را هم تشخیص می‌دهد؟ نسخه مبتنی بر الگو هنوز کاربردی است اما مخاطره خطای تشخیص متفاوتی دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "فوق‌العاده است! تبریک می‌گویم!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "زیرنویس‌های خودکار روی دستگاه در ضبط‌های طولانی با لهجه‌هایی مثل انگلیسی هندی چطور عمل می‌کنند؟ آیا ابتدا نیاز به دانلود مدل دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک... برای چنین قیمت فوق‌العاده‌ای بسیار عالی است.. آیا امکان اضافه کردن صداگذاری (Voice Over) روی ویدیو وجود دارد؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nضبط صفحه‌نمایش کاری ساده است، اما تبدیل آن به یک ویدیوی جذاب و حرفه‌ای معمولاً نیازمند ساعت‌ها زمان برای زوم روی بخش‌های مهم، نرم کردن حرکات زشت موس، اضافه کردن زیرنویس و تنظیم پس‌زمینه در نرم‌افزارهای پیچیده تدوین است. Smooth Recorder با خودکارسازی کامل این فرآیند هنگام ضبط، محصولی ارائه می‌دهد که به محض فشردن دکمه توقف، ویدیویی کاملاً تدوین‌شده و آماده انتشار تحویل می‌دهد.\n\n### معماری و تکنولوژی\nاین برنامه به صورت نیتیو با SwiftUI برای macOS توسعه یافته است که باعث مصرف بهینه منابع سیستم و سرعت بالا می‌شود. فرآیند تولید زیرنویس به صورت آفلاین و روی خود دستگاه (On-device) انجام می‌گیرد که امنیت و حریم خصوصی کاربر را حفظ می‌کند. همچنین قابلیت ویرایش ویدیو بر اساس متن (Text-based editing) تجربه کاربری بسیار روانی را فراهم کرده است.\n\n### مدل درآمدی\nاستراتژی قیمت‌گذاری پرداخت یک‌باره ۹ دلاری برای دسترسی اولیه (Early Access) بدون نیاز به اشتراک ماهانه یا ساخت حساب کاربری، یک پیشنهاد بسیار جذاب برای جذب سریع کاربران اولیه در وب‌سایت‌هایی نظیر Product Hunt بوده است.\n\n### نقاط قوت\n- عدم نیاز به اشتراک ماهانه و قیمت بسیار اقتصادی\n- اجرای بومی و آفلاین بدون درگیر کردن سرور و حفظ حریم خصوصی\n- خودکارسازی زوم، حرکت موس و زیبایی پس‌زمینه بدون نیاز به دانش تدوین\n\n### نقاط ضعف\n- وجود برخی باگ‌های جدی در تجربه کاربری تایم‌لاین و عملکرد دکمه Undo (طبق بازخورد کاربران)\n- رقابت فشرده با ابزارهای مشابه مانند Cap.so و Kap\n- عدم پشتیبانی فعلی از ویژگی‌های هوشمندی مثل تار کردن خودکار اطلاعات حساس (Smart Redact)\n\n### نکته طلایی برای بازار ایران\nتوسعه یک نسخه مشابه برای مک و ویندوز که توانایی تبدیل گفتار به زیرنویس فارسی به صورت آفلاین (با مدل‌های سبک Whisper) را داشته باشد و امکان خرید لایسنس ریالی را فراهم کند، می‌تواند به ابزار شماره یک مدرسان آنلاین، استارتاپ‌ها و یوتیوبرهای ایرانی تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "پارس ریکوردر (Pars Recorder)",
+        "description": "یک نرم‌افزار هوشمند و بومی برای ضبط صفحه‌نمایش جهت ساخت ویدیوهای آموزشی و دموی محصولات در مک و ویندوز. این ابزار به صورت خودکار حرکات موس را نرم کرده، روی کلیک‌ها زوم می‌کند و پس‌زمینه حرفه‌ای به ویدیوها می‌افزاید. توسعه‌دهندگان و مدرسان ایرانی می‌توانند بدون نیاز به دانش تدوین، در چند ثانیه خروجی ویدیوهای جذاب تولید کنند.",
+        "marketOpportunity": "با رونق آموزش آنلاین، کسب‌وکارهای نرم‌افزاری و تولید محتوای اینستاگرام و یوتیوب در ایران، نیاز شدیدی به ابزار سریع ساخت ویدیو وجود دارد. فقدان ابزار بومی با قابلیت پشتیبانی از زیرنویس فارسی آفلاین و قیمت‌گذاری ریالی، فرصتی طلایی برای تسخیر این بازار ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوا، مدرسین آنلاین، مدیران محصول، توسعه‌دهندگان نرم‌افزار و تیم‌های مارکتینگ",
+        "challenges": [
+          "پیاده‌سازی الگوریتم‌های پردازش تصویر برای زوم و نرم‌سازی موس بدون ایجاد افت فریم در ضبط",
+          "توسعه مدل آفلاین تشخیص گفتار و تولید زیرنویس دقیق برای زبان فارسی روی سیستم کاربر"
+        ],
+        "monetization": [
+          "فروش لایسنس دائمی نرم‌افزار (پرداخت یک‌باره)",
+          "ارائه اشتراک ویژه برای دسترسی به قالب‌های پس‌زمینه اختصاصی و ابزارهای پیشرفته هوش مصنوعی"
+        ],
+        "techStack": [
+          "SwiftUI",
+          "CoreML",
+          "Next.js",
+          "PostgreSQL",
+          "Electron"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -27649,65 +27883,6 @@
         {
           "user": "کاربر ProductHunt 1",
           "text": "سلام به همه! همیشه طرفدار بزرگ @Unsloth هستم — از کدبیس اصلی تا نسخه وب، استفاده از آن همیشه ساده‌تر می‌شود. نسخه دسکتاپ کامل‌ترین نسخه‌ای است که در حال ساخت هستند. همه چیز را در یک برنامه native برای Mac، Windows و Linux بسته‌بندی می‌کند. می‌توانید LLMها، مدل‌های انتشار تصویر/ویدیو و صدا را کاملاً آفلاین اجرا و آموزش دهید بدون اینکه به ترمینال دست بزنید. احتمالاً اولین نسخه Unsloth است که می‌توانم به کسی که مدل‌های محلی را دوست دارد اما نمی‌خواهد AI محلی تبدیل به پروژه‌ای برای آخر هفته شود، توصیه کنم. یک مدل و کوانتیزیشن را انتخاب کنید، دانلود کنید و شروع کنید. همچنین این مدل‌های محلی را خارج از برنامه مفید می‌کند. دستور unsloth start اجازه می‌دهد ابزارهای عامل که قبلاً استفاده می‌کنید، مستقیماً به آن‌ها صدا بزنند. رایگان، متن‌باز و در نهایت یک برنامه دسکتاپ مناسب 🦥"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-10-06",
-      "rank": 5,
-      "name": "Extrovert",
-      "slug": "extrovert-10",
-      "tagline": "Run LinkedIn outreach from your agent",
-      "description": "Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice. Review in 20 minutes a day, or hand the whole job to your Claude.",
-      "category": "Sales • Marketing • LinkedIn",
-      "categoryFa": "فروش • بازاریابی • LinkedIn",
-      "url": "https://www.producthunt.com/products/extrovert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9a811123-c871-43bd-902a-d50df261044b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/24ac9e29-a2a0-4502-af50-69d2737533c1.jpeg?auto=format",
-        "https://ph-files.imgix.net/b841604b-a791-4686-b7a7-1b5ffd0f8010.png?auto=format",
-        "https://ph-files.imgix.net/6074dd26-7bf0-49d1-a6ec-01541b18847f.png?auto=format",
-        "https://ph-files.imgix.net/09004555-a60f-4142-aaae-1782729d891d.png?auto=format",
-        "https://ph-files.imgix.net/e4f23b4e-6016-4d3d-9189-84d542cd417f.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 226,
-      "websiteUrl": "https://www.producthunt.com/r/7SIV3AMV5HON7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH! Oleg here, founder of Extrovert 🤘 A lot has changed since our last launch. We’ve taken Extrovert from an outreach copilot you operate yourself to a product your own AI agent can run for you, from finding prospects and setting up campaigns to reviewing comments, writing DMs, and following up. You can connect Claude, ChatGPT, or another MCP client and work from the chat, giving it permission to handle routine actions while keeping anything you want to review yourself. The regular UI is still there, but you no longer have to do all the clicking. The idea behind it is something I care about as a founder: I want the quality of thoughtful, manual outreach without spending half my day checking LinkedIn and remembering who to follow up with. Our goal is manual-quality LinkedIn outreach at 10% of the effort, whether you review the prepared work yourself or delegate it to your agent. That’s also why Extrovert works differently from a sequencer. Instead of moving everyone through the same steps, it uses their posts, your conversation history, and the pace you set to suggest the next comment or DM. Follow-ups can continue after someone replies, because “sounds interesting, I’ll book a call” is usually where the actual sales work starts. Here’s what’s inside: 1. Lead Finder and Intent Signals to find prospects by fit and relevant LinkedIn activity. 2. Prioritized comments and recommended DMs, with drafts based on the post or conversation. 3. Your Voice, built from your business context, writing examples, and DM playbook. 4. MCP tools for your agent to handle setup and daily outreach with the permissions you give it. 5. Team and agency accounts to run the same workflow for colleagues or clients. Give it a try and let me know what you’d trust your agent to handle :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Suggesting who to comment on or DM today, and not just dumping a big list, is the smart part. a short daily list I can actually finish beats a huge one I ignore.."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When you say LinkedIn outreach, do we mean mainly from a social standpoint such as handling posts, replies, newsletters?Or is it more for sales such as researching leads, emailing them, etc.?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love Extrovert and the team of @oleg_sobolev and @dmitry_bergelson !Sales is built on trust and relationship building, I hate spamming and sending cold dm's. Yeah surprise it never works! Extrovert makes outreach intelligent, warm and human! Love extrovert!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great product! Congrats! For how long do you recommend to warmup a lead before sending a DM with a proposal? It’s quite annoying when people send something right after I accept their connection request, it’s equally annoying when they do it like next day or even in a couple of days :-D How many likes/comments does it take to build a relationship? Also, I’m curious to learn what types of companies benefit the most from you tool - B2B, agencies? How about job candidates? What are the most successful use cases?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks really interesting!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I'm actually trying to boost my LinkedIn profile right now. And I do outreach pretty often.Great product - good luck with the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Oleg and team!I've used Extrovert for my LinkedIn comments since June. This weekend I connected it to Claude and tried the new features from the chat.Lead Finder was the highlight. Previews are free, so Claude could test filters before spending credits. My first search for LinkedIn ghostwriters returned 709 people, including book ghostwriters and a photographer. One tighter search later it was down to 138, and most of them fit.It also helped me tidy up. I was at 739 of 750 prospects, so Claude found the 136 who hadn't posted in 30 days, removed them after I confirmed, and is now trimming the rest down to my ICP. The two-comment warm-up and the DM playbook are next.One thing I'd love to see next is outgoing signals. When I scroll my feed, I like the posts I want to come back to later. A signal that turns those likes into a campaign would cover the people I want to reach who don't engage with my posts."
         }
       ]
     },
@@ -28783,66 +28958,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-06",
-      "rank": 6,
-      "name": "Fuse AI",
-      "slug": "fuse-ai",
-      "tagline": "Build a Custom GTM Stack. One SDK. One MCP.",
-      "description": "Your GTM stack shouldn’t need a dozen tools, subscriptions, and APIs. Fuse gives developers and AI agents one SDK and MCP for the entire workflow. Think OpenRouter x Apollo x Clay x Zapier. Fuse takes care of web automations, data enrichment, multi-channel outreach, workflows, and AI agents. Build unlimited workflows and agents on top, without stitching together separate GTM products for every step.",
-      "category": "Sales • API • Artificial Intelligence",
-      "categoryFa": "فروش • API • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/fuseai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/5b492fe2-2074-4a01-81c0-d8fa0bdac263.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7a556450-a54e-4e0e-83df-d144927a64e5.jpeg?auto=format",
-        "https://ph-files.imgix.net/8ff3b686-8994-4143-b193-0991c7586e4a.png?auto=format",
-        "https://ph-files.imgix.net/d8eb7b4b-35e7-4bbc-945c-ae1cafe448e4.png?auto=format",
-        "https://ph-files.imgix.net/5ccccb4f-a5b6-4770-b554-1a424016686f.png?auto=format",
-        "https://ph-files.imgix.net/e22a703b-6937-4223-9d34-857d19f3243a.png?auto=format",
-        "https://ph-files.imgix.net/d07dc218-21d6-4e0e-a363-bf2b024fbcf8.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 218,
-      "websiteUrl": "https://www.producthunt.com/r/I3CDQPOEFCTVY6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 Saurav here, co-founder of Fuse - I previously helped build GTM systems at Deel (YC 19) and quickly realized legacy GTM software was too clunky, rigid, and difficult for teams to manage.Today, we’re launching one SDK and MCP to run your entire GTM stack. A new type of product for GTM teams, think OpenRouter meets Apollo meets Clay, but for GTM.Your GTM stack shouldn’t need a dozen tools, subscriptions, and APIs.We built Fuse to bring all of that together: 1,000+ applications, 40+ data providers, web scraping, AI research agents, managed multi-channel outreach infrastructure, workflows, AI context layer, and much more, accessible through one SDK and MCP.With Fuse you can own custom GTM infrastructure in Claude, ChatGPT, Perplexity, and more, or embed Fuse directly into your application.Here are a few things you can build:🔎 An agent that finds your next customers: Find people and companies that match your ICP, enrich their emails and phone numbers through 40+ data providers, and sync qualified prospects to your CRM.🧠 Your own GTM brain: Connect your business context to your agents so they can research accounts, qualify prospects, and tailor outreach around what matters to your company.🌐 Your own AI research team: Build agents that scrape websites, research accounts, track company signals, and turn unstructured information into useful context for your sales team.⚡ Multi-channel outreach on autopilot: Turn research into personalized email, LinkedIn, and power dialing sequences using managed outreach infrastructure.🛠️ Custom GTM tools inside the AI products you already use: Build account research assistants, prospecting workflows, or a GTM command center tailored to your business.Our goal is to give developers, sales professionals, and AI agents the infrastructure to build any GTM workflow they can imagine. You bring the logic, your customer knowledge, and the ideas. Fuse handles the underlying infrastructure.We’d love for you to try it and tell us what’s missing - feel free to text me anytime at 628-800-4934 for any product feedback or requests, we'll ensure we will prioritize it! :)We’ll be here in the comments answering questions and helping you get started. 🚀LAUNCH SPECIAL: All Product Hunt Users will get an exclusive 20% OFF all-plans for this week! 😊Fun Question: What’s the first thing you’d build if your entire GTM stack was available through one SDK and MCP?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does it also handle marketing funnels or is it purely a sales tool?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "As someone just starting out in this arena, I can see that this could be a HUGE help, both in execution in just keeping track of the sheer volume of details, tools, and targets! Congrats on the launch! I look forward to seeing what it can do!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "interesting!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Ive seen how quickly a simple GTM workflow turns into 5–10 different integrations. Putting the infrastructure behind one SDK is a pretty compelling approach."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really interesting approach. Bringing so much of the GTM stack into one SDK could remove a lot of unnecessary integration work."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "really cool, congrats!Is this more for continuous GTM efforts, or does it also support apps such as PH too? I'm actually thinking of doing my own PH launch, and could definitely use some help with it lol."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "hey hey congrats! if you want, you can list those endpoints on ApyHub (I co-founded it), an API catalog for devs and AI agents: around 10 min, no exclusivity, callable by agents through our MCP out of the box. we don't have waterfall enrichment in the catalog yet. apyhub.com/become-a-provider, happy to help set it up"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -30432,7 +30547,54 @@
           "user": "[REDACTED]",
           "text": "Zero config docs where you just drop Markdown into a folder and get a production ready site is exactly what most projects want, and being open source forever is a strong promise. Building it AI ready from the start makes sense now that agents read docs as often as people do. Nice work shipping 2.0 so soon after launch."
         }
-      ]
+      ],
+      "faDescription": "بلوم ۲.۰ یک فریم‌ورک مستندسازی بسیار سریع، آماده برای هوش مصنوعی و بدون نیاز به پیکربندی اولیه است. شما می‌توانید فایل‌های مارک‌داون خود را به‌سادگی درون یک پوشه قرار دهید و یک سایت مستندسازی در سطح تجاری را بدون نیاز به نوشتن یا نگهداری کد اولیه آماده و منتشر کنید. این محصول فرایند ساخت مستندات را برای توسعه‌دهندگان بسیار ساده می‌سازد و زمان راه‌اندازی را به حداقل می‌رساند. بلوم به‌صورت کاملاً رایگان و متن‌باز برای همیشه در دسترس خواهد بود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "همواره در حال رونمایی باشید! بلوم ۲.۰ که اولین بار ۲ ماه پیش معرفی شده بود، همین حالا منتشر شده است. این جایگزین متن‌باز Mintlify که سریع، بهینه‌شده برای هوش مصنوعی و بدون نیاز به پیکربندی است، توسط محصولاتی مانند Neon استفاده می‌شود و از پشتیبانی Cloudflare و CodeRabbit برخوردار است. خداقوت به haydenbleasel برای این انتشار جدید! 👏👏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخش «امتیازدهی توسط دو اسکنر مستقل» در اسکرین‌شات‌ها بیشتر از ادعای عدم نیاز به پیکربندی توجه من را جلب کرد؛ گرفتن امتیاز خوانایی برای عامل‌های هوش مصنوعی (Agents) شبیه معادل ممیزی سئو برای یک خواننده متفاوت است. ما بیشتر مستندات داخلی خود را با ارجاع دادن کلود به کدهای پروژه ایجاد می‌کنیم، اما هرگز راهی نداشتم تا بررسی کنم آیا خروجی برای تحلیل بعدی هوش مصنوعی ساده است یا فقط برای مرور سریع انسان. اسکنر دقیقاً چه چیزی را بررسی می‌کند؛ ساختار و تیترها را یا چک می‌کند که آیا نمونه‌کدها قابل اجرا هستند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا می‌توانم یک کامپوننت سفارشی ری‌اکت یا استرو مثل یک دمو کوچک یا جدول قیمت‌گذاری را داخل صفحه مارک‌داون اضافه کنم؟ یا فقط از مارک‌داون ساده پشتیبانی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش «فایل مارک‌داون را در پوشه بینداز و تحویل بگیر» همان چیزی است که دوست دارم. هیچ کد اولیه‌ای برای تنظیم یا به‌روزرسانی مداوم وجود ندارد. من بارها بعدازظهرهای کاملم را فقط برای راه‌اندازی و بیلد یک سایت مستندات از دست داده‌ام."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "مستندات بدون نیاز به پیکربندی که در آن فقط فایل‌های مارک‌داون را قرار می‌دهید و یک سایت آماده تحویل می‌گیرید دقیقاً همان چیزی است که اکثر پروژه‌ها می‌خواهند و متن‌باز بودن همیشگی یک تعهد قوی است. آماده‌سازی آن برای هوش مصنوعی از همان ابتدا منطقی است، زیرا این روزها عامل‌های هوش مصنوعی به اندازه انسان‌ها مستندات را می‌خوانند. عالی بود که نسخه ۲.۰ را این‌قدر زود پس از عرضه اولیه منتشر کردید."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان معمولاً زمان زیادی را صرف پیکربندی و نگهداری ابزارهای مستندسازی می‌کنند و از طرفی مستندات موجود برای پردازش توسط عامل‌های هوش مصنوعی (AI Agents) بهینه‌سازی نشده‌اند. Blume ۲.۰ با رویکرد Zero-Config و تمرکز بر معماری Markdown-first، فرایند انتشار مستندات تجاری را لحظه‌ای کرده و هم‌زمان ساختار آن را برای فهم ماشین و انسان بهینه می‌سازد.\n\nمعماری و تکنولوژی:\nاین محصول بر پایه فناوری‌های مدرن وب توسعه یافته و تمرکز ویژه‌ای روی بهینه‌سازی ساختار متنی (Agent-Readability) دارد. ارائه ابزارهای اسکن مستقل برای ارزیابی قابلیت خوانایی توسط هوش مصنوعی، نوآوری اصلی معماری آن نسبت به رقبای سنتی نظیر Docusaurus است.\n\nمدل درآمدی:\nپروژه اصلی به‌صورت متن‌باز و رایگان ارائه می‌شود. مدل درآمدی آن بر پایه ارائه خدمات میزبانی ابری (Managed Cloud)، قابلیت‌های پیشرفته امنیتی سازمانی (SSO، کنترل دسترسی)، و ارائه تحلیل‌های پیشرفته از میزان و نحوه تعامل عامل‌های هوش مصنوعی با مستندات استوار است.\n\nنقاط قوت:\n- راه‌اندازی فوق‌العاده سریع بدون نیاز به Boilerplate\n- تعهد به متن‌باز بودن همیشگی\n- بهینه‌سازی پیش‌فرض برای هوش مصنوعی (AI-ready)\n- جلب اعتماد و حمایت بازیگران بزرگ صنعتی همچون Cloudflare و Neon\n\nنقاط ضعف:\n- نیاز به شفاف‌سازی بیشتر در زمینه پشتیبانی از کامپوننت‌های تعاملی و پویا (مانند React/MDX)\n- ریسک رقابت مستقیم با رقبای جاافتاده‌تر مانند Mintlify در صورت عدم توسعه سریع اکوسیستم\n\nنکته طلایی برای بازار ایران:\nدر ایران، تیم‌های نرم‌افزاری به دنبال راه‌حل‌های سریع، بدون نیاز به زیرساخت‌های تحریم‌شده و با پشتیبانی کامل از زبان فارسی هستند. پیاده‌سازی نسخه بومی این ابزار با پشتیبانی راست‌چین (RTL) نیتیو، قابلیت جستجوی هوشمند متنی به زبان فارسی بر پایه دیتابیس‌های برداری، و امکان اتصال مستقیم به ریپازیتوری‌های محلی (مانند گیت‌لب اختصاصی شرکت‌ها) می‌تواند اقبال بسیار بالایی در میان شرکت‌های بزرگ و دانش‌بنیان ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "مستندیا (Docsiya)",
+        "description": "مستندیا یک پلتفرم بومی برای ساخت و انتشار سریع مستندات فنی پروژه‌ها بر پایه فایل‌های مارک‌داون است. این سیستم بدون نیاز به تنظیمات پیچیده، مستنداتی بهینه برای جستجوگران انسانی و عامل‌های هوش مصنوعی تولید می‌کند. تیم‌های نرم‌افزاری ایرانی می‌توانند بدون صرف زمان برای پیچیدگی‌های زیرساختی، مستندات خود را به‌صورت استاندارد منتشر کنند.",
+        "marketOpportunity": "با رشد سریع پروژه‌های نرم‌افزاری و استارتاپ‌ها در ایران، نیاز به ابزارهای بومی و سریع برای مدیریت مستندات فنی و تحلیل‌پذیری آن‌ها توسط هوش مصنوعی بیش از پیش احساس می‌شود. این محصول می‌تواند سهم بازار مناسبی از شرکت‌های نرم‌افزاری، تیم‌های فنی و پروژه‌های متن‌باز ایرانی کسب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مدیران فنی، تیم‌های محصول و شرکت‌های دانش‌بنیان",
+        "challenges": [
+          "ترغیب تیم‌های سنتی به تغییر ابزارهای مستندسازی فعلی مانند نوشتن در نوشن یا گیت‌بوک",
+          "ارائه ارزش افزوده شفاف در بخش تحلیل هوش مصنوعی برای زبان فارسی"
+        ],
+        "monetization": [
+          "ارائه نسخه ابری میزبانی‌شده (SaaS) با قابلیت‌های امنیتی و مدیریت دسترسی پیشرفته",
+          "فروش اشتراک سازمانی جهت اتصال به سامانه‌های احراز هویت داخلی و هاستینگ اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Tailwind CSS",
+          "Node.js",
+          "PostgreSQL",
+          "pgvector"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -35806,6 +35968,62 @@
       }
     },
     {
+      "id": "ph-yesterday-7",
+      "date": "2026-10-05",
+      "rank": 7,
+      "name": "HyperFrames Studio (Desktop)",
+      "slug": "hyperframes-studio-desktop",
+      "tagline": "The First Video Editor built for Agents",
+      "description": "The first video editor built for agents - built by the team who open sourced HyperFrames at HeyGen Bring your favorite agent (either codex or claude code), HyperFrames Studio turn your coding agents into video editors, while you stay in the director seat. Describe a video and your agent makes it with HyperFrames, then you and your agent work on it together in one studio editor.",
+      "category": "Open Source • Artificial Intelligence • GitHub • Video",
+      "categoryFa": "متن‌باز • هوش مصنوعی • گیت‌هاب • ویدیو",
+      "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b5bfe6ac-6b78-4c26-a90d-8f6d6f4990d1.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c80ff1b0-553c-4c04-acdd-ad3a4b8d8fcf.jpeg?auto=format",
+        "https://ph-files.imgix.net/61e329e6-c133-4c74-b947-b0dad2761465.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-05T07:01:00Z",
+      "votes": 164,
+      "websiteUrl": "https://www.producthunt.com/r/E4OXQDH5KEULCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH, i'm Bin Liu, i lead agentic video product & engineering at @HeyGen the past 5 months has been absolutely crazy:- we open sourced HyperFrames: now we have over 56,000 stars on github (https://github.com/heygen-com/hy...)- we launched HyperFrames skills: now we are ranked 13th most popular skill of all time on skills.sh - and climbing into all-time top 10 very soon- we integrated HyperFrames into majority if not all agentic platforms: Claude, Codex, Hermes, Grok, Claude Design, and many more.and today, we are finally launching our first consumer product: HyperFrames Studio - built for founders, marketers, storytellers and their agents.for those of you who aren't familiar with HyperFrames yet:HyperFrames lets an agent write a video as HTML and render it to MP4. The hard part is everything after the first draft - describing in chat which word at which second needs to change.HyperFrames Studio is the editor for that part. Claude Code or Codex builds the video, and you direct it on the frame:- Draw on the frame - circle the title, write \"glow pink, flicker on letter by letter\" and the agent makes the edit- Comment on any element - click a word or a clip, leave a note, then send all your notes at once- Start from videos that work - we’ve rebuilt the highest performing videos as code to help agents create better videos- Edit by hand when you want to - timeline, clip speed, and export to MP4, WebM or MOV up to 4Kour HyperFrames core technology is open source: https://github.com/heygen-com/hy...Studio runs on macOS and Linux, Windows is coming soon: https://hyperframes.dev/studio/d..."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Are you planing to make it for images and illustrations?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "curious about the collaboration model here: if I nudge a frame manually while the agent is mid-edit on that same section of the timeline, does my change survive the next time the agent touches that part, or does it get overwritten because the agent is working off its own copy of the HTML rather than what's actually rendered on screen right now"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "enjoy the app! if you find some bugs, or want some improvements feel free to create issues on https://github.com/heygen-com/hyperframes/issues"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "With HyperFrames being an open source project on your side, how do you make decisions regarding what will remain open source and what will go to Studio?Btw, Congratulations @bin_heygen & team HyperFrames Studio 🎊"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Always need a product like this!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Excuse me, what kind of videos are you good at making as an AI market video studio? SaaS tools? E-commerce products?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Which word at which second is exactly the part that doesn't survive chat. We hit the same wall scripting social video, timing feedback is unresolvable in text, you say make it land a bit earlier and get a different wrong answer every round. Rendering the video as HTML is the interesting bet here because it makes the timeline diffable instead of opaque. 56k stars says the agent half already works, the editor is the right thing to put in front of it."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-09-25",
       "rank": 4,
@@ -36112,62 +36330,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-yesterday-7",
-      "date": "2026-10-05",
-      "rank": 7,
-      "name": "HyperFrames Studio (Desktop)",
-      "slug": "hyperframes-studio-desktop",
-      "tagline": "The First Video Editor built for Agents",
-      "description": "The first video editor built for agents - built by the team who open sourced HyperFrames at HeyGen Bring your favorite agent (either codex or claude code), HyperFrames Studio turn your coding agents into video editors, while you stay in the director seat. Describe a video and your agent makes it with HyperFrames, then you and your agent work on it together in one studio editor.",
-      "category": "Open Source • Artificial Intelligence • GitHub • Video",
-      "categoryFa": "متن‌باز • هوش مصنوعی • گیت‌هاب • ویدیو",
-      "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b5bfe6ac-6b78-4c26-a90d-8f6d6f4990d1.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c80ff1b0-553c-4c04-acdd-ad3a4b8d8fcf.jpeg?auto=format",
-        "https://ph-files.imgix.net/61e329e6-c133-4c74-b947-b0dad2761465.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-05T07:01:00Z",
-      "votes": 163,
-      "websiteUrl": "https://www.producthunt.com/r/E4OXQDH5KEULCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH, i'm Bin Liu, i lead agentic video product & engineering at @HeyGen the past 5 months has been absolutely crazy:- we open sourced HyperFrames: now we have over 56,000 stars on github (https://github.com/heygen-com/hy...)- we launched HyperFrames skills: now we are ranked 13th most popular skill of all time on skills.sh - and climbing into all-time top 10 very soon- we integrated HyperFrames into majority if not all agentic platforms: Claude, Codex, Hermes, Grok, Claude Design, and many more.and today, we are finally launching our first consumer product: HyperFrames Studio - built for founders, marketers, storytellers and their agents.for those of you who aren't familiar with HyperFrames yet:HyperFrames lets an agent write a video as HTML and render it to MP4. The hard part is everything after the first draft - describing in chat which word at which second needs to change.HyperFrames Studio is the editor for that part. Claude Code or Codex builds the video, and you direct it on the frame:- Draw on the frame - circle the title, write \"glow pink, flicker on letter by letter\" and the agent makes the edit- Comment on any element - click a word or a clip, leave a note, then send all your notes at once- Start from videos that work - we’ve rebuilt the highest performing videos as code to help agents create better videos- Edit by hand when you want to - timeline, clip speed, and export to MP4, WebM or MOV up to 4Kour HyperFrames core technology is open source: https://github.com/heygen-com/hy...Studio runs on macOS and Linux, Windows is coming soon: https://hyperframes.dev/studio/d..."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Are you planing to make it for images and illustrations?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "curious about the collaboration model here: if I nudge a frame manually while the agent is mid-edit on that same section of the timeline, does my change survive the next time the agent touches that part, or does it get overwritten because the agent is working off its own copy of the HTML rather than what's actually rendered on screen right now"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "enjoy the app! if you find some bugs, or want some improvements feel free to create issues on https://github.com/heygen-com/hyperframes/issues"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "With HyperFrames being an open source project on your side, how do you make decisions regarding what will remain open source and what will go to Studio?Btw, Congratulations @bin_heygen & team HyperFrames Studio 🎊"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Always need a product like this!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Excuse me, what kind of videos are you good at making as an AI market video studio? SaaS tools? E-commerce products?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Which word at which second is exactly the part that doesn't survive chat. We hit the same wall scripting social video, timing feedback is unresolvable in text, you say make it land a bit earlier and get a different wrong answer every round. Rendering the video as HTML is the interesting bet here because it makes the timeline diffable instead of opaque. 56k stars says the agent half already works, the editor is the right thing to put in front of it."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -41849,6 +42011,54 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-06",
+      "rank": 7,
+      "name": "Willow Knowledge",
+      "slug": "willow-knowledge",
+      "tagline": "Your AI already knows you. Now Willow can too.",
+      "description": "Willow Knowledge lets you bring your writing style and personal context into Willow from ChatGPT, Claude, Gemini, or any AI you use. It's like giving superpowers to Willow Scribe. From now on, your email, slack msg, prompt, or wherever you write will sound exactly like you when you dictate.",
+      "category": "Productivity • Writing • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نوشتن • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a73f4e49-8809-40bf-b840-9c9b67022983.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d29b4c26-e945-42f2-8de5-c1a0a3cc95df.png?auto=format",
+        "https://ph-files.imgix.net/7e0f6e1e-9507-42b1-a1a4-35c34c0021e5.png?auto=format",
+        "https://ph-files.imgix.net/98edb383-9e58-4a7b-a2fb-d1307d4810e0.png?auto=format",
+        "https://ph-files.imgix.net/1c411d2c-e045-47aa-b3c0-282b877d92a2.png?auto=format",
+        "https://ph-files.imgix.net/f42d0328-8c74-4b6e-8810-9e4fcda71c19.png?auto=format",
+        "https://ph-files.imgix.net/effadb2b-e8a0-45ee-9cc2-0874b371a003.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 137,
+      "websiteUrl": "https://www.producthunt.com/r/GG2FLKBOEACAJO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Long-time Product Hunt community. I'm back with another banger launch. Today, we’re introducing Willow Knowledge. Let's all admit: we talk to our AIs more than humans and they know more about us than we think :) They also know how we write and have context about most of our work. I talk to our users a lot and most of my calls end with this feature request: can Willow import context, my writing style from LLMs I use? We heard y'all and now Willow Knowledge lets you do that. For those new to Willow, Scribe our AI writing assistant, lets you speak the gist of what you want to say and write it for you inside the app you’re using. Knowledge gives Scribe extra special powers. It feeds more information about how you write and details about you that it can use when relevant. To get started, copy the prompt from Willow into the AI you already use, then paste the response back into Willow. It brings over your writing preferences and personal context. You can review everything, edit it, and add details yourself. > You can tell Willow to keep emails short, use your usual sign-off, or avoid certain phrases. > Your work msgs can have different preferences from your casual msgs. > You can also create app groups, the ones where you write other than email or slack. For ex: I've created Notion and Google Docs. > You can also add context about your work and company, so Scribe has that information when it writes a msg for you. Alright, so Willow Knowledge is available on macOS and Windows. Download Willow, import with the AI you already use, then Scribe emails, slack msgs like a PRO! Our team is hanging out here today and if y'all have any feedback or how we can improve Willow, plz share them in the comments below. Appreciate everyone checking it out."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I really like the separate preferences per platform. Because the way I want to write in Slack is different than in email, which is different than in WhatsApp. One thing I'm finding frustrating with other AI tools is that it's not easy to switch between work and personal accounts, where I want to maintain separate context. Curious if you all are thinking about that. Some longstanding tools, like Linear and Superhuman, handle this well."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi all, congrats on the launch! This is my first time learning about Willow. It sounds like your launch today is a plug-in or new feature to Willow called Willow Knowledge, where you can \"export\" (or copy & paste) your preferences from your everyday AI agent into Willow. Could I think of Willow Knowledge as agent skills for Willow?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’ve actually used Willow Scribe before and one issue I noticed was that sometimes the context I had in mind was different from what it picked upSo Willow Knowledge feels like a really useful upgradeCurious how it handles personal context across different AI toolsReally excited to try this one and congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "We’re launching Knowledge Base for Willow!One of the biggest challenges with AI writing assistants is that they can write well, but they don’t always write like you. Over time, Knowledge Base helps Willow understand your writing style, preferences, and the facts and context that matter to you.This is especially useful with Scribe, our AI writing assistant. You can tell Scribe what you want to say, and it can use that context to write something that sounds much more like you without needing as much editing.Give it a try and let us know what you think. We’d love the feedback 🙌"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-01",
       "rank": 7,
@@ -42206,54 +42416,6 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nCaveman یک ابزار قدرتمند است که با استفاده از یک پروکسی محلی، لاگ‌ها، خروجی ابزارها و فایل‌ها را قبل از هر تماس به ارائه‌دهنده فشرده می‌کند. این ابزار می‌تواند با استفاده از بارگیری متن به عنوان تصویر، هر مهارت موجود را با حدود ۵۰ درصد کمتر توکن‌ها اجرا کند.\n🔹 معماری و تکنولوژی احتمالی:\nCaveman بر اساس یک اکوسیستم منبع باز با بیش از ۷۵ هزار ستاره در گیت‌هاب ساخته شده است. این ابزار می‌تواند با استفاده از یک پروکسی محلی بین عامل و ارائه‌دهنده، خروجی ابزارها را فشرده کند و از این طریق هزینه‌های استفاده از هوش مصنوعی را کاهش دهد.\n🔹 مدل درآمدی:\nفروش ابزار به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره برای بهینه‌سازی استفاده از هوش مصنوعی.\n🔹 نقاط قوت:\n- کاهش هزینه‌های استفاده از هوش مصنوعی\n- افزایش کارایی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای مشابه\n- نیاز به ارتقای مداوم ابزار\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای ابزارهای کاهش هزینه هوش مصنوعی در ایران بسیار زیاد است و therefore، باید به طور مداوم در حال ارتقای ابزار و ارائه خدمات بهتر به مشتریان بود."
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-10-06",
-      "rank": 7,
-      "name": "Willow Knowledge",
-      "slug": "willow-knowledge",
-      "tagline": "Your AI already knows you. Now Willow can too.",
-      "description": "Willow Knowledge lets you bring your writing style and personal context into Willow from ChatGPT, Claude, Gemini, or any AI you use. It's like giving superpowers to Willow Scribe. From now on, your email, slack msg, prompt, or wherever you write will sound exactly like you when you dictate.",
-      "category": "Productivity • Writing • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • نوشتن • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a73f4e49-8809-40bf-b840-9c9b67022983.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d29b4c26-e945-42f2-8de5-c1a0a3cc95df.png?auto=format",
-        "https://ph-files.imgix.net/7e0f6e1e-9507-42b1-a1a4-35c34c0021e5.png?auto=format",
-        "https://ph-files.imgix.net/98edb383-9e58-4a7b-a2fb-d1307d4810e0.png?auto=format",
-        "https://ph-files.imgix.net/1c411d2c-e045-47aa-b3c0-282b877d92a2.png?auto=format",
-        "https://ph-files.imgix.net/f42d0328-8c74-4b6e-8810-9e4fcda71c19.png?auto=format",
-        "https://ph-files.imgix.net/effadb2b-e8a0-45ee-9cc2-0874b371a003.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 136,
-      "websiteUrl": "https://www.producthunt.com/r/GG2FLKBOEACAJO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Long-time Product Hunt community. I'm back with another banger launch. Today, we’re introducing Willow Knowledge. Let's all admit: we talk to our AIs more than humans and they know more about us than we think :) They also know how we write and have context about most of our work. I talk to our users a lot and most of my calls end with this feature request: can Willow import context, my writing style from LLMs I use? We heard y'all and now Willow Knowledge lets you do that. For those new to Willow, Scribe our AI writing assistant, lets you speak the gist of what you want to say and write it for you inside the app you’re using. Knowledge gives Scribe extra special powers. It feeds more information about how you write and details about you that it can use when relevant. To get started, copy the prompt from Willow into the AI you already use, then paste the response back into Willow. It brings over your writing preferences and personal context. You can review everything, edit it, and add details yourself. > You can tell Willow to keep emails short, use your usual sign-off, or avoid certain phrases. > Your work msgs can have different preferences from your casual msgs. > You can also create app groups, the ones where you write other than email or slack. For ex: I've created Notion and Google Docs. > You can also add context about your work and company, so Scribe has that information when it writes a msg for you. Alright, so Willow Knowledge is available on macOS and Windows. Download Willow, import with the AI you already use, then Scribe emails, slack msgs like a PRO! Our team is hanging out here today and if y'all have any feedback or how we can improve Willow, plz share them in the comments below. Appreciate everyone checking it out."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I really like the separate preferences per platform. Because the way I want to write in Slack is different than in email, which is different than in WhatsApp. One thing I'm finding frustrating with other AI tools is that it's not easy to switch between work and personal accounts, where I want to maintain separate context. Curious if you all are thinking about that. Some longstanding tools, like Linear and Superhuman, handle this well."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi all, congrats on the launch! This is my first time learning about Willow. It sounds like your launch today is a plug-in or new feature to Willow called Willow Knowledge, where you can \"export\" (or copy & paste) your preferences from your everyday AI agent into Willow. Could I think of Willow Knowledge as agent skills for Willow?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I’ve actually used Willow Scribe before and one issue I noticed was that sometimes the context I had in mind was different from what it picked upSo Willow Knowledge feels like a really useful upgradeCurious how it handles personal context across different AI toolsReally excited to try this one and congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "We’re launching Knowledge Base for Willow!One of the biggest challenges with AI writing assistants is that they can write well, but they don’t always write like you. Over time, Knowledge Base helps Willow understand your writing style, preferences, and the facts and context that matter to you.This is especially useful with Scribe, our AI writing assistant. You can tell Scribe what you want to say, and it can use that context to write something that sounds much more like you without needing as much editing.Give it a try and let us know what you think. We’d love the feedback 🙌"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -46683,6 +46845,68 @@
       }
     },
     {
+      "id": "ph-today-8",
+      "date": "2026-10-06",
+      "rank": 8,
+      "name": "Coddy",
+      "slug": "coddy-2",
+      "tagline": "Learn to code 20+ languages in a fun way with short lessons",
+      "description": "Coddy teaches you to code with short, interactive lessons you actually finish. 20+ languages (Python, JS, C++, SQL, Rust, Go...), a real code editor in the browser with test cases, streaks, weekly leagues and Bugsy - an AI tutor that gives hints, not answers. Everything is free with a daily limit, on web, iOS and Android. 5M+ learners so far. Product Hunt visitors get 50% off any plan for 72h, applied automatically.",
+      "category": "Android • Education • Developer Tools • Artificial Intelligence",
+      "categoryFa": "اندروید • آموزش • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/coddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/79f3b424-c219-4fae-b36c-fa23577bf92a.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ec88fb8b-fc67-4608-986b-4176681a9613.png?auto=format",
+        "https://ph-files.imgix.net/8621f6c6-b8fc-4b66-a948-64d3eec65961.png?auto=format",
+        "https://ph-files.imgix.net/b9edfde4-d65a-449f-bba7-f9260fbb2135.png?auto=format",
+        "https://ph-files.imgix.net/da20797b-bb81-4052-8245-a4a5c249737f.png?auto=format",
+        "https://ph-files.imgix.net/b57b0345-facc-4100-b632-5223242e6c16.png?auto=format",
+        "https://ph-files.imgix.net/5767acc2-e0d7-4cec-aa4d-d429c3fe9680.png?auto=format",
+        "https://ph-files.imgix.net/16673a1d-2eaf-4b84-83af-95880a8ba4dc.png?auto=format",
+        "https://ph-files.imgix.net/d4f3326b-dec1-42e2-a559-736a945d38a0.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 124,
+      "websiteUrl": "https://www.producthunt.com/r/UKMYYMNUR2X4TH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH, Barak here, one of the 3 founders of Coddy. Ok so the honest backstory: none of us enjoyed how we learned to code. Long lectures, thick books, and that feeling of \"I did the tutorial and I still cant write anything on my own\". At the same time everyone around us was doing 5 minutes of Duolingo a day and actually sticking with it. So in 2023 we tried to make that for coding. A few minutes a day, you type real code from the very first lesson, and a streak so you come back tomorrow. It kind of worked. Today Coddy has 5M+ learners, 20+ languages (Python, JS, C++, SQL, Rust, even Assembly and Verilog for the brave), 100+ courses, and people submit over 100K pieces of code a day on it. Stuff I'd actually point you to: - Bugsy, our AI tutor. Ask it why your code fails and it explains and nudges you, it wont paste the solution. Its on the free plan too (with a daily limit) - The mobile apps - 4.9 on the App Store, 4.8 on Google Play. A lot of people do their Python on the bus now, which still makes me smile - Certificates you can actually verify, so they mean something on a CV - Everything is free to use, free accounts just have a daily energy limit. Premium removes it For PH we set 50% off any plan. It's applied automatically when you come from our launch page, valid 72 hours after you sign up. No code to remember. Two things I'd love to hear from you: what language or topic should we add next? And if you tried learning to code before and gave up - what made you stop? That's the stuff we obsess over. I'll be here all day, ask me anything."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice! Contrary to what you hear in the hype cycle, coding isn't going away. Maybe the physical act of typing code but understanding what you are doing will stick around for quite a while. Having a neat tool that helps you learn is a good thing in my opinion!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love this! What a fun way of learning to code while having a community of coders alongside you 🙂 Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi all, I like your approach to learning how to code by small increments. A couple of questions: 1) how do you determine the coding challenges? Have you all looked into \"coding katas\" that was popular many years ago?2) what's the progression? Are you going for mastery of the language itself, or is there some sort of choose your own adventure, where the user can choose to learn to code to achieve a specific goal, like shipping a website or mobile app?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@barakglanz @ntnlbar Nice launch guys. Bugsy refusing to just dump the answer is probably one of the better ways to use ai in coding education. Otherwise you’re just getting really good at copying code you don’t understand."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super cool! So is it like Duolingo but for coding?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "In the era of vibe coding, it’s honestly refreshing to see products like thisThe AI tutor feature sounds interesting — how does it handle it when someone gets stuck?Also Codd(y) is such a cute name hahaBig congratulations to the whole team on the launch! Excited to see how many people end up learning to code with it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It's a great product. My daughter is using it to learn C# and is very happy with it."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-09-23",
       "rank": 8,
@@ -46992,68 +47216,6 @@
         "confidence": 80
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nLaraCopilot یک ابزار جامع برای ساخت برنامه‌های واقعی و آماده تولید است که به توسعه‌دهندگان کمک می‌کند تا برنامه‌های خود را با سرعت و سهولت بیشتری بسازند. این ابزار می‌تواند برنامه‌های کامل و آماده تولید را از یک توضیح ایده شما می‌سازد.\n🔹 معماری و تکنولوژی احتمالی:\nLaraCopilot از معماری میکروسرویس‌ها و تکنولوژی‌های لاراول و ری‌اکت استفاده می‌کند.\n🔹 مدل درآمدی:\nLaraCopilot می‌تواند از طریق فروش اشتراک و پشتیبانی و آموزش درآمد کسب کند.\n🔹 نقاط قوت:\n- LaraCopilot می‌تواند برنامه‌های واقعی و تولیدی را با سرعت و سهولت بیشتری بسازد.\n- LaraCopilot به توسعه‌دهندگان کمک می‌کند تا برنامه‌های خود را به راحتی و با کیفیت بالاتر بسازند.\n🔹 نقاط ضعف و ریسک‌ها:\n- LaraCopilot ممکن است با ابزارهای مشابه رقابت کند.\n- LaraCopilot نیاز به بازخورد و بهبود مداوم دارد.\n🔹 نکته طلایی برای بازار ایران:\nLaraCopilot می‌تواند به توسعه‌دهندگان ایرانی کمک کند تا برنامه‌های خود را به راحتی و با کیفیت بالاتر بسازند و در بازار رقابتی ایران موفق شوند."
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-10-06",
-      "rank": 8,
-      "name": "Coddy",
-      "slug": "coddy-2",
-      "tagline": "Learn to code 20+ languages in a fun way with short lessons",
-      "description": "Coddy teaches you to code with short, interactive lessons you actually finish. 20+ languages (Python, JS, C++, SQL, Rust, Go...), a real code editor in the browser with test cases, streaks, weekly leagues and Bugsy - an AI tutor that gives hints, not answers. Everything is free with a daily limit, on web, iOS and Android. 5M+ learners so far. Product Hunt visitors get 50% off any plan for 72h, applied automatically.",
-      "category": "Android • Education • Developer Tools • Artificial Intelligence",
-      "categoryFa": "اندروید • آموزش • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/coddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/79f3b424-c219-4fae-b36c-fa23577bf92a.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ec88fb8b-fc67-4608-986b-4176681a9613.png?auto=format",
-        "https://ph-files.imgix.net/8621f6c6-b8fc-4b66-a948-64d3eec65961.png?auto=format",
-        "https://ph-files.imgix.net/b9edfde4-d65a-449f-bba7-f9260fbb2135.png?auto=format",
-        "https://ph-files.imgix.net/da20797b-bb81-4052-8245-a4a5c249737f.png?auto=format",
-        "https://ph-files.imgix.net/b57b0345-facc-4100-b632-5223242e6c16.png?auto=format",
-        "https://ph-files.imgix.net/5767acc2-e0d7-4cec-aa4d-d429c3fe9680.png?auto=format",
-        "https://ph-files.imgix.net/16673a1d-2eaf-4b84-83af-95880a8ba4dc.png?auto=format",
-        "https://ph-files.imgix.net/d4f3326b-dec1-42e2-a559-736a945d38a0.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 123,
-      "websiteUrl": "https://www.producthunt.com/r/UKMYYMNUR2X4TH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH, Barak here, one of the 3 founders of Coddy. Ok so the honest backstory: none of us enjoyed how we learned to code. Long lectures, thick books, and that feeling of \"I did the tutorial and I still cant write anything on my own\". At the same time everyone around us was doing 5 minutes of Duolingo a day and actually sticking with it. So in 2023 we tried to make that for coding. A few minutes a day, you type real code from the very first lesson, and a streak so you come back tomorrow. It kind of worked. Today Coddy has 5M+ learners, 20+ languages (Python, JS, C++, SQL, Rust, even Assembly and Verilog for the brave), 100+ courses, and people submit over 100K pieces of code a day on it. Stuff I'd actually point you to: - Bugsy, our AI tutor. Ask it why your code fails and it explains and nudges you, it wont paste the solution. Its on the free plan too (with a daily limit) - The mobile apps - 4.9 on the App Store, 4.8 on Google Play. A lot of people do their Python on the bus now, which still makes me smile - Certificates you can actually verify, so they mean something on a CV - Everything is free to use, free accounts just have a daily energy limit. Premium removes it For PH we set 50% off any plan. It's applied automatically when you come from our launch page, valid 72 hours after you sign up. No code to remember. Two things I'd love to hear from you: what language or topic should we add next? And if you tried learning to code before and gave up - what made you stop? That's the stuff we obsess over. I'll be here all day, ask me anything."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice! Contrary to what you hear in the hype cycle, coding isn't going away. Maybe the physical act of typing code but understanding what you are doing will stick around for quite a while. Having a neat tool that helps you learn is a good thing in my opinion!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love this! What a fun way of learning to code while having a community of coders alongside you 🙂 Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi all, I like your approach to learning how to code by small increments. A couple of questions: 1) how do you determine the coding challenges? Have you all looked into \"coding katas\" that was popular many years ago?2) what's the progression? Are you going for mastery of the language itself, or is there some sort of choose your own adventure, where the user can choose to learn to code to achieve a specific goal, like shipping a website or mobile app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@barakglanz @ntnlbar Nice launch guys. Bugsy refusing to just dump the answer is probably one of the better ways to use ai in coding education. Otherwise you’re just getting really good at copying code you don’t understand."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Super cool! So is it like Duolingo but for coding?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "In the era of vibe coding, it’s honestly refreshing to see products like thisThe AI tutor feature sounds interesting — how does it handle it when someone gets stuck?Also Codd(y) is such a cute name hahaBig congratulations to the whole team on the launch! Excited to see how many people end up learning to code with it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It's a great product. My daughter is using it to learn C# and is very happy with it."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -53119,6 +53281,52 @@
       }
     },
     {
+      "id": "ph-today-9",
+      "date": "2026-10-06",
+      "rank": 9,
+      "name": "iphone-use",
+      "slug": "iphone-use",
+      "tagline": "Let AI agents drive a real iPhone, even apps with no API",
+      "description": "iphone-use gives an AI agent a real iPhone: the screen as text, tap, type and scroll over WebDriverAgent, with an honest answer for every action (applied, not sent, or unknown). Payment apps that block screenshots come back as a wireframe. A task done once becomes a flow that replays with no model. HTTP API, a 21-tool MCP server for Claude Code, and remote control from a browser or iOS app. Open source, MIT.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub • Apple",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب • Apple",
+      "url": "https://www.producthunt.com/products/iphone-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b818cc00-fc5f-48b8-98c8-3815bced156d.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/349b7283-58bf-48a5-9d29-67546dc749c6.jpeg?auto=format",
+        "https://ph-files.imgix.net/d28c108c-8f76-44a0-baf4-833093baf7da.png?auto=format",
+        "https://ph-files.imgix.net/297ada5f-9918-4f61-9b00-b33f8b561dd0.png?auto=format",
+        "https://ph-files.imgix.net/b218e075-7968-47df-9ad6-6f68fa97ef6f.png?auto=format",
+        "https://ph-files.imgix.net/0a73f243-3b65-4b33-aabc-9398fa5ea8fc.png?auto=format",
+        "https://ph-files.imgix.net/c3e54bc8-7054-4511-98c8-2a5f398a901b.png?auto=format",
+        "https://ph-files.imgix.net/d478b37d-e724-4f26-8bb0-4fbae9200902.png?auto=format",
+        "https://ph-files.imgix.net/b37b82e7-e5fb-4c01-af4a-7644e12a34fd.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-06T07:01:00Z",
+      "votes": 107,
+      "websiteUrl": "https://www.producthunt.com/r/P4NPAMMP35SW4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Plenty of apps I use every day have no API: banking, payment, health, chat. I wanted my coding agent to be able to operate them on a real phone, the same way it operates a browser. iphone-use started as a remote-control panel and turned into an agent tool once it became clear what an agent needs that a person doesn't: an answer it can branch on (applied, not sent, unknown, retry-safe), refusals instead of taps that silently land elsewhere, and a way to replay a chore without spending tokens. Every request is timed, which is how tap-and-settle went from 8.5 s to 4.2 s. It needs a Mac with Xcode and the phone on USB. Feedback very welcome."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The screen as text is what makes this work for me. an agent reading plain text is way more reliable than guessing from a screenshot"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "how does the remote control from the browser feel, is there much lag? also what's the 21-tool MCP server good at the most in Claude Code?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the part that gives me pause is the combo of \"payment apps\" and \"remote control from any browser\" in the same feature list. once there's an HTTP API and a browser panel that can tap through a real phone, that control channel is now the actual attack surface, not the apps themselves - whoever can reach that endpoint can do whatever the agent can do, including in banking apps. is there anything beyond \"it needs a Mac with Xcode and the phone on USB\" standing between that remote panel and someone who isn't you? local-only by default vs something you'd have to deliberately expose matters a lot here"
+        }
+      ]
+    },
+    {
       "id": "ph-today-4",
       "date": "2026-06-18",
       "rank": 4,
@@ -53219,52 +53427,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-10-06",
-      "rank": 9,
-      "name": "iphone-use",
-      "slug": "iphone-use",
-      "tagline": "Let AI agents drive a real iPhone, even apps with no API",
-      "description": "iphone-use gives an AI agent a real iPhone: the screen as text, tap, type and scroll over WebDriverAgent, with an honest answer for every action (applied, not sent, or unknown). Payment apps that block screenshots come back as a wireframe. A task done once becomes a flow that replays with no model. HTTP API, a 21-tool MCP server for Claude Code, and remote control from a browser or iOS app. Open source, MIT.",
-      "category": "Developer Tools • Artificial Intelligence • GitHub • Apple",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب • Apple",
-      "url": "https://www.producthunt.com/products/iphone-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b818cc00-fc5f-48b8-98c8-3815bced156d.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/349b7283-58bf-48a5-9d29-67546dc749c6.jpeg?auto=format",
-        "https://ph-files.imgix.net/d28c108c-8f76-44a0-baf4-833093baf7da.png?auto=format",
-        "https://ph-files.imgix.net/297ada5f-9918-4f61-9b00-b33f8b561dd0.png?auto=format",
-        "https://ph-files.imgix.net/b218e075-7968-47df-9ad6-6f68fa97ef6f.png?auto=format",
-        "https://ph-files.imgix.net/0a73f243-3b65-4b33-aabc-9398fa5ea8fc.png?auto=format",
-        "https://ph-files.imgix.net/c3e54bc8-7054-4511-98c8-2a5f398a901b.png?auto=format",
-        "https://ph-files.imgix.net/d478b37d-e724-4f26-8bb0-4fbae9200902.png?auto=format",
-        "https://ph-files.imgix.net/b37b82e7-e5fb-4c01-af4a-7644e12a34fd.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-06T07:01:00Z",
-      "votes": 106,
-      "websiteUrl": "https://www.producthunt.com/r/P4NPAMMP35SW4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Plenty of apps I use every day have no API: banking, payment, health, chat. I wanted my coding agent to be able to operate them on a real phone, the same way it operates a browser. iphone-use started as a remote-control panel and turned into an agent tool once it became clear what an agent needs that a person doesn't: an answer it can branch on (applied, not sent, unknown, retry-safe), refusals instead of taps that silently land elsewhere, and a way to replay a chore without spending tokens. Every request is timed, which is how tap-and-settle went from 8.5 s to 4.2 s. It needs a Mac with Xcode and the phone on USB. Feedback very welcome."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The screen as text is what makes this work for me. an agent reading plain text is way more reliable than guessing from a screenshot"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "how does the remote control from the browser feel, is there much lag? also what's the 21-tool MCP server good at the most in Claude Code?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the part that gives me pause is the combo of \"payment apps\" and \"remote control from any browser\" in the same feature list. once there's an HTTP API and a browser panel that can tap through a real phone, that control channel is now the actual attack surface, not the apps themselves - whoever can reach that endpoint can do whatever the agent can do, including in banking apps. is there anything beyond \"it needs a Mac with Xcode and the phone on USB\" standing between that remote panel and someone who isn't you? local-only by default vs something you'd have to deliberately expose matters a lot here"
-        }
-      ]
     },
     {
       "id": "ph-today-8",
@@ -55890,7 +56052,55 @@
           "user": "[REDACTED]",
           "text": "Will there be tools for tracking listeners and understanding which shows get the most engagement?"
         }
-      ]
+      ],
+      "faDescription": "FoundrRadio یک پلتفرم رادیوی اینترنتی است که به بنیان‌گذاران اجازه می‌دهد ایستگاه رادیویی خود را داشته باشند و به‌صورت زنده پخش کنند. بازدیدکنندگان می‌توانند به گفت‌وگوها، موسیقی یا برنامه‌های مورد علاقهٔ بنیان‌گذاران گوش دهند. این سرویس فرصتی برای داشتن یک گوشهٔ کوچک در اینترنت و ایجاد ارتباط نزدیک با جامعه فراهم می‌کند. هدف ترکیب حس نوستالژیک رادیوهای قدیمی با ویژگی‌های مدرن جامعه‌محور است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! 👋 همه ما احساس لذت‌بخش تنظیم یک رادیوی قدیمی و گوش دادن به موسیقی، گفت‌وگو یا اخبار را تجربه کرده‌ایم. اما معمولاً فقط به‌عنوان شنونده بودیم و هرگز فرصتی برای داشتن فرکانس خودمان و پخش صدا برای دیگران نداشتیم. به همین دلیل فکر کردم: چه می‌شد اگر جایی داشته باشیم که هر کسی بتواند فرکانس خود را داشته باشد و به‌صورت زنده پخش کند؟ می‌توانید بین ایستگاه‌ها جستجو کنید، ایستگاه دیگری را کشف کنید یا ایستگاه خود را ادعا کنید و به هوا بزنید. دوست دارم بدانم: اگر یک ایستگاه رادیویی خودتان داشتید، چه چیزی پخش می‌کردید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "@rrhoover به‌نظر می‌رسد می‌خواهد رادیوی @Product Hunt را احیا کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "فرکانس‌ها چگونه کار می‌کنند؟ آیا محدودیتی برای تعداد کانال‌های رادیویی که می‌توانند همزمان پخش شوند وجود دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا بنیان‌گذاران می‌توانند ایستگاه‌های خود را با تم‌ها یا برندینگ شخصی سفارشی کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "آیا ابزارهایی برای ردیابی شنوندگان و فهمیدن اینکه کدام برنامه‌ها بیشترین تعامل را دارند، فراهم خواهد شد؟"
+        }
+      ],
+      "aiReview": "مسئله: در ایران دسترسی محدود به پلتفرم‌های صوتی شخصی‌سازی‌شده وجود دارد و کاربران تمایل دارند به‌صورت مستقیم با بنیان‌گذاران و افراد شناخته‌شده ارتباط برقرار کنند. راه‌حل: فاندردرادیو با ارائه امکان ایجاد ایستگاه رادیویی شخصی، ابزارهای پخش زنده، سفارشی‌سازی برند و تحلیل شنوندگان، این خلأ را پر می‌کند. معماری: سرویس مبتنی بر Next.js برای رندر سمت سرور و تجربه کاربری سریع، PostgreSQL برای ذخیره‌سازی داده‌های کاربران و متادیتای برنامه‌ها، و سرویس‌های CDN و WebRTC برای پخش زنده مقیاس‌پذیر. مدل درآمدی: ترکیبی از اشتراک‌های پریمیوم (دسترسی به آمار پیشرفته، تم‌های سفارشی) و تبلیغات هدفمند داخل برنامه‌ها. نقاط قوت: تجربه نوستالژیک رادیو، امکان شخصی‌سازی بالا، ابزارهای تحلیل شنوندگان، و بازار رو به رشد محتواهای صوتی. نقاط ضعف: نیاز به زیرساخت پخش زنده پایدار، چالش جذب اولیه کاربران و رقابت با پلتفرم‌های بین‌المللی. نکته طلایی برای ایران: با همکاری با اینفلوئنسرها و استارتاپ‌های محلی، فاندردرادیو می‌تواند به‌عنوان یک بستر تبلیغاتی صوتی بومی عمل کند و به‌سرعت جامعه‌ای فعال و وفادار بسازد.",
+      "iranEquivalent": {
+        "productName": "فاندردرادیو",
+        "description": "فاندردرادیو یک سرویس رادیوی اینترنتی برای بنیان‌گذاران است که امکان ایجاد ایستگاه شخصی و پخش زنده را می‌دهد. کاربران می‌توانند به برنامه‌ها و موسیقی مورد علاقهٔ بنیان‌گذاران گوش دهند. این پلتفرم ترکیبی از حس نوستالژیک رادیوهای سنتی و تعاملات جامعه‌محور دیجیتال است.",
+        "marketOpportunity": "در ایران علاقهٔ فراوانی به محتواهای صوتی و پادکست وجود دارد که هنوز به‌صورت کامل سرویس‌محور نشده است. فاندردرادیو می‌تواند با ارائه فضای شخصی‌سازی شده برای افراد شناخته‌شده، بازار جدیدی برای تبلیغات و مشارکت مخاطبان ایجاد کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "بنیان‌گذاران استارتاپ، کارآفرینان، علاقه‌مندان به محتواهای صوتی و مخاطبان جوانی که به دنبال تجربه‌های نوین شنیداری هستند.",
+        "challenges": [
+          "تأمین زیرساخت‌های پخش زنده با کیفیت بالا در شرایط شبکه‌های متغیر",
+          "جذب کاربران و ایجاد تعادل بین محتواهای تولیدی و تقاضای شنوندگان"
+        ],
+        "monetization": [
+          "اشتراک‌های پریمیوم برای دسترسی به ابزارهای پیشرفته و آمارهای دقیق",
+          "درآمد از تبلیغات هدفمند داخل برنامه‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -56526,7 +56736,57 @@
           "user": "[REDACTED]",
           "text": "How does the review deck handle memories that are related to multiple projects?"
         }
-      ]
+      ],
+      "faDescription": "این ابزار به‌طور اختصاصی برای کلود (Claude) طراحی شده است. SCMD یک پنل بررسی محلی و متن‌باز برای مدیریت حافظه‌های دائمی است که Claude Code درباره شما و پروژه‌هایتان ذخیره می‌کند. با این ابزار می‌توانید حافظه‌ها را نگه‌داری، حذف، رد یا بازنویسی کنید، تغییرات را لغو نمایید و دلیل ذخیره‌سازی هر حافظه را بررسی کنید. تمامی تصمیمات شما تا زمان تأیید نهایی به صورت پیش‌نویس باقی می‌مانند و موارد حذفی به سطل زباله قابل بازگردانی منتقل می‌شوند. این برنامه هیچ‌گونه داده‌سنجی یا سرویس ابری ندارد و نیازی به وابستگی‌های npm ندارد. شما می‌توانید آن را با دستور /scmd:run یا npx اجرا کنید؛ همچنین دارای مجوز MIT بوده و آماده پذیرش مشارکت توسعه‌دهندگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "پس همسرم متوجه شد که فردی به نام کلود من را «ددی» خطاب می‌کند! بعد از کلی توضیح... ابزار SCMD (مخفف Stop Calling Me Daddy) را ساختم. معلوم شد کلود حافظه‌ای را ذخیره کرده بود که خودم یادم نمی‌آمد. SCMD ابزار ساده‌ای است که به شما در بررسی و مدیریت حافظه‌های کلود کمک می‌کند. SCMD آن را به یک پنل بررسی محلی تبدیل می‌کند: نگه‌داشتن، حذف، رد شدن یا لغو تغییرات - مشاهده دلیل ذخیره حافظه - بازنویسی با CLI محلی Claude Code یا ویرایش دستی - بررسی کامل دفعه‌ای قبل از اعمال هر تغییر - بازگردانی حافظه‌های حذف‌شده از سطل زباله محلی. این ابزار روی localhost اجرا می‌شود، هیچ وابستگی npm و تلمتری ندارد و هیچ داده‌ای به سرویس SCMD فرستاده نمی‌شود. اگر درخواست بازنویسی دهید، متن از طریق CLI کلود خودتان ارسال می‌شود. آن را با npx -y @nelsonjohnsolo/scmd امتحان کنید یا پلاگین Claude Code را نصب کرده و /scmd:run را اجرا کنید. این ابزار مجوز MIT دارد و ریپوزیتوری آن برای ثبت Issue و Pull Request باز است. من به‌ویژه علاقه‌مند به فرمت‌های واقعی حافظه، حالت‌های خاص ویندوز و Git Bash، بهبودهای دسترسی‌پذیری و ساده‌تر کردن روند بررسی هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "محصول خوبی است و ممنون از اینکه آن را با مجوز MIT به اشتراک گذاشتید. این روزها این کار کمتر و کمتر دیده می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "پیش‌نویس کردن تصمیمات تا زمان تأیید و فرستادن موارد حذفی به سطل زباله قابل بازگردانی، یک رفتار پیش‌فرض بسیار هوشمندانه برای ابزاری است که آنچه کلود درباره شما «می‌داند» را ویرایش می‌کند. بخش «چرا این ذخیره شد» بیشترین کاربرد را برای من دارد. آیا برنامه‌ای برای پشتیبانی از فایل‌های حافظه سایر ایجنت‌ها هم دارید یا قصد دارید فقط منحصر به کلود بمانید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "داستان شکل‌گیری این ابزار به تنهایی ارزش رای مثبت را دارد! من سیستم مدیریت حافظه خودم را برای Claude Code دارم و راستش هیچ‌وقت برنگشته بودم تا محتوای آن را ممیزی کنم و فقط اعتماد داشتم که همه‌چیز خوب است؛ دقیقاً همان نوع فرضیه‌ای که کشف همسرتان نادرست بودنش را ثابت کرد. آیا SCMD حافظه‌های نوشته‌شده توسط سیستم‌های سفارشی را هم بررسی می‌کند یا صرفاً محدود به ویژگی حافظه داخلی Claude Code است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ابزار چگونه به‌روزرسانی‌ها را زمانی که کلود سیستم حافظه خود را تغییر می‌دهد، مدیریت می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "پنل بررسی چگونه با حافظه‌هایی که به چند پروژه مختلف مربوط می‌شوند برخورد می‌کند؟"
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** دستیارهای هوش مصنوعی مانند Claude Code به صورت خودکار اطلاعاتی را درباره کاربر و پروژه‌ها ذخیره می‌کنند که گاهی اشتباه، غیرضروری یا حساس است. SCMD با ارائه یک پنل بررسی محلی (Local Review Deck)، امکان ممیزی، ویرایش، حذف ایمن و بازگردانی حافظه کلود را بدون ارسال داده به سرورهای ثالث فراهم می‌کند.\n\n**معماری و تکنولوژی:** این ابزار کاملاً محلی (Localhost) اجرا شده، بدون وابستگی npm و بدون تلمتری است. تغییرات ابتدا استیج می‌شوند و از CLI خود کاربر برای بازنویسی استفاده می‌شود که حریم خصوصی را به حداکثر می‌رساند.\n\n**مدل درآمدی:** این پروژه متن‌باز با مجوز MIT است و مدل درآمدی مستقیم ندارد، اما پتانسیل تبدیل به ابزار Freemium یا نسخه Enterprise را داراست.\n\n**نقاط قوت:** حفظ کامل حریم خصوصی، عدم نیاز به سرویس ابری، سطل زباله قابل بازگردانی، شفافیت در ارائه دلیل ذخیره‌سازی (Why View).\n\n**نقاط ضعف:** وابستگی شدید به ساختار داخلی Claude Code و احتمال شکست عملکرد با تغییرات آپدیت کلود، محدود بودن به یک ایجنت خاص.\n\n**نکته طلایی برای ایران:** شرکت‌ها و برنامه‌نویسان ایرانی به دلیل نگرانی‌های امنیتی و نشت کدها به هوش مصنوعی خارجی، نیاز شدیدی به ابزارهای ممیزی حریم خصوصی دارند. بومی‌سازی چنین ابزاری برای مدل‌های محلی مثل Ollama یا ایجنت‌های داخلی بازار بکری دارد.",
+      "iranEquivalent": {
+        "productName": "یاددار (Yaddar) / مدیر حافظه هوش مصنوعی",
+        "description": "یک ابزار محلی و امن برای مدیریت و ممیزی حافظه دستیارهای هوش مصنوعی و مدل‌های زبانی است. این محصول به کاربران و برنامه‌نویسان اجازه می‌دهد داده‌های ذخیره‌شده درباره خود و پروژه‌هایشان را کنترل و ویرایش کنند. تمامی فرایندها به صورت ۱۰۰٪ محلی انجام شده و حریم خصوصی داده‌های حساس پروژه‌ها حفظ می‌شود.",
+        "marketOpportunity": "با افزایش استفاده توسعه‌دهندگان ایرانی از دستیارهای کدنویسی هوش مصنوعی، نگران نشت اطلاعات حساس و داده‌های خصوصی پروژه‌ها رو به افزایش است. ارائه ابزاری برای مدیریت و ممیزی محلی حافظه هوش مصنوعی، نیاز مبرم تیم‌های نرم‌افزاری به امنیت و شفافیت داده را برطرف می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مدیران فنی پروژه‌ها، شرکت‌های فناوری‌محور و کاربران حرفه‌ای دستیارهای هوش مصنوعی",
+        "challenges": [
+          "تغییرات مداوم در ساختار و فرمت ذخیره‌سازی حافظه توسط عرضه‌کنندگان مدل‌های هوش مصنوعی",
+          "نیاز به آگاهی‌بخشی به کاربران درباره اهمیت حریم خصوصی حافظه دستیارهای هوش مصنوعی"
+        ],
+        "monetization": [
+          "ارائه نسخه سازمانی با قابلیت‌های ممیزی پیشرفته و مدیریت متمرکز پروژه‌ها",
+          "ارائه خدمات سفارشی‌سازی برای ایجنت‌ها و مدل‌های هوش مصنوعی بومی"
+        ],
+        "techStack": [
+          "Node.js",
+          "TypeScript",
+          "React",
+          "Electron"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -57025,7 +57285,43 @@
           "user": "[REDACTED]",
           "text": "Works so well! All the best!"
         }
-      ]
+      ],
+      "faDescription": "FeelMyMac با استفاده از موتور تپتیک موجود در ترک‌پد مک، امکان تجربه بافت‌های مختلف را هنگام حرکت نشانگر یا اسکرول کردن فراهم می‌کند. به جای دریافت بازخورد فقط هنگام کلیک، شما می‌توانید سطوح شبیه‌سازی‌شده و مواد متنوع را زیر انگشتان خود احساس کنید. این اپلیکیشن به شما اجازه می‌دهد شدت هپتیک را برای حرکت نشانگر و اسکرول به صورت جداگانه تنظیم کرده و افکت‌های صوتی اختیاری از جمله صدای کیبورد را اضافه کنید. این تجربه با استفاده از همان سخت‌افزاری که برای کلیک در آیفون و مک استفاده می‌شود، تعامل روزمره با کامپیوتر را متحول می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من لئوناردو، سازنده FeelMyMac هستم. ایده از یک سوال ساده شروع شد: «چرا ترک‌پد مک هنگام کلیک عالی است، اما هنگام حرکت کاملاً تخت و بی‌حس است؟» ترک‌پدهای سازگار با مک از قبل دارای سخت‌افزار هپتیک هستند که حس کلیک را ایجاد می‌کند. FeelMyMac از همان سخت‌افزار به روشی متفاوت استفاده می‌کند. به جای دریافت بازخورد فقط هنگام کلیک، این اپلیکیشن باعث می‌شود ترک‌پد شما هنگام حرکت نشانگر یا اسکرول واکنش نشان دهد و حس بافت‌ها و سطوح مختلف را زیر انگشتان شما ایجاد کند. می‌توانید مواد مختلف را انتخاب کنید، شدت هپتیک را تنظیم کنید، بازخورد حرکت، اسکرول و تپ را به صورت جداگانه کنترل کنید و صداهای اختیاری از جمله صدای کیبورد را اضافه کنید. آنچه به ویژه پاداش‌دهنده بوده، شنیدن بازخورد از کاربرانی است که اصلاً نمی‌دانستند مک می‌تواند چنین کاری انجام دهد. همه کسانی که آن را امتحان کرده‌اند، آن را نوآورانه و سرگرم‌کننده یافته‌اند و دقیقاً همان چیزی است که من امیدوارم ایجاد کنم: یک تغییر کوچک که تعامل روزمره را متفاوت می‌سازد. این درباره افزودن یک میانبر بهره‌وری دیگر یا صرفه‌جویی در چند کلیک نیست. این درباره تغییر چیزی است که به ندرت به آن فکر می‌کنیم: اینکه استفاده از کامپیوتر واقعاً چه حسی دارد. FeelMyMac تاکنون صدها بار دانلود شده و بازخورد از کاربران اولیه به شکل‌گیری اپلیکیشن کمک کرده است. من هنوز در حال بهبود فعالانه آن هستم، بنابراین دوست دارم نظرات شما را بشنوم: چه چیزی خوب است، چه چیزی نیست و چه چیزی دوست دارید من در مورد آن آزمایش کنم. آیا می‌دانستید ترک‌پد شما می‌تواند بیشتر از شبیه‌سازی کلیک انجام دهد؟ ممنون که بررسی کردید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "حسش عالیه! تبریک بابت تیم لانچ"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "خیلی خوب کار می‌کنه! بهترین آرزوها رو براتون دارم!"
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که ترک‌پدهای مک، با وجود داشتن سخت‌افزار هپتیک پیشرفته، تنها در لحظه کلیک بازخورد فیزیکی می‌دهند و در حین حرکت نشانگر یا اسکرول، حس سطح صاف و بی‌حسی را منتقل می‌کنند. راه‌حل ارائه‌شده (FeelMyMac) از همین سخت‌افزار موجود برای شبیه‌سازی بافت‌ها و سطوح مختلف استفاده می‌کند و با افزودن کنترل‌های جداگانه برای شدت و صدا، تجربه را شخصی‌سازی می‌کند. از نظر معماری، این محصول یک لایه نرم‌افزاری سبک است که مستقیماً با APIهای سیستم‌عامل مک برای دسترسی به موتور تپتیک تعامل دارد و نیاز به سخت‌افزار اضافی ندارد. مدل درآمدی احتمالی بر اساس فروش لایسنس یا اشتراک برای دسترسی به محتوای اضافی (بافت‌ها و صداها) است. نقاط قوت شامل استفاده از سخت‌افزار موجود (بدون نیاز به خرید دستگاه جدید)، تمایز قوی در تجربه کاربری (UX) و جذابیت بالای آن برای مخاطبان تکنولوژی‌دوست است. نقاط ضعف شامل محدودیت به پلتفرم مک، احتمال خستگی کاربر از اثرات هپتیک مداوم و رقابت با ابزارهای رایگان خارجی است. نکته طلایی برای ایران: با توجه به حساسیت کاربران ایرانی به جزئیات و تمایز در ابزارهای کاری، تمرکز بر بافت‌های خاص (مانند بافت کاغذ برای طراحان یا بافت چوب برای محیط‌های خاص) و ارائه بسته‌های صوتی فارسی یا موسیقی‌محور می‌تواند تمایز قوی‌ای ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "حس‌پد (HassPad)",
+        "description": "حس‌پد یک نرم‌افزار بومی برای مک‌های موجود در بازار ایران است که با بهره‌گیری از موتور تپتیک داخلی، تجربه لمسی غنی‌تری را برای کاربران فراهم می‌کند. این محصول با شبیه‌سازی بافت‌های مختلف و افزودن بازخورد صوتی، تعامل خشک و بی‌حس با ترک‌پد را به یک تجربه چندحسی تبدیل می‌کند. هدف اصلی، ایجاد تمایز در اکوسیستم مک ایران از طریق افزودن لایه‌ای از لذت و واقع‌گرایی به تعاملات روزمره است.",
+        "marketOpportunity": "بازار کاربران مک در ایران اگرچه کوچک است اما دارای قدرت خرید بالا و علاقه شدید به تجربه‌های کاربری نوآورانه می‌باشد. وجود شکاف در محصولات بومی که تجربه‌های حسی (Haptic) را شخصی‌سازی کنند، فرصت خوبی برای جذب این مخاطب خاص ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طراحان گرافیک، توسعه‌دهندگان نرم‌افزار، تولیدکنندگان محتوا و کاربران حرفه‌ای مک که به دنبال تجربه‌های کاربری منحصر‌به‌فرد و شخصی‌سازی‌شده هستند.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری در برخی مدل‌های قدیمی‌تر مک که ممکن است پشتیبانی کامل از هپتیک پیشرفته نداشته باشند.",
+          "رقابت با اپلیکیشن‌های خارجی رایگان یا ارزان‌قیمت که از قبل در بازار حضور دارند."
+        ],
+        "monetization": [
+          "فروش لایسنس مادام‌العمر با قیمت رقابتی برای کاربران حرفه‌ای.",
+          "اشتراک ماهانه برای دسترسی به بافت‌های اختصاصی و پکیج‌های صوتی جدید."
+        ],
+        "techStack": [
+          "Swift",
+          "AppKit"
+        ],
+        "confidence": 65
+      }
     },
     {
       "id": "ph-today-10",
@@ -57184,7 +57480,43 @@
           "user": "[REDACTED]",
           "text": "I've build sdks for that if you wish to use it, enjoyhttps://github.com/Raezil/py-eujevhttps://github.com/Raezil/rs-eujevhttps://github.com/Raezil/go-eujev"
         }
-      ]
+      ],
+      "faDescription": "اگر می‌خواهید از مدل‌های سیستم ۱ مانند Jev برای کارهای شغلی خود استفاده کنید اما به دلیل قوانین GDPR و مسائل حاکمیت داده قادر به آن نیستید، سرویس eu/jev مخصوص شماست. این نخستین مدل سیستم ۱ است که در اتحادیه اروپا میزبانی می‌شود و روی پردازنده‌های گرافیکی Hetzner در آلمان اجرا می‌گردد. این سرویس کاملاً با قوانین GDPR سازگار بوده و هیچ‌یک از پرامپت‌ها یا پاسخ‌های کاربران را ذخیره نمی‌کند. شما می‌توانید دقیقاً همان‌گونه که با Jev کار می‌کردید، با همان قیمت‌گذاری از این API استفاده کنید که شامل توکن‌های خروجی رایگان نیز می‌شود. این محصول بر پایه Winnow ساخته شده که برترین مدل متن‌باز سیستم ۱ در ارزیابی JevBench است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به جامعه پراداکت هانت! ما در حال معرفی eu/jev هستیم؛ اولین مدل سیستم ۱ که در اتحادیه اروپا میزبانی می‌شود و روی سرورهای گرافیکی Hetzner در آلمان اجرا می‌گردد. ما بارها از زبان افراد در شرکت‌های اروپایی همکار شنیدیم که می‌گفتند: «ما واقعاً می‌خواهیم از مدل‌های سیستم ۱ مثل Jev برای کار استفاده کنیم، اما به دلیل قوانین GDPR و مسائل حاکمیت داده نمی‌توانیم». بنابراین تصمیم گرفتیم اقدامی انجام دهیم و eu/jev متولد شد. این سرویس کاملاً منطبق بر GDPR است و ما هیچ پرامپت یا پاسخی را ذخیره نمی‌کنیم. می‌توانید آن را دقیقاً مانند Jev و با همان قیمت (یعنی توکن‌های خروجی رایگان!) فراخوانی کنید. API یا محیط آزمایشی (Playground) ما را امتحان کنید و نظرتان را با ما در میان بگذارید! پ.ن: پاداش ارجاع هم وجود دارد ;)"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من SDKهایی برای استفاده از آن توسعه داده‌ام، اگر مایل بودید استفاده کنید و لذت ببرید:\nhttps://github.com/Raezil/py-eujev\nhttps://github.com/Raezil/rs-eujev\nhttps://github.com/Raezil/go-eujev"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبسیاری از شرکت‌های اروپایی به دلیل قوانین سخت‌گیرانه حفظ حریم خصوصی (GDPR) و الزامات حاکمیت داده، امکان استفاده از مدل‌های پیشرفته هوش مصنوعی مثل Jev که داده‌ها را خارج از اتحادیه اروپا پردازش می‌کنند، ندارند. محصول eu/jev با میزبانی مدل‌های متن‌باز برتر روی سرورهای آلمان و عدم ذخیره‌سازی پرامپت‌ها، پلتفرمی امن و کاملاً سازگار با قوانین GDPR ارائه می‌دهد.\n\n### معماری و تکنولوژی\nاین سرویس بر پایه مدل متن‌باز Winnow (رتبه اول JevBench) ساخته شده و روی زیرساخت مقرون‌به‌صرفه Hetzner در آلمان میزبانی می‌شود. معماری API آن کاملاً با Jev همخوانی دارد که باعث می‌شود توسعه‌دهندگان بدون نیاز به تغییر کد، سریعاً به این سرویس سوئیچ کنند.\n\n### مدل درآمدی\nمدل درآمدی دقیقاً مشابه Jev تنظیم شده است؛ به این صورت که توکن‌های خروجی رایگان بوده و هزینه صرفاً بر اساس توکن‌های ورودی یا نرخ درخواستی حساب می‌شود. همچنین سیستم معرف (Referral) برای جذب سریع‌تر کاربران پیاده‌سازی شده است.\n\n### نقاط قوت\n- انطباق کامل با قوانین GDPR و عدم ذخیره‌سازی داده‌ها\n- جابه‌جایی بسیار راحت برای توسعه‌دهندگان به دلیل یکسان بودن ساختار API\n- زیرساخت مقرون‌به‌صرفه و قیمت‌گذاری رقابتی\n\n### نقاط ضعف\n- وابستگی به کیفیت مدل‌های متن‌باز و احتمال عقب ماندن از مدل‌های بسته‌سورس پیشرفته\n- حاشیه سود پایین به دلیل ارائه توکن‌های خروجی رایگان\n\n### نکته طلایی برای ایران\nدر ایران نیز سازمان‌های بزرگ، بانک‌ها و شرکت‌های حساس به دلیل تحریم‌ها و عدم امکان ارسال داده به خارج، شدیداً نیازمند APIهای بومی هوش مصنوعی هستند. ایجاد یک پلتفرم میزبانی مدل‌های متن‌باز (Self-Hosted LLM) روی دیتاسنترهای داخلی با API استاندارد، شانس بسیار بالایی برای تصاحب بازار سازمانی (Enterprise) ایران دارد.",
+      "iranEquivalent": {
+        "productName": "پارس‌نو : پلتفرم بومی مدل‌های هوش مصنوعی",
+        "description": "این پلتفرم امکان استفاده از مدل‌های پیشرفته هوش مصنوعی را روی سرورها و دیتاسنترهای داخلی فراهم می‌کند تا شرکت‌ها نگرانی بابت امنیت داده‌ها نداشته باشند. با میزبانی داخلی، تاخیر پاسخ‌دهی به حداقل رسیده و نیازی به ارسال داده‌های حساس به خارج از کشور وجود ندارد. همچنین اتصال آسان از طریق API منطبق با استانداردهای رایج بین‌المللی ارائه می‌شود.",
+        "marketOpportunity": "بانک‌ها، سازمان‌های دولتی و شرکت‌های بزرگ ایرانی به دلیل قوانین حفاظت از داده‌های حساس و تحریم‌ها امکان استفاده مستقیم از سرویس‌های خارجی هوش مصنوعی را ندارند. ارائه مدل‌های هوش مصنوعی بومی‌سازی‌شده روی دیتاسنترهای داخلی، بازار بکر و پرتقاضایی را در حوزه سازمانی ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "سازمان‌های دولتی، بانک‌ها و موسسات مالی، شرکت‌های پردازش داده‌های حساس، پلتفرم‌های سلامت الکترونیک و استارتاپ‌های بزرگ حوزه B۲B",
+        "challenges": [
+          "تامین و نگهداری پردازنده‌های گرافیکی (GPU) قدرتمند و گران‌قیمت در داخل کشور",
+          "چالش‌های مربوط به زیرساخت شبکه و پایداری دیتاسنترهای داخلی"
+        ],
+        "monetization": [
+          "فروش اشتراک سازمانی و API بر اساس میزان مصرف توکن",
+          "ارائه خدمات اختصاصی‌سازی، تنظیم دقیق (Fine-tuning) و استقرار در محل (On-Premises)"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "PyTorch",
+          "Docker",
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -57290,7 +57622,38 @@
           "user": "[REDACTED]",
           "text": "Hey Product Hunt 👋 I kept losing time to AI coding agents sitting idle, waiting for my approval in a terminal I wasn't looking at. Meanwhile, the notch on my MacBook was just… a black cutout. So Notchware puts the things I glance at most right there: • Now Playing with artwork and controls • Battery, volume, brightness, Focus, and Wi-Fi changes • With Pro: Claude Code, Codex, and Cursor alerts when an agent needs approval or finishes a task A few choices I cared about: • Everything runs locally. There's no account, analytics, or cloud. The agent alerts use small local hooks you can inspect before installing, and they never read your prompts or code. • Every indicator can be turned off, and the island hides itself in fullscreen apps. • Pro is a one-time $3.99, not a subscription. It's not notarized by Apple yet, so macOS asks you to allow it once. There's a 1-minute install guide at ballmac.com/notchware/install. I'd love to hear what you'd want in your notch next!"
         }
-      ]
+      ],
+      "faDescription": "ناچ یا بریدگی بالای صفحه نمایش مک‌بوک شما معمولاً بلااستفاده و خالی باقی می‌ماند. ناچ‌ویر این بخش را به یک جزیره زنده و کاربردی تبدیل می‌کند که وضعیت پخش موسیقی، کاور آلبوم و کلیدهای کنترل پخش را به همراه وضعیت باتری، صدا، روشنایی، حالت فوکوس و وای‌فای نمایش می‌دهد. نسخه پرو ناچ‌ویر با قیمت ۳.۹۹ دلار (پرداخت یک‌باره) هشدارهای ابزارهای هوش مصنوعی مانند Codex، Claude Code و Cursor را اضافه می‌کند تا به محض نیاز عامل هوش مصنوعی به تایید یا پایان کار، بدون نیاز به چک کردن مداوم ترمینال باخبر شوید. این برنامه به‌صورت کاملاً بومی با SwiftUI ساخته شده و بدون نیاز به حساب کاربری، آنالیتیکس یا پردازش ابری در مک‌او‌اس ۱۴.۶ به بالا اجرا می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 من دائماً به دلیل معطل ماندن عامل‌های کدنویسی هوش مصنوعی در ترمینال و منتظر ماندن برای تاییدم، زمان زیادی را از دست می‌دادم؛ چون اصلاً به ترمینالی که زیر بقیه برنامه‌ها بود نگاه نمی‌کردم. در همین حال، ناچ مک‌بوک من فقط یک بریدگی سیاه بی مصرف بود. بنابراین ناچ‌ویر اطلاعاتی را که بیشتر از همه به آنها نگاه می‌کنم درست در همان‌جا قرار می‌دهد: • پخش جاری به همراه کاور و کلیدهای کنترل • تغییرات باتری، صدا، روشنایی، فوکوس و وای‌فای • با نسخه پرو: هشدارهای Claude Code، Codex و Cursor زمانی که عامل هوش مصنوعی نیاز به تایید دارد یا کارش تمام می‌شود. چند تصمیم مهم که به آنها اهمیت دادم: • همه چیز به‌صورت محلی اجرا می‌شود. هیچ حساب کاربری، آنالیتیکس یا پردازش ابری وجود ندارد. هشدارهای هوش مصنوعی از هوک‌های محلی کوچکی استفاده می‌کنند که می‌توانید قبل از نصب بررسی کنید و هرگز پرامپت‌ها یا کدهای شما را نمی‌خوانند. • هر نشانگر قابل خاموش شدن است و جزیره در برنامه‌های تمام‌صفحه مخفی می‌شود. • نسخه پرو ۳.۹۹ دلار یک‌بار پرداخت است، نه اشتراکی. هنوز توسط اپل گواهی نهایی (Notarized) نشده، بنابراین مک‌او‌اس یک بار از شما اجازه دسترسی می‌خواهد. راهنمای نصب ۱ دقیقه‌ای در ballmac.com/notchware/install وجود دارد. خوشحال می‌شوم بشنوم دوست دارید چه چیز دیگری در ناچ شما قرار بگیرد!"
+        }
+      ],
+      "aiReview": "پروژه Notchware دست بر روی یک اصطکاک کوچک اما واقعی در روند کاری (Workflow) توسعه‌دهندگان مدرن گذاشته است: معطل ماندن ایجنت‌های هوش مصنوعی در ترمینال به دلیل عدم آگاهی کاربر. راه‌حل این محصول، استفاده هوشمندانه از ناچ مک‌بوک به عنوان یک «داشبورد زنده» است.\n\nاز نظر معماری، استفاده از SwiftUI نیتیو سبب خفیف بودن، سرعت بالا و مصرف بهینه باتری می‌شود. تصمیم کلیدی بنیان‌گذار در عدم استفاده از سرور ابری و آنالیتیکس و اتکا به هوک‌های محلی (Local Hooks)، حس اعتماد بالایی در حوزه حریم خصوصی کدهای توسعه‌دهندگان ایجاد می‌کند.\n\nمدل درآمدی ۳.۹۹ دلار یک‌باره نقطه اتکای خوبی برای جذب سریع کاربران اولیه (Early Adopters) است، هرچند ممکن است درآمد مستمر ایجاد نکند. نقطه ضعف فعلی، عدم دریافت گواهی Notarize اپل است که فرآیند نصب را برای کاربران غیرفنی کمی دشوار می‌کند.\n\nنکته طلایی برای بازار ایران: پیاده‌سازی نسخه چندپلتفرمی (با Tauri برای ویندوز و مک) که علاوه بر ایجنت‌های هوش مصنوعی، اعلانات ابزارهای بومی مانند تسک‌منجرها یا برنامه‌های پخش موسیقی داخلی را پوشش دهد، می‌تواند با قیمت‌گذاری ریالی موفقیت بالایی میان توسعه‌دهندگان ایرانی کسب کند.",
+      "iranEquivalent": {
+        "productName": "ناچ‌یار (NotchYar)",
+        "description": "ناچ‌یار یک نرم‌افزار دسکتاپ بومی برای مدیریت اعلانات و نمایش هوشمند وضعیت سیستم در ناچ یا نوار بالای صفحه نمایش است. این ابزار به توسعه‌دهندگان اجازه می‌دهد تا وضعیت اجرا و نیاز به تایید عامل‌های کدنویسی هوش مصنوعی را بدون نگاه کردن به ترمینال مشاهده کنند. همچنین قابلیت کنترل پخش موسیقی و نمایش وضعیت‌های حیاتی سیستم را به‌صورت یکپارچه فراهم می‌سازد.",
+        "marketOpportunity": "با استقبال گسترده برنامه‌نویسان ایرانی از ابزارهای کدنویسی مبتنی بر هوش مصنوعی مانند Cursor و Claude، ابزاری که موجب افزایش سرعت کار و کاهش حواس‌پرتی آنان شود بازار بسیار مستعدی دارد. تبدیل فضای بلااستفاده ناچ مک یا نوار بالای ویندوز به یک ابزار کاربردی، فرصتی بکر برای ارائه نرم‌افزار دسکتاپ در بازار ایران است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، توسعه‌دهندگان نرم‌افزار، برنامه‌نویسان هوش مصنوعی و کاربران حرفه‌ای سیستم‌عامل مک در ایران",
+        "challenges": [
+          "محدودیت‌های توسعه نیتیو برای ناچ در مک‌او‌اس و نیاز به مجوزهای سطح بالای سیستم‌عامل",
+          "پیچیدگی یکپارچه‌سازی با ترمینال‌ها و هوک‌های محلی ابزارهای مختلف هوش مصنوعی",
+          "فرهنگ‌سازی برای خرید نرم‌افزار دسکتاپ در بازار ایران"
+        ],
+        "monetization": [
+          "فروش لایسنس دائمی (یک‌بار پرداخت) برای کاربران شخصی",
+          "فروش پکیج‌های تیمی و سازمانی برای شرکت‌های نرم‌افزاری"
+        ],
+        "techStack": [
+          "SwiftUI",
+          "Tauri",
+          "Rust",
+          "Shell Scripting"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-today-10",
@@ -57916,10 +58279,10 @@
   "audit": {
     "products": 572,
     "withRealComments": 572,
-    "withPersianComments": 537,
-    "withPersianDescription": 537,
-    "withAiReview": 526,
-    "withIranEquivalent": 537,
+    "withPersianComments": 545,
+    "withPersianDescription": 545,
+    "withAiReview": 534,
+    "withIranEquivalent": 545,
     "totalRealComments": 3543
   }
 }

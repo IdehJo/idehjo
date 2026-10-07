@@ -1,16 +1,25 @@
 {
-  "checkedAt": "2026-10-06T02:31:14.194Z",
-  "latestDataset": "2026-10-06.json",
+  "checkedAt": "2026-10-07T01:49:44.725Z",
+  "latestDataset": "2026-10-07.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 68,
-  "backlogAfter": 59,
-  "completedProducts": 503,
-  "missingFaDescription": 25,
-  "missingFaComments": 51,
-  "missingAiReview": 36,
-  "missingIranEquivalent": 27,
-  "failures": []
+  "succeeded": 8,
+  "failed": 2,
+  "backlogBefore": 69,
+  "backlogAfter": 61,
+  "completedProducts": 511,
+  "missingFaDescription": 27,
+  "missingFaComments": 53,
+  "missingAiReview": 38,
+  "missingIranEquivalent": 29,
+  "failures": [
+    {
+      "slug": "gemini-4-argon",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
+    {
+      "slug": "docsalot-mcp-connector",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"پایگاه دانش و مرکز راهنمای خود را به راحتی از طریق کلود (Claude)، کدکس (Codex) یا هر کلاینت سازگار با پروتکل MCP ایجاد و به‌روزرسانی کنید. تنها کافی است از Do"
+    }
+  ]
 }

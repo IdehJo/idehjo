@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "scrapedAt": "2026-10-07T00:00:08.489Z",
+  "scrapedAt": "2026-10-07T01:44:40.764Z",
   "periods": {
     "today": [
       {
@@ -28,12 +28,20 @@
         "maker": "William",
         "makerTitle": "World Model Researcher",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 356,
+        "votes": 365,
         "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm William! I made Rill because I want to always stay in the flow. As an ADHD, I never liked code-switching. My best ideas for work come when I'm supposedly not working at all: watching something for fun, reading things and following a rabbit hole, looking at how someone else solved a problem. Then when an idea hit me, I'd have to stop, switch to coding agents, find the project and explain it all, and most of the time I just didn't.Rill is my way of removing that code-switching. It's a browser with your Claude Code or Codex working alongside you. When something on a page gives you an idea, you say so right there, and an agent starts on it in the right project. You don't have to spend time looking for the right folder, rephrasing everything you just saw on the web, and you don't switch in and out of work mode. The work goes on with you in the flow.This matters now more than ever. Agents have shortened the distance between ideas to output near zero. So the bottleneck is capturing the idea at the moment you have it. That moment is nearly always while you're taking something in, and that is what a browser is for.Rill is a free AI-native browser. It's WebKit-based, which means it's native to Mac. And it runs on the Claude Code or Codex plan you already have, so you don't have to buy a new subscription for all of its agentic capabilities.cHow do you keep an idea today when it shows up at the wrong time?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I’d love to queue up a few tasks at night and wake up to them done. Is anyone already using it like that?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I use Codex for research too, so I can see this being useful beyond coding. Being able to trace a draft back to the pages that informed it would matter more to me than just handing over the tabs."
           },
           {
             "user": "[REDACTED]",
@@ -54,14 +62,6 @@
           {
             "user": "[REDACTED]",
             "text": "The idea of turning a random thought while browsing into actual work without breaking your focus feels genuinely useful.Congrats @williamgaoharvard"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the per-turn snapshot and Undo you mentioned in another thread is the detail that got me, I've been asking a version of this question on a few launches lately - does that snapshot/undo only cover the git state, or does it also know about anything the agent did outside the repo during that turn (an API call it made, a form it submitted on the page it was reading)? code is easy to revert, a request that already fired isn't, and that gap is the part I haven't seen anyone solve yet"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch, William! The code-switching problem is real. Ideas tend to hit when I'm reading something unrelated, and having ⌘E turn the page into a task for the agent in the right project sounds like a great way to catch them. Looking forward to trying it out."
           }
         ]
       },
@@ -88,7 +88,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 285,
+        "votes": 296,
         "websiteUrl": "https://www.producthunt.com/r/LKE36PULC3BUKW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -148,9 +148,17 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 268,
+        "votes": 273,
         "websiteUrl": "https://www.producthunt.com/r/6MPDE2Q3ZJDJZF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Just got on TestFlight. @kamil_cyrek is the telemetry turned on by default? Can it be turned off, else I cannot use it for work since I work in a regulated field."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "@norbertbodziony Congratulations. And happy product launch."
+          },
           {
             "user": "[REDACTED]",
             "text": "How do you keep up with the changing tools? Seems like there are a lot of things out there in terms of models, self-hosting, etc."
@@ -174,14 +182,6 @@
           {
             "user": "[REDACTED]",
             "text": "Can different team members give the same agent separate instructions wihtout affecting eacb others work?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "How does OpenBot keep context consistent when multiple people are working with the same agent?Congrats @kamil_cyrek & team!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "An open source workspace where you can mix Claude, ChatGPT, Grok and custom agents, give them roles and let them delegate, covers a gap that single model tools leave open. Letting your team collaborate live with the same agents is a neat idea. Is the delegation between agents configurable or does it happen automatically based on the roles?"
           }
         ]
       },
@@ -207,7 +207,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 241,
+        "votes": 245,
         "websiteUrl": "https://www.producthunt.com/r/4HJ5NAOQFNL6CT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -248,65 +248,6 @@
         "id": "ph-today-5",
         "date": "2026-10-06",
         "rank": 5,
-        "name": "Extrovert",
-        "slug": "extrovert-10",
-        "tagline": "Run LinkedIn outreach from your agent",
-        "description": "Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice. Review in 20 minutes a day, or hand the whole job to your Claude.",
-        "category": "Sales • Marketing • LinkedIn",
-        "categoryFa": "فروش • بازاریابی • LinkedIn",
-        "url": "https://www.producthunt.com/products/extrovert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/9a811123-c871-43bd-902a-d50df261044b.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/24ac9e29-a2a0-4502-af50-69d2737533c1.jpeg?auto=format",
-          "https://ph-files.imgix.net/b841604b-a791-4686-b7a7-1b5ffd0f8010.png?auto=format",
-          "https://ph-files.imgix.net/6074dd26-7bf0-49d1-a6ec-01541b18847f.png?auto=format",
-          "https://ph-files.imgix.net/09004555-a60f-4142-aaae-1782729d891d.png?auto=format",
-          "https://ph-files.imgix.net/e4f23b4e-6016-4d3d-9189-84d542cd417f.png?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 226,
-        "websiteUrl": "https://www.producthunt.com/r/7SIV3AMV5HON7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey PH! Oleg here, founder of Extrovert 🤘 A lot has changed since our last launch. We’ve taken Extrovert from an outreach copilot you operate yourself to a product your own AI agent can run for you, from finding prospects and setting up campaigns to reviewing comments, writing DMs, and following up. You can connect Claude, ChatGPT, or another MCP client and work from the chat, giving it permission to handle routine actions while keeping anything you want to review yourself. The regular UI is still there, but you no longer have to do all the clicking. The idea behind it is something I care about as a founder: I want the quality of thoughtful, manual outreach without spending half my day checking LinkedIn and remembering who to follow up with. Our goal is manual-quality LinkedIn outreach at 10% of the effort, whether you review the prepared work yourself or delegate it to your agent. That’s also why Extrovert works differently from a sequencer. Instead of moving everyone through the same steps, it uses their posts, your conversation history, and the pace you set to suggest the next comment or DM. Follow-ups can continue after someone replies, because “sounds interesting, I’ll book a call” is usually where the actual sales work starts. Here’s what’s inside: 1. Lead Finder and Intent Signals to find prospects by fit and relevant LinkedIn activity. 2. Prioritized comments and recommended DMs, with drafts based on the post or conversation. 3. Your Voice, built from your business context, writing examples, and DM playbook. 4. MCP tools for your agent to handle setup and daily outreach with the permissions you give it. 5. Team and agency accounts to run the same workflow for colleagues or clients. Give it a try and let me know what you’d trust your agent to handle :)"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Suggesting who to comment on or DM today, and not just dumping a big list, is the smart part. a short daily list I can actually finish beats a huge one I ignore.."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "When you say LinkedIn outreach, do we mean mainly from a social standpoint such as handling posts, replies, newsletters?Or is it more for sales such as researching leads, emailing them, etc.?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Love Extrovert and the team of @oleg_sobolev and @dmitry_bergelson !Sales is built on trust and relationship building, I hate spamming and sending cold dm's. Yeah surprise it never works! Extrovert makes outreach intelligent, warm and human! Love extrovert!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Great product! Congrats! For how long do you recommend to warmup a lead before sending a DM with a proposal? It’s quite annoying when people send something right after I accept their connection request, it’s equally annoying when they do it like next day or even in a couple of days :-D How many likes/comments does it take to build a relationship? Also, I’m curious to learn what types of companies benefit the most from you tool - B2B, agencies? How about job candidates? What are the most successful use cases?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Looks really interesting!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I'm actually trying to boost my LinkedIn profile right now. And I do outreach pretty often.Great product - good luck with the launch!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats Oleg and team!I've used Extrovert for my LinkedIn comments since June. This weekend I connected it to Claude and tried the new features from the chat.Lead Finder was the highlight. Previews are free, so Claude could test filters before spending credits. My first search for LinkedIn ghostwriters returned 709 people, including book ghostwriters and a photographer. One tighter search later it was down to 138, and most of them fit.It also helped me tidy up. I was at 739 of 750 prospects, so Claude found the 136 who hadn't posted in 30 days, removed them after I confirmed, and is now trimming the rest down to my ICP. The two-comment warm-up and the DM playbook are next.One thing I'd love to see next is outgoing signals. When I scroll my feed, I like the posts I want to come back to later. A signal that turns those likes into a campaign would cover the people I want to reach who don't engage with my posts."
-          }
-        ]
-      },
-      {
-        "id": "ph-today-6",
-        "date": "2026-10-06",
-        "rank": 6,
         "name": "Fuse AI",
         "slug": "fuse-ai",
         "tagline": "Build a Custom GTM Stack. One SDK. One MCP.",
@@ -326,7 +267,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 218,
+        "votes": 237,
         "websiteUrl": "https://www.producthunt.com/r/I3CDQPOEFCTVY6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -364,6 +305,65 @@
         ]
       },
       {
+        "id": "ph-today-6",
+        "date": "2026-10-06",
+        "rank": 6,
+        "name": "Extrovert",
+        "slug": "extrovert-10",
+        "tagline": "Run LinkedIn outreach from your agent",
+        "description": "Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice. Review in 20 minutes a day, or hand the whole job to your Claude.",
+        "category": "Sales • Marketing • LinkedIn",
+        "categoryFa": "فروش • بازاریابی • LinkedIn",
+        "url": "https://www.producthunt.com/products/extrovert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/9a811123-c871-43bd-902a-d50df261044b.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/24ac9e29-a2a0-4502-af50-69d2737533c1.jpeg?auto=format",
+          "https://ph-files.imgix.net/b841604b-a791-4686-b7a7-1b5ffd0f8010.png?auto=format",
+          "https://ph-files.imgix.net/6074dd26-7bf0-49d1-a6ec-01541b18847f.png?auto=format",
+          "https://ph-files.imgix.net/09004555-a60f-4142-aaae-1782729d891d.png?auto=format",
+          "https://ph-files.imgix.net/e4f23b4e-6016-4d3d-9189-84d542cd417f.png?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-10-06T07:01:00Z",
+        "votes": 236,
+        "websiteUrl": "https://www.producthunt.com/r/7SIV3AMV5HON7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey PH! Oleg here, founder of Extrovert 🤘 A lot has changed since our last launch. We’ve taken Extrovert from an outreach copilot you operate yourself to a product your own AI agent can run for you, from finding prospects and setting up campaigns to reviewing comments, writing DMs, and following up. You can connect Claude, ChatGPT, or another MCP client and work from the chat, giving it permission to handle routine actions while keeping anything you want to review yourself. The regular UI is still there, but you no longer have to do all the clicking. The idea behind it is something I care about as a founder: I want the quality of thoughtful, manual outreach without spending half my day checking LinkedIn and remembering who to follow up with. Our goal is manual-quality LinkedIn outreach at 10% of the effort, whether you review the prepared work yourself or delegate it to your agent. That’s also why Extrovert works differently from a sequencer. Instead of moving everyone through the same steps, it uses their posts, your conversation history, and the pace you set to suggest the next comment or DM. Follow-ups can continue after someone replies, because “sounds interesting, I’ll book a call” is usually where the actual sales work starts. Here’s what’s inside: 1. Lead Finder and Intent Signals to find prospects by fit and relevant LinkedIn activity. 2. Prioritized comments and recommended DMs, with drafts based on the post or conversation. 3. Your Voice, built from your business context, writing examples, and DM playbook. 4. MCP tools for your agent to handle setup and daily outreach with the permissions you give it. 5. Team and agency accounts to run the same workflow for colleagues or clients. Give it a try and let me know what you’d trust your agent to handle :)"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Suggesting who to comment on or DM today, and not just dumping a big list, is the smart part. a short daily list I can actually finish beats a huge one I ignore.."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "When you say LinkedIn outreach, do we mean mainly from a social standpoint such as handling posts, replies, newsletters?Or is it more for sales such as researching leads, emailing them, etc.?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Love Extrovert and the team of @oleg_sobolev and @dmitry_bergelson !Sales is built on trust and relationship building, I hate spamming and sending cold dm's. Yeah surprise it never works! Extrovert makes outreach intelligent, warm and human! Love extrovert!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great product! Congrats! For how long do you recommend to warmup a lead before sending a DM with a proposal? It’s quite annoying when people send something right after I accept their connection request, it’s equally annoying when they do it like next day or even in a couple of days :-D How many likes/comments does it take to build a relationship? Also, I’m curious to learn what types of companies benefit the most from you tool - B2B, agencies? How about job candidates? What are the most successful use cases?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Looks really interesting!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I'm actually trying to boost my LinkedIn profile right now. And I do outreach pretty often.Great product - good luck with the launch!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats Oleg and team!I've used Extrovert for my LinkedIn comments since June. This weekend I connected it to Claude and tried the new features from the chat.Lead Finder was the highlight. Previews are free, so Claude could test filters before spending credits. My first search for LinkedIn ghostwriters returned 709 people, including book ghostwriters and a photographer. One tighter search later it was down to 138, and most of them fit.It also helped me tidy up. I was at 739 of 750 prospects, so Claude found the 136 who hadn't posted in 30 days, removed them after I confirmed, and is now trimming the rest down to my ICP. The two-comment warm-up and the DM playbook are next.One thing I'd love to see next is outgoing signals. When I scroll my feed, I like the posts I want to come back to later. A signal that turns those likes into a campaign would cover the people I want to reach who don't engage with my posts."
+          }
+        ]
+      },
+      {
         "id": "ph-today-7",
         "date": "2026-10-06",
         "rank": 7,
@@ -386,7 +386,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 136,
+        "votes": 137,
         "websiteUrl": "https://www.producthunt.com/r/GG2FLKBOEACAJO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -436,7 +436,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 123,
+        "votes": 124,
         "websiteUrl": "https://www.producthunt.com/r/UKMYYMNUR2X4TH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -498,7 +498,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 106,
+        "votes": 107,
         "websiteUrl": "https://www.producthunt.com/r/P4NPAMMP35SW4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -932,7 +932,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-05T07:01:00Z",
-        "votes": 163,
+        "votes": 164,
         "websiteUrl": "https://www.producthunt.com/r/E4OXQDH5KEULCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1426,12 +1426,20 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 356,
+        "votes": 365,
         "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm William! I made Rill because I want to always stay in the flow. As an ADHD, I never liked code-switching. My best ideas for work come when I'm supposedly not working at all: watching something for fun, reading things and following a rabbit hole, looking at how someone else solved a problem. Then when an idea hit me, I'd have to stop, switch to coding agents, find the project and explain it all, and most of the time I just didn't.Rill is my way of removing that code-switching. It's a browser with your Claude Code or Codex working alongside you. When something on a page gives you an idea, you say so right there, and an agent starts on it in the right project. You don't have to spend time looking for the right folder, rephrasing everything you just saw on the web, and you don't switch in and out of work mode. The work goes on with you in the flow.This matters now more than ever. Agents have shortened the distance between ideas to output near zero. So the bottleneck is capturing the idea at the moment you have it. That moment is nearly always while you're taking something in, and that is what a browser is for.Rill is a free AI-native browser. It's WebKit-based, which means it's native to Mac. And it runs on the Claude Code or Codex plan you already have, so you don't have to buy a new subscription for all of its agentic capabilities.cHow do you keep an idea today when it shows up at the wrong time?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I’d love to queue up a few tasks at night and wake up to them done. Is anyone already using it like that?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I use Codex for research too, so I can see this being useful beyond coding. Being able to trace a draft back to the pages that informed it would matter more to me than just handing over the tabs."
           },
           {
             "user": "[REDACTED]",
@@ -1452,14 +1460,6 @@
           {
             "user": "[REDACTED]",
             "text": "The idea of turning a random thought while browsing into actual work without breaking your focus feels genuinely useful.Congrats @williamgaoharvard"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the per-turn snapshot and Undo you mentioned in another thread is the detail that got me, I've been asking a version of this question on a few launches lately - does that snapshot/undo only cover the git state, or does it also know about anything the agent did outside the repo during that turn (an API call it made, a form it submitted on the page it was reading)? code is easy to revert, a request that already fired isn't, and that gap is the part I haven't seen anyone solve yet"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch, William! The code-switching problem is real. Ideas tend to hit when I'm reading something unrelated, and having ⌘E turn the page into a task for the agent in the right project sounds like a great way to catch them. Looking forward to trying it out."
           }
         ]
       },
@@ -1608,7 +1608,7 @@
           "https://ph-files.imgix.net/38d9dbd2-c97f-4510-94bf-0eabb83f6856.png?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "Ops of CoreSpeed",
         "featuredAt": "2026-10-04T07:01:00Z",
         "votes": 335,
         "websiteUrl": "https://www.producthunt.com/r/ZNJTNNHC4VT6ET?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
@@ -1645,7 +1645,63 @@
             "user": "[REDACTED]",
             "text": "Is there a way to give an agent access to only a small subset of connected apps?"
           }
-        ]
+        ],
+        "faDescription": "CoreSpeed یک سیستم‌عامل برای عامل‌های هوش مصنوعی است که به‌صورت یکپارچه تمام نیازهای آن‌ها را پوشش می‌دهد. با یک بار اتصال برنامه‌ها، حساب‌ها و حافظهٔ مشترک یا خصوصی به Claude Code، Codex، Cursor و سایر عامل‌های MCP منتقل می‌شود. این پلتفرم امکان استفاده از چندین حساب برای هر برنامه را فراهم می‌کند و جستجوی وب، پژوهش‌های اجتماعی و تولید رسانه‌های مختلف را به‌صورت داخلی دارد. همچنین اعتبارنامه‌های برنامه‌ها توسط CoreSpeed نگهداری می‌شود و با بودجه، لاگ‌های فعالیت و قابلیت تأیید هوشمند (نسخهٔ بتا) کنترل بهتری بر رفتار عامل‌ها اعمال می‌کند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt! 👋 ما تیم بنیان‌گذار CoreSpeed هستیم. ما بارها با این مشکل مواجه شدیم که عامل‌های ما توانایی داشتند اما برای انجام کار واقعی نیاز به اتصال یکپارچهٔ سرویس‌ها، مدیریت اعتبارنامه‌ها و بازسازی زمینه داشتند. پس از بازسازی این زیرساخت در سه محصول مختلف، متوجه شدیم که خود زیرساخت محصول اصلی است. بنابراین CoreSpeed را می‌سازیم؛ یک سیستم‌عامل برای عامل‌ها که یک بار تنظیم می‌شود و هر عامل MCP که وارد می‌شود، چه Claude Code، Codex، Cursor یا عامل سفارشی شما، از همان تنظیمات استفاده می‌کند: برنامه‌های متصل، با چندین حساب برای هر برنامه مثل حساب شخصی و شرکتی در X؛ حافظهٔ ذخیره‌شده که می‌تواند به تیم به اشتراک گذاشته یا خصوصی باشد؛ جستجوی وب، پژوهش‌های اجتماعی و تولید تصویر، صدا و ویدئو به‌صورت داخلی. این لایه را می‌توان به‌عنوان OpenRouter برای ابزارهای عامل در نظر گرفت: نیازی به کلیدهای API یا اشتراک‌های جداگانه ندارید؛ فقط به‌صورت pay‑as‑you‑go از طریق CoreSpeed پرداخت می‌کنید. اعتبارنامه‌های برنامه توسط CoreSpeed نگهداری می‌شود و به عامل‌ها تحویل داده نمی‌شود. با بودجه، لاگ‌های فعالیت و تأیید هوشمند (بتا) می‌توانید مشخص کنید کدام اقدامات ابتدا نیاز به تأیید شما دارند. برنامه‌ریزی شده ولی هنوز فعال نیست: Agent Drive، Mail، Pay، sandboxها و موارد دیگر. همهٔ آنچه عامل‌های شما نیاز دارند، از طریق یک نقطهٔ انتهایی MCP. برای شروع رایگان این را به عامل خود بدهید: https://corespeed.io/SKILL.md"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "می‌توانم یک سؤال بپرسم؟ CoreSpeed چه تفاوتی با ابزارهایی مثل Composio دارد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "جملهٔ «اعتبارنامه‌ها توسط CoreSpeed نگهداری می‌شوند و به عامل‌ها تحویل داده نمی‌شوند» برای من مهم‌ترین نکته است؛ این تفاوت بین یک ابزار و یک ریسک است. ما در Dial نیز با جداسازی مشابه در سمت داده‌ها مواجه بودیم – می‌خواهیم عامل به‌نام کسب‌وکار عمل کند بدون اینکه خود عامل (یا ما) اعتبارنامهٔ خام را ببینند. سؤال دربارهٔ تأیید هوشمند: وقتی عامل در میانهٔ کار به عملی نیاز به تأیید داشته باشد، آیا آن عمل مسدود می‌شود و منتظر می‌ماند یا بقیهٔ برنامه در صف می‌ماند و پس از تأیید شما به آن گام باز می‌گردد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "امکان داشتن چندین حساب برای هر برنامه جزئی است که من دوست دارم؛ حساب‌های شخصی و شرکتی در X به‌صورت همزمان و عامل می‌تواند حساب مناسب را انتخاب کند. من همیشه مجبور می‌شدم برای این کار وارد و خارج شوم."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "نگه داشتن اعتبارنامه‌های برنامه دور از عامل‌ها منطقی است. اگر یک قانون تأیید هوشمند مبهم باشد، آیا عمل منتظر تأیید من می‌ماند یا اجرا می‌شود؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "عامل چگونه بین ابزارهای تولید رسانهٔ موجود انتخاب می‌کند؟ آیا کاربر می‌تواند ارائه‌دهندهٔ مورد علاقهٔ خود را مشخص کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "اتصال یک بار برنامه و استفادهٔ مجدد از همان حساب‌ها و حافظه در Claude Code، Codex و Cursor مشکلی واقعی را حل می‌کند؛ چون همه مجبورند یک‌بار دیگر همان ادغام‌ها را پیاده‌سازی کنند. پشتیبانی از چندین حساب برای هر برنامه جزئی هوشمندانه‌ای است. چگونه حافظهٔ مشترک و خصوصی را بین عامل‌ها جدا نگه می‌دارید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "آیا راهی وجود دارد تا به یک عامل فقط به زیرمجموعهٔ کوچکی از برنامه‌های متصل دسترسی بدهیم؟"
+          }
+        ],
+        "aiReview": "مسئله: شرکت‌ها و تیم‌های هوش مصنوعی برای استفاده مؤثر از عامل‌ها باید هر بار ادغام‌های مختلف را پیاده‌سازی، اعتبارنامه‌ها را مدیریت و زمینهٔ کاری را بازسازی کنند که هزینهٔ زمان و امنیت را بالا می‌برد. راه‌حل: کوراسپید به‌عنوان یک سیستم‌عامل برای عامل‌ها، تمام این زیرساخت‌ها را یک‌بار متصل می‌کند؛ حساب‌های متعدد، حافظهٔ مشترک یا خصوصی، جستجوی وب و تولید رسانه‌ها به‌صورت داخلی در دسترس هستند و اعتبارنامه‌ها به‌صورت امن توسط پلتفرم نگهداری می‌شود. معماری و تکنولوژی: لایهٔ میانی مبتنی بر Next.js برای رابط کاربری و PostgreSQL برای ذخیره‌سازی امن داده‌ها و لاگ‌ها؛ سرویس‌های میکرو‑سرویس برای مدیریت اعتبارنامه‌ها، بودجه و تأیید هوشمند. مدل درآمدی: ترکیبی از پرداخت بر پایهٔ استفاده (pay‑as‑you‑go) برای درخواست‌های API و اشتراک ماهانه برای ویژگی‌های پیشرفته مانند Smart Approval و حافظهٔ سازمانی. نقاط قوت: یکپارچگی کامل، امنیت بالا با عدم افشای اعتبارنامه‌ها، قابلیت مقیاس‌پذیری و پشتیبانی از چندین حساب برای هر برنامه. نقاط ضعف: وابستگی به زیرساخت مرکزی که ممکن است نقطهٔ شکست باشد و نیاز به پذیرش توسط تیم‌های فنی برای مهاجرت از روش‌های سنتی. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های خارجی و نیاز به حفظ داده‌های حساس داخل کشور، ارائهٔ یک لایهٔ میانی محلی که اعتبارنامه‌ها را در سرورهای داخل‌کشوری نگه دارد و امکان تنظیم قوانین تأیید هوشمند به زبان فارسی، می‌تواند پذیرش گسترده‌ای در سازمان‌های دولتی و خصوصی داشته باشد.",
+        "iranEquivalent": {
+          "productName": "کوراسپید",
+          "description": "کوراسپید یک پلتفرم یکپارچه برای مدیریت ارتباطات و حافظهٔ هوش مصنوعی در شرکت‌هاست. با یک بار اتصال برنامه‌ها، حساب‌های متعدد و داده‌های مشترک یا خصوصی برای تمام عامل‌های داخلی در دسترس قرار می‌گیرد. این سرویس با نگهداری امن اعتبارنامه‌ها و قابلیت تأیید هوشمند، ریسک‌های امنیتی را به حداقل می‌رساند.",
+          "marketOpportunity": "بازار ابزارهای هوش مصنوعی در ایران به سرعت در حال رشد است و نیاز به راه‌حل‌های یکپارچه برای ادغام سرویس‌ها و حفظ امنیت داده‌ها احساس می‌شود. کوراسپید می‌تواند با ارائهٔ زیرساخت مرکزی، خالی از تکرار هزینه‌های توسعه و زمان راه‌اندازی، جایگاه ویژه‌ای در این بازار پیدا کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "استارتاپ‌های فناوری، شرکت‌های نرم‌افزاری، تیم‌های داده و هوش مصنوعی، بخش‌های مالی و بازاریابی پیشرفته",
+          "challenges": [
+            "یکپارچه‌سازی سرویس‌های مختلف در بسترهای داخلی",
+            "اطمینان از امنیت و حاکمیت داده‌ها در محیط‌های حساس"
+          ],
+          "monetization": [
+            "مدل پرداخت بر پایهٔ استفاده (pay‑as‑you‑go) با سطوح قیمت‌گذاری بر حسب تعداد درخواست‌ها",
+            "اشتراک ماهانه برای دسترسی به ویژگی‌های پیشرفته مانند تأیید هوشمند و حافظهٔ سازمانی"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL"
+          ],
+          "confidence": 75
+        }
       },
       {
         "id": "ph-week-10",
