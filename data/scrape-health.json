@@ -1,11 +1,17 @@
 {
   "status": "success",
-  "lastAttemptAt": "2026-10-07T01:44:02.033Z",
-  "lastSuccessAt": "2026-10-07T01:44:40.765Z",
+  "lastAttemptAt": "2026-10-08T00:20:50.233Z",
+  "lastSuccessAt": "2026-10-08T00:21:10.213Z",
   "lastFailureAt": "2026-09-28T01:02:59.774Z",
   "lastFailureReason": null,
   "consecutiveFailures": 0,
   "recentRuns": [
+    {
+      "status": "success",
+      "startedAt": "2026-10-08T00:20:50.233Z",
+      "finishedAt": "2026-10-08T00:21:10.213Z",
+      "error": null
+    },
     {
       "status": "success",
       "startedAt": "2026-10-07T01:44:02.033Z",
@@ -118,12 +124,6 @@
       "status": "failed",
       "startedAt": "2026-09-28T01:02:36.784Z",
       "finishedAt": "2026-09-28T01:02:59.774Z",
-      "error": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7"
-    },
-    {
-      "status": "failed",
-      "startedAt": "2026-09-27T23:39:28.069Z",
-      "finishedAt": "2026-09-27T23:39:50.471Z",
       "error": "Refusing to publish incomplete scrape: - today: expected exactly 10 products, got 7"
     }
   ]
