@@ -1,24 +1,24 @@
 {
-  "checkedAt": "2026-10-08T02:17:37.154Z",
-  "latestDataset": "2026-10-08.json",
+  "checkedAt": "2026-10-09T02:29:56.623Z",
+  "latestDataset": "2026-10-09.json",
   "batchLimit": 10,
   "attempted": 10,
   "succeeded": 8,
   "failed": 2,
-  "backlogBefore": 72,
-  "backlogAfter": 65,
-  "completedProducts": 518,
-  "missingFaDescription": 30,
-  "missingFaComments": 57,
-  "missingAiReview": 41,
-  "missingIranEquivalent": 32,
+  "backlogBefore": 75,
+  "backlogAfter": 68,
+  "completedProducts": 525,
+  "missingFaDescription": 32,
+  "missingFaComments": 59,
+  "missingAiReview": 44,
+  "missingIranEquivalent": 35,
   "failures": [
     {
-      "slug": "gemini-4-argon",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"جِمینای 4 آرگون پیشرفته‌ترین مدل هوش مصنوعی گوگل برای انجام کارهای تخصصی، پیچیده و بلندمدت است. این مدل توانمندی‌های استدلال پیشرفته، کدنویسی، درک چندوجهی و د"
+      "slug": "hyperframes-studio-desktop",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     },
     {
-      "slug": "invofox-self-serve",
+      "slug": "siteprint",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]

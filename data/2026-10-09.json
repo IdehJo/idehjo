@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "scrapedAt": "2026-10-09T00:35:14.882Z",
+  "scrapedAt": "2026-10-09T02:26:00.022Z",
   "periods": {
     "today": [
       {
@@ -25,9 +25,13 @@
         "maker": "Haylli Weintraub",
         "makerTitle": "Product enthusiast",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 315,
+        "votes": 320,
         "websiteUrl": "https://www.producthunt.com/r/Y54VBVRLNCMW2B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "the file conflict handling (read, check if changed, refuse and re-read) makes sense for shared files, but what about actions that aren't a file write, two agents both sending the same DM, both submitting the same form, both hitting an API that isn't idempotent. there's no version number to check against on those, so what stops two agents from quietly duplicating an outward action instead of a file edit"
+          },
           {
             "user": "[REDACTED]",
             "text": "Amazing product, I started using Openswarm with its first iteration back in June. Huge improves since and a part of my tech stack now!"
@@ -46,11 +50,11 @@
           },
           {
             "user": "[REDACTED]",
-            "text": "@eric_f_zeng @haylli_weintraub @alex_dakhli Having all the agents work together in one place looks useful especially with the shared workspace feature"
+            "text": "how many levels of agents are created? agents can have sub-agents that can have sub-agents?"
           },
           {
             "user": "[REDACTED]",
-            "text": "​Showed this to our marketing lead, we have been struggling with low quality scores on PPC lately."
+            "text": "@eric_f_zeng @haylli_weintraub @alex_dakhli Having all the agents work together in one place looks useful especially with the shared workspace feature"
           }
         ]
       },
@@ -76,7 +80,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 287,
+        "votes": 295,
         "websiteUrl": "https://www.producthunt.com/r/UBW3XPFGNKPZ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -135,12 +139,16 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 280,
+        "votes": 283,
         "websiteUrl": "https://www.producthunt.com/r/M6JBHNQU6LWQU7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Anthropic's Claude Haiku 5.5 is a faster, lower-cost model designed for high-volume and speed-sensitive workloads.What makes it different: It combines stronger performance with significantly lower pricing and is the first Haiku model with an adjustable effort setting.Key features:• 90% lower pricing than Haiku 4.5 for prompts up to 100K tokens• Anthropic's fastest model to date at standard speed• Adjustable effort settings to balance cost and intelligence• Stronger performance across computer use, reasoning, knowledge work, and coding• Built for tasks like summarization, classification, coding subagents, customer support, and browser use• Available through Claude Platform, AWS, Google Cloud, and Microsoft AzureWho it's for: Developers and teams running high-volume, cost- or latency-sensitive AI workloads.Explore Claude Haiku 5.5P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "the adjustable effort setting is the part I care about most here, most \"fast and cheap\" model releases make you pick a model tier upfront and live with it for the whole workload. being able to dial effort per request means a voice agent could run cheap on routine turns and bump it up only when the conversation actually gets ambiguous, instead of overpaying for every single turn just to cover the hard ones"
           },
           {
             "user": "[REDACTED]",
@@ -179,7 +187,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 143,
+        "votes": 146,
         "websiteUrl": "https://www.producthunt.com/r/MBDNHIGIUTCOZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -246,7 +254,7 @@
         "maker": "Phanos Anastasiou",
         "makerTitle": "Founder",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 120,
+        "votes": 121,
         "websiteUrl": "https://www.producthunt.com/r/PG7BUSTF6X2USS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -313,7 +321,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 111,
+        "votes": 112,
         "websiteUrl": "https://www.producthunt.com/r/BWWRJNBPGI7HOE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -371,12 +379,16 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 109,
+        "votes": 112,
         "websiteUrl": "https://www.producthunt.com/r/WD4NK3DIKEXT7B?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Claude just landed inside Google Docs, Sheets, and Slides. You can now ask Claude to edit a document, build spreadsheet formulas, or create slides directly in the file you're working on. And it works the other way too — you can create and edit Google files from Claude. The best part for me is not having to constantly copy things between Claude and Google Workspace. Pretty interesting move from Anthropic, especially with Gemini already built into Google's apps."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Will the connectors also work smoothly with shared files and team folders in Google Workspace?"
           },
           {
             "user": "[REDACTED]",
@@ -411,7 +423,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 105,
+        "votes": 107,
         "websiteUrl": "https://www.producthunt.com/r/MPJT4OIBTEZYOC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -462,7 +474,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 103,
+        "votes": 104,
         "websiteUrl": "https://www.producthunt.com/r/6CKPE3FQLUWQNP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -506,7 +518,7 @@
         "maker": "Vanja Ivancevic",
         "makerTitle": "Making Paw-Paw, a desktop pet for Mac",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 85,
+        "votes": 86,
         "websiteUrl": "https://www.producthunt.com/r/A2V3BLTS547C2F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -543,7 +555,7 @@
         "maker": "Jeffrey Lai",
         "makerTitle": "Building autonomous workforce on AI PC",
         "featuredAt": "2026-10-07T07:01:00Z",
-        "votes": 517,
+        "votes": 518,
         "websiteUrl": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -618,6 +630,10 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "I have created landing pages manually for ABM campaigns before and it is a very difficult task. If GenPage really does get you 90% of the way there as you suggested, then it is worth giving it a try."
+          },
+          {
+            "user": "[REDACTED]",
             "text": "Dynamic variables theory is quite straightforward and indeed very helpful. Congratulations on your launch, @samy_barbier"
           },
           {
@@ -626,19 +642,15 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "Previously experienced \"connect your brand\" onboarding process that always ended up being generic despite uploading anything you wanted to upload. How often is the content of the Brand Knowledge Base changing?"
+          },
+          {
+            "user": "[REDACTED]",
             "text": "We push all our lead data through a custom Segment pipeline into Snowflake. My main concern is whether these dynamically generated forms can reliably pass hidden UTM parameters and custom GCLID fields through our existing webhooks."
           },
           {
             "user": "[REDACTED]",
             "text": "I remember the time when similar tools said they could do automated personalization and all they did was make incorrect text. I would be very careful about letting an AI put pages online without someone checking them first. I would be very careful, about letting an AI put pages online without someone checking them first."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "When Autopilot is testing, how much visibility do marketers have to the thought process of Autopilot in terms of why it decided on the winning campaign? I'm more interested in understanding the messaging strategy that led to the win, not the actual lift."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I manage paid campaigns for an agency and the \"worst sales rep\" comment stung me. I have been guilty of sending amazing targeting to a generic homepage for many years now."
           }
         ]
       },
@@ -940,7 +952,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-07T07:01:00Z",
-        "votes": 168,
+        "votes": 170,
         "websiteUrl": "https://www.producthunt.com/r/DKMPPDCMFJ6WAD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1125,7 +1137,7 @@
         "maker": "Jeffrey Lai",
         "makerTitle": "Building autonomous workforce on AI PC",
         "featuredAt": "2026-10-07T07:01:00Z",
-        "votes": 517,
+        "votes": 518,
         "websiteUrl": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1200,6 +1212,10 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "I have created landing pages manually for ABM campaigns before and it is a very difficult task. If GenPage really does get you 90% of the way there as you suggested, then it is worth giving it a try."
+          },
+          {
+            "user": "[REDACTED]",
             "text": "Dynamic variables theory is quite straightforward and indeed very helpful. Congratulations on your launch, @samy_barbier"
           },
           {
@@ -1208,19 +1224,15 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "Previously experienced \"connect your brand\" onboarding process that always ended up being generic despite uploading anything you wanted to upload. How often is the content of the Brand Knowledge Base changing?"
+          },
+          {
+            "user": "[REDACTED]",
             "text": "We push all our lead data through a custom Segment pipeline into Snowflake. My main concern is whether these dynamically generated forms can reliably pass hidden UTM parameters and custom GCLID fields through our existing webhooks."
           },
           {
             "user": "[REDACTED]",
             "text": "I remember the time when similar tools said they could do automated personalization and all they did was make incorrect text. I would be very careful about letting an AI put pages online without someone checking them first. I would be very careful, about letting an AI put pages online without someone checking them first."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "When Autopilot is testing, how much visibility do marketers have to the thought process of Autopilot in terms of why it decided on the winning campaign? I'm more interested in understanding the messaging strategy that led to the win, not the actual lift."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I manage paid campaigns for an agency and the \"worst sales rep\" comment stung me. I have been guilty of sending amazing targeting to a generic homepage for many years now."
           }
         ]
       },
@@ -1249,7 +1261,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-05T07:01:00Z",
-        "votes": 480,
+        "votes": 484,
         "websiteUrl": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1432,7 +1444,7 @@
           "https://ph-files.imgix.net/73cd1f7b-1f0f-427b-b75c-11336f1a2d08.png?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "World Model Researcher",
         "featuredAt": "2026-10-06T07:01:00Z",
         "votes": 438,
         "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
@@ -1469,7 +1481,53 @@
             "user": "[REDACTED]",
             "text": "This is a pretty need tool. I have always been a fan of these tools that kind of act as a surface to multiple products. I would recommend expanding to include other tools as more tools outside of Codex and Claude Code will come out and being able to \"plug and play\" would be cool."
           }
-        ]
+        ],
+        "faDescription": "Rill یک مرورگر AI-native است که بر پایه Claude Code و Codex ساخته شده. می‌توانید به‌صورت عادی مرور کنید و با فشردن ⌘E در هر صفحه، آنچه در حال مشاهده هستید را به یک وظیفه برای عامل خود تبدیل کنید. Rill پروژه مناسب را پیدا می‌کند، زمینه را منتقل می‌کند و عامل در حین ادامه مرور کار می‌کند. همچنین تب‌های شما را به‌صورت تم‌بندی می‌کند، تاریخچه‌تان را به روزهایی قابل جستجو تبدیل می‌کند و تمام پروژه‌های عامل‌ها را در یک مکان جمع‌آوری می‌کند. رایگان است و بر روی طرحی که قبلاً دارید اجرا می‌شود.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام، من ویلیام هستم! من Rill را ساخته‌ام تا همیشه در جریان باقی بمانم. به‌عنوان ADHD، من هرگز از تغییر کد-سوییچ نپذیرفتم. بهترین ایده‌های کار من زمانی می‌آیند که در حال حاضر کار نمی‌کنم: تماشای چیزی برای سرگرمی، خواندن و دنبال کردن حفره خرگوش، دیدن چگونگی حل مشکل توسط دیگران. سپس وقتی ایده‌ای به ذهنم رسید، باید متوقف شدم، به کد-سوییچ می‌رفتم، پروژه را پیدا می‌کردم و همه چیز را توضیح می‌دادم، و اکثر مواقع فقط نمی‌کردم. Rill راه‌حلی برای حذف این کد-سوییچ است. این یک مرورگر است که Claude Code یا Codex شما را در کنار شما نگه می‌دارد. وقتی چیزی در صفحه برایتان ایده می‌دهد، آن را همین‌جا می‌گویید و یک عامل در پروژه مناسب شروع به کار می‌کند. نیازی نیست زمان صرف پیدا کردن پوشه مناسب کنید، همه چیز را دوباره توضیح دهید و از حالت کار به حالت دیگر سوئیچ کنید. کار در جریان شما ادامه می‌یابد. این موضوع اکنون مهم‌تر از هر زمان دیگری است. عامل‌ها فاصله بین ایده و خروجی را به صفر نزدیک کرده‌اند. بنابراین موانع اصلی، ضبط ایده در لحظه‌ای است که آن را دارید. آن لحظه تقریباً همیشه در حین دریافت چیزی است، و همین چیزی است که مرورگر برای آن ساخته شده است. Rill یک مرورگر AI-native رایگان است. بر پایه WebKit است، به‌معنای اینکه به‌صورت native برای Mac است. و بر روی طرح Claude Code یا Codex شما که قبلاً دارید اجرا می‌شود، بنابراین نیازی نیست اشتراک جدیدی برای تمام قابلیت‌های عامل‌پذیرش خریداری کنید. چگونه امروز ایده‌ای را نگه می‌دارید وقتی در زمان اشتباه ظاهر می‌شود؟"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آیا می‌توانم اولویت‌های وظیفه را در چند عامل مدیریت کنم، یا هر عامل به‌صورت مستقل کار می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "آیا کنسول هم در این مرورگر گسترش می‌یابد؟ من معمولاً فقط روی localhost خود نگاه می‌کنم و چیزی که واقعاً نیاز دارم، کنسول است، به‌علاوه درخواست که در آن شکست خورد. در حال حاضر من مجبورم آن را در هر بار کپی و پیست کنم و می‌خواهم بدانم که چگونه می‌داند کدام پروژه. من همان اپ را در حدود سه پورت در حال اجرا دارم."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "آیا این مرورگر برای موبایل سازگار است، می‌توانیم وظایف را از موبایل ارسال کنیم؟ می‌توانیم با Claude کار کنیم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "من تاریخچه را در پایان روز باز کردم و آن را مثل یک دفترچه خاطرات خواندم. من هرگز تاریخچه Chrome خود را برای سرگرمی نگاه نکرده بودم. تبریک برای راه‌اندازی"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "می‌خواهم چند وظیفه را در شب صف بگذارم و صبح آن‌ها را انجام دیده باشم. آیا کسی از این کار استفاده می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "من Codex را برای تحقیق هم استفاده می‌کنم، بنابراین می‌بینم این ابزار در خارج از کدنویسی مفید است. امکان ردیابی یک پیش‌نویس به صفحات که آن را تأثیر داده، برای من مهم‌تر است تا فقط تب‌ها را تحویل دهم."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "این ابزار بسیار مفید است. من همیشه طرفدار ابزارهایی بودم که به‌عنوان سطحی برای چندین محصول عمل می‌کنند. پیشنهاد می‌کنم برای گسترش به ابزارهای دیگر، به‌جای Codex و Claude Code، به‌صورت plug and play اضافه شود."
+          }
+        ],
+        "iranEquivalent": {
+          "productName": "",
+          "description": "",
+          "marketOpportunity": "",
+          "estimatedBudget": "",
+          "targetAudience": "",
+          "challenges": [],
+          "monetization": [],
+          "techStack": [],
+          "confidence": 0
+        }
       },
       {
         "id": "ph-week-7",
@@ -1653,7 +1711,65 @@
             "user": "[REDACTED]",
             "text": "Congrats! Looks interesting! How do you see Opengeni being different from teams building their agent infrastructure directly with frameworks like LangGraph or the cloud providers?"
           }
-        ]
+        ],
+        "faDescription": "Opengeni به شما امکان می‌دهد در عرض چند ساعت، عامل‌های هوش مصنوعی را به محیط تولید منتقل کنید. این پلتفرم با ارائه جلسات مقاوم در برابر خطا، ساندباکس‌های ایزوله، بیش از ۱۰۰ یکپارچه‌سازی و قابلیت تأیید انسانی، زیرساخت‌های پیچیده را مدیریت می‌کند. شما می‌توانید با تمرکز بر منطق عامل‌ها، نگرانی‌های مربوط به زیرساخت را به ما بسپارید. این محصول به صورت خود میزبانی رایگان (Open Source) یا از طریق ابری مدیریت شده در دسترس است و برای ۱۰۰ کاربر اولیه، اعتبار ۱۰۰ دلاری ابری ارائه می‌دهد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt. در دو سال گذشته، ما در CloudGeni عامل‌های هوش مصنوعی را در زیرساخت ابری واقعی تولید اجرا کرده‌ایم. سخت آموختیم که فقط یک بار کار کردن یک عامل، تنها شروع کار است. نگه‌داشتن آن در حال اجرا، فراهم کردن جایی امن برای اجرا، اتصال حساب‌های کاربری، دریافت تأیید انسانی و درک آنچه اتفاق افتاده و هزینه آن، جایی است که حجم کار انباشته می‌شود. ما بارها و بارها این زیرساخت را بازسازی می‌کردیم. بنابراین آن را جدا کرده و متن‌باز کردیم. Opengeni این است: عامل‌ها در محصول شما، زیرساخت آماده برای استفاده. این پلتفرم به توسعه‌دهندگان قطعاتی را می‌دهد که برای انتشار عامل‌ها نیاز دارند و از پیش سیم‌کشی شده‌اند: 🔄 جلسات که از خطاها زنده می‌مانند، با تاریخچه قابل پخش مجدد تا بتوانید اتصال را برقرار کنید و از جایی که متوقف شدید ادامه دهید. 🖥️ ساندباکس‌ها برای انجام کار توسط عامل‌ها، با مدیریت گواهی‌ها و حافظه داخلی. 🔌 APIهای شما و اپلیکیشن‌های کاربران شما، متصل. یک مشخصه OpenAPI یا GraphQL بیاورید، یا یک سرور MCP، به علاوه ۱۰۰+ یکپارچه‌سازی با OAuth داخلی. ✋ تأیید انسانی قبل از اقدامات پرخطر، تا افراد کنترل را در دست داشته باشند. 🔍 دید کامل به هر مرحله، توکن و دلار، با داشبوردهای داخلی و ردیابی اجراها. 🧩 یک فضای کاری برای هر مشتری و آزادی انتخاب مدل‌های خود. قرار دادن آن در محصول شما سه مرحله دارد: افزودن کلید API در سرور، نصب یک هندلر با استفاده از احراز هویت موجود شما، و نمایش عامل در اپلیکیشن خودتان - با UI خودتان یا کامپوننت‌های React ما. همچنین می‌توانید همان جلسات را قبل از جاسازی در اپلیکیشن خود، در اپلیکیشن Opengeni امتحان کنید. آن را در ابر ما یا ابر خودتان اجرا کنید. Opengeni دارای لایسنس Apache-۲.۰ است و برای خود میزبانی رایگان است. ابر مدیریت شده ما هزینه مدل + ۵٪ است، بدون هزینه پلتفرم یا لیسانس کاربر. برای این راه‌اندازی، ۱۰۰ کاربر اول ۱۰۰ دلار اعتبار ابری دریافت می‌کنند. ما در پیش‌نمایش عمومی اولیه هستیم و بازخورد شما را دوست داریم: اولین وظیفه‌ای که می‌خواهید یک عامل در محصول شما انجام دهد چیست - و برای اعتماد به آن در انجام آن وظیفه به چه چیزی نیاز دارید؟ ابر را امتحان کنید · مستندات را بخوانید · در GitHub خود میزبانی کنید. ما تمام روز در بخش نظرات حضور خواهیم داشت. از بررسی کردن محصول ما متشکریم!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "تبریک! 🎉 تغییر بزرگ اینجا این است که از هوش مصنوعی که می‌تواند کارهایی انجام دهد، به هوش مصنوعی که می‌توانید واقعاً به آن اعتماد کنید که کارها را انجام دهد، تغییر کرده است. این یک مسئله بسیار دشوارتر و بسیار بزرگ‌تر است. کار عالی @alchemist_studio 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "عامل شما می‌تواند شیفت شب را انجام دهد در حالی که شما چشم‌تان به رسیدهاست. معامله‌ی نسبتاً خوبی است. @davletdz @iuliia_petryshyn_thuen @benyhh"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "سلام @alchemist_studio ، فکر کنم کمی دیر رسیده باشم، مشغول حل برخی مشکلات بودم. اما در هر صورت، دیر بهتر از هرگز، تبریک بابت راه‌اندازی خیره‌کننده این محصول زیبا. قطعاً بیشتر آن را بررسی خواهم کرد. دوباره تبریک و آرزوی بهترین‌ها :)"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "وقتی داده‌ها ناقص باشند، چگونه به سوالات پاسخ می‌دهد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "بخش «جلساتی که از خطاها زنده می‌مانند با تاریخچه قابل پخش مجدد» چیزی است که می‌خواهم آن را زیر ذره‌بین بگیرم. اگر یک نوبت دقیقاً بعد از اینکه یک API خارجی پولی را فراخوانده و قبل از اینکه نتیجه آن فراخوانی نوشته شود، بمیرد، آیا پخش مجدد (replay) همان فراخوانی را هنگام اتصال مجدد دوباره شلیک می‌کند، یا می‌داند که باید آن را رد کند چون درخواست قبلاً ارسال شده است؟ این شکافی است که به افراد آسیب می‌زند؛ یک کرش آشکار است، اما یک جلسه‌ی به‌طور ایمن از سر گرفته‌شده که بی‌سروصدا کارت مشتری را دو بار شارژ می‌کند، بسیار خطرناک‌تر است."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک! قصد دارم این را به صورت خود میزبانی (Self-host) کنم. آیا کسی می‌تواند خطوط دفاعی امنیتی و حریم خصوصی را فهرست کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک! جالب به نظر می‌رسد! Opengeni را چگونه با تیم‌هایی که زیرساخت عامل‌های خود را مستقیماً با فریمورک‌هایی مانند LangGraph یا ارائه‌دهندگان ابری می‌سازند، متفاوت می‌بینید؟"
+          }
+        ],
+        "aiReview": "مسئله اصلی که Opengeni حل می‌کند، شکاف بین «ساختن یک دمو از هوش مصنوعی» و «اجرای پایدار آن در تولید» است. بسیاری از توسعه‌دهندگان می‌توانند یک Agent بسازند، اما مدیریت خطاها، احراز هویت، ایزوله‌سازی محیط اجرا و شفافیت هزینه‌ها چالش‌های بزرگی هستند. راه‌حل Opengeni یک لایه زیرساختی (Infrastructure Layer) است که این نگرانی‌ها را به عهده می‌گیرد و به توسعه‌دهندگان اجازه می‌دهد فقط روی منطق کسب‌وکار تمرکز کنند. از نظر معماری، این محصول بر پایه‌ی جلسات (Sessions) با قابلیت بازیابی از خطا (Recovery) و ساندباکس‌های ایزوله بنا شده است که امنیت و پایداری را تضمین می‌کند. مدل درآمدی ترکیبی از هزینه مدل‌های هوش مصنوعی به اضافه یک حاشیه سود کوچک (۵٪) است که برای توسعه‌دهندگان جذاب است زیرا هزینه پلتفرم ثابت ندارد. نقاط قوت اصلی شامل متن‌باز بودن (Open Source) برای خود میزبانی، یکپارچه‌سازی گسترده با ۱۰۰+ سرویس، و قابلیت ردیابی دقیق هزینه‌هاست. از سوی دیگر، نقاط ضعف احتمالی می‌تواند شامل پیچیدگی تنظیمات اولیه برای تیم‌های غیرفنی و وابستگی به کیفیت مدل‌های هوش مصنوعی پایه باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری خارجی، ارائه نسخه‌ای از این پلتفرم که با مدل‌های هوش مصنوعی داخلی یا سرورهای محلی (Local LLMs) یکپارچه شده باشد، می‌تواند یک مزیت رقابتی عظیم ایجاد کند. همچنین، تمرکز بر «اعتمادسازی» (Trust) و شفافیت در هزینه‌ها برای بازار ایران که حساسیت بالایی به هزینه‌های پنهان دارد، بسیار حیاتی است.",
+        "iranEquivalent": {
+          "productName": "آژن‌ژنی (AgentGeni)",
+          "description": "آژن‌ژنی یک پلتفرم زیرساختی است که به توسعه‌دهندگان ایرانی امکان می‌دهد عامل‌های هوش مصنوعی را با قابلیت‌های مدیریت خطا، ایزوله‌سازی و یکپارچه‌سازی با سرویس‌های داخلی به سرعت به تولید برسانند. این محصول با ارائه محیط‌های امن و قابلیت ردیابی هزینه‌ها، پیچیدگی‌های فنی اجرای Agent‌ها را حذف می‌کند. هدف آن است که تیم‌های فناوری ایران بتوانند بدون نیاز به ساخت زیرساخت از صفر، روی منطق کسب‌وکار خود تمرکز کنند.",
+          "marketOpportunity": "بازار ایران با رشد سریع استارتاپ‌های هوش مصنوعی و نیاز به اتوماسیون فرآیندها، تشنه‌ی زیرساخت‌های قابل اعتماد و مقرون‌به‌صرفه است. وجود محدودیت‌های دسترسی به سرویس‌های ابری خارجی، فرصت بزرگی برای ارائه یک پلتفرم بومی یا خود میزبانی‌شده با یکپارچه‌سازی‌های محلی ایجاد می‌کند.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "تیم‌های فنی استارتاپ‌های SaaS، شرکت‌های فین‌تک و پلتفرم‌های خدماتی که قصد پیاده‌سازی چت‌بات‌های هوشمند یا اتوماسیون‌های پیچیده با هوش مصنوعی را دارند.",
+          "challenges": [
+            "نیاز به یکپارچه‌سازی با سرویس‌های ابری و APIهای داخلی ایران به جای سرویس‌های خارجی",
+            "اعتمادسازی کاربران نسبت به امنیت داده‌ها و حریم خصوصی در محیط‌های ابری داخلی"
+          ],
+          "monetization": [
+            "مدل اشتراکی ماهانه برای استفاده از ابر مدیریت شده با درصدی از هزینه مدل‌های هوش مصنوعی",
+            "فروش لایسنس یا پشتیبانی ویژه برای شرکت‌هایی که می‌خواهند سیستم را به صورت On-Premise (روی سرورهای خود) اجرا کنند"
+          ],
+          "techStack": [
+            "Node.js",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-week-10",
@@ -1805,7 +1921,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-09-15T07:01:00Z",
-        "votes": 634,
+        "votes": 635,
         "websiteUrl": "https://www.producthunt.com/r/TDDTPREQN2HR4H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2226,7 +2342,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-07T07:01:00Z",
-        "votes": 517,
+        "votes": 518,
         "websiteUrl": "https://www.producthunt.com/r/I2U7KF4RUGEZSO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
