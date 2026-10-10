@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "scrapedAt": "2026-10-10T00:15:19.967Z",
+  "scrapedAt": "2026-10-10T01:52:11.820Z",
   "periods": {
     "today": [
       {
@@ -28,12 +28,16 @@
         "maker": "Darya",
         "makerTitle": "Marketing & Growth",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 293,
+        "votes": 299,
         "websiteUrl": "https://www.producthunt.com/r/2QQY2FLJ5IUZ2E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey everyone! Excited to be back on Product Hunt with Zernio :)When we first launched here in March, Zernio was a social media API. Developers came to us so they didn’t have to build and maintain an integration for every platform, and social is still the biggest part of what we do.Then you kept asking for more. Since then we’ve added ads across 7 platforms, WhatsApp, iMessage, and phone numbers with calls and SMS, all on the same API. Today 200,000 developers build on Zernio, and we’re finally ready to grow from a social media API into marketing infrastructure that you and your agents build on.Connect our MCP server, and your agent can post, run ads, text and call. We have plenty of ideas for what comes next, but we’d love to hear yours. Use this launch to tell us what you still can’t build on Zernio. Thank you all for the support!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I've been using Zernio for about 2 months, what initially drove me to it was the better value compared to other more popular options (at that time). They ship lots of features really quickly, I'm really happy with it so far, best of luck."
           },
           {
             "user": "[REDACTED]",
@@ -58,10 +62,6 @@
           {
             "user": "[REDACTED]",
             "text": "the phone numbers with calls and SMS bought inside Zernio is the part I'd stress test first. we build voice agents at Dial and the actual hard part of telephony was never the API shape, it was the carrier-side stuff - A2P 10DLC registration for SMS, STIR/SHAKEN attestation so your calls don't get flagged as spam, and the week-plus approval lag when a carrier decides your use case looks sketchy. does Zernio absorb that compliance layer too, or is \"buy a number inside Zernio\" still handing the user a number that can get silently throttled by a carrier for reasons outside your API"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats, Miquel and team! Nice to see the extra channels come from what customers were asking for. Keeping the same API as you add them makes sense."
           }
         ]
       },
@@ -92,7 +92,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 259,
+        "votes": 275,
         "websiteUrl": "https://www.producthunt.com/r/NCFRPHEHNAHLX7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -151,7 +151,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 192,
+        "votes": 195,
         "websiteUrl": "https://www.producthunt.com/r/3YW7KAM2VS6EVT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -209,7 +209,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 158,
+        "votes": 163,
         "websiteUrl": "https://www.producthunt.com/r/XCPBKI3MW334HG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -243,7 +243,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 142,
+        "votes": 143,
         "websiteUrl": "https://www.producthunt.com/r/T77YP5EHSXPVNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -285,7 +285,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 129,
+        "votes": 136,
         "websiteUrl": "https://www.producthunt.com/r/CZHANWCNDFTOBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -298,6 +298,50 @@
         "id": "ph-today-7",
         "date": "2026-10-09",
         "rank": 7,
+        "name": "Refs",
+        "slug": "refs",
+        "tagline": "Give Claude better references for your videos",
+        "description": "Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt. Add it to Claude Code, Codex or Cursor with one command, and Claude plans your launch film from the real thing.",
+        "category": "Developer Tools • Artificial Intelligence • Photo & Video",
+        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • Photo & Video",
+        "url": "https://www.producthunt.com/products/refs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/c125d274-ee3c-413a-b29d-9e47b47affef.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/ceaab832-4584-46fa-ba59-f9a575bc772a.jpeg?auto=format",
+          "https://ph-files.imgix.net/a2b821b5-3b51-466b-b2fb-89d4d89e0c75.png?auto=format",
+          "https://ph-files.imgix.net/512f23d8-c066-4057-b2db-a7fc533569c0.png?auto=format",
+          "https://ph-files.imgix.net/f23780fc-7750-4350-b3ef-6a1c7be2225b.png?auto=format",
+          "https://ph-files.imgix.net/0c1b17d4-4c99-4ade-951e-891b24a54900.png?auto=format",
+          "https://ph-files.imgix.net/3c2cc00b-2b2b-4353-8108-fcc03a27cf46.png?auto=format"
+        ],
+        "maker": "Pratyush Rungta",
+        "makerTitle": "Building",
+        "featuredAt": "2026-10-09T07:01:00Z",
+        "votes": 103,
+        "websiteUrl": "https://www.producthunt.com/r/6WJCLZVYOWQGR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋 Claude can write, code and design. Ask it for a launch film, though, and you get the average of every launch film it has seen. Directors fix that with references, so I built Refs. What's inside: • 2,449 films that moved people: founder launches, product reels, kinetic type, three.js worlds • every film measured cut by cut (60,539 shots so far) and written up as a 15-plate blueprint: hook, beats, shots, type, colour, sound, script • a recipe prompt for every film, ready to hand to Claude • Formulas: what the strong films of one format have in common • Recommended: the films a SaaS, app or AI tool would actually copy for its launch • launch films from Linear, Runway, Vercel, OpenAI, Perplexity and more Refs plugs into Claude Code, Codex and Cursor as an MCP. Ask for a launch film and Claude searches Refs, pulls a blueprint and plans your film shot for shot. Our own launch film was made that way. Browsing is free. Pro ($16 a month) opens every plate, every recipe, formulas and the MCP. Which film would you want taken apart next?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Sick work! Congrats on the launch"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "the \"average of every launch film it's seen\" framing is a sharp way to put the actual problem, but I'd worry the fix just moves the averaging one layer up. if Claude is picking the closest-matching reference out of 3000 films for a given brief, isn't the output now the average of whichever handful of references got selected, rather than one coherent director's choice? curious how much the blueprint constrains the pick versus leaving Claude to blend two or three \"close enough\" references into something that's referential but not quite anything"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Honestly, I’m very impressed with this. I’d love to see one for musicals. Comedies. Horror. Sci fi. I’d pay too. Well done 🫡"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-8",
+        "date": "2026-10-09",
+        "rank": 8,
         "name": "Staffcoder",
         "slug": "staffcoder",
         "tagline": "Build like a real engineer",
@@ -319,7 +363,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 100,
+        "votes": 101,
         "websiteUrl": "https://www.producthunt.com/r/2VTEVX554ZQNCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -357,50 +401,6 @@
         ]
       },
       {
-        "id": "ph-today-8",
-        "date": "2026-10-09",
-        "rank": 8,
-        "name": "Refs",
-        "slug": "refs",
-        "tagline": "Give Claude better references for your videos",
-        "description": "Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt. Add it to Claude Code, Codex or Cursor with one command, and Claude plans your launch film from the real thing.",
-        "category": "Developer Tools • Artificial Intelligence • Photo & Video",
-        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • Photo & Video",
-        "url": "https://www.producthunt.com/products/refs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/c125d274-ee3c-413a-b29d-9e47b47affef.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/ceaab832-4584-46fa-ba59-f9a575bc772a.jpeg?auto=format",
-          "https://ph-files.imgix.net/a2b821b5-3b51-466b-b2fb-89d4d89e0c75.png?auto=format",
-          "https://ph-files.imgix.net/512f23d8-c066-4057-b2db-a7fc533569c0.png?auto=format",
-          "https://ph-files.imgix.net/f23780fc-7750-4350-b3ef-6a1c7be2225b.png?auto=format",
-          "https://ph-files.imgix.net/0c1b17d4-4c99-4ade-951e-891b24a54900.png?auto=format",
-          "https://ph-files.imgix.net/3c2cc00b-2b2b-4353-8108-fcc03a27cf46.png?auto=format"
-        ],
-        "maker": "Pratyush Rungta",
-        "makerTitle": "Building",
-        "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 96,
-        "websiteUrl": "https://www.producthunt.com/r/6WJCLZVYOWQGR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋 Claude can write, code and design. Ask it for a launch film, though, and you get the average of every launch film it has seen. Directors fix that with references, so I built Refs. What's inside: • 2,449 films that moved people: founder launches, product reels, kinetic type, three.js worlds • every film measured cut by cut (60,539 shots so far) and written up as a 15-plate blueprint: hook, beats, shots, type, colour, sound, script • a recipe prompt for every film, ready to hand to Claude • Formulas: what the strong films of one format have in common • Recommended: the films a SaaS, app or AI tool would actually copy for its launch • launch films from Linear, Runway, Vercel, OpenAI, Perplexity and more Refs plugs into Claude Code, Codex and Cursor as an MCP. Ask for a launch film and Claude searches Refs, pulls a blueprint and plans your film shot for shot. Our own launch film was made that way. Browsing is free. Pro ($16 a month) opens every plate, every recipe, formulas and the MCP. Which film would you want taken apart next?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Sick work! Congrats on the launch"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the \"average of every launch film it's seen\" framing is a sharp way to put the actual problem, but I'd worry the fix just moves the averaging one layer up. if Claude is picking the closest-matching reference out of 3000 films for a given brief, isn't the output now the average of whichever handful of references got selected, rather than one coherent director's choice? curious how much the blueprint constrains the pick versus leaving Claude to blend two or three \"close enough\" references into something that's referential but not quite anything"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Honestly, I’m very impressed with this. I’d love to see one for musicals. Comedies. Horror. Sci fi. I’d pay too. Well done 🫡"
-          }
-        ]
-      },
-      {
         "id": "ph-today-9",
         "date": "2026-10-09",
         "rank": 9,
@@ -432,7 +432,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 93,
+        "votes": 94,
         "websiteUrl": "https://www.producthunt.com/r/FIIHOH2O2SBZFI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -476,7 +476,7 @@
         "maker": "Ibrahim",
         "makerTitle": "Solo dev building OpenPilot, AI agent",
         "featuredAt": "2026-10-09T07:01:00Z",
-        "votes": 88,
+        "votes": 94,
         "websiteUrl": "https://www.producthunt.com/r/YZFHAUBDVYQFKM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -568,7 +568,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 368,
+        "votes": 370,
         "websiteUrl": "https://www.producthunt.com/r/UBW3XPFGNKPZ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -817,7 +817,7 @@
         "maker": "Phanos Anastasiou",
         "makerTitle": "Founder",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 126,
+        "votes": 127,
         "websiteUrl": "https://www.producthunt.com/r/PG7BUSTF6X2USS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1122,7 +1122,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-05T07:01:00Z",
-        "votes": 518,
+        "votes": 519,
         "websiteUrl": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1246,7 +1246,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-07T07:01:00Z",
-        "votes": 460,
+        "votes": 461,
         "websiteUrl": "https://www.producthunt.com/r/LVDMUE35VIECA7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1308,7 +1308,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-06T07:01:00Z",
-        "votes": 448,
+        "votes": 450,
         "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1426,7 +1426,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-08T07:01:00Z",
-        "votes": 368,
+        "votes": 370,
         "websiteUrl": "https://www.producthunt.com/r/UBW3XPFGNKPZ5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1521,7 +1521,67 @@
             "user": "[REDACTED]",
             "text": "But it’s multiplayer that I would like to see demonstrated the most. The key question for me in terms of using multiplayer is how the team will record and approve actions of each agent. The log with actions of the teammates triggering certain actions would make using shared agents comfortable enough for any business organization."
           }
-        ]
+        ],
+        "faDescription": "اپن‌بات یک فضای کاری متن‌باز برای دسترسی و مدیریت هم‌تیمی‌های مبتنی بر هوش مصنوعی است. شما می‌توانید مدل‌های مختلف نظیر کلود، چت‌جی‌پتی، گراک، اپن‌کد یا ایجنت‌های سفارشی خود را در سیستم‌عامل‌های مک، ویندوز و iOS متصل کنید. این پلتفرم به شما اجازه می‌دهد نقش‌های مشخصی به ایجنت‌ها محول کرده و قابلیت تفویض کار را بین آن‌ها فعال سازید. همچنین می‌توانید اعضای تیم خود را دعوت کنید تا به صورت زنده و همزمان با همین ایجنت‌های هوش مصنوعی همکاری داشته باشند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "جذاب به نظر می‌رسد، اما راهکار شما برای تیم‌های بزرگ‌تر جهت ارتباط با ایجنت‌ها چیست؟ به عنوان مثال، من یک تیم ۱۵ نفره دارم؛ می‌خواهم خودم با ایجنت سئو چت کنم و مدیر پروژه‌ام با ایجنت تجربه کاربری (UX) گفتگو داشته باشد."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "آیا این ایجنت‌ها در محیط‌های امن‌تر و ایزوله‌شده (Sandbox) اجرا خواهند شد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "دریافت یک گزارش روزانه در مقایسه با اینکه خودم در میان انبوه اعلاناتم جستجو کنم، کاملاً منطقی و کاربردی است."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "متن‌باز بودن به دلایلی برای من اهمیت دارد که شاید دیگران درک نکنند. من نمی‌توانم بفهمم یک ایجنت کدبسته با فایل‌ها و دستوراتی که به آن می‌دهم چگونه رفتار می‌کند، اما حداقل می‌توانم کد OpenBot را قبل از استفاده بررسی کنم."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "من صاحبی آژانسی هستم که فقط از دو نفر تشکیل شده و دیدگاه چندکاربره برای ما فوق‌العاده حیاتی است. تمام برنامه‌های عاملی که تا کنون دیده‌ام بر اساس این فرض ساخته شده‌اند که یک کاربر واحد با یک ربات منفرد ارتباط برقرار می‌کند."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "بالاخره سرویسی آمد که قرار نیست دو بار از من هزینه دریافت کند! من به هر حال اشتراک کلود را دارم، بنابراین استفاده از آن به عنوان جایگزینی برای یک سیستم صورت‌حساب جدید، کاملاً عقلانی است."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "ویژگی «اول‌محلی» (Local-first) همان چیزی بود که نظر مرا جلب کرد. من به اندازه کافی وقتم را برای سروکله زدن با ایجنت‌های ابری که به محض اختلال در ارتباطات سرور قفل می‌شوند، تلف کرده‌ام."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "اما این قابلیت چندکاربره (Multiplayer) است که بیش از همه دوست دارم نمایش داده شود. سوال کلیدی من برای استفاده از حالت چندکاربره این است که تیم چگونه اقدامات هر ایجنت را ثبت و تایید می‌کند؟ وجود لاگ دقیق از اقداماتی که هم‌تیمی‌ها تحریک کرده‌اند، استفاده از ایجنت‌های مشترک را برای هر سازمان تجاری به قدر کافی امن و راحت می‌سازد."
+          }
+        ],
+        "aiReview": "پلتفرم OpenBot با دست گذاردن روی نقطه ضعف اصلی ابزارهای فعلی یعنی «تک‌کاربره بودن» و «وابستگی مطلق به ابر»، یک فضای کاری همزمان (Multiplayer) و اول‌محلی (Local-first) خلق کرده است. مدل ساختاری آن به کاربران اجازه می‌دهد از کلیدهای API خود استفاده کرده و از پرداخت مجدد هزینه اشتراک اجتناب کنند. از نظر معماری، ترکیب شفافیت کد (Open Source) با اجرای محلی، دغدغه امنیت داده‌های حساس را حل می‌کند.\n\n**نقاط قوت:** عدم نیاز به پرداخت دوباره برای API، امکان همکاری زنده اعضای تیم با ایجنت‌های مشترک، شفافیت امنیتی بالا و پایداری عملیاتی به دلیل ساختار اول‌محلی.\n**نقاط ضعف:** ابهام در نحوه مدیریت سطح دسترسی‌ها در تیم‌های بزرگ، نیاز به ساندباکس (Sandbox) امن‌تر برای اجرای دستورات محلی، و ضرورت ارائه سیستم لاگ‌گیری و تاییدیه پیش از اجرای اقدامات حساس.\n\n**نکته طلایی برای بازار ایران:** بومی‌سازی این محصول با افزودن پشتیبانی از مدل‌های هوش مصنوعی متن‌باز محلی (مانند Ollama) و سیستم احراز هویت بومی، می‌تواند محصولی فوق‌العاده جذاب برای سازمان‌ها و آژانس‌های ایرانی باشد که به دنبال اتوماسیون تیمی بدون خروج داده‌های محرمانه از کشور هستند.",
+        "iranEquivalent": {
+          "productName": "بات‌یار",
+          "description": "بات‌یار یک فضای کاری بومی و متن‌باز برای مدیریت و همکاری همزمان با ایجنت‌های هوش مصنوعی در کسب‌وکارهای ایرانی است. این پلتفرم امکان اتصال مدل‌های مختلف هوش مصنوعی را در کنار زیرساخت چت تیمی زنده فراهم می‌سازد. با تمرکز بر اجرای محلی و پشتیبانی از مدل‌های متن‌باز، امنیت داده‌های سازمانی و پایداری عملکرد بدون وابستگی به اینترنت بین‌الملل تضمین می‌شود.",
+          "marketOpportunity": "نیاز مبرم آژانس‌های دیجیتال و تیم‌های نرم‌افزاری ایرانی به ابزارهای اتوماسیون تیمی بدون نگرانی از افشای داده‌ها، بازار مستعدی ایجاد کرده است. همچنین با توجه به هزینه‌های بالای اشتراک‌های دلاری، پلتفرمی که امکان استفاده از APIهای اختصاصی و مدل‌های محلی را فراهم کند با استقبال بالایی روبرو خواهد شد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "آژانس‌های مارکتینگ، شرکت‌های توسعه نرم‌افزار، تیم‌های پشتیبانی و کسب‌وکارهای متوسط نیازمند اتوماسیون",
+          "challenges": [
+            "محدودیت و چالش‌های دسترسی پایدار به API سرویس‌های بین‌المللی از داخل ایران",
+            "پیچیدگی مدیریت دسترسی‌ها و امنیت اجرای کدهای محلی توسط ایجنت‌ها در شبکه داخلی سازمان"
+          ],
+          "monetization": [
+            "ارائه خدمات نصب، سفارشی‌سازی و پشتیبانی فنی اختصاصی برای سازمان‌ها (On-premise)",
+            "فروش اشتراک پلتفرم ابری همگام‌سازی تیمی برای کسب‌وکارهای کوچک"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Node.js",
+            "Electron",
+            "Tauri",
+            "Ollama"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-week-9",
@@ -2158,7 +2218,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-05T07:01:00Z",
-        "votes": 518,
+        "votes": 519,
         "websiteUrl": "https://www.producthunt.com/r/IAN7QVRIFKVUDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2583,7 +2643,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-01-13T08:01:00Z",
-        "votes": 1096,
+        "votes": 1097,
         "websiteUrl": "https://www.producthunt.com/r/N6NGJCGOTQURKX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {

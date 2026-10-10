@@ -1,24 +1,28 @@
 {
-  "checkedAt": "2026-10-09T02:29:56.623Z",
-  "latestDataset": "2026-10-09.json",
+  "checkedAt": "2026-10-10T01:58:42.982Z",
+  "latestDataset": "2026-10-10.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 75,
-  "backlogAfter": 68,
-  "completedProducts": 525,
-  "missingFaDescription": 32,
-  "missingFaComments": 59,
-  "missingAiReview": 44,
-  "missingIranEquivalent": 35,
+  "succeeded": 7,
+  "failed": 3,
+  "backlogBefore": 78,
+  "backlogAfter": 72,
+  "completedProducts": 531,
+  "missingFaDescription": 35,
+  "missingFaComments": 62,
+  "missingAiReview": 48,
+  "missingIranEquivalent": 38,
   "failures": [
     {
-      "slug": "hyperframes-studio-desktop",
+      "slug": "audr-by-chargebee",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"پروتکل AUDR (مخفف Agent Usage Detail Record) یک استاندارد باز برای ثبت اطلاعات مربوط به عامل شروع‌کننده اجرای ایجنت هوش مصنوعی و هزینه‌های آن در تمامی سیستم‌ه"
+    },
+    {
+      "slug": "extrovert-10",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     },
     {
-      "slug": "siteprint",
+      "slug": "coddy-2",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
