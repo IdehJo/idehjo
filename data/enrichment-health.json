@@ -1,28 +1,20 @@
 {
-  "checkedAt": "2026-10-10T01:58:42.982Z",
-  "latestDataset": "2026-10-10.json",
+  "checkedAt": "2026-10-11T01:14:59.786Z",
+  "latestDataset": "2026-10-11.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 7,
-  "failed": 3,
-  "backlogBefore": 78,
-  "backlogAfter": 72,
-  "completedProducts": 531,
-  "missingFaDescription": 35,
-  "missingFaComments": 62,
-  "missingAiReview": 48,
-  "missingIranEquivalent": 38,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 82,
+  "backlogAfter": 73,
+  "completedProducts": 540,
+  "missingFaDescription": 36,
+  "missingFaComments": 63,
+  "missingAiReview": 49,
+  "missingIranEquivalent": 39,
   "failures": [
     {
-      "slug": "audr-by-chargebee",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"پروتکل AUDR (مخفف Agent Usage Detail Record) یک استاندارد باز برای ثبت اطلاعات مربوط به عامل شروع‌کننده اجرای ایجنت هوش مصنوعی و هزینه‌های آن در تمامی سیستم‌ه"
-    },
-    {
-      "slug": "extrovert-10",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "coddy-2",
+      "slug": "ghostifier",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
