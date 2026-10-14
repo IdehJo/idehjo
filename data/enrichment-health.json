@@ -1,24 +1,20 @@
 {
-  "checkedAt": "2026-10-13T03:11:49.627Z",
-  "latestDataset": "2026-10-13.json",
+  "checkedAt": "2026-10-14T01:24:59.034Z",
+  "latestDataset": "2026-10-14.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 87,
-  "backlogAfter": 80,
-  "completedProducts": 554,
-  "missingFaDescription": 42,
-  "missingFaComments": 69,
-  "missingAiReview": 56,
-  "missingIranEquivalent": 45,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 91,
+  "backlogAfter": 85,
+  "completedProducts": 560,
+  "missingFaDescription": 45,
+  "missingFaComments": 72,
+  "missingAiReview": 61,
+  "missingIranEquivalent": 48,
   "failures": [
     {
-      "slug": "rool",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "nova-cli-v1-0",
+      "slug": "staffcoder",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
