@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:22:47.198Z",
+  "generatedAt": "2026-10-15T00:48:02.961Z",
   "sourceFiles": 66,
   "products": [
     {
@@ -6934,6 +6934,62 @@
       "aiReview": "### ۱. مسئله و راه‌حل (Problem & Solution)\nتوسعه‌دهندگان و بنیان‌گذاران تک‌نفره (Solo Founders) به لطف ابزارهای کدنویسی هوش مصنوعی می‌توانند به سرعت MVP بسازند، اما چالش اصلی آن‌ها پس از کدنویسی آغاز می‌شود: بازاریابی، جذب کاربر، اولویت‌بندی قابلیت‌ها و مدیریت استراتژیک. Soloop با ارائه یک «سیستم‌عامل ایجنتی برای ساخت شرکت» این مشکل را حل می‌کند. به جای چت‌بات‌های منفرد که کاربری را مجبور به انتقال زمینه (Context) می‌کنند، Soloop یک تیم مجازی شامل AI CEO، AI CTO و AI CMO ارائه می‌دهد که حول یک هدف مشترک کار می‌کنند. فلسفه اصلی آن «اولویت با تایید» (Approval-first) است؛ یعنی ایجنت‌ها برنامه‌ریزی و اقدام می‌کنند اما پیش از اجرای نهایی، تایید بنیان‌گذار را می‌گیرند تا کنترل و قضاوت انسانی حفظ شود.\n\n### ۲. معماری و تکنولوژی (Architecture & Technology)\nSoloop از معماری چندایجنت متمرکز (Orchestrated Multi-Agent System) استفاده می‌کند. ایجنت اصلی (AI CEO) وظیفه شکستن اهداف بالا‌دستی، برنامه‌ریزی، ایجاد هم‌راستایی و تخصیص کار به ایجنت‌های تخصصی (CTO برای توسعه/تکرار و CMO برای بازاریابی/توزیع) را دارد. نقطه عطف معماری، مدیریت زمینه مشترک (Shared Context) و حلقه‌های بازخورد روزانه (Daily Review) است که اتوماسیون بدون کنترل را مهار می‌کند. بر اساس نظرات کاربران، چالش تکنیکال سیستم در حال حاضر عدم ارائه یک «برنامه سطح بالا و کلان» قبل از شیرجه زدن به ریزاقدامات است.\n\n### ۳. مدل درآمدی (Business & Revenue Model)\nمدل درآمدی Soloop مبتنی بر سیستم اعتباری (Credit-based) یا اشتراک ماهیانه به ازای میزان مصرف ایجنت‌هاست. نظرات نشان می‌دهد که مصرف اعتبارات بسیار سریع اتفاق می‌افتد (مصرف کامل اعتبار با حدود ۱۰ درخواست)، که این موضوع لزوم بهینه‌سازی فراخوان‌های LLM و شفاف‌سازی ساختار قیمت‌گذاری را برای جلب اعتماد کاربران ضروری می‌سازد.\n\n### ۴. نقاط قوت (Strengths)\n- **حل چالش واقعی هماهنگی ایجنت‌ها:** حل مشکل جابه‌جایی context بین چت‌های مختلف با ایجاد یک بوم کاری یکپارچه.\n- **رویکرد Approval-first:** جلوگیری از خطاهای فاحش (مثل توهم هوش مصنوعی یا اقدامات ناخواسته در بازاریابی/توسعه) با شرطی‌سازی اجرا به تایید انسان.\n- **پوشش کامل چرخه ایده تا درآمد:** ترکیب وظایف فنی، مدیریتی و بازاریابی در یک پلتفرم.\n\n### ۵. نقاط ضعف و چالش‌ها (Weaknesses & Friction Points)\n- **مشکلات UX و باگ‌های اولیه:** عدم کارکرد دکمه ثبت‌نام و نبود اطلاعات شفاف قیمت‌گذاری در زمان عرضه اولیه.\n- **خستگی ناشی از تایید (Approval Fatigue):** خطر تبدیل شدن تایید انسانی به یک عمل مکانیکی و بی‌دقت در صورت بالا بودن تعداد تاییدهای درخواستی در روز.\n- **گرایش به جزئیات به جای کلان‌نگری:** ایجنت‌ها گاهی بدون ارائه تصویر بزرگ (Master Plan)، مستقیماً سراغ کارهای خرد می‌روند که نیازمند هدایت مداوم توسط کاربر است.\n\n### ۶. نکته طلایی برای بازار ایران (Golden Takeaway for Iran)\nدر زیست‌بوم استارتاپی ایران که هزینه‌های جذب نیروی متخصص (بویژه در مارکتینگ و محصول) بالاست و تیم‌های تک‌نفره یا کوچک با کمبود شدید منابع انسانی و مالی مواجه‌اند، توسعه ابزار مشابه Soloop با بومی‌سازی زیرساخت‌های بازاریابی (مانند اتصال ایجنت CMO به شبکه‌های اجتماعی بومی، کافه بازار، یکتانت و سیستم‌های پیامکی) می‌تواند انقلابی ایجاد کند. ارزش اصلی این الگو برای توسعه‌دهنده ایرانی، معماری «پیش‌نویس‌ساز و تاییدمحور» است که خطر خرابی برند یا ارسال پیام‌های اشتباه هوش مصنوعی به مشتریان واقعی را به حداقل می‌رساند."
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-14",
+      "rank": 1,
+      "name": "Pancake",
+      "slug": "pancake-7",
+      "tagline": "The Vercel for GTM",
+      "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
+      "category": "Sales • Marketing • Artificial Intelligence",
+      "categoryFa": "فروش • بازاریابی • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format",
+        "https://ph-files.imgix.net/a5755eb0-cf23-49a3-b169-a07e973e6299.jpeg?auto=format",
+        "https://ph-files.imgix.net/3cee6bc0-910a-4c75-ae48-ef61df501bab.png?auto=format",
+        "https://ph-files.imgix.net/7e29247c-f60c-4012-86ab-f400a0607bb6.png?auto=format",
+        "https://ph-files.imgix.net/76be9e14-edb9-436a-abad-23bcc5a86157.png?auto=format",
+        "https://ph-files.imgix.net/0025e164-b60f-4873-b9d7-5000a4743975.png?auto=format"
+      ],
+      "maker": "Tristan Comte",
+      "makerTitle": "Building getpancake.ai",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 490,
+      "websiteUrl": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋We hit #1 here in May, then rebuilt almost everything. Here's why.Claude and Codex can already plan your go-to-market. They can't run it: no data to find the right people, no way to reach them, no memory of your business.Pancake is that piece. One MCP connection gives your agent:• a GTM Brain that learns your business, ICP and voice from your website• 40+ data providers and enrichment• sending infrastructure, from your own accountsDescribe who you want to reach in one sentence, and Pancake turns it into a Play that keeps finding leads, each with the reason they fit. Your agent decides, Pancake runs it. And if you'd rather click than prompt, there's a full app too.Two early customers, in their words:- \"I'm running all of my GTM in Codex using Pancake.\" Pierre-Alexandre, CEO of Kinro - \"One Pancake Play replaced all our inbound tools.\" Adi, co-founder of AgentMail What's the first GTM idea you'd deploy? We're here all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. Spent 13 years in B2B sales, and the part that always hurt was paying for enrichment data that bounced. With 40+ providers behind one MCP connection, how do you handle conflicting results between providers for the same contact?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The first time I met the Pancake team, they cold-messaged me until I replied.Then they jumped out of a plane for their launch video on X.These guys clearly take attention harvesting seriously.Agents are only as useful as the context and tools they have. Pancake gives Claude, Codex, or your favorite agent a GTM Brain that knows your business, plus the data providers and sending infrastructure to actually launch campaigns.Their ambition is to become the Vercel for GTM: describe what you want to try, and your agent has the infrastructure to make it happen. 🥞"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! I wanna see the tallest stack of pancakes."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I think this could be a great product, my one complaint, is the fact that its impossible to delete the acocunt, I signed up with the wrong email address and its been a constant loop and I need to reset and start fresh. Hate to rain on the parade but the onboaridng UI/UX shouldnt feel like im never allowed to leave. Still excited to give this a try."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Let's go guys 👏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "LFGGGG 🚀 You are all legends! The best GTM team building for GTM 🦾🥞🫡"
+        }
+      ]
+    },
+    {
       "id": "ph-today-2",
       "date": "2022-06-24",
       "rank": 2,
@@ -7049,62 +7105,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-14",
-      "rank": 1,
-      "name": "Pancake",
-      "slug": "pancake-7",
-      "tagline": "The Vercel for GTM",
-      "description": "Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.",
-      "category": "Sales • Marketing • Artificial Intelligence",
-      "categoryFa": "فروش • بازاریابی • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format",
-        "https://ph-files.imgix.net/a5755eb0-cf23-49a3-b169-a07e973e6299.jpeg?auto=format",
-        "https://ph-files.imgix.net/3cee6bc0-910a-4c75-ae48-ef61df501bab.png?auto=format",
-        "https://ph-files.imgix.net/7e29247c-f60c-4012-86ab-f400a0607bb6.png?auto=format",
-        "https://ph-files.imgix.net/76be9e14-edb9-436a-abad-23bcc5a86157.png?auto=format",
-        "https://ph-files.imgix.net/0025e164-b60f-4873-b9d7-5000a4743975.png?auto=format"
-      ],
-      "maker": "Tristan Comte",
-      "makerTitle": "Building getpancake.ai",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 487,
-      "websiteUrl": "https://www.producthunt.com/r/TK5WOCVR7ZG7IU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋We hit #1 here in May, then rebuilt almost everything. Here's why.Claude and Codex can already plan your go-to-market. They can't run it: no data to find the right people, no way to reach them, no memory of your business.Pancake is that piece. One MCP connection gives your agent:• a GTM Brain that learns your business, ICP and voice from your website• 40+ data providers and enrichment• sending infrastructure, from your own accountsDescribe who you want to reach in one sentence, and Pancake turns it into a Play that keeps finding leads, each with the reason they fit. Your agent decides, Pancake runs it. And if you'd rather click than prompt, there's a full app too.Two early customers, in their words:- \"I'm running all of my GTM in Codex using Pancake.\" Pierre-Alexandre, CEO of Kinro - \"One Pancake Play replaced all our inbound tools.\" Adi, co-founder of AgentMail What's the first GTM idea you'd deploy? We're here all day."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch. Spent 13 years in B2B sales, and the part that always hurt was paying for enrichment data that bounced. With 40+ providers behind one MCP connection, how do you handle conflicting results between providers for the same contact?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The first time I met the Pancake team, they cold-messaged me until I replied.Then they jumped out of a plane for their launch video on X.These guys clearly take attention harvesting seriously.Agents are only as useful as the context and tools they have. Pancake gives Claude, Codex, or your favorite agent a GTM Brain that knows your business, plus the data providers and sending infrastructure to actually launch campaigns.Their ambition is to become the Vercel for GTM: describe what you want to try, and your agent has the infrastructure to make it happen. 🥞"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! I wanna see the tallest stack of pancakes."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I think this could be a great product, my one complaint, is the fact that its impossible to delete the acocunt, I signed up with the wrong email address and its been a constant loop and I need to reset and start fresh. Hate to rain on the parade but the onboaridng UI/UX shouldnt feel like im never allowed to leave. Still excited to give this a try."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Let's go guys 👏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "LFGGGG 🚀 You are all legends! The best GTM team building for GTM 🦾🥞🫡"
-        }
-      ]
     },
     {
       "id": "ph-week-1",
@@ -9039,7 +9039,65 @@
           "user": "[REDACTED]",
           "text": "I have used AI voiceovers before and have never made it past the first minute of listening. Just Taycan alone sold me on this."
         }
-      ]
+      ],
+      "faDescription": "صوت‌های هوش مصنوعی اکنون انسانی به نظر می‌رسند، اما همچنان تلفظ نام‌ها را بر اساس املای آن‌ها حدس می‌زنند و هیچ‌کس وقت شنیدن تک‌تک خطوط را ندارد. Onepin بر روی صداهایی که از قبل استفاده می‌کنید (مانند ElevenLabs، OpenAI، Google و بیش از ۳۰ سرویس دیگر) اجرا می‌شود، قیمت‌ها و تاریخ‌ها را به صورت کلامی می‌نویسد، نام‌ها را با یک فرهنگ لغت تلفظی شامل ۴ میلیون کلمه بررسی می‌کند، به هر خط امتیاز می‌دهد و کلمه‌ی اشتباه را بدون نیاز به رندر مجدد کل فایل اصلاح می‌کند. این محصول برای تیم‌هایی طراحی شده که در چندین زبان، ویدیوهای محصول، دوبلاژ و دوره‌های آموزشی با صدای هوش مصنوعی تولید می‌کنند. شروع کار رایگان است و نیازی به ثبت کارت اعتباری ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من SB، بنیان‌گذار Onepin هستم. از @rohanrecommends بابت معرفی ما تشکر می‌کنم. یک صدای هوش مصنوعی عالی «Porsche Taycan» را به صورت TAY-can تلفظ می‌کند، در حالی که پورشه آن را TIE-kahn تلفظ می‌کند. مدل از روی املای کلمه حدس زد و کسی متوجه نشد، چون کسی به خط ۱۲۰۰ فایل گوش نمی‌دهد. ما دو سال در Podonos صرف کردیم تا ببینیم صداهای هوش مصنوعی چطور به نظر می‌رسند، با ۱۵۰,۰۰۰ شنونده انسانی که امتیازدهی می‌کردند. مدل‌ها مشکل «لحن و اجرا» را حل کردند. اما آنچه همچنان شکست می‌خورد، نام‌ها، قیمت‌ها و تاریخ‌ها بود و تنها چک‌لیست اکثر تیم‌ها یک نفر با هدفون است. امروز Onepin را راه‌اندازی می‌کنیم، مرحله تولید بعد از تبدیل متن به گفتار. این ابزار روی صداهایی که از قبل استفاده می‌کنید (ElevenLabs، OpenAI، Google و ۳۰+ سرویس دیگر) اجرا می‌شود و هر خط را قبل از انتشار بررسی می‌کند. این ابزار برای هر اسکریپتی چه می‌کند؟ 🔢 قیمت‌ها، تاریخ‌ها و مخفف‌ها را قبل از خواندن توسط صدا به صورت کلامی می‌نویسد. 📖 نام‌ها، برندها و اصطلاحات دارویی را با یک فرهنگ لغت تلفظی ۴ میلیون کلمه‌ای بررسی می‌کند. 📊 هر خط را برای طبیعی بودن، وضوح، دقت کلمات و تلفظ، بر اساس استانداردی که شما تعیین می‌کنید، امتیازدهی می‌کند. 🔧 کلمه‌ی اشتباه را در همان صدا اصلاح می‌کند، بدون اینکه کل فایل را دوباره رندر کند. دو تصمیمی که عمداً گرفتیم. Onepin بررسی می‌کند که یک نام چگونه «گفته» شده، نه فقط اینکه ترنسکریپت چه چیزی را «املایی» دارد. و جایی برای تایپ املای فونتی وجود ندارد: فرهنگ لغت و اصلاح‌کننده این کار را انجام می‌دهند، بنابراین اسکریپت شما همان‌طور که نوشته شده باقی می‌ماند. برای هر کسی که در مقیاس بزرگ صدای هوش مصنوعی تولید می‌کند ساخته شده است: ویدیوهای محصول، تبلیغات، توضیحی، دوبلاژ، کتاب‌های صوتی، دوره‌ها و پلتفرم‌هایی که صدایی را در مقابل میلیون‌ها کاربر قرار می‌دهند. API، SDK و MCP از روز اول. SOC ۲ Type II. صدای خود را نگه دارید. Onepin اطمینان حاصل می‌کند که کلمات درست را می‌گوید. شروع رایگان، بدون کارت: onepin.ai. می‌توانید یک خط را در صفحه اصلی بدون حساب کاربری اجرا کنید. امتحان کنید و بگویید چه چیزی کم است، اینجا یا در sb@onepin.ai. ما تمام روز در کامنت‌ها هستیم، به سؤالات پاسخ می‌دهیم و خطوط شما را اجرا می‌کنیم. 🚀🎁 پیشنهاد ویژه راه‌اندازی: ۲۰٪ تخفیف برای کاربران Product Hunt تا ۳۱ اکتبر. کد تخفیف زیر نشان ۲۰٪ تخفیف در بالا است. یک سؤال برای شما: کلمه‌ای که صدای هوش مصنوعی شما مدام اشتباه تلفظ می‌کند چیست؟ آن را در onepin.ai (رایگان، بدون کارت) اجرا کنید، اجرای آن را قابل اشتراک‌گذاری کنید و لینک را در زیر بچسبانید تا همه قبل و بعد را بشنوند. من به همه پاسخ می‌دهم. وقت ثبت‌نام ندارید؟ کلمه را بنویسید و من امروز چند مورد را اجرا می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "امتیازدهی به هر خط برای تلفظ بر اساس استانداردی که شما تعیین می‌کنید، بخشی است که برای من برجسته است. من روی هوش مصنوعی صوتی برای سالمندان کار می‌کنم، جایی که تلفظ اشتباه نام یک دارو یا نام یک عضو خانواده در یک تماس، لحظه‌ای است که یک شنونده مسن به صدا اعتماد خود را از دست می‌دهد. آیا بررسی تلفظ نام‌هایی که مختص یک کاربر خاص هستند (مثل نام نوه) را هم پوشش می‌دهد، یا منبع اصلی همان فرهنگ لغت ۴ میلیون کلمه‌ای است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "پروژه جالبی است، فکر می‌کنم مسئله خوبی را برای حل انتخاب کرده‌اید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "پورشه به صورت TAY-can، خنده‌داره 😂 بالاخره کسی دارد مشکل نام‌ها و قیمت‌ها را حل می‌کند. با صداهای elevenlabs هم کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من از ElevenLabs در یک پروژه مشتری استفاده می‌کنم و باید بگویم که هرگز نمی‌توانم همه چیز را قبل از انتشار پیدا کنم. به نظر می‌رسد خیلی دیر شده که چیزی مثل این برای ارزیابی دقت استفاده شود."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من کلاس‌هایی در سه زبان برگزار می‌کنم و دقیقاً در تاریخ‌ها و قیمت‌ها است که صدای هوش مصنوعی من گیج می‌شود. جالب خواهد بود بدانم Onepin چگونه با نمادهای ارز در مناطق مختلف (locales) برخورد می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "همان فرهنگ لغت تلفظی ۴ میلیون کلمه‌ای بود که مرا متقاعد کرد. خیلی از محصولات دیگر تلفظ را بر اساس املای کلمات فرض می‌کنند و من قبلاً به خاطر برندها از این موضوع رنجیده بودم."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من قبلاً از دوبله‌های هوش مصنوعی استفاده کرده‌ام و هرگز نتوانستم بیش از یک دقیقه اول گوش دادن را پشت سر بگذارم. فقط همین مثال Taycan مرا به این محصول فروخت."
+        }
+      ],
+      "aiReview": "مسئله اصلی که Onepin حل می‌کند، «اعتماد به صدای هوش مصنوعی» است؛ مدل‌های TTS در لحن عالی هستند اما در جزئیات مثل تلفظ نام‌های خاص (Proper Nouns) و اعداد ضعیف عمل می‌کنند. راه‌حل Onepin یک لایه «کنترل کیفیت هوشمند» (AI QC Layer) است که به جای بازتولید صدا، فقط کلمات اشتباه را شناسایی و اصلاح می‌کند. از نظر معماری، این محصول یک پلتفرم B۲B SaaS است که از طریق API با موتورهای TTS موجود (ElevenLabs, OpenAI) ارتباط برقرار می‌کند و از یک پایگاه داده لغوی (Pronunciation Dictionary) به عنوان هسته هوشمند خود استفاده می‌کند. مدل درآمدی بر اساس مصرف (Usage-based) و اشتراک سازمانی است. نقاط قوت اصلی شامل کاهش هزینه‌های انسانی برای بازبینی صدا، افزایش سرعت تولید محتوا و ایجاد مزیت رقابتی در دقت تلفظ است. نقاط ضعف می‌تواند وابستگی به کیفیت موتورهای TTS زیرمجموعه و پیچیدگی فنی در اصلاح صدا بدون رندر مجدد (Inpainting audio) باشد. نکته طلایی برای ایران: بازار فارسی با چالش بزرگی در تلفظ نام‌های انگلیسی و برندهای خارجی در پادکست‌ها و تبلیغات مواجه است. ساخت یک نسخه فارسی‌زبان از این محصول با تمرکز بر «تلفظ صحیح نام‌های خارجی در فارسی» و «خواندن صحیح اعداد و تاریخ‌های شمسی/میلادی» می‌تواند یک محصول کشتی‌بر (Killer App) برای استودیوهای تولید محتوا و پلتفرم‌های آموزشی ایران باشد.",
+      "iranEquivalent": {
+        "productName": "پین‌ویژ (PinVoice)",
+        "description": "پین‌ویژ یک لایه هوشمند پس از تولید صدا است که بر روی موتورهای متن به گفتار موجود در بازار ایران و جهان (مانند ElevenLabs یا سرویس‌های داخلی) سوار می‌شود. این سیستم با استفاده از یک پایگاه داده تلفظی تخصصی فارسی و انگلیسی، نام‌های خاص، قیمت‌ها و تاریخ‌ها را قبل از انتشار نهایی بررسی و اصلاح می‌کند. هدف اصلی، حذف خطاهای تلفظی رایج در نام‌های برند و اعداد است که بدون نیاز به بازتولید کل فایل صوتی، به صورت جراحی اصلاح می‌شوند.",
+        "marketOpportunity": "بازار تولید محتوای صوتی و ویدیویی در ایران با رشد انفجاری پادکست‌ها، دوره‌های آموزشی آنلاین و تبلیغات دیجیتال مواجه شده است، اما کیفیت تلفظ نام‌های خارجی و اعداد همچنان چالش بزرگی است. وجود یک ابزار تخصصی برای کنترل کیفیت (QC) صداهای هوش مصنوعی، خلأ بزرگی در زنجیره ارزش تولید محتوا ایجاد کرده که پین‌ویژ می‌تواند آن را پر کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوای ویدیویی و پادکست، استودیوهای دوبلاژ، پلتفرم‌های آموزشی آنلاین و تیم‌های بازاریابی دیجیتال که از صداهای هوش مصنوعی برای مقیاس‌پذیری استفاده می‌کنند.",
+        "challenges": [
+          "ساخت و به‌روزرسانی پایگاه داده تلفظی دقیق برای نام‌های خاص فارسی و برندهای خارجی که در فارسی رایج هستند.",
+          "یکپارچه‌سازی روان با APIهای متن به گفتار مختلف و مدیریت لگ در پردازش بلادرنگ."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه بر اساس تعداد کلمات پردازش شده یا تعداد فایل‌های صوتی.",
+          "فروش لایسنس سازمانی (Enterprise) برای استودیوهای بزرگ و پلتفرم‌های SaaS."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python (FastAPI)",
+          "Whisper (برای ترنسکریپت و تطبیق)"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-week-5",
@@ -17043,6 +17101,68 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-14",
+      "rank": 2,
+      "name": "Inferock",
+      "slug": "inferock",
+      "tagline": "Serverless inference, with credits back for failed calls.",
+      "description": "Get free signup credits to use all available models on Inferock. Bring your own keys: run your OpenAI, Claude or Gemini accounts, see where calls fail and what they cost, and get credits back on eligible failed calls. Serverless: pay-per-token LLM inference. Get signup credits to start using.",
+      "category": "Developer Tools • Artificial Intelligence • Google Cloud Run",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • Google Cloud Run",
+      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/298c83cd-d799-4604-af15-6358acae3332.jpeg?auto=format",
+        "https://ph-files.imgix.net/274f2b0d-879c-4503-970a-1b8da617f155.png?auto=format",
+        "https://ph-files.imgix.net/c2222868-e39b-4396-8211-8ef79ee222f3.png?auto=format",
+        "https://ph-files.imgix.net/b3b56ca0-964a-4d73-8ad9-a05c3de90840.png?auto=format",
+        "https://ph-files.imgix.net/7419a249-ec94-44d6-a737-430a46bc7f27.png?auto=format",
+        "https://ph-files.imgix.net/11b1d5f6-bd9b-4fd2-94af-da6296a12910.png?auto=format",
+        "https://ph-files.imgix.net/f9290677-96b9-4f69-8186-f9b80e1a3ffc.png?auto=format",
+        "https://ph-files.imgix.net/9e485196-134d-4e02-a05f-85a08e1da121.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 338,
+      "websiteUrl": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt community, I’m Bharath, founder of Inferock.Every team running LLMs in production pays for calls that came back empty, truncated, timed out, or returned broken JSON. You usually find out from a user, and you can’t prove it to anyone.Inferock sits between your app and the provider and measures every call against a published baseline for quality, speed and cost. Each call gets a receipt that Inferock produces itself, so it doesn’t depend on the provider’s word.Two ways to use it:- Inferock Watch: bring your own OpenAI, Anthropic or Gemini keys. Free. You get the receipts and a monthly loss report. Enroll in the credit program and objectively broken calls accrue credits you can spend on Serve.- Inferock Serve: serverless, pay-per-token inference through us. This is where your credits get spent.How credits work: credits are non-cash, expire after 12 months, and are capped at $1,000 in the wallet and $1,000 applied per month. They cover verified, billed, unrecovered objective failures: downtime and timeouts, empty or truncated output, invalid structured output, billing and cache anomalies. Tell us what the receipt should show that it doesn’t yet."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is pretty neat. Can you expand on the Cloud RUn architecture? I see that you host Inferlock.ai inference router but are you using services, jobs, some mix?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch @bharath_koneti I have 2 questions: How do the credits work? Also, do we get to know where/why the output broke?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting launch! For the per-call receipt, I’d want to see the expected cost alongside the billed cost, plus whether a retry was billed separately. Does the receipt also show when the provider pricing data was last updated?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the idea of an independent receipt for LLM calls, getting credits back on failed calls is a refreshingly user-first take on inference billing."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "i think the strongest part is making inference failures measurable. My concern would be how the published quality baseline handles different use cases and models."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Tracking quality, latency, and cost together sounds practical. I usually end up checking different logs and dashboards, so having one receipt for each call could help me understand issues faster."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I appreciate that Inferock Watch can work with my existing API keys. Being able to monitor calls without changing my entire setup makes the product more interesting to me"
+        }
+      ]
+    },
+    {
       "id": "ph-week-10",
       "date": "2026-10-09",
       "rank": 10,
@@ -17406,68 +17526,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-14",
-      "rank": 2,
-      "name": "Inferock",
-      "slug": "inferock",
-      "tagline": "Serverless inference, with credits back for failed calls.",
-      "description": "Get free signup credits to use all available models on Inferock. Bring your own keys: run your OpenAI, Claude or Gemini accounts, see where calls fail and what they cost, and get credits back on eligible failed calls. Serverless: pay-per-token LLM inference. Get signup credits to start using.",
-      "category": "Developer Tools • Artificial Intelligence • Google Cloud Run",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • Google Cloud Run",
-      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/298c83cd-d799-4604-af15-6358acae3332.jpeg?auto=format",
-        "https://ph-files.imgix.net/274f2b0d-879c-4503-970a-1b8da617f155.png?auto=format",
-        "https://ph-files.imgix.net/c2222868-e39b-4396-8211-8ef79ee222f3.png?auto=format",
-        "https://ph-files.imgix.net/b3b56ca0-964a-4d73-8ad9-a05c3de90840.png?auto=format",
-        "https://ph-files.imgix.net/7419a249-ec94-44d6-a737-430a46bc7f27.png?auto=format",
-        "https://ph-files.imgix.net/11b1d5f6-bd9b-4fd2-94af-da6296a12910.png?auto=format",
-        "https://ph-files.imgix.net/f9290677-96b9-4f69-8186-f9b80e1a3ffc.png?auto=format",
-        "https://ph-files.imgix.net/9e485196-134d-4e02-a05f-85a08e1da121.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 337,
-      "websiteUrl": "https://www.producthunt.com/r/Q5YAUE7WHFYYB4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt community, I’m Bharath, founder of Inferock.Every team running LLMs in production pays for calls that came back empty, truncated, timed out, or returned broken JSON. You usually find out from a user, and you can’t prove it to anyone.Inferock sits between your app and the provider and measures every call against a published baseline for quality, speed and cost. Each call gets a receipt that Inferock produces itself, so it doesn’t depend on the provider’s word.Two ways to use it:- Inferock Watch: bring your own OpenAI, Anthropic or Gemini keys. Free. You get the receipts and a monthly loss report. Enroll in the credit program and objectively broken calls accrue credits you can spend on Serve.- Inferock Serve: serverless, pay-per-token inference through us. This is where your credits get spent.How credits work: credits are non-cash, expire after 12 months, and are capped at $1,000 in the wallet and $1,000 applied per month. They cover verified, billed, unrecovered objective failures: downtime and timeouts, empty or truncated output, invalid structured output, billing and cache anomalies. Tell us what the receipt should show that it doesn’t yet."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is pretty neat. Can you expand on the Cloud RUn architecture? I see that you host Inferlock.ai inference router but are you using services, jobs, some mix?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch @bharath_koneti I have 2 questions: How do the credits work? Also, do we get to know where/why the output broke?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Interesting launch! For the per-call receipt, I’d want to see the expected cost alongside the billed cost, plus whether a retry was billed separately. Does the receipt also show when the provider pricing data was last updated?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the idea of an independent receipt for LLM calls, getting credits back on failed calls is a refreshingly user-first take on inference billing."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "i think the strongest part is making inference failures measurable. My concern would be how the published quality baseline handles different use cases and models."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Tracking quality, latency, and cost together sounds practical. I usually end up checking different logs and dashboards, so having one receipt for each call could help me understand issues faster."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I appreciate that Inferock Watch can work with my existing API keys. Being able to monitor calls without changing my entire setup makes the product more interesting to me"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -27845,7 +27903,47 @@
           "user": "[REDACTED]",
           "text": "Turning a plain language question into a live dashboard that refreshes as the data changes, with the query visible behind every number, is what makes this trustworthy for real analysis. Connecting to BigQuery, Snowflake and the rest without a separate BI tool is a nice simplification. How do you handle a dashboard when someone changes the underlying table schema?"
         }
-      ]
+      ],
+      "faDescription": "کلود داشبورد و موشن ابزارهای بتای جدیدی هستند که به کاربران امکان می‌دهند با پرسیدن سؤال به زبان ساده، داشبوردهای زنده‌ای بسازند که به‌صورت خودکار با تغییر داده‌ها به‌روز می‌شوند. هر عدد یا نمودار در داشبورد، کوئری پشت آن را نشان می‌دهد و این شفافیت باعث اعتماد به تحلیل می‌شود. موشن نیز گزارش‌ها، نمودارها و راهنمایی‌ها را به انیمیشن‌های کوتاه تبدیل می‌کند؛ تمام انیمیشن‌ها به‌صورت کد تولید می‌شوند و می‌توانید هر کلمه، عدد یا زمان‌بندی را ویرایش کنید. خروجی انیمیشن می‌تواند به‌صورت MP۴ ذخیره شود و برای استفاده در ابزارهای ویرایش ویدیو مانند Runway یا Adobe در دسترس است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام جامعه PH 👋 هیجان‌زده‌ام که امروز Claude Dashboards و Claude Motion را بررسی می‌کنم. Anthropic دو ابزار بتای جدید به Claude اضافه کرده است. Dashboards داده‌های شرکت شما را به داشبوردهای زنده تبدیل می‌کند و Motion گزارش‌ها و ایده‌ها را به انیمیشن‌های کوتاه تبدیل می‌کند که می‌توانید به‌صورت MP۴ خروجی بگیرید. هر نمودار کوئری پشت آن را نشان می‌دهد و هر انیمیشن به‌صورت کد نوشته می‌شود که می‌توانید هر کلمه، عدد یا زمان‌بندی را ویرایش کنید. می‌توانید داشبورد را به ابزارهایی مثل Hex، PostHog یا Sigma بفرستید یا انیمیشن را در Runway، Descript یا Adobe باز کنید. همین حالا می‌توانید در Claude امتحان کنید: https://claude.ai"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک به مناسبت راه‌اندازی! ابزارهای Claude اخیراً پیشرفت زیادی داشته‌اند و تجربه من از استفاده از آن‌ها بسیار بهتر شده است و مطمئنم این محصول کمک‌کننده خواهد بود. موفق باشید!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به مناسبت راه‌اندازی KP! کنجکاوم که آیا Motion منبع کد را در دسترس قرار می‌دهد تا بتوانیم خارج از Claude هم ویرایش کنیم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبدیل یک سؤال به زبان ساده به داشبورد زنده‌ای که با تغییر داده‌ها به‌روز می‌شود و کوئری پشت هر عدد قابل مشاهده است، باعث اعتماد به تحلیل واقعی می‌شود. اتصال به BigQuery، Snowflake و سایر سرویس‌ها بدون نیاز به ابزار BI جداگانه، ساده‌سازی خوبی است. اگر کسی ساختار جدول زیرین را تغییر دهد، داشبورد چگونه مدیریت می‌شود؟"
+        }
+      ],
+      "aiReview": "مسئله: شرکت‌های ایرانی نیاز به ابزارهای تحلیل داده‌ای دارند که بدون هزینه‌های سنگین لایسنس‌های خارجی، بتوانند به‌صورت زنده و شفاف داشبورد بسازند و انیمیشن‌های توضیحی تولید کنند. راه‌حل: کلود داشبورد و موشن با دریافت پرسش‌های زبان طبیعی، داشبوردهای زنده با کوئری‌های قابل مشاهده و انیمیشن‌های کد‑محور تولید می‌کند؛ این قابلیت‌ها به‌صورت بومی بر روی زیرساخت‌های محلی اجرا می‌شوند. معماری و تکنولوژی: لایهٔ فرانت‌اند با Next.js، بک‌اند با PostgreSQL و سرویس‌های پردازش داده‌ای داخلی (مثلاً ClickHouse یا Snowflake‑محلی) برای استخراج داده؛ موتور تولید کد موشن بر پایه JavaScript/TypeScript و کتابخانه‌های گرافیک وب. مدل درآمدی: اشتراک ماهانه بر پایه تعداد داشبوردهای فعال و فروش لایسنس سفارشی برای انیمیشن‌های موشن به آژانس‌های تبلیغاتی. نقاط قوت: شفافیت کوئری، بروز خودکار داشبورد، قابلیت ویرایش کد انیمیشن، عدم وابستگی به ابزارهای خارجی. نقاط ضعف: نیاز به زیرساخت‌های پردازشی قوی، چالش‌های یکپارچه‌سازی با دیتابیس‌های قدیمی و محدودیت‌های دسترسی به ابر در ایران. نکته طلایی برای ایران: تمرکز بر ارائه یکپارچه‌سازی ساده با سامانه‌های داده‌ای داخلی (مانند PostgreSQL‑محلی یا ClickHouse) و ارائه نسخهٔ آفلاین برای سازمان‌های با محدودیت اینترنت، می‌تواند پذیرش سریع و مزیت رقابتی پایدار ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "کلود داشبورد و موشن (نسخه ایرانی)",
+        "description": "این محصول با دریافت پرسش‌های طبیعی کاربران، داشبوردهای زنده‌ای می‌سازد که به‌صورت خودکار با تغییر داده‌های داخلی به‌روز می‌شوند. علاوه بر این، موشن امکان تبدیل گزارش‌ها و نمودارها به انیمیشن‌های کوتاه کد‑محور را فراهم می‌کند که می‌توانند به‌صورت MP۴ خروجی گرفته شوند. ترکیب این دو قابلیت، نیاز شرکت‌های ایرانی به ابزارهای تحلیل داده‌ای سریع، شفاف و بدون وابستگی به نرم‌افزارهای خارجی را برآورده می‌کند.",
+        "marketOpportunity": "بازار تحلیل داده در ایران به سرعت در حال رشد است و شرکت‌ها به دنبال راه‌حل‌های مقرون‌به‌صرفه و بومی برای داشبوردهای زمان واقعی هستند. کمبود ابزارهای BI داخلی با قابلیت‌های پیشرفته، فرصتی بزرگ برای ارائه این محصول ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "شرکت‌های متوسط و بزرگ در حوزه فناوری، مالی و تجارت الکترونیک که به تحلیل داده‌های زمان واقعی نیاز دارند.",
+        "challenges": [
+          "یکپارچه‌سازی با سامانه‌های داده‌ای داخلی که استانداردهای متفاوتی دارند",
+          "محدودیت‌های زیرساختی و دسترسی به پردازش ابری در ایران"
+        ],
+        "monetization": [
+          "اشتراک ماهانه بر پایه تعداد داشبوردهای فعال",
+          "فروش لایسنس سفارشی برای انیمیشن‌های موشن به شرکت‌های تبلیغاتی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -30444,16 +30542,63 @@
         }
       ],
       "iranEquivalent": {
-        "productName": "",
-        "description": "",
-        "marketOpportunity": "",
-        "estimatedBudget": "",
-        "targetAudience": "",
-        "challenges": [],
-        "monetization": [],
-        "techStack": [],
-        "confidence": 0
-      }
+        "productName": "بازی‌ساز هوشمند",
+        "description": "پلتفرمی مبتنی بر هوش مصنوعی که به کاربران ایرانی اجازه می‌دهد بدون کدنویسی، بازی‌های ساده و خلاقانه بسازند. این ابزار با درک زبان فارسی، ایده‌های متنی را به بازی‌های قابل اجرا در مرورگر تبدیل می‌کند. کاربران می‌توانند با چت کردن، قوانین و ظاهر بازی را به صورت زنده تغییر دهند و آثار خود را در گالری داخلی به اشتراک بگذارند.",
+        "marketOpportunity": "بازار گیمینگ ایران با وجود محدودیت‌های دسترسی به پلتفرم‌های جهانی، تشنه‌ی محتوای بومی و ابزارهای خلاقانه است. کاهش هزینه‌های توسعه بازی می‌تواند موجی از تولیدکنندگان محتوای مستقل (Indie) را در ایران ایجاد کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان علاقه‌مند به گیم، هنرمندان دیجیتال، و گیمرهای خلاق که به دنبال ساخت تجربه‌های شخصی‌سازی‌شده هستند.",
+        "challenges": [
+          "نیاز به زیرساخت‌های محاسباتی قدرتمند برای پردازش همزمان درخواست‌های هوش مصنوعی",
+          "محدودیت‌های دسترسی به مدل‌های هوش مصنوعی پیشرفته و هزینه‌های بالای API"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه برای دسترسی نامحدود به ساخت بازی و ویژگی‌های پیشرفته",
+          "فروش پکیج‌های ویژه شامل تم‌های بصری و فیزیک‌های اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "LangChain",
+          "WebGL"
+        ],
+        "confidence": 70
+      },
+      "faDescription": "پلی‌گراند گوگل یک پلتفرم آزمایشی بازی‌سازی مبتنی بر هوش مصنوعی است که به همه افراد اجازه می‌دهد بدون نیاز به دانش برنامه‌نویسی، بازی‌های سفارشی بسازند، از آن‌ها لذت ببرند و آن‌ها را با دیگران به اشتراک بگذارند. شما می‌توانید ایده خود را به زبان ساده توصیف کنید، ژانر دلخواه را انتخاب کنید و در چند دقیقه یک بازی قابل اجرا توسط هوش مصنوعی دریافت کنید. تغییر قوانین، شخصیت‌ها، فیزیک یا ظاهر بازی تنها با گفت‌وگو و چت امکان‌پذیر است. شما می‌توانید آثار خود را با دوستان به اشتراک بگذارید، در گالری جامعه منتشر کنید یا بازی‌های ساخته شده توسط دیگران را کشف کنید. این پلتفرم با استفاده از مدل‌های جمنای، نانو بنانا و لیریا گوگل قدرت گرفته است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "گوگل تازه پلی‌گراند را راه‌اندازی کرده و این محصول بسیار سرگرم‌کننده به نظر می‌رسد. می‌توانید ایده یک بازی را به زبان انگلیسی ساده توصیف کنید و هوش مصنوعی گوگل آن را به چیزی تبدیل کند که واقعاً در مرورگر قابل بازی باشد. اگر می‌خواهید قوانین، شخصیت‌ها یا فیزیک را تغییر دهید؟ کافیست درخواست دهید. همچنین می‌توانید بازی‌های خود را به اشتراک بگذارید، برای دیگران منتشر کنید و حتی تجربیات چند نفره بسازید. بخش جالب این است که گوگل همچنین در حال همکاری با یونیتی برای آوردن ساخت بازی‌های پیشرفته‌تر به پلی‌گراند است. کنجکاویم ببینم وقتی ساخت بازی اینقدر آسان شود، مردم چه چیزهایی خلق می‌کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا می‌توانیم بازی‌های چند نفره بسازیم؟!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "به نظر من بیشتر نقطه قوت بازی‌ها زمانی است که انسان‌های واقعی وقت می‌گذارند تا یک تجربه بسیار خاص را طراحی کنند. این محصول به نظر یک سرگرمی جذاب می‌رسد، اما انتظار ندارم که در بلندمدت توسط جامعه اصلی گیمرها که همیشه کیفیت را بر کمیت مقدم می‌دانند، پذیرفته شود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "دوست دارم که تغییر قوانین، فیزیک یا شخصیت‌ها صرفاً یک مکالمه است؛ این کار طراحی بازی را از یک مانع برنامه‌نویسی به خودِ بازی تبدیل می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تغییر قوانین، شخصیت‌ها و فیزیک فقط با چت کردن، لذت دست‌کاری بازی را حفظ می‌کند که معمولاً جایی است که تولیدکننده‌های سفارشی‌سازی‌شده خسته‌کننده می‌شوند. اجازه دادن به افراد برای انتشار در گالری جامعه، چیزی است که آن را از یک اسباب‌بازی به چیزی با ارزش بازپخش تبدیل می‌کند. چقدر خوب عمل می‌کند وقتی درخواستی مکانیک‌های اصلی را تغییر می‌دهد به جای اینکه فقط بصری باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دوست دارم که گوگل آزمایش‌های هوش مصنوعی خود را در دسترس قرار می‌دهد به جای اینکه آن‌ها را پشت پرده نگه دارد. بخش جالب این خواهد بود که ببینیم کدام آزمایش‌ها واقعاً ماندگار می‌شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "منتظر این بودم، اما در کشور من در دسترس نیست. 🙈"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "بخش «تغییر فیزیک با چت کردن» است که مرا جذب می‌کند، این نیمه سخت ماجراست. تولید یک بازی قابل اجرا از یک توصیف یک بار یک کار شگفت‌انگیز است اما در این نقطه یک مسئله حل‌شده محسوب می‌شود؛ اجازه دادن به کسی برای جهش قوانین در حال ساخت بدون اینکه محصول خراب شود یا آنچه را که قبلاً دوست داشتند از دست بدهد، محصول واقعی است. کنجکاو هستم بدانم ویرایش‌ها بر روی یک وضعیت ذخیره‌شده اضافه می‌شوند یا یک تغییر بزرگ بازی را از نو بازتولید می‌کند و پیشرفت شما را از بین می‌برد."
+        }
+      ],
+      "aiReview": "مسئله اصلی در صنعت گیمینگ، پیچیدگی فنی و هزینه بالای توسعه بازی‌های حتی ساده است که بسیاری از ایده‌پردازان خلاق را از ورود به این حوزه باز می‌دارد. راه‌حل ارائه‌شده توسط پلی‌گراند گوگل، دموکراتیزه کردن فرآیند ساخت بازی از طریق رابط گفتاری (Natural Language Interface) است که فاصله بین ایده و محصول نهایی را به حداقل می‌رساند. از نظر معماری، این سیستم بر پایه مدل‌های زبانی بزرگ (LLM) مانند جمنای استوار است که ورودی‌های متنی را به کد قابل اجرا (احتمالاً JavaScript/HTML۵) یا داده‌های ساختاری‌شده بازی ترجمه می‌کند؛ چالش فنی اصلی، حفظ یکپارچگی وضعیت بازی (State Management) هنگام ویرایش‌های تکراری است تا از از بین رفتن پیشرفت کاربر جلوگیری شود. مدل درآمدی احتمالی شامل اشتراک‌های SaaS برای توسعه‌دهندگان و درآمدزایی از طریق تبلیغات در گالری عمومی است. نقاط قوت شامل کاهش شدید سبک ورود به بازار (Low Barrier to Entry)، ایجاد جامعه‌ای از تولیدکنندگان محتوا و استفاده از قدرت برند گوگل است. نقاط ضعف شامل محدودیت‌های خلاقانه در مقایسه با موتورهای بازی‌سازی حرفه‌ای مانند یونیتی، وابستگی شدید به کیفیت مدل هوش مصنوعی و احتمال تولید بازی‌های سطحی و کم‌عمق است. نکته طلایی برای ایران: با توجه به محدودیت‌های ارزی و دسترسی به سرویس‌های خارجی، توسعه یک نسخه بومی با پشتیبانی از زبان فارسی و اتصال به مدل‌های هوش مصنوعی داخلی یا متن‌باز، می‌تواند شکاف بزرگ موجود در آموزش گیم‌دیزاین و سرگرمی دیجیتال را پر کند و پلتفرمی برای نمایش خلاقیت‌های جوانان ایرانی ایجاد نماید."
     },
     {
       "id": "ph-yesterday-5",
@@ -33573,6 +33718,66 @@
       ]
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-14",
+      "rank": 3,
+      "name": "Retriever AI",
+      "slug": "retriever-ai",
+      "tagline": "Free AI browser agent: find leads, reach out, apply to jobs",
+      "description": "Retriever is a free AI browser agent that finishes work across websites. Ask it to find leads and send outreach, shortlist TikTok and Instagram creators for your next campaign, or apply to jobs. Run tasks in your own Chrome browser or in cloud browsers hosted by rtrvr. It beats OpenAI, Anthropic, and Muse on accuracy, runs 5x faster, and costs 300x less.",
+      "category": "Chrome Extensions • Productivity • Artificial Intelligence • Google Cloud Run",
+      "categoryFa": "افزونه کروم • بهره‌وری • هوش مصنوعی • Google Cloud Run",
+      "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9c8e2898-8610-4813-bbe9-d5a5f51f72e9.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/63240eff-1bee-463a-aa93-e005a496c9a5.png?auto=format",
+        "https://ph-files.imgix.net/771553c0-0b7a-4896-a43f-076c970bf101.png?auto=format",
+        "https://ph-files.imgix.net/0bc3b9df-3a60-467c-bb12-bf7fbd06d582.png?auto=format",
+        "https://ph-files.imgix.net/02e68d2b-20be-4fdc-ae60-f8939508a991.png?auto=format",
+        "https://ph-files.imgix.net/90c4e746-e89f-49f1-8636-fa7baa2d902a.png?auto=format",
+        "https://ph-files.imgix.net/75ffc008-1f39-43b3-997b-aa7e14407794.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 201,
+      "websiteUrl": "https://www.producthunt.com/r/WYCLMV7ALKHIUI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Bhavani here, cofounder of rtrvr.ai 👋 Arjun and I are two former Google engineers building an AI browser agent with 35,000+ users. Today, we're bringing our free agent to Product Hunt. We believe you should choose your AI, your model, and which work to hand over. Let Retriever handle the repetitive browser work you'd happily stop doing. Ask Retriever to research leads and send outreach, shortlist TikTok and Instagram creators, or apply to jobs. Run tasks in your own Chrome browser or in cloud browsers hosted by Retriever. Our median AI cost is under 1¢ per task. That's what makes free access possible. We built our own DOM-based agent harness. It reads webpages as compact text, runs multiple actions together, checks results, and recovers from errors. Context caching, open-weight models, and continual learning through reusable site skills reduce the work each model has to do. The performance matters just as much as the cost: - 81.4% task completion in our published Web Bench evaluation, ahead of OpenAI and Anthropic agents. - 5× faster and 300x cheaper than OpenAI dots across our AI Agent Benchmark. You can also connect Retriever to OpenAI dots, Claude, or Codex through MCP and let your preferred AI hand off web data and browser automation tasks to it. Bulent, a user who connected OpenAI dots to rtrvr, told us: > \"I configured Dot to extensively use Retrieval AI on my behalf, and I'm getting much better results.\" Small sponsored ads now and then help fund Free Mode. No subscription or API key needed. Start in the Chrome extension or Cloud dashboard. We want solo founders, GTM experts, small businesses, students and anyone with work piling up to have access to our SOTA agent to automate their work for free. Give Retriever a task you've been putting off. What would you like to get off your plate? http://rtrvr.ai/"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Who is the primary audience for this application?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a really awesome, efficient tool for agents. Thank you!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on launch!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Bhavani and Arjun have been killing it with rtrvr, great product and excited for everyone else to try out the product too!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi, so this i have connected the mcp to my agent, and also installed the extension, but it shows devices 0, does this needs an upgrade?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "very good team, very responsive with a solid technical background and feature-rich product. Still there is a long way to go until it becomes THE (only) Web AI agent you will ever need. but for now, at this stage, everything is going very well."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is insane. It is like a browser and executing agent in one."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-09-17",
       "rank": 5,
@@ -33692,66 +33897,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-14",
-      "rank": 3,
-      "name": "Retriever AI",
-      "slug": "retriever-ai",
-      "tagline": "Free AI browser agent: find leads, reach out, apply to jobs",
-      "description": "Retriever is a free AI browser agent that finishes work across websites. Ask it to find leads and send outreach, shortlist TikTok and Instagram creators for your next campaign, or apply to jobs. Run tasks in your own Chrome browser or in cloud browsers hosted by rtrvr. It beats OpenAI, Anthropic, and Muse on accuracy, runs 5x faster, and costs 300x less.",
-      "category": "Chrome Extensions • Productivity • Artificial Intelligence • Google Cloud Run",
-      "categoryFa": "افزونه کروم • بهره‌وری • هوش مصنوعی • Google Cloud Run",
-      "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9c8e2898-8610-4813-bbe9-d5a5f51f72e9.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/63240eff-1bee-463a-aa93-e005a496c9a5.png?auto=format",
-        "https://ph-files.imgix.net/771553c0-0b7a-4896-a43f-076c970bf101.png?auto=format",
-        "https://ph-files.imgix.net/0bc3b9df-3a60-467c-bb12-bf7fbd06d582.png?auto=format",
-        "https://ph-files.imgix.net/02e68d2b-20be-4fdc-ae60-f8939508a991.png?auto=format",
-        "https://ph-files.imgix.net/90c4e746-e89f-49f1-8636-fa7baa2d902a.png?auto=format",
-        "https://ph-files.imgix.net/75ffc008-1f39-43b3-997b-aa7e14407794.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 200,
-      "websiteUrl": "https://www.producthunt.com/r/WYCLMV7ALKHIUI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Bhavani here, cofounder of rtrvr.ai 👋 Arjun and I are two former Google engineers building an AI browser agent with 35,000+ users. Today, we're bringing our free agent to Product Hunt. We believe you should choose your AI, your model, and which work to hand over. Let Retriever handle the repetitive browser work you'd happily stop doing. Ask Retriever to research leads and send outreach, shortlist TikTok and Instagram creators, or apply to jobs. Run tasks in your own Chrome browser or in cloud browsers hosted by Retriever. Our median AI cost is under 1¢ per task. That's what makes free access possible. We built our own DOM-based agent harness. It reads webpages as compact text, runs multiple actions together, checks results, and recovers from errors. Context caching, open-weight models, and continual learning through reusable site skills reduce the work each model has to do. The performance matters just as much as the cost: - 81.4% task completion in our published Web Bench evaluation, ahead of OpenAI and Anthropic agents. - 5× faster and 300x cheaper than OpenAI dots across our AI Agent Benchmark. You can also connect Retriever to OpenAI dots, Claude, or Codex through MCP and let your preferred AI hand off web data and browser automation tasks to it. Bulent, a user who connected OpenAI dots to rtrvr, told us: > \"I configured Dot to extensively use Retrieval AI on my behalf, and I'm getting much better results.\" Small sponsored ads now and then help fund Free Mode. No subscription or API key needed. Start in the Chrome extension or Cloud dashboard. We want solo founders, GTM experts, small businesses, students and anyone with work piling up to have access to our SOTA agent to automate their work for free. Give Retriever a task you've been putting off. What would you like to get off your plate? http://rtrvr.ai/"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a really awesome, efficient tool for agents. Thank you!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on launch!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Bhavani and Arjun have been killing it with rtrvr, great product and excited for everyone else to try out the product too!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi, so this i have connected the mcp to my agent, and also installed the extension, but it shows devices 0, does this needs an upgrade?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "very good team, very responsive with a solid technical background and feature-rich product. Still there is a long way to go until it becomes THE (only) Web AI agent you will ever need. but for now, at this stage, everything is going very well."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is insane. It is like a browser and executing agent in one."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "from 35k+ users already, what are the most common tasks that you noticed people delegating in the \"let's see what it can do\" phase?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -37910,7 +38055,43 @@
           "user": "[REDACTED]",
           "text": "Interesting price point there m$ 😸 Exactly the same as JEV. Both at $0.042. And boasting 1.2 points higher accuracy and running roughly 2.8 times faster than TypeSafe AI's Jev model. Your move @Jev"
         }
-      ]
+      ],
+      "faDescription": "مایکروسافت-دسیژن-۱ یک مدل امتیازدهی تصمیم‌گیری برای مسیریابی، طبقه‌بندی، اعتبارسنجی و کنترل عامل‌های هوش مصنوعی است. با ارائه گزینه‌های ثابت، این مدل در یک مرحله واحد، احتمال کالیبره‌شده‌ای برای هر گزینه برمی‌گرداند که نرم‌افزارها می‌توانند مستقیماً بر اساس آن عمل کنند. این مدل از Qwen۳.۵-۹B آموزش پس‌داده شده است و طبق ادعای مایکروسافت، در میانگین تأخیر حدود ۳۵ برابر سریع‌تر از GPT-۶ Sol عمل می‌کند. این سرویس اکنون در مایکروسافت فاندری با قیمت ۰.۰۴۲ دلار برای هر میلیون توکن ورودی و با خروجی رایگان در دسترس است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "با مایکروسافت-دسیژن-۱ از مایکروسافت آشنا شوید: مدلی که برای تصمیمات سریع و ساختاریافته ساخته شده، نه تولید متن. شما یک وضعیت و گزینه‌های ثابت را به آن می‌دهید و آن در یک مرحله، احتمال کالیبره‌شده‌ای برای هر کدام برمی‌گرداند تا نرم‌افزار شما بتواند مستقیماً بر پاسخ عمل کند. اکنون شما دریافت می‌کنید: احتمالات برای گزینه‌های بله/خیر، چندگزینه‌ای و امتیازدهی بدون نیاز به تجزیه متن؛ نمره‌دهی مبتنی بر معیارهای ارزیابی برای پاسخ‌های هوش مصنوعی و اقدامات عامل‌ها از طریق یک فراخوانی API ساختاریافته؛ و یک مدل کوچک و سریع آموزش پس‌داده‌شده از Qwen۳.۵-۹B برای امتیازدهی تصمیم‌گیری که مایکروسافت می‌گوید آن را بر مدل‌های دیگر از جمله مایکروسافت AI (MAI) و مدل‌های OpenAI بازسازی خواهد کرد. چه چیز جدیدی است؟ ساخته شده برای تصمیم‌گیری، نه چت: LLMها متن تولید می‌کنند یا مسائل پیچیده را تحلیل می‌کنند. Decision-۱ با مسیریابی، طبقه‌بندی، اولویت‌بندی، اعتبارسنجی و کنترل جریان کاری سروکار دارد، جایی که پاسخ یک انتخاب از میان گزینه‌های شناخته‌شده است. سرعتی که تجمعی است: مثال مایکروسافت این است که ۱۰۰ میلی‌ثانیه اضافه‌شده به هر یک از ۲۰ تصمیم متوالی، دو ثانیه به جریان کاری اضافه می‌کند. در آزمایش‌های آن، Decision-۱ ۴.۵ برابر سریع‌تر از رقیب دوم (Quyet-۱.۰-Large) و حدود ۳۵ برابر سریع‌تر از GPT-۶ Sol در میانگین تأخیر است. دقت و تعمیم‌پذیری: مایکروسافت گزارش می‌دهد که بالاترین دقت را در یک مقایسه ۳۶ معیار پوشش‌دهنده تقریباً ۱۵۰,۰۰۰ سؤال که از آموزش پنهان مانده بودند، و بهترین نتایج را در JevBench در ۳۶ معیار عمومی و خصوصی اضافی دارد. تصمیمات یکپارچه: در هشت نوع تغییر ورودی، به طور متوسط در ۱.۳٪ موارد تصمیم خود را تغییر می‌دهد و هرگز زمانی که توضیحات گزینه‌ها بازنویسی می‌شوند یا گزینه‌ها معکوس یا جابه‌جا می‌شوند، تغییری ایجاد نمی‌کند. ایمنی: روی ۵,۲۵۰ درخواست در ۱۱ معیار (محتوای مضر، فرار از قفل، تزریق پرامپت) آزمایش شده و مایکروسافت می‌گوید رفتارهای مضر را رد کرده و در عین حال کاربرد بالایی را حفظ کرده است. جایی که مایکروسافت از آن استفاده می‌کند: Xbox Research بیش از ۱۰,۰۰۰ مورد بازخورد را با کیفیتی رقابتی با GPT-۶ Sol، بیش از ۱۴ برابر سریع‌تر و ۲۰۰ برابر ارزان‌تر برچسب‌گذاری کرد. تیم Copilot کیفیتی رقابتی با GPT-۵.۶ Luna را با ۱۰۰ برابر سرعت مشاهده کرد. Microsoft Discovery نمراتی ۴۶ برابر یکپارچه‌تر از نسخه مبتنی بر LLM را با سه برابر سرعت دریافت کرد. موارد استفاده فهرست‌شده: کنترل عامل‌ها، مسیریابی مدل، برچسب‌گذاری داده، داوری هوش مصنوعی، تحلیل نیت، مسیریابی حادثه، اعتبارسنجی داده، مرتبط بودن جستجو، فیلتر محتوا، اسکن کد، غربالگری ایمنی، استفاده از رایانه، رباتیک و کشف علمی. قیمت‌گذاری و در دسترس بودن: اکنون در Microsoft Foundry در دسترس است. OpenRouter به زودی راه‌اندازی می‌شود. ۰.۰۴۲ دلار برای هر میلیون توکن ورودی و توکن‌های خروجی رایگان هستند. امتحان کنید: Microsoft Foundry · پست راه‌اندازی"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخشی که نگرانم می‌کند این است که «کالیبره‌شده» به یک برچسب دائمی تبدیل شود به جای یک اندازه‌گیری. کالیبراسیون تنها در توزیع داده‌ای که روی آن آزمایش شده است صادق است و ترافیک تولید به طور مداوم از آن توزیع منحرف می‌شود. اگر کد من مستقیماً بر اساس احتمال عمل کند و انسانی متن را پیش‌تر نخوانده باشد، راهی برای متوجه شدن لحظه‌ای که کالیبراسیون به آرامی از بین می‌رود ندارم و فقط اعداد اشتباه با اعتماد به نفس بالا می‌گیرم که دقیقاً شبیه اعداد درست با اعتماد به نفس بالا به نظر می‌رسند. آیا راهی برای پایش انحراف کالیبراسیون در محیط تولید وجود دارد، یا تیم‌ها انتظار دارند خودشان اعتبارسنجی مجدد را روی یک نمونه برچسب‌گذاری‌شده تازه بسازند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "نکته جالبی در مورد قیمت‌گذاری م$ 😸 دقیقاً همان JEV است. هر دو در ۰.۰۴۲ دلار. و مدعی دقت ۱.۲ نقطه بالاتر و اجرای حدود ۲.۸ برابر سریع‌تر از مدل Jev متعلق به TypeSafe AI هستند. نوبت شماست @Jev"
+        }
+      ],
+      "aiReview": "مسئله اصلی در این محصول، غلبه بر کندی و هزینه بالای مدل‌های زبانی بزرگ (LLM) در فرآیندهای تصمیم‌گیری تکراری است. راه‌حل ارائه یک مدل سبک‌وزن (Post-trained) است که به جای تولید متن، مستقیماً احتمال گزینه‌ها را برمی‌گرداند. از نظر معماری، این مدل بر پایه Qwen۳.۵-۹B ساخته شده و با استفاده از تکنیک‌های آموزش پس‌داده (Post-training) برای کارهای طبقه‌بندی و امتیازدهی بهینه شده است. مدل درآمدی مبتنی بر مصرف توکن ورودی با قیمت بسیار پایین و خروجی رایگان است که جذابیت بالایی برای مقیاس‌پذیری دارد. نقاط قوت شامل سرعت بسیار بالا (۳۵ برابر سریع‌تر از رقبا)، دقت کالیبره‌شده و قابلیت استفاده مستقیم در کد است. نقاط ضعف اصلی نگرانی‌های مربوط به انحراف کالیبراسیون در محیط‌های پویا و وابستگی به توزیع داده‌های آموزشی است. نکته طلایی برای ایران: با توجه به محدودیت‌های سخت‌افزاری و اینترنتی، توسعه یک نسخه فارسی‌زبان از این مدل با تمرکز بر صنایع مالی و بانکی می‌تواند یک مزیت رقابتی بزرگ ایجاد کند، زیرا این صنایع به شدت به سرعت و دقت در تصمیم‌گیری‌های ریز نیاز دارند و هزینه‌های بالای مدل‌های بزرگ برایشان قابل تحمل نیست.",
+      "iranEquivalent": {
+        "productName": "مدل تصمیم‌گیری سریع و ساختاریافته",
+        "description": "این محصول یک مدل زبانی کوچک و تخصصی است که به جای تولید متن، بر روی ارائه احتمالات کالیبره‌شده برای گزینه‌های از پیش تعریف‌شده تمرکز دارد. هدف اصلی آن تسریع فرآیندهای اتوماسیون و کاهش هزینه‌های محاسباتی در سیستم‌های عامل هوش مصنوعی است. با ارائه خروجی ساختاریافته، نیاز به پردازش‌های پیچیده متن را حذف کرده و پاسخ‌دهی را به صورت لحظه‌ای ممکن می‌سازد.",
+        "marketOpportunity": "بازار ایران با وجود محدودیت‌های دسترسی به مدل‌های بزرگ جهانی، تشنه‌ی راهکارهای سبک‌وزن و ارزان برای اتوماسیون فرآیندهای کسب‌وکار است. این محصول می‌تواند در صنایع مالی، لجستیک و پشتیبانی مشتریان که به تصمیم‌گیری سریع و دقیق نیاز دارند، جایگزین مناسبی برای مدل‌های سنگین باشد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری اطلاعات، استارتاپ‌های هوش مصنوعی، و سازمان‌های بزرگ با نیاز به اتوماسیون فرآیندهای تصمیم‌گیری سریع",
+        "challenges": [
+          "نیاز به داده‌های برچسب‌گذاری‌شده باکیفیت برای آموزش و کالیبراسیون مدل در زبان فارسی",
+          "مقاومت سازمان‌ها در برابر اعتماد به تصمیمات خودکار بدون نظارت انسانی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه بر اساس تعداد درخواست‌های پردازش‌شده",
+          "ارائه نسخه اختصاصی (On-premise) برای سازمان‌های حساس با هزینه یکبار"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-7",
@@ -39215,6 +39396,68 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-14",
+      "rank": 4,
+      "name": "AdAnt 2.0",
+      "slug": "adant-2-0-3",
+      "tagline": "Muse for Social Media Marketing",
+      "description": "AdAnt AI is your proactive, 24/7 social media marketing team. The Strategist researches your niche on TikTok, Instagram, YouTube and Meta Ads and writes content strategies that work. The Creator turns every strategy into a batch of videos. The Analyst listens on X and Reddit for conversations worth joining. The Manager plans the calendar and posts. Built on the strategies our founding team used to generate 100M+ organic views and cut paid acquisition costs by 60% on average.",
+      "category": "Social Media • Marketing • Artificial Intelligence • Google Cloud Run",
+      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • هوش مصنوعی • Google Cloud Run",
+      "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/df5d768c-62aa-4fdc-9357-88916a232548.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/558fbfc4-b0a4-4ae6-b393-b3862b073a6a.jpeg?auto=format",
+        "https://ph-files.imgix.net/a6518089-3b02-41c7-87f9-58300843ef25.png?auto=format",
+        "https://ph-files.imgix.net/f5a994be-6686-40eb-9c82-76d5a3d1c602.png?auto=format",
+        "https://ph-files.imgix.net/456e1724-fd17-4398-bbd7-71b533b32ee2.png?auto=format",
+        "https://ph-files.imgix.net/a70ea0c7-2b94-4b0e-b8d9-bba356a1b09f.png?auto=format",
+        "https://ph-files.imgix.net/0dbd6c00-19bd-4557-a677-bd042b78bea0.png?auto=format",
+        "https://ph-files.imgix.net/5b433ffb-8da6-4647-9511-c48f3193f390.png?auto=format",
+        "https://ph-files.imgix.net/09d4b85b-57bc-46e9-8e15-de9f18dd0f6e.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 167,
+      "websiteUrl": "https://www.producthunt.com/r/P2S3Z4QRV2ANYE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋Building a product is no longer the bottleneck. Getting attention is.Meet AdAnt 2.0, Muse for Social Media Marketing. Your whole AI marketing team, working proactively for you, 24/7.Paste your product URL, and four agents get to work. You set the direction; they keep things moving without waiting for you to prompt every step.🔎 The Strategist studies what’s working on TikTok, Instagram, YouTube, and Meta Ads to develop your content strategy.🎬 The Creator turns each strategy into a batch of videos.💬 The Analyst finds conversations worth joining on X and Reddit.📅 The Manager coordinates the agents, plans your calendar, and posts.We’re developers who struggled to grow our own products. We turned the playbooks behind 100M+ organic views and 60% lower customer acquisition costs on average into a team with the creative instincts of top creators and the coordination of a marketing agency.You keep building. AdAnt keeps working to get you noticed.🎁 Try it free with 40 credits. We’d love your feedback: what’s the first task you’d give your AI marketing team?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on your launch! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The idea of ​​bringing research, content creation, and publishing tasks into a single workflow is truly compelling to me. Since handling each step separately can be quite complex, integrating them through AI agents makes perfect sense. Great work!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Who is the primary user?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi AdAnt team! What sort of testing is done to verify that the content being generated is legitimate and in-scope to the company's current guidelines and policies? For example, suppose a competitor is having an \"everything must go\" sale where things are 90% off. This might generate high social media engagement, which might cause an agent to also do a 90% off, even though the company doesn't want to do that. Is there any sort of agent that checks content or involves a human-in-the-loop before posting?Congrats on today's launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that this starts from the reality of builders who truly care about their products, rather than trying to recreate enterprise marketing pipeline with AI sprinkled on top. Amazing work Iris!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @iris_tu & team, Congrats on launch and best wishes ahead😄"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This really resonates as a founder. Building has gotten so much easier with AI, but distribution is still incredibly hard."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-11",
       "rank": 5,
@@ -39429,68 +39672,6 @@
       "id": "ph-today-5",
       "date": "2026-10-14",
       "rank": 5,
-      "name": "AdAnt 2.0",
-      "slug": "adant-2-0-3",
-      "tagline": "Muse for Social Media Marketing",
-      "description": "AdAnt AI is your proactive, 24/7 social media marketing team. The Strategist researches your niche on TikTok, Instagram, YouTube and Meta Ads and writes content strategies that work. The Creator turns every strategy into a batch of videos. The Analyst listens on X and Reddit for conversations worth joining. The Manager plans the calendar and posts. Built on the strategies our founding team used to generate 100M+ organic views and cut paid acquisition costs by 60% on average.",
-      "category": "Social Media • Marketing • Artificial Intelligence • Google Cloud Run",
-      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • هوش مصنوعی • Google Cloud Run",
-      "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/df5d768c-62aa-4fdc-9357-88916a232548.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/558fbfc4-b0a4-4ae6-b393-b3862b073a6a.jpeg?auto=format",
-        "https://ph-files.imgix.net/a6518089-3b02-41c7-87f9-58300843ef25.png?auto=format",
-        "https://ph-files.imgix.net/f5a994be-6686-40eb-9c82-76d5a3d1c602.png?auto=format",
-        "https://ph-files.imgix.net/456e1724-fd17-4398-bbd7-71b533b32ee2.png?auto=format",
-        "https://ph-files.imgix.net/a70ea0c7-2b94-4b0e-b8d9-bba356a1b09f.png?auto=format",
-        "https://ph-files.imgix.net/0dbd6c00-19bd-4557-a677-bd042b78bea0.png?auto=format",
-        "https://ph-files.imgix.net/5b433ffb-8da6-4647-9511-c48f3193f390.png?auto=format",
-        "https://ph-files.imgix.net/09d4b85b-57bc-46e9-8e15-de9f18dd0f6e.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 165,
-      "websiteUrl": "https://www.producthunt.com/r/P2S3Z4QRV2ANYE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! 👋Building a product is no longer the bottleneck. Getting attention is.Meet AdAnt 2.0, Muse for Social Media Marketing. Your whole AI marketing team, working proactively for you, 24/7.Paste your product URL, and four agents get to work. You set the direction; they keep things moving without waiting for you to prompt every step.🔎 The Strategist studies what’s working on TikTok, Instagram, YouTube, and Meta Ads to develop your content strategy.🎬 The Creator turns each strategy into a batch of videos.💬 The Analyst finds conversations worth joining on X and Reddit.📅 The Manager coordinates the agents, plans your calendar, and posts.We’re developers who struggled to grow our own products. We turned the playbooks behind 100M+ organic views and 60% lower customer acquisition costs on average into a team with the creative instincts of top creators and the coordination of a marketing agency.You keep building. AdAnt keeps working to get you noticed.🎁 Try it free with 40 credits. We’d love your feedback: what’s the first task you’d give your AI marketing team?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi AdAnt team! What sort of testing is done to verify that the content being generated is legitimate and in-scope to the company's current guidelines and policies? For example, suppose a competitor is having an \"everything must go\" sale where things are 90% off. This might generate high social media engagement, which might cause an agent to also do a 90% off, even though the company doesn't want to do that. Is there any sort of agent that checks content or involves a human-in-the-loop before posting?Congrats on today's launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that this starts from the reality of builders who truly care about their products, rather than trying to recreate enterprise marketing pipeline with AI sprinkled on top. Amazing work Iris!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey @iris_tu & team, Congrats on launch and best wishes ahead😄"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This really resonates as a founder. Building has gotten so much easier with AI, but distribution is still incredibly hard."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Making scroll-stopping ads for TikTok, Instagram and YouTube is a real pain for small teams, so AI creative agents are a great fit. Curious how you keep ads on-brand across platforms. Wishing you a great launch day!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is ambitious in the best way. Not another isolated AI feature, but an attempt to make the whole experience feel like working with a team."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Seems promising. Are you able to add your own tone / details?"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-14",
-      "rank": 4,
       "name": "daily.dev for agents",
       "slug": "daily-dev-for-agents",
       "tagline": "Where agents discover what's next",
@@ -40658,7 +40839,55 @@
           "user": "[REDACTED]",
           "text": "Love the idea of making focus time this simple. No need to keep turning things on and off manually."
         }
-      ]
+      ],
+      "faDescription": "هدفون‌های شما تبدیل به کلید فعال‌سازی حالت تمرکز می‌شوند. وقتی AirPods خود را می‌گذارید، مک به‌صورت خودکار حالت Focus (به‌صورت پیش‌فرض Do Not Disturb) را فعال می‌کند، سایت‌های مزاحم را مسدود می‌سازد و یک تایمر در نچ نمایش می‌دهد. با خارج کردن هدفون‌ها، زمان استراحت آغاز می‌شود، سایت‌های مسدود شده باز می‌گردند و دو موجود کوچک در نچ به حالت استراحت می‌روند. علاوه بر این، در نچ اطلاعاتی مثل آهنگ در حال پخش، حجم صدا، روشنایی، رنگ‌های سفارشی، تاریخچهٔ جلسات و دو موجود واکنش‌گرا نمایش داده می‌شود؛ در صورتی که نچ موجود نباشد، یک پِل کوچک شناور ظاهر می‌شود. این برنامه رایگان، منبع بسته و فقط برای macOS ۱۴+ با پردازندهٔ Apple Silicon عرضه شده و هیچ داده‌ای را خارج از دستگاه شما ارسال نمی‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "نظری صادقانه: من Cue را با Claude کد زدم. توکن‌های رایگان داشتم و عادت به باز کردن یوتیوب «برای یک ثانیه» داشتم، بنابراین این ایده کوچک شکل گرفت؛ هدفون‌های شما کلید فعال‌سازی تمرکز هستند. وقتی AirPods را می‌گذارید، Cue حالت Focus (به‌صورت پیش‌فرض Do Not Disturb) را فعال می‌کند، سایت‌های انتخابی را مسدود می‌کند و یک تایمر در نچ شروع می‌شود. وقتی هدفون‌ها را در می‌آورید، استراحت آغاز می‌شود، سایت‌ها باز می‌گردند و موجودهای کوچک می‌خوابند. ویژگی‌های دیگر شامل نمایش آهنگ در حال پخش، حجم صدا و روشنایی در نچ، رنگ‌های سفارشی، تاریخچهٔ جلسه و دو موجود کوچک واکنش‌گراست. اگر نچ وجود نداشته باشد، Cue یک قرص شناور کوچک رسم می‌کند. محدودیت‌ها: فقط Apple Silicon، macOS ۱۴+؛ تشخیص پوشیدن نیاز به AirPods Pro، AirPods ۳/۴ یا AirPods Max دارد؛ هدفون‌های دیگر فقط با اتصال/قطع کار می‌کنند؛ برنامه notarized نیست، بنابراین macOS یک بار «Open Anyway» می‌خواهد. رایگان، منبع بسته، توسط یک نفر به‌همراه هوش مصنوعی ساخته شده؛ ممکن است باگ داشته باشد، بازخورد خوش‌آمدید. حریم خصوصی: بدون حساب کاربری، بدون تحلیل‌گر. Cue فقط برای دکمهٔ بازخورد و دو پینگ ناشناس یک‌بار («opened»، «ready») به‌صورت آنلاین می‌رود؛ هیچ‌چیز دیگری از مک شما خارج نمی‌شود. خوشحال می‌شوم بدانم چه چیزهایی خراب می‌شود 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "استفاده از AirPods به‌عنوان ماشه به‌جای یک دکمهٔ دیگر، ایده‌ای است که پس از فکر کردن واضح می‌شود؛ من کمی ناراحت شدم که اولین بار این را نداشتم 😄 نکتهٔ مهم این است که خارج کردن هدفون‌ها به‌عنوان استراحت عمل می‌کند، بنابراین نیازی به یادآوری برای پایان دادن به جلسه نیست و برنامه تبدیل به یک کار اضافی نمی‌شود. همچنین قدردانی می‌کنم که محدودیت‌ها (Apple Silicon، عدم notarized بودن و غیره) را از ابتدا فهرست کردید؛ این صراحت باعث می‌شود بیشتر مایل به امتحان آن باشم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تشخیص پوشیدن هدفون به‌عنوان ماشه، کل محصول است؛ این بخش باعث می‌شود که برنامه نسبت به سایر برنامه‌های تمرکز که ممکن است فراموش شوند، ماندگار باشد. اگر یک AirPod را برای ۲۰ ثانیه برای صحبت کردن بیرون بکشید، آیا این به‌عنوان «استراحت» در نظر گرفته می‌شود و جلسهٔ تمرکز متوقف می‌شود یا یک بازهٔ زمان‌دار برای جلوگیری از قطع ناخواسته وجود دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "استفاده از AirPods به‌عنوان کلید فعال‌سازی تمرکز، ماشه‌ای طبیعی است که تعجب می‌کنم چرا هنوز در همه جا وجود ندارد؛ قرار دادن هدفون‌ها خود یک نشانهٔ شروع کار است. مسدود کردن سایت‌ها و شروع خودکار تایمر، اصطکاک تنظیمات را حذف می‌کند. موجودهای کوچک در نچ یک لمس سرگرم‌کننده اضافه می‌کند. آیا این برنامه با هدفون‌های بلوتوثی دیگر نیز کار می‌کند یا فقط با AirPods؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "پیشنهاد می‌کنم برای نسخهٔ انگلیسی وب‌سایت، یک ویدئوی دموی انگلیسی نیز بارگذاری شود. این کار شانس پوشش بازار بزرگتر را افزایش می‌دهد :)"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "عشق به ایدهٔ ساده‌سازی زمان تمرکز. دیگر نیازی به روشن و خاموش کردن دستی تنظیمات نیست."
+        }
+      ],
+      "aiReview": "مسئله: کاربران macOS به‌دلیل حواس‌پرتی‌های دیجیتال، به‌خصوص سایت‌های ویدئویی، زمان تمرکز خود را از دست می‌دهند و ابزارهای موجود نیاز به فعال‌سازی دستی دارند. راه‌حل: Cue با استفاده از تشخیص پوشیدن AirPods به‌عنوان ماشهٔ فیزیکی، به‌صورت خودکار حالت Focus را فعال می‌کند، سایت‌های مزاحم را مسدود می‌سازد و تایمری در نچ نمایش می‌دهد؛ خروج هدفون‌ها به‌عنوان زمان استراحت عمل می‌کند. معماری و تکنولوژی: برنامه به‌صورت native برای macOS ۱۴+ با Swift و استفاده از APIs مربوط به Bluetooth و Focus ساخته می‌شود؛ بخش وب‌پشتیبان برای جمع‌آوری بازخوردها با Next.js و PostgreSQL پیاده‌سازی می‌شود. مدل درآمدی: ترکیبی از freemium (نسخهٔ رایگان با قابلیت‌های پایه) و اشتراک ماهانه برای ویژگی‌های پیشرفته و نسخهٔ سازمانی. نقاط قوت: تجربهٔ کاربری بی‌دست‌کاری، یکپارچگی با اکوسیستم Apple، حفظ حریم خصوصی، هزینهٔ توسعه کم به‌دلیل منبع بسته و استفاده از هوش مصنوعی برای کدنویسی. نقاط ضعف: وابستگی به Apple Silicon و AirPods، عدم notarized بودن که ممکن است پذیرش را در کاربران محافظه‌کار کاهش دهد، و نیاز به راهنمایی برای عبور از هشدارهای امنیتی. نکتهٔ طلایی برای بازار ایران: تمرکز بر ارائهٔ نسخهٔ فارسی با پشتیبانی از هدفون‌های محلی (مانند هدفون‌های بلوتوثی ایرانی) و افزودن قابلیت‌های محلی‌سازی مانند تنظیمات زمان‌بندی بر پایهٔ ساعت کاری ایرانی می‌تواند پذیرش را به‌سرعت افزایش دهد.",
+      "iranEquivalent": {
+        "productName": "Cue",
+        "description": "Cue یک برنامهٔ macOS است که با استفاده از تشخیص پوشیدن AirPods، به‌صورت خودکار حالت Focus را فعال می‌کند، سایت‌های مزاحم را مسدود می‌سازد و تایمری در نچ نمایش می‌دهد. با خارج کردن هدفون‌ها، زمان استراحت آغاز می‌شود و تنظیمات به حالت قبلی باز می‌گردند. این ابزار رایگان، حریم خصوصی را حفظ می‌کند و برای macOS ۱۴+ با پردازندهٔ Apple Silicon طراحی شده است.",
+        "marketOpportunity": "در ایران، استفاده گسترده از دستگاه‌های Apple و نیاز به ابزارهای افزایش بهره‌وری در میان دانشجویان و کارآفرینان فرصت بزرگی برای چنین اپلیکیشنی فراهم می‌کند. علاوه بر این، محدودیت‌های موجود در ابزارهای داخلی باعث می‌شود کاربران به دنبال راه‌حل‌های بین‌المللی باشند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کاربران macOS ۱۴+ با Apple Silicon، به‌ویژه دانشجویان، فریلنسرها و کارآفرینان که به دنبال کاهش حواس‌پرتی و بهبود تمرکز هستند.",
+        "challenges": [
+          "پشتیبانی از هدفون‌های غیر‑AirPods در ایران که ممکن است کمتر در دسترس باشند",
+          "محدودیت‌های notarization و نیاز به راهنمایی کاربران برای عبور از هشدارهای امنیتی macOS"
+        ],
+        "monetization": [
+          "نسخهٔ پایه رایگان با امکانات محدود و فروش اشتراک ماهانه برای ویژگی‌های پیشرفته مانند گزارش‌های تحلیلی و سفارشی‌سازی نچ",
+          "فروش لایسنس سازمانی برای شرکت‌ها و مؤسسات آموزشی با قابلیت مدیریت مرکزی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -42192,6 +42421,65 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-10-14",
+      "rank": 6,
+      "name": "Tiden",
+      "slug": "tiden",
+      "tagline": "Intent verification for coding agents",
+      "description": "Tiden verifies your coding agents built what you actually asked for. Most checks run inside the session that wrote the code, so the tests agree with it by construction. Tiden keeps your intent as requirements that branch and merge like code, and checks every change against that record. The verdict comes from tests run in your environment; no model grades the diff. You decide what merges, and production errors trace back to the release. Works beside Claude Code, Cursor, Codex and Copilot.",
+      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/tiden?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/75eab5b8-2f1b-4cf3-91f5-575e00d04650.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/102bbb30-4e9e-40ff-8240-37167519ef18.jpeg?auto=format",
+        "https://ph-files.imgix.net/02ae7261-0004-43a4-a699-223180ea44d8.png?auto=format",
+        "https://ph-files.imgix.net/eca97bc0-8d1c-4e99-9d72-2247df9fb640.png?auto=format",
+        "https://ph-files.imgix.net/5e38567d-f353-4e31-a826-7c6638ae62df.png?auto=format",
+        "https://ph-files.imgix.net/005e9960-52bd-4c9d-b42f-1b90799a6bad.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 155,
+      "websiteUrl": "https://www.producthunt.com/r/KLWVRGQPBSK7MC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Nikita, and this is Tiden, the product we've been building for the past year. It's for engineering teams shipping agent-written code every day who want to let agents do the coding while keeping control of what ships.Qase is a software testing platform used by tens of thousands of builders, and 9 years of building it for them taught us a lot about how quality work gets done. Last year that changed on our own team: agents started producing most of the code, and the rest of our process didn't speed up with it. Review, testing, release, keeping requirements current: all of it became bottlenecks.Other engineering teams tell the same story. A gaming publisher I talked to, with about 1k+ developers, saw pull request volume go up 4 to 5 times while the number of features they shipped stayed flat. A payments company described 10 times the coding output and 10% more delivery.The problem underneath itAn agent session produces the code, the tests that pass on that code, and the docs describing what it built. The next session reads those docs as fact. Every artifact agrees with every other one, because they all came from the same place. A QA automation lead at a tax and accounting platform put it best: \"If you have an agent that decides what to build, and then another agent is grading what's being built against what was actually built, you're essentially encoding the wrong thing. Your tests will pass, they'll be green, but it wasn’t what you wanted.\"The two usual fixes, another rules file in the repo and better AI code review, both sit inside that same loop. The judge has to sit outside it.What Tiden doesTiden is that judge. It's intent verification for coding agents: it sits beside your agents, whichever ones you use, and verifies that what they built is what you actually asked for. It keeps that intent as specs, versioned like code, and checks every change against them rather than against the session that produced it.Every agent session becomes a closed loop:A session hook captures what you asked for before the first editThe change comes back as a requirement for you to review; requirements branch and merge like codeTiden picks the tests the change touches, runs them in your environment, and the agent fixes what fails before anything mergesThe gate is tied to the spec. Red tells the agent what to fix. Green is a pass you can defend, with the evidence attachedIn production, an error traces back to the release, the change and the prompt behind it, and the fix comes with the test that was missingTiden works beside Claude Code, Cursor, Codex and Copilot, and belongs to none of them. Specs live as one versioned record every agent reads from, instead of a growing pile of markdown. You set the thresholds and the gates, and a person approves anything the loop can't settle.One limit, stated plainly: Tiden checks the work against what you asked for. Whether you asked for the right thing is still a human judgment.Get startedTiden is live at https://tiden.ai. The CLI installs in one command, the docs are at https://docs.tiden.ai, and Starter and Team both come with a 14-day free trial. If you'd rather talk to us first, there's a short form on the site: https://tiden.ai/contact.What I'd like from youHonest feedback over upvotes. Where does your team feel this gap most: review, regression, release, or production? What would make you trust an external check?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nikita and the team were shipping exciting features and products before, this one is a gem 💎"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love how Tiden is addressing the gap where AI coding assistants and agents can generate 1000s of lines of code in seconds, but it’s very difficult to validate the quality of that code, especially at enterprise scale. Tiden with Claude looks like a killer combination."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can I use it without tests?I just want to keep specs somewhere and use them across many repositories."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey 👋 Another engineer from Tiden is here, too!It's a really interesting experience to use Tiden to build Tiden. I think it could be interesting for other people too!At first, changing so many domains at once seemed risky to me, but with Tiden, the process went smoothly.Tiden helps track every detail and edge case while your product keeps changing, especially over the long term.I believe you should give it a try!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The real challenge with AI coding is not writing code faster but it’s making sure the code actually does what you intended."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does this work if the team never wrote requirements in the first place? Most of our \"spec\" lives in tickets and people's heads"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When Tiden flags a requirement as untested, what stops the agent from writing a shallow test just to turn it green?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-07",
       "rank": 9,
@@ -42884,65 +43172,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-14",
-      "rank": 6,
-      "name": "Tiden",
-      "slug": "tiden",
-      "tagline": "Intent verification for coding agents",
-      "description": "Tiden verifies your coding agents built what you actually asked for. Most checks run inside the session that wrote the code, so the tests agree with it by construction. Tiden keeps your intent as requirements that branch and merge like code, and checks every change against that record. The verdict comes from tests run in your environment; no model grades the diff. You decide what merges, and production errors trace back to the release. Works beside Claude Code, Cursor, Codex and Copilot.",
-      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
-      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/tiden?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/75eab5b8-2f1b-4cf3-91f5-575e00d04650.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/102bbb30-4e9e-40ff-8240-37167519ef18.jpeg?auto=format",
-        "https://ph-files.imgix.net/02ae7261-0004-43a4-a699-223180ea44d8.png?auto=format",
-        "https://ph-files.imgix.net/eca97bc0-8d1c-4e99-9d72-2247df9fb640.png?auto=format",
-        "https://ph-files.imgix.net/5e38567d-f353-4e31-a826-7c6638ae62df.png?auto=format",
-        "https://ph-files.imgix.net/005e9960-52bd-4c9d-b42f-1b90799a6bad.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 153,
-      "websiteUrl": "https://www.producthunt.com/r/KLWVRGQPBSK7MC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Nikita, and this is Tiden, the product we've been building for the past year. It's for engineering teams shipping agent-written code every day who want to let agents do the coding while keeping control of what ships.Qase is a software testing platform used by tens of thousands of builders, and 9 years of building it for them taught us a lot about how quality work gets done. Last year that changed on our own team: agents started producing most of the code, and the rest of our process didn't speed up with it. Review, testing, release, keeping requirements current: all of it became bottlenecks.Other engineering teams tell the same story. A gaming publisher I talked to, with about 1k+ developers, saw pull request volume go up 4 to 5 times while the number of features they shipped stayed flat. A payments company described 10 times the coding output and 10% more delivery.The problem underneath itAn agent session produces the code, the tests that pass on that code, and the docs describing what it built. The next session reads those docs as fact. Every artifact agrees with every other one, because they all came from the same place. A QA automation lead at a tax and accounting platform put it best: \"If you have an agent that decides what to build, and then another agent is grading what's being built against what was actually built, you're essentially encoding the wrong thing. Your tests will pass, they'll be green, but it wasn’t what you wanted.\"The two usual fixes, another rules file in the repo and better AI code review, both sit inside that same loop. The judge has to sit outside it.What Tiden doesTiden is that judge. It's intent verification for coding agents: it sits beside your agents, whichever ones you use, and verifies that what they built is what you actually asked for. It keeps that intent as specs, versioned like code, and checks every change against them rather than against the session that produced it.Every agent session becomes a closed loop:A session hook captures what you asked for before the first editThe change comes back as a requirement for you to review; requirements branch and merge like codeTiden picks the tests the change touches, runs them in your environment, and the agent fixes what fails before anything mergesThe gate is tied to the spec. Red tells the agent what to fix. Green is a pass you can defend, with the evidence attachedIn production, an error traces back to the release, the change and the prompt behind it, and the fix comes with the test that was missingTiden works beside Claude Code, Cursor, Codex and Copilot, and belongs to none of them. Specs live as one versioned record every agent reads from, instead of a growing pile of markdown. You set the thresholds and the gates, and a person approves anything the loop can't settle.One limit, stated plainly: Tiden checks the work against what you asked for. Whether you asked for the right thing is still a human judgment.Get startedTiden is live at https://tiden.ai. The CLI installs in one command, the docs are at https://docs.tiden.ai, and Starter and Team both come with a 14-day free trial. If you'd rather talk to us first, there's a short form on the site: https://tiden.ai/contact.What I'd like from youHonest feedback over upvotes. Where does your team feel this gap most: review, regression, release, or production? What would make you trust an external check?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nikita and the team were shipping exciting features and products before, this one is a gem 💎"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love how Tiden is addressing the gap where AI coding assistants and agents can generate 1000s of lines of code in seconds, but it’s very difficult to validate the quality of that code, especially at enterprise scale. Tiden with Claude looks like a killer combination."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can I use it without tests?I just want to keep specs somewhere and use them across many repositories."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey 👋 Another engineer from Tiden is here, too!It's a really interesting experience to use Tiden to build Tiden. I think it could be interesting for other people too!At first, changing so many domains at once seemed risky to me, but with Tiden, the process went smoothly.Tiden helps track every detail and edge case while your product keeps changing, especially over the long term.I believe you should give it a try!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The real challenge with AI coding is not writing code faster but it’s making sure the code actually does what you intended."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does this work if the team never wrote requirements in the first place? Most of our \"spec\" lives in tickets and people's heads"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When Tiden flags a requirement as untested, what stops the agent from writing a shallow test just to turn it green?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -45893,7 +46122,63 @@
           "user": "[REDACTED]",
           "text": "Design looks really good! Minimalistic but attractive UI and not cluttered at all. Really like that new simplistic way of browsing with Firefox therefore Kudos to you guys at Mozilla!"
         }
-      ]
+      ],
+      "faDescription": "به طراحی تازه و به‌روز فایرفاکس خوش آمدید. این نسخه راه‌های بیشتری برای شخصی‌سازی تجربه مرور را فراهم می‌کند تا حس خانه بودن را به شما بدهد. نشانک‌ها، افزونه‌ها و کلیدهای میانبر شما دقیقاً در همان جایی که قبلاً رها کرده‌اید، باقی می‌مانند. با این به‌روزرسانی، مرور وب راحت‌تر و دلپذیرتر می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "بزرگ‌ترین تجدید بصری فایرفاکس در سال‌ها هم‌اکنون در دسترس است و ظاهرش فوق‌العاده شیک به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این فوق‌العاده است و من مدتی بود منتظرش بودم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "از دیرباز مرورگر مورد علاقه من بوده! به‌خصوص وقتی در لینوکس بودم. مشتاق این به‌روزرسانی هستم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "وووووووو!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "در راه هستم! برای دریافت به‌روزرسانی جدید."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من تمرکز موزیلا بر حریم خصوصی و حفظ وب باز را تحسین می‌کنم. این موضوع بیش از پیش اهمیت دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "همیشه دوست داشتم فایرفاکس گزینه‌ای دیگر به‌جز مرورگرهای معمولی به مردم بدهد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "طراحی واقعاً خوب به نظر می‌رسد! رابط کاربری مینیمالیست اما جذاب و بدون شلوغی. روش ساده‌سازی شدهٔ مرور با فایرفاکس را بسیار دوست دارم؛ بنابراین تشکر فراوان از تیم موزیلا!"
+        }
+      ],
+      "aiReview": "مسئله: کاربران ایرانی به دلیل محدودیت‌های دسترسی و نگرانی‌های حریم خصوصی به مرورگری نیاز دارند که سریع، امن و بومی‌سازی شده باشد. راه‌حل: فایرفاکس ۱۵۷ با طراحی ساده، پشتیبانی کامل از فارسی و قابلیت‌های پیشرفته حریم خصوصی، پاسخگوی این نیازهاست. معماری و تکنولوژی: استفاده از Next.js برای لایهٔ فرانت‌اند و PostgreSQL برای مدیریت داده‌های کاربری، به‌همراه بهینه‌سازی برای شبکه‌های کم‌سرعت و ادغام سرویس‌های VPN داخلی. مدل درآمدی: ترکیبی از اشتراک‌های پریمیوم (مانند همگام‌سازی پیشرفته و ابزارهای توسعه) و تبلیغات بومی هدفمند. نقاط قوت: رابط کاربری مینیمالیست، حفظ حریم خصوصی، بومی‌سازی کامل و سازگاری با زیرساخت‌های ایرانی. نقاط ضعف: رقابت شدید با مرورگرهای پیش‌فرض، نیاز به پشتیبانی مستمر در برابر سانسور و محدودیت‌های قانونی. نکته طلایی برای ایران: ایجاد یک اکوسیستم افزونه‌های بومی که به‌صورت متن باز توسعه یابند و بتوانند جایگزین سرویس‌های خارجی شوند، می‌تواند پذیرش فایرفاکس را به‌طور چشمگیری افزایش دهد.",
+      "iranEquivalent": {
+        "productName": "فایرفاکس ۱۵۷",
+        "description": "فایرفاکس ۱۵۷ با طراحی نوین و رابط کاربری ساده، تجربه مرور امن و سریع را برای کاربران ایرانی فراهم می‌کند. این نسخه به‌صورت بومی‌سازی شده، پشتیبانی از زبان فارسی و بهینه‌سازی برای سرعت در شبکه‌های محدود را دارد. همچنین حفظ حریم خصوصی و دسترسی به محتواهای باز از ویژگی‌های کلیدی آن است.",
+        "marketOpportunity": "در ایران با توجه به محدودیت‌های دسترسی به مرورگرهای خارجی و تقاضای بالای کاربران برای مرورگرهای بومی، فایرفاکس می‌تواند جایگاهی مهم به‌دست آورد. همچنین رشد استفاده از اینترنت همراه و نیاز به امنیت بیشتر، فرصت‌های تجاری قابل توجهی ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۳ میلیارد تومان",
+        "targetAudience": "کاربران اینترنت خانگی و موبایلی، دانشجویان، برنامه‌نویسان و فعالان حوزه حریم خصوصی در ایران.",
+        "challenges": [
+          "محدودیت‌های سانسور و فیلترینگ",
+          "رقابت با مرورگرهای پیش‌فرض مانند کروم و اپلیکیشن‌های بومی"
+        ],
+        "monetization": [
+          "اشتراک‌های پریمیوم برای ویژگی‌های پیشرفته",
+          "تبلیغات بومی و همکاری با سرویس‌های محتوا"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -62073,7 +62358,39 @@
           "user": "[REDACTED]",
           "text": "respect the honesty about small local models struggling with long multi-step work, most launches bury that in the fine print. is there a concrete signal that tells a user they've crossed that line, like the model repeating a tool call or losing track of the folder state, or does it just quietly produce worse edits and you only notice after reviewing the diff. a built-in \"this model is probably too small for this task\" warning would be a genuinely useful feature on top of what you've got"
         }
-      ]
+      ],
+      "faDescription": "OpenPilot یک عامل هوش مصنوعی دسکتاپی رایگان و متن‌باز با لایسنس MIT است که امکان اتصال به هر مدل سازگار با OpenAI را فراهم می‌کند. شما می‌توانید از طریق این ابزار به مدل‌های OpenAI، OpenRouter، Ollama یا LM Studio متصل شوید، یک پوشه را انتخاب کنید و اجازه دهید فایل‌ها را بخواند، ویرایش کند و دستورات را اجرا نماید. برای حفظ امنیت، اقدامات حساس نیازمند تأیید صریح شما هستند. این محصول در حال حاضر برای ویندوز در دسترس است و نسخه بتای اولیه آن برای مک نیز ارائه شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به محصول هانت، من ابراهیم هستم، توسعه‌دهنده مستقل OpenPilot (بدون ارتباط با openpilot متعلق به comma.ai). من به دنبال تجربه‌ای شبیه به Cursor بودم که در آن با توصیف یک وظیفه، فایل‌های من خوانده شده، دستورات اجرا شده و مشکلات برطرف شوند، اما به صورت متن‌باز و با استفاده از مدل شخصی خودم. از آنجا که ابزاری متن‌باز با این ویژگی‌ها پیدا نکردم، تصمیم گرفتم خودم بسازم. شما یک آدرس پایه، کلید و نام مدل (OpenAI، OpenRouter یا سرور محلی Ollama / LM Studio) را وارد می‌کنید، یک پوشه انتخاب می‌کنید و درخواست خود را مطرح می‌کنید. هر فراخوانی ابزار به صورت یک کارت نمایش داده می‌شود و اقدامات حساس برای تأیید شما در انتظار می‌مانند. این ابزار همچنین دارای مهارت‌ها، سرورهای MCP و آمار مصرف توکن برای هر مدل است. این یک ویرایشگر یا IDE نیست، بلکه صرفاً عاملی است که در پوشه‌ای که شما انتخاب می‌کنید کار می‌کند. وضعیت صادقانه: ویندوز به خوبی کار می‌کند، نسخه‌های مک یک بتای اولیه امضاشده نیستند و هنوز نسخه لینوکس وجود ندارد. مدل‌های محلی کوچک وظایف ساده را مدیریت می‌کنند اما در کارهای چندمرحله‌ای طولانی با مشکل مواجه می‌شوند. آمار استفاده ناشناس به صورت پیش‌فرض فعال است (بدون چت‌ها، فایل‌ها یا کلیدها) و می‌توان آن را در تنظیمات غیرفعال کرد. این محصول در مراحل اولیه است و فقط من در حال توسعه آن هستم. خوشحال می‌شوم بدانم چه مدل‌هایی را می‌خواهید تست کنید و چه چیزی در نصب خراب می‌شود. (توجه: این نظر با کمک هوش مصنوعی تنظیم شده و از حساب تیم OpenPilot ارسال شده است.) دانلود مستقیم برای ویندوز (بدون نیاز به حساب کاربری): https://github.com/ibmshaikh/OpenPilot/releases/latest/download/OpenPilot-Setup.exe ویندوز ممکن است به دلیل عدم امضای کد، هشدار SmartScreen نشان دهد. روی \"اطلاعات بیشتر\" و سپس \"اجرا با این حال\" کلیک کنید. نسخه‌های مک فعلاً بتای امضاشده نیستند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "احترام به صداقت شما در مورد اینکه مدل‌های محلی کوچک در کارهای چندمرحله‌ای طولانی با مشکل مواجه می‌شوند؛ اکثر راه‌اندازی‌ها این نکته را در جزئیات ریز پنهان می‌کنند. آیا سیگنال مشخصی وجود دارد که به کاربر بگوید از آن مرز عبور کرده است، مانند تکرار فراخوانی ابزار توسط مدل یا از دست دادن وضعیت پوشه، یا اینکه آیا فقط به آرامی ویرایش‌های ضعیف‌تری تولید می‌کند و شما فقط پس از بررسی diff متوجه می‌شوید؟ یک هشدار داخلی با عنوان \"این مدل احتمالاً برای این وظیفه کوچک است\" یک ویژگی واقعاً مفید بر آنچه که دارید خواهد بود."
+        }
+      ],
+      "aiReview": "مسئله اصلی که OpenPilot حل می‌کند، نیاز به یک محیط یکپارچه برای تعامل با هوش مصنوعی در سطح سیستم‌عامل است که در آن کاربر کنترل کامل بر داده‌ها و اقدامات داشته باشد. راه‌حل ارائه‌شده یک عامل دسکتاپی است که با مدل‌های متن‌باز یا ابری سازگار است و با نمایش شفاف هر اقدام (Tool Call) و نیاز به تأیید برای عملیات حساس، اعتماد کاربر را جلب می‌کند. از نظر معماری، این محصول از یک لایه واسط برای اتصال به APIهای مختلف (OpenAI, Ollama و غیره) استفاده می‌کند و منطق اصلی را در سمت کلاینت اجرا می‌کند تا حریم خصوصی حفظ شود. مدل درآمدی در حال حاضر بر اساس لایسنس MIT رایگان است، اما پتانسیل تبدیل به یک محصول B۲B با ویژگی‌های سازمانی وجود دارد. نقاط قوت شامل متن‌باز بودن، انعطاف‌پذیری در انتخاب مدل و تمرکز بر امنیت کاربر است. نقاط ضعف شامل عدم پشتیبانی از لینوکس، مشکلات نصب در مک به دلیل عدم امضای دیجیتال و محدودیت عملکرد مدل‌های کوچک محلی در وظایف پیچیده است. نکته طلایی برای ایران: با توجه به تحریم‌ها و محدودیت دسترسی به سرویس‌های خارجی، تمرکز بر اجرای محلی (Local-first) و استفاده از مدل‌های متن‌باز مانند Llama یا Qwen روی سخت‌افزارهای موجود در بازار ایران، می‌تواند این محصول را به یک ابزار حیاتی برای توسعه‌دهندگان ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "پایلوت هوشمند",
+        "description": "پایلوت هوشمند یک نرم‌افزار دسکتاپی متن‌باز است که به عنوان دستیار هوش مصنوعی عمل می‌کند و با مدل‌های زبانی محلی یا ابری سازگار است. این ابزار امکان خواندن، ویرایش فایل‌ها و اجرای دستورات در یک پوشه مشخص را با نظارت کامل کاربر فراهم می‌کند. تمرکز اصلی بر روی شفافیت در فرآیند تصمیم‌گیری هوش مصنوعی و امکان کنترل اقدامات حساس است.",
+        "marketOpportunity": "بازار ایران به دلیل محدودیت‌های دسترسی به سرویس‌های ابری خارجی، به شدت به ابزارهای محلی و متن‌باز نیاز دارد. توسعه‌دهندگان ایرانی می‌توانند از این پلتفرم برای اتوماسیون کارهای روزمره با استفاده از مدل‌های محلی بدون نگرانی از حریم خصوصی استفاده کنند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مهندسان داده و کاربران حرفه‌ای که به دنبال خودکارسازی وظایف فنی با حفظ حریم خصوصی داده‌های خود هستند.",
+        "challenges": [
+          "نیاز به بهینه‌سازی برای سخت‌افزارهای رایج در ایران که ممکن است برای اجرای مدل‌های بزرگ محلی ضعیف باشند.",
+          "چالش‌های مربوط به توزیع نرم‌افزار و اعتمادسازی کاربران نسبت به نرم‌افزارهای امضاشده نشده در سیستم‌عامل‌های مختلف."
+        ],
+        "monetization": [
+          "ارائه نسخه سازمانی با پشتیبانی فنی و ویژگی‌های مدیریت دسترسی پیشرفته.",
+          "فروش پکیج‌های آموزشی و مستندات تخصصی برای پیاده‌سازی مدل‌های محلی."
+        ],
+        "techStack": [
+          "Electron",
+          "Python"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -63076,6 +63393,53 @@
       }
     },
     {
+      "id": "ph-today-10",
+      "date": "2026-10-14",
+      "rank": 10,
+      "name": "Specreel",
+      "slug": "specreel",
+      "tagline": "Product demos that update themselves",
+      "description": "Paste your app's URL and Specreel walks it in a real browser, turning your key flows into narrated, shareable demos. Already on Playwright? It renders them from your test traces on every green build, so a demo can't go stale. Open-source CLI + hosted Cloud.",
+      "category": "Open Source • Marketing • Developer Tools • GitHub • Google Cloud Run",
+      "categoryFa": "متن‌باز • بازاریابی • ابزار توسعه‌دهندگان • گیت‌هاب • Google Cloud Run",
+      "url": "https://www.producthunt.com/products/specreel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/266ee1c9-c18b-4713-8c47-6d35a6ad68c9.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f2f4e192-2c3e-447c-be9a-962c47450061.png?auto=format",
+        "https://ph-files.imgix.net/2275f8e0-5301-40e2-b0a4-96ee16c20b1c.png?auto=format",
+        "https://ph-files.imgix.net/87223561-8656-41a4-bd8a-f19d37d0a689.png?auto=format",
+        "https://ph-files.imgix.net/11064980-09f2-4c37-94a2-ab8d5ec1dc5a.png?auto=format",
+        "https://ph-files.imgix.net/8c6e618c-bf37-4659-b99c-72bf9a49a18f.png?auto=format"
+      ],
+      "maker": "Dylan Roy",
+      "makerTitle": "Engineer & Side Project Junkie",
+      "featuredAt": "2026-10-14T07:01:00Z",
+      "votes": 95,
+      "websiteUrl": "https://www.producthunt.com/r/GR4O6J6QXTMJRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I'm Dylan, and I built Specreel.AI has made building software dramatically faster, and my own projects were no exception. When I did find time to record a demo video, it was out of date within a week. Since I'm always spinning up something new, it kept happening. So I set out to solve my own problem.The one thing that never went stale was my end-to-end tests. They recorded the exact same browser flows on every build, and when the app changed, they failed instead of quietly drifting.So Specreel treats them as one artifact: a recorded browser flow. Replay it = demo. Share it = send. Assert it = test.Three ways in:• Paste your app's URL → we open it in a real browser, suggest the flows worth showing, and turn them into a narrated, shareable demo gallery. Behind a login? Add a test account and we sign in first.• Already on Playwright? Turn on tracing and point the open-source CLI at your trace.zip files (JS/TS, Python, Java, .NET). A GitHub Action republishes on every green build, so your demo is never older than your last passing build.• Prefer to just ask? The MCP server lets Claude Code or Cursor run the whole loop.Things I cared about:– Captions come straight from your actions and assertions. They're deterministic and need no AI. AI narration and voiceover are opt-in, bring your own key.– Typed passwords and one-time codes are masked automatically.– You never change your tests. The demo is just an output.– Cloud is free to start. Team ($39/mo) adds scheduled re-checks and Slack/email alerts when a flow breaks. Viewers and reviewers are always free.🎁 For the Product Hunt community: code PRODUCTHUNT takes 50% off any paid plan for your first 3 months (redeem by Nov 30). This link applies it when you sign up: https://app.specreel.dev/redeem/PRODUCTHUNTThe live gallery on our site is Specreel documenting itself: 12 flows of its own app, generated from its own test runs. Built for the Google Cloud Run hackathon: Specreel Cloud runs on Cloud Run.I'd love your feedback, especially: what would you point it at first, and what would make you trust a demo you didn't record by hand?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The dream for anyone who hates re-recording lol. can i still control the pacing and where the cursor lingers? and is the narration a real voice or captions? 🫶"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Linking demos to passing tests makes sense. For ecommerce demos, can I redact customer names, email addresses and order details before a gallery is published, and keep each refresh private until reviewed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Demo tied to a green build is the right call. Stale demos are worse than none."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How did you use Cloud Run for this launch?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-09-19",
       "rank": 9,
@@ -63239,53 +63603,6 @@
       }
     },
     {
-      "id": "ph-today-10",
-      "date": "2026-10-14",
-      "rank": 10,
-      "name": "Specreel",
-      "slug": "specreel",
-      "tagline": "Product demos that update themselves",
-      "description": "Paste your app's URL and Specreel walks it in a real browser, turning your key flows into narrated, shareable demos. Already on Playwright? It renders them from your test traces on every green build, so a demo can't go stale. Open-source CLI + hosted Cloud.",
-      "category": "Open Source • Marketing • Developer Tools • GitHub • Google Cloud Run",
-      "categoryFa": "متن‌باز • بازاریابی • ابزار توسعه‌دهندگان • گیت‌هاب • Google Cloud Run",
-      "url": "https://www.producthunt.com/products/specreel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/266ee1c9-c18b-4713-8c47-6d35a6ad68c9.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f2f4e192-2c3e-447c-be9a-962c47450061.png?auto=format",
-        "https://ph-files.imgix.net/2275f8e0-5301-40e2-b0a4-96ee16c20b1c.png?auto=format",
-        "https://ph-files.imgix.net/87223561-8656-41a4-bd8a-f19d37d0a689.png?auto=format",
-        "https://ph-files.imgix.net/11064980-09f2-4c37-94a2-ab8d5ec1dc5a.png?auto=format",
-        "https://ph-files.imgix.net/8c6e618c-bf37-4659-b99c-72bf9a49a18f.png?auto=format"
-      ],
-      "maker": "Dylan Roy",
-      "makerTitle": "Engineer & Side Project Junkie",
-      "featuredAt": "2026-10-14T07:01:00Z",
-      "votes": 94,
-      "websiteUrl": "https://www.producthunt.com/r/GR4O6J6QXTMJRM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I'm Dylan, and I built Specreel.AI has made building software dramatically faster, and my own projects were no exception. When I did find time to record a demo video, it was out of date within a week. Since I'm always spinning up something new, it kept happening. So I set out to solve my own problem.The one thing that never went stale was my end-to-end tests. They recorded the exact same browser flows on every build, and when the app changed, they failed instead of quietly drifting.So Specreel treats them as one artifact: a recorded browser flow. Replay it = demo. Share it = send. Assert it = test.Three ways in:• Paste your app's URL → we open it in a real browser, suggest the flows worth showing, and turn them into a narrated, shareable demo gallery. Behind a login? Add a test account and we sign in first.• Already on Playwright? Turn on tracing and point the open-source CLI at your trace.zip files (JS/TS, Python, Java, .NET). A GitHub Action republishes on every green build, so your demo is never older than your last passing build.• Prefer to just ask? The MCP server lets Claude Code or Cursor run the whole loop.Things I cared about:– Captions come straight from your actions and assertions. They're deterministic and need no AI. AI narration and voiceover are opt-in, bring your own key.– Typed passwords and one-time codes are masked automatically.– You never change your tests. The demo is just an output.– Cloud is free to start. Team ($39/mo) adds scheduled re-checks and Slack/email alerts when a flow breaks. Viewers and reviewers are always free.🎁 For the Product Hunt community: code PRODUCTHUNT takes 50% off any paid plan for your first 3 months (redeem by Nov 30). This link applies it when you sign up: https://app.specreel.dev/redeem/PRODUCTHUNTThe live gallery on our site is Specreel documenting itself: 12 flows of its own app, generated from its own test runs. Built for the Google Cloud Run hackathon: Specreel Cloud runs on Cloud Run.I'd love your feedback, especially: what would you point it at first, and what would make you trust a demo you didn't record by hand?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The dream for anyone who hates re-recording lol. can i still control the pacing and where the cursor lingers? and is the narration a real voice or captions? 🫶"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Linking demos to passing tests makes sense. For ecommerce demos, can I redact customer names, email addresses and order details before a gallery is published, and keep each refresh private until reviewed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Demo tied to a green build is the right call. Stale demos are worse than none."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How did you use Cloud Run for this launch?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-7",
       "date": "2026-10-10",
       "rank": 7,
@@ -63343,7 +63660,65 @@
           "user": "[REDACTED]",
           "text": "Tried Skreno for making tutorials. It is smooth! Editing studio makes it easy to publish the videos faster with not much editing skills. Can we publish directly to youtube?"
         }
-      ]
+      ],
+      "faDescription": "اسکرینو یک استودیوی ویدیویی کامل است که مستقیماً در مرورگر شما اجرا می‌شود و امکان ضبط، ویرایش و اشتراک‌گذاری را در یک محیط واحد فراهم می‌کند. شما می‌توانید صفحه نمایش و دوربین خود را به صورت دو ردیف مجزا ضبط کنید و سپس در بخش استودیو، چیدمان‌های مختلف را انتخاب کرده، سکوت‌ها را حذف و زیرنویس‌های متحرک اضافه کنید. پس از ویرایش، یک لینک واحد دریافت می‌کنید که شامل متن کامل ویدیو، خلاصه هوش مصنوعی و امکان کامنت گذاشتن روی ثانیه دقیق مورد نظر است. همچنین می‌توانید لینک درخواست ارسال کنید تا افراد بدون نیاز به ثبت‌نام، ویدیو برای شما ضبط کنند و گزارش‌های باگ نیز همراه با لاگ کنسول ارسال شوند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به تیم Product Hunt 👋 من صادق، سازنده اسکرینو هستم. ساختن یک ویدیوی باکیفیت قبلاً به سه ابزار نیاز داشت: یکی برای ضبط، یکی برای ویرایش و یکی برای میزبانی و اشتراک‌گذاری. سپس اگر کسی بپرسد «آیا می‌توانید متن ویدیو را بفرستید؟»، ابزار چهارم هم لازم می‌شود. اسکرینو همه این‌ها را در مرورگر شما قرار می‌دهد: 🎥 ضبط: صفحه و دوربین به صورت ردیف‌های مجزا، تا ۴K در پلن‌های پولی ✂️ ویرایش در استودیو: انتخاب چیدمان پس از ضبط، حذف سکوت‌ها و کلمات پرکننده، و افزودن زیرنویس‌های متحرک 🔗 اشتراک‌گذاری: یک لینک با متن کامل، خلاصه هوش مصنوعی و کامنت‌ها روی ثانیه دقیق 📨 درخواست‌ها: ارسال لینک برای اینکه هر کسی بدون نیاز به اکانت برای شما ضبط کند 🐞 گزارش باگ: ضبط با افزونه یا بدون آن، همراه با لاگ کنسول می‌آید. می‌توانید با پلن رایگان شروع کنید و نحوه کار را ببینید. یک پیشنهاد ویژه عمری برای راه‌اندازی داریم که می‌توانید آن را دریافت کنید! شما بیشتر چه چیزی را ضبط می‌کنید: توضیحات، دموها، بازخورد یا گزارش باگ؟ خوشحال می‌شوم بدانم چه چیزی باعث می‌شود اسکرینو با نحوه کار شما همخوانی داشته باشد. من تمام روز اینجا هستم تا به همه کامنت‌ها پاسخ دهم 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ضبط صفحه و دوربین به صورت ردیف‌های مجزا با کیفیت ۴K به صورت زنده در یک تب مرورگر، روی لپ‌تاپ‌های قدیمی‌تر ممکن است کمی دشوار باشد. یک اپلیکیشن نیتیو می‌تواند از کامپوزیتور سیستم‌عامل و انکودر سخت‌افزاری استفاده کند، در حالی که یک تب مرورگر برای همان CPU با رندرینگ خود مرورگر و جمع‌آوری زباله (GC) درگیر است. طول واقع‌بینانه ضبط قبل از اینکه افراد با افت فریم یا عدم تطابق صدا و تصویر روی یک دستگاه میان‌رده مواجه شوند چقدر است و آیا این بودجه بین کروم و سفاری تغییر زیادی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "دوست دارم که اسکرینو ضبط، ویرایش و بازخورد غیرهمزمان را در یک جریان کاری یکپارچه و بی‌درز با هم ترکیب می‌کند. عاشقش بودم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آیا می‌توانم اگر هوش مصنوعی برخی کلمات را اشتباه تشخیص داد، زیرنویس‌ها را به صورت دستی ویرایش کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "دوست دارم که افراد می‌توانند بدون ایجاد حساب کاربری ویدیو ضبط کنند. این کار اشتراک‌گذاری بازخورد را بسیار آسان‌تر می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ضبط صفحه و دوربین به صورت ردیف‌های مجزا واقعاً مفید است. این کار آزادی عمل بیشتری هنگام ویرایش ویدیو در آینده به شما می‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ویدیوی دمو شما را بررسی کردم، به نظر می‌رسد زیاد روی این محصول کار کرده‌اید. مطمئن نیستم که برای من مفید باشد، اما جالب به نظر می‌رسد!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "اسکرینو را برای ساختن آموزش‌ها امتحان کردم. روان است! استودیوی ویرایش باعث می‌شود انتشار ویدیوها سریع‌تر و بدون نیاز به مهارت‌های ویرایشی زیاد انجام شود. آیا می‌توانیم مستقیماً به یوتیوب منتشر کنیم؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، پراکندگی ابزارهای تولید ویدیو و نیاز به چندین نرم‌افزار برای ضبط، ویرایش و اشتراک‌گذاری است. اسکرینو با ارائه یک استودیوی یکپارچه در مرورگر، این زنجیره را ساده و سریع می‌کند. از نظر معماری، استفاده از WebRTC برای ضبط و پردازش سمت کلاینت (Client-side) برای کاهش بار سرور هوشمند است، اما چالش اصلی، مصرف منابع سیستم کاربر برای ویدیوهای ۴K است. مدل درآمدی مبتنی بر اشتراک (SaaS) با پلن رایگان برای جذب کاربر و پلن‌های پولی برای امکانات پیشرفته مانند کیفیت بالا و هوش مصنوعی، استاندارد و قابل قبول است. نقاط قوت شامل یکپارچگی کامل، قابلیت ارسال لینک بدون نیاز به اکانت برای ضبط‌کننده، و گزارش باگ با لاگ کنسول است. نقاط ضعف، وابستگی به قدرت سخت‌افزاری مرورگر و محدودیت‌های پهنای باند برای ویدیوهای سنگین است. نکته طلایی برای ایران: تمرکز بر «مستندسازی فرآیندها» و «آموزش‌های فنی» به جای ویدیوهای سرگرمی، زیرا این بخش‌ها نیاز به دقت و سرعت دارند و کاربران حاضر برای ابزارهای تخصصی‌تر پول می‌پردازند. همچنین، ارائه نسخه آفلاین یا سبک‌تر برای کاربران با اینترنت ضعیف می‌تواند مزیت رقابتی بزرگی باشد.",
+      "iranEquivalent": {
+        "productName": "استودیو ویدیویی ابری",
+        "description": "یک پلتفرم وب‌بیس که امکان ضبط همزمان صفحه و دوربین را با کیفیت بالا فراهم می‌کند. ابزارهای هوش مصنوعی برای حذف سکوت‌ها، تولید زیرنویس و خلاصه‌سازی خودکار ویدیو درون‌خطی هستند. سیستم لینک‌سازی هوشمند امکان بازخورد دقیق بر اساس ثانیه و اشتراک‌گذاری بدون نیاز به ثبت‌نام را ارائه می‌دهد.",
+        "marketOpportunity": "بازار تولید محتوای آموزشی و مستندسازی فرآیندها در ایران به شدت رو به رشد است و نیاز به ابزارهای سبک و سریع وجود دارد. کاهش هزینه‌های نرم‌افزارهای سنگین ویدیویی و افزایش سرعت تولید محتوا، مزیت رقابتی قوی ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوای آموزشی، تیم‌های توسعه محصول برای مستندسازی باگ‌ها، و شرکت‌های استارتاپی برای ضبط دموها.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری و اینترنتی کاربران ایرانی برای پردازش ویدیوهای ۴K در مرورگر.",
+          "رقابت با ابزارهای رایگان و سبک‌تر مانند OBS و ویرایشگرهای موبایلی."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه با پلن‌های رایگان و پولی بر اساس کیفیت و حجم ذخیره‌سازی.",
+          "فروش لایسنس سازمانی برای تیم‌های بزرگ با امکانات مدیریت دسترسی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "WebRTC",
+          "FFmpeg.wasm"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-today-9",
@@ -65519,10 +65894,10 @@
   "audit": {
     "products": 655,
     "withRealComments": 655,
-    "withPersianComments": 600,
-    "withPersianDescription": 600,
-    "withAiReview": 584,
-    "withIranEquivalent": 601,
+    "withPersianComments": 608,
+    "withPersianDescription": 608,
+    "withAiReview": 592,
+    "withIranEquivalent": 608,
     "totalRealComments": 4066
   }
 }
