@@ -1,24 +1,20 @@
 {
-  "checkedAt": "2026-10-15T00:48:03.002Z",
-  "latestDataset": "2026-10-15.json",
+  "checkedAt": "2026-10-16T00:41:35.701Z",
+  "latestDataset": "2026-10-16.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 95,
-  "backlogAfter": 87,
-  "completedProducts": 568,
-  "missingFaDescription": 47,
-  "missingFaComments": 74,
-  "missingAiReview": 63,
-  "missingIranEquivalent": 50,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 98,
+  "backlogAfter": 90,
+  "completedProducts": 576,
+  "missingFaDescription": 49,
+  "missingFaComments": 76,
+  "missingAiReview": 66,
+  "missingIranEquivalent": 52,
   "failures": [
     {
-      "slug": "staffcoder",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "reso-ai-2",
+      "slug": "hirekey-2",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
