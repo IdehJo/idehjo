@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T00:27:44.311Z",
-  "sourceFiles": 70,
+  "generatedAt": "2026-10-19T23:53:41.233Z",
+  "sourceFiles": 71,
   "products": [
     {
       "id": "ph-year-1",
@@ -356,9 +356,9 @@
       ]
     },
     {
-      "id": "ph-year-4",
+      "id": "ph-year-3",
       "date": "2026-04-09",
-      "rank": 4,
+      "rank": 3,
       "name": "Brila",
       "slug": "brila-2",
       "tagline": "One-page websites from real Google Maps reviews",
@@ -471,9 +471,9 @@
       "aiReview": "مسئله و راه‌حل: مشکل اصلی در بازار فعلی سایت‌سازهای هوش مصنوعی، تولید محتوای کلیشه‌ای و مصنوعی است که نیاز به بازنویسی طولانی‌مدت دارد. بریلا با رویکرد «محتوا اول»، از داده‌های واقعی نظرات گوگل مپس استفاده می‌کند تا با تحلیل الگوهای رفتاری مشتریان (با استفاده از چارچوب Jobs to Be Done)، متنی بنیادین و باورپذیر تولید کند که نیازی به بازنویسی دستی ندارد. معماری و تکنولوژی: سیستم پشت بریلا یک پرامپت ساده نیست، بلکه یک زنجیره پیچیده هوش مصنوعی است که داده‌های ساختاریافته و غیرساختاریافته نظرات را پردازش می‌کند. این سیستم الگوهای پنهان در زبان مشتریان را استخراج کرده و آن‌ها را به یک داستان برند منسجم تبدیل می‌کند. مدل درآمدی: مدل رایگان برای جذب کاربر (Free Plan) یک سایت کامل تولید می‌کند و اشتراک Pro برای دسترسی به امکانات پیشرفته‌تر و دامنه اختصاصی در نظر گرفته شده است. نقاط قوت: استفاده از منبع داده‌ای معتبر و واقعی (نظرات گوگل)، تمایز قوی از رقبا با ارائه محتوای اصیل، و کاربردپذیری بالا برای کسب‌وکارهای کوچک. نقاط ضعف: نگرانی‌های حقوقی مرتبط با شرایط خدمات گوگل (ToS) در مورد اسکرپینگ یا استفاده از داده‌ها، محدودیت‌های فعلی در سفارشی‌سازی عمیق توسط کاربر، و وابستگی به تعداد کافی نظرات برای عملکرد بهینه. نکته طلایی برای ایران: با توجه به ضعف زیرساخت‌های نظرات آنلاین در مقایسه با گوگل مپس، این مدل می‌تواند با تطبیق داده‌ها از پلتفرم‌های داخلی (مانند اسنپ، دیوار یا اپلیکیشن‌های رستوران‌های زنجیره‌ای) یا حتی تحلیل داده‌های صوتی و متنی از تماس‌های تلفنی مشتریان، یک محصول بومی قدرتمند ایجاد کند که به کسب‌وکارهای ایرانی کمک می‌کند اعتمادسازی خودکار و مبتنی بر داده داشته باشند."
     },
     {
-      "id": "ph-year-3",
+      "id": "ph-year-4",
       "date": "2026-02-11",
-      "rank": 3,
+      "rank": 4,
       "name": "happycapy",
       "slug": "happycapy",
       "tagline": "The agent-native computer, for the rest of us",
@@ -3090,16 +3090,16 @@
       "aiReview": "SKI یک ابزار محیطی (Ambient) است که با هدف تسریع فرآیند کدنویسی با هوش مصنوعی طراحی شده است. مسئله اصلی، شکاف زمانی بین سرعت فکر کردن و سرعت تایپ است؛ راه‌حل SKI استفاده از ورودی صوتی و، به‌طور متمایز، خروجی صوتی از سمت ایجنت است تا حلقه ارتباطی بسته شود. از نظر معماری، این محصول بر پایه اجرای محلی (Local-first) استوار است؛ یعنی هم تشخیص گفتار (ASR) و هم تولید صدا (TTS) روی دستگاه کاربر اجرا می‌شوند که این امر حریم خصوصی را تضمین می‌کند و امکان کار آفلاین را فراهم می‌آورد. این ابزار با ایجنت‌های محبوبی مانند Claude Code و Codex یکپارچه می‌شود و قابلیت حضور در جلسات ویدیویی را نیز دارد. مدل درآمدی در حال حاضر «رایگان برای همیشه» اعلام شده است که اگرچه جذابیت بالایی دارد، اما در نظر برخی کاربران به‌عنوان یک ترفند بازاریابی مشکوک تلقی شده است و شفافیت در مورد مدل کسب‌وکار آینده مورد نیاز است. نقاط قوت اصلی شامل پاسخ‌دهی دوطرفه صوتی (که آن را از ابزارهای دیکته معمولی متمایز می‌کند)، اجرای محلی برای امنیت و سرعت، و قابلیت استفاده در جلسات است. نقاط ضعف و چالش‌ها عبارتند از: گزارش‌های اولیه درباره پایداری ضبط صدا (قطع شدن پس از چند ثانیه)، ابهام در مدل درآمدی، و چالش فنی مدیریت مکالمه‌های طولانی و قابلیت قطع صحبت ایجنت توسط کاربر (Interruption handling) که برای تجربه روان ضروری است. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و نگرانی‌های حریم خصوصی، رویکرد Local-first این محصول می‌تواند یک مزیت رقابتی بزرگ باشد. همچنین، اگرچه زبان اصلی احتمالاً انگلیسی است، اما اگر امکان افزودن پشتیبانی از زبان فارسی (هم برای ورودی و هم خروجی) در نسخه‌های آینده وجود داشته باشد، می‌تواند بازار بسیار بزرگی از توسعه‌دهندگان فارسی‌زبان را هدف قرار دهد که به دنبال ابزارهای سریع و بدون وابستگی به اینترنت هستند."
     },
     {
-      "id": "ph-month-1",
+      "id": "ph-month-3",
       "date": "2026-10-05",
-      "rank": 1,
+      "rank": 3,
       "name": "Spira Maxima",
       "slug": "spira-maxima",
       "tagline": "Video model that turns script into viral social media videos",
       "description": "Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.",
       "category": "Social Media • Marketing • Artificial Intelligence",
       "categoryFa": "شبکه‌های اجتماعی • بازاریابی • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "screenshots": [
         "https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format",
@@ -3111,7 +3111,7 @@
         "https://ph-files.imgix.net/a8d95925-a797-44b7-b1a0-364639fc338f.png?auto=format",
         "https://ph-files.imgix.net/968af607-10d8-4aab-9ae7-49024a8d5b9b.png?auto=format"
       ],
-      "maker": "Long Ma",
+      "maker": "[REDACTED]",
       "makerTitle": "CEO @ Spira AI",
       "featuredAt": "2026-10-05T07:01:00Z",
       "votes": 640,
@@ -3139,15 +3139,15 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "automating the posting process is one thing, but the ability to identify the right trends at the right time is what makes this concept particularly compelling. It would be fascinating to learn how Spira determines which trends are actually profitable for a specific brand to follow."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "This is sick. Will have to try this out once we ramp out our social strategy. The biggest piece of the puzzle with AI is always \"looks 80% good enough, how do we get to the 100%, launch-ready version\" haha"
         },
         {
           "user": "[REDACTED]",
           "text": "Congrats on the launch, Long, Chris, and the Spira team. Post-training Maxima on recent TikTok and Reels winners is a sharp bet on taste, not just generation. When a new caption rhythm or B-roll density starts climbing mid-week, how quickly does that land in Maxima versus waiting for a bulk retrain? For brands posting daily, stale style rules would quietly undo the consistency pitch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What I like is that it does not look like AI video. No uncanny stock b-roll, no robotic captions. It looks like a creator with a decent editor."
         }
       ],
       "faDescription": "اسپیرا ماکسیما متن‌های ساده را به ویدیوهای اجتماعی کامل و آماده انتشار تبدیل می‌کند. این پلتفرم در یک مرحله، ارائه‌دهنده، تصاویر ب‌رول (B-roll) ترند، زیرنویس و موسیقی را هماهنگ می‌کند تا نیاز به ویرایش مجدد حذف شود. با ارائه یک عکس و نمونه صدا، می‌توانید از کلون هوش مصنوعی خودتان استفاده کنید یا تصاویر محصول و فیلم‌های شخصی را برای ساخت ویرایش حول محور خود وارد کنید. این مدل با استفاده از داده‌های ترند و عملکرد شبکه‌های اجتماعی آموزش پس‌دوره (Post-trained) شده است تا هر ویدیوی تولیدشده با الگوهای موفق فعلی هم‌راستا باشد و تأثیرگذاری اجتماعی شما را به حداکثر برساند.",
@@ -3803,9 +3803,9 @@
       }
     },
     {
-      "id": "ph-month-2",
+      "id": "ph-month-1",
       "date": "2026-09-22",
-      "rank": 2,
+      "rank": 1,
       "name": "Clueso MCP",
       "slug": "clueso-mcp-2",
       "tagline": "Create and edit videos by chatting",
@@ -3824,7 +3824,7 @@
         "https://ph-files.imgix.net/8609f277-8368-4d2a-9ac8-a7f20b111e4b.png?auto=format",
         "https://ph-files.imgix.net/09c45078-6182-43ba-a34b-a7b5ea8c4331.png?auto=format"
       ],
-      "maker": "[REDACTED]",
+      "maker": "Neel Balar",
       "makerTitle": "Co-founder at Clueso",
       "featuredAt": "2026-09-22T07:01:00Z",
       "votes": 608,
@@ -3922,9 +3922,9 @@
       }
     },
     {
-      "id": "ph-month-3",
+      "id": "ph-month-2",
       "date": "2026-09-21",
-      "rank": 3,
+      "rank": 2,
       "name": "Jev",
       "slug": "jev",
       "tagline": "Fast, structured AI decisions for software automation",
@@ -5106,9 +5106,9 @@
       }
     },
     {
-      "id": "ph-month-5",
+      "id": "ph-month-7",
       "date": "2026-10-06",
-      "rank": 5,
+      "rank": 7,
       "name": "Rill Browser",
       "slug": "rill-browser",
       "tagline": "The browser where Claude Code and Codex work beside you",
@@ -5444,9 +5444,9 @@
       }
     },
     {
-      "id": "ph-month-7",
+      "id": "ph-month-6",
       "date": "2026-10-07",
-      "rank": 7,
+      "rank": 6,
       "name": "IrisGo for Solopreneurs",
       "slug": "irisgo-for-solopreneurs",
       "tagline": "AI workflow automation: show it once, let it run",
@@ -6278,9 +6278,9 @@
       }
     },
     {
-      "id": "ph-month-6",
+      "id": "ph-month-5",
       "date": "2026-10-10",
-      "rank": 6,
+      "rank": 5,
       "name": "ReSO AI",
       "slug": "reso-ai-2",
       "tagline": "Get discovered & recommended when customers ask AI",
@@ -8436,19 +8436,19 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "The video made it out of our launch meeting and into the actual announcement this time. Finally."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "My cofounder asked who made the video. “Me, with Pexo.” Didn’t expect to be the one handling that."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "I use it to create my advertise video. works very smooth!"
         },
         {
           "user": "[REDACTED]",
           "text": "Photographer here. Most videos I'd make would be built from stills I've already shot. Can Pexo use my own photos and footage as the main visuals and leave them untouched, just cutting and panning, without regenerating them with an AI model? If your work is visual, a regenerated version of your photo isn't really your photo anymore. To your question, the first thing I'd hand over is a 30-second walkthrough from screen recordings, because doing captions and music by hand is the part I hate."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "After login website doesn't load"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "sold. upvoted. what videogenres can I generate with it?"
         }
       ],
       "faDescription": "Pexo یک ابزار تولید ویدئوهای معرفی محصول است که با ساده‌ترین روش، همانند یک گفت‌وگو، به شما امکان می‌دهد ویدئوی راه‌اندازی خود را بسازید. کافی است محصول، وب‌سایت یا دارایی‌های خود را به اشتراک بگذارید و Pexo داستان را برنامه‌ریزی، مدل‌های هوش مصنوعی مناسب را انتخاب، صحنه‌ها را تولید و مونتاژ کند. همچنین صدای پس‌زمینه، موسیقی، زیرنویس، گرافیک حرکتی و ویرایش را به صورت خودکار انجام می‌دهد. با یک کلیک می‌توانید تغییرات را درخواست کنید و Pexo آن را اعمال می‌کند؛ یک عامل واحد برای تمام مراحل از ایده تا ویدئوی نهایی بر روی برند شما.",
@@ -10527,9 +10527,9 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nTines ۳B یک محیط امن و یکپارچه برای اژنت‌ها، اپلیکیشن‌ها و اتوماسیون‌ها است. این محصول به شما امکان می‌دهد با استفاده از هوش مصنوعی، از هر جای دنیا، بسازید.\n🔹 معماری و تکنولوژی احتمالی:\nTines ۳B از معماری کد-اول و بومی هوش مصنوعی استفاده می‌کند. این محصول به شما کمک می‌کند تا بدون هیچ گونه خطر برای امنیت، سریع حرکت کنید.\n🔹 مدل درآمدی:\nTines ۳B از مدل درآمدی فروش محصول و خدمات مشاوره‌ای استفاده می‌کند.\n🔹 نقاط قوت:\n- ایمن‌سازی کدهای اجرا شده\n- مدیریت اعتبارنامه‌ها\n- نظارت بر جریان‌های کار\n🔹 نقاط ضعف و ریسک‌ها:\n- نیاز به تخصص در هوش مصنوعی\n- نیاز به زیرساخت‌های مناسب\n🔹 نکته طلایی برای بازار ایران:\nTines ۳B می‌تواند به تیم‌های توسعه و بازاریابی در ایران کمک کند تا محصولات خود را به صورت سریع و امن بسازند."
     },
     {
-      "id": "ph-week-2",
+      "id": "ph-week-3",
       "date": "2026-10-16",
-      "rank": 2,
+      "rank": 3,
       "name": "Jockey by TwelveLabs",
       "slug": "jockey-by-twelvelabs-2",
       "tagline": "Your entire video library: organized, searchable, understood",
@@ -10562,14 +10562,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "Honestly the main thing I use this for is to find clips of the cat sleeping in the background of family vacation videos. It's a little annoying because the system sometimes sees him as a pillow but it still helps me avoid going through three years of video just to find something strange."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I expect there are hidden limits hidden behind the ChatGPT plugin that gets a lot of promotion. After ten hours they will definitely push for an upgrade fee. I couldn't find any information about how the data is kept for the reels we upload which makes me really unsure about giving them access to all my videos."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "oh wow, searchable videos? I have a ton of use cases for these. Congrats on the launch."
         },
         {
@@ -10583,6 +10575,14 @@
         {
           "user": "[REDACTED]",
           "text": "Congrats Aiden and the TwelveLabs team on taking Jockey to GA. Pairing your own library with a social corpus of trending Reels and TikToks is the part I want to try, since most video search tools only see what you uploaded. When Jockey explains why a hook works, is that grounded in performance data from the corpus or in Pegasus reasoning about the clip itself, and can a user tell which one an answer came from?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on your launch! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What is the workflow of a standard Claude or ChatGPT, and how big a library does it take before searches become slow?Additionally, Congratulations @jaelee_ , @aiden_lee7 and team Jockey by TwelveLabs 🚀✌️"
         }
       ]
     },
@@ -11790,9 +11790,9 @@
       }
     },
     {
-      "id": "ph-week-3",
+      "id": "ph-week-9",
       "date": "2026-10-14",
-      "rank": 3,
+      "rank": 9,
       "name": "Inferock",
       "slug": "inferock",
       "tagline": "Serverless inference, with credits back for failed calls.",
@@ -11835,19 +11835,19 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "I spent thirty years writing copy by hand. I am only just now starting to figure out these text generators. Setting up proxies feels like too much trouble when I’m still trying to understand the basic chat interface."
+          "text": "I like that credits only cover objectively broken calls timeouts, truncated output, bad JSON, not just “the model gave a bad answer.”"
         },
         {
           "user": "[REDACTED]",
-          "text": "The terms of service are very vague about payload telemetry. Unless the service can produce a certified audit that proves that the man-, in-the-middle processing removes all prompt text right away I keep my API keys isolated."
+          "text": "This is pretty neat. Can you expand on the Cloud RUn architecture? I see that you host Inferlock.ai inference router but are you using services, jobs, some mix?"
         },
         {
           "user": "[REDACTED]",
-          "text": "I honestly just started using this to get around some IP blocks that my university network had on Anthropic. I don’t really pay attention to the receipts but the connection works perfectly fine."
+          "text": "Interesting launch! For the per-call receipt, I’d want to see the expected cost alongside the billed cost, plus whether a retry was billed separately. Does the receipt also show when the provider pricing data was last updated?"
         },
         {
           "user": "[REDACTED]",
-          "text": "Could you clarify whether the latency tracking functions perform accurately when connecting from servers located in Southeast Asia? We often experience packet loss when routing to US data centers and we need precise metric logging."
+          "text": "Love the idea of an independent receipt for LLM calls, getting credits back on failed calls is a refreshingly user-first take on inference billing."
         }
       ],
       "faDescription": "با Inferock می‌توانید اعتبارات رایگان ثبت‌نام دریافت کنید تا از تمام مدل‌های موجود استفاده کنید. کلیدهای API خود (OpenAI، Claude یا Gemini) را وارد کنید تا ببینید کدام فراخوانی‌ها شکست می‌خورند و هزینه‌شان چقدر است، و برای فراخوانی‌های ناموفق واجد شرایط اعتبار دریافت کنید. این سرویس به صورت Serverless عمل می‌کند و شما فقط بر اساس توکن مصرفی هزینه پرداخت می‌کنید. با اعتبارات ثبت‌نام، می‌توانید بلافاصله شروع به استفاده کنید.",
@@ -15268,6 +15268,10 @@
       "comments": [
         {
           "user": "[REDACTED]",
+          "text": "Sorry if I'm being dense here, but where do the personas you test against come from/how are they defined, and how do they relate to/compare to the personas I've defined and targeted for my app? Is a potential output that my personas are weak/invalid and your review identifies more credible/realistic personas?"
+        },
+        {
+          "user": "[REDACTED]",
           "text": "this is exactly our problem right now: people land on the homepage, some even try the search, and then leave without signing up. would the simulated buyers tell you why they'd leave, or mostly score which headline wins? and how do the personas behave when the product covers two jobs at once (we do public tenders plus buying posts on reddit/linkedin), does it pick one audience or judge both?"
         },
         {
@@ -15280,14 +15284,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "So I actually use this to settle arguments with my cofounder about button colors and other things. It is of annoying because sometimes the bot persona gets fixated on random words in our drafts and just ignores the main layout. We end up spending twenty minutes arguing with a buyer, about font sizes."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This whole simulated buyer concept feels like an echo chamber that simply repeats your own marketing ideas. You upload customer data and the LLM suddenly says your new landing page is a winner.. What exactly happens to the proprietary persona data that we send to their servers? What does the LLM do with that persona data once it lands on their servers?"
-        },
-        {
-          "user": "[REDACTED]",
           "text": "do you plan to validate the product's predictions against the live A/B tests? for example, by running the same messaging tests with simulated audiences and real users."
         },
         {
@@ -15296,7 +15292,11 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "It saves you so much time and guessing when you test your messaging before spending money on launching it."
+          "text": "The concept of simulated customer feedback seems quite intriguing. I am interested to know how Articos handles products with multiple customer segments especially when a single message might appeal to one group while having no impact on another. Can users compare these reactions side by side?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Shaheer and Owais on the MCP launch. The pitch that you can stay inside Claude, draft a headline, and get ICP-matched pushback before shipping is clear. One edge I keep hitting in practice: after two or three rewrite rounds in the same chat, do the personas stay frozen, or can a later prompt quietly drift the ICP so the third test is no longer comparable to the first?"
         }
       ],
       "faDescription": "بسیاری از تیم‌ها محصول را منتشر می‌کنند و سپس امیدوارند که مورد استقبال قرار گیرد، اما Articos MCP به شما امکان می‌دهد قبل از انتشار، صحت‌سنجی انجام دهید. این ابزار به شما اجازه می‌دهد تا مستقیماً درون Claude یا ChatGPT، تیترها، پوزیشنینگ یا صفحات خود را در معرض خریداران شبیه‌سازی‌شده قرار دهید که بر اساس مشتریان واقعی شما ساخته شده‌اند. این روش به شما کمک می‌کند تا واکنش‌ها را قبل از انتشار نهایی مشاهده کنید. اعتبارسنجی این ابزار بر اساس تحقیقات انسانی از Baymard و Nielsen Norman انجام شده و در ۸۶ درصد موارد با نتایج واقعی همخوانی دارد.",
@@ -16270,6 +16270,65 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-yesterday-1",
+      "date": "2026-10-18",
+      "rank": 1,
+      "name": "Inbox Zero",
+      "slug": "inbox-zero-7",
+      "tagline": "Open-source Superhuman alternative",
+      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
+      "category": "Email • Open Source • Artificial Intelligence • GitHub",
+      "categoryFa": "ایمیل • متن‌باز • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format",
+        "https://ph-files.imgix.net/42cca38c-6e50-45cb-a864-3d5d4f83e6e7.png?auto=format",
+        "https://ph-files.imgix.net/f5c730d7-e5f4-4eb9-8435-6598b9231421.png?auto=format",
+        "https://ph-files.imgix.net/0747ee4b-263b-49eb-87d2-9835120e04fc.png?auto=format",
+        "https://ph-files.imgix.net/7432efeb-b9f9-4230-b4b2-802ad2776848.png?auto=format",
+        "https://ph-files.imgix.net/1cd71ac6-6ae5-4f15-8ba3-c8ec384fb023.png?auto=format",
+        "https://ph-files.imgix.net/3df0ee8d-a62e-4940-b144-1157577b7d44.png?auto=format",
+        "https://ph-files.imgix.net/235e0f08-1ec8-4417-95de-fc1184ab47bf.png?auto=format",
+        "https://ph-files.imgix.net/dd46b7ec-459c-4d9d-9d61-033f4cbbfb5a.png?auto=format"
+      ],
+      "maker": "Elie Steinbock",
+      "makerTitle": "Building Inbox Zero AI",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 357,
+      "websiteUrl": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Hunters 👋I’m excited to launch Inbox Zero Mail, an open-source Superhuman alternative.I’ve been running Inbox Zero for 3 years. It started as an AI assistant for Gmail and Outlook, and grew to 12k GitHub stars and 25k+ sign-ups, including Enterprise customers.Now we’ve built our own email client.It’s open source, so you can self-host it or build the feature you’ve always wanted.⚡ Fast and keyboard-first📥 All your Gmail and Outlook accounts in one inbox🗂️ Split inbox✍️ AI drafts in your voice🧹 Bulk unsubscribe💬 Team comments📱 Web, Mac, Windows and iPhoneFree to use. AI is $20/month.🎁 Code PRODUCTHUNT26 gets 50% off AI for 3 months.🧹 Try it today: https://www.getinboxzero.com⭐️ Give us a star on GitHub: https://www.getinboxzero.com/githubWhat would you most like to see added to an open-source email app?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks absolutely fantastic. The recent AI tool push for Gmail management is brilliant and is seriously making me rethink my forever-long iCloud mail in favor of moving to Gmail. I love the smooth, clean UI you've developed here."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is great! But my muscle memory with Gmail is so strong that switching to another email app feels like a lot of effort. As someone who's been using Gmail for years, what's the one thing you'd recommend I try that would make me want to switch?For the longest time, I didn't even try Superhuman because I couldn't justify paying that much for something Gmail already lets me do for free 😅"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@elie222 Inbox Zero looks like a great way to keep emails organized and save time. Love that it's open source and uses AI to sort emails and Draft replies!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'm excited to try this out! So far so good.Heads up, I accidentally marked something as spam at one point and it was really hard to unmark it (I ended up opening up Gmail to unmark it). Besides that, it's been really cool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Elie! Well done 👏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yo this is awesome Elie and team!! Keep it up 🚀"
+        }
+      ]
     },
     {
       "id": "ph-week-8",
@@ -18389,18 +18448,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "love the local-first approach!🤩"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "So I actually just use this for my neighborhood association group because those people reply all to literally everything. It turns those chaotic chains into something readable, like a group text. The only annoying part is the software keeps trying to make tasks out of people complaining about garbage pickup schedules anyway."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Create a testing address before you link your main work portal. Processing thousands of messages from old servers locally needs a lot of computing power at the start and could cause the interface to freeze."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "Hey John, I use a team inbox with a few other team members - maybe this is outside the scope, but are there any plans for supporting that kind of group inbox situation? I could see Talanoa bridging that gap nicely, given how it completely rewrites the UX of an inbox anyway. Great looking product, btw."
         },
         {
@@ -18409,7 +18456,19 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "The chat like layout sounds simple but could make a real difference when following long back and forth conversations. Nice approach."
+          "text": "I like the privacy angle of it: on-device, no cloud sync. The clean chat view is a nice bonus too. Does the on-device AI work offline?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@bettercallj0hn Congrats and happy launch! I like the idea and support the local & offline approach. Maybe mcp would be a great feature for those who have their own agents running for managing mail."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch @bettercallj0hn!. Re-framing email as pure chat while keeping everything local and on-device without cloud sync is a huge win for privacy.Question: How does on-device AI perform with massive, multi-gigabyte mailboxes when indexing or searching past threads for the first time?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hello @bettercallj0hn , glad to see you launching the app on PH !I'm following Talanoa since the beginning and it's awesome how the app is growing fast. So many killer features that help me to keep my emails clean.Since I'm using it, impossible to get back to the original Gmail inbox ! Oh and I really appreciate receiving the \"new in talanoa\" email and I'm always excited to see what's new.Excited for the future ! Keep going ! :)"
         }
       ]
     },
@@ -19014,9 +19073,9 @@
       }
     },
     {
-      "id": "ph-week-6",
+      "id": "ph-week-8",
       "date": "2026-10-16",
-      "rank": 6,
+      "rank": 8,
       "name": "Harness by Autonomous",
       "slug": "harness-by-autonomous-2",
       "tagline": "Every coding agent, every machine, one command center.",
@@ -19044,7 +19103,7 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "So I basically just run the side of this to organize my tabletop roleplaying campaigns while driving. The mobile side feels of weird but I dictate dialogue ideas to the tracker because I hate typing on glass. The transcription gets really confused by fantasy names anyway so I spend fixing typos later."
+          "text": "congrats on the launch!!🚀🚀the phone part is what i want. my org blocks the official remote thing for claudCode, so right now if an agent stops to ask something while i'm away it just sits there untill i get back.can the relay be turned off entirely so it's machine to machine only?? thats probably what i'd need to show our security people.🤔"
         },
         {
           "user": "[REDACTED]",
@@ -20020,9 +20079,9 @@
       ]
     },
     {
-      "id": "ph-week-7",
+      "id": "ph-week-6",
       "date": "2026-10-13",
-      "rank": 7,
+      "rank": 6,
       "name": "OpenCode 2.0",
       "slug": "opencode-2-0",
       "tagline": "The open source AI coding agent",
@@ -20048,10 +20107,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "So I actually just use this thing to fix the spacing in my big folder of old text files. It is of strange because the tool expects real programming. That's okay. The default green text color is a little hard on my eyes, at night anyway."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "Congrats! Can i run 6 sessions with one account with a single provider credential (for example an Anthropic API key, or OpenCode Zen), can all 6 sessions run concurrently? Are there per-account limits on your side, or is it purely the provider's rate limits?"
         },
         {
@@ -20073,6 +20128,10 @@
         {
           "user": "[REDACTED]",
           "text": "Congrats on 2.0! I spend most of my day building with Claude Code, so having a choice of models in the same terminal setup is interesting to me. Can you switch models partway through a task and keep the session going?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great! Are you launching a 2.0 desktop app at the same time?"
         }
       ],
       "faDescription": "اوپن‌کد (OpenCode) یک ایجنت هوش مصنوعی متن‌باز برای برنامه‌نویسی است که به توسعه‌دهندگان در نوشتن، بازنویسی و اشکال‌زدایی کد کمک می‌کند. این ابزار انعطاف‌پذیر به‌صورت رابط متنی ترمینال (TUI)، برنامه دسکتاپ و اپلیکیشن تحت وب در دسترس کاربران قرار دارد. نسخه ۲.۰ این محصول با بازطراحی اساسی و بر پایه تجربه میلیون‌ها کاربر روزانه توسعه یافته است تا تمامی نیازهای یک ایجنت هوشمند را برطرف سازد. این سیستم به برنامه‌نویسان اجازه می‌دهد تا با آزادی کامل، مدل‌های هوش مصنوعی دلخواه خود را در محیط‌های مختلف اجرا و مدیریت کنند.",
@@ -22767,9 +22826,9 @@
       }
     },
     {
-      "id": "ph-yesterday-1",
+      "id": "ph-week-10",
       "date": "2026-10-17",
-      "rank": 1,
+      "rank": 10,
       "name": "NitroStack",
       "slug": "nitrostack",
       "tagline": "Build, test, and deploy MCP servers in one place",
@@ -22791,7 +22850,7 @@
         "https://ph-files.imgix.net/a0c508dc-a5c1-42e6-82b5-1804db000ec6.png?auto=format",
         "https://ph-files.imgix.net/7d0d12d7-09f8-4725-b288-779762526990.jpeg?auto=format"
       ],
-      "maker": "Abhishek Dutta",
+      "maker": "[REDACTED]",
       "makerTitle": "Product Manager @NitroStack",
       "featuredAt": "2026-10-17T07:01:00Z",
       "votes": 300,
@@ -22815,10 +22874,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "Studio showing why the model picked a certain tool is the part I’d use mostt Wrong tool calls with only logs to go on is painful. Can I replay a failed call there with edited inputs?"
-        },
-        {
-          "user": "[REDACTED]",
           "text": "I have been building mcp apps using nitrostack for the last couple of months and i say it’s opinionated for all the right reasons"
         },
         {
@@ -22828,6 +22883,10 @@
         {
           "user": "[REDACTED]",
           "text": "Congrats Abhishek and the NitroStack team on the launch. Going from a decorated Zod tool to a deployed server on NitroCloud in one flow is the part that would save me the most glue code. To answer your question, what I still stitch together myself is per-user OAuth when a tool calls a downstream API like Google or Salesforce on behalf of the end user. Do the SDK auth modules store and refresh those tokens per user, or is that still on me?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I built an mcp with nitrostack and it was a seamless experience. Good good job team."
         }
       ]
     },
@@ -24478,6 +24537,69 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nFreebuff یک ابزار کدگذاری رایگان است که به توسعه‌دهندگان اجازه می‌دهد تا برنامه‌های خود را با استفاده از مدل‌های منبع باز، بسازند. این ابزار به توسعه‌دهندگان کمک می‌کند تا برنامه‌های خود را با سرعت و کارایی بیشتر، توسعه دهند.\n🔹 معماری و تکنولوژی احتمالی:\nFreebuff از تکنولوژی‌های مدرن مانند Next.js و PostgreSQL استفاده می‌کند. این ابزار به توسعه‌دهندگان اجازه می‌دهد تا برنامه‌های خود را با استفاده از مدل‌های منبع باز، بسازند.\n🔹 مدل درآمدی:\nFreebuff از طریق تبلیغات و پشتیبانی از توسعه‌دهندگان، درآمد خود را تامین می‌کند. این مدل درآمدی به توسعه‌دهندگان کمک می‌کند تا هزینه‌های خود را کاهش دهند.\n🔹 نقاط قوت:\n- ارائه مدل‌های منبع باز با کیفیت بالا\n- رابط کاربری آسان و کارآمد\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای کدگذاری پولی\n- محدودیت‌های اقتصادی\n🔹 نکته طلایی برای بازار ایران:\nFreebuff می‌تواند به توسعه‌دهندگان ایرانی کمک کند تا برنامه‌های خود را با سرعت و کارایی بیشتر، توسعه دهند. همچنین، با توجه به محدودیت‌های اقتصادی، Freebuff می‌تواند به توسعه‌دهندگان کمک کند تا هزینه‌های خود را کاهش دهند."
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-19",
+      "rank": 1,
+      "name": "Beam.win",
+      "slug": "beam-win",
+      "tagline": "Run AI agents on one Mac and use its windows on another",
+      "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format",
+        "https://ph-files.imgix.net/66584171-b146-45e3-b4cb-5eed357cc35e.png?auto=format",
+        "https://ph-files.imgix.net/58d79bbb-c21c-4d3b-a688-f2e83b888f0f.png?auto=format",
+        "https://ph-files.imgix.net/dc9d677b-3c5f-4eee-a76c-03df642f428d.png?auto=format",
+        "https://ph-files.imgix.net/c4046de5-0cf9-4a39-9cfb-5d3b59079786.png?auto=format",
+        "https://ph-files.imgix.net/1edd4c36-3045-4601-b37a-5f539fe0a777.png?auto=format",
+        "https://ph-files.imgix.net/19a12456-0900-4c9c-82fc-52f5ba11dafc.png?auto=format",
+        "https://ph-files.imgix.net/2b5e5c84-b0bf-4242-88c8-d813a1fc49ba.png?auto=format",
+        "https://ph-files.imgix.net/96256e62-1312-4179-aaf1-4fb5cfc51d64.jpeg?auto=format"
+      ],
+      "maker": "Hiten Shah",
+      "makerTitle": "CEO of Crazy Egg (est. 2005)",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 287,
+      "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Hiten here.My setup has gotten a little weird. I've got Macs running agents and local models, with work continuing even when nobody's sitting in front of them.Sometimes I just want to check a Terminal, open a browser, or use an app on one of those machines. Getting there usually means opening Screen Sharing and navigating a whole second desktop.Sam and I have been working on Beam to make this easier.With Beam, you pick a window on another Mac and it opens alongside the apps on the Mac you're using. It gets its own Dock icon and a place in ⌘Tab. You can type into it and resize it like a normal window. You can also move files between Macs and hear the app's audio. The app itself keeps running on its original machine.When one window isn't enough, Beam lets you open an entire screen or the whole Mac.I'm especially excited about using Beam with headless Mac minis and Studios. They can keep running agents and other work while I use their apps from whichever Mac I'm sitting in front of.Beam works on Apple silicon Macs running Sonoma or later. You can connect over your local network or through Tailscale, with encrypted connections directly between Macs.It's available now and free to try for 20 minutes every day. Download it at Beam.win.A few weeks ago I asked people on X to show me their weird multi-Mac setups. The thread got over 100 replies, and I've loved seeing what everyone has built.One thing I've become fascinated by is the Mac nobody sits in front of.If you have one, what do you still need to open Screen Sharing for?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The product looks great, but the site (and the part site) have no security related content, no information on the company, people behind the project etc. Given the level of security this requires to operate, this is a no go for me, and I'm sure a lot of people."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great app but it won't run on an Intel Mac - bummer. This would have been a great app to breathe life into an old Intel Mac Pro."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As one of the early adopters of Beam, I really like the ability to bring in a single app/window from other machines on my local network to get things done. It works really well and keeps distractions to a minimum. Congrats @hnshah and team on the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally i can build my side projects while i’m at work haha Maybe this is a dumb que but does this work with multiple MacBook Pros?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’ve been using this to access my mac minis from my MacBook on and off network for the last 2 months.Was skeptical, and then it became my daily driver over Apple’s native screen share.Feels more responsive, higher resolution, reliable and extremely easier to back in and out of.So much potential to eliminate the barrier felt moving between devices on one screen. Killer job guys"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I beta tested this thing for nearly a month. Incredibly useful and should be an instant purchase for anyone managing 2 or more Macs"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Automatic size adjustment is very convenient.Great product - congratulations on the launch!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-07",
       "rank": 4,
@@ -25415,65 +25537,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-18",
-      "rank": 1,
-      "name": "Inbox Zero",
-      "slug": "inbox-zero-7",
-      "tagline": "Open-source Superhuman alternative",
-      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
-      "category": "Email • Open Source • Artificial Intelligence • GitHub",
-      "categoryFa": "ایمیل • متن‌باز • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format",
-        "https://ph-files.imgix.net/42cca38c-6e50-45cb-a864-3d5d4f83e6e7.png?auto=format",
-        "https://ph-files.imgix.net/f5c730d7-e5f4-4eb9-8435-6598b9231421.png?auto=format",
-        "https://ph-files.imgix.net/0747ee4b-263b-49eb-87d2-9835120e04fc.png?auto=format",
-        "https://ph-files.imgix.net/7432efeb-b9f9-4230-b4b2-802ad2776848.png?auto=format",
-        "https://ph-files.imgix.net/1cd71ac6-6ae5-4f15-8ba3-c8ec384fb023.png?auto=format",
-        "https://ph-files.imgix.net/3df0ee8d-a62e-4940-b144-1157577b7d44.png?auto=format",
-        "https://ph-files.imgix.net/235e0f08-1ec8-4417-95de-fc1184ab47bf.png?auto=format",
-        "https://ph-files.imgix.net/dd46b7ec-459c-4d9d-9d61-033f4cbbfb5a.png?auto=format"
-      ],
-      "maker": "Elie Steinbock",
-      "makerTitle": "Building Inbox Zero AI",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 279,
-      "websiteUrl": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Hunters 👋I’m excited to launch Inbox Zero Mail, an open-source Superhuman alternative.I’ve been running Inbox Zero for 3 years. It started as an AI assistant for Gmail and Outlook, and grew to 12k GitHub stars and 25k+ sign-ups, including Enterprise customers.Now we’ve built our own email client.It’s open source, so you can self-host it or build the feature you’ve always wanted.⚡ Fast and keyboard-first📥 All your Gmail and Outlook accounts in one inbox🗂️ Split inbox✍️ AI drafts in your voice🧹 Bulk unsubscribe💬 Team comments📱 Web, Mac, Windows and iPhoneFree to use. AI is $20/month.🎁 Code PRODUCTHUNT26 gets 50% off AI for 3 months.🧹 Try it today: https://www.getinboxzero.com⭐️ Give us a star on GitHub: https://www.getinboxzero.com/githubWhat would you most like to see added to an open-source email app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch Elie! Well done 👏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yo this is awesome Elie and team!! Keep it up 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I get brand deal emails in English and Spanish on the same Gmail account. Does the drafting in my voice keep the language of each thread, or does it lean towards English?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi team, what's the major difference between this product and grok bot/muse connected to all my email inbox. They do that pretty well for me today."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Elie on launching Inbox Zero Mail. Going from an AI layer on top of Gmail to your own open-source client is a big step, and self-hosting makes it an option for teams that can't hand their mail to another vendor. When the AI drafts a reply in my voice, does it learn from each account's sent mail separately, or one shared style across every inbox I connect? I write very differently from my work and personal addresses."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Looks awesome"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -33076,6 +33139,73 @@
       }
     },
     {
+      "id": "ph-yesterday-2",
+      "date": "2026-10-18",
+      "rank": 2,
+      "name": "MyLens",
+      "slug": "mylens-23606f5c-c212-4382-854f-b920d35917a7",
+      "tagline": "1-1 Live Presentations at Scale with AI.",
+      "description": "MyLens is AI for live 1-1 presentations at scale. You add your raw sources, say what matters, and invite your audience. MyLens AI gives every person a live, private presentation, answers their questions using your sources, and create new slides and layers in real time during the presentation. Then the AI tells you how each session went, so you can see who’s doing well, who’s stuck, and what to do next.",
+      "category": "Productivity • Education • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • آموزش • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d4955924-1a85-494c-b2a6-29398e28c916.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/552d436f-cf8f-443d-b96a-4f974503af58.jpeg?auto=format",
+        "https://ph-files.imgix.net/10795ad5-1ad1-45d2-b090-aefb83e41d7b.gif?auto=format",
+        "https://ph-files.imgix.net/7c94c94e-354d-41e7-ae7c-6e6aa090897c.gif?auto=format",
+        "https://ph-files.imgix.net/dde43381-d810-4339-8b13-dcf7b2ea7cf8.gif?auto=format",
+        "https://ph-files.imgix.net/0d04e4cc-5ad6-4991-a9ff-0de30b989069.gif?auto=format",
+        "https://ph-files.imgix.net/73073b73-14f0-42ce-a244-5bfb2b115de4.gif?auto=format",
+        "https://ph-files.imgix.net/8b03e704-9229-4655-bf5a-6a2522f88ece.gif?auto=format",
+        "https://ph-files.imgix.net/8d2cddc1-3eb1-4119-adee-25f6f2bf4911.gif?auto=format",
+        "https://ph-files.imgix.net/6f37322c-b8fe-4059-8aae-b33a60abd087.gif?auto=format",
+        "https://ph-files.imgix.net/073e13fa-34cd-428d-b96f-e10796703700.gif?auto=format",
+        "https://ph-files.imgix.net/17702e15-70e6-4126-8a56-d3cc0f610bc9.gif?auto=format",
+        "https://ph-files.imgix.net/d449bacd-9157-4bba-8fe1-885ad43d39b8.png?auto=format",
+        "https://ph-files.imgix.net/75545047-0580-42ae-8b2d-75b5c3d60e00.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 215,
+      "websiteUrl": "https://www.producthunt.com/r/RES6VMKW3LGAIK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋I'm Ardalan, co-founder of MyLens. Today, we're excited to introduce a new way to deliver personalized presentations at scale with AI.We built MyLens around a question about AI and humans:AI can write for us, code for us, and do a thousand other things. But some things will always stay human. But AI can't eat for us. It can't sleep for us. And it can't understand something for us.Understanding happens in our own heads, at our own pace, through our own questions.Think about the best teacher, mentor, or even salesperson you've ever met. They didn't just give you information. They sat with you, walked you through it, listened to your questions, noticed when you were confused, and found a different way to explain things until they clicked.That personal attention is so powerful. But it's almost impossible to scale.So we thought: What if you could give 10, 100, or even 10,000 people that same personal experience, without repeating yourself a thousand times?So we built MyLens: AI for live, one-on-one presentations at scale.Instead of creating a deck and presenting it over and over, you can delegate the entire experience to an AI that knows your content, follows your instructions, and adapts to every audience in real time.Here's how MyLens works:✦ 1. Prepare: Start with your raw materials. MyLens turns them into a complete presentation with beautiful visual slides in seconds. No need to build a deck yourself, unless you want to bring your own.◈ 2. Teach AI: Give MyLens the knowledge and instructions behind your presentation. Who is the audience? What's the goal? What should it emphasize or avoid? How should it respond to questions? You decide how AI represents you and your knowledge.✉ 3. Invite: Invite your audience. Each person receives a private invitation link to their own one-on-one session.▣ 4. Present: Your audience joins with an access code, and MyLens AI takes over. It presents live, answers questions based on your sources and instructions, and even creates new slides and visual layers on the spot whenever needed. No two sessions have to be the same.↗ 5. Review & Improve: Once the sessions are done, you can review each one individually. See who understood, who struggled, and what questions came up. MyLens recommends personalized follow-ups and identifies opportunities to improve the next presentation sessions.The result? No time spent making decks, no repetitive meetings, and a premium, personalized experience unlike anything your audience has had before, whether you're presenting to one person or a thousand.We believe the future of presentations isn't about making better slides. It's about giving every person the attention they deserve. That's the future we're building with MyLens.We'd love for you to try it, challenge it, and tell us what you think!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Walking a buyer through a proposal is where I'd use this, and the risk there is a confident wrong answer on price or scope. Does each answer show which source passage it came from, and does the session review flag answers the AI gave that weren't backed by your sources? That would let me correct a buyer before they act on it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch, MyLens Team!I have a question. How does it create personalized presentations for each audience member in real time?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi just wanna share some thoughts here: if presentation is for sales, I still think chatting with real person is the most important. if just for material before the meeting so that Customers can understand, you don't need to make the presentations live, right? also if it is for demo, I like to see the operation on Saas directly, not presentation. sorry for straightforward, but that's my candid feedback"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Ardalan and Amin on the fourth MyLens launch. Having the AI build a new slide on the spot when someone asks something the deck doesn't cover is the part I'd test first. When it does that with numbers or claims, does the slide show which of my sources each point came from? In a sales or investor walkthrough, the viewer will want to check where a figure came from before trusting it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Pitching inside a live call always meant losing half the room the moment the deck stopped matching the questions, so slides that build themselves mid session from my own sources is the part I want to see."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The combination of AI generated slides and personalized conversations is really interesting."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "is there a way to review common questions across multiple sessions and improve future presentations?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-09-08",
       "rank": 5,
@@ -36941,6 +37071,67 @@
     },
     {
       "id": "ph-yesterday-3",
+      "date": "2026-10-18",
+      "rank": 3,
+      "name": "shim-cli",
+      "slug": "shim-cli",
+      "tagline": "See what your coding agent sends. Mask what you can.",
+      "description": "An open-source hook and local proxy for Claude Code, Codex, Copilot CLI and VS Code. In Claude Code it masks secrets and personal data in tool results before the model reads them, and shim watch shows what a session sent and cost. No account, no telemetry.",
+      "category": "Open Source • Privacy • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • حریم خصوصی • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b8683c25-445b-44e0-aef2-599c509a7880.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b466991a-54d6-4bf2-896d-e6f22eaf00fa.png?auto=format",
+        "https://ph-files.imgix.net/8db2ac61-1919-4780-b24a-3996a71ebd7d.png?auto=format",
+        "https://ph-files.imgix.net/797d2d96-9e65-43c9-ac07-dd6dde88be20.png?auto=format",
+        "https://ph-files.imgix.net/c40f51c3-017a-4b6f-8395-b634650e3456.png?auto=format",
+        "https://ph-files.imgix.net/5f7a5f43-8ec2-4dbb-bf52-b7ddcf9572c4.png?auto=format",
+        "https://ph-files.imgix.net/3c70ca1c-ddae-432e-b387-1d68a01f2f0e.png?auto=format",
+        "https://ph-files.imgix.net/5751d6a2-9457-490a-ba8c-5efdba1d8bbe.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 191,
+      "websiteUrl": "https://www.producthunt.com/r/2E657WIGYUKWTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Mertcan, one of the makers of shim-cli.We built it because we wanted to see what our own coding agents send to the model. A request carries a lot more than your prompt: the system prompt and the tools array, plus every file the agent read along the way. When the agent opens a .env, the keys in it go to the model too, and nothing in the session tells you.shim-cli sits next to the agent you already use and runs on your machine:• shim install claude adds hooks to Claude Code. When a tool result holds an API key, a password, an email, an IBAN, a phone number or a Turkish ID number, the model gets a placeholder like <SECRET_1> instead.• shim watch -- claude runs one session through a local proxy and prints where the input tokens went, what the session cost (or would cost on an API key), and which sensitive values were in the request and the response. It forwards every byte unchanged.There's no account and no telemetry, and the hook adds no network destination. Codex, GitHub Copilot CLI and VS Code are supported too, with less coverage.What it cannot do, so you know before you install:• A prompt you type into Claude Code or Codex is not masked, because neither client lets a hook rewrite it. shim reports it, or stops it under enforce. Copilot CLI does get the masked prompt.• In Claude Code, shell commands, the output of a failed command and files attached with @ are reported, not masked.• Codex and Copilot CLI tool traffic is not inspected, and VS Code only reports.• Detection is best effort and misses some values. It is not a DLP boundary.• macOS and Linux only. Windows is first on our list.Try it in a minute:uv tool install --python 3.12 shimshim demo claudeshim install claudeIt's Apache-2.0 on GitHub. The feedback we want most: what shim missed in your own sessions, and which client we should go deeper on next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Not seen it mentioned yet, but it feels like this is also useful for observability and avoiding leaking secrets when pushing logs to things like Grafana or SigNoz."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@mertcansaglam masking in the tool result before the model reads it is a clean place to hook in. For detection, is it regex patterns per secret type or an entropy check too? Curious how it treats git SHAs and base64 blobs that look a lot like keys."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "masking what agents send is a real need for teams 🔒 usefull for compliance too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Haha no more \"oops I saw your secret keys, please change them \""
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The honest limits list is the reason I'd trust this. One question for teams: can enforce mode and the masking rules live in a config file committed to the repo, so every developer's Claude Code picks up the same policy, or is it set per machine? That's what would decide whether a security lead can roll it out to a whole team."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "saw the 70ms median hook cost for the interpreter start. are you intercepting the tool execution locally before the api call or just proxying the whole network request for claude?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is it a router between me and the provider? Does it make it slower"
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-3",
       "date": "2026-10-11",
       "rank": 3,
       "name": "Automations in Perplexity Computer",
@@ -40581,73 +40772,6 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-18",
-      "rank": 2,
-      "name": "MyLens",
-      "slug": "mylens-23606f5c-c212-4382-854f-b920d35917a7",
-      "tagline": "1-1 Live Presentations at Scale with AI.",
-      "description": "MyLens is AI for live 1-1 presentations at scale. You add your raw sources, say what matters, and invite your audience. MyLens AI gives every person a live, private presentation, answers their questions using your sources, and create new slides and layers in real time during the presentation. Then the AI tells you how each session went, so you can see who’s doing well, who’s stuck, and what to do next.",
-      "category": "Productivity • Education • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • آموزش • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d4955924-1a85-494c-b2a6-29398e28c916.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/552d436f-cf8f-443d-b96a-4f974503af58.jpeg?auto=format",
-        "https://ph-files.imgix.net/10795ad5-1ad1-45d2-b090-aefb83e41d7b.gif?auto=format",
-        "https://ph-files.imgix.net/7c94c94e-354d-41e7-ae7c-6e6aa090897c.gif?auto=format",
-        "https://ph-files.imgix.net/dde43381-d810-4339-8b13-dcf7b2ea7cf8.gif?auto=format",
-        "https://ph-files.imgix.net/0d04e4cc-5ad6-4991-a9ff-0de30b989069.gif?auto=format",
-        "https://ph-files.imgix.net/73073b73-14f0-42ce-a244-5bfb2b115de4.gif?auto=format",
-        "https://ph-files.imgix.net/8b03e704-9229-4655-bf5a-6a2522f88ece.gif?auto=format",
-        "https://ph-files.imgix.net/8d2cddc1-3eb1-4119-adee-25f6f2bf4911.gif?auto=format",
-        "https://ph-files.imgix.net/6f37322c-b8fe-4059-8aae-b33a60abd087.gif?auto=format",
-        "https://ph-files.imgix.net/073e13fa-34cd-428d-b96f-e10796703700.gif?auto=format",
-        "https://ph-files.imgix.net/17702e15-70e6-4126-8a56-d3cc0f610bc9.gif?auto=format",
-        "https://ph-files.imgix.net/d449bacd-9157-4bba-8fe1-885ad43d39b8.png?auto=format",
-        "https://ph-files.imgix.net/75545047-0580-42ae-8b2d-75b5c3d60e00.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 170,
-      "websiteUrl": "https://www.producthunt.com/r/RES6VMKW3LGAIK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋I'm Ardalan, co-founder of MyLens. Today, we're excited to introduce a new way to deliver personalized presentations at scale with AI.We built MyLens around a question about AI and humans:AI can write for us, code for us, and do a thousand other things. But some things will always stay human. But AI can't eat for us. It can't sleep for us. And it can't understand something for us.Understanding happens in our own heads, at our own pace, through our own questions.Think about the best teacher, mentor, or even salesperson you've ever met. They didn't just give you information. They sat with you, walked you through it, listened to your questions, noticed when you were confused, and found a different way to explain things until they clicked.That personal attention is so powerful. But it's almost impossible to scale.So we thought: What if you could give 10, 100, or even 10,000 people that same personal experience, without repeating yourself a thousand times?So we built MyLens: AI for live, one-on-one presentations at scale.Instead of creating a deck and presenting it over and over, you can delegate the entire experience to an AI that knows your content, follows your instructions, and adapts to every audience in real time.Here's how MyLens works:✦ 1. Prepare: Start with your raw materials. MyLens turns them into a complete presentation with beautiful visual slides in seconds. No need to build a deck yourself, unless you want to bring your own.◈ 2. Teach AI: Give MyLens the knowledge and instructions behind your presentation. Who is the audience? What's the goal? What should it emphasize or avoid? How should it respond to questions? You decide how AI represents you and your knowledge.✉ 3. Invite: Invite your audience. Each person receives a private invitation link to their own one-on-one session.▣ 4. Present: Your audience joins with an access code, and MyLens AI takes over. It presents live, answers questions based on your sources and instructions, and even creates new slides and visual layers on the spot whenever needed. No two sessions have to be the same.↗ 5. Review & Improve: Once the sessions are done, you can review each one individually. See who understood, who struggled, and what questions came up. MyLens recommends personalized follow-ups and identifies opportunities to improve the next presentation sessions.The result? No time spent making decks, no repetitive meetings, and a premium, personalized experience unlike anything your audience has had before, whether you're presenting to one person or a thousand.We believe the future of presentations isn't about making better slides. It's about giving every person the attention they deserve. That's the future we're building with MyLens.We'd love for you to try it, challenge it, and tell us what you think!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch, MyLens Team!I have a question. How does it create personalized presentations for each audience member in real time?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I make AI tutorials on YouTube and dub them into English, Portuguese and Arabic, so answering each person's questions from my own sources caught my eye. Can one presentation answer in each viewer's language, or do you set up one per language?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi just wanna share some thoughts here: if presentation is for sales, I still think chatting with real person is the most important. if just for material before the meeting so that Customers can understand, you don't need to make the presentations live, right? also if it is for demo, I like to see the operation on Saas directly, not presentation. sorry for straightforward, but that's my candid feedback"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Ardalan and Amin on the fourth MyLens launch. Having the AI build a new slide on the spot when someone asks something the deck doesn't cover is the part I'd test first. When it does that with numbers or claims, does the slide show which of my sources each point came from? In a sales or investor walkthrough, the viewer will want to check where a figure came from before trusting it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Pitching inside a live call always meant losing half the room the moment the deck stopped matching the questions, so slides that build themselves mid session from my own sources is the part I want to see."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The combination of AI generated slides and personalized conversations is really interesting."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "is there a way to review common questions across multiple sessions and improve future presentations?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-8",
       "date": "2026-10-07",
       "rank": 8,
@@ -41386,6 +41510,69 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-19",
+      "rank": 2,
+      "name": "readywhen",
+      "slug": "readywhen-2",
+      "tagline": "The senior personal assistant that works inside WhatsApp",
+      "description": "readywhen is the senior Personal Assistant that works inside WhatsApp. It has its own phone number, its own computer, and a project board that keeps track of everything on your plate. Call it. Message it. Voice-note it. And it gets real work done.",
+      "category": "Productivity • Messaging • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • پیام‌رسان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/994370f1-341c-4d6d-94fb-b3c2687359e7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4610e31e-dc91-47b0-a004-5f64751aa1c8.jpeg?auto=format",
+        "https://ph-files.imgix.net/57cf72f9-9203-46e9-af84-2584113f8146.png?auto=format",
+        "https://ph-files.imgix.net/10230202-56c2-4eb6-852d-3e660ac8eeca.png?auto=format",
+        "https://ph-files.imgix.net/57538db5-b516-479a-80d2-e0d769cb8389.png?auto=format",
+        "https://ph-files.imgix.net/a530b2ea-8503-4a1d-920d-5d4d5e687b06.png?auto=format",
+        "https://ph-files.imgix.net/8c41c56d-350c-4e3b-870e-4cced901ca6b.png?auto=format",
+        "https://ph-files.imgix.net/da191cde-272e-4cbc-b8ba-bd5015b063e9.png?auto=format",
+        "https://ph-files.imgix.net/7796f14b-ccda-47a5-ba10-e7bd3a15f744.png?auto=format",
+        "https://ph-files.imgix.net/c3397590-9478-41a6-a27c-5e37038999f8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 167,
+      "websiteUrl": "https://www.producthunt.com/r/OLPNM6HLKRJKDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋 I’m Sançar, co-founder of readywhen.If you're a founder, you probably feel like if you stop, everything stops.Most founders don’t run their day from a desk. They run it from the car, the school gate, the walk between meetings. That’s where the promises get made. A quote on a call. A “leave it with me” at the door. A reply you’ll send “when I’m back”. By the time you’re back, half of them have slipped, and the rest are still in your head at 11pm.You started your business because you’re brilliant at something, not to chase follow-ups from memory. So we put readywhen where you already are.readywhen is the senior personal assistant for owner-led businesses, and today it’s on WhatsApp. It has its own phone number, its own computer, and a project board that keeps track of everything on your plate. Call it. Message it. Voice-note it. And it gets real work done.A few things to send it today:💬 “Find three options for our team offsite and pencil the best one into my calendar”💬 “Turn these notes into a client proposal and have it ready for me to check”💬 “What am I subscribed to, and what can I cancel?”💬 “Go through my inbox and tell me what actually needs me today”It works with the tools you already use (1000+ of them), and nothing sends without your OK.It’s free during the limited beta: Join the WhatsApp betaThe team and I are here all day. Tell us the first thing you’d hand readywhen, what’s missing, and what you’d want it to do next. I’ll read every comment.See you on WhatsApp 👋SançarCo-founder, readywhen"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the octopus but the logo feels more like a ghost 👻"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Regarding activities such as booking, payment, and sending e-mails on my behalf, is it possible to have some guidelines where I need to be approved of first by readywhen?Btw, Congratulations @huw_slater , @meandering_sancar and @abhishek_nellikkalaya 🎊✌️Keep Hunt Cool Product's @thisiskp_ 🚀⭐"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on launch day! Now that readywhen lives in WhatsApp, will it also catch the promises owners make to customers in their own WhatsApp chats, or is it only the place to talk to it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It's interesting that you say this is built for founders. I feel like this app was built for one-person agencies and freelancers.I'm juggling multiple clients right now and they all have one thing in common: they all live on whatsapp. They don't email. They don't want to join a Slack workspace. They have their phone and whatsapp and fire off requests, questions, documents, voice notes, and video. Whatsapp wasn't built to be a project management tool but that's what it's become."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH fam 👋 The best AI assistant is the one you don't have to remember to open. readywhen lives on WhatsApp, so you just text, call or voice-note it between meetings and it drafts proposals, triages your inbox, audits subscriptions and books things on your calendar, with nothing going out without your OK. Free during the beta, and Sancar and the team are here all day 🙌Would love for you to check it out and share feedback here with the team."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good luck with the launch! Good move on Whatsapp."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Communicating with an agent via a messaging app is very convenient (I already use something similar, so I know what I’m talking about).It’s a great idea, but there are already many others like it. What sets you apart from your competitors (what, in your view, is the most important difference)?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-11",
       "rank": 5,
@@ -41869,6 +42056,42 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-10-19",
+      "rank": 3,
+      "name": "Figma Specs",
+      "slug": "figma-specs",
+      "tagline": "A container for your context that lives on the Figma canvas",
+      "description": "Figma Specs is a collaborative Markdown document that can live on its own or beside your designs. Embed Figma frames and FigJam diagrams, work through comments with teammates and agents, and pass the full context to coding agents through MCP.",
+      "category": "Design Tools • Productivity • Design",
+      "categoryFa": "ابزار طراحی • بهره‌وری • طراحی",
+      "url": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7fa45e18-f15f-4058-888d-facc13e9f80b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/8f32dea8-6e25-4029-8312-53cd5f106d44.jpeg?auto=format",
+        "https://ph-files.imgix.net/7edfa808-569c-4909-bdd7-22be0ecb0c09.png?auto=format",
+        "https://ph-files.imgix.net/f2ecc7fc-b9a3-49e3-8ced-5afcc0fb28db.png?auto=format",
+        "https://ph-files.imgix.net/0ec0e379-bd37-4221-903b-f4a0db218c28.png?auto=format",
+        "https://ph-files.imgix.net/b8032a47-32fc-42ba-9f4c-02bbbe1b8b86.png?auto=format",
+        "https://ph-files.imgix.net/04989c26-b905-4889-abd9-cb0b9e7ef707.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 164,
+      "websiteUrl": "https://www.producthunt.com/r/H3ROFCAUEHWD3V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone!Figma actually used Specs to build Specs. One of its engineers documented edge cases, embedded FigJam diagrams, and handed the spec and his teammates' comments to a coding agent. As development progressed, he used MCP to keep the original doc updated.Now you can drop a .md file onto the Figma canvas, embed actual frames or FigJam diagrams, and pull them back out to edit. Teammates and Figma's agent can work through comments together. Send the spec link to Codex via Figma MCP, and it gets the Markdown and the linked design context.Of course Figma found a way to make .md files draggable!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the idea of having the context live right on the Figma canvas. It feels like a simple solution to a problem teams deal with all the time. Great launch!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -44190,6 +44413,46 @@
       }
     },
     {
+      "id": "ph-yesterday-4",
+      "date": "2026-10-18",
+      "rank": 4,
+      "name": "Tower 18 for Mac",
+      "slug": "tower-18-for-mac",
+      "tagline": "The most powerful Git client with a better CLI experience",
+      "description": "Tower 18 for Mac is here! This update is all about improving the Tower experience in the terminal: the Tower Command Line Tool can now take you straight to any view in Tower (History, Blame, the Working Copy, Branches Review, and more) with a single command.",
+      "category": "Mac • Developer Tools",
+      "categoryFa": "مک • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f9d4dca7-0cd1-4727-9193-00c63b4de9a0.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/8fab1bb9-fef1-4f66-bace-5420d0f0fda8.png?auto=format",
+        "https://ph-files.imgix.net/eedf2448-34a1-4b42-b9a1-ced5bb57b604.png?auto=format",
+        "https://ph-files.imgix.net/4663d0a4-25e0-4a20-a5d4-6ea17ecc9fad.png?auto=format",
+        "https://ph-files.imgix.net/fb3ac28b-50bd-4226-986d-6e5d2080b811.png?auto=format",
+        "https://ph-files.imgix.net/50f8f71d-c9a2-4418-9a66-238ee8d970b9.png?auto=format",
+        "https://ph-files.imgix.net/1d58c683-09a7-41de-8943-015d435922ba.jpeg?auto=format"
+      ],
+      "maker": "Bruno Brito",
+      "makerTitle": "Online Marketer / Web Developer",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 156,
+      "websiteUrl": "https://www.producthunt.com/r/H54Y7ZW2KMIL66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Bruno and the Tower team on launch number 15. Jumping from the terminal straight into Working Copy to review what an agent just changed fixes the review step I tend to skip. Does the Agent Skill let the agent open Tower on its own when it finishes a task, or does it only teach the agent the commands so I still trigger the view myself?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Typing a blame in the terminal and then hunting the same line down in the GUI has always felt silly, so one command that jumps straight into the History or Blame view is a small thing I will use daily."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Thanks for hunting Tower 18, @fmerian!Hi everyone, I’m Bruno from the Tower team. This release is all about improving Tower’s Command Line Tool, so that you can jump from the terminal straight to the right view in Tower for any task. Here's a 5-minute video to quickly bring you up to speed: https://youtu.be/Zudae5Iyb0EWe’ve also put together an Agent Skill, so that your AI agent knows all the new commands at your disposal.In my day-to-day, two things stand out:Reviewing your agent’s work. When the agent finishes a task, it offers to open the Working Copy in Tower, so you can go through every changed file in a proper diff view before anything gets committed.Seeing what’s unique to a branch. The agent can record which branch its work started from, and Tower then shows the Fork Point in History. This is useful for pinpointing a branch's unique commits before merging.There are plenty of other commands, but these two have already changed how I work with agents.Would love to hear what you think! 😊"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-09-25",
       "rank": 5,
@@ -44857,67 +45120,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-18",
-      "rank": 3,
-      "name": "shim-cli",
-      "slug": "shim-cli",
-      "tagline": "See what your coding agent sends. Mask what you can.",
-      "description": "An open-source hook and local proxy for Claude Code, Codex, Copilot CLI and VS Code. In Claude Code it masks secrets and personal data in tool results before the model reads them, and shim watch shows what a session sent and cost. No account, no telemetry.",
-      "category": "Open Source • Privacy • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • حریم خصوصی • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b8683c25-445b-44e0-aef2-599c509a7880.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b466991a-54d6-4bf2-896d-e6f22eaf00fa.png?auto=format",
-        "https://ph-files.imgix.net/8db2ac61-1919-4780-b24a-3996a71ebd7d.png?auto=format",
-        "https://ph-files.imgix.net/797d2d96-9e65-43c9-ac07-dd6dde88be20.png?auto=format",
-        "https://ph-files.imgix.net/c40f51c3-017a-4b6f-8395-b634650e3456.png?auto=format",
-        "https://ph-files.imgix.net/5f7a5f43-8ec2-4dbb-bf52-b7ddcf9572c4.png?auto=format",
-        "https://ph-files.imgix.net/3c70ca1c-ddae-432e-b387-1d68a01f2f0e.png?auto=format",
-        "https://ph-files.imgix.net/5751d6a2-9457-490a-ba8c-5efdba1d8bbe.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 154,
-      "websiteUrl": "https://www.producthunt.com/r/2E657WIGYUKWTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Mertcan, one of the makers of shim-cli.We built it because we wanted to see what our own coding agents send to the model. A request carries a lot more than your prompt: the system prompt and the tools array, plus every file the agent read along the way. When the agent opens a .env, the keys in it go to the model too, and nothing in the session tells you.shim-cli sits next to the agent you already use and runs on your machine:• shim install claude adds hooks to Claude Code. When a tool result holds an API key, a password, an email, an IBAN, a phone number or a Turkish ID number, the model gets a placeholder like <SECRET_1> instead.• shim watch -- claude runs one session through a local proxy and prints where the input tokens went, what the session cost (or would cost on an API key), and which sensitive values were in the request and the response. It forwards every byte unchanged.There's no account and no telemetry, and the hook adds no network destination. Codex, GitHub Copilot CLI and VS Code are supported too, with less coverage.What it cannot do, so you know before you install:• A prompt you type into Claude Code or Codex is not masked, because neither client lets a hook rewrite it. shim reports it, or stops it under enforce. Copilot CLI does get the masked prompt.• In Claude Code, shell commands, the output of a failed command and files attached with @ are reported, not masked.• Codex and Copilot CLI tool traffic is not inspected, and VS Code only reports.• Detection is best effort and misses some values. It is not a DLP boundary.• macOS and Linux only. Windows is first on our list.Try it in a minute:uv tool install --python 3.12 shimshim demo claudeshim install claudeIt's Apache-2.0 on GitHub. The feedback we want most: what shim missed in your own sessions, and which client we should go deeper on next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I build everything with Claude Code without being a developer, so I honestly have no idea what goes out in each session. The shim watch cost view is what got me. Does it also make sense on a subscription plan, or is it mostly for people paying per API call?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "saw the 70ms median hook cost for the interpreter start. are you intercepting the tool execution locally before the api call or just proxying the whole network request for claude?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is it a router between me and the provider? Does it make it slower"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Mertcan and the shim team on the launch. Being upfront about what it can't mask, like typed prompts and failed command output, makes me trust the rest more. When a tool result gets <SECRET_1> instead of the key and the agent then writes that placeholder into a config file or a curl call, does shim swap the real value back on the way out, or does the agent just end up with a broken file?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great idea! Congrats on the launch! How does it handle an agent that writes a script that reads a .env file and prints it? Does the output of the script get masked too? Also if the script sends the secrets out, does that get caught too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Coding agents today are reading files, executing commands, and sending all of that information to a model on every step, and in most cases, not many people know what left the machine. This is a new channel of data collection in the development process, and it's barely studied right now.From my point of view, working at GTM at shim, it's a small niche, but a vital one. It should be a default layer in your stack, like secret scanning and network logging. It will not be a magic solution, but a minimum for every team to enable without creating an account or going through the procurement cycle."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Masking secrets in tool results before the model ever sees them solves the thing that always made me nervous about letting Claude Code run loose, and a local proxy with no telemetry is exactly how I want to audit it."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -49716,6 +49918,56 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
+      "id": "ph-yesterday-5",
+      "date": "2026-10-18",
+      "rank": 5,
+      "name": "MeetPaw",
+      "slug": "meetpaw",
+      "tagline": "Instant meetings from your mac menu bar ",
+      "description": "MeetPaw is a lightweight macOS menu-bar app that puts your meetings one click away. Spin up an instant Google Meet, Zoom, or Microsoft Teams link the moment you need it. The link is created, copied to your clipboard, and ready to share before you've switched windows. No tabs, no digging, no friction.",
+      "category": "Productivity • Meetings • GitHub • Menu Bar Apps",
+      "categoryFa": "بهره‌وری • Meetings • گیت‌هاب • Menu Bar Apps",
+      "url": "https://www.producthunt.com/products/meetpaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/29ae3820-0cf6-430e-ad7f-ec1e023f88d9.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/39b1d756-bd6f-42b2-85ea-2c1449de7dac.jpeg?auto=format",
+        "https://ph-files.imgix.net/00a19713-6ffe-4003-8ba9-ce9a4ef41479.png?auto=format",
+        "https://ph-files.imgix.net/9dc199b6-e08f-4fcc-8fa7-2220b2682b63.png?auto=format",
+        "https://ph-files.imgix.net/e759f42c-1d96-459c-968e-641beb6b30b8.png?auto=format"
+      ],
+      "maker": "Naz",
+      "makerTitle": "/ Building the next thing at @inagenai",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 137,
+      "websiteUrl": "https://www.producthunt.com/r/CLGB7TMIM44O62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey everyone, I'm Naz 👋I constantly spinning up quick meeting links, a Google Meet here, a Zoom there, and bouncing between apps and tabs just to grab a link and paste it somewhere was a genuine pain in the ass. All i need is just a meeting link i can paste in slack or email! Tiny thing, but it added up and annoyed me every single day.So I built the thing I actually wanted: a simple, barebones app that just lives in my Mac menu bar. One click and I've got an instant meeting link copied and ready to share. I can see my upcoming calendar meetings or schedule new ones right there too, without ever opening a browser or the app.Say hello to MeetPaw 🐾MeetPaw is a lightweight macOS menu-bar app that puts your meetings one click away. Spin up an instant Google Meet, Zoom, or Microsoft Teams link the moment you need it. It's 100% free, forever, and fully open source. MeetPaw runs entirely on your Mac, no sign-up, no subscription, and no newsletter. It works with Google Meet, Zoom and Microsoft Teams, and you can hook up to five accounts per provider.This is just the beginning. With some community support, I'd love to polish it up and get it onto the Mac App Store. Would genuinely love your feedback, what would make this a daily driver for you?Thanks for checking it out 🙏Naz."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can you set up a keyboard shortcut so you don’t have to open the menu at all?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Small but great idea & it's real implementation with open source code. Thanks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Quite an interesting one!! I struggle with this a lot."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Seems like a great product! Planning to use almost regularly 🌟 Brownie points for being open-source!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Naz on launching MeetPaw. Keeping it free, open source and local with no signup matters for a tool that needs access to my calendars and meeting accounts. If it does make it into the Mac App Store, will that version keep the same features as the open-source build, or could sandboxing limit things like connecting several accounts per provider?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-10-13",
       "rank": 8,
@@ -50138,6 +50390,108 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nCaveman یک ابزار قدرتمند است که با استفاده از یک پروکسی محلی، لاگ‌ها، خروجی ابزارها و فایل‌ها را قبل از هر تماس به ارائه‌دهنده فشرده می‌کند. این ابزار می‌تواند با استفاده از بارگیری متن به عنوان تصویر، هر مهارت موجود را با حدود ۵۰ درصد کمتر توکن‌ها اجرا کند.\n🔹 معماری و تکنولوژی احتمالی:\nCaveman بر اساس یک اکوسیستم منبع باز با بیش از ۷۵ هزار ستاره در گیت‌هاب ساخته شده است. این ابزار می‌تواند با استفاده از یک پروکسی محلی بین عامل و ارائه‌دهنده، خروجی ابزارها را فشرده کند و از این طریق هزینه‌های استفاده از هوش مصنوعی را کاهش دهد.\n🔹 مدل درآمدی:\nفروش ابزار به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره برای بهینه‌سازی استفاده از هوش مصنوعی.\n🔹 نقاط قوت:\n- کاهش هزینه‌های استفاده از هوش مصنوعی\n- افزایش کارایی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای مشابه\n- نیاز به ارتقای مداوم ابزار\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای ابزارهای کاهش هزینه هوش مصنوعی در ایران بسیار زیاد است و therefore، باید به طور مداوم در حال ارتقای ابزار و ارائه خدمات بهتر به مشتریان بود."
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-10-19",
+      "rank": 4,
+      "name": "Kai Resolve by Gleap",
+      "slug": "kai-resolve-by-gleap",
+      "tagline": "Support that does the digging for you.",
+      "description": "Kai Resolve is the AI agent for support tickets your docs can't answer. It reads the screen recording, logs, account data and your code, read-only, then answers the customer or escalates with a diagnosis. Confirmed bugs become coding tasks your team reviews.",
+      "category": "Customer Success • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Customer Success • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6b0e4b91-ccaf-45db-9079-e437add1f502.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b3180fde-762a-42cf-9566-75fec4454354.jpeg?auto=format",
+        "https://ph-files.imgix.net/ee22178f-708d-4b40-ba2d-b4fd3760f27d.png?auto=format",
+        "https://ph-files.imgix.net/304d21af-96ea-45ec-8da7-e3a3a1a26de2.png?auto=format",
+        "https://ph-files.imgix.net/f2703d88-b0b4-4813-bdab-e56999ae1d42.png?auto=format",
+        "https://ph-files.imgix.net/35ac0956-e5a3-4f7f-b6af-ad83753b7659.png?auto=format",
+        "https://ph-files.imgix.net/3445fede-4ab3-4145-96be-63cdda66e4b9.png?auto=format",
+        "https://ph-files.imgix.net/6760a96c-1840-4206-b9d5-afd46512e08d.png?auto=format",
+        "https://ph-files.imgix.net/578ceeaf-21c6-46c3-a7bb-1ca72ba8cd60.png?auto=format",
+        "https://ph-files.imgix.net/53bc9f98-68d8-4f9c-972a-af0db7efca6b.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 136,
+      "websiteUrl": "https://www.producthunt.com/r/XI7TL2X7GPY7ZR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Isabella, co-founder of Gleap. Our team builds AI-native customer support for fellow software teams, and today we're launching the newest member of our AI team: Kai Resolve.Why we built itKai Support already takes care of the easy cases, quickly and with a low token cost. But some tickets need more than a good answer: someone has to dig into the data to really help the customer. That's where Kai Resolve comes in. It looks into the ticket, finds bugs and hands them to your team with a much better handover. It also picks up the context of the conversation, and through MCP it can add feature requests that come up in a chat straight to your roadmap. So one agent sorts it all out: inquiries, feature requests and bugs.What Kai Resolve does🔍 looks at the screen recording, console and network logs and the click trail that came with the report🧑‍💻 checks account data and your code, read-only, in a sandbox, and points to the exact file and line✅ answers the customer, flags a likely bug for your team with the cause and the evidence, or adds the feature request to your roadmapBased on our Gleap data, Kai Resolve resolves 75% of all tickets automatically. And when it isn't sure, it says so and asks your team instead of guessing.Who it's forSoftware teams whose tricky tickets wait for a developer: support leads, developers on support duty, product managers and founders.PricingAbout $0.49 per investigation on average, billed for the work it does. Included from the Team plan, with a 7-day free trial and no credit card.🎁 Launch-day deal for the Product Hunt community: sign up today and get 50% off for one year with the code KaiResolve26.What we'd love from youTry it on a real ticket from your own queue and tell us where it got it right and where it didn't. Tough tasks are very welcome. Lukas will share more about the technical side right below, and the whole team is here all day to chat.A big thank you to Thomas Schranz for hunting us, and to all of you for stopping by 🙏See you in the comments below 👋"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "On the $0.49 per investigation, if one ticket has a few different issues in it, does that still count as one investigation or does each issue get billed separately? our customers usually dump everything into one message lol"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Isabella and the Gleap team. Having the agent read the session recording and logs before a ticket ever reaches a human is the step most support bots skip. On the 75% figure, how do you count a resolution when the customer simply stops replying, and does a likely-bug handoff to engineering count as resolved or as escalated?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Curious if multiple customers report the same bug in different ways, can Kai correlate those tickets to one investigation?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi all, Hussein here, I lead Customer Success at Gleap 👋What I keep hearing from second-level support teams: most of their day goes into tickets that just need digging. Checking logs, rewatching recordings, asking the customer for one more detail. The tricky, important cases end up waiting behind all of that.Kai Resolve turns that around. It does the digging and handles the routine investigations, so your second-level team can finally focus on the tickets that really need them: the complex bugs, the key accounts, the decisions only a person should make.Based on our Gleap data, Kai Resolve resolves 75% of all tickets automatically.If you'd like to see it on one of your own tickets, I'd be happy to set it up with you: https://cal.gleap.ai/hussein"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Reading the screen recording and the logs before answering is what makes this interesting, since most support tools just paraphrase the help center and call it AI."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Florian here, CTO at @Gleap .@isabella_salzmann covered the why, so here's the part I'm most excited about as an engineer: how Kai Resolve investigates.When a tricky ticket comes in, it works like a good developer would: → follows the click trail and watches the session replay → reads the console and network logs to see what actually failed → checks the account data for anything unusual → reads your code and points to the exact file and lineThe more it can see, the deeper it goes. Connect your monitoring or internal tools via MCP, and it can trace issues that never show up on the user's screen.Send it the bug your team has been avoiding for weeks, and tell me how it did. I'm here all day for any questions about how it works under the hood 🔍"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Tobi here, co-founder of Gleap.We’ve been building support tools for years, and one thing kept bugging me: the hardest part of support was never writing the reply. It was figuring out what actually went wrong. Teams spend hours jumping between logs, recordings and code just to understand one ticket, and the customer is left waiting the whole time.AI got really good at answering questions, but most “AI support” stops right there. We wanted something that does the part that actually hurts: the investigation.That’s Kai Resolve. It looks into every ticket like an experienced teammate would, answers what it can, and hands the rest to your team with the cause and the evidence ready. And the more context you give it (your docs, your code, your past tickets), the more it solves on its own.For me, this is the support tool I always wished we had.I’d love to hear from everyone running support: what’s the part of the digging that takes your team the longest? 🙌"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-5",
+      "date": "2026-10-19",
+      "rank": 5,
+      "name": "walkai-talkai",
+      "slug": "walkai-talkai",
+      "tagline": "Talk to your AI coding agent over a walkie-talkie",
+      "description": "Press PTT on any handheld radio and talk to your AI coding agent, hands-free. walkai-talkai transcribes your voice on your Mac with local Whisper, types the command into Cursor, Claude Code or Antigravity (or calls OpenAI, Anthropic, Gemini, DeepSeek or Ollama directly), then speaks the answer back over the radio with neural voice, VOX tones and a roger beep. Your radio audio never leaves your Mac. macOS 13+ on Apple Silicon. One-time lifetime license, no subscription.",
+      "category": "Developer Tools • Radio • Vibe coding",
+      "categoryFa": "ابزار توسعه‌دهندگان • Radio • Vibe coding",
+      "url": "https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3756332a-4bf9-4192-8173-8c508c1338ff.x-icon?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/cdd4b101-9a1c-47d6-bf6d-260b54b083bb.jpeg?auto=format",
+        "https://ph-files.imgix.net/0bd5dccd-232d-4f37-864d-2d89a5185928.png?auto=format",
+        "https://ph-files.imgix.net/850a53a0-541f-4c50-b7ec-eae482f5f9ab.png?auto=format",
+        "https://ph-files.imgix.net/a844f9b0-e842-4cd0-a228-c556a63d8ed8.png?auto=format",
+        "https://ph-files.imgix.net/18ef70a4-701f-4149-9413-e9bbb138c2d9.png?auto=format"
+      ],
+      "maker": "Sezer İltekin",
+      "makerTitle": "iOS Developer",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 136,
+      "websiteUrl": "https://www.producthunt.com/r/GI5UU6MDF6EM6J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! I'm Sezer, the maker of walkai-talkai. I wanted to talk to my AI coding agent without sitting at the keyboard, so I wired it to a handheld radio. Press PTT, say what you want (\"run the tests and fix any failures\"), and the agent gets it. When it's done, the answer comes back through the radio as a short spoken summary. How it works: • The radio connects to your Mac with a standard audio cable (K-plug or 3.5 mm); the radio's VOX handles transmit. • Speech is transcribed on your Mac with Whisper. Your radio audio is never uploaded. • The command is typed into Cursor, Claude Code or Antigravity, or sent straight to OpenAI, Anthropic, Gemini, DeepSeek or Ollama in API Mode. • The reply is spoken back with on-device neural voice, with VOX tones and a roger beep, in English or Turkish. Honest notes: it's macOS only (Apple Silicon, macOS 13+). Anything you transmit can be heard by others on that frequency, and someone on the channel could even speak commands to your agent, so have your agent ask for confirmation before irreversible actions. Radio licensing rules are your responsibility. It's a one-time lifetime license (no subscription) with a 14-day refund. I'd love to know: what would you say to your agent over the radio?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "instantly upvoted, over."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As a radio amateur, loved this! TA1FKA 73."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -53429,46 +53783,6 @@
       }
     },
     {
-      "id": "ph-today-4",
-      "date": "2026-10-18",
-      "rank": 4,
-      "name": "Tower 18 for Mac",
-      "slug": "tower-18-for-mac",
-      "tagline": "The most powerful Git client with a better CLI experience",
-      "description": "Tower 18 for Mac is here! This update is all about improving the Tower experience in the terminal: the Tower Command Line Tool can now take you straight to any view in Tower (History, Blame, the Working Copy, Branches Review, and more) with a single command.",
-      "category": "Mac • Developer Tools",
-      "categoryFa": "مک • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f9d4dca7-0cd1-4727-9193-00c63b4de9a0.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/8fab1bb9-fef1-4f66-bace-5420d0f0fda8.png?auto=format",
-        "https://ph-files.imgix.net/eedf2448-34a1-4b42-b9a1-ced5bb57b604.png?auto=format",
-        "https://ph-files.imgix.net/4663d0a4-25e0-4a20-a5d4-6ea17ecc9fad.png?auto=format",
-        "https://ph-files.imgix.net/fb3ac28b-50bd-4226-986d-6e5d2080b811.png?auto=format",
-        "https://ph-files.imgix.net/50f8f71d-c9a2-4418-9a66-238ee8d970b9.png?auto=format",
-        "https://ph-files.imgix.net/1d58c683-09a7-41de-8943-015d435922ba.jpeg?auto=format"
-      ],
-      "maker": "Bruno Brito",
-      "makerTitle": "Online Marketer / Web Developer",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 128,
-      "websiteUrl": "https://www.producthunt.com/r/H54Y7ZW2KMIL66?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Bruno and the Tower team on launch number 15. Jumping from the terminal straight into Working Copy to review what an agent just changed fixes the review step I tend to skip. Does the Agent Skill let the agent open Tower on its own when it finishes a task, or does it only teach the agent the commands so I still trigger the view myself?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Typing a blame in the terminal and then hunting the same line down in the GUI has always felt silly, so one command that jumps straight into the History or Blame view is a small thing I will use daily."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Thanks for hunting Tower 18, @fmerian!Hi everyone, I’m Bruno from the Tower team. This release is all about improving Tower’s Command Line Tool, so that you can jump from the terminal straight to the right view in Tower for any task. Here's a 5-minute video to quickly bring you up to speed: https://youtu.be/Zudae5Iyb0EWe’ve also put together an Agent Skill, so that your AI agent knows all the new commands at your disposal.In my day-to-day, two things stand out:Reviewing your agent’s work. When the agent finishes a task, it offers to open the Working Copy in Tower, so you can go through every changed file in a proper diff view before anything gets committed.Seeing what’s unique to a branch. The agent can record which branch its work started from, and Tower then shows the Fork Point in History. This is useful for pinpointing a branch's unique commits before merging.There are plenty of other commands, but these two have already changed how I work with agents.Would love to hear what you think! 😊"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-6",
       "date": "2026-09-13",
       "rank": 6,
@@ -54785,6 +55099,37 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-6",
+      "date": "2026-10-19",
+      "rank": 6,
+      "name": "Beam",
+      "slug": "beam-13",
+      "tagline": "Highly efficient agentic 501B parameter open model",
+      "description": "Beam is a sparse Mixture-of-Experts model with 501 billion total parameters, 23 billion active, built for coding, reasoning, and agentic workloads.",
+      "category": "Open Source • Artificial Intelligence",
+      "categoryFa": "متن‌باز • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/beam-13?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/1e757eb4-287f-4f68-961e-a36e5d13d39c.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/0dde17f8-c940-4c42-a87d-862a08a2b948.png?auto=format",
+        "https://ph-files.imgix.net/027eb478-3608-489e-a021-f1513707536f.png?auto=format",
+        "https://ph-files.imgix.net/6538581a-ce05-44f2-8e15-b01594b63f15.jpeg?auto=format",
+        "https://ph-files.imgix.net/2aded561-b3a5-4393-9e02-b0d538b017aa.jpeg?auto=format",
+        "https://ph-files.imgix.net/c5d4e791-3105-418a-a901-0f8205fb9956.jpeg?auto=format"
+      ],
+      "maker": "Michael",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 125,
+      "websiteUrl": "https://www.producthunt.com/r/EKSBMMH6A62RSY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Beam is focused on coding and agentic use cases. It is for teams that want a frontier-scale model on their own hardware, infrastructure, or cloud, and want to customize it to their own use cases. Beam ships with its own dedicated open source Rust based harness that delivers the best performance from the model.TL;DR501B-parameter MoEs LLM with 23B active per token. 52 layers, 256 experts per MoE layer, 8 routed per token.Text in, text out with context window of 1M tokens.Checkpoint formats: BF16, FP8, and NVFP4Reasoning that can stay in context across turns (`preserve_thinking`), tool calling with a dedicated grammar. The model supports five reasoning values: \"low\", \"medium\" (default), \"high\", \"xhigh\", and \"max\".Response template in the tokenizer.Speculative decoding drafter model with DFlash2Day-0 libraries: transformers, SGLang, vLLM. Full-parameter RL with Miles.Ships with an open source Rust-based custom harness.Apache 2.0."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -57043,52 +57388,6 @@
       }
     },
     {
-      "id": "ph-today-5",
-      "date": "2026-10-18",
-      "rank": 5,
-      "name": "MeetPaw",
-      "slug": "meetpaw",
-      "tagline": "Instant meetings from your mac menu bar ",
-      "description": "MeetPaw is a lightweight macOS menu-bar app that puts your meetings one click away. Spin up an instant Google Meet, Zoom, or Microsoft Teams link the moment you need it. The link is created, copied to your clipboard, and ready to share before you've switched windows. No tabs, no digging, no friction.",
-      "category": "Productivity • Meetings • GitHub • Menu Bar Apps",
-      "categoryFa": "بهره‌وری • Meetings • گیت‌هاب • Menu Bar Apps",
-      "url": "https://www.producthunt.com/products/meetpaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/29ae3820-0cf6-430e-ad7f-ec1e023f88d9.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/39b1d756-bd6f-42b2-85ea-2c1449de7dac.jpeg?auto=format",
-        "https://ph-files.imgix.net/00a19713-6ffe-4003-8ba9-ce9a4ef41479.png?auto=format",
-        "https://ph-files.imgix.net/9dc199b6-e08f-4fcc-8fa7-2220b2682b63.png?auto=format",
-        "https://ph-files.imgix.net/e759f42c-1d96-459c-968e-641beb6b30b8.png?auto=format"
-      ],
-      "maker": "Naz",
-      "makerTitle": "/ Building the next thing at @inagenai",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 121,
-      "websiteUrl": "https://www.producthunt.com/r/CLGB7TMIM44O62?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey everyone, I'm Naz 👋I constantly spinning up quick meeting links, a Google Meet here, a Zoom there, and bouncing between apps and tabs just to grab a link and paste it somewhere was a genuine pain in the ass. All i need is just a meeting link i can paste in slack or email! Tiny thing, but it added up and annoyed me every single day.So I built the thing I actually wanted: a simple, barebones app that just lives in my Mac menu bar. One click and I've got an instant meeting link copied and ready to share. I can see my upcoming calendar meetings or schedule new ones right there too, without ever opening a browser or the app.Say hello to MeetPaw 🐾MeetPaw is a lightweight macOS menu-bar app that puts your meetings one click away. Spin up an instant Google Meet, Zoom, or Microsoft Teams link the moment you need it. It's 100% free, forever, and fully open source. MeetPaw runs entirely on your Mac, no sign-up, no subscription, and no newsletter. It works with Google Meet, Zoom and Microsoft Teams, and you can hook up to five accounts per provider.This is just the beginning. With some community support, I'd love to polish it up and get it onto the Mac App Store. Would genuinely love your feedback, what would make this a daily driver for you?Thanks for checking it out 🙏Naz."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Quite an interesting one!! I struggle with this a lot."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Seems like a great product! Planning to use almost regularly 🌟 Brownie points for being open-source!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Naz on launching MeetPaw. Keeping it free, open source and local with no signup matters for a tool that needs access to my calendars and meeting accounts. If it does make it into the Mac App Store, will that version keep the same features as the open-source build, or could sandboxing limit things like connecting several accounts per provider?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A meeting link that is created and already copied before I have even switched windows is exactly the kind of small thing that saves a lot of clicks over a week. Hooking up to five accounts per provider is generous for a free app :) When I have several Google accounts connected, how does MeetPaw decide which one the instant link comes from?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-9",
       "date": "2026-10-16",
       "rank": 9,
@@ -57619,6 +57918,49 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-yesterday-6",
+      "date": "2026-10-18",
+      "rank": 6,
+      "name": "XBOX Nano Controller",
+      "slug": "xbox-nano-controller",
+      "tagline": "Pocket-sized wireless gamepad with all 18 inputs",
+      "description": "Take play to more places with the XBOX Nano Controller. Fit more play in your everyday in a smaller form factor. Connect via Bluetooth & play across devices.",
+      "category": "XBox • Hardware • Games",
+      "categoryFa": "XBox • Hardware • بازی",
+      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/974c452d-9eac-41d3-a9be-19dc60fd99aa.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/17820f30-5848-411a-9bac-c0ce513357f2.jpeg?auto=format",
+        "https://ph-files.imgix.net/dd2d249b-4462-42ac-9adb-7bfbfd7fbb00.jpeg?auto=format",
+        "https://ph-files.imgix.net/2e648212-4ab3-4dc3-9497-b58763bc20bb.jpeg?auto=format",
+        "https://ph-files.imgix.net/7a126af5-b031-4c67-9ab6-326f1896721c.jpeg?auto=format",
+        "https://ph-files.imgix.net/8d1fded7-fb45-46cd-9ecb-e16baa1f8045.jpeg?auto=format",
+        "https://ph-files.imgix.net/b419770f-8467-418e-a03d-f9b0f347a173.jpeg?auto=format",
+        "https://ph-files.imgix.net/bcc3993a-9c87-499c-976f-75caaa078def.jpeg?auto=format",
+        "https://ph-files.imgix.net/2bb63c90-6d5c-4790-a7c4-84471b00f97f.jpeg?auto=format",
+        "https://ph-files.imgix.net/f59f8450-5ccf-4331-b933-b20ad29c959c.jpeg?auto=format",
+        "https://ph-files.imgix.net/fa70ae80-d2bf-4a13-9963-0fac06c66e93.jpeg?auto=format",
+        "https://ph-files.imgix.net/caf74c57-f6b9-4a50-a475-e848c981d503.jpeg?auto=format",
+        "https://ph-files.imgix.net/ca153db7-2959-4b09-8c01-bb8d8eba1782.jpeg?auto=format",
+        "https://ph-files.imgix.net/8e741ad5-e9ad-484a-82b3-300f3852f86f.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 119,
+      "websiteUrl": "https://www.producthunt.com/r/EAREDKT5V2YY67?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone!Xbox has squeezed its full controller layout into something smaller than most phones. The Nano is just over 5 inches long, weighs 3.5 ounces, and still has all 18 standard gameplay inputs.It connects to Xbox consoles with Xbox Wireless, or to PCs, phones and compatible TVs over Bluetooth. There's a rechargeable battery and a programmable Action Button too.I can see this being handy for smaller hands, a second controller for local co-op, or just throwing in a bag for gaming on the go.It's $49.99, with pre-orders open now and shipping in November. Not exactly nano pricing with so many cheaper mini controllers around, but native Xbox Wireless support is a nice advantage!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The original 90s size controller I.e. thanks for sharing zac.."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -58479,6 +58821,66 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-7",
+      "date": "2026-10-19",
+      "rank": 7,
+      "name": "Wally by Willow",
+      "slug": "wally-by-willow",
+      "tagline": "Your Scribe agent that learns how you write",
+      "description": "Meet Wally, your new Scribe agent in Willow. Chat by voice to draft an email/slack/ prompt, rewrite highlighted text and keep refining it in the same conversation. Wally uses your personal context and learns your writing style as you go back and forth.",
+      "category": "Productivity • Writing • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نوشتن • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9db3cd83-fd2a-4c37-b55b-992ff7ad7414.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7edfd9e5-d305-47eb-9d37-36e776e670f1.jpeg?auto=format",
+        "https://ph-files.imgix.net/f2e648c5-0812-4511-9f96-c783ae1229b1.png?auto=format",
+        "https://ph-files.imgix.net/8ada5cce-e85c-4c1a-8c6a-1ed1c2fb9513.png?auto=format",
+        "https://ph-files.imgix.net/a018ce2c-0d32-4957-9557-44ccbd178a81.jpeg?auto=format",
+        "https://ph-files.imgix.net/0c4ac545-3069-4258-b439-cc6f4f65d2f4.png?auto=format",
+        "https://ph-files.imgix.net/6883e496-5e04-4252-a5bc-9a92b259a06b.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 117,
+      "websiteUrl": "https://www.producthunt.com/r/PACLUWIXF3XULE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Heyo Product Hunt. Excited to bring another launch from Willow today.2 weeks ago, we introduced Willow Knowledge, which learns from the memory you import from LLMs and writes like you.Today, we’re excited to introduce Wally, our new Scribe agent :)You can now chat with Wally by voice or text. Work through an idea, brain-dump your thoughts or tell it what you want to write. It keeps the conversation, so you can follow up and keep going till it gets it right.If you’re writing an email, tell Wally what you want to say. Once you have a draft, you can ask it to change the tone or add something you forgot. You can also highlight text in the app you are using and ask Wally to rewrite it, then paste the result back in.As you go back n forth, Wally learns how you write and what you prefer. It also remembers from the edits you make after pasting.Wally uses Knowledge too. If you’ve brought your writing preferences and personal context into Willow from ChatGPT, Claude, or another AI, Wally can use that information in your conversations. You can review and edit those details in Knowledge anytime.Wally is available for everyone. Download and try chatting with it or working on something you need to write today. Our team is here today to answer any questions. If you have any feedback, plz drop it in the comments. Appreciate y'all for checking out our launch today 🙏🏼"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Love that it learns from the edits you make after pasting; most tools make me re-explain my tone every time.The text option with Wally is underrated imo. Love voice, but as a student I’m writing in libraries and lecture halls half the time, where talking out loud—even whispering—isn’t really an option. That’s probably the biggest reason people on campus bounce off dictation apps. Being able to keep the same convo going by typing gets around it entirely and has been great so far."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I first discovered Willow Voice thanks to Sharath here, and I've been following the company and all their launches ever since! It's such an easy-to-use voice tool that I'm literally using it to write this comment right now 🤩 Congrats on another exciting launch, team! Can't wait to try out my Wally agent right away! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "With tools like this the problem is always memory, I have already multiple agent and don't know anymore who knows what, do you have a plan for that ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cool launch! Love the focus of improving voice & learning from the context of the app you're using. Lots of craft from this team :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice, can't wait to give it a shot this week. Been loving Scribe in general, so curious to see how it builds on that for my workflow."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey, how is this different or similar to Scribe? Is this replacing Scribe? I'm really excited to try this."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Been using Willow for a while cus of @jesslynteojy , excited to see what the @Willow Voice team has in store next!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -59630,6 +60032,67 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-8",
+      "date": "2026-10-19",
+      "rank": 8,
+      "name": "buddylist",
+      "slug": "buddylist-2",
+      "tagline": "Chat with your coding agents like it's 2005",
+      "description": "A free desktop app for macOS (Apple Silicon), Windows and Linux that puts Claude Code, Codex, Gemini and OpenCode in an MSN-style buddy list. Use separate Git worktrees for separate jobs, or group-chat agents in a shared folder. Let them take turns, answer together or hand unfinished tasks to another agent. Review diffs, run terminals, preview your app and track PR checks beside the chat. Bring your own agent accounts; provider access and usage are separate.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/buddylist-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/58b07083-9ac5-4540-a1f0-71ebe2c7057f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/dd3095bc-34b6-4aed-ac6c-ecd37ac2738c.png?auto=format",
+        "https://ph-files.imgix.net/d9e916bd-d024-4589-9351-72d3789f4a21.gif?auto=format",
+        "https://ph-files.imgix.net/f8cba78e-4406-4360-94bf-3f27bcadcefc.gif?auto=format",
+        "https://ph-files.imgix.net/60eca221-7d00-40fd-8013-7311f782b885.png?auto=format",
+        "https://ph-files.imgix.net/47e9f273-7835-4baf-af8d-011909bac18d.png?auto=format",
+        "https://ph-files.imgix.net/6c7ea7d3-63ef-447d-98f7-a8c34d6835a3.png?auto=format",
+        "https://ph-files.imgix.net/8ce2ccf1-a211-471b-a436-2f1eb1292c31.jpeg?auto=format"
+      ],
+      "maker": "Safa Elmali",
+      "makerTitle": "I build with AI",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 114,
+      "websiteUrl": "https://www.producthunt.com/r/MU3NX4ZHCXFPBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey everyone, I’m Safa, the maker of buddylist 👋Remember MSN Messenger? I built buddylist to bring that feeling to working with coding agents.Add Claude Code, Codex, Gemini and OpenCode as buddies. Bring them into a group chat, ask Claude to build a feature, then have Codex review it. They share the conversation’s project folder. You can also choose another agent to continue an unfinished checklist.Separate contacts can work in their own Git worktrees. Chat tabs and forked chats share the existing folder. Review diffs, run a terminal, preview your app and manage PRs beside the conversation. There are retro themes, nudges and winks too.buddylist is free for macOS (Apple Silicon), Windows and Linux, with optional Buy Me a Coffee support. Bring your own agent accounts; provider access and usage are separate.Download or try the browser demo with scripted replies: https://buddylist.dev"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "it's been +21 year wow"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The MSN-style interface brings back memories:D. What made you go with that design?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the MSN vibes. Bringing multiple coding agents together in one chat and letting them collaborate sounds super useful. Such a fun idea with a nostalgic twist!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I really like the idea of ​​incorporating AI coding agents into a familiar chat style interface. I’m curious as these agents become more capable, could a buddy list evolve into a platform where multiple agents not only work side by side but also collaborate on the same project, sharing the context of their work with one another?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "So fun! I would love skins for different nostalgic messenger apps: AIM, ICQ, etc."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Strong nostalgia vibes!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This makes me happy. MSN for coding agents is the most fun take on running several agents at once that I've seen. Can I add Hermes as a buddy, or is it just the four built in?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -62845,49 +63308,6 @@
       ]
     },
     {
-      "id": "ph-today-6",
-      "date": "2026-10-18",
-      "rank": 6,
-      "name": "XBOX Nano Controller",
-      "slug": "xbox-nano-controller",
-      "tagline": "Pocket-sized wireless gamepad with all 18 inputs",
-      "description": "Take play to more places with the XBOX Nano Controller. Fit more play in your everyday in a smaller form factor. Connect via Bluetooth & play across devices.",
-      "category": "XBox • Hardware • Games",
-      "categoryFa": "XBox • Hardware • بازی",
-      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/974c452d-9eac-41d3-a9be-19dc60fd99aa.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/17820f30-5848-411a-9bac-c0ce513357f2.jpeg?auto=format",
-        "https://ph-files.imgix.net/dd2d249b-4462-42ac-9adb-7bfbfd7fbb00.jpeg?auto=format",
-        "https://ph-files.imgix.net/2e648212-4ab3-4dc3-9497-b58763bc20bb.jpeg?auto=format",
-        "https://ph-files.imgix.net/7a126af5-b031-4c67-9ab6-326f1896721c.jpeg?auto=format",
-        "https://ph-files.imgix.net/8d1fded7-fb45-46cd-9ecb-e16baa1f8045.jpeg?auto=format",
-        "https://ph-files.imgix.net/b419770f-8467-418e-a03d-f9b0f347a173.jpeg?auto=format",
-        "https://ph-files.imgix.net/bcc3993a-9c87-499c-976f-75caaa078def.jpeg?auto=format",
-        "https://ph-files.imgix.net/2bb63c90-6d5c-4790-a7c4-84471b00f97f.jpeg?auto=format",
-        "https://ph-files.imgix.net/f59f8450-5ccf-4331-b933-b20ad29c959c.jpeg?auto=format",
-        "https://ph-files.imgix.net/fa70ae80-d2bf-4a13-9963-0fac06c66e93.jpeg?auto=format",
-        "https://ph-files.imgix.net/caf74c57-f6b9-4a50-a475-e848c981d503.jpeg?auto=format",
-        "https://ph-files.imgix.net/ca153db7-2959-4b09-8c01-bb8d8eba1782.jpeg?auto=format",
-        "https://ph-files.imgix.net/8e741ad5-e9ad-484a-82b3-300f3852f86f.jpeg?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 108,
-      "websiteUrl": "https://www.producthunt.com/r/EAREDKT5V2YY67?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone!Xbox has squeezed its full controller layout into something smaller than most phones. The Nano is just over 5 inches long, weighs 3.5 ounces, and still has all 18 standard gameplay inputs.It connects to Xbox consoles with Xbox Wireless, or to PCs, phones and compatible TVs over Bluetooth. There's a rechargeable battery and a programmable Action Button too.I can see this being handy for smaller hands, a second controller for local co-op, or just throwing in a bag for gaming on the go.It's $49.99, with pre-orders open now and shipping in November. Not exactly nano pricing with so many cheaper mini controllers around, but native Xbox Wireless support is a nice advantage!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The original 90s size controller I.e. thanks for sharing zac.."
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-8",
       "date": "2026-10-15",
       "rank": 8,
@@ -64850,6 +65270,54 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-yesterday-7",
+      "date": "2026-10-18",
+      "rank": 7,
+      "name": "3AM Super Intelligence",
+      "slug": "3am-super-intelligence",
+      "tagline": "Production incidents: investigated, proven, fixed",
+      "description": "Meet 3AM, the AI on-call engineer for systems you can’t rewrite. It finds the root cause, rehearses the fix, and resolves the incident with one tap in Slack, all from inside your network.",
+      "category": "Developer Tools • Artificial Intelligence",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/3am-super-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9b955935-85b9-465a-b2f2-39ef14aef876.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4059fe3d-d7df-4b89-85bb-73f627b5368e.png?auto=format",
+        "https://ph-files.imgix.net/9e2147ed-6f2d-4dad-ab21-5c4d0bdbfd4e.png?auto=format",
+        "https://ph-files.imgix.net/77f16dba-8e74-4ba3-b780-943cd5deda92.png?auto=format",
+        "https://ph-files.imgix.net/d2a790e5-cce3-4ff3-a2fd-fc193573bfad.png?auto=format",
+        "https://ph-files.imgix.net/6c97bac9-ca3f-4c57-86f0-72fd67f5312c.png?auto=format",
+        "https://ph-files.imgix.net/8bfe5dd8-5721-4e51-a33f-08280b77c8f7.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 103,
+      "websiteUrl": "https://www.producthunt.com/r/PUH26LXS2WLDLX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "We're launching 3AM today: an AI on-call engineer for the systems you can't rewrite. Three things shaped it:Engineers needed proof, not a guess. Nobody runs a fix on production at 3am because a chatbot sounded confident. So 3AM names a root cause only once a live check against your systems proves it. When it can't prove one, it says so and hands over what it found.Regulated teams needed it to stay inside. Banks, insurers and telcos can't send production data to someone else's cloud, and their regulators ask where every byte goes. So 3AM runs inside your network with no inbound ports, works fully air-gapped too, and the only thing that ever reaches us is a signed licence check. Literally.Everyone needed to stay in charge. Nobody wants an AI changing production on its own in the middle of the night. So every fix is rehearsed with a dry run first, then waits for a person's approval in Slack, Symphony, PagerDuty, xMatters or email (you name it). 3AM starts in shadow mode: it watches, proposes fixes and changes nothing. Giving it more autonomy takes two approvers. And every step goes on a hash-chained audit log your auditors can verify.Proof is the point. We test 3AM by breaking a real open-source core banking system, 244,000 lines of ten-year-old Java, on purpose, in 67 different ways. Every number we publish comes from those runs, and zero harmful actions is a release gate, not a target.If you or your team is fed up of prod being down at night (or even during the day), 3AM is for you!🎁 As a bonus, the first 90 days are on us! Try it, tell us where it falls short, and we'll fix it.Note that 3AM is AI, and in its open alpha stage. We'd love to personally reach out to everyone to collect as much feedback as possible, and improvise further."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "ai on-call engineer for stuff you cant rewrite is a smart angle 🚀 how does it handle prod access?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hehe was there! know that pain and I'm sure many founders will feel the same. Wish you all the best here team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do I know it will not create more bugs than it solves ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"proven, not guessed\" is the bit I'd want. we had prod freeze twice after a deploy and every dashboard said the app was hung, but the real cause was a schema change at startup quietly waiting on a lock behind one long running query. would 3AM's live check find that kind of thing (a waiter, not an error)? and what does rehearsing the fix look like when the fix is killing someone else's query?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -66872,50 +67340,6 @@
       }
     },
     {
-      "id": "ph-today-7",
-      "date": "2026-10-18",
-      "rank": 7,
-      "name": "3AM Super Intelligence",
-      "slug": "3am-super-intelligence",
-      "tagline": "Production incidents: investigated, proven, fixed",
-      "description": "Meet 3AM, the AI on-call engineer for systems you can’t rewrite. It finds the root cause, rehearses the fix, and resolves the incident with one tap in Slack, all from inside your network.",
-      "category": "Developer Tools • Artificial Intelligence",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/3am-super-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9b955935-85b9-465a-b2f2-39ef14aef876.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/4059fe3d-d7df-4b89-85bb-73f627b5368e.png?auto=format",
-        "https://ph-files.imgix.net/9e2147ed-6f2d-4dad-ab21-5c4d0bdbfd4e.png?auto=format",
-        "https://ph-files.imgix.net/77f16dba-8e74-4ba3-b780-943cd5deda92.png?auto=format",
-        "https://ph-files.imgix.net/d2a790e5-cce3-4ff3-a2fd-fc193573bfad.png?auto=format",
-        "https://ph-files.imgix.net/6c97bac9-ca3f-4c57-86f0-72fd67f5312c.png?auto=format",
-        "https://ph-files.imgix.net/8bfe5dd8-5721-4e51-a33f-08280b77c8f7.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 97,
-      "websiteUrl": "https://www.producthunt.com/r/PUH26LXS2WLDLX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "We're launching 3AM today: an AI on-call engineer for the systems you can't rewrite. Three things shaped it:Engineers needed proof, not a guess. Nobody runs a fix on production at 3am because a chatbot sounded confident. So 3AM names a root cause only once a live check against your systems proves it. When it can't prove one, it says so and hands over what it found.Regulated teams needed it to stay inside. Banks, insurers and telcos can't send production data to someone else's cloud, and their regulators ask where every byte goes. So 3AM runs inside your network with no inbound ports, works fully air-gapped too, and the only thing that ever reaches us is a signed licence check. Literally.Everyone needed to stay in charge. Nobody wants an AI changing production on its own in the middle of the night. So every fix is rehearsed with a dry run first, then waits for a person's approval in Slack, Symphony, PagerDuty, xMatters or email (you name it). 3AM starts in shadow mode: it watches, proposes fixes and changes nothing. Giving it more autonomy takes two approvers. And every step goes on a hash-chained audit log your auditors can verify.Proof is the point. We test 3AM by breaking a real open-source core banking system, 244,000 lines of ten-year-old Java, on purpose, in 67 different ways. Every number we publish comes from those runs, and zero harmful actions is a release gate, not a target.If you or your team is fed up of prod being down at night (or even during the day), 3AM is for you!🎁 As a bonus, the first 90 days are on us! Try it, tell us where it falls short, and we'll fix it.Note that 3AM is AI, and in its open alpha stage. We'd love to personally reach out to everyone to collect as much feedback as possible, and improvise further."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "hehe was there! know that pain and I'm sure many founders will feel the same. Wish you all the best here team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do I know it will not create more bugs than it solves ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "\"proven, not guessed\" is the bit I'd want. we had prod freeze twice after a deploy and every dashboard said the app was hung, but the real cause was a schema change at startup quietly waiting on a lock behind one long running query. would 3AM's live check find that kind of thing (a waiter, not an error)? and what does rehearsing the fix look like when the fix is killing someone else's query?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-10",
       "date": "2026-10-17",
       "rank": 10,
@@ -67162,6 +67586,86 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-9",
+      "date": "2026-10-19",
+      "rank": 9,
+      "name": "Framefields",
+      "slug": "framefields",
+      "tagline": "Open-source code-first video for AGI era",
+      "description": "Framefields is a high-performance, code-first video engine powered by native WebGPU in Node.js. Built for AI agents and engineers, it replaces bulky creative suites with a single npm package: motion graphics, Photoshop-grade VFX, 3D scenes, and audio DSP. Zero Chromium or browser overhead—render deterministic, frame-accurate video and export hardware-accelerated MP4s directly from TypeScript.",
+      "category": "Design Tools • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "ابزار طراحی • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/framefields?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/94ce2f80-ed6c-4069-bebb-01347e2aeffd.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6a5362bf-f021-4467-b352-7787da2ce9b1.jpeg?auto=format",
+        "https://ph-files.imgix.net/8d2f81d4-ac00-4f0b-8668-a5cde122289a.png?auto=format",
+        "https://ph-files.imgix.net/b4c86dde-2fa7-4852-8d37-24add83e79bc.jpeg?auto=format",
+        "https://ph-files.imgix.net/09999e66-6eeb-4bb3-a1e9-fbcb1ffa3ac3.jpeg?auto=format"
+      ],
+      "maker": "Okan Aslankan",
+      "makerTitle": "",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 95,
+      "websiteUrl": "https://www.producthunt.com/r/SVLMOG3GL4WKIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "I've been doing more Claude-first editing of traditional footage (think talking heads/podcasts filmed in a studio) - would you say that Framefields is more for graphics and generated demos and wouldn't really add to my workflow, or does the way it teaches the agent to understand video make it useful for the \"traditional\" editing I do as well? With the added bonus of integrating graphics?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "We make walkthrough videos for our product, so a video engine an agent can drive reliably is something I want to explore. To answer your question: I'd love to see it work with real screen recordings, so an agent can turn them into finished explainer videos. Is that possible today?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Okan! The video you have attached, is that made with Framefields?"
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-8",
+      "date": "2026-10-18",
+      "rank": 8,
+      "name": "Tomo for ChatGPT",
+      "slug": "tomo-for-chatgpt",
+      "tagline": "Ask anything. Then play it, Duolingo-style.",
+      "description": "Ask ChatGPT for a Tomo course on black holes and a game drops into the chat. Quick questions, hearts on the line. Any topic, even the chat you’re in. Pick your teacher, from The Professor to The Pirate. Add Tomo from Plugins in ChatGPT. No sign-up to start.",
+      "category": "Education • Artificial Intelligence • Games",
+      "categoryFa": "آموزش • هوش مصنوعی • بازی",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6337c4db-87cc-4024-9bc2-10a4c134cc00.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/488580f2-96a0-4c03-84ec-417d3432ae58.png?auto=format",
+        "https://ph-files.imgix.net/9cd24046-5c53-4efa-88b7-f17282f5b019.jpeg?auto=format",
+        "https://ph-files.imgix.net/b2907f7c-55be-41d4-8b15-21ebcb76ab2f.png?auto=format",
+        "https://ph-files.imgix.net/80f3120b-9503-484f-9efc-1eae983cc417.png?auto=format",
+        "https://ph-files.imgix.net/589ab389-f951-440f-85f2-a2a7736e1c54.png?auto=format",
+        "https://ph-files.imgix.net/f8670da4-4a0e-4ba4-b7d5-e7a4d9a6c477.png?auto=format",
+        "https://ph-files.imgix.net/9bda307b-e5d6-481d-8440-c50fac79e807.png?auto=format",
+        "https://ph-files.imgix.net/76bf1d16-17ef-43d6-8ba1-ed8c926a6399.png?auto=format"
+      ],
+      "maker": "Mohannad Ali",
+      "makerTitle": "Founder of Tomo and former CEO of Hotjar",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 95,
+      "websiteUrl": "https://www.producthunt.com/r/B7PYM6TZUHFML4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I’m Mohannad, the solo maker of Tomo, a learning game for any topic on iPhone and Android. Today it’s in ChatGPT too.You know the moment. You ask ChatGPT something, get a great answer, nod along, and close the tab.Tomo gives that curiosity somewhere to go. Ask for a Tomo course on black holes, sourdough or the fall of Rome, and a game drops right into the chat. Quick questions. Instant feedback. Hearts on the line. Five minutes later you have a new favorite fact, and three stars if you nailed it.Deep in a conversation already? Say “turn this chat into a Tomo course” and play what you just talked about.You also pick who teaches it: The Bestie, The Professor, Explain like I’m 5, The Storyteller or The Pirate. Same facts, very different delivery.“Can’t I just ask ChatGPT to quiz me?” Sure, and you’ll get a few questions. Tomo builds a real course: every answer graded, a score, and a streak that brings you back. ChatGPT never even sees the answers, so it can’t spoil them.To try it, add Tomo from Plugins in ChatGPT and ask for a Tomo course on whatever you’re into. Free to play, no sign-up to start. No Plugins in your ChatGPT yet? The same game is in the Tomo app on iPhone and Android.One thing I’d love to know: what did you ask for, and who taught it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great one!! Just understanding how is it better than Duolingo. I am a regular used of duo, hence wanted to understand. TIA"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This feels to be better than Quizlet! :D"
+        }
+      ]
     },
     {
       "id": "ph-today-10",
@@ -67773,6 +68277,77 @@
       }
     },
     {
+      "id": "ph-today-10",
+      "date": "2026-10-19",
+      "rank": 10,
+      "name": "Lazy AWS",
+      "slug": "lazy-aws",
+      "tagline": "A keyboard-driven home for your AWS resources",
+      "description": "Your AWS resources. One terminal. Browse, inspect, and run confirmed AWS CLI actions without leaving your keyboard.",
+      "category": "Amazon • Open Source • Developer Tools • GitHub",
+      "categoryFa": "Amazon • متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9a71cee5-6dda-4fbf-b9c8-a1643c451fa3.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e78a4962-b956-4e60-9758-4832566db0a4.jpeg?auto=format",
+        "https://ph-files.imgix.net/3e467ab1-e598-4510-8418-56d75bad6b4c.png?auto=format",
+        "https://ph-files.imgix.net/b40fe2a6-a195-4180-8d0a-535d28de148c.png?auto=format",
+        "https://ph-files.imgix.net/a4ecfc78-f3ea-4eba-aa34-e1a9608c6783.png?auto=format"
+      ],
+      "maker": "Piyush Choudhari",
+      "makerTitle": "Love working with agents and infra.",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 93,
+      "websiteUrl": "https://www.producthunt.com/r/7GT5YPN2WVDBEO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Everyone 👋 I live in the terminal. I write code in Neovim and use lazygit, lazydocker and other TUIs every day. But each time I had to work with AWS, I had to leave the terminal for the console or type long CLI commands just to answer simple questions. Which instances are running? What is in this bucket? Did that Lambda deploy? I wanted the lazygit feel for AWS too, so I built my own: Lazy AWS. What it does: - Browse EC2, ECS, ECR, S3 and Lambda in one terminal UI - Filter lists, see related resources and read the full JSON details - Run actions such as stopping an instance or uploading a file, always with a confirmation step Try it in 10 seconds: $ brew install capybara-brain346/tap/lazyaws $ lazyaws"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice to see launchess that keeps things simple. Are you planning to support other cloud providers too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is neat! Especially for infra heavy teams. Is it possible that in future you could add support to GCP as well?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Browsing the JSON and related resources in the same terminal looks handy. The confirmation before stopping an instance is a detail I would want in a tool like this."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-9",
+      "date": "2026-10-18",
+      "rank": 9,
+      "name": "Bee Frontier and Bee Eclipse",
+      "slug": "bee-frontier-and-bee-eclipse",
+      "tagline": "Amazon's personal AI memory, now on your wrist or phone",
+      "description": "Bee Frontier and Bee Eclipse are Amazon's new personal AI devices that help you remember what matters. Frontier is a wearable for your wrist or clothing, while Eclipse attaches magnetically to your phone. Both capture conversations and turn them into useful summaries, reminders, and follow-ups without retaining audio recordings. With Alexa+ integration, your personal AI memory can help you recall important details and act on them later.",
+      "category": "Productivity • Wearables • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • Wearables • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b14eb43a-99df-45f0-bcaf-abed4d915d39.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f164daef-b6da-48b0-8662-e4c811e51337.jpeg?auto=format",
+        "https://ph-files.imgix.net/d96eb887-bfbe-4160-a1a4-8767d56ab83c.jpeg?auto=format",
+        "https://ph-files.imgix.net/45bc4c52-b2c5-48b9-9ea2-7ff6980b5ccc.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 93,
+      "websiteUrl": "https://www.producthunt.com/r/WNZ6NFZTTN7MBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Amazon just introduced two new Bee devices, and I find the idea pretty interesting. Bee Frontier is a wearable you can put on your wrist or clip to your clothes. Bee Eclipse takes a different approach — it attaches magnetically to the back of your phone. Both are designed to remember the little things from your conversations: ideas, commitments, plans, and details you'd otherwise forget. Frontier is available now for $74.99, while Eclipse is coming soon starting at $99.99. Curious which form factor people would actually prefer: something you wear, or something that lives on your phone?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-10-11",
       "rank": 10,
@@ -68268,35 +68843,6 @@
       }
     },
     {
-      "id": "ph-today-8",
-      "date": "2026-10-18",
-      "rank": 8,
-      "name": "Bee Frontier and Bee Eclipse",
-      "slug": "bee-frontier-and-bee-eclipse",
-      "tagline": "Amazon's personal AI memory, now on your wrist or phone",
-      "description": "Bee Frontier and Bee Eclipse are Amazon's new personal AI devices that help you remember what matters. Frontier is a wearable for your wrist or clothing, while Eclipse attaches magnetically to your phone. Both capture conversations and turn them into useful summaries, reminders, and follow-ups without retaining audio recordings. With Alexa+ integration, your personal AI memory can help you recall important details and act on them later.",
-      "category": "Productivity • Wearables • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • Wearables • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b14eb43a-99df-45f0-bcaf-abed4d915d39.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f164daef-b6da-48b0-8662-e4c811e51337.jpeg?auto=format",
-        "https://ph-files.imgix.net/d96eb887-bfbe-4160-a1a4-8767d56ab83c.jpeg?auto=format",
-        "https://ph-files.imgix.net/45bc4c52-b2c5-48b9-9ea2-7ff6980b5ccc.jpeg?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 91,
-      "websiteUrl": "https://www.producthunt.com/r/WNZ6NFZTTN7MBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Amazon just introduced two new Bee devices, and I find the idea pretty interesting. Bee Frontier is a wearable you can put on your wrist or clip to your clothes. Bee Eclipse takes a different approach — it attaches magnetically to the back of your phone. Both are designed to remember the little things from your conversations: ideas, commitments, plans, and details you'd otherwise forget. Frontier is available now for $74.99, while Eclipse is coming soon starting at $99.99. Curious which form factor people would actually prefer: something you wear, or something that lives on your phone?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-10",
       "date": "2026-10-08",
       "rank": 10,
@@ -68789,48 +69335,6 @@
         ],
         "confidence": 65
       }
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-10-18",
-      "rank": 9,
-      "name": "Tomo for ChatGPT",
-      "slug": "tomo-for-chatgpt",
-      "tagline": "Ask anything. Then play it, Duolingo-style.",
-      "description": "Ask ChatGPT for a Tomo course on black holes and a game drops into the chat. Quick questions, hearts on the line. Any topic, even the chat you’re in. Pick your teacher, from The Professor to The Pirate. Add Tomo from Plugins in ChatGPT. No sign-up to start.",
-      "category": "Education • Artificial Intelligence • Games",
-      "categoryFa": "آموزش • هوش مصنوعی • بازی",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/6337c4db-87cc-4024-9bc2-10a4c134cc00.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/488580f2-96a0-4c03-84ec-417d3432ae58.png?auto=format",
-        "https://ph-files.imgix.net/9cd24046-5c53-4efa-88b7-f17282f5b019.jpeg?auto=format",
-        "https://ph-files.imgix.net/b2907f7c-55be-41d4-8b15-21ebcb76ab2f.png?auto=format",
-        "https://ph-files.imgix.net/80f3120b-9503-484f-9efc-1eae983cc417.png?auto=format",
-        "https://ph-files.imgix.net/589ab389-f951-440f-85f2-a2a7736e1c54.png?auto=format",
-        "https://ph-files.imgix.net/f8670da4-4a0e-4ba4-b7d5-e7a4d9a6c477.png?auto=format",
-        "https://ph-files.imgix.net/9bda307b-e5d6-481d-8440-c50fac79e807.png?auto=format",
-        "https://ph-files.imgix.net/76bf1d16-17ef-43d6-8ba1-ed8c926a6399.png?auto=format"
-      ],
-      "maker": "Mohannad Ali",
-      "makerTitle": "Founder of Tomo and former CEO of Hotjar",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 88,
-      "websiteUrl": "https://www.producthunt.com/r/B7PYM6TZUHFML4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, I’m Mohannad, the solo maker of Tomo, a learning game for any topic on iPhone and Android. Today it’s in ChatGPT too.You know the moment. You ask ChatGPT something, get a great answer, nod along, and close the tab.Tomo gives that curiosity somewhere to go. Ask for a Tomo course on black holes, sourdough or the fall of Rome, and a game drops right into the chat. Quick questions. Instant feedback. Hearts on the line. Five minutes later you have a new favorite fact, and three stars if you nailed it.Deep in a conversation already? Say “turn this chat into a Tomo course” and play what you just talked about.You also pick who teaches it: The Bestie, The Professor, Explain like I’m 5, The Storyteller or The Pirate. Same facts, very different delivery.“Can’t I just ask ChatGPT to quiz me?” Sure, and you’ll get a few questions. Tomo builds a real course: every answer graded, a score, and a streak that brings you back. ChatGPT never even sees the answers, so it can’t spoil them.To try it, add Tomo from Plugins in ChatGPT and ask for a Tomo course on whatever you’re into. Free to play, no sign-up to start. No Plugins in your ChatGPT yet? The same game is in the Tomo app on iPhone and Android.One thing I’d love to know: what did you ask for, and who taught it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great one!! Just understanding how is it better than Duolingo. I am a regular used of duo, hence wanted to understand. TIA"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This feels to be better than Quizlet! :D"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -69986,12 +70490,12 @@
     }
   ],
   "audit": {
-    "products": 696,
-    "withRealComments": 696,
+    "products": 706,
+    "withRealComments": 706,
     "withPersianComments": 646,
     "withPersianDescription": 646,
     "withAiReview": 628,
     "withIranEquivalent": 646,
-    "totalRealComments": 4297
+    "totalRealComments": 4352
   }
 }
