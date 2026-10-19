@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-10-18T00:16:12.096Z",
-  "latestDataset": "2026-10-18.json",
+  "checkedAt": "2026-10-19T00:27:44.351Z",
+  "latestDataset": "2026-10-19.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
+  "succeeded": 9,
+  "failed": 1,
   "backlogBefore": 100,
-  "backlogAfter": 90,
-  "completedProducts": 596,
-  "missingFaDescription": 49,
-  "missingFaComments": 75,
-  "missingAiReview": 66,
-  "missingIranEquivalent": 52,
-  "failures": []
+  "backlogAfter": 93,
+  "completedProducts": 603,
+  "missingFaDescription": 50,
+  "missingFaComments": 78,
+  "missingAiReview": 68,
+  "missingIranEquivalent": 53,
+  "failures": [
+    {
+      "slug": "takes-for-mac",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"اپلیکیشن رایگان و متن‌باز «تِیکس» مخصوص مک، ابزاری هوشمند برای ضبط ویدیوهای صحبت مستقیم رو به دوربین (Talking-head) است. این برنامه دارای یک تله‌پراپتر اختصاص"
+    }
+  ]
 }
