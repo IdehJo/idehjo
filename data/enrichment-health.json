@@ -1,21 +1,21 @@
 {
-  "checkedAt": "2026-10-19T00:27:44.351Z",
-  "latestDataset": "2026-10-19.json",
+  "checkedAt": "2026-10-20T01:16:01.652Z",
+  "latestDataset": "2026-10-20.json",
   "batchLimit": 10,
   "attempted": 10,
   "succeeded": 9,
   "failed": 1,
-  "backlogBefore": 100,
-  "backlogAfter": 93,
-  "completedProducts": 603,
-  "missingFaDescription": 50,
-  "missingFaComments": 78,
-  "missingAiReview": 68,
-  "missingIranEquivalent": 53,
+  "backlogBefore": 104,
+  "backlogAfter": 95,
+  "completedProducts": 612,
+  "missingFaDescription": 52,
+  "missingFaComments": 80,
+  "missingAiReview": 70,
+  "missingIranEquivalent": 55,
   "failures": [
     {
       "slug": "takes-for-mac",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"اپلیکیشن رایگان و متن‌باز «تِیکس» مخصوص مک، ابزاری هوشمند برای ضبط ویدیوهای صحبت مستقیم رو به دوربین (Talking-head) است. این برنامه دارای یک تله‌پراپتر اختصاص"
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
 }
