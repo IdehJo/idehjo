@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T00:52:16.432Z",
-  "sourceFiles": 72,
+  "generatedAt": "2026-10-21T23:32:55.118Z",
+  "sourceFiles": 73,
   "products": [
     {
       "id": "ph-year-1",
@@ -3090,9 +3090,9 @@
       "aiReview": "SKI یک ابزار محیطی (Ambient) است که با هدف تسریع فرآیند کدنویسی با هوش مصنوعی طراحی شده است. مسئله اصلی، شکاف زمانی بین سرعت فکر کردن و سرعت تایپ است؛ راه‌حل SKI استفاده از ورودی صوتی و، به‌طور متمایز، خروجی صوتی از سمت ایجنت است تا حلقه ارتباطی بسته شود. از نظر معماری، این محصول بر پایه اجرای محلی (Local-first) استوار است؛ یعنی هم تشخیص گفتار (ASR) و هم تولید صدا (TTS) روی دستگاه کاربر اجرا می‌شوند که این امر حریم خصوصی را تضمین می‌کند و امکان کار آفلاین را فراهم می‌آورد. این ابزار با ایجنت‌های محبوبی مانند Claude Code و Codex یکپارچه می‌شود و قابلیت حضور در جلسات ویدیویی را نیز دارد. مدل درآمدی در حال حاضر «رایگان برای همیشه» اعلام شده است که اگرچه جذابیت بالایی دارد، اما در نظر برخی کاربران به‌عنوان یک ترفند بازاریابی مشکوک تلقی شده است و شفافیت در مورد مدل کسب‌وکار آینده مورد نیاز است. نقاط قوت اصلی شامل پاسخ‌دهی دوطرفه صوتی (که آن را از ابزارهای دیکته معمولی متمایز می‌کند)، اجرای محلی برای امنیت و سرعت، و قابلیت استفاده در جلسات است. نقاط ضعف و چالش‌ها عبارتند از: گزارش‌های اولیه درباره پایداری ضبط صدا (قطع شدن پس از چند ثانیه)، ابهام در مدل درآمدی، و چالش فنی مدیریت مکالمه‌های طولانی و قابلیت قطع صحبت ایجنت توسط کاربر (Interruption handling) که برای تجربه روان ضروری است. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و نگرانی‌های حریم خصوصی، رویکرد Local-first این محصول می‌تواند یک مزیت رقابتی بزرگ باشد. همچنین، اگرچه زبان اصلی احتمالاً انگلیسی است، اما اگر امکان افزودن پشتیبانی از زبان فارسی (هم برای ورودی و هم خروجی) در نسخه‌های آینده وجود داشته باشد، می‌تواند بازار بسیار بزرگی از توسعه‌دهندگان فارسی‌زبان را هدف قرار دهد که به دنبال ابزارهای سریع و بدون وابستگی به اینترنت هستند."
     },
     {
-      "id": "ph-month-3",
+      "id": "ph-month-2",
       "date": "2026-10-05",
-      "rank": 3,
+      "rank": 2,
       "name": "Spira Maxima",
       "slug": "spira-maxima",
       "tagline": "Video model that turns script into viral social media videos",
@@ -4399,9 +4399,9 @@
       }
     },
     {
-      "id": "ph-week-1",
+      "id": "ph-month-3",
       "date": "2026-10-14",
-      "rank": 1,
+      "rank": 3,
       "name": "Pancake",
       "slug": "pancake-7",
       "tagline": "The Vercel for GTM",
@@ -4418,7 +4418,7 @@
         "https://ph-files.imgix.net/76be9e14-edb9-436a-abad-23bcc5a86157.png?auto=format",
         "https://ph-files.imgix.net/0025e164-b60f-4873-b9d7-5000a4743975.png?auto=format"
       ],
-      "maker": "Tristan Comte",
+      "maker": "[REDACTED]",
       "makerTitle": "Building pancake.ai",
       "featuredAt": "2026-10-14T07:01:00Z",
       "votes": 585,
@@ -5453,7 +5453,7 @@
       "description": "IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch & Learn. Spend less time on admin and more time building your business. Free during beta.",
       "category": "Task Management • Artificial Intelligence • Virtual Assistants",
       "categoryFa": "مدیریت وظایف • هوش مصنوعی • Virtual Assistants",
-      "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "url": "https://www.producthunt.com/products/irisgo-public-beta/launches/irisgo-for-solopreneurs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "screenshots": [
         "https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format",
@@ -6278,9 +6278,9 @@
       }
     },
     {
-      "id": "ph-month-5",
+      "id": "ph-month-4",
       "date": "2026-10-10",
-      "rank": 5,
+      "rank": 4,
       "name": "ReSO AI",
       "slug": "reso-ai-2",
       "tagline": "Get discovered & recommended when customers ask AI",
@@ -7343,6 +7343,69 @@
       }
     },
     {
+      "id": "ph-yesterday-1",
+      "date": "2026-10-20",
+      "rank": 1,
+      "name": "/dev/null",
+      "slug": "dev-null",
+      "tagline": "a social network for devs",
+      "description": "/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.",
+      "category": "Open Source • Social Network • Software Engineering • GitHub",
+      "categoryFa": "متن‌باز • Social Network • Software Engineering • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format",
+        "https://ph-files.imgix.net/b4426896-744d-42a9-b1f2-cae7f57dcca3.jpeg?auto=format",
+        "https://ph-files.imgix.net/09808ebe-d7d8-4cd0-8422-a65ac8242931.png?auto=format",
+        "https://ph-files.imgix.net/78f9703e-3780-49ac-a149-3726fc41eb5a.png?auto=format",
+        "https://ph-files.imgix.net/473c100e-512b-4afe-b99b-7001659743ea.png?auto=format",
+        "https://ph-files.imgix.net/342d1ae7-459e-4575-a3f8-ac8879facdc8.png?auto=format",
+        "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
+        "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
+        "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
+      ],
+      "maker": "nunomaduro",
+      "makerTitle": "Laravel Core Team Member",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 482,
+      "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Wild 48 hours. Still processing it, to be honest.We went viral (Hacker News, X, etc.) using a format most marketing teams wouldn’t touch, precisely because it’s so uncomfortable: raw, unfiltered, no script, just us, locked in a 48-hour live stream showing every bit of it.The whole story: https://dev-null.sh/aboutDay 1: https://www.youtube.com/watch?v=6zCNQa3hNm0Day 2: https://www.youtube.com/watch?v=nfmVdXZfzUEPeople don’t fall in love with a brand. They fall in love with the humans behind it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Who wants to post to /dev/null from Raycast? I built an extension for that (in review)!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Best social network for devs.Had really good times discussing on the platform, watch it go live through livestream and contributing.Being able to be part of it is really engaging!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Are there plans to monetize or have ads on this platform? How would you make money from this platform and how would you keep it up and running? But anyway it's a great platform. I really love using it!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is awesome — but I have the same question as @j12t :"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yay! I am a part of next potentially big thing!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "is the name gauche?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "finally, a dedicated platform for a developer instead of getting distracted by other things on other platforms"
+        }
+      ]
+    },
+    {
       "id": "ph-week-1",
       "date": "2026-10-01",
       "rank": 1,
@@ -7667,7 +7730,7 @@
       "description": "Your team chats in one app, meets in another, and every AI works alone. Velozity brings it all into one place. Chat, audio and video calls with transcripts, tasks, calendar and files, plus AI agents (Claude, Codex, etc.) on the subscriptions you already pay for. Every agent shares the same context, so work moves between people and agents without having to re-explain. For startups, teams in dev, product, sales, and ops, or solo users juggling several AIs. No second AI bill. Free to start.",
       "category": "Productivity • Meetings • Artificial Intelligence",
       "categoryFa": "بهره‌وری • Meetings • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
       "screenshots": [
         "https://ph-files.imgix.net/1811e4d6-ba28-4db4-be6c-f7f345848b4b.jpeg?auto=format",
@@ -10527,9 +10590,9 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nTines ۳B یک محیط امن و یکپارچه برای اژنت‌ها، اپلیکیشن‌ها و اتوماسیون‌ها است. این محصول به شما امکان می‌دهد با استفاده از هوش مصنوعی، از هر جای دنیا، بسازید.\n🔹 معماری و تکنولوژی احتمالی:\nTines ۳B از معماری کد-اول و بومی هوش مصنوعی استفاده می‌کند. این محصول به شما کمک می‌کند تا بدون هیچ گونه خطر برای امنیت، سریع حرکت کنید.\n🔹 مدل درآمدی:\nTines ۳B از مدل درآمدی فروش محصول و خدمات مشاوره‌ای استفاده می‌کند.\n🔹 نقاط قوت:\n- ایمن‌سازی کدهای اجرا شده\n- مدیریت اعتبارنامه‌ها\n- نظارت بر جریان‌های کار\n🔹 نقاط ضعف و ریسک‌ها:\n- نیاز به تخصص در هوش مصنوعی\n- نیاز به زیرساخت‌های مناسب\n🔹 نکته طلایی برای بازار ایران:\nTines ۳B می‌تواند به تیم‌های توسعه و بازاریابی در ایران کمک کند تا محصولات خود را به صورت سریع و امن بسازند."
     },
     {
-      "id": "ph-week-5",
+      "id": "ph-week-4",
       "date": "2026-10-16",
-      "rank": 5,
+      "rank": 4,
       "name": "Jockey by TwelveLabs",
       "slug": "jockey-by-twelvelabs-2",
       "tagline": "Your entire video library: organized, searchable, understood",
@@ -11788,69 +11851,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-20",
-      "rank": 1,
-      "name": "/dev/null",
-      "slug": "dev-null",
-      "tagline": "a social network for devs",
-      "description": "/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.",
-      "category": "Open Source • Social Network • Software Engineering • GitHub",
-      "categoryFa": "متن‌باز • Social Network • Software Engineering • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format",
-        "https://ph-files.imgix.net/b4426896-744d-42a9-b1f2-cae7f57dcca3.jpeg?auto=format",
-        "https://ph-files.imgix.net/09808ebe-d7d8-4cd0-8422-a65ac8242931.png?auto=format",
-        "https://ph-files.imgix.net/78f9703e-3780-49ac-a149-3726fc41eb5a.png?auto=format",
-        "https://ph-files.imgix.net/473c100e-512b-4afe-b99b-7001659743ea.png?auto=format",
-        "https://ph-files.imgix.net/342d1ae7-459e-4575-a3f8-ac8879facdc8.png?auto=format",
-        "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
-        "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
-        "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
-      ],
-      "maker": "nunomaduro",
-      "makerTitle": "Laravel Core Team Member",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 403,
-      "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Wild 48 hours. Still processing it, to be honest.We went viral (Hacker News, X, etc.) using a format most marketing teams wouldn’t touch, precisely because it’s so uncomfortable: raw, unfiltered, no script, just us, locked in a 48-hour live stream showing every bit of it.The whole story: https://dev-null.sh/aboutDay 1: https://www.youtube.com/watch?v=6zCNQa3hNm0Day 2: https://www.youtube.com/watch?v=nfmVdXZfzUEPeople don’t fall in love with a brand. They fall in love with the humans behind it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Who wants to post to /dev/null from Raycast? I built an extension for that (in review)!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Best social network for devs.Had really good times discussing on the platform, watch it go live through livestream and contributing.Being able to be part of it is really engaging!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Are there plans to monetize or have ads on this platform? How would you make money from this platform and how would you keep it up and running? But anyway it's a great platform. I really love using it!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is awesome — but I have the same question as @j12t :"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yay! I am a part of next potentially big thing!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "is the name gauche?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "finally, a dedicated platform for a developer instead of getting distracted by other things on other platforms"
-        }
-      ]
     },
     {
       "id": "ph-week-8",
@@ -14463,6 +14463,128 @@
       }
     },
     {
+      "id": "ph-week-2",
+      "date": "2026-10-18",
+      "rank": 2,
+      "name": "Inbox Zero",
+      "slug": "inbox-zero-7",
+      "tagline": "Open-source Superhuman alternative",
+      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
+      "category": "Email • Open Source • Artificial Intelligence • GitHub",
+      "categoryFa": "ایمیل • متن‌باز • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format",
+        "https://ph-files.imgix.net/42cca38c-6e50-45cb-a864-3d5d4f83e6e7.png?auto=format",
+        "https://ph-files.imgix.net/f5c730d7-e5f4-4eb9-8435-6598b9231421.png?auto=format",
+        "https://ph-files.imgix.net/0747ee4b-263b-49eb-87d2-9835120e04fc.png?auto=format",
+        "https://ph-files.imgix.net/7432efeb-b9f9-4230-b4b2-802ad2776848.png?auto=format",
+        "https://ph-files.imgix.net/1cd71ac6-6ae5-4f15-8ba3-c8ec384fb023.png?auto=format",
+        "https://ph-files.imgix.net/3df0ee8d-a62e-4940-b144-1157577b7d44.png?auto=format",
+        "https://ph-files.imgix.net/235e0f08-1ec8-4417-95de-fc1184ab47bf.png?auto=format",
+        "https://ph-files.imgix.net/dd46b7ec-459c-4d9d-9d61-033f4cbbfb5a.png?auto=format"
+      ],
+      "maker": "Elie Steinbock",
+      "makerTitle": "Building Inbox Zero AI",
+      "featuredAt": "2026-10-18T07:01:00Z",
+      "votes": 373,
+      "websiteUrl": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Hunters 👋I’m excited to launch Inbox Zero Mail, an open-source Superhuman alternative.I’ve been running Inbox Zero for 3 years. It started as an AI assistant for Gmail and Outlook, and grew to 12k GitHub stars and 25k+ sign-ups, including Enterprise customers.Now we’ve built our own email client.It’s open source, so you can self-host it or build the feature you’ve always wanted.⚡ Fast and keyboard-first📥 All your Gmail and Outlook accounts in one inbox🗂️ Split inbox✍️ AI drafts in your voice🧹 Bulk unsubscribe💬 Team comments📱 Web, Mac, Windows and iPhoneFree to use. AI is $20/month.🎁 Code PRODUCTHUNT26 gets 50% off AI for 3 months.🧹 Try it today: https://www.getinboxzero.com⭐️ Give us a star on GitHub: https://www.getinboxzero.com/githubWhat would you most like to see added to an open-source email app?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks absolutely fantastic. The recent AI tool push for Gmail management is brilliant and is seriously making me rethink my forever-long iCloud mail in favor of moving to Gmail. I love the smooth, clean UI you've developed here."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is great! But my muscle memory with Gmail is so strong that switching to another email app feels like a lot of effort. As someone who's been using Gmail for years, what's the one thing you'd recommend I try that would make me want to switch?For the longest time, I didn't even try Superhuman because I couldn't justify paying that much for something Gmail already lets me do for free 😅"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@elie222 Inbox Zero looks like a great way to keep emails organized and save time. Love that it's open source and uses AI to sort emails and Draft replies!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'm excited to try this out! So far so good.Heads up, I accidentally marked something as spam at one point and it was really hard to unmark it (I ended up opening up Gmail to unmark it). Besides that, it's been really cool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Elie! Well done 👏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yo this is awesome Elie and team!! Keep it up 🚀"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-3",
+      "date": "2026-10-19",
+      "rank": 3,
+      "name": "Beam.win",
+      "slug": "beam-win",
+      "tagline": "Run AI agents on one Mac and use its windows on another",
+      "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format",
+        "https://ph-files.imgix.net/66584171-b146-45e3-b4cb-5eed357cc35e.png?auto=format",
+        "https://ph-files.imgix.net/58d79bbb-c21c-4d3b-a688-f2e83b888f0f.png?auto=format",
+        "https://ph-files.imgix.net/dc9d677b-3c5f-4eee-a76c-03df642f428d.png?auto=format",
+        "https://ph-files.imgix.net/c4046de5-0cf9-4a39-9cfb-5d3b59079786.png?auto=format",
+        "https://ph-files.imgix.net/1edd4c36-3045-4601-b37a-5f539fe0a777.png?auto=format",
+        "https://ph-files.imgix.net/19a12456-0900-4c9c-82fc-52f5ba11dafc.png?auto=format",
+        "https://ph-files.imgix.net/2b5e5c84-b0bf-4242-88c8-d813a1fc49ba.png?auto=format",
+        "https://ph-files.imgix.net/96256e62-1312-4179-aaf1-4fb5cfc51d64.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "CEO of Crazy Egg (est. 2005)",
+      "featuredAt": "2026-10-19T07:01:00Z",
+      "votes": 372,
+      "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Hiten here.My setup has gotten a little weird. I've got Macs running agents and local models, with work continuing even when nobody's sitting in front of them.Sometimes I just want to check a Terminal, open a browser, or use an app on one of those machines. Getting there usually means opening Screen Sharing and navigating a whole second desktop.Sam and I have been working on Beam to make this easier.With Beam, you pick a window on another Mac and it opens alongside the apps on the Mac you're using. It gets its own Dock icon and a place in ⌘Tab. You can type into it and resize it like a normal window. You can also move files between Macs and hear the app's audio. The app itself keeps running on its original machine.When one window isn't enough, Beam lets you open an entire screen or the whole Mac.I'm especially excited about using Beam with headless Mac minis and Studios. They can keep running agents and other work while I use their apps from whichever Mac I'm sitting in front of.Beam works on Apple silicon Macs running Sonoma or later. You can connect over your local network or through Tailscale, with encrypted connections directly between Macs.It's available now and free to try for 20 minutes every day. Download it at Beam.win.A few weeks ago I asked people on X to show me their weird multi-Mac setups. The thread got over 100 replies, and I've loved seeing what everyone has built.One thing I've become fascinated by is the Mac nobody sits in front of.If you have one, what do you still need to open Screen Sharing for?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks really cool, but you lost me on the monthly subscription price and the lifetime price. I paid $75 for Screens in 2023, which I see is now $199 (ugh!). At least with Screen it's made by a company that's been around for 16 years. There's a good chance I'll see another 10 years out of this purchase. With a new company, it's hard to know if a lifetime license will be worth anything a year from now. IMO if you're looking to capture new users and momentum as a new tool maker, pricing it the same as your main competition is a miss."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Beam is awesome, I use it in my day to day to manage my fleet of macs. Screen sharing is a huge pain, Beam makes everything infinitely easier."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good work, any plans to make this available for phones ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@samasante Free to try and solves a real workflow problem. Definitely an interesting tool for mac users."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The product looks great, but the site (and the part site) have no security related content, no information on the company, people behind the project etc. Given the level of security this requires to operate, this is a no go for me, and I'm sure a lot of people."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great app but it won't run on an Intel Mac - bummer. This would have been a great app to breathe life into an old Intel Mac Pro."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As one of the early adopters of Beam, I really like the ability to bring in a single app/window from other machines on my local network to get things done. It works really well and keeps distractions to a minimum. Congrats @hnshah and team on the launch."
+        }
+      ]
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-08-17",
       "rank": 8,
@@ -15302,65 +15424,6 @@
       ]
     },
     {
-      "id": "ph-week-3",
-      "date": "2026-10-18",
-      "rank": 3,
-      "name": "Inbox Zero",
-      "slug": "inbox-zero-7",
-      "tagline": "Open-source Superhuman alternative",
-      "description": "Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.",
-      "category": "Email • Open Source • Artificial Intelligence • GitHub",
-      "categoryFa": "ایمیل • متن‌باز • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format",
-        "https://ph-files.imgix.net/42cca38c-6e50-45cb-a864-3d5d4f83e6e7.png?auto=format",
-        "https://ph-files.imgix.net/f5c730d7-e5f4-4eb9-8435-6598b9231421.png?auto=format",
-        "https://ph-files.imgix.net/0747ee4b-263b-49eb-87d2-9835120e04fc.png?auto=format",
-        "https://ph-files.imgix.net/7432efeb-b9f9-4230-b4b2-802ad2776848.png?auto=format",
-        "https://ph-files.imgix.net/1cd71ac6-6ae5-4f15-8ba3-c8ec384fb023.png?auto=format",
-        "https://ph-files.imgix.net/3df0ee8d-a62e-4940-b144-1157577b7d44.png?auto=format",
-        "https://ph-files.imgix.net/235e0f08-1ec8-4417-95de-fc1184ab47bf.png?auto=format",
-        "https://ph-files.imgix.net/dd46b7ec-459c-4d9d-9d61-033f4cbbfb5a.png?auto=format"
-      ],
-      "maker": "Elie Steinbock",
-      "makerTitle": "Building Inbox Zero AI",
-      "featuredAt": "2026-10-18T07:01:00Z",
-      "votes": 366,
-      "websiteUrl": "https://www.producthunt.com/r/FK6F3KNVDZW35Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Hunters 👋I’m excited to launch Inbox Zero Mail, an open-source Superhuman alternative.I’ve been running Inbox Zero for 3 years. It started as an AI assistant for Gmail and Outlook, and grew to 12k GitHub stars and 25k+ sign-ups, including Enterprise customers.Now we’ve built our own email client.It’s open source, so you can self-host it or build the feature you’ve always wanted.⚡ Fast and keyboard-first📥 All your Gmail and Outlook accounts in one inbox🗂️ Split inbox✍️ AI drafts in your voice🧹 Bulk unsubscribe💬 Team comments📱 Web, Mac, Windows and iPhoneFree to use. AI is $20/month.🎁 Code PRODUCTHUNT26 gets 50% off AI for 3 months.🧹 Try it today: https://www.getinboxzero.com⭐️ Give us a star on GitHub: https://www.getinboxzero.com/githubWhat would you most like to see added to an open-source email app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks absolutely fantastic. The recent AI tool push for Gmail management is brilliant and is seriously making me rethink my forever-long iCloud mail in favor of moving to Gmail. I love the smooth, clean UI you've developed here."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is great! But my muscle memory with Gmail is so strong that switching to another email app feels like a lot of effort. As someone who's been using Gmail for years, what's the one thing you'd recommend I try that would make me want to switch?For the longest time, I didn't even try Superhuman because I couldn't justify paying that much for something Gmail already lets me do for free 😅"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@elie222 Inbox Zero looks like a great way to keep emails organized and save time. Love that it's open source and uses AI to sort emails and Draft replies!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I'm excited to try this out! So far so good.Heads up, I accidentally marked something as spam at one point and it was really hard to unmark it (I ended up opening up Gmail to unmark it). Besides that, it's been really cool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch Elie! Well done 👏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yo this is awesome Elie and team!! Keep it up 🚀"
-        }
-      ]
-    },
-    {
       "id": "ph-week-4",
       "date": "2026-10-13",
       "rank": 4,
@@ -15809,69 +15872,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-yesterday-1",
-      "date": "2026-10-19",
-      "rank": 1,
-      "name": "Beam.win",
-      "slug": "beam-win",
-      "tagline": "Run AI agents on one Mac and use its windows on another",
-      "description": "Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format",
-        "https://ph-files.imgix.net/66584171-b146-45e3-b4cb-5eed357cc35e.png?auto=format",
-        "https://ph-files.imgix.net/58d79bbb-c21c-4d3b-a688-f2e83b888f0f.png?auto=format",
-        "https://ph-files.imgix.net/dc9d677b-3c5f-4eee-a76c-03df642f428d.png?auto=format",
-        "https://ph-files.imgix.net/c4046de5-0cf9-4a39-9cfb-5d3b59079786.png?auto=format",
-        "https://ph-files.imgix.net/1edd4c36-3045-4601-b37a-5f539fe0a777.png?auto=format",
-        "https://ph-files.imgix.net/19a12456-0900-4c9c-82fc-52f5ba11dafc.png?auto=format",
-        "https://ph-files.imgix.net/2b5e5c84-b0bf-4242-88c8-d813a1fc49ba.png?auto=format",
-        "https://ph-files.imgix.net/96256e62-1312-4179-aaf1-4fb5cfc51d64.jpeg?auto=format"
-      ],
-      "maker": "Hiten Shah",
-      "makerTitle": "CEO of Crazy Egg (est. 2005)",
-      "featuredAt": "2026-10-19T07:01:00Z",
-      "votes": 363,
-      "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Hiten here.My setup has gotten a little weird. I've got Macs running agents and local models, with work continuing even when nobody's sitting in front of them.Sometimes I just want to check a Terminal, open a browser, or use an app on one of those machines. Getting there usually means opening Screen Sharing and navigating a whole second desktop.Sam and I have been working on Beam to make this easier.With Beam, you pick a window on another Mac and it opens alongside the apps on the Mac you're using. It gets its own Dock icon and a place in ⌘Tab. You can type into it and resize it like a normal window. You can also move files between Macs and hear the app's audio. The app itself keeps running on its original machine.When one window isn't enough, Beam lets you open an entire screen or the whole Mac.I'm especially excited about using Beam with headless Mac minis and Studios. They can keep running agents and other work while I use their apps from whichever Mac I'm sitting in front of.Beam works on Apple silicon Macs running Sonoma or later. You can connect over your local network or through Tailscale, with encrypted connections directly between Macs.It's available now and free to try for 20 minutes every day. Download it at Beam.win.A few weeks ago I asked people on X to show me their weird multi-Mac setups. The thread got over 100 replies, and I've loved seeing what everyone has built.One thing I've become fascinated by is the Mac nobody sits in front of.If you have one, what do you still need to open Screen Sharing for?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks really cool, but you lost me on the monthly subscription price and the lifetime price. I paid $75 for Screens in 2023, which I see is now $199 (ugh!). At least with Screen it's made by a company that's been around for 16 years. There's a good chance I'll see another 10 years out of this purchase. With a new company, it's hard to know if a lifetime license will be worth anything a year from now. IMO if you're looking to capture new users and momentum as a new tool maker, pricing it the same as your main competition is a miss."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Beam is awesome, I use it in my day to day to manage my fleet of macs. Screen sharing is a huge pain, Beam makes everything infinitely easier."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good work, any plans to make this available for phones ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@samasante Free to try and solves a real workflow problem. Definitely an interesting tool for mac users."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The product looks great, but the site (and the part site) have no security related content, no information on the company, people behind the project etc. Given the level of security this requires to operate, this is a no go for me, and I'm sure a lot of people."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great app but it won't run on an Intel Mac - bummer. This would have been a great app to breathe life into an old Intel Mac Pro."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "As one of the early adopters of Beam, I really like the ability to bring in a single app/window from other machines on my local network to get things done. It works really well and keeps distractions to a minimum. Congrats @hnshah and team on the launch."
-        }
-      ]
     },
     {
       "id": "ph-week-9",
@@ -17354,6 +17354,122 @@
       }
     },
     {
+      "id": "ph-week-5",
+      "date": "2026-10-15",
+      "rank": 5,
+      "name": "Talanoa",
+      "slug": "talanoa-2",
+      "tagline": "Email that feels like chat",
+      "description": "Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.",
+      "category": "Email • Productivity • Task Management",
+      "categoryFa": "ایمیل • بهره‌وری • مدیریت وظایف",
+      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format",
+        "https://ph-files.imgix.net/5094a753-f1bc-402a-977d-fe704ff82632.png?auto=format",
+        "https://ph-files.imgix.net/a6f5b563-c70d-4872-88b0-5099e0d36a85.png?auto=format",
+        "https://ph-files.imgix.net/48590961-6466-4ca7-a2f1-fa5db59aeae6.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "Building Talanoa - A Modern Email Client",
+      "featuredAt": "2026-10-15T07:01:00Z",
+      "votes": 345,
+      "websiteUrl": "https://www.producthunt.com/r/LOUVBI5K3ZIRPE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I’m John, the solo maker behind Talanoa. Funny enough, Talanoa was never supposed to become a product. I originally built it just for myself. I spend a huge part of my day in email, but I never really liked using traditional email clients. So instead of looking for yet another one, I started building the inbox I wanted for myself. Then I showed it to a few friends. They loved it. They started using it. And eventually, they put enough pressure on me to turn my little personal project into a real product. So… here we are. Along the way, one idea became increasingly obvious to me: Email is a conversation that forgot it was one. A thread between two people is basically a chat. A message, a reply, a reply to the reply. Yet email clients still show repeated quotes, signatures, headers, footers and years of clutter. So I rebuilt Talanoa around a different idea: what if email felt more like a messenger? Today, Talanoa turns your inbox into clean, chat-like conversations, while keeping everything that makes email, email. But it goes further: 💬 Emails become actual conversations ✅ Any email can become a todo with a next step and due date 📅 Your calendar lives alongside your conversations ✨ AI helps you search, summarize and write, entirely on-device 📥 Gmail, Outlook, iCloud and IMAP accounts can live in one inbox 🔒 No cloud sync, no tracking. Your emails stay on your computer. I’ve been building Talanoa independently, talking to users, breaking things, rebuilding them, and questioning quite a few assumptions we’ve had about email for the last 30 years. What started as a tool I built for myself has slowly become something much bigger, and this version finally feels like the Talanoa I always wanted to use. I’d genuinely love your feedback, especially on one thing: Does the “email as a conversation” approach change the way you feel about your inbox? And if there’s one thing your current email client does that you couldn’t live without, tell me. I’m listening 👇 Thanks for checking out Talanoa ❤️ John"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "John, this is a great app! But one thing: is it possible to have a web version? With yet another app open on my Mac, things just get messy. I like how Gmail just sits in a Chrome tab, all in one place and organized."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey John, I use a team inbox with a few other team members - maybe this is outside the scope, but are there any plans for supporting that kind of group inbox situation? I could see Talanoa bridging that gap nicely, given how it completely rewrites the UX of an inbox anyway. Great looking product, btw."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, John. Stripping quotes and signatures is what makes the chat view work, but it is also where email gets tricky. When someone answers inline, typing their replies between lines of the quoted message, does Talanoa detect and keep those interleaved answers, or can they get hidden as quoted text? That case comes up a lot in long threads with lawyers and engineers."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the privacy angle of it: on-device, no cloud sync. The clean chat view is a nice bonus too. Does the on-device AI work offline?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@bettercallj0hn Congrats and happy launch! I like the idea and support the local & offline approach. Maybe mcp would be a great feature for those who have their own agents running for managing mail."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch @bettercallj0hn!. Re-framing email as pure chat while keeping everything local and on-device without cloud sync is a huge win for privacy.Question: How does on-device AI perform with massive, multi-gigabyte mailboxes when indexing or searching past threads for the first time?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hello @bettercallj0hn , glad to see you launching the app on PH !I'm following Talanoa since the beginning and it's awesome how the app is growing fast. So many killer features that help me to keep my emails clean.Since I'm using it, impossible to get back to the original Gmail inbox ! Oh and I really appreciate receiving the \"new in talanoa\" email and I'm always excited to see what's new.Excited for the future ! Keep going ! :)"
+        }
+      ],
+      "faDescription": "تالانوا اولین پیام‌رسان ایمیل است که رشته‌های شلوغ و پراکنده ایمیل را به مکالمات تمیز و شبیه به چت تبدیل می‌کند. این ابزار با حذف اتصالات، امضاها و عناصر اضافی، تجربه کاربری را ساده و روان می‌سازد. شما می‌توانید ایمیل‌ها را به کارهای قابل انجام با تاریخ سررسید تبدیل کنید و بدون ترک صندوق ورودی، تقویم خود را مدیریت نمایید. از طریق هوش مصنوعی خصوصی و محلی، می‌توانید جستجو، خلاصه‌سازی و نوشتن متن‌ها را انجام دهید. تالانوا حساب‌های Gmail، Outlook، iCloud و هر حساب IMAP را در یک صندوق ورودی یکپارچه گرد هم می‌آورد. تمام داده‌ها روی کامپیوتر شما باقی می‌مانند؛ بدون همگام‌سازی ابری، بدون ردیابی و بدون دسترسی شخص ثالث به ایمیل‌های شما.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من جان، سازنده مستقل تالانوا هستم. جالب است که تالانوا اصلاً قرار نبود به یک محصول تبدیل شود. من در ابتدا آن را فقط برای خودم ساختم. من بخش بزرگی از روزم را در ایمیل می‌گذرانم، اما هرگز از استفاده از کلاینت‌های سنتی ایمیل خوشم نمی‌آمد. بنابراین به جای جستجوی یک کلاینت دیگر، شروع به ساخت صندوق ورودی‌ای کردم که خودم می‌خواستم داشته باشم. سپس آن را به چند دوست نشان دادم. آن‌ها عاشقش شدند. شروع به استفاده از آن کردند. و در نهایت، فشار کافی بر من وارد کردند تا پروژه شخصی کوچکم را به یک محصول واقعی تبدیل کنم. بنابراین... اینجا هستیم. در طول این مسیر، یک ایده به‌طور فزاینده‌ای برایم آشکار شد: ایمیل مکالمه‌ای است که فراموش کرده مکالمه است. یک رشته بین دو نفر اساساً یک چت است. یک پیام، یک پاسخ، یک پاسخ به پاسخ. با این حال، کلاینت‌های ایمیل هنوز هنوز اتصالات تکراری، امضاها، هدرها، فوترها و سال‌ها شلوغی را نمایش می‌دهند. بنابراین من تالانوا را بر اساس ایده متفاوتی بازسازی کردم: اگر ایمیل بیشتر شبیه یک پیام‌رسان حس می‌شد چه؟ امروز، تالانوا صندوق ورودی شما را به مکالمات تمیز و شبیه به چت تبدیل می‌کند، در حالی که همه چیزهایی که ایمیل را ایمیل می‌کند حفظ می‌شود. اما فراتر از آن می‌رود: 💬 ایمیل‌ها به مکالمات واقعی تبدیل می‌شوند ✅ هر ایمیلی می‌تواند به یک کار با مرحله بعدی و تاریخ سررسید تبدیل شود 📅 تقویم شما در کنار مکالمات شما زندگی می‌کند ✨ هوش مصنوعی به شما در جستجو، خلاصه‌سازی و نوشتن کمک می‌کند، کاملاً روی دستگاه 📥 حساب‌های Gmail، Outlook، iCloud و IMAP می‌توانند در یک صندوق ورودی زندگی کنند 🔒 بدون همگام‌سازی ابری، بدون ردیابی. ایمیل‌های شما روی کامپیوتر شما باقی می‌مانند. من به‌طور مستقل تالانوا را ساخته‌ام، با کاربران صحبت کرده‌ام، چیزها را خراب کرده‌ام، دوباره ساخته‌ام و بسیاری از فرضیه‌هایی را که در ۳۰ سال گذشته درباره ایمیل داشته‌ایم به چالش کشیده‌ام. آنچه به عنوان ابزاری که برای خودم ساخته بودم شروع شد، به تدریج به چیزی بسیار بزرگ‌تر تبدیل شده است و این نسخه بالاخره آن تالانواست که همیشه می‌خواستم استفاده کنم. واقعاً از بازخورد شما خوشحال می‌شوم، به‌ویژه در مورد یک چیز: آیا رویکرد «ایمیل به عنوان مکالمه» احساس شما را نسبت به صندوق ورودی تغییر می‌دهد؟ و اگر یک چیز وجود دارد که کلاینت ایمیل فعلی شما انجام می‌دهد و بدون آن نمی‌توانید زندگی کنید، به من بگویید. من گوش می‌دهم 👇 از بررسی تالانوا متشکرم ❤️ جان"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "جان، این یک اپلیکیشن عالی است! اما یک چیز: آیا امکان دارد یک نسخه وب داشته باشیم؟ با باز بودن یک اپلیکیشن دیگر روی مک من، همه چیز شلوغ می‌شود. من دوست دارم که Gmail فقط در یک تب کروم بنشیند، همه در یک مکان و منظم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "سلام جان، من از یک صندوق ورودی تیمی با چند عضو تیم دیگر استفاده می‌کنم - شاید این خارج از محدوده باشد، اما آیا برنامه‌ای برای پشتیبانی از آن نوع موقعیت صندوق ورودی گروهی وجود دارد؟ می‌توانم تصور کنم که تالانوا به‌خوبی این شکاف را پر کند، با توجه به اینکه به طور کامل UX یک صندوق ورودی را بازنویسی می‌کند. محصولی با ظاهر عالی، به هر حال."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت راه‌اندازی، جان. حذف اتصالات و امضاها چیزی است که نمای چت را کارآمد می‌کند، اما همین‌جاست که ایمیل پیچیده می‌شود. وقتی کسی به صورت درون‌خطی پاسخ می‌دهد، با تایپ پاسخ‌های خود بین خطوط پیام ارجاع داده شده، آیا تالانوا این پاسخ‌های بین‌خطی را تشخیص داده و حفظ می‌کند، یا ممکن است به عنوان متن ارجاع داده شده پنهان شوند؟ این مورد در رشته‌های طولانی با وکلا و مهندسان زیاد پیش می‌آید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من زاویه حریم خصوصی آن را دوست دارم: روی دستگاه، بدون همگام‌سازی ابری. نمای چت تمیز هم یک مزیت خوب است. آیا هوش مصنوعی روی دستگاه آفلاین کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "@bettercallj۰hn تبریک و راه‌اندازی شاد! من ایده را دوست دارم و رویکرد محلی و آفلاین را حمایت می‌کنم. شاید mcp یک ویژگی عالی برای کسانی باشد که خودشان ایجنت‌هایی برای مدیریت ایمیل اجرا می‌کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک بابت راه‌اندازی @bettercallj۰hn! بازتعریف ایمیل به عنوان چت خالص در حالی که همه چیز محلی و روی دستگاه بدون همگام‌سازی ابری باقی می‌ماند، یک پیروزی بزرگ برای حریم خصوصی است. سؤال: هوش مصنوعی روی دستگاه با صندوق‌های ورودی عظیم چند گیگابایتی هنگام ایندکس‌گذاری یا جستجوی رشته‌های گذشته برای اولین بار چگونه عمل می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام @bettercallj۰hn ، خوشحالم که می‌بینم اپلیکیشن را در PH راه‌اندازی کرده‌اید! من از ابتدا تالانوا را دنبال می‌کنم و عالی است که چگونه اپلیکیشن به سرعت رشد می‌کند. ویژگی‌های قاتل زیادی وجود دارد که به من کمک می‌کنند ایمیل‌هایم را تمیز نگه دارم. از آنجا که از آن استفاده می‌کنم، غیرممکن است به صندوق ورودی اصلی Gmail برگردم! و من واقعاً از دریافت ایمیل «جدید در تالانوا» قدردانی می‌کنم و همیشه هیجان‌زده می‌شوم که ببینم چه چیز جدیدی هست. مشتاق آینده هستم! ادامه بده! :)"
+        }
+      ],
+      "aiReview": "مسئله اصلی در این محصول، خستگی کاربری ناشی از شلوغی بصری و پیچیدگی رابط کاربری کلاینت‌های ایمیل سنتی است. راه‌حل ارائه‌شده، بازطراحی رادیکال رابط کاربری به سبک چت (Chat-like) است که با حذف عناصر غیرضروری مانند امضاها و هدرها، تمرکز کاربر را بر روی محتوا افزایش می‌دهد. از نظر معماری، این محصول رویکرد «On-Device» را به کار می‌گیرد که به معنای اجرای تمام پردازش‌ها از جمله هوش مصنوعی روی سخت‌افزار کاربر است؛ این رویکرد با استفاده از موتورهای سبک‌وزن و بهینه‌شده برای CPU/GPU محلی پیاده‌سازی می‌شود و مزیت بزرگ حریم خصوصی ایجاد می‌کند. مدل درآمدی احتمالی بر اساس اشتراک سازمانی (B۲B) است، زیرا ویژگی‌هایی مانند مدیریت تقویم یکپارچه و تبدیل ایمیل به Todo برای تیم‌ها ارزش افزوده بالایی دارد. نقاط قوت اصلی شامل تمرکز بر حریم خصوصی، تجربه کاربری مدرن و یکپارچگی چند حسابی است. نقاط ضعف می‌تواند شامل چالش‌های فنی در پردازش رشته‌های بسیار طولانی و پیچیده با الگوریتم‌های محلی و همچنین نیاز به آموزش کاربر برای تغییر عادت‌های قدیمی باشد. نکته طلایی برای ورود به بازار ایران، تمرکز بر «امنیت داده‌ها» و «کارکرد آفلاین» است؛ زیرا بسیاری از سازمان‌های ایرانی به دلیل نگرانی‌های امنیتی یا محدودیت‌های اینترنت، به دنبال راهکارهایی هستند که داده‌ها را خارج از محیط داخلی خود ارسال نکنند. همچنین ادغام با پیام‌رسان‌های داخلی می‌تواند یک مزیت رقابتی منحصربه‌فرد ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پست‌چت",
+        "description": "پست‌چت یک کلاینت ایمیل بومی است که تجربه کاربری صندوق ورودی را شبیه به پیام‌رسان‌های محبوب ایرانی مانند ایتا و بله بازطراحی می‌کند. این محصول با حذف شلوغی‌های بصری و ارائه نمای مکالمه‌ای، فرآیند خواندن و پاسخ‌دهی به ایمیل‌ها را ساده و سریع می‌سازد. همچنین قابلیت تبدیل ایمیل به کارهای قابل پیگیری و مدیریت تقویم را در یک محیط یکپارچه و کاملاً آفلاین ارائه می‌دهد.",
+        "marketOpportunity": "بازار ایمیل سازمانی در ایران با وجود رشد استارتاپ‌ها و شرکت‌های فناوری، هنوز از ابزارهای سنتی و پرهزینه خارجی استفاده می‌کند. ارائه یک راهکار بومی با تمرکز بر حریم خصوصی و عملکرد آفلاین می‌تواند شکاف بزرگ موجود در تجربه کاربری ایمیل سازمانی را پر کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های فناوری، تیم‌های توسعه‌دهنده نرم‌افزار، و شرکت‌های متوسط و بزرگ که به دنبال افزایش بهره‌وری تیم‌های خود و حفظ امنیت داده‌ها هستند.",
+        "challenges": [
+          "رقابت شدید با کلاینت‌های رایگان و رایج مانند Outlook و Thunderbird که کاربران به آن‌ها عادت کرده‌اند.",
+          "نیاز به توسعه الگوریتم‌های هوش مصنوعی سبک‌وزن برای اجرا روی سخت‌افزارهای متنوع و گاهی قدیمی در بازار ایران."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای کاربران سازمانی با دسترسی به ویژگی‌های پیشرفته هوش مصنوعی و مدیریت تیمی.",
+          "فروش لایسنس دائمی برای شرکت‌هایی که ترجیح می‌دهند هزینه‌های جاری نداشته باشند."
+        ],
+        "techStack": [
+          "Electron",
+          "SQLite",
+          "Rust",
+          "Python"
+        ],
+        "confidence": 80
+      }
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-08-09",
       "rank": 8,
@@ -18541,122 +18657,6 @@
       }
     },
     {
-      "id": "ph-week-6",
-      "date": "2026-10-15",
-      "rank": 6,
-      "name": "Talanoa",
-      "slug": "talanoa-2",
-      "tagline": "Email that feels like chat",
-      "description": "Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.",
-      "category": "Email • Productivity • Task Management",
-      "categoryFa": "ایمیل • بهره‌وری • مدیریت وظایف",
-      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format",
-        "https://ph-files.imgix.net/5094a753-f1bc-402a-977d-fe704ff82632.png?auto=format",
-        "https://ph-files.imgix.net/a6f5b563-c70d-4872-88b0-5099e0d36a85.png?auto=format",
-        "https://ph-files.imgix.net/48590961-6466-4ca7-a2f1-fa5db59aeae6.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "Building Talanoa - A Modern Email Client",
-      "featuredAt": "2026-10-15T07:01:00Z",
-      "votes": 334,
-      "websiteUrl": "https://www.producthunt.com/r/LOUVBI5K3ZIRPE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I’m John, the solo maker behind Talanoa. Funny enough, Talanoa was never supposed to become a product. I originally built it just for myself. I spend a huge part of my day in email, but I never really liked using traditional email clients. So instead of looking for yet another one, I started building the inbox I wanted for myself. Then I showed it to a few friends. They loved it. They started using it. And eventually, they put enough pressure on me to turn my little personal project into a real product. So… here we are. Along the way, one idea became increasingly obvious to me: Email is a conversation that forgot it was one. A thread between two people is basically a chat. A message, a reply, a reply to the reply. Yet email clients still show repeated quotes, signatures, headers, footers and years of clutter. So I rebuilt Talanoa around a different idea: what if email felt more like a messenger? Today, Talanoa turns your inbox into clean, chat-like conversations, while keeping everything that makes email, email. But it goes further: 💬 Emails become actual conversations ✅ Any email can become a todo with a next step and due date 📅 Your calendar lives alongside your conversations ✨ AI helps you search, summarize and write, entirely on-device 📥 Gmail, Outlook, iCloud and IMAP accounts can live in one inbox 🔒 No cloud sync, no tracking. Your emails stay on your computer. I’ve been building Talanoa independently, talking to users, breaking things, rebuilding them, and questioning quite a few assumptions we’ve had about email for the last 30 years. What started as a tool I built for myself has slowly become something much bigger, and this version finally feels like the Talanoa I always wanted to use. I’d genuinely love your feedback, especially on one thing: Does the “email as a conversation” approach change the way you feel about your inbox? And if there’s one thing your current email client does that you couldn’t live without, tell me. I’m listening 👇 Thanks for checking out Talanoa ❤️ John"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "John, this is a great app! But one thing: is it possible to have a web version? With yet another app open on my Mac, things just get messy. I like how Gmail just sits in a Chrome tab, all in one place and organized."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey John, I use a team inbox with a few other team members - maybe this is outside the scope, but are there any plans for supporting that kind of group inbox situation? I could see Talanoa bridging that gap nicely, given how it completely rewrites the UX of an inbox anyway. Great looking product, btw."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, John. Stripping quotes and signatures is what makes the chat view work, but it is also where email gets tricky. When someone answers inline, typing their replies between lines of the quoted message, does Talanoa detect and keep those interleaved answers, or can they get hidden as quoted text? That case comes up a lot in long threads with lawyers and engineers."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like the privacy angle of it: on-device, no cloud sync. The clean chat view is a nice bonus too. Does the on-device AI work offline?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@bettercallj0hn Congrats and happy launch! I like the idea and support the local & offline approach. Maybe mcp would be a great feature for those who have their own agents running for managing mail."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch @bettercallj0hn!. Re-framing email as pure chat while keeping everything local and on-device without cloud sync is a huge win for privacy.Question: How does on-device AI perform with massive, multi-gigabyte mailboxes when indexing or searching past threads for the first time?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hello @bettercallj0hn , glad to see you launching the app on PH !I'm following Talanoa since the beginning and it's awesome how the app is growing fast. So many killer features that help me to keep my emails clean.Since I'm using it, impossible to get back to the original Gmail inbox ! Oh and I really appreciate receiving the \"new in talanoa\" email and I'm always excited to see what's new.Excited for the future ! Keep going ! :)"
-        }
-      ],
-      "faDescription": "تالانوا اولین پیام‌رسان ایمیل است که رشته‌های شلوغ و پراکنده ایمیل را به مکالمات تمیز و شبیه به چت تبدیل می‌کند. این ابزار با حذف اتصالات، امضاها و عناصر اضافی، تجربه کاربری را ساده و روان می‌سازد. شما می‌توانید ایمیل‌ها را به کارهای قابل انجام با تاریخ سررسید تبدیل کنید و بدون ترک صندوق ورودی، تقویم خود را مدیریت نمایید. از طریق هوش مصنوعی خصوصی و محلی، می‌توانید جستجو، خلاصه‌سازی و نوشتن متن‌ها را انجام دهید. تالانوا حساب‌های Gmail، Outlook، iCloud و هر حساب IMAP را در یک صندوق ورودی یکپارچه گرد هم می‌آورد. تمام داده‌ها روی کامپیوتر شما باقی می‌مانند؛ بدون همگام‌سازی ابری، بدون ردیابی و بدون دسترسی شخص ثالث به ایمیل‌های شما.",
-      "faComments": [
-        {
-          "user": "کاربر ProductHunt 1",
-          "text": "سلام Product Hunt 👋 من جان، سازنده مستقل تالانوا هستم. جالب است که تالانوا اصلاً قرار نبود به یک محصول تبدیل شود. من در ابتدا آن را فقط برای خودم ساختم. من بخش بزرگی از روزم را در ایمیل می‌گذرانم، اما هرگز از استفاده از کلاینت‌های سنتی ایمیل خوشم نمی‌آمد. بنابراین به جای جستجوی یک کلاینت دیگر، شروع به ساخت صندوق ورودی‌ای کردم که خودم می‌خواستم داشته باشم. سپس آن را به چند دوست نشان دادم. آن‌ها عاشقش شدند. شروع به استفاده از آن کردند. و در نهایت، فشار کافی بر من وارد کردند تا پروژه شخصی کوچکم را به یک محصول واقعی تبدیل کنم. بنابراین... اینجا هستیم. در طول این مسیر، یک ایده به‌طور فزاینده‌ای برایم آشکار شد: ایمیل مکالمه‌ای است که فراموش کرده مکالمه است. یک رشته بین دو نفر اساساً یک چت است. یک پیام، یک پاسخ، یک پاسخ به پاسخ. با این حال، کلاینت‌های ایمیل هنوز هنوز اتصالات تکراری، امضاها، هدرها، فوترها و سال‌ها شلوغی را نمایش می‌دهند. بنابراین من تالانوا را بر اساس ایده متفاوتی بازسازی کردم: اگر ایمیل بیشتر شبیه یک پیام‌رسان حس می‌شد چه؟ امروز، تالانوا صندوق ورودی شما را به مکالمات تمیز و شبیه به چت تبدیل می‌کند، در حالی که همه چیزهایی که ایمیل را ایمیل می‌کند حفظ می‌شود. اما فراتر از آن می‌رود: 💬 ایمیل‌ها به مکالمات واقعی تبدیل می‌شوند ✅ هر ایمیلی می‌تواند به یک کار با مرحله بعدی و تاریخ سررسید تبدیل شود 📅 تقویم شما در کنار مکالمات شما زندگی می‌کند ✨ هوش مصنوعی به شما در جستجو، خلاصه‌سازی و نوشتن کمک می‌کند، کاملاً روی دستگاه 📥 حساب‌های Gmail، Outlook، iCloud و IMAP می‌توانند در یک صندوق ورودی زندگی کنند 🔒 بدون همگام‌سازی ابری، بدون ردیابی. ایمیل‌های شما روی کامپیوتر شما باقی می‌مانند. من به‌طور مستقل تالانوا را ساخته‌ام، با کاربران صحبت کرده‌ام، چیزها را خراب کرده‌ام، دوباره ساخته‌ام و بسیاری از فرضیه‌هایی را که در ۳۰ سال گذشته درباره ایمیل داشته‌ایم به چالش کشیده‌ام. آنچه به عنوان ابزاری که برای خودم ساخته بودم شروع شد، به تدریج به چیزی بسیار بزرگ‌تر تبدیل شده است و این نسخه بالاخره آن تالانواست که همیشه می‌خواستم استفاده کنم. واقعاً از بازخورد شما خوشحال می‌شوم، به‌ویژه در مورد یک چیز: آیا رویکرد «ایمیل به عنوان مکالمه» احساس شما را نسبت به صندوق ورودی تغییر می‌دهد؟ و اگر یک چیز وجود دارد که کلاینت ایمیل فعلی شما انجام می‌دهد و بدون آن نمی‌توانید زندگی کنید، به من بگویید. من گوش می‌دهم 👇 از بررسی تالانوا متشکرم ❤️ جان"
-        },
-        {
-          "user": "کاربر ProductHunt 2",
-          "text": "جان، این یک اپلیکیشن عالی است! اما یک چیز: آیا امکان دارد یک نسخه وب داشته باشیم؟ با باز بودن یک اپلیکیشن دیگر روی مک من، همه چیز شلوغ می‌شود. من دوست دارم که Gmail فقط در یک تب کروم بنشیند، همه در یک مکان و منظم."
-        },
-        {
-          "user": "کاربر ProductHunt 3",
-          "text": "سلام جان، من از یک صندوق ورودی تیمی با چند عضو تیم دیگر استفاده می‌کنم - شاید این خارج از محدوده باشد، اما آیا برنامه‌ای برای پشتیبانی از آن نوع موقعیت صندوق ورودی گروهی وجود دارد؟ می‌توانم تصور کنم که تالانوا به‌خوبی این شکاف را پر کند، با توجه به اینکه به طور کامل UX یک صندوق ورودی را بازنویسی می‌کند. محصولی با ظاهر عالی، به هر حال."
-        },
-        {
-          "user": "کاربر ProductHunt 4",
-          "text": "تبریک بابت راه‌اندازی، جان. حذف اتصالات و امضاها چیزی است که نمای چت را کارآمد می‌کند، اما همین‌جاست که ایمیل پیچیده می‌شود. وقتی کسی به صورت درون‌خطی پاسخ می‌دهد، با تایپ پاسخ‌های خود بین خطوط پیام ارجاع داده شده، آیا تالانوا این پاسخ‌های بین‌خطی را تشخیص داده و حفظ می‌کند، یا ممکن است به عنوان متن ارجاع داده شده پنهان شوند؟ این مورد در رشته‌های طولانی با وکلا و مهندسان زیاد پیش می‌آید."
-        },
-        {
-          "user": "کاربر ProductHunt 5",
-          "text": "من زاویه حریم خصوصی آن را دوست دارم: روی دستگاه، بدون همگام‌سازی ابری. نمای چت تمیز هم یک مزیت خوب است. آیا هوش مصنوعی روی دستگاه آفلاین کار می‌کند؟"
-        },
-        {
-          "user": "کاربر ProductHunt 6",
-          "text": "@bettercallj۰hn تبریک و راه‌اندازی شاد! من ایده را دوست دارم و رویکرد محلی و آفلاین را حمایت می‌کنم. شاید mcp یک ویژگی عالی برای کسانی باشد که خودشان ایجنت‌هایی برای مدیریت ایمیل اجرا می‌کنند."
-        },
-        {
-          "user": "کاربر ProductHunt 7",
-          "text": "تبریک بابت راه‌اندازی @bettercallj۰hn! بازتعریف ایمیل به عنوان چت خالص در حالی که همه چیز محلی و روی دستگاه بدون همگام‌سازی ابری باقی می‌ماند، یک پیروزی بزرگ برای حریم خصوصی است. سؤال: هوش مصنوعی روی دستگاه با صندوق‌های ورودی عظیم چند گیگابایتی هنگام ایندکس‌گذاری یا جستجوی رشته‌های گذشته برای اولین بار چگونه عمل می‌کند؟"
-        },
-        {
-          "user": "کاربر ProductHunt 8",
-          "text": "سلام @bettercallj۰hn ، خوشحالم که می‌بینم اپلیکیشن را در PH راه‌اندازی کرده‌اید! من از ابتدا تالانوا را دنبال می‌کنم و عالی است که چگونه اپلیکیشن به سرعت رشد می‌کند. ویژگی‌های قاتل زیادی وجود دارد که به من کمک می‌کنند ایمیل‌هایم را تمیز نگه دارم. از آنجا که از آن استفاده می‌کنم، غیرممکن است به صندوق ورودی اصلی Gmail برگردم! و من واقعاً از دریافت ایمیل «جدید در تالانوا» قدردانی می‌کنم و همیشه هیجان‌زده می‌شوم که ببینم چه چیز جدیدی هست. مشتاق آینده هستم! ادامه بده! :)"
-        }
-      ],
-      "aiReview": "مسئله اصلی در این محصول، خستگی کاربری ناشی از شلوغی بصری و پیچیدگی رابط کاربری کلاینت‌های ایمیل سنتی است. راه‌حل ارائه‌شده، بازطراحی رادیکال رابط کاربری به سبک چت (Chat-like) است که با حذف عناصر غیرضروری مانند امضاها و هدرها، تمرکز کاربر را بر روی محتوا افزایش می‌دهد. از نظر معماری، این محصول رویکرد «On-Device» را به کار می‌گیرد که به معنای اجرای تمام پردازش‌ها از جمله هوش مصنوعی روی سخت‌افزار کاربر است؛ این رویکرد با استفاده از موتورهای سبک‌وزن و بهینه‌شده برای CPU/GPU محلی پیاده‌سازی می‌شود و مزیت بزرگ حریم خصوصی ایجاد می‌کند. مدل درآمدی احتمالی بر اساس اشتراک سازمانی (B۲B) است، زیرا ویژگی‌هایی مانند مدیریت تقویم یکپارچه و تبدیل ایمیل به Todo برای تیم‌ها ارزش افزوده بالایی دارد. نقاط قوت اصلی شامل تمرکز بر حریم خصوصی، تجربه کاربری مدرن و یکپارچگی چند حسابی است. نقاط ضعف می‌تواند شامل چالش‌های فنی در پردازش رشته‌های بسیار طولانی و پیچیده با الگوریتم‌های محلی و همچنین نیاز به آموزش کاربر برای تغییر عادت‌های قدیمی باشد. نکته طلایی برای ورود به بازار ایران، تمرکز بر «امنیت داده‌ها» و «کارکرد آفلاین» است؛ زیرا بسیاری از سازمان‌های ایرانی به دلیل نگرانی‌های امنیتی یا محدودیت‌های اینترنت، به دنبال راهکارهایی هستند که داده‌ها را خارج از محیط داخلی خود ارسال نکنند. همچنین ادغام با پیام‌رسان‌های داخلی می‌تواند یک مزیت رقابتی منحصربه‌فرد ایجاد کند.",
-      "iranEquivalent": {
-        "productName": "پست‌چت",
-        "description": "پست‌چت یک کلاینت ایمیل بومی است که تجربه کاربری صندوق ورودی را شبیه به پیام‌رسان‌های محبوب ایرانی مانند ایتا و بله بازطراحی می‌کند. این محصول با حذف شلوغی‌های بصری و ارائه نمای مکالمه‌ای، فرآیند خواندن و پاسخ‌دهی به ایمیل‌ها را ساده و سریع می‌سازد. همچنین قابلیت تبدیل ایمیل به کارهای قابل پیگیری و مدیریت تقویم را در یک محیط یکپارچه و کاملاً آفلاین ارائه می‌دهد.",
-        "marketOpportunity": "بازار ایمیل سازمانی در ایران با وجود رشد استارتاپ‌ها و شرکت‌های فناوری، هنوز از ابزارهای سنتی و پرهزینه خارجی استفاده می‌کند. ارائه یک راهکار بومی با تمرکز بر حریم خصوصی و عملکرد آفلاین می‌تواند شکاف بزرگ موجود در تجربه کاربری ایمیل سازمانی را پر کند.",
-        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
-        "targetAudience": "استارتاپ‌های فناوری، تیم‌های توسعه‌دهنده نرم‌افزار، و شرکت‌های متوسط و بزرگ که به دنبال افزایش بهره‌وری تیم‌های خود و حفظ امنیت داده‌ها هستند.",
-        "challenges": [
-          "رقابت شدید با کلاینت‌های رایگان و رایج مانند Outlook و Thunderbird که کاربران به آن‌ها عادت کرده‌اند.",
-          "نیاز به توسعه الگوریتم‌های هوش مصنوعی سبک‌وزن برای اجرا روی سخت‌افزارهای متنوع و گاهی قدیمی در بازار ایران."
-        ],
-        "monetization": [
-          "مدل اشتراک ماهانه برای کاربران سازمانی با دسترسی به ویژگی‌های پیشرفته هوش مصنوعی و مدیریت تیمی.",
-          "فروش لایسنس دائمی برای شرکت‌هایی که ترجیح می‌دهند هزینه‌های جاری نداشته باشند."
-        ],
-        "techStack": [
-          "Electron",
-          "SQLite",
-          "Rust",
-          "Python"
-        ],
-        "confidence": 80
-      }
-    },
-    {
       "id": "ph-yesterday-1",
       "date": "2026-09-20",
       "rank": 1,
@@ -19785,6 +19785,64 @@
         ],
         "confidence": 70
       }
+    },
+    {
+      "id": "ph-yesterday-2",
+      "date": "2026-10-20",
+      "rank": 2,
+      "name": "Composio Instant",
+      "slug": "composio-instant",
+      "tagline": "The easiest way for AI agents to pay for their own tools",
+      "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
+      "category": "Developer Tools • Artificial Intelligence • SDK",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
+      "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/09b314a7-f001-4b4c-a157-7db52ecbbd9b.png?auto=format",
+        "https://ph-files.imgix.net/b308c0fd-8666-4471-8419-4087d7808115.png?auto=format",
+        "https://ph-files.imgix.net/6a16d2d7-811f-4a40-b10f-0fd0c1d95cbd.png?auto=format",
+        "https://ph-files.imgix.net/67f68425-fd41-4abd-98af-e400a2d8c986.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 325,
+      "websiteUrl": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Used composio instant to do trading at alpaca using balance approach , pulled in live feeds and data from serp api and and pricing aggregators. Added a dashboard to capture the live trade. Made 52$ in profits( can be implemented to real setup , but with few changes) . Most of api credits and refill hassle was solved using composio instant giving near realtime price updates. This was a paper trade , can be adapted to real trades , with tweaks. Nice product :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It took me longer than I would have liked to set up API keys for a voiceover service that my agent only used one time. If this is what the Instant wallet system will allow for, then I would do things differently, as currently I do not try new tools due to setup costs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on your launch @aidanhornsby. What happens if an agent keeps spending on a task that isn't really getting anywhere?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I have three separate API keys for transcription alone. If I can use that through my agent using one wallet, then that is an easy job for me."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This $2 initial credit is a great idea. Allows me to test the waters before I commit myself to incorporating it into my daily routine."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I have been dreading using five different API keys for one agent. If Instant doesn’t do this, I am going to use it today."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like what you are building but I'm a bit confused between \"For you\" and \"For developers\"I want to allow my users to use Composio integrations, is Instant also valid for this use case ?I was comparing yesterday the price between Composio, Monid and looot. Without digging, Claude told me you are 3 times more expensive, can you tell me if there is a misunderstanding here ? The comparaison was based on Firecrawl I think"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Thinking of running a whole business with just my agent and Instant tools 👀"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -27775,6 +27833,69 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-21",
+      "rank": 1,
+      "name": "UseIt Studio",
+      "slug": "useit-studio",
+      "tagline": "Your AI design agent for real, editable project files.",
+      "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
+      "category": "Design Tools • Art • Artificial Intelligence",
+      "categoryFa": "ابزار طراحی • Art • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format",
+        "https://ph-files.imgix.net/5e977eaf-13a7-4f94-b873-00241e51e92a.png?auto=format",
+        "https://ph-files.imgix.net/04f63dd6-9ac0-44b3-9fa9-56ab3670c577.png?auto=format",
+        "https://ph-files.imgix.net/3dfeb813-e1d0-4a18-a137-b9f081499a9b.png?auto=format",
+        "https://ph-files.imgix.net/41fa0643-1c47-4d93-b197-b6ea76d040dc.png?auto=format",
+        "https://ph-files.imgix.net/5f266d51-0e6a-4217-86ce-105e25f53109.png?auto=format",
+        "https://ph-files.imgix.net/b6bfd50c-c13e-4261-b1b3-66f0edbdcc3f.png?auto=format",
+        "https://ph-files.imgix.net/d90a75b2-eefc-43be-a12b-3a90d764afa6.png?auto=format",
+        "https://ph-files.imgix.net/113f8138-c9b2-40df-a944-5c8515b9adf5.png?auto=format"
+      ],
+      "maker": "Lindia Chen",
+      "makerTitle": "I was drunk, but haunted by sobriety.",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 264,
+      "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋I'm Lindia, Co-founder of UseIt.Five years ago, when I first stepped into the world of AI, I had a dream: what if AI could turn our wildest ideas into things we could actually hold in our hands?A gift for someone special, a character you dreamed up, or something that simply didn't exist anywhere else.Back then, it felt like a distant dream. But I've held onto that idea ever since.And today, I'm incredibly excited to finally bring that dream to life with UseIt. 🥹Meet UseIt, your AI-powered design studio for the physical world.With UseIt, all you need is an idea. Simply describe what you have in mind, and AI helps you figure out the rest, from shaping the design to preparing files that can actually be manufactured. You can keep experimenting, making changes, and exploring possibilities without getting lost in complicated design tools.Huge thanks to @zaczuo for hunting us! 🙏🎁 Use code PHP-01-0002 to claim 15000 credits for everyone who joins today.Let's make imagination tangible. ✨"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great product and congratulations on the launch!I've signed up and whipped up a looping animation for a static logo.Very happy with the quality as of now.This might go into my usual toolset!One minor nitpick, it'd be great if the paid plans were mentioned on the homepage.To my knowledge, they are not.Anyway, aside from that one nitpick, I really liked useit.im!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @lindiac and team, congrats on launch. Lovely product :) Would def love to see, how it grows further. Congrats on launch and best wishes ahead 😄"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Lindia and Daniel on the launch! Curious how you handle the step from a nice looking model to something a factory will actually accept. Do the files come out with tolerances and material picked already, or is that still on the user?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi team, Congrats on Launch, will this available on chatgpt Plugin extension? it will be nice to directly use there"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I can see potential applications for independent creators."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The dimensions and dielines in the editable file caught my eye. Those details matter when the next step is actually making the box, and being able to change one part on the canvas makes sense."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I would wish to have an agent that can replicate a Canva design in Figma. Is it something that your agent can handle too?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-2",
       "date": "2026-10-03",
       "rank": 2,
@@ -28920,9 +29041,9 @@
       }
     },
     {
-      "id": "ph-week-10",
+      "id": "ph-week-9",
       "date": "2026-10-16",
-      "rank": 10,
+      "rank": 9,
       "name": "Tesla Roadster",
       "slug": "tesla-roadster",
       "tagline": "The hypercar that flies",
@@ -29196,67 +29317,9 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-20",
-      "rank": 2,
-      "name": "Composio Instant",
-      "slug": "composio-instant",
-      "tagline": "The easiest way for AI agents to pay for their own tools",
-      "description": "Give your agent superpowers. No subscriptions, no signups. With Composio Instant, your agent can search the web, find business contacts, create voiceovers, turn audio into text, and so much more. Try it free: composio.dev/instant",
-      "category": "Developer Tools • Artificial Intelligence • SDK",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
-      "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/09b314a7-f001-4b4c-a157-7db52ecbbd9b.png?auto=format",
-        "https://ph-files.imgix.net/b308c0fd-8666-4471-8419-4087d7808115.png?auto=format",
-        "https://ph-files.imgix.net/6a16d2d7-811f-4a40-b10f-0fd0c1d95cbd.png?auto=format",
-        "https://ph-files.imgix.net/67f68425-fd41-4abd-98af-e400a2d8c986.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 251,
-      "websiteUrl": "https://www.producthunt.com/r/PO3RPT47NFZ2LL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "I like what you are building but I'm a bit confused between \"For you\" and \"For developers\"I want to allow my users to use Composio integrations, is Instant also valid for this use case ?I was comparing yesterday the price between Composio, Monid and looot. Without digging, Claude told me you are 3 times more expensive, can you tell me if there is a misunderstanding here ? The comparaison was based on Firecrawl I think"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Thinking of running a whole business with just my agent and Instant tools 👀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love Compasio so much; I wish you guys were charging money :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Most tool platforms stop at authentication!! Can you set a spending limit for each agent?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on Instant, love this. What happens when an agent needs approval for a paid task and you’re away from your desk?We could connect this with Pushary: approve from your phone and let the agent keep working. I can build a small open-source example wdyt?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi team, Congrats for the launch. So this is a integration of 1000+ free tools plus a platform to manage the subscription? But ends up I still need to subscripe each of paid tool?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "That's a really cool idea! Does it also help with the API keys? By that i mean storing them somewhere safe but where you have an overview of all the APIs/tools, their costs and maybe if some have expired, etc"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does the agent decide which paid tool to use when there are several options that can handle the same task? Congrats @dax1 & team! Thanks for sharing @fmerian 🙌🏻"
-        }
-      ]
-    },
-    {
-      "id": "ph-yesterday-2",
+      "id": "ph-week-10",
       "date": "2026-10-15",
-      "rank": 2,
+      "rank": 10,
       "name": "Navige",
       "slug": "navige",
       "tagline": "Cut AI agent costs and control runaway spending",
@@ -29289,10 +29352,6 @@
         },
         {
           "user": "[REDACTED]",
-          "text": "I mostly use this to stop my Discord bots from draining my budget when my friends flood them with messages. The loop detection feature is the thing I really care about since last month one bot started talking to itself all night. The dashboard is a bit confusing if you just want a simple on/off button."
-        },
-        {
-          "user": "[REDACTED]",
           "text": "Can I leave Watchtower running for a month and then decide whether to upgrade?"
         },
         {
@@ -29310,6 +29369,10 @@
         {
           "user": "[REDACTED]",
           "text": "Congrats Soji, Akhil, and the Navige team on the launch. The rule that a fumbled tool call re-runs on the original model is a sensible safety net. Since the paid plan is a share of measured savings, does the cost of that failed small-model attempt get netted out of the savings figure for the job, and does Watchtower show how often each agent hits that fallback?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Why should I put another service between my AI agents and their providers? Isn't that another thing that could break?"
         }
       ]
     },
@@ -31696,6 +31759,56 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-21",
+      "rank": 2,
+      "name": "BAND for Developers",
+      "slug": "band-for-developers",
+      "tagline": "Coding agents, meet teamwork",
+      "description": "Running multiple coding agents shouldn’t mean becoming their project manager. BAND lets them work together. Connect agents across your existing development tools and give them a shared workspace to coordinate tasks, exchange context, and hand off work without you playing middleman. See what every agent is doing, step in when decisions need your judgment, and scale agentic development across teams. Your agents stay in their existing tools while BAND handles the teamwork.",
+      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d2484b7e-3a24-4ad0-a225-c5f873420f15.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3e26af9c-c3f2-4346-9b4b-425d511bcde5.png?auto=format",
+        "https://ph-files.imgix.net/d4a53d23-9b2c-4901-af76-1794ce4c5a34.png?auto=format",
+        "https://ph-files.imgix.net/467ce23e-2f2b-4ad0-a79d-7ba99688e59a.png?auto=format",
+        "https://ph-files.imgix.net/332a3775-162f-4212-85de-26f6e93f5792.png?auto=format",
+        "https://ph-files.imgix.net/6652d0ce-ed81-419c-ac3c-f87298acaa2d.png?auto=format",
+        "https://ph-files.imgix.net/8521f765-c442-4190-b5f0-5b2fca11b475.png?auto=format",
+        "https://ph-files.imgix.net/e1107322-df2c-4b8f-af31-627b8a0632e8.png?auto=format",
+        "https://ph-files.imgix.net/c8f42ee1-18fa-4128-b2c8-42f3d102ba13.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 229,
+      "websiteUrl": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! how is context managed between different agents? is there a risk that one agent may not have the full context and incorrectly invalidate the output from another? Is reasoning also shared between agents?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "so many coding agents?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "really neat workflow fit. how does it handlee syncing across multiple devices smoothly?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Keeping the decisions and work state in the room makes sense when agents have separate sessions. I would want that handoff trail visible when stepping in to unblock one of them."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt,I'm Arick, co-founder and CEO of BAND. Today we're launching BAND for Developers.If you run more than one coding agent, you know the pattern. Each agent is fast on its own, but they can't talk to each other, so you become the go-between. You copy context from one session into the next, tell the test agent what the refactor agent just changed, and find out an hour later that two agents made opposite assumptions about the same interface. More agents should mean more work done. Instead, a lot of it turns into more coordination for you.Most multi-agent dev tools today give you a better dispatch board. You assign tasks, agents run in parallel, you review what comes back. That helps with throughput, but every handoff still goes through a human.BAND for Developers lets the agents work it out between themselves:- Connect the agents you already run. Claude Code, Codex, GitHub Copilot and OpenCode agents join shared rooms across machines. You keep your IDE, your terminal and your workflow.- Agents collaborate directly. They message each other, delegate, review each other's work and unblock one another. They can pull in a teammate's agent when the work needs it. Plans, decisions and work state live in the room rather than inside one session, so they survive when a session ends.- You step in when it matters. You keep working from the terminal. BAND desktop shows what's moving, what's blocked and which agent is waiting on you. Open the room, answer the question or redirect the agent, then step back out while the rest of the work keeps going.The difference is that the agents aren't only running side by side. They coordinate while the work is happening, so many of the handoffs you'd normally do yourself happen without you. And you don't have to move your whole team onto one vendor's agents to get there.BAND desktop is free. Download it at band.ai/use-cases/band-desktop. We'd like to hear where it breaks for you, especially if your agents run across more than one harness. The team and I will be in the comments all day."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-02",
       "rank": 4,
@@ -32336,6 +32449,71 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "به‌طور اتفاقی این پست را پیدا کردم چون Claude Code من ۳۰ سال طول می‌کشید. چه به‌موقع!"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-10-21",
+      "rank": 3,
+      "name": "Needle",
+      "slug": "needle-391a6980-1f80-4939-8a6d-535d2f72c156",
+      "tagline": "The agent-native outbound engine",
+      "description": "Find your perfect leads and reach out by prompting Claude, ChatGPT, or Grok. Wherever your ICP are, on LinkedIn, Instagram, or email.",
+      "category": "Sales • Artificial Intelligence • LinkedIn",
+      "categoryFa": "فروش • هوش مصنوعی • LinkedIn",
+      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a2d0f7e4-e61f-4f28-b2b5-93285c924254.webp?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c5d8f0ba-dea1-4953-87e7-c0348d4c42da.png?auto=format",
+        "https://ph-files.imgix.net/3571ea13-42cf-4e76-b317-2ffec62c1ea1.jpeg?auto=format",
+        "https://ph-files.imgix.net/19a2d32a-fd30-46a5-940d-126f06ec0141.png?auto=format",
+        "https://ph-files.imgix.net/6379cfbe-b14c-4419-82eb-5a6633ae0b4a.png?auto=format",
+        "https://ph-files.imgix.net/3d7d19e2-b78e-40d0-8def-4d1a7e2a4828.png?auto=format",
+        "https://ph-files.imgix.net/ce15a88d-916f-488b-a229-e970d309ca27.png?auto=format",
+        "https://ph-files.imgix.net/086cac1b-ceaf-4724-be74-dc480ef0a22d.png?auto=format",
+        "https://ph-files.imgix.net/f2eafa26-3a29-4e4e-9edc-ff220649fad6.png?auto=format",
+        "https://ph-files.imgix.net/59c32c7c-5631-41c6-b979-3ab67b6f2d81.png?auto=format",
+        "https://ph-files.imgix.net/5e06f156-8b3e-49c9-aaec-b8ca00cc89ca.png?auto=format",
+        "https://ph-files.imgix.net/2284dec3-3e6e-4750-828d-9721dd2acb7f.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 225,
+      "websiteUrl": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey there PH community 👋Onur here, founder of Needle with @jan_heimes This is our 6th launch, and thank you to everyone who has followed our journey.The problem: outbound today means juggling 5+ tools. You use one for lists, one for enrichment, one for sequences, one for LinkedIn, and you spend your evenings copy-pasting CSVs between them.What we built: Needle is an outbound engine your AI agent can drive. Connect it to Claude, ChatGPT or Grok, then describe who you want to reach in one prompt:“Find 50 Head of Sales at Series A SaaS companies in Berlin, enrich them, and start a LinkedIn sequence referencing their latest post.”Needle then:🔍 Finds leads from LinkedIn, Instagram and Google Maps✨ Enriches them with the context your agent needs to actually personalize📨 Reaches out on whichever channel they’re on, from your own connected accounts, with sane sending limits built inWhy agent-native? Your agent already knows your ICP, your docs and your voice. It was just missing the hands. We didn’t want to build yet another dashboard, so we built the infrastructure instead.No AI slop. We help you use AI the right way: real context on every lead, and messages that sound like you wrote them yourself.And it’s not an “AI SDR”. Needle makes your reps faster. It doesn’t pretend to replace them. Your creativity is your GTM, we make it fluid.🎁 For the PH community: use code PH2026 for 50% off for 6 months, on top of the 7-day free trial. Create opportunities and win people. Right now, takes 5 minutes to run your first campaign. Whatever you're after - sales, partnerships, hiring, fundraising.We’d love your toughest feedback. What’s the most painful part of your outbound stack right now? My team and I will be in the comments all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How flexible is Needle's ability to help me personalize my outreach based on potential pain points my prospect could be facing? I usually find being too generalized hurts my chances."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I work in Sales and have seen this tool being built in real time. Amazing idea, even better execution!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "sending from your own connected accounts with built-in limits is a sensible choice for LinkedIn. are those limits set per account or per workspace?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice one on launch number six, Onur and team. Driving outbound from inside Claude makes sense to me. My worry is the agent pulling 50 \"Head of Sales\" who all left that job last quarter. How fresh is the enrichment, and does it check before it sends from my own LinkedIn?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks really cool, just checked it out - best of luck with the PH launch day Needle Team !"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the \"hands for the agent\" approach 👏 Question on the email side: do you check SPF/DKIM/DMARC on the connected domain before the agent starts sending? From what we see at Mailwarm, that's where most outbound campaigns die, way before the copy matters."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Sounds interesting. I'd love to know more about how you help with LinkedIn."
         }
       ]
     },
@@ -37111,6 +37289,49 @@
     },
     {
       "id": "ph-yesterday-3",
+      "date": "2026-10-20",
+      "rank": 3,
+      "name": "Hoistbay",
+      "slug": "hoistbay",
+      "tagline": "Open-source desktop app for Amazon S3 and CloudFront",
+      "description": "Hoistbay is a free desktop app for macOS and Windows that takes the repetitive work out of S3 and CloudFront. Set header rules once (Cache-Control, Content-Type, Content-Encoding by file pattern) and they apply on every upload. Download whole folders, clear CloudFront cache in one click, and switch AWS accounts instantly. Keys stay in your OS keychain, no backend, no telemetry. MIT licensed.",
+      "category": "Open Source • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/8cdf0770-15cf-485c-800e-6fcdf2d09e29.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e27c2fa8-f7df-443f-9f6e-e634c820615c.png?auto=format",
+        "https://ph-files.imgix.net/96b5d5d0-b05d-4c5b-828c-f7ad96d54d99.png?auto=format",
+        "https://ph-files.imgix.net/ead0d3ed-7175-41e0-bfac-cf7aad3fb669.png?auto=format",
+        "https://ph-files.imgix.net/f645367b-3d36-48a3-a2af-61d5382e22a4.png?auto=format",
+        "https://ph-files.imgix.net/fc47ec92-408e-4352-9637-976d1398ce0f.png?auto=format"
+      ],
+      "maker": "Kartik Shah",
+      "makerTitle": "I build things & talk about them.",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 194,
+      "websiteUrl": "https://www.producthunt.com/r/4VIOA4UVPIL46K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Kartik, the maker of Hoistbay. I built it because I was tired of opening the AWS console in a browser for the same S3 chores after every deploy: - No automatic header rules. Every upload meant setting Cache-Control, Content-Type and Content-Encoding by hand. With gzip-compressed builds (static sites, Unity WebGL, fonts) one wrong header breaks the page. - No way to download a whole folder from the console. - Clearing CloudFront cache is a slow, multi-step process, and stale cache is easy to miss. What Hoistbay does: - Per-bucket header rules by file pattern (*.js, *.wasm.gz, *.html...) applied automatically on every upload - Upload and download whole folders, structure kept - One-click CloudFront invalidations with live status - Multiple AWS profiles and regions, switch instantly - One Activity panel for every upload, download and cache clear Your keys stay in the macOS Keychain or Windows Credential Manager. No backend, no telemetry, MIT licensed, so you can read every line. You can try the live demo in your browser on the website before installing anything. I'd love to hear what's missing from your S3 workflow."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks like a great tool @mekartikshah however my MacOS 26.6.2 won't allow it due to it not being signed."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'll definitely check this out, I'm facing the same challenges you describe as we speak, and in particular the invalidation step, I tend to always forget it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is there a way to preview which rules will be applied to the header before uploading? Especially when there are 2 filename patterns that overlap."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-3",
       "date": "2026-10-03",
       "rank": 3,
       "name": "Prefer",
@@ -37318,6 +37539,50 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nمرورگرهای موجود برای کاربران انسانی طراحی شده‌اند و برای نمایندگان هوش مصنوعی مناسب نیستند. BrowserOS neo یک مرورگر اختصاصی برای نمایندگان هوش مصنوعی است که به آنها امکان می‌دهد تا کارهای تکراری و خسته‌کننده را انجام دهند.\n🔹 معماری و تکنولوژی احتمالی:\nBrowserOS neo می‌تواند بر اساس تکنولوژی‌های وب مدرن مانند Next.js و PostgreSQL ساخته شود.\n🔹 مدل درآمدی:\nفروش مرورگر به سازمان‌ها و ارائه خدمات پشتیبانی و به روز رسانی می‌تواند مدل درآمدی باشد.\n🔹 نقاط قوت:\n- افزایش بهره‌وری و کارایی\n- امکان انجام کارهای تکراری و خسته‌کننده توسط نمایندگان هوش مصنوعی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با مرورگرهای موجود\n- ایجاد یک رابط کاربری آسان و کاربردی\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای مرورگرهای هوشمند در ایران بسیار زیاد است و با ارائه یک مرورگر هوشمند می‌توانیم نیازهای این بازار را برطرف کنیم."
+    },
+    {
+      "id": "ph-yesterday-4",
+      "date": "2026-10-20",
+      "rank": 4,
+      "name": "Harness²",
+      "slug": "harness-6c72f469-0ceb-4bd8-a470-a028991b1f97",
+      "tagline": "Harness the agent. Then harness its self-improvement.",
+      "description": "Harness² from Google Research is a plug-and-play recursive agent harnessing framework that lets LLM agents automatically evolve their execution harnesses (prompts, tools, memory) for open-world tasks—without ground-truth verifiers. Dual recursion: task-level Propose-Probe-Compose refinement + harnessing-level accumulation of reusable experience. Up to +11.5 points on professional benchmarks like WorkBuddy-Bench.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c0f3ae97-2a7a-4d6d-bcd3-da89bcff39f7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ec72f550-716e-4bd5-9e79-875ae597efe8.jpeg?auto=format",
+        "https://ph-files.imgix.net/c25937ce-5a6b-4cd4-9a34-72c7cc6e558c.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 193,
+      "websiteUrl": "https://www.producthunt.com/r/37H22K5ZBP32OU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "A harness includes everything surrounding the model—such as the system prompt, tools, memory, skills, and subagents. Traditionally, this setup is designed once and remains unchanged for every task the agent performs.Harness² introduces adaptability, enabling the agent to independently tailor its setup for each task while keeping model weights static.With this approach, the agent proposes changes to its harness, tests multiple configurations, and refines it based on performance insights from those trials.Because it learns from run-to-run variations, there's no need for a defined correct answer or an external grader to assess results.This process isn't limited to single tasks. Harness² also transfers learnings across tasks.Once a task is complete, the agent retains the optimized harness and the recurring insights from those runs. When working on a new task, it builds on this accumulated knowledge rather than starting over.This continuous refinement enhances future task performance.In trials with Gemini 3.5 Flash and GLM-5 on legal, office, and professional benchmarks, Google found that even one round of edits surpassed the performance of fixed harnesses, with further iterations driving additional improvement.This points to self-healing, self-growing harnesses... 🤯"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hmm but like how do agents know what improves the harness? i feel that human input is needed."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I saw the runners are portable, whereas the judge goes through vertex. Is bring your own task inference a planned feature ? Will the open PRs for other vendor support eventually be accepted ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Agents improving their own setup is very cool . How do you prevent them from making changes that can make things worse?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Rewriting its own harness between runs without a grader telling it what correct looks like is the part I find hard to believe, so I want to see whether the accumulated experience actually transfers between unrelated tasks."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -38874,6 +39139,39 @@
         ],
         "confidence": 70
       }
+    },
+    {
+      "id": "ph-yesterday-5",
+      "date": "2026-10-20",
+      "rank": 5,
+      "name": "Exa 3.0",
+      "slug": "exa-3-0",
+      "tagline": "Smarter search that gives AI agent richer data at lower cost",
+      "description": "Exa 3.0 is the biggest search quality update to Exa’s search API for AI agents. It adds a larger embedding model, billions of new documents including 1.27B ecommerce listings and 211M+ local businesses, and Dynamic Highlights, which use 95% fewer tokens than full page text. A new Exa Lite tier costs $4 per 1,000 requests, and Exa Auto costs $7. Available now through the API.",
+      "category": "API • Artificial Intelligence • Search",
+      "categoryFa": "API • هوش مصنوعی • Search",
+      "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/91b04293-fdeb-4889-9fa6-e0ca308142ee.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/60202d19-1e25-4fa0-9473-ee22e2c55067.png?auto=format",
+        "https://ph-files.imgix.net/18fafc1a-6ce5-4db4-a93a-cc84ec1374b1.png?auto=format",
+        "https://ph-files.imgix.net/16440f49-b50a-481c-b3ad-b45168a82266.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 187,
+      "websiteUrl": "https://www.producthunt.com/r/2ZMKUDNEBLQZIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Exa 3.0 is a major upgrade to Exa’s search API, built for AI assistants and search-intensive applications. It solves the challenge of getting high-quality, current web data without excessive cost or token usage.What stands out:Top-ranked retrieval across coding, finance, deep research, company intelligence, and public benchmarks.Dynamic Highlights reduces token usage by 95% versus full-page text while improving answer quality—at no extra charge.Expanded independent index with 2T+ URLs tracked and 100B pages served, adding ecommerce listings, local businesses, news, sports, weather, flights, events, transit, and podcasts.Exa Lite, a cost-sensitive search option at $4 per 1,000 requests, alongside Exa Auto at $7 per 1,000 requests.It’s especially useful for teams building personal AI assistants, research tools, coding agents, and go-to-market or company-intelligence products.If you’re building an AI product that needs reliable web search, this is worth exploring. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on Exa 3.0! I’m a big fan of Exa. It helps me solve problems every day and has become a regular part of my workflow. Dynamic Highlights looks particularly useful, and I’m excited to try it out. Thanks for building something I get so much value from!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -40794,6 +41092,70 @@
       ]
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-21",
+      "rank": 4,
+      "name": "The Library",
+      "slug": "the-library-1a4accbe-0203-45f7-bb35-1567ccc523e0",
+      "tagline": "Your business context organized by queries",
+      "description": "The Querri Library is where your data gets organized around the questions your business asks, so every answer comes from the same trusted, shared foundation.. The library learns your definitions, business context, and past analysis, so its answers are grounded in how your business actually works. And when it doesn’t know, it says so, instead of making things up.",
+      "category": "Analytics • Tech",
+      "categoryFa": "تحلیل داده • Tech",
+      "url": "https://www.producthunt.com/products/querri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3b204bf1-f8aa-4598-b5cb-7f65074ec4ae.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/1fb61d2d-aafe-43b1-be89-e30754f0b989.jpeg?auto=format",
+        "https://ph-files.imgix.net/24c6ce26-2274-497d-8d0e-ea1800be9d31.png?auto=format",
+        "https://ph-files.imgix.net/f68c954d-9e7a-483a-aced-1b6e3a6bbdac.png?auto=format",
+        "https://ph-files.imgix.net/fefb17d3-2069-4a50-a84f-01848f2341e6.png?auto=format",
+        "https://ph-files.imgix.net/9bbdcfdc-b88d-48c8-9897-38914574392d.png?auto=format",
+        "https://ph-files.imgix.net/6c6238fe-64ef-459e-9cfd-27b289176833.png?auto=format",
+        "https://ph-files.imgix.net/af4dcd57-d323-48a4-b497-cce54f06cf47.png?auto=format",
+        "https://ph-files.imgix.net/54403e2d-91dc-4c12-865c-166fbe8088a1.png?auto=format",
+        "https://ph-files.imgix.net/e943a983-6d86-4e31-8061-846540fe9627.png?auto=format",
+        "https://ph-files.imgix.net/46082564-b9d2-4460-aa19-b52839c268f2.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 174,
+      "websiteUrl": "https://www.producthunt.com/r/XZ6RB34WYUJWIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch! Excited to see more work in the space of empowering the rest of the org. How do you account for the onerous nature of keeping AI in sync with business context? Data owners aren’t always in calls to receive the context real time. It’s unlikely leaders who are on calls have time to update context. And in my experience, how operations define it verbally to data teams rarely aligns perfectly with how it actually has to be coded, making them a less than ideal fit to maintain definitions of tables they didn’t create."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @daveaingram and @amy_ingram - Congratulations on your launch. Very interesting concept. Are there any data limits so Querri can handle and return answers with out any latency issues?Also, Can we limit the access to answers by team or by data sets?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Really like that it says what's missing instead of giving a confident wrong number."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Shared business definitions are a smart focus, seem pretty relevant to me! Curious how the library handles conflicting definitions across teams, and whether users can trace each answer back to its sources/authors, congratulations on your launch! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Dave and the team have been amazing to work with as I've looked to roll out better visibility across a number of systems across multiple companies in our portfolio. There has been no system they've been unwilling to try and build connectors for which has been a huge time benefit for me in a job where time is a premium."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle when the underlying data changes, business definitions evolve or 2 equally valid interpretations exist? Who ultimately owns the truth; the data, semantic layer or the person asking ques?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Dave, Amy and the Querri team. The point about the same question getting a different answer tomorrow is the real problem with AI on top of data. When two teams define \"active customer\" differently, does the Library force one definition, or can both live side by side?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Building Querri has been quite a journey!Our mission, from the very beginning, has been to make working with data accessible to everyone. In a world where businesses collect more data than ever, understanding that data is no longer just a nice-to-have. It can make or break important business decisions.But getting data together from dozens of different systems is hard enough. Getting AI to give you reliable answers based on your business's definitions of revenue, churn, or other important metrics is another challenge entirely.We've spent thousands of hours tackling this problem. Because it matters.AI is an incredibly powerful tool, but it needs to understand your business context. We're also huge believers in keeping humans in the loop. Data has so much nuance, and it would be naive to assume AI automatically knows how your business defines everything or how you want to handle every inconsistency.That's why we've built so many ways for people to guide the AI, teach it their business context, and stay in control of how their data is cleaned, analyzed, and understood.And security isn't an afterthought. Querri has completed a SOC 2 Type II audit, is ISO 27001:2022 certified, supports HIPAA compliance, and never uses customer data to train AI models.I'm incredibly proud of our team and what we've built together.We're excited to share it with the Product Hunt community, and we'd genuinely love your feedback, questions, and ideas. That's how we learn, grow, and keep getting better!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-10",
       "rank": 4,
@@ -42169,50 +42531,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-20",
-      "rank": 3,
-      "name": "Harness²",
-      "slug": "harness-6c72f469-0ceb-4bd8-a470-a028991b1f97",
-      "tagline": "Harness the agent. Then harness its self-improvement.",
-      "description": "Harness² from Google Research is a plug-and-play recursive agent harnessing framework that lets LLM agents automatically evolve their execution harnesses (prompts, tools, memory) for open-world tasks—without ground-truth verifiers. Dual recursion: task-level Propose-Probe-Compose refinement + harnessing-level accumulation of reusable experience. Up to +11.5 points on professional benchmarks like WorkBuddy-Bench.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c0f3ae97-2a7a-4d6d-bcd3-da89bcff39f7.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ec72f550-716e-4bd5-9e79-875ae597efe8.jpeg?auto=format",
-        "https://ph-files.imgix.net/c25937ce-5a6b-4cd4-9a34-72c7cc6e558c.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 167,
-      "websiteUrl": "https://www.producthunt.com/r/37H22K5ZBP32OU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "A harness includes everything surrounding the model—such as the system prompt, tools, memory, skills, and subagents. Traditionally, this setup is designed once and remains unchanged for every task the agent performs.Harness² introduces adaptability, enabling the agent to independently tailor its setup for each task while keeping model weights static.With this approach, the agent proposes changes to its harness, tests multiple configurations, and refines it based on performance insights from those trials.Because it learns from run-to-run variations, there's no need for a defined correct answer or an external grader to assess results.This process isn't limited to single tasks. Harness² also transfers learnings across tasks.Once a task is complete, the agent retains the optimized harness and the recurring insights from those runs. When working on a new task, it builds on this accumulated knowledge rather than starting over.This continuous refinement enhances future task performance.In trials with Gemini 3.5 Flash and GLM-5 on legal, office, and professional benchmarks, Google found that even one round of edits surpassed the performance of fixed harnesses, with further iterations driving additional improvement.This points to self-healing, self-growing harnesses... 🤯"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "hmm but like how do agents know what improves the harness? i feel that human input is needed."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I saw the runners are portable, whereas the judge goes through vertex. Is bring your own task inference a planned feature ? Will the open PRs for other vendor support eventually be accepted ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Agents improving their own setup is very cool . How do you prevent them from making changes that can make things worse?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Rewriting its own harness between runs without a grader telling it what correct looks like is the part I find hard to believe, so I want to see whether the accumulated experience actually transfers between unrelated tasks."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -45442,45 +45760,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-20",
-      "rank": 4,
-      "name": "Hoistbay",
-      "slug": "hoistbay",
-      "tagline": "Open-source desktop app for Amazon S3 and CloudFront",
-      "description": "Hoistbay is a free desktop app for macOS and Windows that takes the repetitive work out of S3 and CloudFront. Set header rules once (Cache-Control, Content-Type, Content-Encoding by file pattern) and they apply on every upload. Download whole folders, clear CloudFront cache in one click, and switch AWS accounts instantly. Keys stay in your OS keychain, no backend, no telemetry. MIT licensed.",
-      "category": "Open Source • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/8cdf0770-15cf-485c-800e-6fcdf2d09e29.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e27c2fa8-f7df-443f-9f6e-e634c820615c.png?auto=format",
-        "https://ph-files.imgix.net/96b5d5d0-b05d-4c5b-828c-f7ad96d54d99.png?auto=format",
-        "https://ph-files.imgix.net/ead0d3ed-7175-41e0-bfac-cf7aad3fb669.png?auto=format",
-        "https://ph-files.imgix.net/f645367b-3d36-48a3-a2af-61d5382e22a4.png?auto=format",
-        "https://ph-files.imgix.net/fc47ec92-408e-4352-9637-976d1398ce0f.png?auto=format"
-      ],
-      "maker": "Kartik Shah",
-      "makerTitle": "I build things & talk about them.",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 155,
-      "websiteUrl": "https://www.producthunt.com/r/4VIOA4UVPIL46K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Kartik, the maker of Hoistbay. I built it because I was tired of opening the AWS console in a browser for the same S3 chores after every deploy: - No automatic header rules. Every upload meant setting Cache-Control, Content-Type and Content-Encoding by hand. With gzip-compressed builds (static sites, Unity WebGL, fonts) one wrong header breaks the page. - No way to download a whole folder from the console. - Clearing CloudFront cache is a slow, multi-step process, and stale cache is easy to miss. What Hoistbay does: - Per-bucket header rules by file pattern (*.js, *.wasm.gz, *.html...) applied automatically on every upload - Upload and download whole folders, structure kept - One-click CloudFront invalidations with live status - Multiple AWS profiles and regions, switch instantly - One Activity panel for every upload, download and cache clear Your keys stay in the macOS Keychain or Windows Credential Manager. No backend, no telemetry, MIT licensed, so you can read every line. You can try the live demo in your browser on the website before installing anything. I'd love to hear what's missing from your S3 workflow."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I'll definitely check this out, I'm facing the same challenges you describe as we speak, and in particular the invalidation step, I tend to always forget it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is there a way to preview which rules will be applied to the header before uploading? Especially when there are 2 filename patterns that overlap."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -50383,35 +50662,6 @@
       }
     },
     {
-      "id": "ph-today-5",
-      "date": "2026-10-20",
-      "rank": 5,
-      "name": "Exa 3.0",
-      "slug": "exa-3-0",
-      "tagline": "Smarter search that gives AI agent richer data at lower cost",
-      "description": "Exa 3.0 is the biggest search quality update to Exa’s search API for AI agents. It adds a larger embedding model, billions of new documents including 1.27B ecommerce listings and 211M+ local businesses, and Dynamic Highlights, which use 95% fewer tokens than full page text. A new Exa Lite tier costs $4 per 1,000 requests, and Exa Auto costs $7. Available now through the API.",
-      "category": "API • Artificial Intelligence • Search",
-      "categoryFa": "API • هوش مصنوعی • Search",
-      "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/91b04293-fdeb-4889-9fa6-e0ca308142ee.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/60202d19-1e25-4fa0-9473-ee22e2c55067.png?auto=format",
-        "https://ph-files.imgix.net/18fafc1a-6ce5-4db4-a93a-cc84ec1374b1.png?auto=format",
-        "https://ph-files.imgix.net/16440f49-b50a-481c-b3ad-b45168a82266.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 139,
-      "websiteUrl": "https://www.producthunt.com/r/2ZMKUDNEBLQZIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Exa 3.0 is a major upgrade to Exa’s search API, built for AI assistants and search-intensive applications. It solves the challenge of getting high-quality, current web data without excessive cost or token usage.What stands out:Top-ranked retrieval across coding, finance, deep research, company intelligence, and public benchmarks.Dynamic Highlights reduces token usage by 95% versus full-page text while improving answer quality—at no extra charge.Expanded independent index with 2T+ URLs tracked and 100B pages served, adding ecommerce listings, local businesses, news, sports, weather, flights, events, transit, and podcasts.Exa Lite, a cost-sensitive search option at $4 per 1,000 requests, alongside Exa Auto at $7 per 1,000 requests.It’s especially useful for teams building personal AI assistants, research tools, coding agents, and go-to-market or company-intelligence products.If you’re building an AI product that needs reliable web search, this is worth exploring. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-6",
       "date": "2026-10-19",
       "rank": 6,
@@ -51438,6 +51688,56 @@
       }
     },
     {
+      "id": "ph-yesterday-6",
+      "date": "2026-10-20",
+      "rank": 6,
+      "name": "Mintlify Autopilot",
+      "slug": "mintlify-autopilot",
+      "tagline": "An always-on agent that keeps your docs up to date",
+      "description": "Autopilot is an always-on docs agent from Mintlify. It watches your code and tools like Slack, drafts doc updates when something changes, and opens a pull request for your team to review. It learns your style from every PR you merge or close.",
+      "category": "Writing • SaaS • Developer Tools",
+      "categoryFa": "نوشتن • نرم‌افزار ابری • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d4ff8d63-8710-48f0-8e1a-fbabb4a1a840.jpeg?auto=format",
+        "https://ph-files.imgix.net/229e764b-8347-4e5e-8bd7-4ecc19d4b7e1.png?auto=format",
+        "https://ph-files.imgix.net/5febc326-10a8-43a0-9f18-9389c9219f1e.png?auto=format",
+        "https://ph-files.imgix.net/7c67418c-7a7a-4399-8b9d-dfc25af449bf.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 135,
+      "websiteUrl": "https://www.producthunt.com/r/ORKFARLGVTAUML?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Patrick here, Software Engineer at Mintlify 👋Your team ships faster than your docs can keep up. In our 2026 State of Knowledge Report, only 24% of teams got product changes into their docs the same day, and 22% waited a month or longer.And the gap is growing. Agents write more of your code every month, and Claude Code and Cursor merge changes faster than any writer can track them.That gap used to be an annoyance. Today it’s a liability. Your customers read those pages. Increasingly, so do the agents working for them. A stale page means an agent confidently doing the wrong thing.So we built Autopilot.What is it? An always-on agent that keeps your docs in sync with what your team ships. It reads your repos and the context around them: Slack, your project tracker, support tickets, feature flags. When something changes, it drafts the update and opens a PR.A merge changes an API, and it drafts the page. The same support question keeps coming in, and it writes the answer. Someone flags a mismatch in Slack, and it picks up the thread.Does it publish on its own? No. Every change is a PR. It tags the right reviewers and emails them. Nothing ships until your team merges.How is this different from automations? Automations made you the planner. You set up each workflow and maintained its prompt. Autopilot flips that. Connect your sources, click Enable, and it decides what needs to change.How does it learn? Every PR you merge or close is a signal. Autopilot has memory, so it picks up your tone, your voice, and whether your team updates docs every release or the moment something changes. No toggles. No custom prompts. If you want to steer it, just talk to it.Why now? Agents already write a growing share of the code. Docs were the last part of the loop still waiting on a person to notice something changed. Autopilot is the part that notices.Autopilot is in beta today on Pro and Enterprise. Next, it learns from the edits reviewers make before merging, and a dashboard will show everything it’s doing for your docs. Want to see it live? I’m walking through Autopilot and answering questions in a webinar on Tue Oct 27. Register here: https://luma.com/mintlify-0xnx Tell us where it falls short. That’s how it gets better."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "docs that update themselves, finally 🙌 does it open prs or just suggest edits?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "curious how it handles code that merges but is still behind a flag. docs showing up before the feature does confuses people just as much as stale ones. does it wait for the rollout or open the PR anyway and let the reviewer decide?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As a former customer (I'm now a Mintlify employee ◡̈), this is exactly what I was hoping Mintlify would offer for me. Using it internally has been amazing."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Learning from the PRs a team closes is an interesting detail. Deciding what shouldn't go into the docs is part of learning the team's voice too."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Patrick and Ethan, our knowledge engineer, are doing live webinar next week on Autopilot.It's October 27 at 10am PT.You can RSVP here: https://luma.com/mintlify-0xnx"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-09-24",
       "rank": 10,
@@ -51603,6 +51903,68 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-5",
+      "date": "2026-10-21",
+      "rank": 5,
+      "name": "TwinMind for Desktop",
+      "slug": "twinmind-for-desktop",
+      "tagline": "Transcribe meetings and dictate anywhere on Mac & Windows",
+      "description": "TwinMind now lives natively on your Desktop! Auto-detect meetings in Zoom, Meet, Teams and more, and get live transcripts and summaries in 140+ languages. With calendar reminders, join the call in one click and start capturing. A floating mic stays with you across every app and space: hold the hotkey to dictate, and a cleaned-up text pastes straight wherever you're writing.",
+      "category": "Productivity • Notes • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • یادداشت • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/twinmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/06214f5e-34ec-4358-b890-de7ecb074ea0.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/304b1784-541a-4fc5-8baa-af993c510a31.jpeg?auto=format",
+        "https://ph-files.imgix.net/c9ca9625-e40f-48b3-8b4d-eae8f0eb24de.png?auto=format",
+        "https://ph-files.imgix.net/84463ac2-ad9b-43b5-91b0-23bf9773d91a.png?auto=format",
+        "https://ph-files.imgix.net/f967eff8-e9a5-4ffe-b2db-2bdea3657875.png?auto=format",
+        "https://ph-files.imgix.net/22d4d146-0913-4ce7-8071-a11622d09a79.png?auto=format",
+        "https://ph-files.imgix.net/2c0a74d5-e2f2-4183-9593-f57089f87daf.png?auto=format",
+        "https://ph-files.imgix.net/463370f9-17cf-4a30-8aed-7cfaee9965bb.png?auto=format",
+        "https://ph-files.imgix.net/512db733-7d0c-4c21-93f3-4a39e3f8b143.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 134,
+      "websiteUrl": "https://www.producthunt.com/r/QXPYLTASWW6C47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋We spend half our day in meetings and the other half typing up what happened. Current meeting recorders feel clunky, require annoying bot invites, and trap your notes in another browser tab. We built TwinMind to give you an easier way: it automatically turns your calls into clean notes in the background, and gives you instant voice typing right at your cursor so you never have to type out long updates again.To make this truly seamless on your desktop, TwinMind lives as a quiet, native assistant that follows you across every desktop Space. You simply hold a hotkey, speak, and the transcribed text appears instantly right where your cursor is. The background engine handles meeting transcription so your calls convert into structured notes without any extra steps.Getting transcription right was only half the battle. We spent most of our development time focusing on the details that make an app feel truly native. We optimized the background recording stability so it survives system sleep or sudden headset disconnections, built google calendar integration to join and record calls in a single tap.We would love to hear your thoughts. What features or adjustments would make this an indispensable part of your daily workflow? The team and I are here all day to answer your questions and listen to your feedback.Thank you for checking us out today!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Twinmind Mac app is great, been using it for 2 years!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The MCP stuff is really cool! but do the other people on the call get any heads up that it’s recording? or is that up to whoever’s using it"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Full disclosure, I work at TwinMind. I keep the desktop app running through my entire day. The TwinMind MCP is my favorite part: I connect it to Claude, pull in what was discussed, and go straight to building prototypes from real meeting context. Total game changer."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "skipping the bot is the right call. but in last 3 days, i have seen at least 4-5 products with exact same thing, getting launched. What makes TwinMind better?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love using the desktop app! I capture all day and leave it on in the background (even if i get phone calls, it works)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "With the latest update of TwinMind MCP, you can power your AI agents with real-time context. This is a game changer for your work flows."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "TwinMind used to be great, until they removed integrations and combined everything into google integration. I used to be able to sync my local calendar (iOS). Not anymore, unless I sync my calendar with Google. I used to be able to use the MCP server as a Pro member. Not anymore, now they want me to upgrade my membership AGAIN.I'm very privacy-focused, and TwinMind has regressed in this regard, from my view. Google is pretty much an evil company, and I refuse to continue using TwinMind after forcing everything to proxy through google service.I removed the app and now use Openwhispr on MacOS to record my meetings. Not as polished and smooth, but I'm not forced to be in bed with Google."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -56815,6 +57177,107 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nLaraCopilot یک ابزار جامع برای ساخت برنامه‌های واقعی و آماده تولید است که به توسعه‌دهندگان کمک می‌کند تا برنامه‌های خود را با سرعت و سهولت بیشتری بسازند. این ابزار می‌تواند برنامه‌های کامل و آماده تولید را از یک توضیح ایده شما می‌سازد.\n🔹 معماری و تکنولوژی احتمالی:\nLaraCopilot از معماری میکروسرویس‌ها و تکنولوژی‌های لاراول و ری‌اکت استفاده می‌کند.\n🔹 مدل درآمدی:\nLaraCopilot می‌تواند از طریق فروش اشتراک و پشتیبانی و آموزش درآمد کسب کند.\n🔹 نقاط قوت:\n- LaraCopilot می‌تواند برنامه‌های واقعی و تولیدی را با سرعت و سهولت بیشتری بسازد.\n- LaraCopilot به توسعه‌دهندگان کمک می‌کند تا برنامه‌های خود را به راحتی و با کیفیت بالاتر بسازند.\n🔹 نقاط ضعف و ریسک‌ها:\n- LaraCopilot ممکن است با ابزارهای مشابه رقابت کند.\n- LaraCopilot نیاز به بازخورد و بهبود مداوم دارد.\n🔹 نکته طلایی برای بازار ایران:\nLaraCopilot می‌تواند به توسعه‌دهندگان ایرانی کمک کند تا برنامه‌های خود را به راحتی و با کیفیت بالاتر بسازند و در بازار رقابتی ایران موفق شوند."
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-10-21",
+      "rank": 6,
+      "name": "SuperCMO AI",
+      "slug": "supercmo-ai",
+      "tagline": "Open-source skills that turn your Claude into an AI CMO",
+      "description": "Open-source agent skills that turn Claude Code, Cursor or Codex into an AI CMO. Give your agent your website and it learns your brand. It studies your competitors' ads, ranks what you should test next, writes the copy for each platform, and makes the ads (UGC videos, product ads, cartoon ads, image ads, product photos and more). It checks in with you at every step, and nothing expensive renders until you approve. Bring your own model keys, or pay per use with ours. Apache-2.0.",
+      "category": "Open Source • Marketing • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • بازاریابی • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/supercmo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/4abe1355-5158-4bc4-81aa-d24f526ad4e0.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2bc1cdb8-1a24-4717-bbfa-9615831156c8.png?auto=format",
+        "https://ph-files.imgix.net/e9dd3dbd-375e-4bd6-8597-ab65b5b99189.png?auto=format",
+        "https://ph-files.imgix.net/c3cb3fb4-631f-4360-bf95-9a891aa5d967.png?auto=format",
+        "https://ph-files.imgix.net/67f89c83-957e-45a3-89ca-b7246ea4afa8.png?auto=format",
+        "https://ph-files.imgix.net/c17af951-0c3c-4643-a275-7ad043edf9c5.png?auto=format",
+        "https://ph-files.imgix.net/a153416d-32e2-48b7-bfd3-fd673da1c18f.png?auto=format",
+        "https://ph-files.imgix.net/d1b2ac7f-2e0b-4b7f-8eba-14ebcc09c9be.png?auto=format",
+        "https://ph-files.imgix.net/8b47fdb4-354c-4fdf-88b6-fccfa8696393.png?auto=format",
+        "https://ph-files.imgix.net/e5039331-d1d7-4c44-a550-9e0370ba3ced.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 123,
+      "websiteUrl": "https://www.producthunt.com/r/JNC2WQ7KOZXZ74?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! I'm Kshitiz, one of the makers of SuperCMO. Running marketing for a brand takes a whole team. Someone has to know the brand inside out, keep an eye on what competitors are running, decide which ads to test next, write the copy and then make the creative. Most small brands don't have that team, and an agency costs more than they can spend. So we built SuperCMO Skills: open-source agent skills that turn your Claude (or Cursor, or Codex) into an AI CMO that handles that whole loop with you. Give it your website and it learns your brand: your voice, your audience, what you sell and who you compete with. It studies your competitors' ads and your own, shows you what's working and the angles nobody has tried, and ranks what you should test next. Then it writes the copy for each platform and makes the ads, from UGC videos and product ads to image ads and product photos, in every size you need. You approve each step, and nothing expensive renders until you say yes. Install (needs uv): npx --yes github:SupercmoHQ/superCMO-skills --all In Cursor, run it in your project with --cursor --project-dir . so the skills land there too. Bring your own model keys and pay the vendor directly, or pay per use with ours. It's all Apache-2.0. I'm really excited to finally share this. Tell me what you think of any part of it, and what you'd want your AI CMO to do next. If it's useful, a star on GitHub helps other people find it: https://getsupercmo.ai/go/ph"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks very handy! Do you use it for your own products? Would you also use it for GTM strategy?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "interesting :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@kshitizkr Congratulations. And happy product launch."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-7",
+      "date": "2026-10-20",
+      "rank": 7,
+      "name": "Asimov 1",
+      "slug": "asimov-1",
+      "tagline": "The most customizable humanoid robot you can buy",
+      "description": "Asimov 1 is a humanoid robot you can build a company on. Train it and shape it for whatever you're building. Bought by founders, researchers and developers in 20+ countries.",
+      "category": "Open Source • Robots • Artificial Intelligence",
+      "categoryFa": "متن‌باز • Robots • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/asimov-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/066b858b-d050-4d90-a557-5ef09ec5268d.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ee8a1bbd-84ed-4624-82e3-731be59a06b6.jpeg?auto=format",
+        "https://ph-files.imgix.net/3a8e2846-23d0-43cf-b9d1-c4187d4dbc30.png?auto=format",
+        "https://ph-files.imgix.net/a36907a2-124a-43eb-bfc6-7c2014fcf371.png?auto=format",
+        "https://ph-files.imgix.net/745858e1-010a-4c80-a818-3f9760999130.png?auto=format",
+        "https://ph-files.imgix.net/54e62055-1d44-48bb-90b0-81c3c78f3971.png?auto=format",
+        "https://ph-files.imgix.net/2dae1d59-f635-4615-91fb-d6d1b3c350d5.png?auto=format",
+        "https://ph-files.imgix.net/f6286457-b167-4628-a72f-948621d38c96.png?auto=format",
+        "https://ph-files.imgix.net/8b559fa2-a8cb-44a5-845c-108d4b4f62c8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 123,
+      "websiteUrl": "https://www.producthunt.com/r/6WIMBPGOJDSTU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, Emre from Menlo Research. Asimov 1 is an open-source humanoid robot that you can build a company on. It's the most customizable humanoid robot.Asimov started with a Unitree G1. We bought one because we wanted to train our own policies on it. Then a small part broke during testing. The robot was closed source, so we couldn't fix it ourselves. We waited about 2 months for a replacement. Shared the full story here.That's when we decided to build our own. A humanoid where the design is public, every part can be sourced, and the owner decides what it becomes. We started with the legs and released them in January. The full humanoid followed in April. We shared the build in public the whole way.When we opened pre-orders, we hit the minimum order for production in 9 hours. Shipped the first batch to customers in more than 20 countries!Asimov 1 is now the foundation of our own enterprise deployments. Founders buy it to learn robotics and to start their company on a robot they fully own. Researchers and developers use it to train and test their own work.It's 1.2 m tall, has 25 powered joints and ships with a base walking policy. It comes as a kit you assemble in about a week at a few hours a day. It's $20,000, delivered to your door.Order: https://menlo.ai/asimov-1Build: https://docs.menlo.ai/What would you build with it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks great, big fan of robots. Only problem I have is lack of transparency on shipping to certain countries, UAE, Thailand etc which is my hubs"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Awesome 🔥. Can Asimov climb stairs?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is pretty appealing. Curious how easy it is to train it for new tasks."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The effort the team has put into this is genuinely impressive. Love the open-source approach and the vision behind it. Excited to see where this goes. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Waiting two months for one replacement part is a pretty clear reason to build differently. Public designs and parts people can source themselves make the ownership story much more concrete."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-10-19",
       "rank": 8,
@@ -57490,52 +57953,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-20",
-      "rank": 6,
-      "name": "Mintlify Autopilot",
-      "slug": "mintlify-autopilot",
-      "tagline": "An always-on agent that keeps your docs up to date",
-      "description": "Autopilot is an always-on docs agent from Mintlify. It watches your code and tools like Slack, drafts doc updates when something changes, and opens a pull request for your team to review. It learns your style from every PR you merge or close.",
-      "category": "Writing • SaaS • Developer Tools",
-      "categoryFa": "نوشتن • نرم‌افزار ابری • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d4ff8d63-8710-48f0-8e1a-fbabb4a1a840.jpeg?auto=format",
-        "https://ph-files.imgix.net/229e764b-8347-4e5e-8bd7-4ecc19d4b7e1.png?auto=format",
-        "https://ph-files.imgix.net/5febc326-10a8-43a0-9f18-9389c9219f1e.png?auto=format",
-        "https://ph-files.imgix.net/7c67418c-7a7a-4399-8b9d-dfc25af449bf.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 122,
-      "websiteUrl": "https://www.producthunt.com/r/ORKFARLGVTAUML?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Patrick here, Software Engineer at Mintlify 👋Your team ships faster than your docs can keep up. In our 2026 State of Knowledge Report, only 24% of teams got product changes into their docs the same day, and 22% waited a month or longer.And the gap is growing. Agents write more of your code every month, and Claude Code and Cursor merge changes faster than any writer can track them.That gap used to be an annoyance. Today it’s a liability. Your customers read those pages. Increasingly, so do the agents working for them. A stale page means an agent confidently doing the wrong thing.So we built Autopilot.What is it? An always-on agent that keeps your docs in sync with what your team ships. It reads your repos and the context around them: Slack, your project tracker, support tickets, feature flags. When something changes, it drafts the update and opens a PR.A merge changes an API, and it drafts the page. The same support question keeps coming in, and it writes the answer. Someone flags a mismatch in Slack, and it picks up the thread.Does it publish on its own? No. Every change is a PR. It tags the right reviewers and emails them. Nothing ships until your team merges.How is this different from automations? Automations made you the planner. You set up each workflow and maintained its prompt. Autopilot flips that. Connect your sources, click Enable, and it decides what needs to change.How does it learn? Every PR you merge or close is a signal. Autopilot has memory, so it picks up your tone, your voice, and whether your team updates docs every release or the moment something changes. No toggles. No custom prompts. If you want to steer it, just talk to it.Why now? Agents already write a growing share of the code. Docs were the last part of the loop still waiting on a person to notice something changed. Autopilot is the part that notices.Autopilot is in beta today on Pro and Enterprise. Next, it learns from the edits reviewers make before merging, and a dashboard will show everything it’s doing for your docs. Want to see it live? I’m walking through Autopilot and answering questions in a webinar on Tue Oct 27. Register here: https://luma.com/mintlify-0xnx Tell us where it falls short. That’s how it gets better."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "curious how it handles code that merges but is still behind a flag. docs showing up before the feature does confuses people just as much as stale ones. does it wait for the rollout or open the PR anyway and let the reviewer decide?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "As a former customer (I'm now a Mintlify employee ◡̈), this is exactly what I was hoping Mintlify would offer for me. Using it internally has been amazing."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Learning from the PRs a team closes is an interesting detail. Deciding what shouldn't go into the docs is part of learning the team's voice too."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Patrick and Ethan, our knowledge engineer, are doing live webinar next week on Autopilot.It's October 27 at 10am PT.You can RSVP here: https://luma.com/mintlify-0xnx"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -60580,6 +60997,158 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-21",
+      "rank": 7,
+      "name": "Notion Auto",
+      "slug": "notion-auto",
+      "tagline": "Notion’s rebuilt Agents run for hours and cost far less",
+      "description": "Notion’s Agents update rebuilds the agent harness so tasks can run for 24 hours or more, with a computer, a browser and a Review for me safety mode. Auto now routes each task to the best model, and Notion says it matches Opus 5.5 and Astra at about 90% lower cost. You can connect a ChatGPT plan, Notion MCP is overhauled, and a new credit system covers all AI usage. Live now for new customers.",
+      "category": "Artificial Intelligence",
+      "categoryFa": "هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/notion-99?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/419ac969-236a-4f97-8157-613865ec1867.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5562306a-886f-48fd-805a-5a750a559afe.png?auto=format",
+        "https://ph-files.imgix.net/a3531872-a998-417b-a6fb-7e157cc71e2d.png?auto=format",
+        "https://ph-files.imgix.net/7e5f897f-fa9a-4b55-b192-654cfc49b3b5.gif?auto=format",
+        "https://ph-files.imgix.net/5253e113-cf3d-47f0-9479-ca3af73716ff.png?auto=format",
+        "https://ph-files.imgix.net/83168203-c9c7-4b76-917e-939536d09404.gif?auto=format",
+        "https://ph-files.imgix.net/23748691-8c22-435a-ba66-12e3a7ad09d3.webp?auto=format",
+        "https://ph-files.imgix.net/5ced29a9-2d07-4105-8e21-6a231c3cd724.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 115,
+      "websiteUrl": "https://www.producthunt.com/r/4KEI3HQ75GHV52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Notion Agents just got rebuilt. Per Notion, the update does more for less: agents that can work for 24 hours or more, a model router that cuts cost, and a new credit system.If you haven’t used them, Notion Agents work inside your workspace to take on tasks, and you can also build Custom Agents for your team.What’s new in this update:A rebuilt agent harness. Agents now have their own computer and browser, can write scripts for repeatable steps, and manage long conversations better. Tasks can run for 24 hours or more, up from five minutes, and Notion says agents run up to 50% faster on web and mobile“Review for me” mode, where a separate model checks an action before the agent takes itAuto, the upgraded model router. It sends simple requests to fast models and harder work to more capable ones, and switches if a model gets stuck. Per Notion, across 20+ common tasks it gave results similar to Opus 5.5 and Astra at about 90% lower average cost, so credits go about 10x furtherBring your own AI. You can connect a ChatGPT Plus, Pro or Go plan to your personal Notion Agent. Bring Your Own Key is in an Enterprise-only alphaAn overhauled Notion MCP, so agents like ChatGPT and Claude can use Notion as shared context. Memory sync is live todayOne credit system for all AI usage. Business and Enterprise seats include 1,500 Standard credits and 500 Select credits a monthGood fit if your team already works in Notion and wants agents that run longer tasks without costs getting out of hand.release notes and the launch blog post."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-8",
+      "date": "2026-10-20",
+      "rank": 8,
+      "name": "Inflight",
+      "slug": "inflight-2",
+      "tagline": "The missing feedback layer for prototypes",
+      "description": "Share a preview link or HTML prototype. Reviewers pin comments to real elements, or record video, right on the running app. Inflight turns that feedback into next steps your coding agent (Cursor, Claude Code, Codex) pulls in over MCP.",
+      "category": "Design Tools • User Experience • Prototyping",
+      "categoryFa": "ابزار طراحی • User Experience • Prototyping",
+      "url": "https://www.producthunt.com/products/inflight-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f8146fce-4c74-4629-96c5-4841d075c8f9.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7e413da2-8954-45d6-849f-7939cd8e10bf.jpeg?auto=format",
+        "https://ph-files.imgix.net/81e7b2c5-9f07-4838-a133-cf9293036990.png?auto=format",
+        "https://ph-files.imgix.net/c104d23a-6d18-4182-8cf7-c6f4cb96e69e.jpeg?auto=format",
+        "https://ph-files.imgix.net/00e90fc3-2948-4989-8481-9a3d126f94ff.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 115,
+      "websiteUrl": "https://www.producthunt.com/r/CTRZYLJ3CO42UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "New from @riddering — here's a great interview on how this came to be: https://youtube.com/watch?v=0FQC0mu5Z00"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Excited to try it out. Would be cool if it works with native iOS apps as well, as I'm currently doing a lot of prototyping in the iOS simulator."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@designertom is the best, very excited to try out this product!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the feedback land somewhere the client can use withoutan account? The reason prototype feedback ends up in WhatsAppfor me is that clients won't sign up for one more tool justto leave three comments."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As someone building a prototyping tool (Magic Patterns), Inflight indeed is the missing feedback layer.The software world has moved prototype-first. Prototypes used to be a nice-to-have. But now teams require prototypes. Big congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Massive fan of inflight! The team is the best design talent i have seen."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH, Tommy here, co-founder with Kyle, Ridd and Veer.The design leads I’ve interviewed keep describing the same mess: prototype feedback scattered across channels, then someone retypes it into a prompt so the agent can fix it. We wanted feedback to live on the prototype itself and reach the agent from there.How it works:Share a preview link or HTML prototypeReviewers pin comments to real elements, or record video, on the running appYour coding agent (Cursor, Claude Code, Codex) pulls those in over MCP as next stepsOne ask: if you connect the MCP, reply here with the first next step your agent pulled in and whether it got it right."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It makes sense to pin feedback to the actual element. What do you do if two reviewers request opposite changes before that feedback gets to the coding agent?"
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-9",
+      "date": "2026-10-20",
+      "rank": 9,
+      "name": "RunInfra",
+      "slug": "runinfra-2",
+      "tagline": "Open models, built for agents.",
+      "description": "RunInfra Coding Plans give your coding agent fast open models for a flat monthly price, starting at $10. Use GLM 5.3, DeepSeek V4.1 Flash, Qwen3.8 27B and more inside Claude Code, Codex, OpenCode, Cline, Droid or Grok Build. Setup takes one prompt: paste it into your agent, approve sign-in, done. Session-aware routing hits cache up to 99.5% of the time, so your plan goes further. Zero data retention, no training on prompts, SOC 2 Type II.",
+      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f9d44975-4426-4156-9ebb-fd1ce4578775.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ed987710-5f39-4736-8b38-590193757caf.png?auto=format",
+        "https://ph-files.imgix.net/420ed7f1-a790-4da9-9da1-c2455af2cfcb.png?auto=format",
+        "https://ph-files.imgix.net/15b118bf-61e9-4dd3-8b04-265d0b808702.png?auto=format",
+        "https://ph-files.imgix.net/2dbb1195-0185-4e52-892e-272994793d77.png?auto=format",
+        "https://ph-files.imgix.net/4f8f18de-7014-4421-bada-06e066c79bf1.png?auto=format",
+        "https://ph-files.imgix.net/130d7d4e-7d8a-4ae2-b9fe-04038aeb85a5.png?auto=format",
+        "https://ph-files.imgix.net/fa41c5e8-35dd-4931-ba7d-286d80068d8e.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 115,
+      "websiteUrl": "https://www.producthunt.com/r/3TPWY4Y2OXO72N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH, Jaber here I run coding agents all day and got tired of watching the token bill instead of the work So we made a flat plan. Fast open models in Claude Code, Codex or whatever you already use, from $10/mo I’ll be in the comments all day so feel free to share any feedback:)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "open models tuned for coding agents is a smart angle 🔥 which models are fastest so far?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've cobbled together this kind of thing myself, but it's definitely a hassle dealing with fallback models and hitting limits. Any plans for a fallback rate metric in the dashboard, or other notifications for ongoing issues that might impact the quality of the code?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi, great launch, I was wondering if you have a side by side pricing comparison table for open router vs RunInfra."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on launching! Great job. Plans starting at $10 per month, with Claude Code and the rest all supported in one place, are a strong offer for teams that want to experiment without overspending. Wishing you a great launch day! 👏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "flat pricing for agents makes sense, watching the meter changes how you use the thing. what happens when you hit the daily limit mid session tho, does it drop to a slower model or just stop. thats what id want to know before moving claude code over"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Ten dollars a month for GLM and DeepSeek inside the agents I already run is a much easier sell than another API key to manage, and that cache hit rate is what would decide whether it lasts."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "$12 of usage per month for $10 is not enough to justify daily and weekly limits in my opinion. How is your plan better than GLM, CommandCode or Ollama’s paid plans?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-06",
       "rank": 9,
@@ -63346,117 +63915,6 @@
         {
           "user": "کاربر ProductHunt 4",
           "text": "فقط به Vizard Agent بگویید چه ویدئویی می‌خواهید بسازید، سپس بنشینید و بگذارید شما را شگفت‌زده کند. تبریک برای راه‌اندازی! 🚀"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-10-20",
-      "rank": 8,
-      "name": "Asimov 1",
-      "slug": "asimov-1",
-      "tagline": "The most customizable humanoid robot you can buy",
-      "description": "Asimov 1 is a humanoid robot you can build a company on. Train it and shape it for whatever you're building. Bought by founders, researchers and developers in 20+ countries.",
-      "category": "Open Source • Robots • Artificial Intelligence",
-      "categoryFa": "متن‌باز • Robots • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/asimov-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/066b858b-d050-4d90-a557-5ef09ec5268d.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ee8a1bbd-84ed-4624-82e3-731be59a06b6.jpeg?auto=format",
-        "https://ph-files.imgix.net/3a8e2846-23d0-43cf-b9d1-c4187d4dbc30.png?auto=format",
-        "https://ph-files.imgix.net/a36907a2-124a-43eb-bfc6-7c2014fcf371.png?auto=format",
-        "https://ph-files.imgix.net/745858e1-010a-4c80-a818-3f9760999130.png?auto=format",
-        "https://ph-files.imgix.net/54e62055-1d44-48bb-90b0-81c3c78f3971.png?auto=format",
-        "https://ph-files.imgix.net/2dae1d59-f635-4615-91fb-d6d1b3c350d5.png?auto=format",
-        "https://ph-files.imgix.net/f6286457-b167-4628-a72f-948621d38c96.png?auto=format",
-        "https://ph-files.imgix.net/8b559fa2-a8cb-44a5-845c-108d4b4f62c8.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 110,
-      "websiteUrl": "https://www.producthunt.com/r/6WIMBPGOJDSTU6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, Emre from Menlo Research. Asimov 1 is an open-source humanoid robot that you can build a company on. It's the most customizable humanoid robot.Asimov started with a Unitree G1. We bought one because we wanted to train our own policies on it. Then a small part broke during testing. The robot was closed source, so we couldn't fix it ourselves. We waited about 2 months for a replacement. Shared the full story here.That's when we decided to build our own. A humanoid where the design is public, every part can be sourced, and the owner decides what it becomes. We started with the legs and released them in January. The full humanoid followed in April. We shared the build in public the whole way.When we opened pre-orders, we hit the minimum order for production in 9 hours. Shipped the first batch to customers in more than 20 countries!Asimov 1 is now the foundation of our own enterprise deployments. Founders buy it to learn robotics and to start their company on a robot they fully own. Researchers and developers use it to train and test their own work.It's 1.2 m tall, has 25 powered joints and ships with a base walking policy. It comes as a kit you assemble in about a week at a few hours a day. It's $20,000, delivered to your door.Order: https://menlo.ai/asimov-1Build: https://docs.menlo.ai/What would you build with it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Awesome 🔥. Can Asimov climb stairs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is pretty appealing. Curious how easy it is to train it for new tasks."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The effort the team has put into this is genuinely impressive. Love the open-source approach and the vision behind it. Excited to see where this goes. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Waiting two months for one replacement part is a pretty clear reason to build differently. Public designs and parts people can source themselves make the ownership story much more concrete."
-        }
-      ]
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-10-20",
-      "rank": 7,
-      "name": "RunInfra",
-      "slug": "runinfra-2",
-      "tagline": "Open models, built for agents.",
-      "description": "RunInfra Coding Plans give your coding agent fast open models for a flat monthly price, starting at $10. Use GLM 5.3, DeepSeek V4.1 Flash, Qwen3.8 27B and more inside Claude Code, Codex, OpenCode, Cline, Droid or Grok Build. Setup takes one prompt: paste it into your agent, approve sign-in, done. Session-aware routing hits cache up to 99.5% of the time, so your plan goes further. Zero data retention, no training on prompts, SOC 2 Type II.",
-      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
-      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f9d44975-4426-4156-9ebb-fd1ce4578775.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ed987710-5f39-4736-8b38-590193757caf.png?auto=format",
-        "https://ph-files.imgix.net/420ed7f1-a790-4da9-9da1-c2455af2cfcb.png?auto=format",
-        "https://ph-files.imgix.net/15b118bf-61e9-4dd3-8b04-265d0b808702.png?auto=format",
-        "https://ph-files.imgix.net/2dbb1195-0185-4e52-892e-272994793d77.png?auto=format",
-        "https://ph-files.imgix.net/4f8f18de-7014-4421-bada-06e066c79bf1.png?auto=format",
-        "https://ph-files.imgix.net/130d7d4e-7d8a-4ae2-b9fe-04038aeb85a5.png?auto=format",
-        "https://ph-files.imgix.net/fa41c5e8-35dd-4931-ba7d-286d80068d8e.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 110,
-      "websiteUrl": "https://www.producthunt.com/r/3TPWY4Y2OXO72N?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH, Jaber here I run coding agents all day and got tired of watching the token bill instead of the work So we made a flat plan. Fast open models in Claude Code, Codex or whatever you already use, from $10/mo I’ll be in the comments all day so feel free to share any feedback:)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've cobbled together this kind of thing myself, but it's definitely a hassle dealing with fallback models and hitting limits. Any plans for a fallback rate metric in the dashboard, or other notifications for ongoing issues that might impact the quality of the code?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi, great launch, I was wondering if you have a side by side pricing comparison table for open router vs RunInfra."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on launching! Great job. Plans starting at $10 per month, with Claude Code and the rest all supported in one place, are a strong offer for teams that want to experiment without overspending. Wishing you a great launch day! 👏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "flat pricing for agents makes sense, watching the meter changes how you use the thing. what happens when you hit the daily limit mid session tho, does it drop to a slower model or just stop. thats what id want to know before moving claude code over"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Ten dollars a month for GLM and DeepSeek inside the agents I already run is a much easier sell than another API key to manage, and that cache hit rate is what would decide whether it lasts."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "$12 of usage per month for $10 is not enough to justify daily and weekly limits in my opinion. How is your plan better than GLM, CommandCode or Ollama’s paid plans?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "My coding never been that cheap and fast at the same time"
         }
       ]
     },
@@ -66964,48 +67422,38 @@
       }
     },
     {
-      "id": "ph-today-10",
-      "date": "2026-10-20",
-      "rank": 10,
-      "name": "Inflight",
-      "slug": "inflight-2",
-      "tagline": "The missing feedback layer for prototypes",
-      "description": "Share a preview link or HTML prototype. Reviewers pin comments to real elements, or record video, right on the running app. Inflight turns that feedback into next steps your coding agent (Cursor, Claude Code, Codex) pulls in over MCP.",
-      "category": "Design Tools • User Experience • Prototyping",
-      "categoryFa": "ابزار طراحی • User Experience • Prototyping",
-      "url": "https://www.producthunt.com/products/inflight-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f8146fce-4c74-4629-96c5-4841d075c8f9.png?auto=format",
+      "id": "ph-today-8",
+      "date": "2026-10-21",
+      "rank": 8,
+      "name": "NativeShip",
+      "slug": "nativeship",
+      "tagline": "The easy way to launch your n8n native integration",
+      "description": "NativeShip helps SaaS teams launch and maintain an n8n integration from their existing API. Nodes follow n8n's official guidelines and are ready for verification, with standard publishing and maintenance built in. Shape the node with a live preview, publish from your own GitHub and npm in one click, and track every release. No technical skills needed.",
+      "category": "SaaS • Developer Tools • No-Code",
+      "categoryFa": "نرم‌افزار ابری • ابزار توسعه‌دهندگان • No-Code",
+      "url": "https://www.producthunt.com/products/nativeship?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3903ff5f-0b0f-4561-a923-4b2a235b9ef6.jpeg?auto=format",
       "screenshots": [
-        "https://ph-files.imgix.net/7e413da2-8954-45d6-849f-7939cd8e10bf.jpeg?auto=format",
-        "https://ph-files.imgix.net/81e7b2c5-9f07-4838-a133-cf9293036990.png?auto=format",
-        "https://ph-files.imgix.net/c104d23a-6d18-4182-8cf7-c6f4cb96e69e.jpeg?auto=format",
-        "https://ph-files.imgix.net/00e90fc3-2948-4989-8481-9a3d126f94ff.png?auto=format"
+        "https://ph-files.imgix.net/0429aaad-5380-4931-a592-bf53306ca10e.jpeg?auto=format",
+        "https://ph-files.imgix.net/a4af1251-4608-4a7f-87a5-887f887dcdf5.png?auto=format",
+        "https://ph-files.imgix.net/d318f304-f2a8-48db-824c-97cdea7059e4.png?auto=format",
+        "https://ph-files.imgix.net/48d29c7f-2ee5-459f-86b3-edf9ee051a3a.png?auto=format",
+        "https://ph-files.imgix.net/dd4d5ea7-1a86-4b88-a04a-4ba6b89fae46.png?auto=format",
+        "https://ph-files.imgix.net/ba48b4b9-a88a-4a09-972a-3b38b8ea970e.png?auto=format"
       ],
       "maker": "[REDACTED]",
       "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
+      "featuredAt": "2026-10-21T07:01:00Z",
       "votes": 102,
-      "websiteUrl": "https://www.producthunt.com/r/CTRZYLJ3CO42UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "websiteUrl": "https://www.producthunt.com/r/B6J24ZLZVUNQHL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
           "user": "[REDACTED]",
-          "text": "New from @riddering — here's a great interview on how this came to be: https://youtube.com/watch?v=0FQC0mu5Z00"
+          "text": "Hi, I'm Bhavy, founder of NativeShip 👋 I've been in the n8n space for a long time, and I'm a verified n8n creator. When I was building automations for clients, many platforms had no official n8n node. Connecting them meant manually setting up headers, bodies and endpoints with the HTTP node. Sometimes I even told clients to switch to a tool with better integrations. Out of frustration, I also submitted n8n integration requests to several platforms' roadmaps. Then I looked into building a node myself, and found it's hard. It needs real coding, a specific safety structure, and passing checks based on n8n's official node guidelines. So I asked: why not build a platform where anyone can create a node without deep technical knowledge? That's how NativeShip started. With NativeShip you can: - Build your n8n node from your existing API - Follow n8n's official guidelines - Shape what your users see with a live preview - Publish through your own GitHub and npm provenance, which n8n requires for official nodes - Track every release My goal is for every SaaS to offer a native integration. People now use products less through the UI and more through integrations like MCP and automation. If your product isn't there, you get skipped. 🎁 Launch offer: Get 15% off with the code \"PRODUCTHUNT\" (This code is valid for 3 days only) I'd love your feedback: 1. Which tools do you wish had an official n8n node? 2. If you run a SaaS, what's stopping you from shipping an n8n integration?"
         },
         {
           "user": "[REDACTED]",
-          "text": "As someone building a prototyping tool (Magic Patterns), Inflight indeed is the missing feedback layer.The software world has moved prototype-first. Prototypes used to be a nice-to-have. But now teams require prototypes. Big congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Massive fan of inflight! The team is the best design talent i have seen."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH, Tommy here, co-founder with Kyle, Ridd and Veer.The design leads I’ve interviewed keep describing the same mess: prototype feedback scattered across channels, then someone retypes it into a prompt so the agent can fix it. We wanted feedback to live on the prototype itself and reach the agent from there.How it works:Share a preview link or HTML prototypeReviewers pin comments to real elements, or record video, on the running appYour coding agent (Cursor, Claude Code, Codex) pulls those in over MCP as next stepsOne ask: if you connect the MCP, reply here with the first next step your agent pulled in and whether it got it right."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It makes sense to pin feedback to the actual element. What do you do if two reviewers request opposite changes before that feedback gets to the coding agent?"
+          "text": "Founder of NativeShip here. We currently help with n8n integrations.We plan to support 10+ automation platforms, including Zapier, Make, Activepieces, Pipedream, etc. (MCP and CLI too)Which platform would be most useful for your product?"
         }
       ]
     },
@@ -67280,6 +67728,105 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-10-21",
+      "rank": 10,
+      "name": "Flagsmith Experiments",
+      "slug": "flagsmith-experiments",
+      "tagline": "Open-source A/B testing built on your feature flags",
+      "description": "Flagsmith now runs A/B tests on the flags you already use. Pick a flag and a metric, and get a Bayesian read on which variant wins. Use our managed warehouse or bring your own ClickHouse or Databricks. Free and open source, self-hosted or cloud.",
+      "category": "Open Source • A/B Testing • Developer Tools",
+      "categoryFa": "متن‌باز • A/B Testing • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/flagsmith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/1fd64eaf-53a5-441e-b22f-50a44dcc6de4.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e79a43d0-ed60-454f-9c0b-997880564d06.jpeg?auto=format",
+        "https://ph-files.imgix.net/99c2a537-9aab-45bb-be6d-f19af6bfc495.webp?auto=format",
+        "https://ph-files.imgix.net/4a3ebbe1-bd97-43b1-98fe-50eda1604e63.png?auto=format",
+        "https://ph-files.imgix.net/58953874-9ecc-493a-9151-b04639f92bd9.png?auto=format",
+        "https://ph-files.imgix.net/edc80c56-da3d-493f-a96d-5d9c7f6aa1f6.png?auto=format",
+        "https://ph-files.imgix.net/00d30243-f806-4900-9e3c-1e738820ac96.png?auto=format",
+        "https://ph-files.imgix.net/e1cde193-a3d8-4eac-a61b-0520aa1af167.png?auto=format",
+        "https://ph-files.imgix.net/c991e5dc-20ce-4a87-bcbb-d791db9853b9.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 101,
+      "websiteUrl": "https://www.producthunt.com/r/HG6UZLGHTKARDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Asaph, Head of Product at Flagsmith. Product and Engineering teams have been using Flagsmith flags for years to release safely. Plenty of them already split traffic with our multivariate flags, and then try to track and join exposure and conversion events using other tools to see whether the change worked. Many teams stop before getting any results, or find the process so complicated that they never try again. So we built the other half into Flagsmith - Today we’re launching Flagsmith Experiments as a public beta, in the open-source core and on Flagsmith Cloud. How it works: - Start from an A/B flag you already run, in your code, using our SDKs - Connect your warehouse - we currently support ClickHouse and Databricks, and BigQuery and Snowflake will be available soon. On our Flagsmith Cloud you can use a fully managed warehouse with a 2-click setup. - Create an Experiment with a hypothesis, and pick the audience using Flagsmith Segments or from external cohorts we sync with (we support Amplitude and Mixpanel) - Create a metric from your events, or use an existing one from your warehouse. - Get results based on a Bayesian engine, with Chance to beat and Lift indicators. - End the experiment and you're back on the flag - roll out the winner or roll back Where the data lives is your call. Bring-your-own-warehouse is part of the open-source edition. We kept v1 small on purpose: a Bayesian engine, one primary metric per experiment, and SDKs for JavaScript, React, Python, Java, Node.js, Go and Flutter. The fastest way to get started is to use our prebuilt prompt with your favorite coding agent, visit our docs for more info. One thing that surprised us while dogfooding this ourselves is that our experiments gave us better questions more often than final answers. That’s why we designed it to show the result, and a possible recommendation, but the call is still yours. What would you need to run your next experiment here? Gagan, Wadii, both Matts and I are here to discuss and answer your questions (while we’re actually together at our engineering offsite in Portugal!). And to help you get started we’re offering the first 20 teams a free 30-min setup session with me - to claim your session let me know in the comments what you’d test first!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Quick question: Could cloudflare be used to host? Thanks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does an exposure mean the flag was evaluated or the person actually saw the variant?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What if we change the audience segment in the middle of an experiment? What does that do to the results?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Going back to the same flag to roll out or roll back feels like a sensible way to finish an experiment. Keeping that last step close to the result could make it easier to act on what you learn."
+        }
+      ]
+    },
+    {
+      "id": "ph-today-9",
+      "date": "2026-10-21",
+      "rank": 9,
+      "name": "The Brains",
+      "slug": "the-brains",
+      "tagline": "Founders and investors as MCP servers, every answer cited",
+      "description": "The Brains turns founders, CEOs and investors into searchable MCP servers built from their public talks, essays, interviews and posts. Ask how Pieter Levels prices, what Paul Graham says about fundraising, or how Ryan Hoover launched Product Hunt, right inside Claude, Cursor, ChatGPT or Codex. Every answer quotes the source with a link. 37 brains today, one URL per brain or one for all. Free, open source (MIT), unofficial and not affiliated with the people.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b0666262-6b13-4e7c-b98f-9f31c7163deb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6c6be4f5-b653-4d77-bec6-2a81077adb22.png?auto=format",
+        "https://ph-files.imgix.net/c5cc868f-0a27-4af5-a3c9-6e8f648e7c90.png?auto=format",
+        "https://ph-files.imgix.net/4c184750-e970-4c62-8953-0bf087a6985d.png?auto=format",
+        "https://ph-files.imgix.net/0359bd96-4753-44e0-89fb-7d37bd1dd3bb.png?auto=format",
+        "https://ph-files.imgix.net/d5201ef2-fbde-4c77-8c40-30dd5ba92faf.png?auto=format",
+        "https://ph-files.imgix.net/1dd29e7d-d3dc-4553-81c7-049e921071d7.png?auto=format",
+        "https://ph-files.imgix.net/9628699d-8823-45bc-9794-9c76ec8c4e6f.gif?auto=format"
+      ],
+      "maker": "Victor Giurgiu",
+      "makerTitle": "Gen-z tech geek",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 101,
+      "websiteUrl": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "hey Product Hunt, Vic here. i use Claude and Cursor for a lot of my product decisions, and when i asked things like \"how would Pieter Levels price this?\" the answer always sounded confident. but i couldn't tell what he actually said vs what the model made up. so i built The Brains. each founder, CEO or investor is an MCP server built from their public talks, essays, interviews and posts. your AI searches what they actually said, and every answer links back to the source. what's in it today: - 37 brains, including Paul Graham, Pieter Levels, Naval, Lenny Rachitsky, Jason Cohen and yes, Ryan Hoover - one URL per brain, or one connector for all of them - works in Claude, Claude Code, Cursor, ChatGPT, Codex and any MCP client - free and MIT licensed, so you can run it yourself or build your own brain - unofficial and built only from public material. if you're one of the people and want something fixed or removed, just email me would love to know who you want added next and where the answers feel thin. i'm here all day reading every comment."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "great stuff, love it, congrats with the launch and thanks for making it opensource!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really like that every answer is cited, that's the whole point. How do you handle founders who changed their mind over the years? Paul Graham in 2008 vs 2024 can give two very different answers 😄 And +1 for adding Michael Seibel."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the source date matters almost as much as the quote heresomeone can change their mind and both answers will still have a valid citation"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Might be the best mcp server idea I saw in a while, imagine having alex west rate your idea or improving it after his model"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -71931,12 +72478,12 @@
     }
   ],
   "audit": {
-    "products": 717,
-    "withRealComments": 717,
+    "products": 727,
+    "withRealComments": 727,
     "withPersianComments": 663,
     "withPersianDescription": 663,
     "withAiReview": 643,
     "withIranEquivalent": 663,
-    "totalRealComments": 4415
+    "totalRealComments": 4476
   }
 }
