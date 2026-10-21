@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "scrapedAt": "2026-10-20T23:18:34.712Z",
+  "scrapedAt": "2026-10-21T00:47:39.785Z",
   "periods": {
     "today": [
       {
@@ -29,7 +29,7 @@
         "maker": "nunomaduro",
         "makerTitle": "Laravel Core Team Member",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 393,
+        "votes": 403,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -143,12 +143,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 164,
+        "votes": 167,
         "websiteUrl": "https://www.producthunt.com/r/37H22K5ZBP32OU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "A harness includes everything surrounding the model—such as the system prompt, tools, memory, skills, and subagents. Traditionally, this setup is designed once and remains unchanged for every task the agent performs.Harness² introduces adaptability, enabling the agent to independently tailor its setup for each task while keeping model weights static.With this approach, the agent proposes changes to its harness, tests multiple configurations, and refines it based on performance insights from those trials.Because it learns from run-to-run variations, there's no need for a defined correct answer or an external grader to assess results.This process isn't limited to single tasks. Harness² also transfers learnings across tasks.Once a task is complete, the agent retains the optimized harness and the recurring insights from those runs. When working on a new task, it builds on this accumulated knowledge rather than starting over.This continuous refinement enhances future task performance.In trials with Gemini 3.5 Flash and GLM-5 on legal, office, and professional benchmarks, Google found that even one round of edits surpassed the performance of fixed harnesses, with further iterations driving additional improvement.This points to self-healing, self-growing harnesses... 🤯"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "hmm but like how do agents know what improves the harness? i feel that human input is needed."
           },
           {
             "user": "[REDACTED]",
@@ -186,7 +190,7 @@
         "maker": "Kartik Shah",
         "makerTitle": "I build things & talk about them.",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 153,
+        "votes": 155,
         "websiteUrl": "https://www.producthunt.com/r/4VIOA4UVPIL46K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -223,7 +227,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 137,
+        "votes": 139,
         "websiteUrl": "https://www.producthunt.com/r/2ZMKUDNEBLQZIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -279,9 +283,9 @@
         ]
       },
       {
-        "id": "ph-today-7",
+        "id": "ph-today-8",
         "date": "2026-10-20",
-        "rank": 7,
+        "rank": 8,
         "name": "Asimov 1",
         "slug": "asimov-1",
         "tagline": "The most customizable humanoid robot you can buy",
@@ -329,9 +333,9 @@
         ]
       },
       {
-        "id": "ph-today-8",
+        "id": "ph-today-7",
         "date": "2026-10-20",
-        "rank": 8,
+        "rank": 7,
         "name": "RunInfra",
         "slug": "runinfra-2",
         "tagline": "Open models, built for agents.",
@@ -461,7 +465,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 100,
+        "votes": 102,
         "websiteUrl": "https://www.producthunt.com/r/CTRZYLJ3CO42UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -514,7 +518,7 @@
         "maker": "Hiten Shah",
         "makerTitle": "CEO of Crazy Egg (est. 2005)",
         "featuredAt": "2026-10-19T07:01:00Z",
-        "votes": 362,
+        "votes": 363,
         "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1100,7 +1104,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 393,
+        "votes": 403,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1222,7 +1226,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-19T07:01:00Z",
-        "votes": 362,
+        "votes": 363,
         "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1338,9 +1342,9 @@
           "https://ph-files.imgix.net/48590961-6466-4ca7-a2f1-fa5db59aeae6.png?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "Building Talanoa - A Modern Email Client",
         "featuredAt": "2026-10-15T07:01:00Z",
-        "votes": 332,
+        "votes": 334,
         "websiteUrl": "https://www.producthunt.com/r/LOUVBI5K3ZIRPE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1375,7 +1379,65 @@
             "user": "[REDACTED]",
             "text": "Hello @bettercallj0hn , glad to see you launching the app on PH !I'm following Talanoa since the beginning and it's awesome how the app is growing fast. So many killer features that help me to keep my emails clean.Since I'm using it, impossible to get back to the original Gmail inbox ! Oh and I really appreciate receiving the \"new in talanoa\" email and I'm always excited to see what's new.Excited for the future ! Keep going ! :)"
           }
-        ]
+        ],
+        "faDescription": "تالانوا اولین پیام‌رسان ایمیل است که رشته‌های شلوغ و پراکنده ایمیل را به مکالمات تمیز و شبیه به چت تبدیل می‌کند. این ابزار با حذف اتصالات، امضاها و عناصر اضافی، تجربه کاربری را ساده و روان می‌سازد. شما می‌توانید ایمیل‌ها را به کارهای قابل انجام با تاریخ سررسید تبدیل کنید و بدون ترک صندوق ورودی، تقویم خود را مدیریت نمایید. از طریق هوش مصنوعی خصوصی و محلی، می‌توانید جستجو، خلاصه‌سازی و نوشتن متن‌ها را انجام دهید. تالانوا حساب‌های Gmail، Outlook، iCloud و هر حساب IMAP را در یک صندوق ورودی یکپارچه گرد هم می‌آورد. تمام داده‌ها روی کامپیوتر شما باقی می‌مانند؛ بدون همگام‌سازی ابری، بدون ردیابی و بدون دسترسی شخص ثالث به ایمیل‌های شما.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt 👋 من جان، سازنده مستقل تالانوا هستم. جالب است که تالانوا اصلاً قرار نبود به یک محصول تبدیل شود. من در ابتدا آن را فقط برای خودم ساختم. من بخش بزرگی از روزم را در ایمیل می‌گذرانم، اما هرگز از استفاده از کلاینت‌های سنتی ایمیل خوشم نمی‌آمد. بنابراین به جای جستجوی یک کلاینت دیگر، شروع به ساخت صندوق ورودی‌ای کردم که خودم می‌خواستم داشته باشم. سپس آن را به چند دوست نشان دادم. آن‌ها عاشقش شدند. شروع به استفاده از آن کردند. و در نهایت، فشار کافی بر من وارد کردند تا پروژه شخصی کوچکم را به یک محصول واقعی تبدیل کنم. بنابراین... اینجا هستیم. در طول این مسیر، یک ایده به‌طور فزاینده‌ای برایم آشکار شد: ایمیل مکالمه‌ای است که فراموش کرده مکالمه است. یک رشته بین دو نفر اساساً یک چت است. یک پیام، یک پاسخ، یک پاسخ به پاسخ. با این حال، کلاینت‌های ایمیل هنوز هنوز اتصالات تکراری، امضاها، هدرها، فوترها و سال‌ها شلوغی را نمایش می‌دهند. بنابراین من تالانوا را بر اساس ایده متفاوتی بازسازی کردم: اگر ایمیل بیشتر شبیه یک پیام‌رسان حس می‌شد چه؟ امروز، تالانوا صندوق ورودی شما را به مکالمات تمیز و شبیه به چت تبدیل می‌کند، در حالی که همه چیزهایی که ایمیل را ایمیل می‌کند حفظ می‌شود. اما فراتر از آن می‌رود: 💬 ایمیل‌ها به مکالمات واقعی تبدیل می‌شوند ✅ هر ایمیلی می‌تواند به یک کار با مرحله بعدی و تاریخ سررسید تبدیل شود 📅 تقویم شما در کنار مکالمات شما زندگی می‌کند ✨ هوش مصنوعی به شما در جستجو، خلاصه‌سازی و نوشتن کمک می‌کند، کاملاً روی دستگاه 📥 حساب‌های Gmail، Outlook، iCloud و IMAP می‌توانند در یک صندوق ورودی زندگی کنند 🔒 بدون همگام‌سازی ابری، بدون ردیابی. ایمیل‌های شما روی کامپیوتر شما باقی می‌مانند. من به‌طور مستقل تالانوا را ساخته‌ام، با کاربران صحبت کرده‌ام، چیزها را خراب کرده‌ام، دوباره ساخته‌ام و بسیاری از فرضیه‌هایی را که در ۳۰ سال گذشته درباره ایمیل داشته‌ایم به چالش کشیده‌ام. آنچه به عنوان ابزاری که برای خودم ساخته بودم شروع شد، به تدریج به چیزی بسیار بزرگ‌تر تبدیل شده است و این نسخه بالاخره آن تالانواست که همیشه می‌خواستم استفاده کنم. واقعاً از بازخورد شما خوشحال می‌شوم، به‌ویژه در مورد یک چیز: آیا رویکرد «ایمیل به عنوان مکالمه» احساس شما را نسبت به صندوق ورودی تغییر می‌دهد؟ و اگر یک چیز وجود دارد که کلاینت ایمیل فعلی شما انجام می‌دهد و بدون آن نمی‌توانید زندگی کنید، به من بگویید. من گوش می‌دهم 👇 از بررسی تالانوا متشکرم ❤️ جان"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "جان، این یک اپلیکیشن عالی است! اما یک چیز: آیا امکان دارد یک نسخه وب داشته باشیم؟ با باز بودن یک اپلیکیشن دیگر روی مک من، همه چیز شلوغ می‌شود. من دوست دارم که Gmail فقط در یک تب کروم بنشیند، همه در یک مکان و منظم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "سلام جان، من از یک صندوق ورودی تیمی با چند عضو تیم دیگر استفاده می‌کنم - شاید این خارج از محدوده باشد، اما آیا برنامه‌ای برای پشتیبانی از آن نوع موقعیت صندوق ورودی گروهی وجود دارد؟ می‌توانم تصور کنم که تالانوا به‌خوبی این شکاف را پر کند، با توجه به اینکه به طور کامل UX یک صندوق ورودی را بازنویسی می‌کند. محصولی با ظاهر عالی، به هر حال."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "تبریک بابت راه‌اندازی، جان. حذف اتصالات و امضاها چیزی است که نمای چت را کارآمد می‌کند، اما همین‌جاست که ایمیل پیچیده می‌شود. وقتی کسی به صورت درون‌خطی پاسخ می‌دهد، با تایپ پاسخ‌های خود بین خطوط پیام ارجاع داده شده، آیا تالانوا این پاسخ‌های بین‌خطی را تشخیص داده و حفظ می‌کند، یا ممکن است به عنوان متن ارجاع داده شده پنهان شوند؟ این مورد در رشته‌های طولانی با وکلا و مهندسان زیاد پیش می‌آید."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "من زاویه حریم خصوصی آن را دوست دارم: روی دستگاه، بدون همگام‌سازی ابری. نمای چت تمیز هم یک مزیت خوب است. آیا هوش مصنوعی روی دستگاه آفلاین کار می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "@bettercallj۰hn تبریک و راه‌اندازی شاد! من ایده را دوست دارم و رویکرد محلی و آفلاین را حمایت می‌کنم. شاید mcp یک ویژگی عالی برای کسانی باشد که خودشان ایجنت‌هایی برای مدیریت ایمیل اجرا می‌کنند."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک بابت راه‌اندازی @bettercallj۰hn! بازتعریف ایمیل به عنوان چت خالص در حالی که همه چیز محلی و روی دستگاه بدون همگام‌سازی ابری باقی می‌ماند، یک پیروزی بزرگ برای حریم خصوصی است. سؤال: هوش مصنوعی روی دستگاه با صندوق‌های ورودی عظیم چند گیگابایتی هنگام ایندکس‌گذاری یا جستجوی رشته‌های گذشته برای اولین بار چگونه عمل می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "سلام @bettercallj۰hn ، خوشحالم که می‌بینم اپلیکیشن را در PH راه‌اندازی کرده‌اید! من از ابتدا تالانوا را دنبال می‌کنم و عالی است که چگونه اپلیکیشن به سرعت رشد می‌کند. ویژگی‌های قاتل زیادی وجود دارد که به من کمک می‌کنند ایمیل‌هایم را تمیز نگه دارم. از آنجا که از آن استفاده می‌کنم، غیرممکن است به صندوق ورودی اصلی Gmail برگردم! و من واقعاً از دریافت ایمیل «جدید در تالانوا» قدردانی می‌کنم و همیشه هیجان‌زده می‌شوم که ببینم چه چیز جدیدی هست. مشتاق آینده هستم! ادامه بده! :)"
+          }
+        ],
+        "aiReview": "مسئله اصلی در این محصول، خستگی کاربری ناشی از شلوغی بصری و پیچیدگی رابط کاربری کلاینت‌های ایمیل سنتی است. راه‌حل ارائه‌شده، بازطراحی رادیکال رابط کاربری به سبک چت (Chat-like) است که با حذف عناصر غیرضروری مانند امضاها و هدرها، تمرکز کاربر را بر روی محتوا افزایش می‌دهد. از نظر معماری، این محصول رویکرد «On-Device» را به کار می‌گیرد که به معنای اجرای تمام پردازش‌ها از جمله هوش مصنوعی روی سخت‌افزار کاربر است؛ این رویکرد با استفاده از موتورهای سبک‌وزن و بهینه‌شده برای CPU/GPU محلی پیاده‌سازی می‌شود و مزیت بزرگ حریم خصوصی ایجاد می‌کند. مدل درآمدی احتمالی بر اساس اشتراک سازمانی (B۲B) است، زیرا ویژگی‌هایی مانند مدیریت تقویم یکپارچه و تبدیل ایمیل به Todo برای تیم‌ها ارزش افزوده بالایی دارد. نقاط قوت اصلی شامل تمرکز بر حریم خصوصی، تجربه کاربری مدرن و یکپارچگی چند حسابی است. نقاط ضعف می‌تواند شامل چالش‌های فنی در پردازش رشته‌های بسیار طولانی و پیچیده با الگوریتم‌های محلی و همچنین نیاز به آموزش کاربر برای تغییر عادت‌های قدیمی باشد. نکته طلایی برای ورود به بازار ایران، تمرکز بر «امنیت داده‌ها» و «کارکرد آفلاین» است؛ زیرا بسیاری از سازمان‌های ایرانی به دلیل نگرانی‌های امنیتی یا محدودیت‌های اینترنت، به دنبال راهکارهایی هستند که داده‌ها را خارج از محیط داخلی خود ارسال نکنند. همچنین ادغام با پیام‌رسان‌های داخلی می‌تواند یک مزیت رقابتی منحصربه‌فرد ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "پست‌چت",
+          "description": "پست‌چت یک کلاینت ایمیل بومی است که تجربه کاربری صندوق ورودی را شبیه به پیام‌رسان‌های محبوب ایرانی مانند ایتا و بله بازطراحی می‌کند. این محصول با حذف شلوغی‌های بصری و ارائه نمای مکالمه‌ای، فرآیند خواندن و پاسخ‌دهی به ایمیل‌ها را ساده و سریع می‌سازد. همچنین قابلیت تبدیل ایمیل به کارهای قابل پیگیری و مدیریت تقویم را در یک محیط یکپارچه و کاملاً آفلاین ارائه می‌دهد.",
+          "marketOpportunity": "بازار ایمیل سازمانی در ایران با وجود رشد استارتاپ‌ها و شرکت‌های فناوری، هنوز از ابزارهای سنتی و پرهزینه خارجی استفاده می‌کند. ارائه یک راهکار بومی با تمرکز بر حریم خصوصی و عملکرد آفلاین می‌تواند شکاف بزرگ موجود در تجربه کاربری ایمیل سازمانی را پر کند.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "استارتاپ‌های فناوری، تیم‌های توسعه‌دهنده نرم‌افزار، و شرکت‌های متوسط و بزرگ که به دنبال افزایش بهره‌وری تیم‌های خود و حفظ امنیت داده‌ها هستند.",
+          "challenges": [
+            "رقابت شدید با کلاینت‌های رایگان و رایج مانند Outlook و Thunderbird که کاربران به آن‌ها عادت کرده‌اند.",
+            "نیاز به توسعه الگوریتم‌های هوش مصنوعی سبک‌وزن برای اجرا روی سخت‌افزارهای متنوع و گاهی قدیمی در بازار ایران."
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه برای کاربران سازمانی با دسترسی به ویژگی‌های پیشرفته هوش مصنوعی و مدیریت تیمی.",
+            "فروش لایسنس دائمی برای شرکت‌هایی که ترجیح می‌دهند هزینه‌های جاری نداشته باشند."
+          ],
+          "techStack": [
+            "Electron",
+            "SQLite",
+            "Rust",
+            "Python"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-week-7",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:18:34.712Z",
+  "generatedAt": "2026-10-21T00:52:16.432Z",
   "sourceFiles": 72,
   "products": [
     {
@@ -11790,6 +11790,69 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-20",
+      "rank": 1,
+      "name": "/dev/null",
+      "slug": "dev-null",
+      "tagline": "a social network for devs",
+      "description": "/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.",
+      "category": "Open Source • Social Network • Software Engineering • GitHub",
+      "categoryFa": "متن‌باز • Social Network • Software Engineering • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format",
+        "https://ph-files.imgix.net/b4426896-744d-42a9-b1f2-cae7f57dcca3.jpeg?auto=format",
+        "https://ph-files.imgix.net/09808ebe-d7d8-4cd0-8422-a65ac8242931.png?auto=format",
+        "https://ph-files.imgix.net/78f9703e-3780-49ac-a149-3726fc41eb5a.png?auto=format",
+        "https://ph-files.imgix.net/473c100e-512b-4afe-b99b-7001659743ea.png?auto=format",
+        "https://ph-files.imgix.net/342d1ae7-459e-4575-a3f8-ac8879facdc8.png?auto=format",
+        "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
+        "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
+        "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
+      ],
+      "maker": "nunomaduro",
+      "makerTitle": "Laravel Core Team Member",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 403,
+      "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Wild 48 hours. Still processing it, to be honest.We went viral (Hacker News, X, etc.) using a format most marketing teams wouldn’t touch, precisely because it’s so uncomfortable: raw, unfiltered, no script, just us, locked in a 48-hour live stream showing every bit of it.The whole story: https://dev-null.sh/aboutDay 1: https://www.youtube.com/watch?v=6zCNQa3hNm0Day 2: https://www.youtube.com/watch?v=nfmVdXZfzUEPeople don’t fall in love with a brand. They fall in love with the humans behind it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Who wants to post to /dev/null from Raycast? I built an extension for that (in review)!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Best social network for devs.Had really good times discussing on the platform, watch it go live through livestream and contributing.Being able to be part of it is really engaging!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Are there plans to monetize or have ads on this platform? How would you make money from this platform and how would you keep it up and running? But anyway it's a great platform. I really love using it!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is awesome — but I have the same question as @j12t :"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Yay! I am a part of next potentially big thing!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "is the name gauche?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "finally, a dedicated platform for a developer instead of getting distracted by other things on other platforms"
+        }
+      ]
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-10-14",
       "rank": 8,
@@ -12505,69 +12568,6 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه ای:\n🔹 مسئله و راه حل: Outcome یک ابزار قدرتمند برای خلاقان است که به آنها امکان تبدیل محتوای خود به نتایج شخصی شده برای هر یک از مخاطبان را می دهد. این ابزار از طریق استفاده از یک آزمون کوتاه، به مخاطبان کمک می کند تا به نتیجه مورد نظر خود برسند.\n🔹 معماری و تکنولوژی احتمالی: Outcome از تکنولوژی های مدرن مانند Next.js و PostgreSQL استفاده می کند.\n🔹 مدل درآمدی: Outcome از طریق عضویت ماهیانه و پرداخت به ازای هر استفاده درآمد خود را کسب می کند.\n🔹 نقاط قوت: - امکان تبدیل محتوای خود به نتایج شخصی شده - رابط کاربری تمیز و زیبا - امکان جمع آوری داده های ارزشمند\n🔹 نقاط ضعف و ریسک ها: - رقابت با ابزارهای مشابه - نیاز به آموزش و پشتیبانی - نیاز به توسعه و به روز رسانی مداوم\n🔹 نکته طلایی برای بازار ایران: با استفاده از نتیجه، خلاقان می توانند محتوای خود را به نتایج شخصی شده تبدیل کنند و به مخاطبان خود کمک کنند تا به اهداف خود برسند."
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-20",
-      "rank": 1,
-      "name": "/dev/null",
-      "slug": "dev-null",
-      "tagline": "a social network for devs",
-      "description": "/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.",
-      "category": "Open Source • Social Network • Software Engineering • GitHub",
-      "categoryFa": "متن‌باز • Social Network • Software Engineering • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format",
-        "https://ph-files.imgix.net/b4426896-744d-42a9-b1f2-cae7f57dcca3.jpeg?auto=format",
-        "https://ph-files.imgix.net/09808ebe-d7d8-4cd0-8422-a65ac8242931.png?auto=format",
-        "https://ph-files.imgix.net/78f9703e-3780-49ac-a149-3726fc41eb5a.png?auto=format",
-        "https://ph-files.imgix.net/473c100e-512b-4afe-b99b-7001659743ea.png?auto=format",
-        "https://ph-files.imgix.net/342d1ae7-459e-4575-a3f8-ac8879facdc8.png?auto=format",
-        "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
-        "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
-        "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
-      ],
-      "maker": "nunomaduro",
-      "makerTitle": "Laravel Core Team Member",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 393,
-      "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Wild 48 hours. Still processing it, to be honest.We went viral (Hacker News, X, etc.) using a format most marketing teams wouldn’t touch, precisely because it’s so uncomfortable: raw, unfiltered, no script, just us, locked in a 48-hour live stream showing every bit of it.The whole story: https://dev-null.sh/aboutDay 1: https://www.youtube.com/watch?v=6zCNQa3hNm0Day 2: https://www.youtube.com/watch?v=nfmVdXZfzUEPeople don’t fall in love with a brand. They fall in love with the humans behind it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Who wants to post to /dev/null from Raycast? I built an extension for that (in review)!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Best social network for devs.Had really good times discussing on the platform, watch it go live through livestream and contributing.Being able to be part of it is really engaging!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Are there plans to monetize or have ads on this platform? How would you make money from this platform and how would you keep it up and running? But anyway it's a great platform. I really love using it!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is awesome — but I have the same question as @j12t :"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Yay! I am a part of next potentially big thing!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "is the name gauche?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "finally, a dedicated platform for a developer instead of getting distracted by other things on other platforms"
-        }
-      ]
     },
     {
       "id": "ph-week-6",
@@ -15836,7 +15836,7 @@
       "maker": "Hiten Shah",
       "makerTitle": "CEO of Crazy Egg (est. 2005)",
       "featuredAt": "2026-10-19T07:01:00Z",
-      "votes": 362,
+      "votes": 363,
       "websiteUrl": "https://www.producthunt.com/r/XR2QV6TXWMZHHX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -18596,7 +18596,65 @@
           "user": "[REDACTED]",
           "text": "Hello @bettercallj0hn , glad to see you launching the app on PH !I'm following Talanoa since the beginning and it's awesome how the app is growing fast. So many killer features that help me to keep my emails clean.Since I'm using it, impossible to get back to the original Gmail inbox ! Oh and I really appreciate receiving the \"new in talanoa\" email and I'm always excited to see what's new.Excited for the future ! Keep going ! :)"
         }
-      ]
+      ],
+      "faDescription": "تالانوا اولین پیام‌رسان ایمیل است که رشته‌های شلوغ و پراکنده ایمیل را به مکالمات تمیز و شبیه به چت تبدیل می‌کند. این ابزار با حذف اتصالات، امضاها و عناصر اضافی، تجربه کاربری را ساده و روان می‌سازد. شما می‌توانید ایمیل‌ها را به کارهای قابل انجام با تاریخ سررسید تبدیل کنید و بدون ترک صندوق ورودی، تقویم خود را مدیریت نمایید. از طریق هوش مصنوعی خصوصی و محلی، می‌توانید جستجو، خلاصه‌سازی و نوشتن متن‌ها را انجام دهید. تالانوا حساب‌های Gmail، Outlook، iCloud و هر حساب IMAP را در یک صندوق ورودی یکپارچه گرد هم می‌آورد. تمام داده‌ها روی کامپیوتر شما باقی می‌مانند؛ بدون همگام‌سازی ابری، بدون ردیابی و بدون دسترسی شخص ثالث به ایمیل‌های شما.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من جان، سازنده مستقل تالانوا هستم. جالب است که تالانوا اصلاً قرار نبود به یک محصول تبدیل شود. من در ابتدا آن را فقط برای خودم ساختم. من بخش بزرگی از روزم را در ایمیل می‌گذرانم، اما هرگز از استفاده از کلاینت‌های سنتی ایمیل خوشم نمی‌آمد. بنابراین به جای جستجوی یک کلاینت دیگر، شروع به ساخت صندوق ورودی‌ای کردم که خودم می‌خواستم داشته باشم. سپس آن را به چند دوست نشان دادم. آن‌ها عاشقش شدند. شروع به استفاده از آن کردند. و در نهایت، فشار کافی بر من وارد کردند تا پروژه شخصی کوچکم را به یک محصول واقعی تبدیل کنم. بنابراین... اینجا هستیم. در طول این مسیر، یک ایده به‌طور فزاینده‌ای برایم آشکار شد: ایمیل مکالمه‌ای است که فراموش کرده مکالمه است. یک رشته بین دو نفر اساساً یک چت است. یک پیام، یک پاسخ، یک پاسخ به پاسخ. با این حال، کلاینت‌های ایمیل هنوز هنوز اتصالات تکراری، امضاها، هدرها، فوترها و سال‌ها شلوغی را نمایش می‌دهند. بنابراین من تالانوا را بر اساس ایده متفاوتی بازسازی کردم: اگر ایمیل بیشتر شبیه یک پیام‌رسان حس می‌شد چه؟ امروز، تالانوا صندوق ورودی شما را به مکالمات تمیز و شبیه به چت تبدیل می‌کند، در حالی که همه چیزهایی که ایمیل را ایمیل می‌کند حفظ می‌شود. اما فراتر از آن می‌رود: 💬 ایمیل‌ها به مکالمات واقعی تبدیل می‌شوند ✅ هر ایمیلی می‌تواند به یک کار با مرحله بعدی و تاریخ سررسید تبدیل شود 📅 تقویم شما در کنار مکالمات شما زندگی می‌کند ✨ هوش مصنوعی به شما در جستجو، خلاصه‌سازی و نوشتن کمک می‌کند، کاملاً روی دستگاه 📥 حساب‌های Gmail، Outlook، iCloud و IMAP می‌توانند در یک صندوق ورودی زندگی کنند 🔒 بدون همگام‌سازی ابری، بدون ردیابی. ایمیل‌های شما روی کامپیوتر شما باقی می‌مانند. من به‌طور مستقل تالانوا را ساخته‌ام، با کاربران صحبت کرده‌ام، چیزها را خراب کرده‌ام، دوباره ساخته‌ام و بسیاری از فرضیه‌هایی را که در ۳۰ سال گذشته درباره ایمیل داشته‌ایم به چالش کشیده‌ام. آنچه به عنوان ابزاری که برای خودم ساخته بودم شروع شد، به تدریج به چیزی بسیار بزرگ‌تر تبدیل شده است و این نسخه بالاخره آن تالانواست که همیشه می‌خواستم استفاده کنم. واقعاً از بازخورد شما خوشحال می‌شوم، به‌ویژه در مورد یک چیز: آیا رویکرد «ایمیل به عنوان مکالمه» احساس شما را نسبت به صندوق ورودی تغییر می‌دهد؟ و اگر یک چیز وجود دارد که کلاینت ایمیل فعلی شما انجام می‌دهد و بدون آن نمی‌توانید زندگی کنید، به من بگویید. من گوش می‌دهم 👇 از بررسی تالانوا متشکرم ❤️ جان"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "جان، این یک اپلیکیشن عالی است! اما یک چیز: آیا امکان دارد یک نسخه وب داشته باشیم؟ با باز بودن یک اپلیکیشن دیگر روی مک من، همه چیز شلوغ می‌شود. من دوست دارم که Gmail فقط در یک تب کروم بنشیند، همه در یک مکان و منظم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "سلام جان، من از یک صندوق ورودی تیمی با چند عضو تیم دیگر استفاده می‌کنم - شاید این خارج از محدوده باشد، اما آیا برنامه‌ای برای پشتیبانی از آن نوع موقعیت صندوق ورودی گروهی وجود دارد؟ می‌توانم تصور کنم که تالانوا به‌خوبی این شکاف را پر کند، با توجه به اینکه به طور کامل UX یک صندوق ورودی را بازنویسی می‌کند. محصولی با ظاهر عالی، به هر حال."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت راه‌اندازی، جان. حذف اتصالات و امضاها چیزی است که نمای چت را کارآمد می‌کند، اما همین‌جاست که ایمیل پیچیده می‌شود. وقتی کسی به صورت درون‌خطی پاسخ می‌دهد، با تایپ پاسخ‌های خود بین خطوط پیام ارجاع داده شده، آیا تالانوا این پاسخ‌های بین‌خطی را تشخیص داده و حفظ می‌کند، یا ممکن است به عنوان متن ارجاع داده شده پنهان شوند؟ این مورد در رشته‌های طولانی با وکلا و مهندسان زیاد پیش می‌آید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من زاویه حریم خصوصی آن را دوست دارم: روی دستگاه، بدون همگام‌سازی ابری. نمای چت تمیز هم یک مزیت خوب است. آیا هوش مصنوعی روی دستگاه آفلاین کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "@bettercallj۰hn تبریک و راه‌اندازی شاد! من ایده را دوست دارم و رویکرد محلی و آفلاین را حمایت می‌کنم. شاید mcp یک ویژگی عالی برای کسانی باشد که خودشان ایجنت‌هایی برای مدیریت ایمیل اجرا می‌کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک بابت راه‌اندازی @bettercallj۰hn! بازتعریف ایمیل به عنوان چت خالص در حالی که همه چیز محلی و روی دستگاه بدون همگام‌سازی ابری باقی می‌ماند، یک پیروزی بزرگ برای حریم خصوصی است. سؤال: هوش مصنوعی روی دستگاه با صندوق‌های ورودی عظیم چند گیگابایتی هنگام ایندکس‌گذاری یا جستجوی رشته‌های گذشته برای اولین بار چگونه عمل می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام @bettercallj۰hn ، خوشحالم که می‌بینم اپلیکیشن را در PH راه‌اندازی کرده‌اید! من از ابتدا تالانوا را دنبال می‌کنم و عالی است که چگونه اپلیکیشن به سرعت رشد می‌کند. ویژگی‌های قاتل زیادی وجود دارد که به من کمک می‌کنند ایمیل‌هایم را تمیز نگه دارم. از آنجا که از آن استفاده می‌کنم، غیرممکن است به صندوق ورودی اصلی Gmail برگردم! و من واقعاً از دریافت ایمیل «جدید در تالانوا» قدردانی می‌کنم و همیشه هیجان‌زده می‌شوم که ببینم چه چیز جدیدی هست. مشتاق آینده هستم! ادامه بده! :)"
+        }
+      ],
+      "aiReview": "مسئله اصلی در این محصول، خستگی کاربری ناشی از شلوغی بصری و پیچیدگی رابط کاربری کلاینت‌های ایمیل سنتی است. راه‌حل ارائه‌شده، بازطراحی رادیکال رابط کاربری به سبک چت (Chat-like) است که با حذف عناصر غیرضروری مانند امضاها و هدرها، تمرکز کاربر را بر روی محتوا افزایش می‌دهد. از نظر معماری، این محصول رویکرد «On-Device» را به کار می‌گیرد که به معنای اجرای تمام پردازش‌ها از جمله هوش مصنوعی روی سخت‌افزار کاربر است؛ این رویکرد با استفاده از موتورهای سبک‌وزن و بهینه‌شده برای CPU/GPU محلی پیاده‌سازی می‌شود و مزیت بزرگ حریم خصوصی ایجاد می‌کند. مدل درآمدی احتمالی بر اساس اشتراک سازمانی (B۲B) است، زیرا ویژگی‌هایی مانند مدیریت تقویم یکپارچه و تبدیل ایمیل به Todo برای تیم‌ها ارزش افزوده بالایی دارد. نقاط قوت اصلی شامل تمرکز بر حریم خصوصی، تجربه کاربری مدرن و یکپارچگی چند حسابی است. نقاط ضعف می‌تواند شامل چالش‌های فنی در پردازش رشته‌های بسیار طولانی و پیچیده با الگوریتم‌های محلی و همچنین نیاز به آموزش کاربر برای تغییر عادت‌های قدیمی باشد. نکته طلایی برای ورود به بازار ایران، تمرکز بر «امنیت داده‌ها» و «کارکرد آفلاین» است؛ زیرا بسیاری از سازمان‌های ایرانی به دلیل نگرانی‌های امنیتی یا محدودیت‌های اینترنت، به دنبال راهکارهایی هستند که داده‌ها را خارج از محیط داخلی خود ارسال نکنند. همچنین ادغام با پیام‌رسان‌های داخلی می‌تواند یک مزیت رقابتی منحصربه‌فرد ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پست‌چت",
+        "description": "پست‌چت یک کلاینت ایمیل بومی است که تجربه کاربری صندوق ورودی را شبیه به پیام‌رسان‌های محبوب ایرانی مانند ایتا و بله بازطراحی می‌کند. این محصول با حذف شلوغی‌های بصری و ارائه نمای مکالمه‌ای، فرآیند خواندن و پاسخ‌دهی به ایمیل‌ها را ساده و سریع می‌سازد. همچنین قابلیت تبدیل ایمیل به کارهای قابل پیگیری و مدیریت تقویم را در یک محیط یکپارچه و کاملاً آفلاین ارائه می‌دهد.",
+        "marketOpportunity": "بازار ایمیل سازمانی در ایران با وجود رشد استارتاپ‌ها و شرکت‌های فناوری، هنوز از ابزارهای سنتی و پرهزینه خارجی استفاده می‌کند. ارائه یک راهکار بومی با تمرکز بر حریم خصوصی و عملکرد آفلاین می‌تواند شکاف بزرگ موجود در تجربه کاربری ایمیل سازمانی را پر کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های فناوری، تیم‌های توسعه‌دهنده نرم‌افزار، و شرکت‌های متوسط و بزرگ که به دنبال افزایش بهره‌وری تیم‌های خود و حفظ امنیت داده‌ها هستند.",
+        "challenges": [
+          "رقابت شدید با کلاینت‌های رایگان و رایج مانند Outlook و Thunderbird که کاربران به آن‌ها عادت کرده‌اند.",
+          "نیاز به توسعه الگوریتم‌های هوش مصنوعی سبک‌وزن برای اجرا روی سخت‌افزارهای متنوع و گاهی قدیمی در بازار ایران."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای کاربران سازمانی با دسترسی به ویژگی‌های پیشرفته هوش مصنوعی و مدیریت تیمی.",
+          "فروش لایسنس دائمی برای شرکت‌هایی که ترجیح می‌دهند هزینه‌های جاری نداشته باشند."
+        ],
+        "techStack": [
+          "Electron",
+          "SQLite",
+          "Rust",
+          "Python"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-1",
@@ -33688,7 +33746,59 @@
           "user": "[REDACTED]",
           "text": "The face-and-voice recognition per person is the detail I find most interesting. I work on a voice AI that phones aging parents every day, and the hardest part has been getting older users to trust a voice they can't see. Does HomeView let a guest or a family member check in on someone's home screen remotely, or is everything strictly local to whoever is standing in front of it? Curious how you are thinking about shared households with an older adult."
         }
-      ]
+      ],
+      "faDescription": "اپل هوم‌ویو یک نمایشگر هوشمند خانگی است که به هوش مصنوعی سیری مجهز شده است. این دستگاه با بهره‌گیری از صفحه‌نمایش لیکوئید رتینا و سیستم صوتی با کیفیت بالا، تجربه بصری و شنیداری فوق‌العاده‌ای ارائه می‌دهد. با استفاده از این محصول می‌توان به راحتی تماس‌های تصویری فیس‌تایم برقرار کرد و تجهیزات خانه هوشمند را مدیریت نمود. همچنین حفظ حریم خصوصی کاربران به صورت داخلی و پیش‌فرض در این نمایشگر تعبیه شده است تا ارتباط و کنترل خانه شیوه‌ای کاملاً جدید و امن پیدا کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! هوم‌ویو به محض نزدیک شدن هر شخص، به حساب او تغییر حالت می‌دهد. این دستگاه تا شش نفر را از طریق چهره و صدا تشخیص می‌دهد؛ بنابراین هر کس صفحه اصلی اختصاصی خود را دریافت کرده و با دستور «پخش موسیقی»، آهنگ‌ها از کتابخانه همان شخص پخش می‌شوند. پیام‌ها و تقویم شما تنها زمانی نمایش داده می‌شوند که دستگاه شما را شناسایی کرده و آیفون یا آی‌پد جفت‌شده‌تان در همان نزدیکی باشد و اخیراً قفل آن باز شده باشد. مهمانان همچنان به موسیقی، تایمرها و کنترل روشنایی دسترسی دارند. یک قانون ساده که اعتماد به آن آسان است! این‌که آیا این دستگاه جایی روی کانتر آشپزخانه پیدا می‌کند یا خیر، به عملکرد هوش مصنوعی سیری بستگی دارد. خیلی دوست دارم بدون نیاز به این‌که هر بار گوشیم را بردارم، کارهای کوچک خانه را انجام دهم :)"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "حدس می‌زنم باید منتظر نسخه اپل از آمازون اکو شو می‌ماندیم، اما به نظر می‌رسد این انتظار ارزشش را داشته است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "دستگاه را به جای قرار دادن روی اپن یا جزیره وسط آشپزخانه، در کنار یک دیوار پشتی قرار دهید. بازتاب صوتی باعث می‌شود هنگام آشپزی و گوش دادن به موسیقی، پاسخ صوتی بیس (Bass) به شکل چشمگیری بهبود یابد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "صبر کن، یعنی این دستگاه باید همیشه به پریز برق وصل باشد یا باتری داخلی هم دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک به تیم اپل و ممنون از زک بابت معرفی. پیوند دادن پیام‌ها و تقویم به تشخیص چهره یا صدا و حضور آیفونِ اخیراً آنلاک‌شده در نزدیکی دستگاه، یک قانون حریم خصوصی کاملاً شفاف است. اما وقتی دو عضو شناخته‌شده خانواده هم‌زمان جلوی کانتر ایستاده‌اند چه اتفاقی می‌افتد؟ آیا هوم‌ویو به حالت مهمان بازمی‌گردد یا صفحه یک نفر را انتخاب می‌کند و ریسک نشان دادن تقویم او به دیگری را می‌پذیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تشخیص اختصاصی چهره و صدا برای هر فرد جزئیاتی است که به نظرم از همه جالب‌تر است. من روی یک هوش مصنوعی صوتی کار می‌کنم که هر روز با والدین سالمند تماس می‌گیرد و سخت‌ترین بخش کار، جلب اعتماد کاربران مسن‌تر به صدایی است که نمی‌توانند آن را ببینند. آیا هوم‌ویو به یک مهمان یا عضو خانواده اجازه می‌دهد تا از راه دور صفحه اصلی شخص دیگری را بررسی کند، یا همه چیز فقط منحصر به کسی است که جلوی آن ایستاده؟ کنجکاوم بدانم چه دیدگاهی درباره خانوار‌های مشترک با حضور افراد سالمند دارید."
+        }
+      ],
+      "aiReview": "پلتفرم Apple HomeView مسئله عدم تمرکز در مدیریت خانه هوشمند و نگرانی‌های حریم خصوصی در دستگاه‌های اشتراکی را به خوبی حل کرده است. راهکار اپل با ترکیب تشخیص چهره/صدا و تایید هویت مکانی از طریق آیفون آنلاک‌شده، تعادلی عالی میان سهولت استفاده و امنیت ایجاد می‌کند. از منظر معماری، اتکا به پردازش محلی داده‌های بیومتریک و یکپارچگی با Siri AI، پایداری و حریم خصوصی را تضمین می‌کند. مدل درآمدی محصول مبتنی بر فروش مستقیم سخت‌افزار و تقویت زیست‌بوم خدمات نرم‌افزاری اپل است. نقطه قوت اصلی آن شخصی‌سازی دقیق برای شش کاربر و کیفیت بالای سخت‌افزاری است، در حالی که وابستگی شدید به زیست‌بوم اپل و ابهام در تعاملات چندکاربره هم‌زمان از نقاط ضعف آن به شمار می‌رود. **نکته طلایی برای ایران:** ساخت یک نمونه بومی با تمرکز بر دستیار صوتی فارسی آفلاین و پشتیبانی از پروتکل‌های open-source خانه هوشمند (مانند Zigbee و MQTT) بدون نیاز به اینترنت بین‌الملل، می‌تواند سهم بازار بالایی در پروژه‌های ساختمانی مدرن ایران کسب کند.",
+      "iranEquivalent": {
+        "productName": "هاب هوشمند خانگی آرا (Ara Smart Hub)",
+        "description": "سامانه «آرا» یک هاب و نمایشگر هوشمند خانگی بومی است که مدیریت تجهیزات هوشمند منزل را تسهیل می‌کند. این محصول با پشتیبانی از دستیار صوتی فارسی و تشخیص چهره، تجربه کاربری شخصی‌سازی‌شده‌ای برای هر یک از اعضای خانواده فراهم می‌سازد. همچنین امکان برقراری ارتباط تصویری داخلی و بررسی وضعیت امنیت خانه را به صورت یکپارچه ارائه می‌دهد.",
+        "marketOpportunity": "با رشد روزافزون نفوذ اینترنت اشیاء و خانه هوشمند در مجتمع‌های مسکونی ایران، بازار تشنه یک هاب مرکزی بومی با پشتیبانی کامل از زبان فارسی است. عدم حضور رسمی برندهای بین‌المللی در ایران، فرصتی طلایی برای تصاحب بازار داخلی تجهیزات مدیریت خانه هوشمند ایجاد کرده است.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "خانواده‌های علاقه‌مند به فناوری، سازندگان ساختمان‌های هوشمند، مدرن‌سازان منازل و افراد سالمند نیازمند مراقبت",
+        "challenges": [
+          "محدودیت‌های تأمین سخت‌افزار پردازشی و نمایشگرهای لمسی کیفیت بالا",
+          "چالش‌های پردازش زبان طبیعی (NLP) و تشخیص لهجه‌های مختلف زبان فارسی"
+        ],
+        "monetization": [
+          "فروش مستقیم دستگاه سخت‌افزاری و تجهیزات جانبی IoT",
+          "حق اشتراک خدمات ابری امنیت خانه و ذخیره‌سازی ویدئویی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Python (FastAPI)",
+          "TensorFlow/PyTorch",
+          "MQTT"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -35577,7 +35687,51 @@
           "user": "[REDACTED]",
           "text": "wait how much is the api pricing going to be when it leaves beta actually need to know for a project."
         }
-      ]
+      ],
+      "faDescription": "مدل GLM-Legal یک مدل هوش مصنوعی تخصصی در حوزه حقوقی از شرکت Z.ai است که بر پایه مدل GLM-۵.۳-Flash توسعه یافته و برای کارهای حقوقی عاملی مانند بررسی قراردادها، تحلیل ادله و پژوهش‌های انطباق مقرراتی آموزش دیده است. توسعه‌دهندگان Z.ai ابتدا آموزش میانی تخصصی حقوقی را روی این مدل اعمال کرده و سپس آن را از طریق یادگیری تقویتی در ده‌ها هزار محیط وظایف حقوقی ارتقا داده‌اند. طبق ارزیابی‌های مستقل، این مدل در بنچمارک عامل حقوقی Harvey موفق به قبولی در ۱۹.۱۷ درصد از سناریوها شده که رشد چشمگیری نسبت به ۶.۶۷ درصد مدل پایه دارد. در حال حاضر دسترسی به API این مدل صرفاً از طریق ثبت‌نام و دریافت تأییدیه اولیه در مرحله بتای خصوصی امکان‌پذیر است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "مدل GLM-Legal هوش مصنوعی حقوقی شرکت Z.ai است که بر پایه GLM-۵.۳-Flash ساخته شده و برای کارهای حقوقی عاملی مانند بررسی چندمرحله‌ای قراردادها، تحلیل ادله و تحقیقات انطباق طراحی شده است. دسترسی به API آن فعلاً محدود به بتای خصوصی است. مسأله اصلی این است که کارهای حقوقی بسیار طولانی، دقیق و بدون اغماض هستند و یک اشتباه کوچک کل نتیجه را خراب می‌کند. شرکت Z.ai مدل پایه خود را با آموزش میانی روی دادگان بزرگ حقوقی و یادگیری تقویتی در ده‌ها هزار محیط تمرینی بهینه‌سازی کرد. از نظر عملکرد، در بنچمارک Harvey موفق به کسب ۱۹.۱۷٪ شد که نسبت به ۶.۶۷٪ مدل پایه پیشرفت خوبی است. در بنچمارک LegalBench نیز امتیاز ۸۶.۲۳٪ را کسب کرد که اندکی عقب‌تر از Claude Fable ۵ قرار دارد. هزینه اجرای هر تست حدود ۰.۱۵ دلار برآورد شده که بسیار مقرون‌به‌صرفه است. این ابزار برای دفاتر حقوقی و تیم‌های انطباق طراحی شده و هرگز جایگزین مشاور حقوقی واقعی نیست."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "رسانه‌های اختصاصی تازه نقطه شروع هستند. با توجه به اینکه مدل‌های زبانی بزرگ به‌شدت به اجماع عمومی متکی هستند، آیا فکر می‌کنید برندهای جدید می‌توانند چنین حضور خارجی را به‌صورت ارگانیک بسازند یا اینکه این روزها روابط عمومی ساختاریافته کاملاً ضروری است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "قبل از اینکه به خروجی‌های پژوهش انطباقی آن اعتماد کنید، ابتدا آرای قضایی ایالتی خود را با آن تست کنید. داده‌های آموزشی احتمالاً بیشتر به سمت دادگاه‌های فدرال تمایل دارند و ممکن است تفاوت‌های ظریف حوزه‌های قضایی مختلف را کاملاً نادیده بگیرند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "صبر کن، قیمت API بعد از خروج از نسخه بتا چقدر خواهد بود؟ واقعاً برای یک پروژه نیاز دارم این را بدانم."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** کارهای حقوقی و ممیزی قراردادها نیاز به دقت فوق‌العاده بالایی دارند و کوچک‌ترین اشتباه در بررسی متون حقوقی می‌تواند خسارات جبران‌ناپذیری بار آورد. مدل GLM-Legal با تمرکز بر یادگیری عاملی (Agentic Workflows) و آموزش اختصاصی روی ده‌ها هزار سناریوی حقوقی، امکان انجام وظایف چندمرحله‌ای دقیق مانند ممیزی قرارداد و بررسی انطباق مقرراتی را فراهم می‌کند.\n\n**معماری و تکنولوژی:** این محصول بر پایه مدل GLM-۵.۳-Flash توسعه یافته است. فرآیند توسعه شامل دو مرحله اصلی آموزش میانی حقوقی (Legal Mid-training) روی کورپوس‌های عظیم داده‌های حقوقی و سپس یادگیری تقویتی (RL) در محیط‌های شبیه‌سازی‌شده وظایف حقوقی بوده است تا عملکرد عامل حقوقی همگام با مدل بهبود یابد.\n\n**مدل درآمدی:** این مدل در حال حاضر در فاز بتای خصوصی (Application-only API) عرضه شده است. مدل درآمدی نهایی احتمالاً مبتنی بر پرداخت به ازای مصرف توکن (Pay-as-you-go API) و اشتراک‌های سازمانی برای ابزارهای دسکتاپ مانند AutoClaw خواهد بود.\n\n**نقاط قوت:**\n- عملکرد عالی در بنچمارک‌های تخصصی حقوقی (ارتقای قبولی به ۱۹.۱۷٪ در Harvey LAB)\n- هزینه محاسباتی بسیار پایین‌تر نسبت به رقبای قدرتمندی مانند Claude و GPT-۴\n- بهینه‌سازی شده برای عامل‌های هوشمند چندمرحله‌ای\n\n**نقاط ضعف:**\n- عدم دسترسی عمومی و محدود بودن به بتای خصوصی\n- ضعف احتمالی در پوشش قوانین و آرای قضایی محلی یا ایالتی ناشی از تمرکز داده‌های آموزشی بر روی دادگاه‌های فدرال\n- عدم انتشار وزن‌های مدل به‌صورت متن‌باز\n\n**نکته طلایی برای بازار ایران:** برای پیاده‌سازی چنین محصولی در ایران، بزرگ‌ترین فرصت خلق یک زیرساخت اختصاصی RAG ترکیبی با پایگاه قوانین دائم‌التغییر کشور است. به جای انحصار به دادگاه‌ها، تمرکز بر ممیزی خودکار پیش‌نویس قراردادهای تجاری مطابق با قانون تجارت ایران و حقوق کار می‌تواند جذابیت B۲B بالایی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "دادآرا AI",
+        "description": "دادآرا یک دستیار هوشمند حقوقی بومی‌سازی‌شده بر پایه مدل‌های زبانی بزرگ است که برای تحلیل قراردادها و بررسی قوانین ایران طراحی شده است. این پلتفرم با تمرکز بر قانون مدنی، قانون تجارت و مقررات ثبتی، فرآیند ممیزی اسناد حقوقی را برای وکلا و شرکت‌ها اتوماسیون می‌کند. همچنین سامانه با متصل شدن به پایگاه‌های داده قوانین، ریسک‌های حقوقی را قبل از امضای قراردادها شناسایی می‌کند.",
+        "marketOpportunity": "بازار ایران به دلیل پیچیدگی‌های آیین‌نامه‌ای و حجم بالای قراردادهای تجاری، نیاز مبرمی به ابزارهای هوشمند کاهش خطا و افزایش سرعت ممیزی حقوقی دارد. ورود به این حوزه برای شرکت‌های بزرگ و دفاتر وکالت که با حجم عظیمی از اسناد سرکار دارند، ارزش افزوده فوق‌العاده‌ای ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "مؤسسات حقوقی، وکلا، مشاوران حقوقی شرکت‌ها، تیم‌های انطباق و مدیریت ریسک سازمان‌ها",
+        "challenges": [
+          "پیچیدگی و ابهام در زبان حقوقی فارسی و تناقضات آیین‌نامه‌ای",
+          "چالش‌های مربوط به حریم خصوصی اسناد و عدم تمایل سازمان‌ها به اشتراک‌گذاری قراردادهای محرمانه"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه یا سالانه بر اساس حجم پردازش صفحات اسناد",
+          "ارائه API اختصاصی برای بسترهایی مانند سامانه‌های مدیریت اتوماسیون اداری و CRM"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "React",
+          "Docker",
+          "Qdrant"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -39232,7 +39386,57 @@
           "user": "[REDACTED]",
           "text": "I think this would be useful considering every provider is now offering their own versions of sandboxes for giving an agent more control, If OpenMuse drafts replies, email messages, does it have a way to personalise the style of writing, tonality, voice etc ? so that it sounds more like me ?"
         }
-      ]
+      ],
+      "faDescription": "OpenMuse یک دستیار شخصی متن‌باز و قابل میزبانی خودکار است که با هر چارچوب عامل هوش مصنوعی سازگاری دارد. این پلتفرم دارای مرورگر اختصاصی، ترمینال، دسترسی به فایل‌ها و حافظه پایدار برای انجام کارهاست. شما می‌توانید نتیجه مورد نظر را درخواست دهید، فرآیند کار را مشاهده کنید، اقدامات مهم را بازبینی کرده و در نهایت به نتیجه نهایی برسید. این ابزار به کاربران امکان می‌دهد تا کنترل کاملی بر جلسات مرورگر داشته باشند و در صورت نیاز، مستقیماً در آن‌ها مداخله کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "OpenMuse یک عامل شخصی متن‌باز است که دارای مرورگر، ترمینال، فایل‌ها و کارهای پایدار خود است. از آن بخواهید نتیجه‌ای را تحویل دهد، برنامه‌ریزی آن را دنبال کنید، اقدامات مهم را بازبینی کنید و به نتیجه نهایی برسید. مرورگر پایدار آن به شما اجازه می‌دهد تا کار عامل را تماشا کنید و در صورت نیاز کنترل همان جلسه را به دست بگیرید. امکانات: مرورگر Chromium پایدار با قابلیت تسخیر، ترمینال و فضای کاری لینوکس اختیاری، برنامه‌های وظیفه پایدار با پیشرفت، تأییدات و رسیدها، توقف، از سرگیری، لغو و تکرار وظایف، کار با فایل‌ها و PDFها، یکپارچگی Gmail و تقویم با نیاز به بازبینی برای ارسال و تغییرات، اهداف، مایلستون‌ها و پیگیری دوره‌ای، اپلیکیشن‌های iOS، Android و وب، سازگاری با هر چارچوب عامل از طریق AG-UI. OpenMuse در حال حاضر یک پروژه آلفا با لایسنس MIT است که برای میزبانی خودکار و ساخت‌وساز طراحی شده است. آن را از طریق وب‌سایت OpenMuse امتحان کنید یا آن را از GitHub کلون کرده و آن را به عامل شخصی خود تبدیل کنید. P.S. من جدیدترین و بهترین راه‌اندازی‌ها در حوزه فناوری، SaaS و هوش مصنوعی را دنبال می‌کنم، برای اطلاع‌رسانی دنبال کنید → @rohanrecommends"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام، محصول جالبی است. آیا از مدل BYOK (آپلود کلید API شخصی) پشتیبانی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "کنجکاو هستم که OpenMuse چگونه تصمیم می‌گیرد چه کارهایی را در Gmail به تنهایی انجام دهد و چه کارهایی را برای تأیید شما نگه می‌دارد، به ویژه در موبایل. آیا همان قوانین تأیید در iOS و Android مانند دسکتاپ اعمال می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "OpenMuse بهترین نسخه متن‌باز از Meta Muse است. هر کسی می‌تواند آن را کلون کرده، سفارشی‌سازی کند و آن را مال خود کند. همچنین با هر چارچوب عاملی کار می‌کند که فوق‌العاده خنک است. می‌توانید پست وایرال راه‌اندازی ما را اینجا پیدا کنید: https://x.com/ataiiam/status/۲۱۰۲۴۰۰۴۳۱۵۱۹۵۹۲۵۸۱?s=۲۰"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "خیلی خنک است! برای میزبانی خودکار چه پیش‌نیازهایی لازم است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "با توجه به اینکه همه ارائه‌دهندگان اکنون نسخه‌های خود را از ساندباکس‌ها برای دادن کنترل بیشتر به عامل ارائه می‌دهند، فکر می‌کنم این محصول مفید خواهد بود. اگر OpenMuse پیش‌نویس پاسخ‌ها یا پیام‌های ایمیل را می‌نویسد، آیا راهی برای شخصی‌سازی سبک نوشتن، لحن و صدا وجود دارد تا بیشتر شبیه من به نظر برسد؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، فقدان شفافیت و کنترل کاربر بر فرآیندهای خودکار هوش مصنوعی است؛ OpenMuse با ارائه یک محیط شفاف با مرورگر قابل مشاهده و سیستم تأیید اقدامات، این خلأ را پر می‌کند. از نظر معماری، استفاده از Playwright برای کنترل مرورگر و یک لایه واسط (AG-UI) برای اتصال به مدل‌های مختلف، انعطاف‌پذیری بالایی ایجاد کرده است. مدل درآمدی احتمالی بر پایه نسخه سازمانی و خدمات میزبانی استوار است. نقاط قوت شامل متن‌باز بودن، قابلیت میزبانی خودکار و سازگاری با هر چارچوب عامل است. نقاط ضعف عبارتند از پیچیدگی راه‌اندازی برای کاربران غیرفنی و نیاز به منابع سخت‌افزاری بالا. نکته طلایی برای ایران: تمرکز بر نسخه‌ای که با مدل‌های زبانی داخلی (مانند مدل‌های فارسی‌زبان) یکپارچه شود و امکان میزبانی روی سرورهای داخلی را برای رعایت حریم خصوصی داده‌ها فراهم کند، می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "دستیار هوشمند شخصی (پروژه نمونه: موس‌ایران)",
+        "description": "یک پلتفرم متن‌باز و قابل میزبانی داخلی برای ساخت دستیاران هوشمند شخصی که با مرورگر اختصاصی و دسترسی به فایل‌ها کار می‌کنند. این سیستم امکان نظارت لحظه‌ای بر اقدامات هوش مصنوعی و تأیید دستورات حساس مانند ارسال ایمیل را فراهم می‌کند. معماری آن طوری طراحی شده که با هر مدل زبانی یا چارچوب عاملی در بازار ایران سازگار باشد.",
+        "marketOpportunity": "بازار ایران تشنه‌ی ابزارهای هوش مصنوعی است که داده‌ها را خارج از کشور ارسال نکنند و قابلیت میزبانی محلی (Self-Hosted) داشته باشند. وجود نیاز به شفافیت در اقدامات هوش مصنوعی و کنترل کاربر بر فرآیند، فرصت بزرگی برای ورود به بازار سازمان‌ها و کاربران حرفه‌ای ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فریلنسر، مدیران استارتاپ‌ها، و سازمان‌های متوسطی که به دنبال خودکارسازی فرآیندها با حفظ امنیت داده‌ها هستند.",
+        "challenges": [
+          "نیاز به زیرساخت محاسباتی قوی برای اجرای همزمان مرورگر و مدل‌های هوش مصنوعی",
+          "چالش‌های حقوقی و فنی در یکپارچگی با سرویس‌های خارجی مانند Gmail در محیط‌های محدود"
+        ],
+        "monetization": [
+          "فروش لایسنس سازمانی و پشتیبانی فنی",
+          "ارائه خدمات میزبانی ابری امن برای کاربران نهایی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Playwright",
+          "Docker"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -41967,6 +42171,50 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-20",
+      "rank": 3,
+      "name": "Harness²",
+      "slug": "harness-6c72f469-0ceb-4bd8-a470-a028991b1f97",
+      "tagline": "Harness the agent. Then harness its self-improvement.",
+      "description": "Harness² from Google Research is a plug-and-play recursive agent harnessing framework that lets LLM agents automatically evolve their execution harnesses (prompts, tools, memory) for open-world tasks—without ground-truth verifiers. Dual recursion: task-level Propose-Probe-Compose refinement + harnessing-level accumulation of reusable experience. Up to +11.5 points on professional benchmarks like WorkBuddy-Bench.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c0f3ae97-2a7a-4d6d-bcd3-da89bcff39f7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ec72f550-716e-4bd5-9e79-875ae597efe8.jpeg?auto=format",
+        "https://ph-files.imgix.net/c25937ce-5a6b-4cd4-9a34-72c7cc6e558c.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 167,
+      "websiteUrl": "https://www.producthunt.com/r/37H22K5ZBP32OU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "A harness includes everything surrounding the model—such as the system prompt, tools, memory, skills, and subagents. Traditionally, this setup is designed once and remains unchanged for every task the agent performs.Harness² introduces adaptability, enabling the agent to independently tailor its setup for each task while keeping model weights static.With this approach, the agent proposes changes to its harness, tests multiple configurations, and refines it based on performance insights from those trials.Because it learns from run-to-run variations, there's no need for a defined correct answer or an external grader to assess results.This process isn't limited to single tasks. Harness² also transfers learnings across tasks.Once a task is complete, the agent retains the optimized harness and the recurring insights from those runs. When working on a new task, it builds on this accumulated knowledge rather than starting over.This continuous refinement enhances future task performance.In trials with Gemini 3.5 Flash and GLM-5 on legal, office, and professional benchmarks, Google found that even one round of edits surpassed the performance of fixed harnesses, with further iterations driving additional improvement.This points to self-healing, self-growing harnesses... 🤯"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hmm but like how do agents know what improves the harness? i feel that human input is needed."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I saw the runners are portable, whereas the judge goes through vertex. Is bring your own task inference a planned feature ? Will the open PRs for other vendor support eventually be accepted ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Agents improving their own setup is very cool . How do you prevent them from making changes that can make things worse?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Rewriting its own harness between runs without a grader telling it what correct looks like is the part I find hard to believe, so I want to see whether the accumulated experience actually transfers between unrelated tasks."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-11",
       "rank": 5,
@@ -42450,46 +42698,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-20",
-      "rank": 3,
-      "name": "Harness²",
-      "slug": "harness-6c72f469-0ceb-4bd8-a470-a028991b1f97",
-      "tagline": "Harness the agent. Then harness its self-improvement.",
-      "description": "Harness² from Google Research is a plug-and-play recursive agent harnessing framework that lets LLM agents automatically evolve their execution harnesses (prompts, tools, memory) for open-world tasks—without ground-truth verifiers. Dual recursion: task-level Propose-Probe-Compose refinement + harnessing-level accumulation of reusable experience. Up to +11.5 points on professional benchmarks like WorkBuddy-Bench.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c0f3ae97-2a7a-4d6d-bcd3-da89bcff39f7.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ec72f550-716e-4bd5-9e79-875ae597efe8.jpeg?auto=format",
-        "https://ph-files.imgix.net/c25937ce-5a6b-4cd4-9a34-72c7cc6e558c.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 164,
-      "websiteUrl": "https://www.producthunt.com/r/37H22K5ZBP32OU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "A harness includes everything surrounding the model—such as the system prompt, tools, memory, skills, and subagents. Traditionally, this setup is designed once and remains unchanged for every task the agent performs.Harness² introduces adaptability, enabling the agent to independently tailor its setup for each task while keeping model weights static.With this approach, the agent proposes changes to its harness, tests multiple configurations, and refines it based on performance insights from those trials.Because it learns from run-to-run variations, there's no need for a defined correct answer or an external grader to assess results.This process isn't limited to single tasks. Harness² also transfers learnings across tasks.Once a task is complete, the agent retains the optimized harness and the recurring insights from those runs. When working on a new task, it builds on this accumulated knowledge rather than starting over.This continuous refinement enhances future task performance.In trials with Gemini 3.5 Flash and GLM-5 on legal, office, and professional benchmarks, Google found that even one round of edits surpassed the performance of fixed harnesses, with further iterations driving additional improvement.This points to self-healing, self-growing harnesses... 🤯"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I saw the runners are portable, whereas the judge goes through vertex. Is bring your own task inference a planned feature ? Will the open PRs for other vendor support eventually be accepted ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Agents improving their own setup is very cool . How do you prevent them from making changes that can make things worse?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Rewriting its own harness between runs without a grader telling it what correct looks like is the part I find hard to believe, so I want to see whether the accumulated experience actually transfers between unrelated tasks."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -45236,6 +45444,45 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-20",
+      "rank": 4,
+      "name": "Hoistbay",
+      "slug": "hoistbay",
+      "tagline": "Open-source desktop app for Amazon S3 and CloudFront",
+      "description": "Hoistbay is a free desktop app for macOS and Windows that takes the repetitive work out of S3 and CloudFront. Set header rules once (Cache-Control, Content-Type, Content-Encoding by file pattern) and they apply on every upload. Download whole folders, clear CloudFront cache in one click, and switch AWS accounts instantly. Keys stay in your OS keychain, no backend, no telemetry. MIT licensed.",
+      "category": "Open Source • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/8cdf0770-15cf-485c-800e-6fcdf2d09e29.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e27c2fa8-f7df-443f-9f6e-e634c820615c.png?auto=format",
+        "https://ph-files.imgix.net/96b5d5d0-b05d-4c5b-828c-f7ad96d54d99.png?auto=format",
+        "https://ph-files.imgix.net/ead0d3ed-7175-41e0-bfac-cf7aad3fb669.png?auto=format",
+        "https://ph-files.imgix.net/f645367b-3d36-48a3-a2af-61d5382e22a4.png?auto=format",
+        "https://ph-files.imgix.net/fc47ec92-408e-4352-9637-976d1398ce0f.png?auto=format"
+      ],
+      "maker": "Kartik Shah",
+      "makerTitle": "I build things & talk about them.",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 155,
+      "websiteUrl": "https://www.producthunt.com/r/4VIOA4UVPIL46K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Kartik, the maker of Hoistbay. I built it because I was tired of opening the AWS console in a browser for the same S3 chores after every deploy: - No automatic header rules. Every upload meant setting Cache-Control, Content-Type and Content-Encoding by hand. With gzip-compressed builds (static sites, Unity WebGL, fonts) one wrong header breaks the page. - No way to download a whole folder from the console. - Clearing CloudFront cache is a slow, multi-step process, and stale cache is easy to miss. What Hoistbay does: - Per-bucket header rules by file pattern (*.js, *.wasm.gz, *.html...) applied automatically on every upload - Upload and download whole folders, structure kept - One-click CloudFront invalidations with live status - Multiple AWS profiles and regions, switch instantly - One Activity panel for every upload, download and cache clear Your keys stay in the macOS Keychain or Windows Credential Manager. No backend, no telemetry, MIT licensed, so you can read every line. You can try the live demo in your browser on the website before installing anything. I'd love to hear what's missing from your S3 workflow."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'll definitely check this out, I'm facing the same challenges you describe as we speak, and in particular the invalidation step, I tend to always forget it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is there a way to preview which rules will be applied to the header before uploading? Especially when there are 2 filename patterns that overlap."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-07",
       "rank": 9,
@@ -45928,45 +46175,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-20",
-      "rank": 4,
-      "name": "Hoistbay",
-      "slug": "hoistbay",
-      "tagline": "Open-source desktop app for Amazon S3 and CloudFront",
-      "description": "Hoistbay is a free desktop app for macOS and Windows that takes the repetitive work out of S3 and CloudFront. Set header rules once (Cache-Control, Content-Type, Content-Encoding by file pattern) and they apply on every upload. Download whole folders, clear CloudFront cache in one click, and switch AWS accounts instantly. Keys stay in your OS keychain, no backend, no telemetry. MIT licensed.",
-      "category": "Open Source • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/8cdf0770-15cf-485c-800e-6fcdf2d09e29.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e27c2fa8-f7df-443f-9f6e-e634c820615c.png?auto=format",
-        "https://ph-files.imgix.net/96b5d5d0-b05d-4c5b-828c-f7ad96d54d99.png?auto=format",
-        "https://ph-files.imgix.net/ead0d3ed-7175-41e0-bfac-cf7aad3fb669.png?auto=format",
-        "https://ph-files.imgix.net/f645367b-3d36-48a3-a2af-61d5382e22a4.png?auto=format",
-        "https://ph-files.imgix.net/fc47ec92-408e-4352-9637-976d1398ce0f.png?auto=format"
-      ],
-      "maker": "Kartik Shah",
-      "makerTitle": "I build things & talk about them.",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 153,
-      "websiteUrl": "https://www.producthunt.com/r/4VIOA4UVPIL46K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Kartik, the maker of Hoistbay. I built it because I was tired of opening the AWS console in a browser for the same S3 chores after every deploy: - No automatic header rules. Every upload meant setting Cache-Control, Content-Type and Content-Encoding by hand. With gzip-compressed builds (static sites, Unity WebGL, fonts) one wrong header breaks the page. - No way to download a whole folder from the console. - Clearing CloudFront cache is a slow, multi-step process, and stale cache is easy to miss. What Hoistbay does: - Per-bucket header rules by file pattern (*.js, *.wasm.gz, *.html...) applied automatically on every upload - Upload and download whole folders, structure kept - One-click CloudFront invalidations with live status - Multiple AWS profiles and regions, switch instantly - One Activity panel for every upload, download and cache clear Your keys stay in the macOS Keychain or Windows Credential Manager. No backend, no telemetry, MIT licensed, so you can read every line. You can try the live demo in your browser on the website before installing anything. I'd love to hear what's missing from your S3 workflow."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I'll definitely check this out, I'm facing the same challenges you describe as we speak, and in particular the invalidation step, I tend to always forget it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is there a way to preview which rules will be applied to the header before uploading? Especially when there are 2 filename patterns that overlap."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -50175,6 +50383,35 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-20",
+      "rank": 5,
+      "name": "Exa 3.0",
+      "slug": "exa-3-0",
+      "tagline": "Smarter search that gives AI agent richer data at lower cost",
+      "description": "Exa 3.0 is the biggest search quality update to Exa’s search API for AI agents. It adds a larger embedding model, billions of new documents including 1.27B ecommerce listings and 211M+ local businesses, and Dynamic Highlights, which use 95% fewer tokens than full page text. A new Exa Lite tier costs $4 per 1,000 requests, and Exa Auto costs $7. Available now through the API.",
+      "category": "API • Artificial Intelligence • Search",
+      "categoryFa": "API • هوش مصنوعی • Search",
+      "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/91b04293-fdeb-4889-9fa6-e0ca308142ee.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/60202d19-1e25-4fa0-9473-ee22e2c55067.png?auto=format",
+        "https://ph-files.imgix.net/18fafc1a-6ce5-4db4-a93a-cc84ec1374b1.png?auto=format",
+        "https://ph-files.imgix.net/16440f49-b50a-481c-b3ad-b45168a82266.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 139,
+      "websiteUrl": "https://www.producthunt.com/r/2ZMKUDNEBLQZIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Exa 3.0 is a major upgrade to Exa’s search API, built for AI assistants and search-intensive applications. It solves the challenge of getting high-quality, current web data without excessive cost or token usage.What stands out:Top-ranked retrieval across coding, finance, deep research, company intelligence, and public benchmarks.Dynamic Highlights reduces token usage by 95% versus full-page text while improving answer quality—at no extra charge.Expanded independent index with 2T+ URLs tracked and 100B pages served, adding ecommerce listings, local businesses, news, sports, weather, flights, events, transit, and podcasts.Exa Lite, a cost-sensitive search option at $4 per 1,000 requests, alongside Exa Auto at $7 per 1,000 requests.It’s especially useful for teams building personal AI assistants, research tools, coding agents, and go-to-market or company-intelligence products.If you’re building an AI product that needs reliable web search, this is worth exploring. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-10-19",
       "rank": 6,
@@ -50527,35 +50764,6 @@
         "confidence": 80
       },
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-10-20",
-      "rank": 5,
-      "name": "Exa 3.0",
-      "slug": "exa-3-0",
-      "tagline": "Smarter search that gives AI agent richer data at lower cost",
-      "description": "Exa 3.0 is the biggest search quality update to Exa’s search API for AI agents. It adds a larger embedding model, billions of new documents including 1.27B ecommerce listings and 211M+ local businesses, and Dynamic Highlights, which use 95% fewer tokens than full page text. A new Exa Lite tier costs $4 per 1,000 requests, and Exa Auto costs $7. Available now through the API.",
-      "category": "API • Artificial Intelligence • Search",
-      "categoryFa": "API • هوش مصنوعی • Search",
-      "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/91b04293-fdeb-4889-9fa6-e0ca308142ee.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/60202d19-1e25-4fa0-9473-ee22e2c55067.png?auto=format",
-        "https://ph-files.imgix.net/18fafc1a-6ce5-4db4-a93a-cc84ec1374b1.png?auto=format",
-        "https://ph-files.imgix.net/16440f49-b50a-481c-b3ad-b45168a82266.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 137,
-      "websiteUrl": "https://www.producthunt.com/r/2ZMKUDNEBLQZIZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Exa 3.0 is a major upgrade to Exa’s search API, built for AI assistants and search-intensive applications. It solves the challenge of getting high-quality, current web data without excessive cost or token usage.What stands out:Top-ranked retrieval across coding, finance, deep research, company intelligence, and public benchmarks.Dynamic Highlights reduces token usage by 95% versus full-page text while improving answer quality—at no extra charge.Expanded independent index with 2T+ URLs tracked and 100B pages served, adding ecommerce listings, local businesses, news, sports, weather, flights, events, transit, and podcasts.Exa Lite, a cost-sensitive search option at $4 per 1,000 requests, alongside Exa Auto at $7 per 1,000 requests.It’s especially useful for teams building personal AI assistants, research tools, coding agents, and go-to-market or company-intelligence products.If you’re building an AI product that needs reliable web search, this is worth exploring. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -53924,7 +54132,62 @@
           "user": "[REDACTED]",
           "text": "Do you have something similar for mothers? :D"
         }
-      ]
+      ],
+      "faDescription": "دادی ایشوز با استفاده از هوش مصنوعی به پدرها کمک می‌کند تا پیش از بروز استرس‌های ناگهانی، برنامه‌ریزی کنند. هر هفته یک گزارش خانوادگی ارائه می‌دهد که کودکان، تقویم، مسئولیت‌ها و وظایف را به هم مرتبط می‌کند. این گزارش نکات مهمی که ممکن است از دست بروند را نشان می‌دهد و به پدرها امکان می‌دهد کارهای ضروری را زودتر انجام دهند. هدف کاهش واکنش‌های لحظه‌ای، یادآوری‌های مکرر و درگیری‌های کوچک است تا فضای بیشتری برای آرامش و پیش‌بینی داشته باشند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پدرها 👋 من دادی ایشوز را ساختم چون در خانواده‌مان متوجه شدم همسرم همیشه می‌داند چه چیزهایی در پیش است، بچه‌ها چه نیاز دارند و چه باید الآن فکر کنیم تا بعداً استرس‌زا نشود. من هم می‌خواستم این کار را انجام دهم. من یک پدر درگیر هستم اما پیش‌بینی آینده برایم سخت بود. موارد واضح را به یاد می‌آوردم اما ارتباطات کوچک را از دست می‌دادم و وقتی مسأله روی میز می‌آمد واکنش نشان می‌دادم که این باعث اصطکاک می‌شد. نمی‌خواستم بگویم «فقط بگو چه کاری باید انجام دهم». می‌خواستم پیش از آن بدانم و بار ذهنی بیشتری را بر عهده بگیرم. بنابراین دادی ایشوز را ساختم. این سرویس یک گزارش هفتگی خانوادگی می‌دهد که بچه‌ها، تقویم، مسئولیت‌ها و وظایف قبلی را به هم وصل می‌کند تا آنچه ممکن است بعداً متوجه شوید را نشان دهد. هدف فقط سازماندهی کامل نیست، بلکه کمی زودتر پیش‌بینی کردن، مالکیت بیشتر و جلوگیری از برخی مشاجرات غیرضروری است. در حال حاضر کاملاً رایگان است و مشتاقم ببینم برای دیگر پدرها هم مفید است یا نه. خوشحال می‌شوم نظرات شما را دربارهٔ نقاط قوت، ضعف یا تغییرات پیشنهادی بشنوم. ❤️"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "یک پروژهٔ واقعاً جذاب! برای تمام پدرها ضروری است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ایدهٔ عالی و به‌خصوص اسم محصول «دادی ایشوز» را دوست دارم. خود اسمش شیرین به نظر می‌رسد. محصول را امتحان کردم و در نگاه اول برایم مفید به نظر می‌رسید. منتظر ویژگی‌های جدید در آینده هستم. ادامه بدهید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای راه‌اندازی، هانس. آیا شریک زندگی می‌تواند همان گزارش هفتگی را ببیند تا هر دو والدین از یک فهرست برنامه‌ریزی کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "توضیح شما دقیقاً با مشکلی که دارم مطابقت دارد. مشتاقم امتحان کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این را دوست دارم. قصد دارم امتحان کنم. من از Instinct استفاده می‌کردم که کارها و وظایف «پدر» را پیشنهاد می‌داد اما دقیقاً به این نیاز نمی‌رسید. آیا اعلان‌ها و ایده‌پردازی برای تعطیلات و تولدها، مثل شکرگزاری و کریسمس، در برنامه موجود است؟ ممنون."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "محصولی ضروری برای پدرهای نوپا. آیا ایده‌ای برای ساخت محصول مشابهی برای شوهران تازه‌عقده دارید؟ 😅"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "آیا چیزی مشابه برای مادرها دارید؟ :D"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "مشکلات پدرانه",
+        "description": "دادی ایشوز یک پلتفرم هوش مصنوعی است که به پدران کمک می‌کند برنامه‌های خانوادگی را پیش‌بینی کنند. با ترکیب تقویم، وظایف و نیازهای کودکان، هر هفته یک گزارش جامع ارائه می‌دهد. این گزارش به کاهش استرس، جلوگیری از درگیری‌های کوچک و افزایش مشارکت پدرانه منجر می‌شود.",
+        "marketOpportunity": "در ایران، بسیاری از پدران به دنبال ابزارهای دیجیتال برای مدیریت زمان و مسئولیت‌های خانوادگی هستند، اما گزینه‌ای تخصصی برای این نیاز وجود ندارد. بنابراین بازار بالقوه‌ای برای یک سرویس پیش‌بینی‌محور و هوشمند وجود دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "پدران شاغل بین ۲۵ تا ۴۵ سال، با فرزندان زیر ۱۸ سال در شهرهای بزرگ ایران",
+        "challenges": [
+          "پذیرش فرهنگی ابزارهای دیجیتال در مدیریت خانوادگی",
+          "یکپارچه‌سازی با تقویم‌ها و اپلیکیشن‌های موجود در ایران"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با ویژگی‌های پیشرفته",
+          "فروش داده‌های تجمیعی ناشناس به شرکت‌های تحقیقاتی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -59902,7 +60165,50 @@
           "user": "[REDACTED]",
           "text": "Love that Polylane flags the risky pull requests before they hit production, so I can see the blast radius of a change right in the review."
         }
-      ]
+      ],
+      "faDescription": "پیش از آنکه مشکلات باعث از دست رفتن پایداری محیط پروداکشن شوند، آن‌ها را شناسایی و متوقف کنید. پلی‌لاین (Polylane) هر پول ریکوئست را بر اساس زیرساخت زنده شما از جمله پیکربندی‌ها، ظرفیت، وابستگی‌ها و داده‌های تلمتری بررسی می‌کند. برای هر پول ریکوئست، تحلیلی جامع به همراه تمامی مدارک و شواهدی دریافت می‌کنید که به شما می‌گوید آیا ادغام آن کد در محیط پروداکشن ایمن است یا خیر. علاوه بر این، پلی‌لاین ابزاردقیق‌سازی‌های (Instrumentation) مفقود را روی شاخه کد شما پیشنهاد می‌دهد و پس از استقرار نیز به نظارت مستمر ادامه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، من متانیا از تیم پلی‌لاین هستم. دو محصول اول ما روی بررسی و رفع مشکلات در محیط پروداکشن متمرکز بود. با Polylane Impact Analysis، ما این کانتکست پروداکشن را پیش از ادغام تغییرات، وارد فرایند بررسی پول ریکوئست می‌کنیم. یک پول ریکوئست می‌تواند تمام تست‌های خود را پاس کند اما باز هم سیستمی که روی آن قرار می‌گیرد را خراب کند؛ به عنوان مثال ایندکس پایگاه داده‌ای که یک جدول پررفت‌وآمد را قفل می‌کند، یا تغییری که فرض می‌کند ظرفیت یا پیکربندی خاصی وجود دارد که در پروداکشن نیست. پلی‌لاین هر پول ریکوئست را با زیرساخت زنده، وابستگی‌ها و تلمتری شما بررسی می‌کند. این ابزار یک کامنت در گیت‌هاب و یک چک بررسی اثرات پروداکشن همراه با شواهد پشت حکم خود و مسیری ایمن‌تر به جا می‌گذارد. شما می‌توانید این چک را الزامی کنید تا ادغام‌های پرریسک مسدود شوند یا آن را صرفاً به‌صورت پیشنهادی رها کنید. همچنین ابزاردقیق‌سازی‌های مفقود را روی شاخه کد پول ریکوئست مطابق با تنظیمات فعلی شما پیشنهاد می‌دهد. تیم شما کنترل را در دست دارد: تغییرات کد از مسیر بررسی معمولی شما می‌گذرد و اقدامات نوشتن در پروداکشن نیازمند تایید شماست، مگر اینکه از قبل مجاز شده باشند. پلی‌لاین پس از استقرار نیز به نظارت ادامه می‌دهد. می‌توانید با پلن رایگان شروع کنید. خوشحال می‌شویم بدانیم: چه مشکل پروداکشنی از زیر دست کد ریوویو و CI شما در رفته است و چه شواهدی می‌توانست به شما کمک کند قبل از ادغام جلویش را بگیرید؟ من و تیمم اینجا هستیم تا به سوالات پاسخ دهیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "شناسایی پول ریکوئست‌های پرریسک قبل از ادغام واقعاً کاربردی است، عالی بود 👏 چطور مونوپوهای (monorepo) بزرگ را مدیریت می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "راه‌اندازی چقدر زمان می‌برد؟ تبریک می‌گویم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "عاشق این هستم که پلی‌لاین پول ریکوئست‌های پرریسک را قبل از رسیدن به پروداکشن مشخص می‌کند، به‌طوری که می‌توانم شعاع آسیب (blast radius) یک تغییر را درست در خود فرایند بررسی مشاهده کنم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبسیاری از کدها تست‌های واحد (Unit Tests) و خط لوله‌های CI را با موفقیت پشت سر می‌گذارند، اما به دلیل عدم هماهنگی با وضعیت زنده پروداکشن (مانند فشار روی دیتابیس، کمبود رم یا پیکربندی‌های خاص) باعث خرابی سیستم می‌شوند. پلی‌لاین با وارد کردن کانتکست زنده زیرساخت به فرایند بررسی کد (Pull Request)، شعاع آسیب را قبل از مرج شدن شناسایی کرده و مانع داون‌تایم می‌شود.\n\nمعماری و تکنولوژی:\nاین ابزار از طریق API به سرویس‌های گیت (GitHub/GitLab) و ابزارهای مانیتورینگ/تلمتری (مانند Datadog یا Prometheus) متصل می‌شود. با تحلیل AST کد و مقایسه آن با معیارهای عملیاتی زنده، بازخوردها را به‌صورت Checks یا کامنت به توسعه‌دهنده ارائه می‌دهد.\n\nمدل درآمدی:\nمدل درآمدی این محصول SaaS پایه با پلن فری‌میوم برای پروژه‌های کوچک و برنامه‌نویسان فردی است و درآمد اصلی آن از پلن‌های تجاری بر اساس تعداد برنامه‌نویسان و حجم زیرساخت تحت نظارت تامین می‌شود.\n\nنقاط قوت:\n- جلوگیری پیش‌گیرانه از بروز قطعی در پروداکشن قبل از استقرار کد\n- ارائه شواهد و دلایل منطقی برای رد یا تایید یک PR\n- پیشنهاد خودکار لاگ‌ها و متریال‌های مفقود (Instrumentation) برای نظارت بهتر\n\nنقاط ضعف:\n- نیاز به دسترسی‌های عمیق و حساس به مخازن کد و زیرساخت پروداکشن\n- چالش تحلیل کدهای پیچیده در مونوپوهای بسیار بزرگ\n\nنکته طلایی برای بازار ایران:\nشرکت‌ها و بانک‌های ایرانی به دلیل مسائل امنیتی حاضر به استفاده از ابزارهای ابری خارجی برای بررسی کد و زیرساخت خود نیستند. ارائه یک نسخه قابل نصب در محل (On-Premise) که به‌راحتی با GitLab سازمانی و Prometheus داخلی یکپارچه شود، ارزش خلق‌شده فوق‌العاده‌ای برای بازار ایران خواهد داشت.",
+      "iranEquivalent": {
+        "productName": "کدگاردیان (CodeGuardian)",
+        "description": "سامانه هوشمند تحلیل پیش‌گیرانه تغییرات نرم‌افزار بر اساس وضعیت زنده زیرساخت و داده‌های عملیاتی. این محصول قبل از ادغام نهایی کد، تاثیرات آن روی دیتابیس و منابع سرور را سنجیده و از بروز داون‌تایم جلوگیری می‌کند. ابزار به‌صورت خودکار به گیت‌لب یا گیت‌هاب متصل شده و خطرات احتمالی را گزارش می‌دهد.",
+        "marketOpportunity": "با گسترش سامانه‌های بزرگ فین‌تک و فروشگاهی در ایران، قطعی‌های ناشی از تغییرات ناگهانی کد خسارات مالی سنگینی بار می‌آورد. نبود ابزار بومی که بتواند کدهای جدید را با وضعیت واقعی دیتابیس‌ها و سرورهای داخلی تطبیق دهد، یک فرصت بازار عالی ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های دوآپس (DevOps)، مهندسان ارشد نرم‌افزار، مدیران فنی استارتاپ‌های بزرگ و سازمان‌های دارای زیرساخت‌های پیچیده",
+        "challenges": [
+          "پیچیدگی اتصال به سامانه‌های مانیتورینگ و دیتابیس‌های سنتی یا خصوصی در ایران",
+          "مقاومت تیم‌های توسعه نرم‌افزار در برابر اضافه شدن مراحل کنترلی جدید به فرایند CI/CD"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه بر اساس تعداد توسعه‌دهندگان فعال یا مخازن کد",
+          "ارائه نسخه نصب در محل (On-Premises) برای بانک‌ها، سازمان‌های دولتی و شرکت‌های بزرگ فین‌تک"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "OpenTelemetry",
+          "Docker"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -63044,9 +63350,9 @@
       ]
     },
     {
-      "id": "ph-today-7",
+      "id": "ph-today-8",
       "date": "2026-10-20",
-      "rank": 7,
+      "rank": 8,
       "name": "Asimov 1",
       "slug": "asimov-1",
       "tagline": "The most customizable humanoid robot you can buy",
@@ -63094,9 +63400,9 @@
       ]
     },
     {
-      "id": "ph-today-8",
+      "id": "ph-today-7",
       "date": "2026-10-20",
-      "rank": 8,
+      "rank": 7,
       "name": "RunInfra",
       "slug": "runinfra-2",
       "tagline": "Open models, built for agents.",
@@ -64131,7 +64437,57 @@
           "user": "[REDACTED]",
           "text": "The production-fix story explains the need for this really well. An approval request needs enough context for someone to make a decision, so I'm glad you called that out as something you're still working on."
         }
-      ]
+      ],
+      "faDescription": "withHuman یک لایه تأیید انسانی برای عامل‌های هوش مصنوعی است که فراخوانی ابزارها را قبل از اجرا متوقف می‌کند. قوانین از پیش تعریف‌شده، فراخوانی‌های معمولی را به صورت خودکار تأیید یا رد می‌کنند و موارد پرخطر را به فرد مناسب در تیم شما ارجاع می‌دهند. این ابزار از طریق یک پروتکل باز (AAP) با Claude Code، Codex و عامل‌های ساخته‌شده با LangGraph و Pydantic AI سازگار است. با یک مجموعه واحد از قوانین، می‌توانید بر تمام عامل‌های شرکت خود نظارت داشته باشید؛ این پروژه متن‌باز است و نسخه میزبانی‌شده‌ای نیز دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! من کریس، هم‌بنیان‌گذار withHuman به همراه Ece هستم 👋 قبل از withHuman، ما عاملی هوش مصنوعی ساختیم که مشکلات تولید را بررسی و راه‌حل‌ها را پیدا می‌کرد. بخش دشوار، اجازه دادن به مشتری برای اعمال این اصلاحات روی سیستم‌های تولیدی بود. منطقی است که کسی نخواهد دسترسی ادمین را به یک عامل بدهد و فقط امیدوار باشد همه چیز درست پیش برود. ما یک مرحله تأیید اضافه کردیم، اما مشکلات مشابهی در گفتگوها تکرار می‌شد. هر تیمی قوانین متفاوتی درباره اینکه چه کسی می‌تواند چه چیزی را تأیید کند، داشت. آن‌ها کنترل دقیق‌تری بر اقدامات عامل می‌خواستند. و آن‌ها از عامل‌های دیگری نیز استفاده می‌کردند که هرکدام تنظیمات تأیید مستقلی داشتند. withHuman همان چیزی است که آرزو داشتیم در آن زمان وجود داشته باشد. این ابزار بین عامل‌ها و ابزارهای آن‌ها قرار می‌گیرد و هر فراخوانی ابزار را قبل از اجرا متوقف می‌کند. قوانین شما موارد معمولی را به صورت خودکار تأیید یا رد می‌کنند و موارد پرخطر را به فرد مناسب، در هر جایی که راحت است، ارسال می‌کنند. عامل‌های شما نیازی به تغییر ندارند و نمی‌توانند از این مرحله عبور کنند. آنچه امروز در دسترس است: پروتکل تأیید عامل (AAP)، یک مشخصات باز با هوک‌های از پیش ساخته‌شده برای Claude Code و Codex، و SDKهای پایتون و TypeScript. خود withHuman، متن‌باز است و نسخه میزبانی‌شده‌ای با طرح رایگان دارد. سریع‌ترین راه برای امتحان آن، Quickstart است که یک عامل کدنویسی که از قبل استفاده می‌کنید را در چند دقیقه متصل می‌کند. هنوز چیزهای زیادی را در حال حل کردن هستیم، مانند ارائه زمینه کافی به بازبین‌ها برای تصمیم‌گیری و کنترل فراخوانی‌هایی که از طریق MCP عبور نمی‌کنند. ما بیشتر درباره این موضوع اینجا نوشتیم: https://withhuman.ai/blog/introd... بازخورد شما را، به ویژه در این مورد، دوست داریم: کدام از اقدامات عامل‌های شما را می‌خواهید ابتدا توسط یک انسان تأیید شود؟ Ece و Chris"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سال‌هاست منتظر این محصول بوده‌ام! ممنون که آن را ساختید!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "خوشحالم که پروتکل یک مشخصات باز است و فقط یک محصول نیست. همچنین صداقت شما درباره چیزهایی که هنوز حل نکرده‌اید، مانند زمینه برای بازبین‌ها، قابل تقدیر است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "جالب است! QQ - اگر withHuman در دسترس نباشد (چه در ابر و چه در خودمیزبانی) چه اتفاقی می‌افتد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این حس می‌کند که یک لایه گمشده برای عامل‌های تولیدی است. بازبین چقدر زمینه را قبل از تأیید یک فراخوانی ابزار می‌بیند؟ اگر کم باشد پرخطر است، اما اگر زیاد باشد سریع شلوغ می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "داستان اصلاحات تولیدی نیاز به این ابزار را بسیار خوب توضیح می‌دهد. یک درخواست تأیید نیاز به زمینه کافی برای تصمیم‌گیری دارد، بنابراین خوشحالم که اشاره کردید این چیزی است که هنوز روی آن کار می‌کنید."
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که عامل‌های هوش مصنوعی اغلب دسترسی‌های بالایی دارند و بدون نظارت انسانی، ممکن است اقدامات پرریسکی انجام دهند که برای کسب‌وکار مخرب باشد. راه‌حل withHuman یک لایه میانی (Middleware) است که تمام فراخوانی‌های ابزار را قبل از اجرا متوقف می‌کند و بر اساس قوانین تعریف‌شده، آن‌ها را فیلتر یا برای تأیید انسانی ارسال می‌کند. از نظر معماری، این محصول بر پایه یک پروتکل باز (AAP) ساخته شده که امکان اتصال به فریم‌ورک‌های مختلف مانند LangGraph و Pydantic AI را فراهم می‌کند و از SDKهای پایتون و تایپ‌اسکریپت پشتیبانی می‌نماید. مدل درآمدی ترکیبی از متن‌باز بودن هسته اصلی برای جذب توسعه‌دهندگان و ارائه نسخه میزبانی‌شده (Hosted) با طرح‌های پولی برای شرکت‌ها است. نقاط قوت شامل استانداردسازی فرآیند تأیید، کاهش ریسک امنیتی و انعطاف‌پذیری در تنظیمات دسترسی است. نقاط ضعف احتمالی شامل تأخیر در فرآیند اجرای دستورات به دلیل نیاز به تأیید انسانی و پیچیدگی در مدیریت زمینه (Context) برای تصمیم‌گیری سریع مدیران است. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به برخی سرویس‌های ابری خارجی، ارائه نسخه Self-hosted قوی و قابل اعتماد، می‌تواند مزیت رقابتی بزرگی برای جذب سازمان‌های دولتی و بانکی باشد که داده‌هایشان باید در داخل کشور باقی بماند.",
+      "iranEquivalent": {
+        "productName": "تأییدبان",
+        "description": "تأییدبان یک لایه نظارتی هوشمند برای عامل‌های هوش مصنوعی است که قبل از اجرای هر دستور، آن را بررسی می‌کند. این سیستم با استفاده از قوانین هوشمند، اقدامات عادی را خودکار تأیید می‌کند و موارد حساس را برای بررسی به مدیران مربوطه ارسال می‌نماید. این پلتفرم با اکثر فریم‌ورک‌های رایج هوش مصنوعی سازگار است و امکان مدیریت متمرکز بر تمام عامل‌های سازمان را فراهم می‌آورد.",
+        "marketOpportunity": "با گسترش استفاده از هوش مصنوعی در شرکت‌های ایرانی، نیاز به کنترل و امنیت در اجرای دستورات توسط ربات‌ها به شدت افزایش یافته است. این محصول می‌تواند شکاف امنیتی موجود بین قدرت هوش مصنوعی و نیاز به نظارت انسانی را پر کند و به اعتماد سازمان‌ها در پیاده‌سازی عامل‌های خودکار کمک کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های فناوری، بانک‌ها و سازمان‌های بزرگ که از عامل‌های هوش مصنوعی برای اتوماسیون فرآیندها استفاده می‌کنند و به امنیت داده‌ها و کنترل دسترسی اهمیت می‌دهند.",
+        "challenges": [
+          "نیاز به یک پروتکل استاندارد و باز برای اتصال به مختلف‌ترین فریم‌ورک‌های هوش مصنوعی",
+          "ارائه رابط کاربری ساده و سریع برای مدیران جهت تصمیم‌گیری در لحظه"
+        ],
+        "monetization": [
+          "مدل SaaS با طرح‌های اشتراکی ماهانه بر اساس تعداد عامل‌ها یا فراخوانی‌ها",
+          "فروش نسخه لایسنس‌دار و پشتیبانی اختصاصی برای سازمان‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "WebSocket"
+        ],
+        "confidence": 82
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -66260,7 +66616,58 @@
           "user": "[REDACTED]",
           "text": "Looks great. Congrats @gal_d1 on the launch"
         }
-      ]
+      ],
+      "faDescription": "Chatway یک پلتفرم چت زنده و پشتیبانی مشتری است که امکان استفاده از عامل هوش مصنوعی خود را می‌دهد. با اتصال ChatGPT، Claude، Gemini، Cursor یا هر دستیار سازگار با MCP، می‌توانید مکالمات مشتری را مدیریت کنید، پیام‌ها را پاسخ دهید، مخاطبین را جستجو کنید و به پایگاه دانش دسترسی پیدا کنید. بدون نیاز به کدنویسی، Chatway امکاناتی چون صندوق مشترک، مرکز کمک، خودکارسازی، اپلیکیشن‌های iOS و Android و ادغام با واتساپ، اینستاگرام، فیس‌بوک می‌باشد. شروع رایگان برای همه کاربران امکان‌پذیر است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! 👋 من یکی از بنیانگذاران Chatway هستم و خوشحالیم که با یک به‌روزرسانی بزرگ بازگشتیم! ما در حال ساخت Chatway برای ساده‌تر کردن پشتیبانی مشتری هستیم. امروز، قدمی بیشتر برداشته‌ایم. حالا می‌توانید عامل هوش مصنوعی خود را به Chatway با استفاده از MCP بیاورید. به جای محدود شدن به ربات داخلی، می‌توانید ابزارهایی مانند ChatGPT، Claude، Gemini، Cursor و سایر دستیاران سازگار با MCP را مستقیماً به فضای کاری پشتیبانی مشتری خود متصل کنید. دستیار هوش مصنوعی شما می‌تواند: مکالمات مشتری را بخواند، جستجو کند و خلاصه کند، پاسخ‌ها را بنویسد و ارسال کند، مخاطبین و پایگاه دانش را جستجو کند، مکالمات، انتساب‌ها و موارد دیگر را مدیریت کند. همه اینها از طریق یک ارتباط امن، بدون نوشتن کد. و اگر عامل هوش مصنوعی خود را ندارید، Chatway هنوز همه چیز لازم را دارد: چت زنده، عامل پشتیبانی هوش مصنوعی داخلی، صندوق مشترک، خودکارسازی و کانال‌های پشتیبانی متعدد. MCP در طرح رایگان ما در دسترس است، بنابراین می‌توانید بدون پرداخت امتحان کنید. مشتاقم بدانم چه جریان‌های کاری هوش مصنوعی را با Chatway می‌سازید و چه ادغام‌هایی را می‌خواهید در آینده پشتیبانی کنیم! ممنون که ما را بررسی کردید! 🙌"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک برای راه‌اندازی، گال! برای ChatGPT، آیا مردم از حالت توسعه‌دهنده برای هم‌اکنون متصل می‌شوند، یا می‌خواهید از دایرکتوری برنامه‌ها استفاده کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "سوالات فاکتورگیری اولین چیزی است که ما می‌خواهیم امتحان کنیم، پاسخ‌های آن‌ها معمولاً در مرکز کمک موجود است. وقتی از یک مقاله نوشتن می‌کند، آیا می‌گوید کدام یک است؟ این کار زمان مرورگر را صرفه‌جویی می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "متشکرم، قبلاً امتحان کردم و مثل جادو کار می‌کند ✨"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "متشکرم به همه برای بازخورد 😸 دوست داریم بدانیم آیا امتحان کرده‌اید و کدام عامل را متصل کرده‌اید 🙏 متصل‌کننده‌های رسمی به ChatGPT و Claude به زودی می‌آیند!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "عالی است! ویژگی MCP واقعاً مفید و آسان برای راه‌اندازی است. حتماً توصیه می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی است. تبریک @gal_d۱ برای راه‌اندازی"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "Chatway MCP",
+        "description": "Chatway MCP یک پلتفرم چت زنده و پشتیبانی مشتری است که امکان اتصال عامل هوش مصنوعی شخصی را فراهم می‌کند. با ادغام ChatGPT، Claude، Gemini و سایر دستیاران، کسب‌وکارها می‌توانند مکالمات مشتری را به صورت خودکار مدیریت کنند. این سرویس بدون نیاز به کدنویسی و با امکاناتی چون صندوق مشترک، مرکز کمک و ادغام با شبکه‌های اجتماعی ارائه می‌شود.",
+        "marketOpportunity": "در بازار ایران، نیاز به پشتیبانی مشتری هوشمند و خودکار در کسب‌وکارهای کوچک و متوسط در حال رشد است. Chatway MCP با ارائه راه‌حل ساده و مقرون به صرفه، می‌تواند جایگاه قابل توجهی در این بازار پیدا کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کسب‌وکارهای کوچک و متوسط، شرکت‌های بزرگ و تیم‌های پشتیبانی مشتری",
+        "challenges": [
+          "یکپارچه‌سازی با سیستم‌های موجود و حفظ امنیت داده‌ها",
+          "آموزش کاربران برای استفاده از ابزارهای جدید"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای دسترسی به امکانات پیشرفته",
+          "فروش افزونه‌ها و ادغام‌های سفارشی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -66555,6 +66962,52 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-10-20",
+      "rank": 10,
+      "name": "Inflight",
+      "slug": "inflight-2",
+      "tagline": "The missing feedback layer for prototypes",
+      "description": "Share a preview link or HTML prototype. Reviewers pin comments to real elements, or record video, right on the running app. Inflight turns that feedback into next steps your coding agent (Cursor, Claude Code, Codex) pulls in over MCP.",
+      "category": "Design Tools • User Experience • Prototyping",
+      "categoryFa": "ابزار طراحی • User Experience • Prototyping",
+      "url": "https://www.producthunt.com/products/inflight-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f8146fce-4c74-4629-96c5-4841d075c8f9.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7e413da2-8954-45d6-849f-7939cd8e10bf.jpeg?auto=format",
+        "https://ph-files.imgix.net/81e7b2c5-9f07-4838-a133-cf9293036990.png?auto=format",
+        "https://ph-files.imgix.net/c104d23a-6d18-4182-8cf7-c6f4cb96e69e.jpeg?auto=format",
+        "https://ph-files.imgix.net/00e90fc3-2948-4989-8481-9a3d126f94ff.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 102,
+      "websiteUrl": "https://www.producthunt.com/r/CTRZYLJ3CO42UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "New from @riddering — here's a great interview on how this came to be: https://youtube.com/watch?v=0FQC0mu5Z00"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As someone building a prototyping tool (Magic Patterns), Inflight indeed is the missing feedback layer.The software world has moved prototype-first. Prototypes used to be a nice-to-have. But now teams require prototypes. Big congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Massive fan of inflight! The team is the best design talent i have seen."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH, Tommy here, co-founder with Kyle, Ridd and Veer.The design leads I’ve interviewed keep describing the same mess: prototype feedback scattered across channels, then someone retypes it into a prompt so the agent can fix it. We wanted feedback to live on the prototype itself and reach the agent from there.How it works:Share a preview link or HTML prototypeReviewers pin comments to real elements, or record video, on the running appYour coding agent (Cursor, Claude Code, Codex) pulls those in over MCP as next stepsOne ask: if you connect the MCP, reply here with the first next step your agent pulled in and whether it got it right."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It makes sense to pin feedback to the actual element. What do you do if two reviewers request opposite changes before that feedback gets to the coding agent?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -67319,52 +67772,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-10-20",
-      "rank": 10,
-      "name": "Inflight",
-      "slug": "inflight-2",
-      "tagline": "The missing feedback layer for prototypes",
-      "description": "Share a preview link or HTML prototype. Reviewers pin comments to real elements, or record video, right on the running app. Inflight turns that feedback into next steps your coding agent (Cursor, Claude Code, Codex) pulls in over MCP.",
-      "category": "Design Tools • User Experience • Prototyping",
-      "categoryFa": "ابزار طراحی • User Experience • Prototyping",
-      "url": "https://www.producthunt.com/products/inflight-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f8146fce-4c74-4629-96c5-4841d075c8f9.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7e413da2-8954-45d6-849f-7939cd8e10bf.jpeg?auto=format",
-        "https://ph-files.imgix.net/81e7b2c5-9f07-4838-a133-cf9293036990.png?auto=format",
-        "https://ph-files.imgix.net/c104d23a-6d18-4182-8cf7-c6f4cb96e69e.jpeg?auto=format",
-        "https://ph-files.imgix.net/00e90fc3-2948-4989-8481-9a3d126f94ff.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 100,
-      "websiteUrl": "https://www.producthunt.com/r/CTRZYLJ3CO42UQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "New from @riddering — here's a great interview on how this came to be: https://youtube.com/watch?v=0FQC0mu5Z00"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "As someone building a prototyping tool (Magic Patterns), Inflight indeed is the missing feedback layer.The software world has moved prototype-first. Prototypes used to be a nice-to-have. But now teams require prototypes. Big congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Massive fan of inflight! The team is the best design talent i have seen."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH, Tommy here, co-founder with Kyle, Ridd and Veer.The design leads I’ve interviewed keep describing the same mess: prototype feedback scattered across channels, then someone retypes it into a prompt so the agent can fix it. We wanted feedback to live on the prototype itself and reach the agent from there.How it works:Share a preview link or HTML prototypeReviewers pin comments to real elements, or record video, on the running appYour coding agent (Cursor, Claude Code, Codex) pulls those in over MCP as next stepsOne ask: if you connect the MCP, reply here with the first next step your agent pulled in and whether it got it right."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It makes sense to pin feedback to the actual element. What do you do if two reviewers request opposite changes before that feedback gets to the coding agent?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -71526,10 +71933,10 @@
   "audit": {
     "products": 717,
     "withRealComments": 717,
-    "withPersianComments": 655,
-    "withPersianDescription": 655,
-    "withAiReview": 637,
-    "withIranEquivalent": 655,
-    "totalRealComments": 4414
+    "withPersianComments": 663,
+    "withPersianDescription": 663,
+    "withAiReview": 643,
+    "withIranEquivalent": 663,
+    "totalRealComments": 4415
   }
 }
