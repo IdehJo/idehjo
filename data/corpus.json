@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:32:55.118Z",
+  "generatedAt": "2026-10-22T00:54:43.500Z",
   "sourceFiles": 73,
   "products": [
     {
@@ -7368,7 +7368,7 @@
       "maker": "nunomaduro",
       "makerTitle": "Laravel Core Team Member",
       "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 482,
+      "votes": 483,
       "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -10647,7 +10647,66 @@
           "user": "[REDACTED]",
           "text": "Congrats @aiden_lee7 and team. Eight launches and still shipping from user feedback is the part I respect most. The social ingestion from YouTube and Reels links is a smart addition; no upload step is exactly the kind of friction people quit on."
         }
-      ]
+      ],
+      "faDescription": "جاکای (Jockey) اولین هوش مصنوعی است که کل کتابخانه رسانه‌ای شما را شامل عکس‌ها و ویدیوها می‌فهمد. این ابزار هزاران ساعت از فیلم‌برداری‌ها را تحلیل می‌کند تا بتوانید افراد، لحظات و زمینه‌های مختلف را در میان ویدیوها پیدا کرده و به هم متصل کنید. می‌توانید از آن در محیط‌های چت مانند Claude یا ChatGPT استفاده کنید یا با استفاده از API و SDK، اپلیکیشن‌های خود را بسازید. همچنین امکان وارد کردن لینک‌های یوتیوب، تیک‌تاک و اینستاگرام ریلز، تبدیل محتوا به فایل‌های MP۴ و ایجاد و اشتراک‌گذاری خروجی‌های ویدیویی با کلیپ‌های قابل پخش وجود دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ما امروز نسخه عمومی (GA) جاکای را راه‌اندازی کردیم و این نسخه بر اساس آنچه در پیش‌نمایش تحقیقاتی آموختیم شکل گرفته است. ما سه نکته را با وضوح شنیدیم: اولاً، کاربران به اتصال‌دهنده‌هایی نیاز داشتند که بهتر کار کنند؛ قوی‌ترین واکنش‌ها از طریق Claude و ChatGPT دریافت شد، بنابراین ما پشتیبانی از ChatGPT را برای نسخه عمومی اولویت‌بندی کردیم و تجربه MCP را بی‌درد کردیم. اگر می‌خواهید از کتابخانه خود پرس‌وجو کنید، رابط چت باید آخرین نقطه اصطکاک باشد، نه اولین. ثانیاً، سازندگان به خروجی‌هایی نیاز داشتند که کنترل کاملی بر آن‌ها داشته باشند. توسعه‌دهندگان گفتند که یک «ویرایش نهایی» جعبه سیاه چیزی نیست که می‌خواهند؛ آن‌ها به کلیپ‌های ساختاریافته، JSON و خروجی‌هایی نیاز داشتند که بتوانند دستکاری کنند. بنابراین ما خروجی‌های پایدار ساختیم که می‌توانند ذخیره، اشتراک‌گذاری، لغو یا حذف شوند و اطمینان حاصل کردیم که API خروجی‌های دارای زمان‌بندی و قابل اجرا را به شما می‌دهد که مالک آن هستید، نه رندری که در آن گیر کرده‌اید. ثالثاً، کاربران به هوش اجتماعی عمیق نیاز داشتند، نه فقط جستجوی پایه ویدیو. تولیدکنندگان محتوا و بازاریاب‌ها مدام از ما می‌پرسیدند: «چرا این ویدیو ترند است؟ چه هوک‌های (قلاب‌های) خاصی توجه را حفظ می‌کنند؟ چه الگوهای مشترکی باعث وایرال شدن این ریلزها می‌شوند؟» ما گوش دادیم و ویژگی‌های هوش اجتماعی ساختیم که هوک‌های ویدیویی را تحلیل می‌کنند، ریتم بصری و صوتی را شکسته‌سازی می‌کنند و توضیح می‌دهند که چه چیزی واقعاً در محتوای ترند جواب می‌دهد. ما همچنین وارد کردن اجتماعی لینک‌های URL از یوتیوب، تیک‌تاک و اینستاگرام ریلز را اضافه کردیم تا کاربران بتوانند بدون نیاز به آپلود ویدیوها، تحلیل کنند چه چیزی در دنیای واقعی کار می‌کند و عملکرد را در کنار محتوا جستجو کنند. این یک روش کاملاً جدید برای شکسته‌سازی عملکرد ویدیوهای وایرال است. درک سطح کتابخانه نقطه کلیدی است. شما جاکای را به سمت هزاران ویدیو و عکس هدایت می‌کنید و آن روی همه آن‌ها استدلال می‌کند، نه فقط روی یکی. به همین دلیل ما آن را اینگونه ساختیم و به همین دلیل هر ارتقای مدل آن را بهتر می‌کند بدون اینکه شما حتی انگشتی تکان دهید. اگر در حال ساخت یک اپلیکیشن ویدیویی هستید، در حال سازماندهی فیلم‌برداری‌ها هستید، یا سعی می‌کنید چیزی را در میان هزاران ساعت محتوا پیدا کنید، جاکای برای شماست. جاکای را امتحان کنید و بازخورد خود را به ما بگویید تا آن را اصلاح کنیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک بابت راه‌اندازی محصول عالی. می‌خواهم بدانم محدودیت‌های پنهان شما و سیاست نگهداری داده‌ها چیست."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "وای، ویدیوهای قابل جستجو؟ من موارد استفاده زیادی برای این ابزار دارم. تبریک بابت راه‌اندازی."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "مدیریت هزاران ساعت ویدیو در رابط‌های چت تحسین‌برانگیز است، اما آیا راه‌اندازی MCP هرگز با گلوگاه‌های پنجره زمینه (Context Window) مواجه می‌شود وقتی یک پرس‌وجو کلیپ‌های نامرتبط زیادی را در یک کتابخانه عظیم در بر می‌گیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ویدیو تنها حوزه‌ای است که احساس می‌کنم هوش مصنوعی هنوز به پتانسیل خود نرسیده است و این ابزار به نظر می‌رسد در این جهت حرکت می‌کند. تبریک بابت راه‌اندازی تیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک به ایدن و تیم TwelveLabs بابت رساندن جاکای به نسخه عمومی. جفت کردن کتابخانه شخصی شما با یک پیکره اجتماعی از ریلزها و تیک‌تاک‌های ترند، بخشی است که می‌خواهم امتحان کنم، زیرا اکثر ابزارهای جستجوی ویدیو فقط آنچه را که شما آپلود کرده‌اید می‌بینند. وقتی جاکای توضیح می‌دهد که چرا یک هوک (قلاب) کار می‌کند، آیا این توضیح بر اساس داده‌های عملکردی از پیکره است یا بر اساس استدلال Pegasus درباره خود کلیپ، و آیا کاربر می‌تواند تشخیص دهد پاسخ از کدام‌یک آمده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک بابت راه‌اندازی شما! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک به @aiden_lee۷ و تیم. هشت راه‌اندازی و هنوز هم از بازخورد کاربران استفاده می‌کنید تا محصول بسازید؛ این بخشی است که بیشترین احترام را برایش دارم. وارد کردن اجتماعی از لینک‌های یوتیوب و ریلز یک افزودنی هوشمندانه است؛ عدم وجود مرحله آپلود دقیقاً همان نوع اصطکاکی است که مردم از آن دست می‌کشند."
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که کاربران و سازمان‌ها با حجم عظیمی از داده‌های ویدیویی دست‌وپنجه نرم می‌کنند که جستجو در آن‌ها با روش‌های سنتی بسیار کند و ناکارآمد است. راه‌حل ارائه‌شده، استفاده از هوش مصنوعی مولد و مدل‌های چندوجهی (Multimodal) برای درک عمیق محتوای ویدیو و عکس است تا جستجو بر اساس مفهوم و زمینه انجام شود. از نظر معماری، این محصول از یک لایه پردازش ویدیو برای استخراج ویژگی‌ها، یک پایگاه داده برداری (Vector DB) برای ذخیره‌سازی و جستجوی سریع، و یک لایه API/SDK برای یکپارچه‌سازی با چت‌بات‌های محبوب مانند ChatGPT استفاده می‌کند. مدل درآمدی ترکیبی از اشتراک‌های B۲B و فروش دسترسی به API برای توسعه‌دهندگان است. نقاط قوت شامل درک سطح کتابخانه (Library-level understanding)، قابلیت اتصال به چت‌بات‌های معروف و تحلیل هوشمند الگوهای وایرال شدن محتواست. نقاط ضعف می‌تواند شامل هزینه بالای محاسباتی برای پردازش ویدیوهای طولانی و وابستگی به زیرساخت‌های ابری خارجی باشد. نکته طلایی برای ایران: تمرکز بر بازار داخلی و ارائه قابلیت‌های تحلیل محتوا برای پلتفرم‌های بومی مانند آپارات و اینستاگرام (با دور زدن محدودیت‌های دسترسی مستقیم) می‌تواند مزیت رقابتی قوی ایجاد کند، به ویژه برای آژانس‌های تبلیغاتی که نیاز به تحلیل سریع عملکرد کمپین‌های ویدیویی دارند.",
+      "iranEquivalent": {
+        "productName": "جستجوگر هوشمند ویدیو (VideoSeek AI)",
+        "description": "یک پلتفرم هوش مصنوعی که کل آرشیو ویدیویی و تصویری کاربران را تحلیل و سازماندهی می‌کند. این ابزار امکان جستجوی عمیق بر اساس محتوا، افراد و لحظات خاص را در میان هزاران ساعت فیلم‌برداری فراهم می‌کند. همچنین قابلیت تحلیل الگوهای ترند و وایرال شدن محتوا در شبکه‌های اجتماعی را دارد.",
+        "marketOpportunity": "بازار تولیدکنندگان محتوا، آژانس‌های تبلیغاتی و شرکت‌های رسانه‌ای در ایران به شدت به ابزارهایی نیاز دارند که بتوانند حجم عظیم داده‌های ویدیویی را مدیریت کنند. با رشد تولید محتوای ویدیویی در اینستاگرام و آپارات، نیاز به ابزارهای هوشمند برای کشف الگوهای موفق و جستجوی سریع در آرشیوها بسیار بالاست.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوای ویدیویی، آژانس‌های دیجیتال مارکتینگ، شرکت‌های تولید فیلم و سریال، و بایگانی‌های سازمانی.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری و هزینه بالای پردازش ویدیوهای حجیم در سرورهای داخلی ایران.",
+          "چالش‌های حقوقی و فنی در دسترسی به APIهای شبکه‌های اجتماعی خارجی مانند اینستاگرام و تیک‌تاک برای تحلیل لینک‌ها."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای کاربران سازمانی و تولیدکنندگان حرفه‌ای.",
+          "فروش API و SDK برای توسعه‌دهندگان اپلیکیشن‌های ویدیویی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python (FastAPI)",
+          "FFmpeg",
+          "Vector Database (Milvus)"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-week-4",
@@ -27719,6 +27778,69 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-21",
+      "rank": 1,
+      "name": "UseIt Studio",
+      "slug": "useit-studio",
+      "tagline": "Your AI design agent for real, editable project files.",
+      "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
+      "category": "Design Tools • Art • Artificial Intelligence",
+      "categoryFa": "ابزار طراحی • Art • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format",
+        "https://ph-files.imgix.net/5e977eaf-13a7-4f94-b873-00241e51e92a.png?auto=format",
+        "https://ph-files.imgix.net/04f63dd6-9ac0-44b3-9fa9-56ab3670c577.png?auto=format",
+        "https://ph-files.imgix.net/3dfeb813-e1d0-4a18-a137-b9f081499a9b.png?auto=format",
+        "https://ph-files.imgix.net/41fa0643-1c47-4d93-b197-b6ea76d040dc.png?auto=format",
+        "https://ph-files.imgix.net/5f266d51-0e6a-4217-86ce-105e25f53109.png?auto=format",
+        "https://ph-files.imgix.net/b6bfd50c-c13e-4261-b1b3-66f0edbdcc3f.png?auto=format",
+        "https://ph-files.imgix.net/d90a75b2-eefc-43be-a12b-3a90d764afa6.png?auto=format",
+        "https://ph-files.imgix.net/113f8138-c9b2-40df-a944-5c8515b9adf5.png?auto=format"
+      ],
+      "maker": "Lindia Chen",
+      "makerTitle": "I was drunk, but haunted by sobriety.",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 265,
+      "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋I'm Lindia, Co-founder of UseIt.Five years ago, when I first stepped into the world of AI, I had a dream: what if AI could turn our wildest ideas into things we could actually hold in our hands?A gift for someone special, a character you dreamed up, or something that simply didn't exist anywhere else.Back then, it felt like a distant dream. But I've held onto that idea ever since.And today, I'm incredibly excited to finally bring that dream to life with UseIt. 🥹Meet UseIt, your AI-powered design studio for the physical world.With UseIt, all you need is an idea. Simply describe what you have in mind, and AI helps you figure out the rest, from shaping the design to preparing files that can actually be manufactured. You can keep experimenting, making changes, and exploring possibilities without getting lost in complicated design tools.Huge thanks to @zaczuo for hunting us! 🙏🎁 Use code PHP-01-0002 to claim 15000 credits for everyone who joins today.Let's make imagination tangible. ✨"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great product and congratulations on the launch!I've signed up and whipped up a looping animation for a static logo.Very happy with the quality as of now.This might go into my usual toolset!One minor nitpick, it'd be great if the paid plans were mentioned on the homepage.To my knowledge, they are not.Anyway, aside from that one nitpick, I really liked useit.im!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @lindiac and team, congrats on launch. Lovely product :) Would def love to see, how it grows further. Congrats on launch and best wishes ahead 😄"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Lindia and Daniel on the launch! Curious how you handle the step from a nice looking model to something a factory will actually accept. Do the files come out with tolerances and material picked already, or is that still on the user?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi team, Congrats on Launch, will this available on chatgpt Plugin extension? it will be nice to directly use there"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I can see potential applications for independent creators."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The dimensions and dielines in the editable file caught my eye. Those details matter when the next step is actually making the box, and being able to change one part on the canvas makes sense."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I would wish to have an agent that can replicate a Canva design in Figma. Is it something that your agent can handle too?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-09-07",
       "rank": 3,
@@ -27831,69 +27953,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-21",
-      "rank": 1,
-      "name": "UseIt Studio",
-      "slug": "useit-studio",
-      "tagline": "Your AI design agent for real, editable project files.",
-      "description": "UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.",
-      "category": "Design Tools • Art • Artificial Intelligence",
-      "categoryFa": "ابزار طراحی • Art • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/61871a26-bd6a-43e0-9c7c-3a40b91eb51e.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format",
-        "https://ph-files.imgix.net/5e977eaf-13a7-4f94-b873-00241e51e92a.png?auto=format",
-        "https://ph-files.imgix.net/04f63dd6-9ac0-44b3-9fa9-56ab3670c577.png?auto=format",
-        "https://ph-files.imgix.net/3dfeb813-e1d0-4a18-a137-b9f081499a9b.png?auto=format",
-        "https://ph-files.imgix.net/41fa0643-1c47-4d93-b197-b6ea76d040dc.png?auto=format",
-        "https://ph-files.imgix.net/5f266d51-0e6a-4217-86ce-105e25f53109.png?auto=format",
-        "https://ph-files.imgix.net/b6bfd50c-c13e-4261-b1b3-66f0edbdcc3f.png?auto=format",
-        "https://ph-files.imgix.net/d90a75b2-eefc-43be-a12b-3a90d764afa6.png?auto=format",
-        "https://ph-files.imgix.net/113f8138-c9b2-40df-a944-5c8515b9adf5.png?auto=format"
-      ],
-      "maker": "Lindia Chen",
-      "makerTitle": "I was drunk, but haunted by sobriety.",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 264,
-      "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! 👋I'm Lindia, Co-founder of UseIt.Five years ago, when I first stepped into the world of AI, I had a dream: what if AI could turn our wildest ideas into things we could actually hold in our hands?A gift for someone special, a character you dreamed up, or something that simply didn't exist anywhere else.Back then, it felt like a distant dream. But I've held onto that idea ever since.And today, I'm incredibly excited to finally bring that dream to life with UseIt. 🥹Meet UseIt, your AI-powered design studio for the physical world.With UseIt, all you need is an idea. Simply describe what you have in mind, and AI helps you figure out the rest, from shaping the design to preparing files that can actually be manufactured. You can keep experimenting, making changes, and exploring possibilities without getting lost in complicated design tools.Huge thanks to @zaczuo for hunting us! 🙏🎁 Use code PHP-01-0002 to claim 15000 credits for everyone who joins today.Let's make imagination tangible. ✨"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great product and congratulations on the launch!I've signed up and whipped up a looping animation for a static logo.Very happy with the quality as of now.This might go into my usual toolset!One minor nitpick, it'd be great if the paid plans were mentioned on the homepage.To my knowledge, they are not.Anyway, aside from that one nitpick, I really liked useit.im!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey @lindiac and team, congrats on launch. Lovely product :) Would def love to see, how it grows further. Congrats on launch and best wishes ahead 😄"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Lindia and Daniel on the launch! Curious how you handle the step from a nice looking model to something a factory will actually accept. Do the files come out with tolerances and material picked already, or is that still on the user?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi team, Congrats on Launch, will this available on chatgpt Plugin extension? it will be nice to directly use there"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I can see potential applications for independent creators."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The dimensions and dielines in the editable file caught my eye. Those details matter when the next step is actually making the box, and being able to change one part on the canvas makes sense."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I would wish to have an agent that can replicate a Canva design in Figma. Is it something that your agent can handle too?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -29112,7 +29171,62 @@
           "user": "[REDACTED]",
           "text": "Congrats to the Tesla team, and thanks Zac for the hunt. Putting suction fans on every trim while reserving full thrusters for the invite-only Rocket makes the lineup unusually tiered. Since the Rocket is not approved for public roads, is the Performance reserve trim meant as the street-legal path in the US, or is even that package aimed at closed-course use first?"
         }
-      ]
+      ],
+      "faDescription": "Roadster می‌تواند در سطوحی عملکرد داشته باشد که هیچ خودروی تولیدی دیگری نمی‌تواند. این خودرو فراتر از Plaid رفته و بُعد جدیدی از رانندگی را باز می‌کند. با به چالش کشیدن مرزهای طراحی، مهندسی و فیزیک، یک وسیله‌ی فوق‌العاده‌الفضایی به‌دقت ساخته شده را ارائه می‌دهد. این خودرو به‌عنوان یک هیپراکارت پروازکننده توصیف می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! تسلا قبلاً یک رودستر را در یک موشک قرار داد. حالا یک موشک داخل رودستر است. در نمایش، این خودرو روی دیوار رفت و با فن‌های مکش خود را وارونه نگه داشت، سپس از رمپ خارج شد، در هوا با موتورهای گاز سرد چرخید و روی چرخ‌های خود فرود آمد. بعداً از یک تسلا سیمی عبور کرد. فن‌های مکش در تمام نسخه‌ها موجود است، از جمله نسخه Performance که می‌توانید هم‌اکنون رزرو کنید. رانش با موتورهای عقب ۰‑۶۰ را زیر یک ثانیه می‌کند. فقط نسخه دعوت‌نامه‌ای Rocket تمام مجموعه را دارد و همان است که پرواز می‌کند. این خودرو برای جاده‌های عمومی تأیید نشده. ماسک آن را آخرین تسلا می‌نامد که باید با دست رانده شود و «لزماً خودرویی ایمن نیست»!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام، سرعت سوزاندن یک جفت تایرها هنگام پرتاب این خودرو از یک لایت چقدر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "راستش یک دموی فوق‌العاده بود که ذهنم را به‌خاطر آورد. اما من طراحی قبلی رودستر تسلا را ترجیح می‌دهم. این مدل جدید شبیه یک لامبورگینی کوچک است اما نه به شکل خوب."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این خودرو امروز داغ‌ترین موضوع تیم ماست! =D خنک!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "وای، هزینه چقدر است؟ قیمت چقدر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من عاشق جسارت طراحی هستم. این خودرو واقعاً از خودروهای اسپرت معمولی متمایز است."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "به‌نظر می‌رسد تقریباً غیرواقعی باشد! اما اینجا هست - وجود دارد و می‌توانید آن را تجربه کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک به تیم تسلا و تشکر از زک برای این جستجو. نصب فن‌های مکش در تمام نسخه‌ها و اختصاص تمام موتورهای پیش‌ران به نسخه دعوت‌نامه‌ای Rocket، سطوح متفاوتی ایجاد کرده است. از آنجا که Rocket برای جاده‌های عمومی تأیید نشده، آیا نسخه رزرو Performance مسیر قانونی برای استفاده در ایالات متحده است یا حتی آن بسته ابتدا برای استفاده در مسیر بسته هدف‌گذاری شده است؟"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "تسلا رودستر",
+        "description": "تسلا رودستر یک هیپراکارت الکتریکی با قابلیت‌های پروازی است که برای بازار ایران طراحی می‌شود. این خودرو با فن‌های مکش و موتورهای گاز سرد، عملکرد فوق‌العاده‌ای در سرعت و مانور ارائه می‌دهد. هدف ارائه یک تجربه رانندگی آینده‌نگر و جذاب برای علاقه‌مندان به خودروهای لوکس است.",
+        "marketOpportunity": "با رشد علاقه‌مندان به خودروهای الکتریکی و تقاضا برای فناوری‌های پیشرفته در ایران، بازار پتانسیل بالایی برای یک هیپراکارت نوآورانه دارد. همچنین، محدودیت‌های واردات خودروهای لوکس می‌تواند تقاضا برای محصول داخلی را افزایش دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "خریداران ثروتمند، علاقه‌مندان به فناوری‌های پیشرفته، و شرکت‌های خدماتی که به دنبال خودروهای پرسرعت و الکتریکی برای نمایش برند هستند.",
+        "challenges": [
+          "تأمین زیرساخت‌های شارژ سریع در شهرهای بزرگ",
+          "مقررات قانونی برای خودروهای پروازی و استفاده در جاده‌های عمومی"
+        ],
+        "monetization": [
+          "فروش مستقیم خودرو با قیمت پریمیوم",
+          "ارائه خدمات اشتراک‌گذاری و تجربه رانندگی در مسیرهای بسته"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -29374,7 +29488,65 @@
           "user": "[REDACTED]",
           "text": "Why should I put another service between my AI agents and their providers? Isn't that another thing that could break?"
         }
-      ]
+      ],
+      "faDescription": "ناویج از هوش کفایت (Sufficiency Intelligence) برای کاهش هزینه‌های عامل‌های هوش مصنوعی استفاده می‌کند، در حالی که کارها در حال اجرا هستند. این پلتفرم درخواست‌های مناسب را به مدل‌های کوچک‌تر ارسال می‌کند، خوانش‌های تکراری را در حافظه پنهان نگه می‌دارد و نتایج حجیم ابزارها را بهینه می‌سازد. در صورت عدم اطمینان، از مدل انتخابی شما استفاده می‌کند تا کیفیت حفظ شود. شما می‌توانید بودجه‌ها را تنظیم کنید، حلقه‌های بی‌پایان را شناسایی کرده و اقدامات حساس را تأیید کنید. هزینه‌ها و صرفه‌جویی‌ها به تفکیک شغل قابل مشاهده هستند و تخمین‌ها به وضوح برچسب‌گذاری شده‌اند. ماچ‌تاور (Watchtower) برای همیشه رایگان است و تغییرات را پیش از فعال‌سازی کنترل‌ها پیش‌نمایش می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 چرا ناویج را ساختیم؟ بیشتر کارهایی که یک عامل هوش مصنوعی انجام می‌دهد دشوار نیستند - مرتب‌سازی ایمیل، استخراج تاریخ از یک سند، انتخاب گام بعدی. اما اغلب، همه این‌ها روی گران‌ترین مدل اجرا می‌شوند، زیرا همان مدلی است که در کد نوشته شده و کسی برنگشته تا آن را تغییر دهد. سپس فاکتور به صورت یک عدد واحد می‌رسد و کسی نمی‌تواند بگوید کدام عامل چقدر هزینه کرده است. ناویج در برابر فراخوانی‌هایی که از طریق آن مسیریابی می‌شوند قرار می‌گیرد و پیش از اجرا عمل می‌کند، در حالی که هنوز امکان تغییر هزینه وجود دارد. ما به این می‌گوییم هوش کفایت: به هر وظیفه دقیقاً همان هوشی را بده که نیاز دارد. چگونه کار می‌کند؟ هر درخواست را ارزیابی می‌کند و موارد مناسب را به مدل کوچک‌تری ارسال می‌کند. مدل شما سقف است: ناویج فقط فراخوانی‌ها را به پایین می‌برد، هرگز به بالا، و هر زمان که مطمئن نباشد، از مدل شما استفاده می‌کند. اگر مدل کوچک‌تر در فراخوانی ابزار شکست بخورد، فراخوانی روی مدل اصلی شما دوباره اجرا می‌شود و عامل شما فقط آن پاسخ را می‌بیند. هر شغل را ثبت می‌کند: چقدر هزینه کرد، کنترل‌ها چه چیزی را تغییر دادند و چه چیزی تفاوت ایجاد کرد. صرفه‌جویی‌های اندازه‌گیری شده و تخمین‌ها به وضوح جدا شده‌اند. علاوه بر این، بودجه‌بندی به تفکیک تیم و شغل، توقف برای تأیید اقدامات پرخطر، کلید خاموش‌سازی و ردیابی ممیزی دریافت می‌کنید. دو چیزی که عمداً انجام دادیم: ماچ‌تاور نقطه شروع است. ناویج تماشا می‌کند و نشان می‌دهد چه کاری انجام می‌داد، اما تا زمانی که شما نگوئید چیزی را تغییر نمی‌دهد. حساب Anthropic یا AWS Bedrock خود را متصل کنید و فاکتور واقعی خود را کنار اعداد ناویج بگذارید، بنابراین می‌توانید اعداد را بررسی کنید به جای اعتماد به ادعای صرفه‌جویی. قیمت‌گذاری: ماچ‌تاور برای همیشه رایگان است. در طرح‌های پولی، از صرفه‌جویی‌های اندازه‌گیری شده‌ای که ناویج می‌تواند نشان دهد، شما چهار قسمت را نگه می‌دارید و ما یک قسمت را نگه می‌داریم، مشروط به حداقل ۹ دلار در ماه. یک هفته امتحان کنید: عامل‌های خود را یک هفته تماشا کنید. تا زمانی که تصمیم نگیرید، چیزی تغییر نمی‌کند. شک دارید کدام شغل عامل‌های شما روی مدلی بسیار بزرگ‌تر از نیاز اجرا می‌شود؟ 👇"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "هزینه‌های عامل‌های بی‌رویه واقعاً دردسرساز هستند، زاویه هوشمندانه‌ای است 💸 آیا با هر ارائه‌دهنده مدلی کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا می‌توانم ماچ‌تاور را به مدت یک ماه اجرا کنم و سپس تصمیم بگیرم که آیا ارتقا دهم یا نه؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چرا باید از ناویج استفاده کنم به جای اینکه خودم همه عامل‌هایم را به مدل‌های ارزان‌تر تغییر دهم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا باید دسترسی API بدهیم؟ یا آیا این با نسخه‌های رابط کاربری LLMها نیز کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "وب‌سایت شما را بررسی کردم و واقعاً مدل قیمت‌گذاری را دوست داشتم. یک کلاس استادانه است. چگونه به این مدل رسیدید؟ از طریق گفتگوها با مشتریان؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک به Soji، Akhil و تیم ناویج به مناسبت راه‌اندازی. قاعده‌ای که یک فراخوانی ابزار شکست‌خورده روی مدل اصلی دوباره اجرا می‌شود، یک شبکه ایمنی معقول است. از آنجا که طرح پولی سهمی از صرفه‌جویی‌های اندازه‌گیری شده است، آیا هزینه آن تلاش ناموفق مدل کوچک از رقم صرفه‌جویی برای آن شغل کسر می‌شود و آیا ماچ‌تاور نشان می‌دهد هر عامل چقدر به آن حالت جایگزین برخورد می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "چرا باید یک سرویس دیگر را بین عامل‌های هوش مصنوعی خود و ارائه‌دهندگان آن‌ها قرار دهم؟ آیا این چیز دیگری نیست که ممکن است خراب شود؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، هزینه‌های غیرقابل پیش‌بینی و پنهان در استفاده از عامل‌های هوش مصنوعی است. راه‌حل ناویج، اعمال یک لایه هوشمند بین کد کاربر و APIهای مدل‌هاست که با تحلیل پیچیدگی هر درخواست، آن را به مناسب‌ترین مدل (ترجیحاً کوچک‌تر) هدایت می‌کند. از نظر معماری، این سیستم به صورت یک پروکسی هوشمند عمل می‌کند که قابلیت فیلتر کردن، کش کردن و مسیریابی مجدد درخواست‌ها را دارد. مدل درآمدی مبتنی بر «سهم از صرفه‌جویی» بسیار هوشمندانه است زیرا ریسک را به دوش خود می‌گیرد و ارزش را مستقیماً به سود مشتری گره می‌زند. نقاط قوت شامل شفافیت کامل در گزارش‌دهی، وجود حالت مشاهده (Watchtower) برای کاهش ریسک ورودی، و مکانیزم ایمنی برای بازگشت به مدل اصلی در صورت شکست است. نقاط ضعف می‌تواند شامل پیچیدگی فنی در استقرار و نگرانی‌های امنیتی در مورد عبور داده‌ها از یک سرویس میانی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های ارزی و دسترسی به APIهای خارجی، توسعه نسخه‌ای از این محصول که با مدل‌های زبانی داخلی (مانند مدل‌های مبتنی بر Llama یا Qwen که به صورت محلی یا از طریق سرویس‌های داخلی اجرا می‌شوند) کار کند، می‌تواند مزیت رقابتی بزرگی ایجاد کند. همچنین، ارائه گزارش‌دهی به زبان فارسی و پشتیبانی از روش‌های پرداخت داخلی، کلید موفقیت در بازار ایران خواهد بود.",
+      "iranEquivalent": {
+        "productName": "هوش‌مدیر",
+        "description": "هوش‌مدیر پلتفرمی است که با استفاده از هوش کفایت، هزینه‌های مصرفی مدل‌های زبانی بزرگ را بهینه می‌کند. این سیستم به صورت خودکار درخواست‌های ساده را به مدل‌های سبک‌تر و ارزان‌تر هدایت می‌کند و از هدررفت منابع جلوگیری می‌نماید. همچنین قابلیت پایش لحظه‌ای هزینه‌ها و کنترل بودجه‌بندی برای تیم‌های مختلف را فراهم می‌آورد.",
+        "marketOpportunity": "با رشد سریع استفاده از هوش مصنوعی در استارتاپ‌ها و شرکت‌های ایرانی، نگرانی از افزایش هزینه‌های سرور و API بسیار بالاست. وجود یک لایه میانی برای بهینه‌سازی هزینه‌ها می‌تواند بازار بزرگی از شرکت‌های متوسط و بزرگ را هدف قرار دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های فنی، شرکت‌های توسعه‌دهنده نرم‌افزار و سازمان‌هایی که از APIهای هوش مصنوعی خارجی یا داخلی استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای خارجی و نیاز به پشتیبانی از مدل‌های داخلی",
+          "اعتمادسازی کاربران نسبت به قرار دادن یک لایه میانی بین سیستم‌های آن‌ها و ارائه‌دهندگان مدل"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه بر اساس حجم ترافیک",
+          "سهم‌گیری از میزان صرفه‌جویی ایجاد شده (مشابه مدل اصلی)"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -31578,6 +31750,56 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-21",
+      "rank": 2,
+      "name": "BAND for Developers",
+      "slug": "band-for-developers",
+      "tagline": "Coding agents, meet teamwork",
+      "description": "Running multiple coding agents shouldn’t mean becoming their project manager. BAND lets them work together. Connect agents across your existing development tools and give them a shared workspace to coordinate tasks, exchange context, and hand off work without you playing middleman. See what every agent is doing, step in when decisions need your judgment, and scale agentic development across teams. Your agents stay in their existing tools while BAND handles the teamwork.",
+      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
+      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d2484b7e-3a24-4ad0-a225-c5f873420f15.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3e26af9c-c3f2-4346-9b4b-425d511bcde5.png?auto=format",
+        "https://ph-files.imgix.net/d4a53d23-9b2c-4901-af76-1794ce4c5a34.png?auto=format",
+        "https://ph-files.imgix.net/467ce23e-2f2b-4ad0-a79d-7ba99688e59a.png?auto=format",
+        "https://ph-files.imgix.net/332a3775-162f-4212-85de-26f6e93f5792.png?auto=format",
+        "https://ph-files.imgix.net/6652d0ce-ed81-419c-ac3c-f87298acaa2d.png?auto=format",
+        "https://ph-files.imgix.net/8521f765-c442-4190-b5f0-5b2fca11b475.png?auto=format",
+        "https://ph-files.imgix.net/e1107322-df2c-4b8f-af31-627b8a0632e8.png?auto=format",
+        "https://ph-files.imgix.net/c8f42ee1-18fa-4128-b2c8-42f3d102ba13.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 231,
+      "websiteUrl": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! how is context managed between different agents? is there a risk that one agent may not have the full context and incorrectly invalidate the output from another? Is reasoning also shared between agents?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "so many coding agents?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "really neat workflow fit. how does it handlee syncing across multiple devices smoothly?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Keeping the decisions and work state in the room makes sense when agents have separate sessions. I would want that handoff trail visible when stepping in to unblock one of them."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt,I'm Arick, co-founder and CEO of BAND. Today we're launching BAND for Developers.If you run more than one coding agent, you know the pattern. Each agent is fast on its own, but they can't talk to each other, so you become the go-between. You copy context from one session into the next, tell the test agent what the refactor agent just changed, and find out an hour later that two agents made opposite assumptions about the same interface. More agents should mean more work done. Instead, a lot of it turns into more coordination for you.Most multi-agent dev tools today give you a better dispatch board. You assign tasks, agents run in parallel, you review what comes back. That helps with throughput, but every handoff still goes through a human.BAND for Developers lets the agents work it out between themselves:- Connect the agents you already run. Claude Code, Codex, GitHub Copilot and OpenCode agents join shared rooms across machines. You keep your IDE, your terminal and your workflow.- Agents collaborate directly. They message each other, delegate, review each other's work and unblock one another. They can pull in a teammate's agent when the work needs it. Plans, decisions and work state live in the room rather than inside one session, so they survive when a session ends.- You step in when it matters. You keep working from the terminal. BAND desktop shows what's moving, what's blocked and which agent is waiting on you. Open the room, answer the question or redirect the agent, then step back out while the rest of the work keeps going.The difference is that the agents aren't only running side by side. They coordinate while the work is happening, so many of the handoffs you'd normally do yourself happen without you. And you don't have to move your whole team onto one vendor's agents to get there.BAND desktop is free. Download it at band.ai/use-cases/band-desktop. We'd like to hear where it breaks for you, especially if your agents run across more than one harness. The team and I will be in the comments all day."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-10-14",
       "rank": 3,
@@ -31757,56 +31979,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-21",
-      "rank": 2,
-      "name": "BAND for Developers",
-      "slug": "band-for-developers",
-      "tagline": "Coding agents, meet teamwork",
-      "description": "Running multiple coding agents shouldn’t mean becoming their project manager. BAND lets them work together. Connect agents across your existing development tools and give them a shared workspace to coordinate tasks, exchange context, and hand off work without you playing middleman. See what every agent is doing, step in when decisions need your judgment, and scale agentic development across teams. Your agents stay in their existing tools while BAND handles the teamwork.",
-      "category": "Software Engineering • Developer Tools • Artificial Intelligence",
-      "categoryFa": "Software Engineering • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d2484b7e-3a24-4ad0-a225-c5f873420f15.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/3e26af9c-c3f2-4346-9b4b-425d511bcde5.png?auto=format",
-        "https://ph-files.imgix.net/d4a53d23-9b2c-4901-af76-1794ce4c5a34.png?auto=format",
-        "https://ph-files.imgix.net/467ce23e-2f2b-4ad0-a79d-7ba99688e59a.png?auto=format",
-        "https://ph-files.imgix.net/332a3775-162f-4212-85de-26f6e93f5792.png?auto=format",
-        "https://ph-files.imgix.net/6652d0ce-ed81-419c-ac3c-f87298acaa2d.png?auto=format",
-        "https://ph-files.imgix.net/8521f765-c442-4190-b5f0-5b2fca11b475.png?auto=format",
-        "https://ph-files.imgix.net/e1107322-df2c-4b8f-af31-627b8a0632e8.png?auto=format",
-        "https://ph-files.imgix.net/c8f42ee1-18fa-4128-b2c8-42f3d102ba13.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 229,
-      "websiteUrl": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! how is context managed between different agents? is there a risk that one agent may not have the full context and incorrectly invalidate the output from another? Is reasoning also shared between agents?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "so many coding agents?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "really neat workflow fit. how does it handlee syncing across multiple devices smoothly?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Keeping the decisions and work state in the room makes sense when agents have separate sessions. I would want that handoff trail visible when stepping in to unblock one of them."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt,I'm Arick, co-founder and CEO of BAND. Today we're launching BAND for Developers.If you run more than one coding agent, you know the pattern. Each agent is fast on its own, but they can't talk to each other, so you become the go-between. You copy context from one session into the next, tell the test agent what the refactor agent just changed, and find out an hour later that two agents made opposite assumptions about the same interface. More agents should mean more work done. Instead, a lot of it turns into more coordination for you.Most multi-agent dev tools today give you a better dispatch board. You assign tasks, agents run in parallel, you review what comes back. That helps with throughput, but every handoff still goes through a human.BAND for Developers lets the agents work it out between themselves:- Connect the agents you already run. Claude Code, Codex, GitHub Copilot and OpenCode agents join shared rooms across machines. You keep your IDE, your terminal and your workflow.- Agents collaborate directly. They message each other, delegate, review each other's work and unblock one another. They can pull in a teammate's agent when the work needs it. Plans, decisions and work state live in the room rather than inside one session, so they survive when a session ends.- You step in when it matters. You keep working from the terminal. BAND desktop shows what's moving, what's blocked and which agent is waiting on you. Open the room, answer the question or redirect the agent, then step back out while the rest of the work keeps going.The difference is that the agents aren't only running side by side. They coordinate while the work is happening, so many of the handoffs you'd normally do yourself happen without you. And you don't have to move your whole team onto one vendor's agents to get there.BAND desktop is free. Download it at band.ai/use-cases/band-desktop. We'd like to hear where it breaks for you, especially if your agents run across more than one harness. The team and I will be in the comments all day."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -31997,6 +32169,71 @@
         {
           "user": "کاربر ProductHunt 1",
           "text": "سلام به همه! همیشه طرفدار بزرگ @Unsloth هستم — از کدبیس اصلی تا نسخه وب، استفاده از آن همیشه ساده‌تر می‌شود. نسخه دسکتاپ کامل‌ترین نسخه‌ای است که در حال ساخت هستند. همه چیز را در یک برنامه native برای Mac، Windows و Linux بسته‌بندی می‌کند. می‌توانید LLMها، مدل‌های انتشار تصویر/ویدیو و صدا را کاملاً آفلاین اجرا و آموزش دهید بدون اینکه به ترمینال دست بزنید. احتمالاً اولین نسخه Unsloth است که می‌توانم به کسی که مدل‌های محلی را دوست دارد اما نمی‌خواهد AI محلی تبدیل به پروژه‌ای برای آخر هفته شود، توصیه کنم. یک مدل و کوانتیزیشن را انتخاب کنید، دانلود کنید و شروع کنید. همچنین این مدل‌های محلی را خارج از برنامه مفید می‌کند. دستور unsloth start اجازه می‌دهد ابزارهای عامل که قبلاً استفاده می‌کنید، مستقیماً به آن‌ها صدا بزنند. رایگان، متن‌باز و در نهایت یک برنامه دسکتاپ مناسب 🦥"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-10-21",
+      "rank": 3,
+      "name": "Needle",
+      "slug": "needle-391a6980-1f80-4939-8a6d-535d2f72c156",
+      "tagline": "The agent-native outbound engine",
+      "description": "Find your perfect leads and reach out by prompting Claude, ChatGPT, or Grok. Wherever your ICP are, on LinkedIn, Instagram, or email.",
+      "category": "Sales • Artificial Intelligence • LinkedIn",
+      "categoryFa": "فروش • هوش مصنوعی • LinkedIn",
+      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a2d0f7e4-e61f-4f28-b2b5-93285c924254.webp?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c5d8f0ba-dea1-4953-87e7-c0348d4c42da.png?auto=format",
+        "https://ph-files.imgix.net/3571ea13-42cf-4e76-b317-2ffec62c1ea1.jpeg?auto=format",
+        "https://ph-files.imgix.net/19a2d32a-fd30-46a5-940d-126f06ec0141.png?auto=format",
+        "https://ph-files.imgix.net/6379cfbe-b14c-4419-82eb-5a6633ae0b4a.png?auto=format",
+        "https://ph-files.imgix.net/3d7d19e2-b78e-40d0-8def-4d1a7e2a4828.png?auto=format",
+        "https://ph-files.imgix.net/ce15a88d-916f-488b-a229-e970d309ca27.png?auto=format",
+        "https://ph-files.imgix.net/086cac1b-ceaf-4724-be74-dc480ef0a22d.png?auto=format",
+        "https://ph-files.imgix.net/f2eafa26-3a29-4e4e-9edc-ff220649fad6.png?auto=format",
+        "https://ph-files.imgix.net/59c32c7c-5631-41c6-b979-3ab67b6f2d81.png?auto=format",
+        "https://ph-files.imgix.net/5e06f156-8b3e-49c9-aaec-b8ca00cc89ca.png?auto=format",
+        "https://ph-files.imgix.net/2284dec3-3e6e-4750-828d-9721dd2acb7f.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 227,
+      "websiteUrl": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey there PH community 👋Onur here, founder of Needle with @jan_heimes This is our 6th launch, and thank you to everyone who has followed our journey.The problem: outbound today means juggling 5+ tools. You use one for lists, one for enrichment, one for sequences, one for LinkedIn, and you spend your evenings copy-pasting CSVs between them.What we built: Needle is an outbound engine your AI agent can drive. Connect it to Claude, ChatGPT or Grok, then describe who you want to reach in one prompt:“Find 50 Head of Sales at Series A SaaS companies in Berlin, enrich them, and start a LinkedIn sequence referencing their latest post.”Needle then:🔍 Finds leads from LinkedIn, Instagram and Google Maps✨ Enriches them with the context your agent needs to actually personalize📨 Reaches out on whichever channel they’re on, from your own connected accounts, with sane sending limits built inWhy agent-native? Your agent already knows your ICP, your docs and your voice. It was just missing the hands. We didn’t want to build yet another dashboard, so we built the infrastructure instead.No AI slop. We help you use AI the right way: real context on every lead, and messages that sound like you wrote them yourself.And it’s not an “AI SDR”. Needle makes your reps faster. It doesn’t pretend to replace them. Your creativity is your GTM, we make it fluid.🎁 For the PH community: use code PH2026 for 50% off for 6 months, on top of the 7-day free trial. Create opportunities and win people. Right now, takes 5 minutes to run your first campaign. Whatever you're after - sales, partnerships, hiring, fundraising.We’d love your toughest feedback. What’s the most painful part of your outbound stack right now? My team and I will be in the comments all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How flexible is Needle's ability to help me personalize my outreach based on potential pain points my prospect could be facing? I usually find being too generalized hurts my chances."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I work in Sales and have seen this tool being built in real time. Amazing idea, even better execution!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "sending from your own connected accounts with built-in limits is a sensible choice for LinkedIn. are those limits set per account or per workspace?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice one on launch number six, Onur and team. Driving outbound from inside Claude makes sense to me. My worry is the agent pulling 50 \"Head of Sales\" who all left that job last quarter. How fresh is the enrichment, and does it check before it sends from my own LinkedIn?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks really cool, just checked it out - best of luck with the PH launch day Needle Team !"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the \"hands for the agent\" approach 👏 Question on the email side: do you check SPF/DKIM/DMARC on the connected domain before the agent starts sending? From what we see at Mailwarm, that's where most outbound campaigns die, way before the copy matters."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Sounds interesting. I'd love to know more about how you help with LinkedIn."
         }
       ]
     },
@@ -32449,71 +32686,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "به‌طور اتفاقی این پست را پیدا کردم چون Claude Code من ۳۰ سال طول می‌کشید. چه به‌موقع!"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-21",
-      "rank": 3,
-      "name": "Needle",
-      "slug": "needle-391a6980-1f80-4939-8a6d-535d2f72c156",
-      "tagline": "The agent-native outbound engine",
-      "description": "Find your perfect leads and reach out by prompting Claude, ChatGPT, or Grok. Wherever your ICP are, on LinkedIn, Instagram, or email.",
-      "category": "Sales • Artificial Intelligence • LinkedIn",
-      "categoryFa": "فروش • هوش مصنوعی • LinkedIn",
-      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a2d0f7e4-e61f-4f28-b2b5-93285c924254.webp?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c5d8f0ba-dea1-4953-87e7-c0348d4c42da.png?auto=format",
-        "https://ph-files.imgix.net/3571ea13-42cf-4e76-b317-2ffec62c1ea1.jpeg?auto=format",
-        "https://ph-files.imgix.net/19a2d32a-fd30-46a5-940d-126f06ec0141.png?auto=format",
-        "https://ph-files.imgix.net/6379cfbe-b14c-4419-82eb-5a6633ae0b4a.png?auto=format",
-        "https://ph-files.imgix.net/3d7d19e2-b78e-40d0-8def-4d1a7e2a4828.png?auto=format",
-        "https://ph-files.imgix.net/ce15a88d-916f-488b-a229-e970d309ca27.png?auto=format",
-        "https://ph-files.imgix.net/086cac1b-ceaf-4724-be74-dc480ef0a22d.png?auto=format",
-        "https://ph-files.imgix.net/f2eafa26-3a29-4e4e-9edc-ff220649fad6.png?auto=format",
-        "https://ph-files.imgix.net/59c32c7c-5631-41c6-b979-3ab67b6f2d81.png?auto=format",
-        "https://ph-files.imgix.net/5e06f156-8b3e-49c9-aaec-b8ca00cc89ca.png?auto=format",
-        "https://ph-files.imgix.net/2284dec3-3e6e-4750-828d-9721dd2acb7f.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 225,
-      "websiteUrl": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey there PH community 👋Onur here, founder of Needle with @jan_heimes This is our 6th launch, and thank you to everyone who has followed our journey.The problem: outbound today means juggling 5+ tools. You use one for lists, one for enrichment, one for sequences, one for LinkedIn, and you spend your evenings copy-pasting CSVs between them.What we built: Needle is an outbound engine your AI agent can drive. Connect it to Claude, ChatGPT or Grok, then describe who you want to reach in one prompt:“Find 50 Head of Sales at Series A SaaS companies in Berlin, enrich them, and start a LinkedIn sequence referencing their latest post.”Needle then:🔍 Finds leads from LinkedIn, Instagram and Google Maps✨ Enriches them with the context your agent needs to actually personalize📨 Reaches out on whichever channel they’re on, from your own connected accounts, with sane sending limits built inWhy agent-native? Your agent already knows your ICP, your docs and your voice. It was just missing the hands. We didn’t want to build yet another dashboard, so we built the infrastructure instead.No AI slop. We help you use AI the right way: real context on every lead, and messages that sound like you wrote them yourself.And it’s not an “AI SDR”. Needle makes your reps faster. It doesn’t pretend to replace them. Your creativity is your GTM, we make it fluid.🎁 For the PH community: use code PH2026 for 50% off for 6 months, on top of the 7-day free trial. Create opportunities and win people. Right now, takes 5 minutes to run your first campaign. Whatever you're after - sales, partnerships, hiring, fundraising.We’d love your toughest feedback. What’s the most painful part of your outbound stack right now? My team and I will be in the comments all day."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How flexible is Needle's ability to help me personalize my outreach based on potential pain points my prospect could be facing? I usually find being too generalized hurts my chances."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I work in Sales and have seen this tool being built in real time. Amazing idea, even better execution!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "sending from your own connected accounts with built-in limits is a sensible choice for LinkedIn. are those limits set per account or per workspace?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice one on launch number six, Onur and team. Driving outbound from inside Claude makes sense to me. My worry is the agent pulling 50 \"Head of Sales\" who all left that job last quarter. How fresh is the enrichment, and does it check before it sends from my own LinkedIn?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks really cool, just checked it out - best of luck with the PH launch day Needle Team !"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the \"hands for the agent\" approach 👏 Question on the email side: do you check SPF/DKIM/DMARC on the connected domain before the agent starts sending? From what we see at Mailwarm, that's where most outbound campaigns die, way before the copy matters."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Sounds interesting. I'd love to know more about how you help with LinkedIn."
         }
       ]
     },
@@ -33374,7 +33546,66 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch, Ayush. Been seeing it grow nicely :)"
         }
-      ]
+      ],
+      "faDescription": "نرم‌افزار SignWith یک ابزار مدرن برای امضای الکترونیکی اسناد است که مدل سنتی اشتراک ماهانه را کنار گذاشته و مدل پرداخت به ازای هر سند را جایگزین کرده است. کاربران در این سرویس می‌توانند هر ماه تا ۳ سند را به صورت کاملاً رایگان امضا کنند و برای اسناد بیشتر، بسته‌های اعتباری یک‌بارمصرف از ۹ دلار خریداری نمایند. تمامی حساب‌های کاربری بدون محدودیت به قابلیت‌هایی مانند تعیین ترتیب امضا، تایید هویت امضاکنندگان با رمز یک‌بارمصرف ایمیلی، زنجیره ممیزی کامل و گواهی ثبت امضا دسترسی دارند. علاوه بر وب‌سایت و API، امکان ارسال اسناد مستقیم از طریق دستیارهای هوش مصنوعی مانند Claude و ChatGPT با استفاده از پروتکل MCP نیز فراهم شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به اهالی پروداکت هانت، ممنون که این پرتاب را بررسی می‌کنید ❤️ این اولین باری است که محصول شخص دیگری را معرفی می‌کنم، که اتفاقاً از اعضای تیم خودم است. امروز SignWith را معرفی می‌کنم که توسط آیوپ (مدیر رشد در TMAKER) ساخته شده است. وقتی آن را به من نشان داد، ایده بلافاصله به دلم نشست. اکثر مردم در ماه فقط چند سند امضا می‌کنند، اما همچنان هزینه اشتراک ماهانه ابزارهای امضای دیجیتال را می‌پردازند. SignWith این قاعده را برعکس کرده است: پرداخت به ازای سند، نه ماهانه. 🆓 ۳ سند رایگان در هر ماه 💳 پس از آن بسته‌های اعتباری یک‌بارمصرف ۹، ۱۹ یا ۲۹ دلاری یا خرید مادام‌العمر ۱۹۹ دلاری بدون هیچ اشتراکی ✍️ همه حساب‌ها به همه امکانات دسترسی دارند: تعیین ترتیب امضا، رمز یک‌بارمصرف ایمیلی، ردپای ممیزی کامل و گواهی تکمیل 🤖 ارسال اسناد برای امضا از طریق API یا مستقیماً از کلود، چت‌جی‌پی‌تی یا کرسر. بیش از ۱۰۰۰ کاربر فعال و بیش از ۵۰۰۰ سند امضاشده دارند 🔥 پیشنهاد ویژه PH: ۲۰ درصد تخفیف روی همه پلن‌ها از جمله لایف‌تایم با کد SWPH۲۰. ضمناً امروز تولد آیوپ هم هست 🎂 و بهترین هدیه، نظر صادقانه شما در کامنت‌هاست 👀 (لطفاً تولدش را هم تبریک بگویید). خوشحال می‌شویم نظرتان را بدانیم 🙏🏻"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "استفاده از آن فوق‌العاده راحت است. اگر اسناد زیادی برای امضای دیجیتال دارید، انتخابی کاملاً هوشمندانه و بدون معطلی است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "پرداخت به ازای هر سند به جای اشتراک ماهانه، زاویه دید بسیار هوشمندانه‌ای است 👏 آیا بیشتر فریلنسرها از آن استفاده می‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "من در واقع از این ابزار استفاده می‌کنم تا هم‌اتاقی‌هایم هر ماه جدول نظافت را به‌صورت رسمی امضا کنند، چون هیچ‌کس آشپزخانه را تمیز نمی‌کند! خیلی خنده‌دار است، اما بخش روی اعصابش این است که باید ایمیل‌هایشان را هر بار دستی تایپ کنم چون دفترچه مخاطبان در جای عجیبی مخفی شده است. به هر حال خوب کار می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "محدودیت ماهانه را فقط برای فرم‌های آنبوردینگ بیرونی و تاییدهای مستقیم داخلی از طریق ایمیل استاندارد نگه دارید. هزینه امضای قراردادهای تامین‌کنندگان خیلی سریع‌تر از آنچه آژانس‌های کوچک انتظار دارند بالا می‌رود."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "آیا می‌توانم از چند فرد مختلف روی یک سند واحد درخواست امضا کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی است، پرداخت به ازای سند برای تیم‌هایی مثل ما که فقط گاهی به امضا نیاز دارند بسیار بهتر است. آیا یک اعتبار شامل یک سند با چند امضاکننده می‌شود یا به ازای هر امضاکننده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک برای انتشار، آیوپ! شاهد رشد خوبش بوده‌ام :)"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nابزارهای بزرگ امضای دیجیتال مانند DocuSign هزینه‌های اشتراک ماهانه سنگینی بر کاربران تحمیل می‌کنند، در حالی که اکثر افراد فقط چند سند در ماه امضا می‌کنند. SignWith با ارائه ۳ امضای رایگان ماهانه و فروش بسته‌های اعتباری یک‌بارمصرف، این مشکل را حل کرده است.\n\nمعماری و تکنولوژی:\nپلتفرم بر پایه معماری مدرن API-first توسعه یافته و از پروتکل MCP (Model Context Protocol) برای اتصال مستقیم به هوش مصنوعی (Claude و ChatGPT) بهره می‌برد. سیستم تایید هویت با OTP ایمیلی، مدیریت ترتیب امضاکنندگان و تولید گواهی پی‌دی‌اف همراه با Audit Trail از ارکان فنی آن است.\n\nمدل درآمدی:\nمدل فری‌میوم (Freemium) به همراه بسته‌های اعتباری شارژی یک‌بارمصرف (۹، ۱۹ و ۲۹ دلار) و پیشنهاد خریدهای مادام‌العمر (Lifetime Deal).\n\nنقاط قوت:\n- قیمت‌گذاری بسیار عادلانه و متناسب با نیاز کاربران خرد\n- یکپارچگی خلاقانه با افزونه‌ها و دستیارهای هوش مصنوعی\n- ارائه تمام قابلیت‌های امنیتی در تمامی پلن‌ها بدون تبعیض\n\nنقاط ضعف:\n- ضعف‌های رابط کاربری در بخش مدیریت دفترچه مخاطبان\n- ابهام کاربر در نحوه محاسبه اعتبار برای اسناد دارای چند امضاکننده\n\nنکته طلایی برای ایران:\nدر بوم‌سازی این طرح برای ایران، جایگزینی OTP ایمیلی با OTP پیامکی (یا اتصال به شاهکار/ثنا) و ارائه بسته‌های شارژی امضا (مشابه سامانه‌های پیامکی) می‌تواند فوراً توجه آژانس‌ها و فریلنسرهای ایرانی را جلب کند.",
+      "iranEquivalent": {
+        "productName": "امضانو (EmzaNo)",
+        "description": "امضانو یک پلتفرم بومی امضای الکترونیکی اسناد است که امکان تایید قراردادها را بدون نیاز به پرداخت اشتراک ثابت ماهانه فراهم می‌سازد. این سامانه با مدل اعتباری شارژی به کسب‌وکارها و فریلنسرها اجازه می‌دهد به میزان مصرف واقعی خود هزینه پرداخت کنند. همچنین امکان احراز هویت امضاکنندگان از طریق پیامک و اتصال به سامانه‌های حقوقی کشور در آن پیش‌بینی شده است.",
+        "marketOpportunity": "تعداد زیادی از آژانس‌های کوچک، فریلنسرها و شرکت‌های نوپا در ایران نیاز مبرمی به ثبت امضای رسمی قراردادها دارند اما تمایلی به خرید پلن‌های ماهانه سنگین ندارند. ارائه یک ابزار اعتباری شارژی با تایید پیامکی می‌تواند سهم بازار بکری را در بخش خدمات حقوقی دیجیتال کشور تصاحب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "فریلنسرها، آژانس‌های دیجیتال مارکتینگ، مشاوران املاک، تیم‌های منابع انسانی و کسب‌وکارهای خرد",
+        "challenges": [
+          "عدم شفافیت قوانین حقوقی در پذیرش امضای الکترونیکی ساده در برخی دادگاه‌های ایران",
+          "هزینه‌های متغیر و بالای ارسال پیامک احراز هویت (OTP) در ایران"
+        ],
+        "monetization": [
+          "فروش بسته‌های اعتباری شارژی امضا (پرداخت به ازای هر سند)",
+          "فروش دسترسی API به نرم‌افزارهای حسابداری و اتوماسیون اداری"
+        ],
+        "techStack": [
+          "Next.js",
+          "Node.js",
+          "PostgreSQL",
+          "Kavenegar API",
+          "MinIO"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -41033,6 +41264,70 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-21",
+      "rank": 4,
+      "name": "The Library",
+      "slug": "the-library-1a4accbe-0203-45f7-bb35-1567ccc523e0",
+      "tagline": "Your business context organized by queries",
+      "description": "The Querri Library is where your data gets organized around the questions your business asks, so every answer comes from the same trusted, shared foundation.. The library learns your definitions, business context, and past analysis, so its answers are grounded in how your business actually works. And when it doesn’t know, it says so, instead of making things up.",
+      "category": "Analytics • Tech",
+      "categoryFa": "تحلیل داده • Tech",
+      "url": "https://www.producthunt.com/products/querri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3b204bf1-f8aa-4598-b5cb-7f65074ec4ae.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/1fb61d2d-aafe-43b1-be89-e30754f0b989.jpeg?auto=format",
+        "https://ph-files.imgix.net/24c6ce26-2274-497d-8d0e-ea1800be9d31.png?auto=format",
+        "https://ph-files.imgix.net/f68c954d-9e7a-483a-aced-1b6e3a6bbdac.png?auto=format",
+        "https://ph-files.imgix.net/fefb17d3-2069-4a50-a84f-01848f2341e6.png?auto=format",
+        "https://ph-files.imgix.net/9bbdcfdc-b88d-48c8-9897-38914574392d.png?auto=format",
+        "https://ph-files.imgix.net/6c6238fe-64ef-459e-9cfd-27b289176833.png?auto=format",
+        "https://ph-files.imgix.net/af4dcd57-d323-48a4-b497-cce54f06cf47.png?auto=format",
+        "https://ph-files.imgix.net/54403e2d-91dc-4c12-865c-166fbe8088a1.png?auto=format",
+        "https://ph-files.imgix.net/e943a983-6d86-4e31-8061-846540fe9627.png?auto=format",
+        "https://ph-files.imgix.net/46082564-b9d2-4460-aa19-b52839c268f2.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 175,
+      "websiteUrl": "https://www.producthunt.com/r/XZ6RB34WYUJWIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch! Excited to see more work in the space of empowering the rest of the org. How do you account for the onerous nature of keeping AI in sync with business context? Data owners aren’t always in calls to receive the context real time. It’s unlikely leaders who are on calls have time to update context. And in my experience, how operations define it verbally to data teams rarely aligns perfectly with how it actually has to be coded, making them a less than ideal fit to maintain definitions of tables they didn’t create."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @daveaingram and @amy_ingram - Congratulations on your launch. Very interesting concept. Are there any data limits so Querri can handle and return answers with out any latency issues?Also, Can we limit the access to answers by team or by data sets?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Really like that it says what's missing instead of giving a confident wrong number."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Shared business definitions are a smart focus, seem pretty relevant to me! Curious how the library handles conflicting definitions across teams, and whether users can trace each answer back to its sources/authors, congratulations on your launch! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Dave and the team have been amazing to work with as I've looked to roll out better visibility across a number of systems across multiple companies in our portfolio. There has been no system they've been unwilling to try and build connectors for which has been a huge time benefit for me in a job where time is a premium."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle when the underlying data changes, business definitions evolve or 2 equally valid interpretations exist? Who ultimately owns the truth; the data, semantic layer or the person asking ques?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Dave, Amy and the Querri team. The point about the same question getting a different answer tomorrow is the real problem with AI on top of data. When two teams define \"active customer\" differently, does the Library force one definition, or can both live side by side?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Building Querri has been quite a journey!Our mission, from the very beginning, has been to make working with data accessible to everyone. In a world where businesses collect more data than ever, understanding that data is no longer just a nice-to-have. It can make or break important business decisions.But getting data together from dozens of different systems is hard enough. Getting AI to give you reliable answers based on your business's definitions of revenue, churn, or other important metrics is another challenge entirely.We've spent thousands of hours tackling this problem. Because it matters.AI is an incredibly powerful tool, but it needs to understand your business context. We're also huge believers in keeping humans in the loop. Data has so much nuance, and it would be naive to assume AI automatically knows how your business defines everything or how you want to handle every inconsistency.That's why we've built so many ways for people to guide the AI, teach it their business context, and stay in control of how their data is cleaned, analyzed, and understood.And security isn't an afterthought. Querri has completed a SOC 2 Type II audit, is ISO 27001:2022 certified, supports HIPAA compliance, and never uses customer data to train AI models.I'm incredibly proud of our team and what we've built together.We're excited to share it with the Product Hunt community, and we'd genuinely love your feedback, questions, and ideas. That's how we learn, grow, and keep getting better!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-16",
       "rank": 5,
@@ -41089,71 +41384,65 @@
           "user": "[REDACTED]",
           "text": "This is a real problem being solved here and just the right team to solve it."
         }
-      ]
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-21",
-      "rank": 4,
-      "name": "The Library",
-      "slug": "the-library-1a4accbe-0203-45f7-bb35-1567ccc523e0",
-      "tagline": "Your business context organized by queries",
-      "description": "The Querri Library is where your data gets organized around the questions your business asks, so every answer comes from the same trusted, shared foundation.. The library learns your definitions, business context, and past analysis, so its answers are grounded in how your business actually works. And when it doesn’t know, it says so, instead of making things up.",
-      "category": "Analytics • Tech",
-      "categoryFa": "تحلیل داده • Tech",
-      "url": "https://www.producthunt.com/products/querri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3b204bf1-f8aa-4598-b5cb-7f65074ec4ae.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/1fb61d2d-aafe-43b1-be89-e30754f0b989.jpeg?auto=format",
-        "https://ph-files.imgix.net/24c6ce26-2274-497d-8d0e-ea1800be9d31.png?auto=format",
-        "https://ph-files.imgix.net/f68c954d-9e7a-483a-aced-1b6e3a6bbdac.png?auto=format",
-        "https://ph-files.imgix.net/fefb17d3-2069-4a50-a84f-01848f2341e6.png?auto=format",
-        "https://ph-files.imgix.net/9bbdcfdc-b88d-48c8-9897-38914574392d.png?auto=format",
-        "https://ph-files.imgix.net/6c6238fe-64ef-459e-9cfd-27b289176833.png?auto=format",
-        "https://ph-files.imgix.net/af4dcd57-d323-48a4-b497-cce54f06cf47.png?auto=format",
-        "https://ph-files.imgix.net/54403e2d-91dc-4c12-865c-166fbe8088a1.png?auto=format",
-        "https://ph-files.imgix.net/e943a983-6d86-4e31-8061-846540fe9627.png?auto=format",
-        "https://ph-files.imgix.net/46082564-b9d2-4460-aa19-b52839c268f2.png?auto=format"
       ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 174,
-      "websiteUrl": "https://www.producthunt.com/r/XZ6RB34WYUJWIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
+      "faDescription": "پومراکادو در عرض چند دقیقه هر وب‌سایتی را به یک رابط برنامه‌نویسی (API) یا ابزار MCP تبدیل می‌کند. این پلتفرم امکان خودکارسازی کامل فرآیندها را فراهم می‌کند و وب‌سایت‌هایی که قبلاً برای هوش مصنوعی‌ها در دسترس نبودند (مانند گوگل فلای، زیلو و اینستا کارت) را به ابزارهای بومی برای عامل‌های هوشمند تبدیل می‌سازد. ابزار متن‌باز ما مسئول ساخت، میزبانی، احراز هویت و نگهداری این یکپارچه‌سازی‌هاست تا شما بتوانید تمرکز خود را صرف توسعه محصول کنید. این رویکرد باعث می‌شود عامل‌های هوشمند شما بتوانند مانند انسان‌ها با سایت‌های پیچیده و قدیمی تعامل داشته باشند.",
+      "faComments": [
         {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch! Excited to see more work in the space of empowering the rest of the org. How do you account for the onerous nature of keeping AI in sync with business context? Data owners aren’t always in calls to receive the context real time. It’s unlikely leaders who are on calls have time to update context. And in my experience, how operations define it verbally to data teams rarely aligns perfectly with how it actually has to be coded, making them a less than ideal fit to maintain definitions of tables they didn’t create."
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه در Product Hunt، من آلان، هم‌بنیان‌گذار پومراکادو هستم. ما پومراکادو را ساختیم زیرا اکثر سایت‌های مفید برای تعامل با عامل‌های هوشمند طراحی نشده‌اند. چه رزرو نوبت باشد، چه خرید آنلاین یا استفاده از پورتال‌های قدیمی، عامل‌ها هنوز در انجام کارهای ساده با وجود پیشرفت‌های اخیر در حوزه استفاده از رایانه (Computer Use) با مشکل مواجه هستند. به جای اینکه منتظر بمانیم تا تکنولوژی Computer Use با فرآیندهای ما همگام شود، پومراکادو را ساختیم؛ پلتفرمی که ابزارهایی برای تمام وب‌سایت‌های مورد نیاز ما می‌سازد. نحوه کار به این صورت است: وظیفه خود را از طریق داشبورد یا MCP توصیف کنید (مثلاً رزرو نوبت، جستجوی آپارتمان یا خرید)، سپس یک API یا MCP سفارشی دریافت می‌کنید که پومراکادو آن را می‌سازد، تست می‌کند و میزبانی می‌نماید. در نهایت آن را به عامل هوشمند خود بدهید و نتیجه را ببینید. اگر یک انسان می‌تواند از سایت استفاده کند، عامل‌های شما نیز می‌توانند. کتابخانه یکپارچه‌سازی‌های ما به شما کمک می‌کند تا فوراً شروع کنید، با APIهای از پیش ساخته‌شده برای سایت‌های رایج مانند گوگل فلای، OpenTable و دلتا. آکشی و من از پومراکادو در زندگی شخصی خود استفاده می‌کنیم و عامل‌های ما اکنون کارهای بسیار بیشتری نسبت به چند ماه پیش انجام می‌دهند. عامل من به من کمک می‌کند آپارتمان در زیلو پیدا کنم، پروازها را کشف کنم و خریدهای روزانه‌ام را انجام دهم. پومراکادو متن‌باز است، بنابراین می‌توانید نحوه کار فناوری ما را ببینید و APIهای محلی خود را اینجا بسازید: https://github.com/Pomerado/pome... امروز امتحان کنید و ببینید عامل‌های شما چقدر کارآمدتر می‌شوند: https://pomerado.ai. مشتاق شنیدن ایده‌های خلاقانه‌ای هستید که خواهید ساخت! ممنون که پومراکادو را بررسی کردید! 😃"
         },
         {
-          "user": "[REDACTED]",
-          "text": "Hey @daveaingram and @amy_ingram - Congratulations on your launch. Very interesting concept. Are there any data limits so Querri can handle and return answers with out any latency issues?Also, Can we limit the access to answers by team or by data sets?"
+          "user": "کاربر ProductHunt 2",
+          "text": "تبدیل هر سایتی به یک API برای عامل‌های هوشمند فوق‌العاده مفید است 🔥. وقتی سایت‌ها تغییر می‌کنند، چقدر یک‌بار بازسازی انجام می‌دهید؟"
         },
         {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Really like that it says what's missing instead of giving a confident wrong number."
+          "user": "کاربر ProductHunt 3",
+          "text": "وقتی چیدمان یک وب‌سایت تغییر کند چه اتفاقی می‌افتد؟ آیا پومراکادو به صورت خودکار تطبیق می‌یابد؟"
         },
         {
-          "user": "[REDACTED]",
-          "text": "Shared business definitions are a smart focus, seem pretty relevant to me! Curious how the library handles conflicting definitions across teams, and whether users can trace each answer back to its sources/authors, congratulations on your launch! 🚀"
+          "user": "کاربر ProductHunt 4",
+          "text": "راه‌اندازی هیجان‌انگیزی بود و تجربه اولیه‌ای عالی داشتم! این ابزار زمان زیادی را برای مهندسی معکوس API صرفه‌جویی می‌کند."
         },
         {
-          "user": "[REDACTED]",
-          "text": "Dave and the team have been amazing to work with as I've looked to roll out better visibility across a number of systems across multiple companies in our portfolio. There has been no system they've been unwilling to try and build connectors for which has been a huge time benefit for me in a job where time is a premium."
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک به آلان و آکشی به‌خاطر راه‌اندازی پومراکادو. در بازپخش Coupa، جایی که سازنده متوقف می‌شود تا بپرسد آیا هر سه مشتری را شامل شود یا خیر، ساخت یک یکپارچه‌سازی بیشتر شبیه به تعیین محدوده یک تیکت است تا ضبط یک ماکرو. پس از انتشار چنین ابزاری، آیا تیم دوم می‌تواند با پاسخ‌های متفاوت به همان سؤالات از آن استفاده کند، یا هر مجموعه پاسخ‌ها یک یکپارچه‌سازی مجزا می‌شود؟"
         },
         {
-          "user": "[REDACTED]",
-          "text": "How do you handle when the underlying data changes, business definitions evolve or 2 equally valid interpretations exist? Who ultimately owns the truth; the data, semantic layer or the person asking ques?"
+          "user": "کاربر ProductHunt 6",
+          "text": "من ایده قابل استفاده کردن پورتال‌های قدیمی توسط عامل‌های هوشمند را دوست دارم. این می‌تواند کارهای یکپارچه‌سازی دستی زیادی را صرفه‌جویی کند."
         },
         {
-          "user": "[REDACTED]",
-          "text": "Congrats Dave, Amy and the Querri team. The point about the same question getting a different answer tomorrow is the real problem with AI on top of data. When two teams define \"active customer\" differently, does the Library force one definition, or can both live side by side?"
+          "user": "کاربر ProductHunt 7",
+          "text": "دوست دارم که پومراکادو هر وب‌سایتی را به یک API قابل اعتماد تبدیل می‌کند، به این معنی که عامل من واقعاً می‌تواند داده‌های مورد نیاز خود را بدون اسکرپینگ شکننده دریافت کند."
         },
         {
-          "user": "[REDACTED]",
-          "text": "Building Querri has been quite a journey!Our mission, from the very beginning, has been to make working with data accessible to everyone. In a world where businesses collect more data than ever, understanding that data is no longer just a nice-to-have. It can make or break important business decisions.But getting data together from dozens of different systems is hard enough. Getting AI to give you reliable answers based on your business's definitions of revenue, churn, or other important metrics is another challenge entirely.We've spent thousands of hours tackling this problem. Because it matters.AI is an incredibly powerful tool, but it needs to understand your business context. We're also huge believers in keeping humans in the loop. Data has so much nuance, and it would be naive to assume AI automatically knows how your business defines everything or how you want to handle every inconsistency.That's why we've built so many ways for people to guide the AI, teach it their business context, and stay in control of how their data is cleaned, analyzed, and understood.And security isn't an afterthought. Querri has completed a SOC 2 Type II audit, is ISO 27001:2022 certified, supports HIPAA compliance, and never uses customer data to train AI models.I'm incredibly proud of our team and what we've built together.We're excited to share it with the Product Hunt community, and we'd genuinely love your feedback, questions, and ideas. That's how we learn, grow, and keep getting better!"
+          "user": "کاربر ProductHunt 8",
+          "text": "این یک مسئله واقعی است که اینجا حل می‌شود و تیم مناسبی برای حل آن هستند."
         }
-      ]
+      ],
+      "aiReview": "مسئله اصلی این است که اکثر وب‌سایت‌ها، به ویژه پورتال‌های قدیمی و خدماتی، APIهای رسمی و مستند ندارند که عامل‌های هوشمند بتوانند مستقیماً با آن‌ها تعامل کنند. راه‌حل پومراکادو (و معادل ایرانی آن) ایجاد یک لایه واسط هوشمند است که با تحلیل بصری و ساختاری سایت، یک API یا ابزار MCP سفارشی می‌سازد. از نظر معماری، این سیستم احتمالاً از تکنولوژی‌های Computer Use (مانند Playwright یا Selenium) در کنار مدل‌های زبانی بزرگ برای تفسیر UI استفاده می‌کند تا عملیات‌های کاربری را به فراخوانی‌های API تبدیل کند. مدل درآمدی بر اساس حجم استفاده (Usage-based) و اشتراک‌های سازمانی است. نقاط قوت شامل کاهش شدید زمان توسعه یکپارچه‌سازی، قابلیت مقیاس‌پذیری بالا و متن‌باز بودن هسته فناوری است. نقاط ضعف اصلی، شکنندگی در برابر تغییرات ناگهانی در چیدمان سایت‌ها و نیاز به منابع محاسباتی بالا برای پردازش بصری است. نکته طلایی برای ایران: تمرکز بر سایت‌های خدماتی کلیدی مانند سامانه‌های ثبت‌نام، رزرو هتل و بلیط، و پورتال‌های دولتی که داده‌های آن‌ها برای هوش مصنوعی‌های محلی بسیار ارزشمند است، می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پیمارادو",
+        "description": "پیمارادو یک پلتفرم هوشمند است که هر وب‌سایت ایرانی یا خارجی را در چند دقیقه به یک API استاندارد و قابل استفاده برای هوش مصنوعی تبدیل می‌کند. این سیستم به صورت خودکار ساختار سایت را تحلیل کرده، ابزارهای لازم برای عامل‌های هوشمند (Agents) را می‌سازد و آن‌ها را میزبانی می‌کند. با استفاده از پیمارادو، کسب‌وکارها می‌توانند بدون نیاز به برنامه‌نویسی پیچیده، داده‌های سایت‌های قدیمی یا پیچیده را به صورت خودکار استخراج و پردازش کنند.",
+        "marketOpportunity": "بازار ایران با وجود تعداد زیادی پورتال قدیمی و سایت‌های بدون API رسمی، نیاز شدیدی به ابزارهایی دارد که داده‌های این سایت‌ها را برای هوش مصنوعی قابل دسترس کنند. با رشد استفاده از ربات‌های چت و عامل‌های هوشمند در شرکت‌ها، تقاضا برای اتوماسیون فرآیندهای وب‌محور به شدت افزایش خواهد یافت.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های استارتاپی، تیم‌های توسعه‌دهنده هوش مصنوعی، و کسب‌وکارهایی که نیاز به اتوماسیون داده‌های وب‌محور دارند.",
+        "challenges": [
+          "تغییرات مکرر در ساختار سایت‌های ایرانی که نیاز به به‌روزرسانی مداوم مدل‌های تحلیل دارد",
+          "محدودیت‌های فنی در دسترسی به برخی سایت‌های دولتی یا بانکی به دلیل پروتکل‌های امنیتی خاص"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه بر اساس تعداد درخواست‌های API (Request-based pricing)",
+          "فروش لایسنس سازمانی برای میزبانی محلی (On-premise) در سرورهای شرکت‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Playwright",
+          "Python"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -51128,7 +51417,66 @@
           "user": "[REDACTED]",
           "text": "Does it export the cut as an XML so I can open it in Resolve or Premiere and finish it there?"
         }
-      ]
+      ],
+      "faDescription": "برنامه Takes یک اپلیکیشن رایگان و متن‌باز برای سیستم‌عامل مک است که جهت ضبط ویدیوهای صحبت مستقیم با دوربین طراحی شده است. این برنامه دارای یک تله‌پراپتر هوشمند است که بر اساس صدای شما جلو می‌رود و ضبط همزمان دوربین و صفحه نمایش را تنها با زدن یک دکمه انجام می‌دهد. تمامی برداشت‌ها در پوشه‌های عادی و مرتب روی مک شما ذخیره می‌شوند. ابزار Claude Code با استفاده از اشتراک کلود شخصی شما، ویدیو را ویرایش کرده، نسخه عمودی می‌سازد و متن پست‌ها را پیش‌نویس می‌کند. شما می‌توانید روی فریم ویدیو یادداشت بگذارید تا برنامه آن‌ها را به قوانین ویرایشی تبدیل کرده و برای ویدیوهای بعدی به خاطر بسپارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروپکت هانت، من ماروین هستم. من قبلاً عاشق ساختن ویدیو بودم، اما هر جلسه با ۱۰ دقیقه تنظیمات OBS شروع می‌شد و با یک ساعت کار در ادیتور تمام می‌شد. بنابراین در ۲۷ سپتامبر شروع به ساخت Takes برای خودم با Claude Code کردم. تمام ویدیوهایی که از آن زمان ساخته‌ام با آن ضبط و ادیت شده‌اند. سه بخش دارد: ۱- ضبط: یک دکمه همزمان دوربین و صفحه را ضبط می‌کند. یک تله‌پراپتر کنار لنز صدای شما را دنبال می‌کند. هر برداشت در یک پوشه عادی کنار فیلمنامه‌اش قرار می‌گیرد. ۲- ادیت: بدون تایم‌لاین. Claude Code روی اشتراک کلود خودتان، سکوت‌ها، تپق‌ها و شروع‌های مجدد را قطع می‌کند، نسخه ۹:۱۶ می‌سازد، زیرنویس به سبک شما اضافه می‌کند و پست‌ها را پیش‌نویس می‌کند. شما روی فریم یادداشت می‌گذارید ('اینجا خیلی تنده') و نسخه جدیدی می‌سازد. نسخه‌های قدیمی باقی می‌مانند. ۳- به خاطر سپردن: یادداشت‌هایی که مهم‌تر از یک ویدیو هستند تبدیل به قوانینی می‌شوند که کلود قبل از ادیت بعدی می‌خواند. تاکنون حدود ۳۲۰ یادداشت به ۸۸ قانون تبدیل شده‌اند، بنابراین من نادراً یک یادداشت را دو بار تکرار می‌کنم. رایگان است، لایسنس MIT دارد، نیاز به اکانت ندارد و فایل‌های شما روی مک شما می‌ماند. نیاز به پردازنده اپل، مک‌او‌اس ۱۵ و اشتراک پولی کلود دارد. مَهمِت در اسکرین‌شات‌ها یک دمو است؛ مغازه، میز کار یا آشپزخانه شما هم جواب می‌دهد. ابزار بعدی چه کاری باید انجام دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک برای انتشار! واقعاً می‌خواهم از این استفاده کنم 😃 من کره‌ای هستم و به زبان کره‌ای ضبط می‌کنم. نگران ادیت نیستم چون کلود آن را انجام می‌دهد، اما تله‌پراپتر که صدا را دنبال می‌کند و قطع تپق‌ها به نظر می‌رسد نوعی تشخیص گفتار در خود دارد. آیا آن بخش اهمیت می‌دهد که به چه زبانی صحبت می‌کنم؟ همچنین، ۳۲۰ یادداشت که به ۸۸ قانون تبدیل شده‌اند، آیا هرگز با هم تناقض پیدا می‌کنند؟ من یک مجموعه مشابه برای تنظیمات کدنویسی‌ام دارم و در این حجم خیلی شلوغ و به‌هم‌ریخته می‌شود. (راستی من هوش مصنوعی نیستم 😂 نمی‌دانم چرا مدال 'احتمالاً هوش مصنوعی' به من وصل شده است)"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من به این محصول علاقه‌مندم و بسیار خوب به نظر می‌رسد. به زودی آن را امتحان خواهم کرد. چند نکته بود که می‌خواستم مطلع شوید: ۱) من در مرحله آنبوردینگ بودم، اجازه رد شدن (Skip) نداشتم (مدام دکمه را می‌زدم اما هیچ عملی انجام نمی‌شد) و وقتی گفتم اسکریپت تولید کن، می‌دیدم که در پس‌زمینه نوشته می‌شود اما هیچ راهی برای بستن صفحه آنبوردینگ و لایه روی آن وجود نداشت. مجبور شدم کل برنامه را ببندم و دوباره باز کنم. من روی مک‌او‌اس Golden Gate هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "فقط از روی کنجکاوی، آیا فرد موجود در دمو تولیدشده با هوش مصنوعی است یا ویدیوی واقعی است که با هوش مصنوعی ادیت شده؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من در حال انجام اولین ویدیوم از پروژه دمو هستم، ضبط ۶۰ ثانیه‌ای به ۳۷ ثانیه برش خورد و حدود یک ساعت طول کشید تا پردازش شود - آیا معمولاً اینطور کار می‌کند یا با هر پروژه جدید بهتر و سریع‌تر می‌شود؟ تبریک برای انتشار، این چیزی بود که واقعاً دنبالش بودم!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ماروین، نگه داشتن نسخه‌های ادیت قدیمی هنگام یادداشت‌گذاری روی ادیت جدید، جزئیات بسیار کاربردی است. وقتی بتوانید به نسخه قبلی برگردید، تصمیم‌گیری درباره اینکه آیا تغییر ایجادشده کمک کرده یا نه بسیار آسان‌تر است. تبریک برای انتشار!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "چه سطحی از کنترل در دست کاربر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "آیا فایل برش‌خورده را به صورت XML خروجی می‌دهد تا بتوانم آن را در ریزالو یا پریمیر باز کنم و کار ادیت را آنجا تمام کنم؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبسیاری از تولیدکنندگان محتوای ویدیویی زمان زیادی را صرف تنظیمات پیچیده نرم‌افزارهای ضبط (مانند OBS) و ادیت زمان‌بر ویدیوها (حذف تپق‌ها، سکوت‌ها و ساخت نسخه عمودی) می‌کنند. Takes for Mac با ترکیب ضبط یک‌کلیکه، تله‌پراپتر همگام با صدا و ویرایش هوشمند اتوماتیک از طریق Claude Code، فرآیند تولید ویدیو را بسیار سریع و آسان کرده است.\n\nمعماری و تکنولوژی:\nاین اپلیکیشن بومی مک‌او‌اس (Apple Silicon/macOS ۱۵) به صورت متن‌باز و با لایسنس MIT توسعه یافته و دیتای کاربر را کاملاً محلی حفظ می‌کند. در بخش ویرایش، با متصل شدن به API یا CLI نرم‌افزار Claude Code و استفاده از مدل‌های زبانی انتروپیک، کدهای ادیت صوتی و تصویری (از طریق ابزارهایی مثل FFmpeg) اجرا شده و قوانین یادگیری ماشینی ساده بر اساس بازخورد کاربر روی فریم‌ها شکل می‌گیرند.\n\nمدل درآمدی:\nمحصول اصلی رایگان و متن‌باز است؛ اما مدل کسب‌وکار آن بر پایه اکوسیستم الگوی «Bring Your Own Key/Plan» بنا شده است، به‌طوری‌که کاربر هزینه‌ی توکن‌ها و پردازش را مستقیماً به سیستم Claude پرداخت می‌کند.\n\nنقاط قوت:\n۱. عدم نیاز به اکانت و حفظ کامل حریم خصوصی با ذخیره فایل‌ها روی مک کاربر.\n۲. سیستمی هوشمند برای تبدیل بازخوردهای تصویری کاربر به قوانین دائمی ادیت.\n۳. حفظ نسخه‌های قبلی ادیت برای مقایسه آسان.\n\nنقاط ضعف:\n۱. سرعت پایین پردازش و ادیت که ممکن است برای ویدیوهای طولانی زمان‌بر باشد.\n۲. وابسته بودن کامل به اشتراک پولی Claude و پلتفرم مک‌او‌اس.\n۳. باگ‌های احتمالی در آنبوردینگ و عدم پشتیبانی کامل از خروجی‌های استاندارد نرم‌افزارهای ادیت حرفه‌ای مثل Premiere یا Resolve (XML).\n\nنکته طلایی برای ایران:\nدر بازار ایران، ساخت ابزاری مشابه با الگوریتم Whisper محلی برای تشخیص کلام فارسی و یک موتور ادیت بر پایه FFmpeg می‌تواند نیاز شدید مدرسان و دیجیتال مارکتیرها را بدون نیاز به پرداخت دلاری برطرف سازد. ارائه مدل آفلاین/محلی که نیازی به تحریم‌ها و اینترنت پرسرعت نداشته باشد، کلید موفقیت این ابزار در ایران است.",
+      "iranEquivalent": {
+        "productName": "راکورد | RecordAI",
+        "description": "یک اپلیکیشن بومی دسکتاپ برای تولیدکنندگان محتوا و مدرسان ایرانی که ضبط ویدیو و ادیت اتوماتیک را یکپارچه می‌کند. این ابزار با تله‌پراپتر هوشمند فارسی و ادیتور مبتنی بر هوش مصنوعی، تپق‌ها و سکوت‌ها را حذف کرده و نسخه‌های عمودی برای اینستاگرام و آپارات می‌سازد. همچنین کاور، کپشن و هشتگ‌های مرتبط را به صورت خودکار برای انتشار آماده می‌کند.",
+        "marketOpportunity": "رشد چشمگیر تولید محتوای ویدیویی توسط مدرسان، اینفلوئنسرها و تیم‌های مارکتینگ در ایران نیازمند ابزاری سریع برای کاهش زمان تولید ویدیو است. عدم دسترسی راحت اکثر کاربران ایرانی به پردازش‌های ابری سنگین و دلاری، نیاز به یک راهکار محلی و ارزان‌قیمت را دوچندان می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوا، مدرسان دوره‌های آنلاین، یوتیوبرها، بلاگرهای اینستاگرام و تیم‌های دیجیتال مارکتینگ در ایران",
+        "challenges": [
+          "پیچیدگی تشخیص دقیق کلام به متن (STT) برای زبان فارسی با لهجه‌ها و گویش‌های مختلف",
+          "محدودیت‌های دسترسی به APIهای بین‌المللی هوش مصنوعی و هزینه‌های بالا برای کاربران ایرانی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه پریمیم با سهمیه ادیت ویدیو",
+          "ارائه لایسنس دائمی و نسخه سازمانی برای آکادمی‌های آموزشی"
+        ],
+        "techStack": [
+          "Swift / Tauri",
+          "Python",
+          "Whisper AI (Local)",
+          "FFmpeg",
+          "Next.js"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -52019,7 +52367,62 @@
           "user": "[REDACTED]",
           "text": "Going blank on a term mid-call and not wanting to Google it while everyone is watching is such a relatable moment! I like that Hintly reads Meet's own captions instead of sending a bot into the call. When it surfaces details about a person who was mentioned, does that only come from the current call, or can it remember them from earlier meetings too?"
         }
-      ]
+      ],
+      "faDescription": "هینتلی یک ابزار هوشمند و افزونه کاربردی برای گوگل میت است که یادآوری‌ها و توضیحات آنی را در طول جلسات آنلاین ارائه می‌دهد. این برنامه اصطلاحات تخصصی، اسامی افراد و موضوعاتی که در طول تماس مطرح می‌شوند را بلافاصله پس از بیان شدن، تحلیل کرده و توضیح می‌دهد. اگر کلمه‌ای را فراموش کنید یا با مخفف جدیدی مواجه شوید، هینتلی بدون نیاز به جستجوی دستی در گوگل، اطلاعات لازم را روی نوار ابزار شما نمایش می‌دهد. با استفاده از این ابزار می‌توانید بدون قطع روال گفتگو، همواره بر تمام مباحث جلسه مسلط بمانید و تمرکز خود را حفظ کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت 👋، چند هفته پیش در یک تماس کاری بودم و نتوانستم اصطلاح «جستجوی معنایی» (Semantic Search) را به خاطر بیاورم؛ به دلیلی ذهنم کاملاً خالی شد و واقعاً وضعیت شرم‌آوری بود. شاید می‌توانستم وسط تماس آن را گوگل کنم، اما این کار هم عجیب و ناخوشایند به نظر می‌رسید. من هینتلی را ساختم تا دیگر چنین اتفاقی افتد. هینتلی در نوار ابزار گوگل میت شما قرار می‌گیرد و راهنمایی‌های حین جلسه ارائه می‌دهد؛ مانند: تعریف اصطلاحات، اسامی و اختصارات، پر کردن جاهای خالی زمانی که ذهنتان خالی می‌شود، راستی‌آزمایی زنده ادعاها، یادآوری و نمایش جزئیات افراد ذکر شده در جلسه و ثبت وظایف مربوط به شما... همه به صورت آنی. هیچ رباتی به تماس شما وصل نمی‌شود و هینتلی از زیرنویس‌های زنده خود گوگل میت استفاده می‌کند. تا زمانی که آن را روشن نکنید خاموش است. ۶۰ دقیقه اول رایگان است، بنابراین راحت امتحانش کنید و نظرتان را بگویید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چگونه تعیین می‌کنید چه اصطلاحاتی را نشان دهید و چه چیزهایی را نشان ندهید؟ زیرا سطح سختی یک کلمه مشابه برای یک فرد می‌تواند با فرد دیگر متفاوت باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این ابزار برای جلسات فوق‌العاده کاربردی به نظر می‌رسد! یک سوال سریع: آیا تعاریف اصطلاحات صرفاً بر اساس دانش عمومی است، یا راهی وجود دارد که کاربران واژه‌نامه شرکت یا مقالات راهنمای خود را آپلود کنند تا اصطلاحات اختصاری داخلی سازمان را هم تشخیص دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "عدم یادآوری بهتر از یادآوری اشتباه است. یک راهنمایی اشتباه با اعتمادبه‌نفس بالا در وسط جلسه کافی است تا من این ابزار را برای همیشه خاموش کنم. آیا پیش می‌آید که به جای حدس زدن، فقط بگوید «مطمئن نیستم»؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من ایده و به‌ویژه تست ۶۰ دقیقه‌ای رایگان را دوست دارم. این مثل یک دستیار یا منشی جلسه است اما به صورت زنده. آن را به لیست تست‌هایم اضافه کردم. یک بازخورد کوچک: ویدئوی دموی محصول در نگاه اول برایم مفهوم نبود و همان پیامی که در توضیحات بود را منتقل نمی‌کرد. تبریک برای ساخت این محصول و با آرزوی موفقیت در عرضه!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این ابزار می‌تواند خیلی مفید باشد؛ به‌خصوص وقتی همکار انگلیسی‌زبانی دارید که لهجه‌اش اصلاً مفهوم نیست. یادم می‌آید با فردی از یک کشور دیگر مصاحبه داشتم و فقط ۲۰ درصد حرف‌هایش را فهمیدم (بدترین بخش این بود که وقتی از زیرنویس کپ‌کات برای انگلیسی استفاده کردم، سیستم هم کلمات را درست تشخیص نداد) :D آیا این ابزار می‌تواند انگلیسی با لهجه بسیار ضعیف را هم تشخیص و بازنویسی کند؟ :D"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "فراموش کردن یک اصطلاح در وسط جلسه و تمایل نداشتن به گوگل کردن آن جلوی چشم بقیه، کاملاً قابل درک و ملموس است! این را دوست دارم که هینتلی به جای فرستادن ربات به جلسه، زیرنویس‌های خود گوگل میت را می‌خواند. وقتی جزئیات شخصی را که نام برده شده نمایش می‌دهد، آیا فقط از جلسه فعلی است یا می‌تواند آن‌ها را از جلسات قبلی هم به یاد آورد؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nمحصول **Hintly** بر روی یک «نقطه درد» (Pain Point) بسیار ملموس دست گذاشته است: هنگامی که در یک جلسه آنلاین اصطلاحی را فراموش می‌کنید یا با کلمه جدیدی روبرو می‌شوید و نمی‌خواهید با جستجو در گوگل یا پرسش مستقیم، بی‌اطلاعی خود را نشان دهید. راه‌حل هینتلی، ارائه تعاریف و راهنمایی‌های آنی بر اساس گفتگوی زنده است.\n\n### معماری و تکنولوژی\nبزرگترین مزیت فنی و رقابتی این محصول، **عدم نیاز به ورود ربات به جلسه** است. هینتلی به صورت مستقیم از زیرنویس‌های زنده خود Google Meet استفاده کرده و متن را با مدل‌های زبانی (LLM) تحلیل می‌کند. این معماری حس امنیت و حریم خصوصی بیشتری به کاربران می‌دهد و نرخ ریزش ناشی از حضور ربات‌های مزاحم را صفر می‌کند.\n\n### مدل درآمدی\nمدل فری‌میوم بر اساس زمان (۶۰ دقیقه اول رایگان) یک استراتژی عالی برای ترغیب کاربران به تست ابزار است. درآمدزایی از طریق اشتراک‌های زمانی ماهانه صورت می‌گیرد.\n\n### نقاط قوت\n۱. تجربه کاربری روان بدون حضور ربات مزاحم در جلسه.\n۲. کاربرد فوری و حل یک نیاز روانی و پرکاربرد در جلسات کاری.\n۳. امکانات جانبی ارزشمند مانند استخراج وظایف (Tasks) و یادآوری اطلاعات افراد.\n\n### نقاط ضعف و چالش‌ها\n۱. **توهم هوش مصنوعی (Hallucination):** اگر سیستم حدس اشتباهی بزند، اعتماد کاربر فوراً سلب می‌شود.\n۲. **سطح‌بندی دانش:** تشخیص اینکه چه کلمه‌ای برای چه کسی سخت است، پیچیدگی فنی بالایی دارد.\n۳. **عدم پشتیبانی از دانش داخلی:** بدون اتصال به پایگاه دانش شرکت‌ها، تعاریف محدود به دانش عمومی خواهد بود.\n\n### نکته طلایی برای بازار ایران\nبرای پیاده‌سازی موفق این ایده در ایران، دو اقدام کلیدی لازم است:\n۱. **امکان افزودن واژه‌نامه اختصاصی (Custom Glossary):** شرکت‌ها و استارتاپ‌های ایرانی پر از مخفف‌های داخلی هستند. امکان آپلود فایل اصطلاحات سازمان، ارزش محصول را چندبرابر می‌کند.\n۲. **پشتیبانی از پلتفرم‌های بومی:** سازگاری این افزونه با اسکای‌روم و نشان در کنار گوگل میت، بازار بسیار بکری را در اختیار توسعه‌دهنده قرار خواهد داد.",
+      "iranEquivalent": {
+        "productName": "جلسه‌بان (HandyMeet)",
+        "description": "این محصول یک افزونه مرورگر و دستیار هوشمند زنده برای پلتفرم‌های جلسه آنلاین مانند اسکای‌روم، نشان و گوگل میت است. سیستم با پردازش گفتار به متن فارسی، اصطلاحات تخصصی، مخفف‌های سازمانی و نکات کلیدی مطرح‌شده در جلسه را شناسایی کرده و راهنمایی‌های آنی ارائه می‌دهد. این ابزار به مدیران و کارشناسان کمک می‌کند تا بدون افت تمرکز، به تمام مباحث فنی و سازمانی مسلط بمانند.",
+        "marketOpportunity": "با افزایش جلسات آنلاین در شرکت‌های دانش‌بنیان و سازمان‌ها، نیاز به ابزاری برای حفظ تمرکز و یادآوری اصطلاحات تخصصی به شدت حس می‌شود. بازار ایران به دلیل تعاملات روزافزون در حوزه‌های فنی و استارتاپی، پتانسیل بالایی برای پذیرش این نوع دستیارهای زنده هوشمند دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران محصول، برنامه‌نویسان، مشاوران، مدیران ارشد سازمان‌ها و فریلنسرهایی که جلسات تخصصی آنلاین برگزار می‌کنند.",
+        "challenges": [
+          "دقت پایین‌تر الگوریتم‌های گفتار به متن (STT) در زبان فارسی نسبت به انگلیسی و چالش تشخیص لهجه‌های مختلف",
+          "نگرانی‌های حریم خصوصی و امنیت داده‌های محرمانه سازمان‌ها هنگام تحلیل زنده گفتگوها"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه/سالانه بر اساس میزان زمان مصرفی (SaaS)",
+          "ارائه نسخه‌های سازمانی (Enterprise) با قابلیت اتصال به پایگاه دانش داخلی شرکت‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Chrome Extension Manifest V۳",
+          "Web Speech API",
+          "OpenAI API / Local LLMs"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -57385,7 +57788,51 @@
           "user": "[REDACTED]",
           "text": "@rissa_cao @lengyue How natural does the voicesound compared to real human speech"
         }
-      ]
+      ],
+      "faDescription": "Drama ۳ آخرین مدل صوتی هوش مصنوعی Fish Audio است که برای اجراهایی که می‌توانید کارگردانی کنید ساخته شده. اسکریپت‌ها را به گفتار بیان‌گر تبدیل می‌کند و با کنترل زبان طبیعی بر احساس، سرعت، نجوا، خنده و توقف‌ها—حتی در یک جمله—قابلیت تنظیم دارد. می‌توانید صحنه‌های چند شخصیت، کتاب‌های صوتی، دیالوگ‌های بازی و روایت را در ۸۳ زبان ایجاد کنید. این سرویس در وب، موبایل و از طریق API در دسترس است و وزن‌های مدل به صورت باز تحت مجوز جامعه Fish Audio برای میزبانی خودتان قابل دانلود است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "Fish Audio به‌تازگی Drama ۳ را منتشر کرد و نمونه‌های صوتی آن ارزش گوش دادن دارند. به‌جای انتخاب ساده یک صدا و تولید گفتار، می‌توانید نحوه اجرای یک خط را کارگردانی کنید—مثلاً نجوا، خنده، توقف یا تغییر احساس در میانه جمله. این مدل همچنین دیالوگ چند شخصیت را پشتیبانی می‌کند، از ۸۳ زبان پشتیبانی می‌کند و وزن‌های مدل قابل دانلود هستند. آن‌ها در حال کار بر ویژگی‌ای هستند که امکان تغییر یک کلمهٔ منفرد بدون تولید مجدد کل ضبط را می‌دهد که برای من بسیار جذاب است. برای تولید کتاب‌های صوتی، بازی‌ها یا ویدیوهای مبتنی بر شخصیت بسیار مناسب است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا می‌توانم صداها را در یک ویدئوی تجاری مشتری با طرح رایگان استفاده کنم یا فقط در طرح پرداختی مجاز است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من تبلیغ Uncle Roger را پیش از این دیدم. نمی‌دانم SOTA چیست اما کلونینگ صدا فقط نیم دقیقه طول می‌کشد! این فوق‌العاده است (و کمی ترسناک!)."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "کنترل یک توقف یا تغییر احساس داخل یک جمله حس کارگردانی یک اجرا را بسیار نزدیک می‌کند. این همان سطحی است که یک خط می‌تواند از نظر فنی صحیح باشد اما هنوز احساس نادرست داشته باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "@rissa_cao @lengyue صدای تولید شده چقدر طبیعی است نسبت به گفتار واقعی انسان؟"
+        }
+      ],
+      "aiReview": "مسئله: تولید محتوای صوتی با کیفیت انسانی در ایران هزینهٔ بالا و زمان‌بر است و ابزارهای موجود کنترل دقیق بر احساس و افکت‌های میانی جمله را ندارند. راه‌حل: ارائهٔ دراما ۳ به‌صورت سرویس ابری و وزن‌های باز که امکان کارگردانی دقیق صدا، تغییر لحظه‌ای احساس، توقف و خنده را می‌دهد و از ۸۳ زبان پشتیبانی می‌کند. معماری و تکنولوژی: مدل بر پایهٔ Transformer‌های بزرگ با بهینه‌سازی‌های فشرده‌سازی اجرا می‌شود؛ لایهٔ API با Node.js و Next.js، دیتابیس PostgreSQL برای مدیریت پروژه‌ها و متادیتا، و امکان میزبانی خودکار بر روی زیرساخت‌های محلی یا ابری. مدل درآمدی: ۱) اشتراک ماهانه برای دسترسی به وب‌سرویس و API با سطوح رایگان و تجاری؛ ۲) فروش وزن‌های مدل به‌صورت لایسنس تجاری برای شرکت‌هایی که می‌خواهند سرویس را خود میزبانی کنند. نقاط قوت: کنترل دقیق بر احساس و افکت‌های میانی، پشتیبانی چند زبانه، وزن‌های باز برای میزبانی داخلی، هزینهٔ نسبتاً پایین نسبت به استودیوهای صوتی سنتی. نقاط ضعف: نیاز به زیرساخت‌های پردازشی قوی برای استفادهٔ کامل، عدم آگاهی کافی بازار ایرانی از فناوری‌های AI صوتی، ملاحظات قانونی دربارهٔ حق تکثیر صدا. نکته طلایی برای ایران: ترکیب وزن‌های باز با میزبانی در دیتاسنترهای داخلی می‌تواند هزینهٔ پردازش را کاهش دهد و همزمان با رعایت قوانین داده‌های ملی، به ناشران کتاب صوتی و استودیوهای بازی‌سازی امکان تولید سریع و ارزان محتواهای چند زبانه را بدهد.",
+      "iranEquivalent": {
+        "productName": "دراما ۳ صوتی فیش",
+        "description": "دراما ۳ یک مدل صوتی هوش مصنوعی با قابلیت کارگردانی دقیق صداهاست که می‌تواند احساس، سرعت و افکت‌های صوتی را درون یک جمله تنظیم کند. این سرویس امکان تولید دیالوگ‌های چند شخصیتی، کتاب‌های صوتی و روایت‌های بازی را در ۸۳ زبان فراهم می‌کند. وزن‌های مدل به صورت باز در دسترس هستند و می‌توانند به‌صورت خود میزبانی در زیرساخت‌های داخلی اجرا شوند.",
+        "marketOpportunity": "بازار کتاب‌های صوتی و محتواهای تعاملی در ایران به سرعت در حال رشد است و نیاز به ابزارهای تولید صوتی با هزینهٔ کمتر و انعطاف‌پذیری بالا دارد. همچنین استودیوهای بازی‌سازی و تبلیغات می‌توانند از قابلیت کارگردانی صدا برای بهبود تجربه کاربری بهره‌مند شوند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استودیوهای تولید محتوا، ناشران کتاب صوتی، توسعه‌دهندگان بازی، شرکت‌های تبلیغاتی و تولیدکنندگان ویدئوی آموزشی",
+        "challenges": [
+          "دسترسی به زیرساخت‌های پردازش سنگین برای اجراهای زمان واقعی",
+          "مقررات حقوقی و مالکیت معنوی صدا در ایران"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای دسترسی به API و وب‌سرویس",
+          "فروش وزن‌های مدل به صورت لایسنس تجاری برای میزبانی داخلی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -63919,6 +64366,46 @@
       ]
     },
     {
+      "id": "ph-yesterday-10",
+      "date": "2026-10-20",
+      "rank": 10,
+      "name": "Kling 4.0",
+      "slug": "kling-4-0-4",
+      "tagline": "Fast and affordable AI video for high-frequency creators",
+      "description": "Kling 4.0 is an AI video model for creators, marketers and studios who need control, not lucky rerolls. Unlike prompt-and-pray generators, you lock the story first: up to 10 keyframes, 15 reference assets and 8,000-token prompts drive 30-second clips in a single pass. Stereo audio and lip sync in 10+ languages are built in. Creative Recreation swaps products or characters in existing videos. Kling 4.0 Flash handles fast, cheaper drafts, and MCP + CLI access plugs it into agent workflows.",
+      "category": "Design Tools • Artificial Intelligence • Video",
+      "categoryFa": "ابزار طراحی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/kling-4-0-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/5ab76b43-9b9b-44dd-9a94-f263f5e65c02.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4a92a665-8824-4a3c-9567-73ea6ba2f40e.jpeg?auto=format",
+        "https://ph-files.imgix.net/c8bd44c3-a1b6-4a92-b0e6-df63463595a6.png?auto=format",
+        "https://ph-files.imgix.net/d203c151-9dc5-445d-8c1b-8a2f1a368669.png?auto=format",
+        "https://ph-files.imgix.net/d307a587-5c6e-4c0c-b96b-fe1b210604a3.png?auto=format",
+        "https://ph-files.imgix.net/0f19d375-a702-45b9-9c9e-c1b51065b95d.png?auto=format",
+        "https://ph-files.imgix.net/98868dec-6e5e-460a-80fc-2a3c06c0191a.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-20T07:01:00Z",
+      "votes": 110,
+      "websiteUrl": "https://www.producthunt.com/r/PD452OUFK3N4VN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋Most AI video tools still work like a slot machine. You write a prompt, hit generate, and hope. Kling 4.0 goes the other way and lets you plan the story before you generate anything.What stood out:🎬 Up to 30 seconds of video in one pass🖼️ Up to 10 keyframes to lock scene transitions and story beats📎 Up to 15 reference assets per generation, including storyboards, wireframes and depth maps🗣️ Lip sync in 10+ languages, plus stereo audio🔁 Creative Recreation: take an existing video and swap the product or character without redoing the whole thing🤖 MCP and CLI access, so you can plug it into agent workflowsAnd then there’s 4.0 Flash, built for high-frequency creation. It’s faster, cheaper, and tops out at 720p and 20 seconds. Perfect for drafts, social content and testing ideas before you commit to the full model.My favorite use case is Creative Recreation for ads. Make one video, then swap in different products for every variant. That’s going to save marketers a lot of time.You can try it now at kling.ai"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Just finished a massive video project, I wish this launch would have taken place 1-2 weeks ago!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "So keen for this"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-17",
       "rank": 9,
@@ -66973,6 +67460,59 @@
       }
     },
     {
+      "id": "ph-today-8",
+      "date": "2026-10-21",
+      "rank": 8,
+      "name": "The Brains",
+      "slug": "the-brains",
+      "tagline": "Founders and investors as MCP servers, every answer cited",
+      "description": "The Brains turns founders, CEOs and investors into searchable MCP servers built from their public talks, essays, interviews and posts. Ask how Pieter Levels prices, what Paul Graham says about fundraising, or how Ryan Hoover launched Product Hunt, right inside Claude, Cursor, ChatGPT or Codex. Every answer quotes the source with a link. 37 brains today, one URL per brain or one for all. Free, open source (MIT), unofficial and not affiliated with the people.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b0666262-6b13-4e7c-b98f-9f31c7163deb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6c6be4f5-b653-4d77-bec6-2a81077adb22.png?auto=format",
+        "https://ph-files.imgix.net/c5cc868f-0a27-4af5-a3c9-6e8f648e7c90.png?auto=format",
+        "https://ph-files.imgix.net/4c184750-e970-4c62-8953-0bf087a6985d.png?auto=format",
+        "https://ph-files.imgix.net/0359bd96-4753-44e0-89fb-7d37bd1dd3bb.png?auto=format",
+        "https://ph-files.imgix.net/d5201ef2-fbde-4c77-8c40-30dd5ba92faf.png?auto=format",
+        "https://ph-files.imgix.net/1dd29e7d-d3dc-4553-81c7-049e921071d7.png?auto=format",
+        "https://ph-files.imgix.net/9628699d-8823-45bc-9794-9c76ec8c4e6f.gif?auto=format"
+      ],
+      "maker": "Victor Giurgiu",
+      "makerTitle": "Gen-z tech geek",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 103,
+      "websiteUrl": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "hey Product Hunt, Vic here. i use Claude and Cursor for a lot of my product decisions, and when i asked things like \"how would Pieter Levels price this?\" the answer always sounded confident. but i couldn't tell what he actually said vs what the model made up. so i built The Brains. each founder, CEO or investor is an MCP server built from their public talks, essays, interviews and posts. your AI searches what they actually said, and every answer links back to the source. what's in it today: - 37 brains, including Paul Graham, Pieter Levels, Naval, Lenny Rachitsky, Jason Cohen and yes, Ryan Hoover - one URL per brain, or one connector for all of them - works in Claude, Claude Code, Cursor, ChatGPT, Codex and any MCP client - free and MIT licensed, so you can run it yourself or build your own brain - unofficial and built only from public material. if you're one of the people and want something fixed or removed, just email me would love to know who you want added next and where the answers feel thin. i'm here all day reading every comment."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What if all public info is self contradictory.. still great launch.. good wishes.."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "great stuff, love it, congrats with the launch and thanks for making it opensource!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really like that every answer is cited, that's the whole point. How do you handle founders who changed their mind over the years? Paul Graham in 2008 vs 2024 can give two very different answers 😄 And +1 for adding Michael Seibel."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the source date matters almost as much as the quote heresomeone can change their mind and both answers will still have a valid citation"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Might be the best mcp server idea I saw in a while, imagine having alex west rate your idea or improving it after his model"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-18",
       "rank": 7,
@@ -67422,9 +67962,59 @@
       }
     },
     {
-      "id": "ph-today-8",
+      "id": "ph-today-9",
       "date": "2026-10-21",
-      "rank": 8,
+      "rank": 9,
+      "name": "Flagsmith Experiments",
+      "slug": "flagsmith-experiments",
+      "tagline": "Open-source A/B testing built on your feature flags",
+      "description": "Flagsmith now runs A/B tests on the flags you already use. Pick a flag and a metric, and get a Bayesian read on which variant wins. Use our managed warehouse or bring your own ClickHouse or Databricks. Free and open source, self-hosted or cloud.",
+      "category": "Open Source • A/B Testing • Developer Tools",
+      "categoryFa": "متن‌باز • A/B Testing • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/flagsmith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/1fd64eaf-53a5-441e-b22f-50a44dcc6de4.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e79a43d0-ed60-454f-9c0b-997880564d06.jpeg?auto=format",
+        "https://ph-files.imgix.net/99c2a537-9aab-45bb-be6d-f19af6bfc495.webp?auto=format",
+        "https://ph-files.imgix.net/4a3ebbe1-bd97-43b1-98fe-50eda1604e63.png?auto=format",
+        "https://ph-files.imgix.net/58953874-9ecc-493a-9151-b04639f92bd9.png?auto=format",
+        "https://ph-files.imgix.net/edc80c56-da3d-493f-a96d-5d9c7f6aa1f6.png?auto=format",
+        "https://ph-files.imgix.net/00d30243-f806-4900-9e3c-1e738820ac96.png?auto=format",
+        "https://ph-files.imgix.net/e1cde193-a3d8-4eac-a61b-0520aa1af167.png?auto=format",
+        "https://ph-files.imgix.net/c991e5dc-20ce-4a87-bcbb-d791db9853b9.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-21T07:01:00Z",
+      "votes": 102,
+      "websiteUrl": "https://www.producthunt.com/r/HG6UZLGHTKARDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Asaph, Head of Product at Flagsmith. Product and Engineering teams have been using Flagsmith flags for years to release safely. Plenty of them already split traffic with our multivariate flags, and then try to track and join exposure and conversion events using other tools to see whether the change worked. Many teams stop before getting any results, or find the process so complicated that they never try again. So we built the other half into Flagsmith - Today we’re launching Flagsmith Experiments as a public beta, in the open-source core and on Flagsmith Cloud. How it works: - Start from an A/B flag you already run, in your code, using our SDKs - Connect your warehouse - we currently support ClickHouse and Databricks, and BigQuery and Snowflake will be available soon. On our Flagsmith Cloud you can use a fully managed warehouse with a 2-click setup. - Create an Experiment with a hypothesis, and pick the audience using Flagsmith Segments or from external cohorts we sync with (we support Amplitude and Mixpanel) - Create a metric from your events, or use an existing one from your warehouse. - Get results based on a Bayesian engine, with Chance to beat and Lift indicators. - End the experiment and you're back on the flag - roll out the winner or roll back Where the data lives is your call. Bring-your-own-warehouse is part of the open-source edition. We kept v1 small on purpose: a Bayesian engine, one primary metric per experiment, and SDKs for JavaScript, React, Python, Java, Node.js, Go and Flutter. The fastest way to get started is to use our prebuilt prompt with your favorite coding agent, visit our docs for more info. One thing that surprised us while dogfooding this ourselves is that our experiments gave us better questions more often than final answers. That’s why we designed it to show the result, and a possible recommendation, but the call is still yours. What would you need to run your next experiment here? Gagan, Wadii, both Matts and I are here to discuss and answer your questions (while we’re actually together at our engineering offsite in Portugal!). And to help you get started we’re offering the first 20 teams a free 30-min setup session with me - to claim your session let me know in the comments what you’d test first!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Quick question: Could cloudflare be used to host? Thanks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does an exposure mean the flag was evaluated or the person actually saw the variant?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What if we change the audience segment in the middle of an experiment? What does that do to the results?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Going back to the same flag to roll out or roll back feels like a sensible way to finish an experiment. Keeping that last step close to the result could make it easier to act on what you learn."
+        }
+      ]
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-10-21",
+      "rank": 10,
       "name": "NativeShip",
       "slug": "nativeship",
       "tagline": "The easy way to launch your n8n native integration",
@@ -67728,105 +68318,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-10-21",
-      "rank": 10,
-      "name": "Flagsmith Experiments",
-      "slug": "flagsmith-experiments",
-      "tagline": "Open-source A/B testing built on your feature flags",
-      "description": "Flagsmith now runs A/B tests on the flags you already use. Pick a flag and a metric, and get a Bayesian read on which variant wins. Use our managed warehouse or bring your own ClickHouse or Databricks. Free and open source, self-hosted or cloud.",
-      "category": "Open Source • A/B Testing • Developer Tools",
-      "categoryFa": "متن‌باز • A/B Testing • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/flagsmith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/1fd64eaf-53a5-441e-b22f-50a44dcc6de4.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e79a43d0-ed60-454f-9c0b-997880564d06.jpeg?auto=format",
-        "https://ph-files.imgix.net/99c2a537-9aab-45bb-be6d-f19af6bfc495.webp?auto=format",
-        "https://ph-files.imgix.net/4a3ebbe1-bd97-43b1-98fe-50eda1604e63.png?auto=format",
-        "https://ph-files.imgix.net/58953874-9ecc-493a-9151-b04639f92bd9.png?auto=format",
-        "https://ph-files.imgix.net/edc80c56-da3d-493f-a96d-5d9c7f6aa1f6.png?auto=format",
-        "https://ph-files.imgix.net/00d30243-f806-4900-9e3c-1e738820ac96.png?auto=format",
-        "https://ph-files.imgix.net/e1cde193-a3d8-4eac-a61b-0520aa1af167.png?auto=format",
-        "https://ph-files.imgix.net/c991e5dc-20ce-4a87-bcbb-d791db9853b9.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 101,
-      "websiteUrl": "https://www.producthunt.com/r/HG6UZLGHTKARDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Asaph, Head of Product at Flagsmith. Product and Engineering teams have been using Flagsmith flags for years to release safely. Plenty of them already split traffic with our multivariate flags, and then try to track and join exposure and conversion events using other tools to see whether the change worked. Many teams stop before getting any results, or find the process so complicated that they never try again. So we built the other half into Flagsmith - Today we’re launching Flagsmith Experiments as a public beta, in the open-source core and on Flagsmith Cloud. How it works: - Start from an A/B flag you already run, in your code, using our SDKs - Connect your warehouse - we currently support ClickHouse and Databricks, and BigQuery and Snowflake will be available soon. On our Flagsmith Cloud you can use a fully managed warehouse with a 2-click setup. - Create an Experiment with a hypothesis, and pick the audience using Flagsmith Segments or from external cohorts we sync with (we support Amplitude and Mixpanel) - Create a metric from your events, or use an existing one from your warehouse. - Get results based on a Bayesian engine, with Chance to beat and Lift indicators. - End the experiment and you're back on the flag - roll out the winner or roll back Where the data lives is your call. Bring-your-own-warehouse is part of the open-source edition. We kept v1 small on purpose: a Bayesian engine, one primary metric per experiment, and SDKs for JavaScript, React, Python, Java, Node.js, Go and Flutter. The fastest way to get started is to use our prebuilt prompt with your favorite coding agent, visit our docs for more info. One thing that surprised us while dogfooding this ourselves is that our experiments gave us better questions more often than final answers. That’s why we designed it to show the result, and a possible recommendation, but the call is still yours. What would you need to run your next experiment here? Gagan, Wadii, both Matts and I are here to discuss and answer your questions (while we’re actually together at our engineering offsite in Portugal!). And to help you get started we’re offering the first 20 teams a free 30-min setup session with me - to claim your session let me know in the comments what you’d test first!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Quick question: Could cloudflare be used to host? Thanks"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "does an exposure mean the flag was evaluated or the person actually saw the variant?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What if we change the audience segment in the middle of an experiment? What does that do to the results?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Going back to the same flag to roll out or roll back feels like a sensible way to finish an experiment. Keeping that last step close to the result could make it easier to act on what you learn."
-        }
-      ]
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-10-21",
-      "rank": 9,
-      "name": "The Brains",
-      "slug": "the-brains",
-      "tagline": "Founders and investors as MCP servers, every answer cited",
-      "description": "The Brains turns founders, CEOs and investors into searchable MCP servers built from their public talks, essays, interviews and posts. Ask how Pieter Levels prices, what Paul Graham says about fundraising, or how Ryan Hoover launched Product Hunt, right inside Claude, Cursor, ChatGPT or Codex. Every answer quotes the source with a link. 37 brains today, one URL per brain or one for all. Free, open source (MIT), unofficial and not affiliated with the people.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b0666262-6b13-4e7c-b98f-9f31c7163deb.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/6c6be4f5-b653-4d77-bec6-2a81077adb22.png?auto=format",
-        "https://ph-files.imgix.net/c5cc868f-0a27-4af5-a3c9-6e8f648e7c90.png?auto=format",
-        "https://ph-files.imgix.net/4c184750-e970-4c62-8953-0bf087a6985d.png?auto=format",
-        "https://ph-files.imgix.net/0359bd96-4753-44e0-89fb-7d37bd1dd3bb.png?auto=format",
-        "https://ph-files.imgix.net/d5201ef2-fbde-4c77-8c40-30dd5ba92faf.png?auto=format",
-        "https://ph-files.imgix.net/1dd29e7d-d3dc-4553-81c7-049e921071d7.png?auto=format",
-        "https://ph-files.imgix.net/9628699d-8823-45bc-9794-9c76ec8c4e6f.gif?auto=format"
-      ],
-      "maker": "Victor Giurgiu",
-      "makerTitle": "Gen-z tech geek",
-      "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 101,
-      "websiteUrl": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "hey Product Hunt, Vic here. i use Claude and Cursor for a lot of my product decisions, and when i asked things like \"how would Pieter Levels price this?\" the answer always sounded confident. but i couldn't tell what he actually said vs what the model made up. so i built The Brains. each founder, CEO or investor is an MCP server built from their public talks, essays, interviews and posts. your AI searches what they actually said, and every answer links back to the source. what's in it today: - 37 brains, including Paul Graham, Pieter Levels, Naval, Lenny Rachitsky, Jason Cohen and yes, Ryan Hoover - one URL per brain, or one connector for all of them - works in Claude, Claude Code, Cursor, ChatGPT, Codex and any MCP client - free and MIT licensed, so you can run it yourself or build your own brain - unofficial and built only from public material. if you're one of the people and want something fixed or removed, just email me would love to know who you want added next and where the answers feel thin. i'm here all day reading every comment."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "great stuff, love it, congrats with the launch and thanks for making it opensource!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really like that every answer is cited, that's the whole point. How do you handle founders who changed their mind over the years? Paul Graham in 2008 vs 2024 can give two very different answers 😄 And +1 for adding Michael Seibel."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the source date matters almost as much as the quote heresomeone can change their mind and both answers will still have a valid citation"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Might be the best mcp server idea I saw in a while, imagine having alex west rate your idea or improving it after his model"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -69219,7 +69710,35 @@
           "user": "[REDACTED]",
           "text": "Hey Product Hunt! 👋 I'm sharing Ubuntu 26.10 \"Stonking Stingray\" as a community member, not on behalf of Canonical. What caught my eye in this release: GNOME 51, the completed transition to Rust-based coreutils, and an App Center that brings Snap and Debian package details together and adds graphics driver management. I also built Ubuntu.Fan, an independent documentation site with English and Chinese guides. My goal is to help people get from \"what's new?\" to \"how do I actually use it?\" with practical help for installation, development environments, self-hosting, upgrades, and troubleshooting. For this release, I've put together a guide covering the key changes and the checks worth making before an upgrade: https://ubuntu.fan/en/docs/ubunt... Feedback on the guide is very welcome, especially anything that would make getting started easier. Are you planning to try 26.10, or stay on 26.04 LTS? What would make you switch?"
         }
-      ]
+      ],
+      "faDescription": "اوبونتو ۲۶.۱۰ با نام «Stonking Stingray» ویژگی‌هایی مانند دسکتاپ گنوم ۵۱، پشتیبانی گسترده‌تر از سخت‌افزارها و انتقال کامل به ابزارهای پایه مبتنی بر زبان راست را به همراه دارد. مرکز برنامه‌ها (App Center) جزئیات بسته‌های Snap و Debian را با هم یکپارچه کرده و مدیریت درایورهای گرافیکی را نیز اضافه می‌کند. همچنین پیش‌نمایش اختیاری ابزار Myna قابلیت تبدیل گفتار به متن را به صورت محلی ارائه می‌دهد. این نسخه یک انتشار غیر LTS است که برای توسعه‌دهندگان و علاقه‌مندان به لینوکس طراحی شده تا بین نسخه‌های پشتیبانی طولانی‌مدت، به نرم‌افزارهای جدیدتر دسترسی داشته باشند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پراداکت هانت! 👋 من به عنوان یکی از اعضای جامعه کاربری و نه به نمایندگی از شرکت کاننیکال، نسخه ۲۶.۱۰ اوبونتو با نام Stonking Stingray را به اشتراک می‌گذارم. مواردی که در این نسخه نظر من را جلب کرد شامل گنوم ۵۱، تکمیل فرایند مهاجرت به ابزارهای پایه مبتنی بر راست، و یک مرکز برنامه یکپارچه برای مدیریت بسته‌های Snap و Debian به همراه مدیریت درایورهای گرافیکی است. من همچنین سایت Ubuntu.Fan را که یک پایگاه مستندات مستقل با راهنماهای انگلیسی و چینی است راه‌اندازی کرده‌ام. هدف من کمک به کاربران برای گذر از «چه چیزهایی جدید است؟» به «چگونه واقعاً از آن استفاده کنم؟» با ارائه راهنماهای کاربردی برای نصب، محیط‌های توسعه، میزبانی شخصی، ارتقا و رفع اشکال است. برای این نسخه، راهنمایی تهیه کرده‌ام که تغییرات کلیدی و بررسی‌های لازم قبل از ارتقا را پوشش می‌دهد. از بازخوردهای شما درباره این راهنما استقبال می‌کنم. آیا قصد دارید ۲۶.۱۰ را امتحان کنید یا روی نسخه ۲۶.۰۴ LTS می‌مانید؟ چه چیزی باعث سوئیچ شما می‌شود؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nارائه یک سیستم‌عامل دسکتاپ و سرور به‌روز که تعادل میان استفاده از آخرین فناوری‌ها (مانند ابزارهای بازنویسی‌شده با Rust) و کارایی را برقرار کند. اوبونتو ۲۶.۱۰ با یکپارچه‌سازی مدیریت بسته‌ها و درایورها، تجربه کاربری روان‌تری را برای توسعه‌دهندگان فراهم می‌سازد.\n\n### معماری و تکنولوژی\nبهره‌گیری از محیط دسکتاپ GNOME ۵۱، مهاجرت کامل ابزارهای پایه (coreutils) به زبان ایمن و پرسرعت Rust، و یکپارچه‌سازی سیستم‌های بسته‌بندی Snap و Debian در مرکز نرم‌افزار جدید.\n\n### مدل درآمدی\nعرضه رایگان سیستم‌عامل به همراه کسب درآمد از طریق ارائه خدمات پشتیبانی سازمانی، سرویس‌های ابری و سفارشی‌سازی سیستم‌عامل برای زیرساخت‌های بزرگ.\n\n### نقاط قوت\n- افزایش سرعت و امنیت به واسطه ابزارهای مبتنی بر Rust\n- یکپارچگی مدیریت درایورها و بسته‌های نرم‌افزاری\n- افزودن قابلیت‌های بومی هوش مصنوعی مانند تبدیل گفتار به متن محلی\n\n### نقاط ضعف\n- پایداری کمتر نسبت به نسخه‌های LTS (مناسب نبودن برای محیط‌های عملیاتی حساس)\n- دوره پشتیبانی کوتاه‌مدت\n\n### نکته طلایی برای ایران\nایجاد یک نسخه بومی‌سازی‌شده همراه با میرورهای داخل کشور و ابزارهای تبدیل گفتار به متن فارسی به صورت محلی، می‌تواند ارزش افزوده‌ای فوق‌العاده برای سازمان‌ها و توسعه‌دهندگان ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "توزیع لینوکس توسعه‌دهندگان ایران (پارسی‌لوکس)",
+        "description": "این محصول یک توزیع شخصی‌سازی‌شده و بومی از لینوکس برای توسعه‌دهندگان و شرکت‌های نرم‌افزاری ایرانی است. مرکز مدیریت نرم‌افزار آن، مخازن بومی و بسته‌های داخلی را یکپارچه کرده و سرعت نصب برنامه‌ها را به شدت افزایش می‌دهد. این سیستم‌عامل با تمرکز بر امنیت، پایداری و بهینه‌سازی برای زیرساخت‌های سرور داخلی طراحی شده است.",
+        "marketOpportunity": "نیاز روزافزون شرکت‌های ایرانی به سیستم‌عامل‌های امن و مستقل منطبق با زیرساخت‌های داخلی، بازار مناسبی ایجاد کرده است. نبود توزیع بومی به‌روز با پشتیبانی فنی منسجم، فرصتی عالی برای رشد این محصول فراهم می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، مهندسان دوآپس، شرکت‌های دانش‌بنیان و مراکز داده داخلی",
+        "challenges": [
+          "تامین هزینه‌های سنگین نگهداری و بروزرسانی مخازن اختصاصی نرم‌افزاری",
+          "جلب اعتماد کاربران و توسعه‌دهندگان برای مهاجرت از توزیع‌های جهانی"
+        ],
+        "monetization": [
+          "ارائه خدمات پشتیبانی فنی تخصصی و سفارشی‌سازی برای سازمان‌ها",
+          "فروش اشتراک ویژه دسترسی به مخازن اختصاصی پرسرعت و ابزارهای حرفه‌ای"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -72478,12 +72997,12 @@
     }
   ],
   "audit": {
-    "products": 727,
-    "withRealComments": 727,
-    "withPersianComments": 663,
-    "withPersianDescription": 663,
-    "withAiReview": 643,
-    "withIranEquivalent": 663,
-    "totalRealComments": 4476
+    "products": 728,
+    "withRealComments": 728,
+    "withPersianComments": 672,
+    "withPersianDescription": 672,
+    "withAiReview": 651,
+    "withIranEquivalent": 672,
+    "totalRealComments": 4480
   }
 }

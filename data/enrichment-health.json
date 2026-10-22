@@ -1,24 +1,20 @@
 {
-  "checkedAt": "2026-10-21T00:52:16.470Z",
-  "latestDataset": "2026-10-21.json",
+  "checkedAt": "2026-10-22T00:54:43.542Z",
+  "latestDataset": "2026-10-22.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 105,
-  "backlogAfter": 100,
-  "completedProducts": 617,
-  "missingFaDescription": 54,
-  "missingFaComments": 82,
-  "missingAiReview": 75,
-  "missingIranEquivalent": 57,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 111,
+  "backlogAfter": 103,
+  "completedProducts": 625,
+  "missingFaDescription": 56,
+  "missingFaComments": 84,
+  "missingAiReview": 78,
+  "missingIranEquivalent": 59,
   "failures": [
     {
-      "slug": "takes-for-mac",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "navige",
+      "slug": "harness-by-autonomous-2",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]

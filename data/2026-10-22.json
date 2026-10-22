@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "scrapedAt": "2026-10-21T23:32:55.118Z",
+  "scrapedAt": "2026-10-22T00:49:59.856Z",
   "periods": {
     "today": [
       {
@@ -29,7 +29,7 @@
         "maker": "Lindia Chen",
         "makerTitle": "I was drunk, but haunted by sobriety.",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 264,
+        "votes": 265,
         "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -91,7 +91,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 229,
+        "votes": 231,
         "websiteUrl": "https://www.producthunt.com/r/LFGJP5O6OXFYLB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -144,7 +144,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 225,
+        "votes": 227,
         "websiteUrl": "https://www.producthunt.com/r/E6AZ74Q5YPL2B5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -208,7 +208,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 174,
+        "votes": 175,
         "websiteUrl": "https://www.producthunt.com/r/XZ6RB34WYUJWIN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -391,6 +391,59 @@
         "id": "ph-today-8",
         "date": "2026-10-21",
         "rank": 8,
+        "name": "The Brains",
+        "slug": "the-brains",
+        "tagline": "Founders and investors as MCP servers, every answer cited",
+        "description": "The Brains turns founders, CEOs and investors into searchable MCP servers built from their public talks, essays, interviews and posts. Ask how Pieter Levels prices, what Paul Graham says about fundraising, or how Ryan Hoover launched Product Hunt, right inside Claude, Cursor, ChatGPT or Codex. Every answer quotes the source with a link. 37 brains today, one URL per brain or one for all. Free, open source (MIT), unofficial and not affiliated with the people.",
+        "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+        "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+        "url": "https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/b0666262-6b13-4e7c-b98f-9f31c7163deb.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/6c6be4f5-b653-4d77-bec6-2a81077adb22.png?auto=format",
+          "https://ph-files.imgix.net/c5cc868f-0a27-4af5-a3c9-6e8f648e7c90.png?auto=format",
+          "https://ph-files.imgix.net/4c184750-e970-4c62-8953-0bf087a6985d.png?auto=format",
+          "https://ph-files.imgix.net/0359bd96-4753-44e0-89fb-7d37bd1dd3bb.png?auto=format",
+          "https://ph-files.imgix.net/d5201ef2-fbde-4c77-8c40-30dd5ba92faf.png?auto=format",
+          "https://ph-files.imgix.net/1dd29e7d-d3dc-4553-81c7-049e921071d7.png?auto=format",
+          "https://ph-files.imgix.net/9628699d-8823-45bc-9794-9c76ec8c4e6f.gif?auto=format"
+        ],
+        "maker": "Victor Giurgiu",
+        "makerTitle": "Gen-z tech geek",
+        "featuredAt": "2026-10-21T07:01:00Z",
+        "votes": 103,
+        "websiteUrl": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "hey Product Hunt, Vic here. i use Claude and Cursor for a lot of my product decisions, and when i asked things like \"how would Pieter Levels price this?\" the answer always sounded confident. but i couldn't tell what he actually said vs what the model made up. so i built The Brains. each founder, CEO or investor is an MCP server built from their public talks, essays, interviews and posts. your AI searches what they actually said, and every answer links back to the source. what's in it today: - 37 brains, including Paul Graham, Pieter Levels, Naval, Lenny Rachitsky, Jason Cohen and yes, Ryan Hoover - one URL per brain, or one connector for all of them - works in Claude, Claude Code, Cursor, ChatGPT, Codex and any MCP client - free and MIT licensed, so you can run it yourself or build your own brain - unofficial and built only from public material. if you're one of the people and want something fixed or removed, just email me would love to know who you want added next and where the answers feel thin. i'm here all day reading every comment."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "What if all public info is self contradictory.. still great launch.. good wishes.."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "great stuff, love it, congrats with the launch and thanks for making it opensource!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Really like that every answer is cited, that's the whole point. How do you handle founders who changed their mind over the years? Paul Graham in 2008 vs 2024 can give two very different answers 😄 And +1 for adding Michael Seibel."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "the source date matters almost as much as the quote heresomeone can change their mind and both answers will still have a valid citation"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Might be the best mcp server idea I saw in a while, imagine having alex west rate your idea or improving it after his model"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-10",
+        "date": "2026-10-21",
+        "rank": 10,
         "name": "NativeShip",
         "slug": "nativeship",
         "tagline": "The easy way to launch your n8n native integration",
@@ -427,55 +480,6 @@
         "id": "ph-today-9",
         "date": "2026-10-21",
         "rank": 9,
-        "name": "The Brains",
-        "slug": "the-brains",
-        "tagline": "Founders and investors as MCP servers, every answer cited",
-        "description": "The Brains turns founders, CEOs and investors into searchable MCP servers built from their public talks, essays, interviews and posts. Ask how Pieter Levels prices, what Paul Graham says about fundraising, or how Ryan Hoover launched Product Hunt, right inside Claude, Cursor, ChatGPT or Codex. Every answer quotes the source with a link. 37 brains today, one URL per brain or one for all. Free, open source (MIT), unofficial and not affiliated with the people.",
-        "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-        "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-        "url": "https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/b0666262-6b13-4e7c-b98f-9f31c7163deb.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/6c6be4f5-b653-4d77-bec6-2a81077adb22.png?auto=format",
-          "https://ph-files.imgix.net/c5cc868f-0a27-4af5-a3c9-6e8f648e7c90.png?auto=format",
-          "https://ph-files.imgix.net/4c184750-e970-4c62-8953-0bf087a6985d.png?auto=format",
-          "https://ph-files.imgix.net/0359bd96-4753-44e0-89fb-7d37bd1dd3bb.png?auto=format",
-          "https://ph-files.imgix.net/d5201ef2-fbde-4c77-8c40-30dd5ba92faf.png?auto=format",
-          "https://ph-files.imgix.net/1dd29e7d-d3dc-4553-81c7-049e921071d7.png?auto=format",
-          "https://ph-files.imgix.net/9628699d-8823-45bc-9794-9c76ec8c4e6f.gif?auto=format"
-        ],
-        "maker": "Victor Giurgiu",
-        "makerTitle": "Gen-z tech geek",
-        "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 101,
-        "websiteUrl": "https://www.producthunt.com/r/CG23RXF55QJIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "hey Product Hunt, Vic here. i use Claude and Cursor for a lot of my product decisions, and when i asked things like \"how would Pieter Levels price this?\" the answer always sounded confident. but i couldn't tell what he actually said vs what the model made up. so i built The Brains. each founder, CEO or investor is an MCP server built from their public talks, essays, interviews and posts. your AI searches what they actually said, and every answer links back to the source. what's in it today: - 37 brains, including Paul Graham, Pieter Levels, Naval, Lenny Rachitsky, Jason Cohen and yes, Ryan Hoover - one URL per brain, or one connector for all of them - works in Claude, Claude Code, Cursor, ChatGPT, Codex and any MCP client - free and MIT licensed, so you can run it yourself or build your own brain - unofficial and built only from public material. if you're one of the people and want something fixed or removed, just email me would love to know who you want added next and where the answers feel thin. i'm here all day reading every comment."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "great stuff, love it, congrats with the launch and thanks for making it opensource!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Really like that every answer is cited, that's the whole point. How do you handle founders who changed their mind over the years? Paul Graham in 2008 vs 2024 can give two very different answers 😄 And +1 for adding Michael Seibel."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the source date matters almost as much as the quote heresomeone can change their mind and both answers will still have a valid citation"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Might be the best mcp server idea I saw in a while, imagine having alex west rate your idea or improving it after his model"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-10",
-        "date": "2026-10-21",
-        "rank": 10,
         "name": "Flagsmith Experiments",
         "slug": "flagsmith-experiments",
         "tagline": "Open-source A/B testing built on your feature flags",
@@ -497,7 +501,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 101,
+        "votes": 102,
         "websiteUrl": "https://www.producthunt.com/r/HG6UZLGHTKARDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -550,7 +554,7 @@
         "maker": "nunomaduro",
         "makerTitle": "Laravel Core Team Member",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 482,
+        "votes": 483,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1056,7 +1060,7 @@
         "maker": "nunomaduro",
         "makerTitle": "Laravel Core Team Member",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 482,
+        "votes": 483,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1236,9 +1240,9 @@
           "https://ph-files.imgix.net/28bda25e-dc2b-4c9e-8c50-99013eca346d.jpeg?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "Co-founder & CEO",
         "featuredAt": "2026-10-16T07:01:00Z",
-        "votes": 355,
+        "votes": 421,
         "websiteUrl": "https://www.producthunt.com/r/H3AVDIX7A2JROL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1273,7 +1277,66 @@
             "user": "[REDACTED]",
             "text": "Congrats @aiden_lee7 and team. Eight launches and still shipping from user feedback is the part I respect most. The social ingestion from YouTube and Reels links is a smart addition; no upload step is exactly the kind of friction people quit on."
           }
-        ]
+        ],
+        "faDescription": "جاکای (Jockey) اولین هوش مصنوعی است که کل کتابخانه رسانه‌ای شما را شامل عکس‌ها و ویدیوها می‌فهمد. این ابزار هزاران ساعت از فیلم‌برداری‌ها را تحلیل می‌کند تا بتوانید افراد، لحظات و زمینه‌های مختلف را در میان ویدیوها پیدا کرده و به هم متصل کنید. می‌توانید از آن در محیط‌های چت مانند Claude یا ChatGPT استفاده کنید یا با استفاده از API و SDK، اپلیکیشن‌های خود را بسازید. همچنین امکان وارد کردن لینک‌های یوتیوب، تیک‌تاک و اینستاگرام ریلز، تبدیل محتوا به فایل‌های MP۴ و ایجاد و اشتراک‌گذاری خروجی‌های ویدیویی با کلیپ‌های قابل پخش وجود دارد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "ما امروز نسخه عمومی (GA) جاکای را راه‌اندازی کردیم و این نسخه بر اساس آنچه در پیش‌نمایش تحقیقاتی آموختیم شکل گرفته است. ما سه نکته را با وضوح شنیدیم: اولاً، کاربران به اتصال‌دهنده‌هایی نیاز داشتند که بهتر کار کنند؛ قوی‌ترین واکنش‌ها از طریق Claude و ChatGPT دریافت شد، بنابراین ما پشتیبانی از ChatGPT را برای نسخه عمومی اولویت‌بندی کردیم و تجربه MCP را بی‌درد کردیم. اگر می‌خواهید از کتابخانه خود پرس‌وجو کنید، رابط چت باید آخرین نقطه اصطکاک باشد، نه اولین. ثانیاً، سازندگان به خروجی‌هایی نیاز داشتند که کنترل کاملی بر آن‌ها داشته باشند. توسعه‌دهندگان گفتند که یک «ویرایش نهایی» جعبه سیاه چیزی نیست که می‌خواهند؛ آن‌ها به کلیپ‌های ساختاریافته، JSON و خروجی‌هایی نیاز داشتند که بتوانند دستکاری کنند. بنابراین ما خروجی‌های پایدار ساختیم که می‌توانند ذخیره، اشتراک‌گذاری، لغو یا حذف شوند و اطمینان حاصل کردیم که API خروجی‌های دارای زمان‌بندی و قابل اجرا را به شما می‌دهد که مالک آن هستید، نه رندری که در آن گیر کرده‌اید. ثالثاً، کاربران به هوش اجتماعی عمیق نیاز داشتند، نه فقط جستجوی پایه ویدیو. تولیدکنندگان محتوا و بازاریاب‌ها مدام از ما می‌پرسیدند: «چرا این ویدیو ترند است؟ چه هوک‌های (قلاب‌های) خاصی توجه را حفظ می‌کنند؟ چه الگوهای مشترکی باعث وایرال شدن این ریلزها می‌شوند؟» ما گوش دادیم و ویژگی‌های هوش اجتماعی ساختیم که هوک‌های ویدیویی را تحلیل می‌کنند، ریتم بصری و صوتی را شکسته‌سازی می‌کنند و توضیح می‌دهند که چه چیزی واقعاً در محتوای ترند جواب می‌دهد. ما همچنین وارد کردن اجتماعی لینک‌های URL از یوتیوب، تیک‌تاک و اینستاگرام ریلز را اضافه کردیم تا کاربران بتوانند بدون نیاز به آپلود ویدیوها، تحلیل کنند چه چیزی در دنیای واقعی کار می‌کند و عملکرد را در کنار محتوا جستجو کنند. این یک روش کاملاً جدید برای شکسته‌سازی عملکرد ویدیوهای وایرال است. درک سطح کتابخانه نقطه کلیدی است. شما جاکای را به سمت هزاران ویدیو و عکس هدایت می‌کنید و آن روی همه آن‌ها استدلال می‌کند، نه فقط روی یکی. به همین دلیل ما آن را اینگونه ساختیم و به همین دلیل هر ارتقای مدل آن را بهتر می‌کند بدون اینکه شما حتی انگشتی تکان دهید. اگر در حال ساخت یک اپلیکیشن ویدیویی هستید، در حال سازماندهی فیلم‌برداری‌ها هستید، یا سعی می‌کنید چیزی را در میان هزاران ساعت محتوا پیدا کنید، جاکای برای شماست. جاکای را امتحان کنید و بازخورد خود را به ما بگویید تا آن را اصلاح کنیم!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "تبریک بابت راه‌اندازی محصول عالی. می‌خواهم بدانم محدودیت‌های پنهان شما و سیاست نگهداری داده‌ها چیست."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "وای، ویدیوهای قابل جستجو؟ من موارد استفاده زیادی برای این ابزار دارم. تبریک بابت راه‌اندازی."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "مدیریت هزاران ساعت ویدیو در رابط‌های چت تحسین‌برانگیز است، اما آیا راه‌اندازی MCP هرگز با گلوگاه‌های پنجره زمینه (Context Window) مواجه می‌شود وقتی یک پرس‌وجو کلیپ‌های نامرتبط زیادی را در یک کتابخانه عظیم در بر می‌گیرد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "ویدیو تنها حوزه‌ای است که احساس می‌کنم هوش مصنوعی هنوز به پتانسیل خود نرسیده است و این ابزار به نظر می‌رسد در این جهت حرکت می‌کند. تبریک بابت راه‌اندازی تیم!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "تبریک به ایدن و تیم TwelveLabs بابت رساندن جاکای به نسخه عمومی. جفت کردن کتابخانه شخصی شما با یک پیکره اجتماعی از ریلزها و تیک‌تاک‌های ترند، بخشی است که می‌خواهم امتحان کنم، زیرا اکثر ابزارهای جستجوی ویدیو فقط آنچه را که شما آپلود کرده‌اید می‌بینند. وقتی جاکای توضیح می‌دهد که چرا یک هوک (قلاب) کار می‌کند، آیا این توضیح بر اساس داده‌های عملکردی از پیکره است یا بر اساس استدلال Pegasus درباره خود کلیپ، و آیا کاربر می‌تواند تشخیص دهد پاسخ از کدام‌یک آمده است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک بابت راه‌اندازی شما! 🚀"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک به @aiden_lee۷ و تیم. هشت راه‌اندازی و هنوز هم از بازخورد کاربران استفاده می‌کنید تا محصول بسازید؛ این بخشی است که بیشترین احترام را برایش دارم. وارد کردن اجتماعی از لینک‌های یوتیوب و ریلز یک افزودنی هوشمندانه است؛ عدم وجود مرحله آپلود دقیقاً همان نوع اصطکاکی است که مردم از آن دست می‌کشند."
+          }
+        ],
+        "aiReview": "مسئله اصلی این است که کاربران و سازمان‌ها با حجم عظیمی از داده‌های ویدیویی دست‌وپنجه نرم می‌کنند که جستجو در آن‌ها با روش‌های سنتی بسیار کند و ناکارآمد است. راه‌حل ارائه‌شده، استفاده از هوش مصنوعی مولد و مدل‌های چندوجهی (Multimodal) برای درک عمیق محتوای ویدیو و عکس است تا جستجو بر اساس مفهوم و زمینه انجام شود. از نظر معماری، این محصول از یک لایه پردازش ویدیو برای استخراج ویژگی‌ها، یک پایگاه داده برداری (Vector DB) برای ذخیره‌سازی و جستجوی سریع، و یک لایه API/SDK برای یکپارچه‌سازی با چت‌بات‌های محبوب مانند ChatGPT استفاده می‌کند. مدل درآمدی ترکیبی از اشتراک‌های B۲B و فروش دسترسی به API برای توسعه‌دهندگان است. نقاط قوت شامل درک سطح کتابخانه (Library-level understanding)، قابلیت اتصال به چت‌بات‌های معروف و تحلیل هوشمند الگوهای وایرال شدن محتواست. نقاط ضعف می‌تواند شامل هزینه بالای محاسباتی برای پردازش ویدیوهای طولانی و وابستگی به زیرساخت‌های ابری خارجی باشد. نکته طلایی برای ایران: تمرکز بر بازار داخلی و ارائه قابلیت‌های تحلیل محتوا برای پلتفرم‌های بومی مانند آپارات و اینستاگرام (با دور زدن محدودیت‌های دسترسی مستقیم) می‌تواند مزیت رقابتی قوی ایجاد کند، به ویژه برای آژانس‌های تبلیغاتی که نیاز به تحلیل سریع عملکرد کمپین‌های ویدیویی دارند.",
+        "iranEquivalent": {
+          "productName": "جستجوگر هوشمند ویدیو (VideoSeek AI)",
+          "description": "یک پلتفرم هوش مصنوعی که کل آرشیو ویدیویی و تصویری کاربران را تحلیل و سازماندهی می‌کند. این ابزار امکان جستجوی عمیق بر اساس محتوا، افراد و لحظات خاص را در میان هزاران ساعت فیلم‌برداری فراهم می‌کند. همچنین قابلیت تحلیل الگوهای ترند و وایرال شدن محتوا در شبکه‌های اجتماعی را دارد.",
+          "marketOpportunity": "بازار تولیدکنندگان محتوا، آژانس‌های تبلیغاتی و شرکت‌های رسانه‌ای در ایران به شدت به ابزارهایی نیاز دارند که بتوانند حجم عظیم داده‌های ویدیویی را مدیریت کنند. با رشد تولید محتوای ویدیویی در اینستاگرام و آپارات، نیاز به ابزارهای هوشمند برای کشف الگوهای موفق و جستجوی سریع در آرشیوها بسیار بالاست.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "تولیدکنندگان محتوای ویدیویی، آژانس‌های دیجیتال مارکتینگ، شرکت‌های تولید فیلم و سریال، و بایگانی‌های سازمانی.",
+          "challenges": [
+            "محدودیت‌های سخت‌افزاری و هزینه بالای پردازش ویدیوهای حجیم در سرورهای داخلی ایران.",
+            "چالش‌های حقوقی و فنی در دسترسی به APIهای شبکه‌های اجتماعی خارجی مانند اینستاگرام و تیک‌تاک برای تحلیل لینک‌ها."
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه برای کاربران سازمانی و تولیدکنندگان حرفه‌ای.",
+            "فروش API و SDK برای توسعه‌دهندگان اپلیکیشن‌های ویدیویی."
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python (FastAPI)",
+            "FFmpeg",
+            "Vector Database (Milvus)"
+          ],
+          "confidence": 70
+        }
       },
       {
         "id": "ph-week-5",
@@ -1476,7 +1539,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-21T07:01:00Z",
-        "votes": 264,
+        "votes": 265,
         "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1550,7 +1613,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-16T07:01:00Z",
-        "votes": 250,
+        "votes": 252,
         "websiteUrl": "https://www.producthunt.com/r/ZPPNXZJWS7FMRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1559,7 +1622,7 @@
           },
           {
             "user": "[REDACTED]",
-            "text": "No use case for this car , where we're we going to ride this ? on the wall , great for a fantasy project but it's just a show off"
+            "text": "Hey how quickly do you actually burn through a set of tires when launching this thing from a light?"
           },
           {
             "user": "[REDACTED]",
@@ -1575,13 +1638,72 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "I love how bold the design is. It really stands out from the usual sports cars."
+          },
+          {
+            "user": "[REDACTED]",
             "text": "It seems almost unreal! Yet here it is - it exists, and you can try it out."
           },
           {
             "user": "[REDACTED]",
             "text": "Congrats to the Tesla team, and thanks Zac for the hunt. Putting suction fans on every trim while reserving full thrusters for the invite-only Rocket makes the lineup unusually tiered. Since the Rocket is not approved for public roads, is the Performance reserve trim meant as the street-legal path in the US, or is even that package aimed at closed-course use first?"
           }
-        ]
+        ],
+        "faDescription": "Roadster می‌تواند در سطوحی عملکرد داشته باشد که هیچ خودروی تولیدی دیگری نمی‌تواند. این خودرو فراتر از Plaid رفته و بُعد جدیدی از رانندگی را باز می‌کند. با به چالش کشیدن مرزهای طراحی، مهندسی و فیزیک، یک وسیله‌ی فوق‌العاده‌الفضایی به‌دقت ساخته شده را ارائه می‌دهد. این خودرو به‌عنوان یک هیپراکارت پروازکننده توصیف می‌شود.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به همه! تسلا قبلاً یک رودستر را در یک موشک قرار داد. حالا یک موشک داخل رودستر است. در نمایش، این خودرو روی دیوار رفت و با فن‌های مکش خود را وارونه نگه داشت، سپس از رمپ خارج شد، در هوا با موتورهای گاز سرد چرخید و روی چرخ‌های خود فرود آمد. بعداً از یک تسلا سیمی عبور کرد. فن‌های مکش در تمام نسخه‌ها موجود است، از جمله نسخه Performance که می‌توانید هم‌اکنون رزرو کنید. رانش با موتورهای عقب ۰‑۶۰ را زیر یک ثانیه می‌کند. فقط نسخه دعوت‌نامه‌ای Rocket تمام مجموعه را دارد و همان است که پرواز می‌کند. این خودرو برای جاده‌های عمومی تأیید نشده. ماسک آن را آخرین تسلا می‌نامد که باید با دست رانده شود و «لزماً خودرویی ایمن نیست»!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "سلام، سرعت سوزاندن یک جفت تایرها هنگام پرتاب این خودرو از یک لایت چقدر است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "راستش یک دموی فوق‌العاده بود که ذهنم را به‌خاطر آورد. اما من طراحی قبلی رودستر تسلا را ترجیح می‌دهم. این مدل جدید شبیه یک لامبورگینی کوچک است اما نه به شکل خوب."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "این خودرو امروز داغ‌ترین موضوع تیم ماست! =D خنک!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "وای، هزینه چقدر است؟ قیمت چقدر است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "من عاشق جسارت طراحی هستم. این خودرو واقعاً از خودروهای اسپرت معمولی متمایز است."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "به‌نظر می‌رسد تقریباً غیرواقعی باشد! اما اینجا هست - وجود دارد و می‌توانید آن را تجربه کنید."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک به تیم تسلا و تشکر از زک برای این جستجو. نصب فن‌های مکش در تمام نسخه‌ها و اختصاص تمام موتورهای پیش‌ران به نسخه دعوت‌نامه‌ای Rocket، سطوح متفاوتی ایجاد کرده است. از آنجا که Rocket برای جاده‌های عمومی تأیید نشده، آیا نسخه رزرو Performance مسیر قانونی برای استفاده در ایالات متحده است یا حتی آن بسته ابتدا برای استفاده در مسیر بسته هدف‌گذاری شده است؟"
+          }
+        ],
+        "iranEquivalent": {
+          "productName": "تسلا رودستر",
+          "description": "تسلا رودستر یک هیپراکارت الکتریکی با قابلیت‌های پروازی است که برای بازار ایران طراحی می‌شود. این خودرو با فن‌های مکش و موتورهای گاز سرد، عملکرد فوق‌العاده‌ای در سرعت و مانور ارائه می‌دهد. هدف ارائه یک تجربه رانندگی آینده‌نگر و جذاب برای علاقه‌مندان به خودروهای لوکس است.",
+          "marketOpportunity": "با رشد علاقه‌مندان به خودروهای الکتریکی و تقاضا برای فناوری‌های پیشرفته در ایران، بازار پتانسیل بالایی برای یک هیپراکارت نوآورانه دارد. همچنین، محدودیت‌های واردات خودروهای لوکس می‌تواند تقاضا برای محصول داخلی را افزایش دهد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "خریداران ثروتمند، علاقه‌مندان به فناوری‌های پیشرفته، و شرکت‌های خدماتی که به دنبال خودروهای پرسرعت و الکتریکی برای نمایش برند هستند.",
+          "challenges": [
+            "تأمین زیرساخت‌های شارژ سریع در شهرهای بزرگ",
+            "مقررات قانونی برای خودروهای پروازی و استفاده در جاده‌های عمومی"
+          ],
+          "monetization": [
+            "فروش مستقیم خودرو با قیمت پریمیوم",
+            "ارائه خدمات اشتراک‌گذاری و تجربه رانندگی در مسیرهای بسته"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL"
+          ],
+          "confidence": 75
+        }
       },
       {
         "id": "ph-week-10",
@@ -1606,7 +1728,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-15T07:01:00Z",
-        "votes": 248,
+        "votes": 251,
         "websiteUrl": "https://www.producthunt.com/r/DWQS7TVW6U7GNA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1641,7 +1763,65 @@
             "user": "[REDACTED]",
             "text": "Why should I put another service between my AI agents and their providers? Isn't that another thing that could break?"
           }
-        ]
+        ],
+        "faDescription": "ناویج از هوش کفایت (Sufficiency Intelligence) برای کاهش هزینه‌های عامل‌های هوش مصنوعی استفاده می‌کند، در حالی که کارها در حال اجرا هستند. این پلتفرم درخواست‌های مناسب را به مدل‌های کوچک‌تر ارسال می‌کند، خوانش‌های تکراری را در حافظه پنهان نگه می‌دارد و نتایج حجیم ابزارها را بهینه می‌سازد. در صورت عدم اطمینان، از مدل انتخابی شما استفاده می‌کند تا کیفیت حفظ شود. شما می‌توانید بودجه‌ها را تنظیم کنید، حلقه‌های بی‌پایان را شناسایی کرده و اقدامات حساس را تأیید کنید. هزینه‌ها و صرفه‌جویی‌ها به تفکیک شغل قابل مشاهده هستند و تخمین‌ها به وضوح برچسب‌گذاری شده‌اند. ماچ‌تاور (Watchtower) برای همیشه رایگان است و تغییرات را پیش از فعال‌سازی کنترل‌ها پیش‌نمایش می‌دهد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام Product Hunt 👋 چرا ناویج را ساختیم؟ بیشتر کارهایی که یک عامل هوش مصنوعی انجام می‌دهد دشوار نیستند - مرتب‌سازی ایمیل، استخراج تاریخ از یک سند، انتخاب گام بعدی. اما اغلب، همه این‌ها روی گران‌ترین مدل اجرا می‌شوند، زیرا همان مدلی است که در کد نوشته شده و کسی برنگشته تا آن را تغییر دهد. سپس فاکتور به صورت یک عدد واحد می‌رسد و کسی نمی‌تواند بگوید کدام عامل چقدر هزینه کرده است. ناویج در برابر فراخوانی‌هایی که از طریق آن مسیریابی می‌شوند قرار می‌گیرد و پیش از اجرا عمل می‌کند، در حالی که هنوز امکان تغییر هزینه وجود دارد. ما به این می‌گوییم هوش کفایت: به هر وظیفه دقیقاً همان هوشی را بده که نیاز دارد. چگونه کار می‌کند؟ هر درخواست را ارزیابی می‌کند و موارد مناسب را به مدل کوچک‌تری ارسال می‌کند. مدل شما سقف است: ناویج فقط فراخوانی‌ها را به پایین می‌برد، هرگز به بالا، و هر زمان که مطمئن نباشد، از مدل شما استفاده می‌کند. اگر مدل کوچک‌تر در فراخوانی ابزار شکست بخورد، فراخوانی روی مدل اصلی شما دوباره اجرا می‌شود و عامل شما فقط آن پاسخ را می‌بیند. هر شغل را ثبت می‌کند: چقدر هزینه کرد، کنترل‌ها چه چیزی را تغییر دادند و چه چیزی تفاوت ایجاد کرد. صرفه‌جویی‌های اندازه‌گیری شده و تخمین‌ها به وضوح جدا شده‌اند. علاوه بر این، بودجه‌بندی به تفکیک تیم و شغل، توقف برای تأیید اقدامات پرخطر، کلید خاموش‌سازی و ردیابی ممیزی دریافت می‌کنید. دو چیزی که عمداً انجام دادیم: ماچ‌تاور نقطه شروع است. ناویج تماشا می‌کند و نشان می‌دهد چه کاری انجام می‌داد، اما تا زمانی که شما نگوئید چیزی را تغییر نمی‌دهد. حساب Anthropic یا AWS Bedrock خود را متصل کنید و فاکتور واقعی خود را کنار اعداد ناویج بگذارید، بنابراین می‌توانید اعداد را بررسی کنید به جای اعتماد به ادعای صرفه‌جویی. قیمت‌گذاری: ماچ‌تاور برای همیشه رایگان است. در طرح‌های پولی، از صرفه‌جویی‌های اندازه‌گیری شده‌ای که ناویج می‌تواند نشان دهد، شما چهار قسمت را نگه می‌دارید و ما یک قسمت را نگه می‌داریم، مشروط به حداقل ۹ دلار در ماه. یک هفته امتحان کنید: عامل‌های خود را یک هفته تماشا کنید. تا زمانی که تصمیم نگیرید، چیزی تغییر نمی‌کند. شک دارید کدام شغل عامل‌های شما روی مدلی بسیار بزرگ‌تر از نیاز اجرا می‌شود؟ 👇"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "هزینه‌های عامل‌های بی‌رویه واقعاً دردسرساز هستند، زاویه هوشمندانه‌ای است 💸 آیا با هر ارائه‌دهنده مدلی کار می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "آیا می‌توانم ماچ‌تاور را به مدت یک ماه اجرا کنم و سپس تصمیم بگیرم که آیا ارتقا دهم یا نه؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "چرا باید از ناویج استفاده کنم به جای اینکه خودم همه عامل‌هایم را به مدل‌های ارزان‌تر تغییر دهم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "آیا باید دسترسی API بدهیم؟ یا آیا این با نسخه‌های رابط کاربری LLMها نیز کار می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "وب‌سایت شما را بررسی کردم و واقعاً مدل قیمت‌گذاری را دوست داشتم. یک کلاس استادانه است. چگونه به این مدل رسیدید؟ از طریق گفتگوها با مشتریان؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک به Soji، Akhil و تیم ناویج به مناسبت راه‌اندازی. قاعده‌ای که یک فراخوانی ابزار شکست‌خورده روی مدل اصلی دوباره اجرا می‌شود، یک شبکه ایمنی معقول است. از آنجا که طرح پولی سهمی از صرفه‌جویی‌های اندازه‌گیری شده است، آیا هزینه آن تلاش ناموفق مدل کوچک از رقم صرفه‌جویی برای آن شغل کسر می‌شود و آیا ماچ‌تاور نشان می‌دهد هر عامل چقدر به آن حالت جایگزین برخورد می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "چرا باید یک سرویس دیگر را بین عامل‌های هوش مصنوعی خود و ارائه‌دهندگان آن‌ها قرار دهم؟ آیا این چیز دیگری نیست که ممکن است خراب شود؟"
+          }
+        ],
+        "aiReview": "مسئله اصلی که این محصول حل می‌کند، هزینه‌های غیرقابل پیش‌بینی و پنهان در استفاده از عامل‌های هوش مصنوعی است. راه‌حل ناویج، اعمال یک لایه هوشمند بین کد کاربر و APIهای مدل‌هاست که با تحلیل پیچیدگی هر درخواست، آن را به مناسب‌ترین مدل (ترجیحاً کوچک‌تر) هدایت می‌کند. از نظر معماری، این سیستم به صورت یک پروکسی هوشمند عمل می‌کند که قابلیت فیلتر کردن، کش کردن و مسیریابی مجدد درخواست‌ها را دارد. مدل درآمدی مبتنی بر «سهم از صرفه‌جویی» بسیار هوشمندانه است زیرا ریسک را به دوش خود می‌گیرد و ارزش را مستقیماً به سود مشتری گره می‌زند. نقاط قوت شامل شفافیت کامل در گزارش‌دهی، وجود حالت مشاهده (Watchtower) برای کاهش ریسک ورودی، و مکانیزم ایمنی برای بازگشت به مدل اصلی در صورت شکست است. نقاط ضعف می‌تواند شامل پیچیدگی فنی در استقرار و نگرانی‌های امنیتی در مورد عبور داده‌ها از یک سرویس میانی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های ارزی و دسترسی به APIهای خارجی، توسعه نسخه‌ای از این محصول که با مدل‌های زبانی داخلی (مانند مدل‌های مبتنی بر Llama یا Qwen که به صورت محلی یا از طریق سرویس‌های داخلی اجرا می‌شوند) کار کند، می‌تواند مزیت رقابتی بزرگی ایجاد کند. همچنین، ارائه گزارش‌دهی به زبان فارسی و پشتیبانی از روش‌های پرداخت داخلی، کلید موفقیت در بازار ایران خواهد بود.",
+        "iranEquivalent": {
+          "productName": "هوش‌مدیر",
+          "description": "هوش‌مدیر پلتفرمی است که با استفاده از هوش کفایت، هزینه‌های مصرفی مدل‌های زبانی بزرگ را بهینه می‌کند. این سیستم به صورت خودکار درخواست‌های ساده را به مدل‌های سبک‌تر و ارزان‌تر هدایت می‌کند و از هدررفت منابع جلوگیری می‌نماید. همچنین قابلیت پایش لحظه‌ای هزینه‌ها و کنترل بودجه‌بندی برای تیم‌های مختلف را فراهم می‌آورد.",
+          "marketOpportunity": "با رشد سریع استفاده از هوش مصنوعی در استارتاپ‌ها و شرکت‌های ایرانی، نگرانی از افزایش هزینه‌های سرور و API بسیار بالاست. وجود یک لایه میانی برای بهینه‌سازی هزینه‌ها می‌تواند بازار بزرگی از شرکت‌های متوسط و بزرگ را هدف قرار دهد.",
+          "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+          "targetAudience": "استارتاپ‌های فنی، شرکت‌های توسعه‌دهنده نرم‌افزار و سازمان‌هایی که از APIهای هوش مصنوعی خارجی یا داخلی استفاده می‌کنند.",
+          "challenges": [
+            "محدودیت‌های دسترسی به APIهای خارجی و نیاز به پشتیبانی از مدل‌های داخلی",
+            "اعتمادسازی کاربران نسبت به قرار دادن یک لایه میانی بین سیستم‌های آن‌ها و ارائه‌دهندگان مدل"
+          ],
+          "monetization": [
+            "مدل اشتراکی ماهانه بر اساس حجم ترافیک",
+            "سهم‌گیری از میزان صرفه‌جویی ایجاد شده (مشابه مدل اصلی)"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Redis",
+            "Docker"
+          ],
+          "confidence": 70
+        }
       }
     ],
     "month": [
@@ -1916,7 +2096,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 482,
+        "votes": 483,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
