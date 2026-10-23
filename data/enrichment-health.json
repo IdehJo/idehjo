@@ -1,20 +1,20 @@
 {
-  "checkedAt": "2026-10-22T00:54:43.542Z",
-  "latestDataset": "2026-10-22.json",
+  "checkedAt": "2026-10-23T00:55:15.580Z",
+  "latestDataset": "2026-10-23.json",
   "batchLimit": 10,
   "attempted": 10,
   "succeeded": 9,
   "failed": 1,
-  "backlogBefore": 111,
-  "backlogAfter": 103,
-  "completedProducts": 625,
-  "missingFaDescription": 56,
-  "missingFaComments": 84,
-  "missingAiReview": 78,
-  "missingIranEquivalent": 59,
+  "backlogBefore": 113,
+  "backlogAfter": 105,
+  "completedProducts": 633,
+  "missingFaDescription": 57,
+  "missingFaComments": 85,
+  "missingAiReview": 80,
+  "missingIranEquivalent": 60,
   "failures": [
     {
-      "slug": "harness-by-autonomous-2",
+      "slug": "nitrostack",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
