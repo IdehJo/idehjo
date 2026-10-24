@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "scrapedAt": "2026-10-23T23:22:34.608Z",
+  "scrapedAt": "2026-10-24T00:57:51.653Z",
   "periods": {
     "today": [
       {
@@ -26,7 +26,7 @@
         "maker": "Mike Kerzhner",
         "makerTitle": "CTO at ProductHunt",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 338,
+        "votes": 351,
         "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -82,7 +82,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 277,
+        "votes": 278,
         "websiteUrl": "https://www.producthunt.com/r/JXYZH5BXNMIBOM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -139,7 +139,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 222,
+        "votes": 229,
         "websiteUrl": "https://www.producthunt.com/r/VX6RX4U6IBXRW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -243,7 +243,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 158,
+        "votes": 164,
         "websiteUrl": "https://www.producthunt.com/r/J2VB5S23Y57R7F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -318,6 +318,36 @@
         "id": "ph-today-7",
         "date": "2026-10-23",
         "rank": 7,
+        "name": "FLUX 3 Max",
+        "slug": "flux-3-max",
+        "tagline": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds",
+        "description": "FLUX 3 Max is fal’s post-trained text-to-video and image-to-video model, built with Black Forest Labs on the FLUX 3 base. fal says it generates a 10-second 720p clip in about 12 seconds, around 10x faster than FLUX 3. It is tied for #1 on a preliminary Artificial Analysis image-to-video board. Pricing is $0.0425 per second of video through November 7 (list $0.17), with a playground and API.",
+        "category": "Artificial Intelligence",
+        "categoryFa": "هوش مصنوعی",
+        "url": "https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/a43de0ca-bbcb-4fcd-a143-1f5089eedb92.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/6bbef86c-ed98-4f44-a379-15ec0574b38e.webp?auto=format",
+          "https://ph-files.imgix.net/06142eae-1506-4c22-8690-bc1e56347ec6.webp?auto=format",
+          "https://ph-files.imgix.net/a30623f6-ca89-42a4-98c2-dc00b07877af.webp?auto=format",
+          "https://ph-files.imgix.net/6f87189b-4479-4c85-9a19-de8562be1c8c.webp?auto=format"
+        ],
+        "maker": "",
+        "makerTitle": "",
+        "featuredAt": "2026-10-23T07:01:00Z",
+        "votes": 123,
+        "websiteUrl": "https://www.producthunt.com/r/H7WZJVJO5LJCXF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "FLUX 3 Max is fal’s post-trained text-to-video and image-to-video model, built with Black Forest Labs on the FLUX 3 base model.Problem: AI video usually asks you to choose. Waiting minutes for a clip slows down iteration, while faster models often give up fidelity, motion coherence or prompt adherence.Solution: fal Research post-trained FLUX 3 for video, with a focus on visual fidelity, motion coherence, prompt adherence and image-to-video quality. Per fal, a 10-second 720p, 16:9 clip takes about 12 seconds to generate.What makes it different: Speed without a big quality drop. fal says it’s about 10x faster than FLUX 3 (12.45 s vs 126.44 s) and about 22x faster than Seedance 2.5 (277.80 s). On Artificial Analysis’s preliminary image-to-video board, it scores 1,139 Elo, tied for #1 with Seedance 2.5, though MiniMax H3 (768p) sits at 1,141 and the board is based on blind human votes. fal highlights faces in close-up, fast-moving subjects and detail retention.Key features:One post-trained model for both text-to-video and image-to-videoA 10-second clip in about 12 seconds720p outputPay per second of video, with no minimums or subscriptionPlayground on fal.ai, plus an API with JavaScript and Python examplesContent generated through the fal.ai API can be used commercially, subject to fal’s termsPricing: $0.0425 per second at 720p during the launch promotion, down from the $0.17 list price. The discount ends November 7.Who it’s for: Creators, studios and developers building video features who want fast iteration without giving up quality.Try it in the playground or through the API docs. There’s also image-to-video and the FLUX 3 Max page."
+          }
+        ]
+      },
+      {
+        "id": "ph-today-8",
+        "date": "2026-10-23",
+        "rank": 8,
         "name": "Cloudflare Clairic",
         "slug": "cloudflare-clairic",
         "tagline": "Cloudflare's AI model for fast, cheap data extraction",
@@ -336,7 +366,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 121,
+        "votes": 122,
         "websiteUrl": "https://www.producthunt.com/r/A6H4RT6E667XWS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -346,39 +376,49 @@
         ]
       },
       {
-        "id": "ph-today-8",
+        "id": "ph-today-9",
         "date": "2026-10-23",
-        "rank": 8,
-        "name": "FLUX 3 Max",
-        "slug": "flux-3-max",
-        "tagline": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds",
-        "description": "FLUX 3 Max is fal’s post-trained text-to-video and image-to-video model, built with Black Forest Labs on the FLUX 3 base. fal says it generates a 10-second 720p clip in about 12 seconds, around 10x faster than FLUX 3. It is tied for #1 on a preliminary Artificial Analysis image-to-video board. Pricing is $0.0425 per second of video through November 7 (list $0.17), with a playground and API.",
-        "category": "Artificial Intelligence",
-        "categoryFa": "هوش مصنوعی",
-        "url": "https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/a43de0ca-bbcb-4fcd-a143-1f5089eedb92.png?auto=format",
+        "rank": 9,
+        "name": "Dub Startup Program",
+        "slug": "dub-startup-program",
+        "tagline": "Launch your partner-led growth program",
+        "description": "Launch your partner program, track every referral, and reward the people helping you grow. Get 50% off your first year of Dub.",
+        "category": "Marketing • SaaS • Affiliate marketing",
+        "categoryFa": "بازاریابی • نرم‌افزار ابری • Affiliate marketing",
+        "url": "https://www.producthunt.com/products/dub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/efc372a6-3b1e-477d-9444-d2e1333dea0d.png?auto=format",
         "screenshots": [
-          "https://ph-files.imgix.net/6bbef86c-ed98-4f44-a379-15ec0574b38e.webp?auto=format",
-          "https://ph-files.imgix.net/06142eae-1506-4c22-8690-bc1e56347ec6.webp?auto=format",
-          "https://ph-files.imgix.net/a30623f6-ca89-42a4-98c2-dc00b07877af.webp?auto=format",
-          "https://ph-files.imgix.net/6f87189b-4479-4c85-9a19-de8562be1c8c.webp?auto=format"
+          "https://ph-files.imgix.net/97560ae7-d1d8-418d-a77e-7211b3712311.jpeg?auto=format",
+          "https://ph-files.imgix.net/072934fb-5846-40e4-80c9-c0e8679f5924.png?auto=format"
         ],
-        "maker": "",
+        "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 118,
-        "websiteUrl": "https://www.producthunt.com/r/H7WZJVJO5LJCXF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "votes": 100,
+        "websiteUrl": "https://www.producthunt.com/r/4BOWHNSPRGHOFP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
-            "text": "FLUX 3 Max is fal’s post-trained text-to-video and image-to-video model, built with Black Forest Labs on the FLUX 3 base model.Problem: AI video usually asks you to choose. Waiting minutes for a clip slows down iteration, while faster models often give up fidelity, motion coherence or prompt adherence.Solution: fal Research post-trained FLUX 3 for video, with a focus on visual fidelity, motion coherence, prompt adherence and image-to-video quality. Per fal, a 10-second 720p, 16:9 clip takes about 12 seconds to generate.What makes it different: Speed without a big quality drop. fal says it’s about 10x faster than FLUX 3 (12.45 s vs 126.44 s) and about 22x faster than Seedance 2.5 (277.80 s). On Artificial Analysis’s preliminary image-to-video board, it scores 1,139 Elo, tied for #1 with Seedance 2.5, though MiniMax H3 (768p) sits at 1,141 and the board is based on blind human votes. fal highlights faces in close-up, fast-moving subjects and detail retention.Key features:One post-trained model for both text-to-video and image-to-videoA 10-second clip in about 12 seconds720p outputPay per second of video, with no minimums or subscriptionPlayground on fal.ai, plus an API with JavaScript and Python examplesContent generated through the fal.ai API can be used commercially, subject to fal’s termsPricing: $0.0425 per second at 720p during the launch promotion, down from the $0.17 list price. The discount ends November 7.Who it’s for: Creators, studios and developers building video features who want fast iteration without giving up quality.Try it in the playground or through the API docs. There’s also image-to-video and the FLUX 3 Max page."
+            "text": "If you're planning to start an affiliate program in 2026, @Dub really is a no brainer. S/O to @steventey and team for the amazing work."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This is pretty cool. Will have it on my mind (and bookmark) so when minimalist phone will be ready, we can log in. :)"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "50% off the first year is nice, but I couldn't find who counts as a startup here. is it by funding stage, team size, or a revenue cap?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Tracking the referral and rewarding the partner in one place makes sense. I can see that helping a small team try a partner program without building its own tracking first."
           }
         ]
       },
       {
-        "id": "ph-today-9",
+        "id": "ph-today-10",
         "date": "2026-10-23",
-        "rank": 9,
+        "rank": 10,
         "name": "Context Engine",
         "slug": "context-engine-3",
         "tagline": "One memory for your AI agents and human team members.",
@@ -420,46 +460,6 @@
           {
             "user": "[REDACTED]",
             "text": "Being able to read the same memory your agents use seems useful. I'd want to see what they saved before the next agent picks up the task."
-          }
-        ]
-      },
-      {
-        "id": "ph-today-10",
-        "date": "2026-10-23",
-        "rank": 10,
-        "name": "Polylane for Cloudflare",
-        "slug": "polylane-for-cloudflare",
-        "tagline": "An AI on-call engineer for your Cloudflare apps",
-        "description": "Polylane catches issues across your Cloudflare apps, follows the connections between Workers, databases, queues and storage, and investigates the root cause using your code, logs and recent changes. When the fix is in your code, it opens a pull request for review. Connect with one read-only Cloudflare token.",
-        "category": "Developer Tools • Artificial Intelligence • Tech",
-        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • Tech",
-        "url": "https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/6d2455c1-035d-4b8d-8f79-acc6b8dd23cf.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/3964d736-8f22-4896-b175-795f4169f053.jpeg?auto=format",
-          "https://ph-files.imgix.net/d72a85ae-8de9-41c9-b55a-a4b36c10bb8c.png?auto=format",
-          "https://ph-files.imgix.net/65825744-6ab5-492e-9ab6-f2900051df03.png?auto=format",
-          "https://ph-files.imgix.net/ccc386f4-dca6-46a5-a9b1-135e55a26ab6.png?auto=format",
-          "https://ph-files.imgix.net/dba0c2f9-69fd-4098-93cf-d83325bb832e.png?auto=format",
-          "https://ph-files.imgix.net/6c0caf15-6198-4058-80c0-86d36fe35ab3.png?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 95,
-        "websiteUrl": "https://www.producthunt.com/r/55GXPDJXGDR2A5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋Polylane is built on Cloudflare. We use Workers, D1, Workflows, Durable Objects, Queues, R2… a lot of Cloudflare.That flexibility is a big part of how we’re able to build Polylane. It also means that when something goes wrong, figuring out why can take some digging. Is it the Worker? The database it talks to? A queue backing up? A Durable Object somewhere in the middle?Polylane for Cloudflare connects those pieces, investigates what’s going wrong, and opens a pull request when the fix is in your code.We use it heavily to build and run Polylane itself. It helps us ship hundreds of PRs a week safely, and we’ve put a lot of work into making it useful for our own team.We hope it’s as useful for you as it is for us. Give it a try, and let us know what you think. We’ll be here answering questions."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I run a couple of Workers and D1 apps, and the incident I worry about most isn't in the code. It's a deploy that ships code expecting a column before the D1 migration that adds it has been applied. Does Polylane compare the Worker's code with the migrations actually applied to the database, and say \"apply migration 0007\" when that's the fix, rather than opening a PR?Also, the single read-only token is the right default for anything that reads production."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "@boristane full circle moment"
           }
         ]
       }
@@ -1159,7 +1159,62 @@
             "user": "[REDACTED]",
             "text": "Yo this is awesome Elie and team!! Keep it up 🚀"
           }
-        ]
+        ],
+        "faDescription": "اینباکس زیرو یک کلاینت ایمیل متن‌باز برای سرویس‌های جیمیل و اوت‌لوک است که مدیریت تمامی حساب‌های شما را در یک صندوق ورودی یکپارچه فراهم می‌کند. این برنامه بسیار سریع، مبتنی بر میان‌برهای کیبورد و کاملاً رایگان است و بر روی وب، مک، Windows و آیفون قابل استفاده می‌باشد. با فعال‌سازی ابزار هوش مصنوعی به مبلغ ۲۰ دلار در ماه، تمامی ایمیل‌های شما به‌طور هوشمند دسته‌بندی شده و پاسخ‌ها پیش از باز کردن پیام، با لحن اختصاصی خودتان پیش‌نویس می‌شوند. همچنین امکان ثبت نظر خصوصی همراه با تیم، دریافت هشدارهای اسلک و دادن بافت دامنه‌ای از سایر ابزارهایتان به هوش مصنوعی در نظر گرفته شده است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام هانترها 👋 من از عرضه Inbox Zero Mail، یک جایگزین متن‌باز برای سوپرهومن بسیار هیجان‌زده‌ام. من ۳ سال است که Inbox Zero را مدیریت می‌کنم؛ این پروژه به عنوان یک دستیار هوش مصنوعی برای جیمیل و اوت‌لوک شروع شد و به ۱۲ هزار ستاره گیت‌هاب و بیش از ۲۵ هزار ثبت‌نام، از جمله مشتریان سازمانی رسید. حالا ما کلاینت ایمیل اختصاصی خودمان را ساخته‌ایم. این محصول متن‌باز است، بنابراین می‌توانید آن را روی سرور شخصی خود میزبانی کنید یا ویژگی مورد علاقه‌تان را توسعه دهید. ⚡ سریع و مبتنی بر کیبورد 📥 تمام حساب‌های جیمیل و اوت‌لوک در یک صندوق ورودی 🗂️ اینباکس مجزا ✍️ پیش‌نویس‌های هوش مصنوعی با لحن شما 🧹 لغو اشتراک دسته‌جمعی 💬 نظرات تیمی 📱 وب، مک، Windows و آیفون. استفاده رایگان است و هوش مصنوعی ۲۰ دلار در ماه هزینه دارد. 🎁 کد PRODUCTHUNT۲۶ شامل ۵۰٪ تخفیف هوش مصنوعی به مدت ۳ ماه است. 🧹 امروز امتحانش کنید: https://www.getinboxzero.com ⭐️ به ما در گیت‌هاب ستاره بدهید: https://www.getinboxzero.com/github دوست دارید چه ویژگی دیگری به یک برنامه ایمیل متن‌باز اضافه شود؟"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "این کاملاً فوق‌العاده به نظر می‌رسد. موج اخیر ابزارهای هوش مصنوعی برای مدیریت جیمیل درخشان است و جدلاً باعث شده در مورد ایمیل آیکلود همیشگی‌ام تجدید نظر کنم و به سمت جیمیل بروم. من عاشق رابط کاربری روان و تمیزی هستم که توسعه داده‌اید."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "این عالی است! اما حافظه عضلانی من با جیمیل آن‌قدر قوی است که سوئیچ به یک برنامه ایمیل دیگر مثل یک تلاش بسیار بزرگ به نظر می‌رسد. به عنوان کسی که سال‌هاست از جیمیل استفاده می‌کند، چه نکته یکتایی را پیشنهاد می‌کنید امتحان کنم که باعث شود بخواهم تغییر مسیر دهم؟ برای مدت‌ها، من حتی سوپرهومن را هم امتحان نکردم چون نمی‌توانستم پرداخت آن همه هزینه را برای کاری که جیمیل مجانی انجام می‌دهد توجیه کنم 😅"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "@elie۲۲۲ محصول Inbox Zero راهکاری عالی برای سازمان‌دهی ایمیل‌ها و صرفه‌جویی در زمان به نظر می‌رسد. اینکه متن‌باز است و از هوش مصنوعی برای مرتب‌سازی ایمیل‌ها و پیش‌نویس پاسخ‌ها استفاده می‌کند را بسیار دوست دارم!!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "من برای امتحان کردن این ابزار هیجان‌زده‌ام! تا اینجا که همه‌چیز عالی بوده است. فقط یک نکته: من تصادفاً پیام را به عنوان اسپم علامت‌گذاری کردم و خارج کردنش از حالت اسپم بسیار سخت بود (در نهایت جیمیل را باز کردم تا آن را از اسپم خارج کنم). غیر از این، واقعاً جذاب بوده است."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "انتشار این محصول را تبریک می‌گویم ایلی! کار عالی بود 👏"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "واو این عالی است ایلی و تیم!! همین‌طور ادامه دهید 🚀"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: شلوغی صندوق ورودی و اتلاف وقت برای پاسخ‌دهی به ایمیل‌ها، یک چالش عمومی برای مدیران و متخصصان است. Inbox Zero با ارائه یک کلاینت متن‌باز، سریع و مبتنی بر کیبورد همراه با دستیار هوش مصنوعی برای نگارش پیش‌نویس با لحن خود کاربر، این مشکل را برطرف می‌سازد.\nمعماری و تکنولوژی: متن‌باز بودن پروژه باعث جذب جامعه توسعه‌دهندگان برای توسعه پلاگین‌ها شده است. استفاده از فرانت‌اند مدرن و یکپارچگی با سرویس‌های هوش مصنوعی، انعطاف‌پذیری بالایی را فراهم می‌کند.\nمدل درآمدی: مدل Freemium که نرم‌افزار پایه را رایگان ارائه داده و برای قابلیت‌های هوش مصنوعی ۲ setup در ماه دریافت می‌کند.\nنقاط قوت: رابط کاربری سریع، پشتیبانی از چند حساب، متن‌باز بودن و قابلیت یادگیری لحن کاربر.\nنقاط ضعف: وابستگی شدید کاربران به عادت‌های جیمیل و وجود باگ‌های جزئی در تجربه کاربری.\nنکته طلایی برای ایران: ارائه نسخه‌ای بومی‌سازی‌شده که علاوه بر سرویس‌های خارجی، از ایمیل‌های سازمانی ایرانی نیز پشتیبانی کرده و هوش مصنوعی آن مسلط به ادبیات اداری و تعارفات فارسی باشد، می‌تواند بازار بکری در میان سازمان‌ها و شرکت‌های ایرانی ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "صندوق صفر (ZeroInbox Iran)",
+          "description": "این سامانه یک کلاینت مدیریت ایمیل بومی‌سازی‌شده و متن‌باز برای سازمان‌ها و فریلنسرهای ایرانی است. این ابزار با پشتیبانی از حساب‌های جیمیل، اوت‌لوک و سرورهای ایمیل سازمانی داخلی، تمام پیام‌ها را در یک صندوق یکپارچه جمع‌آوری می‌کند. هوش مصنوعی داخلی آن به نگارش هوشمند پاسخ‌های رسمی و اداری به زبان فارسی کمک می‌کند.",
+          "marketOpportunity": "نیاز روزافزون مدیران و کسب‌وکارهای ایرانی به مدیریت متمرکز ایمیل‌ها و اتوماسیون پاسخ‌دهی، یک فرصت بازار بکر ایجاد کرده است. همچنین به دلیل حساسیت‌های امنیتی سازمان‌ها، ارائه نسخه متن‌باز با قابلیت میزبانی در سرورهای داخلی جذابیت فوق‌العاده‌ای دارد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "مدیران ارشد، توسعه‌دهندگان، فریلنسرها، شرکت‌های فناوری و تیم‌های پشتیبانی و فروش سازمان‌ها",
+          "challenges": [
+            "محدودیت‌های دسترسی به API سرویس‌های خارجی و چالش‌های همگام‌سازی سریع",
+            "پیچیدگی پردازش زبان فارسی و نگارش متن‌های رسمی و اداری توسط مدل‌های هوش مصنوعی"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه برای ابزار هوش مصنوعی نگارش و دسته‌بندی متن",
+            "ارائه خدمات نصب، سفارشی‌سازی و پشتیبانی اختصاصی به سازمان‌ها و شرکت‌های بزرگ"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Electron",
+            "TailwindCSS",
+            "Node.js"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-week-3",
@@ -1226,8 +1281,64 @@
       },
       {
         "id": "ph-week-4",
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "rank": 4,
+        "name": "Product Hunt Visual Launch Editor",
+        "slug": "product-hunt-visual-launch-editor",
+        "tagline": "See your launch as you build it",
+        "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
+        "category": "Product Hunt • Maker Tools • Community",
+        "categoryFa": "Product Hunt • Maker Tools • Community",
+        "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
+          "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
+          "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
+          "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
+          "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
+          "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-10-23T07:01:00Z",
+        "votes": 351,
+        "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Love the new upgrades, definitely much better to be able to preview changes live."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I am looking forward to give it a try when I realease my new tool :)"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats, I tested it, the design is great, and the AI auto filling is accurate. Here is my feedback:I believe that videos are an important part of a Launch this make it feel secondary:Important: I can't understand the difference between category and tags, I put the same things.Company info is a bit confusing (the last one): Everything in the list act like a progress bar in the form of a checkbox, you fill the form and it works. Company info is not: you need to click on it from the checkbox to fill it.To finish my launch, I'm missing an image, but I want to keep it saved and come back to finish it later. I believe it's auto saved but it wasn't clear for me"
+          }
+        ]
+      },
+      {
+        "id": "ph-week-5",
+        "date": "2026-10-22",
+        "rank": 5,
         "name": "DeepCell",
         "slug": "deepcell",
         "tagline": "Your deadline survival kit for office work",
@@ -1283,62 +1394,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on the launch! How out-of-the-box it is?"
-          }
-        ]
-      },
-      {
-        "id": "ph-week-5",
-        "date": "2026-10-23",
-        "rank": 5,
-        "name": "Product Hunt Visual Launch Editor",
-        "slug": "product-hunt-visual-launch-editor",
-        "tagline": "See your launch as you build it",
-        "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
-        "category": "Product Hunt • Maker Tools • Community",
-        "categoryFa": "Product Hunt • Maker Tools • Community",
-        "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
-          "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
-          "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
-          "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
-          "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
-          "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 338,
-        "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Love the new upgrades, definitely much better to be able to preview changes live."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I am looking forward to give it a try when I realease my new tool :)"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats, I tested it, the design is great, and the AI auto filling is accurate. Here is my feedback:I believe that videos are an important part of a Launch this make it feel secondary:Important: I can't understand the difference between category and tags, I put the same things.Company info is a bit confusing (the last one): Everything in the list act like a progress bar in the form of a checkbox, you fill the form and it works. Company info is not: you need to click on it from the checkbox to fill it.To finish my launch, I'm missing an image, but I want to keep it saved and come back to finish it later. I believe it's auto saved but it wasn't clear for me"
           }
         ]
       },

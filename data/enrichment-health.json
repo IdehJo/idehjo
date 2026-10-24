@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-10-23T00:55:15.580Z",
-  "latestDataset": "2026-10-23.json",
+  "checkedAt": "2026-10-24T01:03:19.198Z",
+  "latestDataset": "2026-10-24.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 113,
-  "backlogAfter": 105,
-  "completedProducts": 633,
-  "missingFaDescription": 57,
-  "missingFaComments": 85,
-  "missingAiReview": 80,
-  "missingIranEquivalent": 60,
-  "failures": [
-    {
-      "slug": "nitrostack",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    }
-  ]
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 116,
+  "backlogAfter": 106,
+  "completedProducts": 643,
+  "missingFaDescription": 58,
+  "missingFaComments": 86,
+  "missingAiReview": 81,
+  "missingIranEquivalent": 61,
+  "failures": []
 }
