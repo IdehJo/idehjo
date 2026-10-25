@@ -1,11 +1,17 @@
 {
   "status": "success",
-  "lastAttemptAt": "2026-10-25T00:27:12.442Z",
-  "lastSuccessAt": "2026-10-25T00:27:36.337Z",
+  "lastAttemptAt": "2026-10-25T22:44:38.613Z",
+  "lastSuccessAt": "2026-10-25T22:45:03.062Z",
   "lastFailureAt": "2026-09-28T01:02:59.774Z",
   "lastFailureReason": null,
   "consecutiveFailures": 0,
   "recentRuns": [
+    {
+      "status": "success",
+      "startedAt": "2026-10-25T22:44:38.613Z",
+      "finishedAt": "2026-10-25T22:45:03.062Z",
+      "error": null
+    },
     {
       "status": "success",
       "startedAt": "2026-10-25T00:27:12.442Z",
@@ -118,12 +124,6 @@
       "status": "success",
       "startedAt": "2026-10-16T00:36:16.339Z",
       "finishedAt": "2026-10-16T00:36:41.887Z",
-      "error": null
-    },
-    {
-      "status": "success",
-      "startedAt": "2026-10-15T23:12:17.742Z",
-      "finishedAt": "2026-10-15T23:12:38.422Z",
       "error": null
     }
   ]
