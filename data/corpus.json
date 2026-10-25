@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:40:43.508Z",
+  "generatedAt": "2026-10-25T00:32:57.415Z",
   "sourceFiles": 76,
   "products": [
     {
@@ -5106,9 +5106,9 @@
       }
     },
     {
-      "id": "ph-month-6",
+      "id": "ph-month-7",
       "date": "2026-10-06",
-      "rank": 6,
+      "rank": 7,
       "name": "Rill Browser",
       "slug": "rill-browser",
       "tagline": "The browser where Claude Code and Codex work beside you",
@@ -7721,9 +7721,9 @@
       "aiReview": "مسئله اصلی: پیچیدگی زیرساختی بالا برای اجرای ایجنت‌های هوش مصنوعی در مقیاس تولید، شامل مدیریت ساندباکس‌ها، به‌روزرسانی نسخه‌ها، ماندگاری وضعیت و اتصال به کانال‌های متنوع. راه‌حل: AgentSky یک سرویس مدیریت‌شده (Managed Agent as a Service) ارائه می‌دهد که با یک کلیک یا دستور CLI، ایجنت‌ها را در ساندباکس‌های ابری اختصاصی با قابلیت بازیابی خودکار و حافظه پایدار اجرا می‌کند. معماری و تکنولوژی: این پلتفرم از طریق یک پروتکل یکپارچه، هارنس‌های مختلف (مانند Claude Code، Codex، Hermes و OpenClaw) را با مدل‌های LLM متنوع ترکیب می‌کند. ویژگی کلیدی، حفظ زمینه (Context) و حافظه ایجنت در سراسر کانال‌های مختلف (واتساپ، تلگرام، اسلک، وب و API) است که نیاز به توسعه مجدد برای هر کانال را حذف می‌کند. مدل درآمدی: مدل مصرفی (Pay-as-you-go) با امکان پارک رایگان ایجنت‌ها؛ هزینه فقط زمانی محاسبه می‌شود که ایجنت به‌طور فعال در حال پردازش باشد. نقاط قوت: ۱. حذف اصطکاک فنی در راه‌اندازی ایجنت‌ها. ۲. انعطاف‌پذیری در انتخاب مدل و هارنس بدون قفل شدن (Vendor Lock-in). ۳. یکپارچگی چندکاناله که تجربه کاربری یکپارچه‌ای ایجاد می‌کند. ۴. اثبات شده در محیط واقعی با بیش از ۱۰,۰۰۰ جلسه. نقاط ضعف: ۱. نیاز به اعتمادسازی بیشتر از طریق ارائه نمونه‌های واقعی و شفافیت در مورد لاگ‌های ممیزی و امنیت داده‌ها در کانال‌های مختلف. ۲. وابستگی به کیفیت خروجی مدل‌های پایه که ممکن است نوسان داشته باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی مستقیم به برخی سرویس‌های ابری و مدل‌های خارجی، AgentSky می‌تواند به عنوان یک لایه واسط (Middleware) برای توسعه‌دهندگان ایرانی عمل کند که نیاز به ایجنت‌های هوشمند دارند اما زیرساخت ابری داخلی کافی ندارند. همچنین، قابلیت اتصال به تلگرام (که در ایران بسیار پرکاربرد است) می‌تواند مزیت رقابتی بزرگی برای جذب کاربران و توسعه‌دهندگان ایرانی باشد، به شرطی که راهکارهای پرداخت و دسترسی امن به API‌های خارجی فراهم شود."
     },
     {
-      "id": "ph-month-7",
+      "id": "ph-month-6",
       "date": "2026-10-07",
-      "rank": 7,
+      "rank": 6,
       "name": "Velozity",
       "slug": "velozity-3",
       "tagline": "The Multiplayer AI Office where your team and agents work",
@@ -14047,7 +14047,67 @@
           "user": "[REDACTED]",
           "text": "Great app but it won't run on an Intel Mac - bummer. This would have been a great app to breathe life into an old Intel Mac Pro."
         }
-      ]
+      ],
+      "faDescription": "بیم یک ابزار کاربردی برای مدیریت و اجرای ایجنت‌های هوش مصنوعی و فرآیندهای سنگین روی مک‌های مجزا است. با استفاده از این برنامه می‌توانید ایجنت‌ها و ساخت‌های نرم‌افزاری خود را روی یک مک مینی یا مک استودیو در حال اجرا نگه دارید. بیم پنجره‌های ترمینال، مرورگر و سایر برنامه‌های آن دستگاه را مستقیماً به مک اصلی شما منتقل می‌کند تا هر برنامه پنجره، آیکون داک و میانبر ⌘Tab اختصاصی خود را داشته باشد. تمامی ارتباطات بین دستگاه‌های شما به صورت رمزنگاری‌شده انجام می‌شود و امکان امتحان رایگان آن نیز وجود دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت، هیتن هستم. چیدمان کاری من کمی عجیب شده است. چند مک دارم که ایجنت‌ها و مدل‌های محلی را اجرا می‌کنند و حتی وقتی کسی پشت آن‌ها نیست به کارشان ادامه می‌دهند. گاهی فقط می‌خواهم یک ترمینال را چک کنم، مرورگری باز کنم یا از یک برنامه در یکی از آن دستگاه‌ها استفاده کنم. دسترسی به آن‌ها معمولاً به معنای باز کردن Screen Sharing و پیمایش در یک دسکتاپ دوم کامل است. من و سام روی بیم کار کرده‌ایم تا این کار را آسان‌تر کنیم. با بیم، شما یک پنجره را روی مک دیگر انتخاب می‌کنید و آن پنجره در کنار برنامه‌های مکی که استفاده می‌کنید باز می‌شود. این پنجره آیکون داک اختصاصی و جایی در ⌘Tab دریافت می‌کند. می‌توانید در آن تایپ کنید و اندازه آن را مانند یک پنجره معمولی تغییر دهید. همچنین می‌توانید فایل‌ها را بین مک‌ها جابه‌جا کنید و صدای برنامه را بشنوید، در حالی که خود برنامه روی دستگاه اصلی در حال اجرا باقی می‌ماند. وقتی یک پنجره کافی نیست، بیم به شما امکان می‌دهد کل صفحه یا کل مک را باز کنید. من به‌ویژه درباره استفاده از بیم با مک مینی‌ها و مک استودیوهای بدون مانیتور هیجان‌زده هستم. آن‌ها می‌توانند به اجرای ایجنت‌ها و سایر کارها ادامه دهند در حالی که من از برنامه‌هایشان از هر مکی که پشت آن نشسته‌ام استفاده می‌کنم. بیم روی مک‌های با تراشه اپل سیلیکون و سیستم‌عامل سونوما یا بالاتر کار می‌کند. می‌توانید از طریق شبکه محلی یا تیل‌اسکل با اتصالات رمزنگاری‌شده مستقیم بین مک‌ها متصل شوید. این ابزار اکنون در دسترس است و هر روز به مدت ۲۰ دقیقه تست رایگان دارد. آن را از Beam.win دانلود کنید. چند هفته پیش در X از مردم خواستم چیدمان‌های چندمکی عجیب خود را نشان دهند که بیش از ۱۰۰ پاسخ دریافت کرد. یک چیزی که من را مجذوب خود کرده، مکی است که هیچ کس پشت آن نمی‌نشیند. اگر شما هم یکی دارید، هنوز برای چه کاری نیاز به باز کردن Screen Sharing دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "داشتن آیکون‌های داک مجزا برای پنجره‌های ریموت ویژگی بسیار جذابی است، حتماً این را روی مک مینی خودم امتحان خواهم کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بسیار جالب به نظر می‌رسد، اما قیمت اشتراک ماهانه و قیمت لایسنس مادام‌العمر آن من را منصرف کرد. من در سال ۲۰۲۳ برای نرم‌افزار Screens حدود ۷۵ دلار پرداخت کردم که اکنون به ۱۹۹ دلار رسیده است! حداقل Screens توسط شرکتی ساخته شده که ۱۶ سال قدمت دارد و احتمال زیادی وجود دارد که ۱۰ سال دیگر هم پشتیبانی شود. با یک شرکت جدید، سخت است بدانیم آیا لایسنس مادام‌العمر یک سال دیگر ارزش خواهد داشت یا خیر. به نظر من اگر به عنوان یک سازنده ابزار جدید به دنبال جذب کاربران جدید و ایجاد گام‌های اولیه هستید، قیمت‌گذاری هم‌سطح با رقیب اصلی یک اشتباه است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "برنامه بیم فوق‌العاده است؛ من در کارهای روزمره‌ام برای مدیریت ناوگان مک‌هایم از آن استفاده می‌کنم. اشتراک‌گذاری صفحه نمایش (Screen Sharing) دردسر بزرگی است، اما بیم همه چیز را بی‌نهایت آسان‌تر می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "کار عالی بود، آیا برنامه‌ای برای عرضه این ابزار روی گوشی‌های هوشمند هم دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تست رایگان دارد و یک مشکل واقعی در جریان کاری را حل می‌کند. قطعاً ابزار جذابی برای کاربران مک است."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "محصول عالی به نظر می‌رسد، اما سایت هیچ محتوای مرتبط با امنیت، اطلاعاتی درباره شرکت یا افراد پشت پروژه ندارد. با توجه به سطح امنیتی که این ابزار نیاز دارد، این موضوع برای من و احتمالاً بسیاری دیگر یک خط قرمز است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "برنامه فوق‌العاده‌ای است اما روی مک‌های اینتل اجرا نمی‌شود که جای تأسف دارد. این می‌توانست ابزار عالی برای روح بخشیدن دوباره به یک مک پرو قدیمی اینتلی باشد."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبا ظهور ایجنت‌های هوش مصنوعی و مدل‌های زبانی محلی، بسیاری از متخصصان از یک سیستم ثانویه (مانند Mac mini) برای پردازش‌های سنگین استفاده می‌کنند. روش‌های سنتی مانند Screen Sharing کل دسکتاپ را منتقل می‌کنند که کند و غیرارگونومیک است. Beam با ارائه مفهوم Seamless Window Streaming، تنها پنجره برنامه مورد نظر را همراه با آیکون داک و میانبر ⌘Tab به سیستم اصلی منتقل می‌کند.\n\n### معماری و تکنولوژی\nاین ابزار از قابلیت‌های بومی macOS Sonoma و تراشه‌های Apple Silicon برای رمزگذاری و انتقال سریع ویدیو و صدا استفاده می‌کند. ارتباطات آن بر پایه پروتکل‌های P۲P و یکپارچه‌سازی با Tailscale برای اتصال امن از طریق اینترنت طراحی شده است.\n\n### مدل درآمدی\nاستراتژی Freemium (۲۰ دقیقه تست رایگان در روز) در کنار فروش اشتراک ماهانه و لایسنس مادام‌العمر. بازخورد کاربران نشان می‌دهد که قیمت‌گذاری بالا برای یک استارتاپ نوپا نقطه ضعف محسوب می‌شود.\n\n### نقاط قوت\n۱. تجربه کاربری (UX) بی‌نظیر با ادغام کامل در سیستم‌عامل (Dock و ⌘Tab).\n۲. امکان انتقال صدا و فایل به‌صورت مستقیم.\n۳. حل یک مشکل واقعی در جریان کاری (Workflow) توسعه‌دهندگان.\n\n### نقاط ضعف\n۱. عدم پشتیبانی از سیستم‌های قدیمی‌تر اینتل.\n۲. نبود اطلاعات شفاف درباره امنیت و هویت سازندگان در وب‌سایت.\n۳. استراتژی قیمت‌گذاری تهاجمی نسبت به رقبای قدیمی مانند Screens.\n\n### نکته طلایی برای ایران\nدر ایران به دلیل محدودیت‌های تحریم و هزینه‌های بالای منابع ابری (Cloud)، توسعه‌دهندگان تمایل زیادی به ساخت سرورهای خانگی و استفاده از سیستم‌های ثانویه دارند. توسعه نسخه بومی/چندپلتفرمی این ابزار (با پشتیبانی از لینوکس و ویندوز) و ارائه مدل قیمت‌گذاری ریالی معقول، می‌تواند سهم بازار فوق‌العاده‌ای در میان شرکت‌های نرم‌افزاری و توسعه‌دهندگان ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "پرتو مک (BeamMac)",
+        "description": "پرتو مک یک پلتفرم بومی برای مدیریت یکپارچه و استریم مجزای پنجره‌های نرم‌افزاری میان چند سیستم‌عامل است. این سامانه به توسعه‌دهندگان اجازه می‌دهد پردازش‌های سنگین و ایجنت‌های هوش مصنوعی را روی سرورها یا مک‌های ثانویه اجرا کرده و خروجی آن‌ها را به‌صورت پنجره‌های مستقل روی سیستم اصلی خود مدیریت کنند. با این ابزار، نیاز به استفاده از ریموت دسکتاپ‌های کند و سنگین در شبکه‌های محلی از بین می‌رود.",
+        "marketOpportunity": "با رشد روزافزون استفاده از مدل‌های محلی هوش مصنوعی و نیاز به پردازش‌های سنگین بین برنامه‌نویسان ایرانی، استفاده از چندین سیستم مجزا رواج یافته است. ارائه یک ابزار بومی با قیمت‌گذاری مناسب که مدیریت این سیستم‌ها را آسان کند، پاسخگوی یک نیاز واقعی در جامعه فناوری ایران خواهد بود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، برنامه‌نویسان ارشد، طراحان گرافیک و مدیران سیستم که از چند دستگاه به صورت هم‌زمان استفاده می‌کنند.",
+        "challenges": [
+          "پیچیدگی‌های فنی در استریم کم‌تاخیر تصویر و صدا با پروتکل‌های P۲P",
+          "جلب اعتماد کاربران در حوزه امنیت و رمزنگاری داده‌های دسترسی ریموت"
+        ],
+        "monetization": [
+          "فروش لایسنس سالانه و مادام‌العمر برای کاربران حقیقی",
+          "ارائه اشتراک سازمانی B۲B برای تیم‌های فنی به همراه پنل مدیریت دسترسی‌ها"
+        ],
+        "techStack": [
+          "Swift",
+          "Rust",
+          "WebRTC",
+          "Tailscale API",
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-week-6",
@@ -23909,7 +23969,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-10-23T07:01:00Z",
-      "votes": 294,
+      "votes": 295,
       "websiteUrl": "https://www.producthunt.com/r/JXYZH5BXNMIBOM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -28141,6 +28201,55 @@
     },
     {
       "id": "ph-yesterday-3",
+      "date": "2026-10-23",
+      "rank": 3,
+      "name": "Agent Hunt",
+      "slug": "agent-hunt",
+      "tagline": "Live rankings of the tools AI agents use most",
+      "description": "Agent Hunt is a live leaderboard of the tools AI agents actually use. Every place is earned by real calls agents make through Monid.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/cb2e9241-d99c-442e-8834-4538179830dd.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7fb51944-90bc-4a7d-8f7e-aad102e79bfb.jpeg?auto=format",
+        "https://ph-files.imgix.net/5fd01a00-4562-4440-abba-498b6b6e3d0e.png?auto=format",
+        "https://ph-files.imgix.net/2a1f942d-9af1-404a-b785-bbd4cef14009.png?auto=format",
+        "https://ph-files.imgix.net/0d790e87-3ff0-4da7-8ebb-54c47cbf5f72.png?auto=format",
+        "https://ph-files.imgix.net/00af11ed-28cf-477b-b2b1-bccabbafc48b.png?auto=format",
+        "https://ph-files.imgix.net/91d1bd43-9a4b-4df7-b15a-a81c869cae2a.png?auto=format",
+        "https://ph-files.imgix.net/93811283-f8d4-4f15-9258-7fa2ae2aec89.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-23T07:01:00Z",
+      "votes": 267,
+      "websiteUrl": "https://www.producthunt.com/r/VX6RX4U6IBXRW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH 👋 I'm Jasper, Head of Growth at Monid.Today we're launching Agent Hunt: Product Hunt for agents.It is a live leaderboard of the tools AI agents actually use. Every place is earned by real calls agents make through Monid, refreshed daily.What you can see on the board:• Most used tools by agents• Most called endpoints by agents• Fastest growing tools among agentsSee who's on top today: monid.ai/rankingsWhich tool do you think agents will push up next week?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cool idea, it could be really useful. How is the catalog being increased? can people apply to be listed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The fastest-growing list is the one I’d check first. Could be a good place to find useful APIs I wouldn’t otherwise hear about. Good luck today!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Wow, so many tools I’ve never heard of! Exciting to discover all these new things! 👀 I know it would be tricky to measure, but I’d also love to see a ranking based on how useful these tools actually are once you start using them. Otherwise, Taro might build a super inconvenient tool that takes 10 API calls to do one simple task… and accidentally end up at #1 😂 Really cool project!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The endpoint view is the interesting bit for me. A tool can be popular because of one useful endpoint, and that detail gets lost in a product-level ranking."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-3",
       "date": "2026-10-13",
       "rank": 3,
       "name": "Fina Business",
@@ -28470,55 +28579,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-3",
-      "date": "2026-10-23",
-      "rank": 3,
-      "name": "Agent Hunt",
-      "slug": "agent-hunt",
-      "tagline": "Live rankings of the tools AI agents use most",
-      "description": "Agent Hunt is a live leaderboard of the tools AI agents actually use. Every place is earned by real calls agents make through Monid.",
-      "category": "Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/cb2e9241-d99c-442e-8834-4538179830dd.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7fb51944-90bc-4a7d-8f7e-aad102e79bfb.jpeg?auto=format",
-        "https://ph-files.imgix.net/5fd01a00-4562-4440-abba-498b6b6e3d0e.png?auto=format",
-        "https://ph-files.imgix.net/2a1f942d-9af1-404a-b785-bbd4cef14009.png?auto=format",
-        "https://ph-files.imgix.net/0d790e87-3ff0-4da7-8ebb-54c47cbf5f72.png?auto=format",
-        "https://ph-files.imgix.net/00af11ed-28cf-477b-b2b1-bccabbafc48b.png?auto=format",
-        "https://ph-files.imgix.net/91d1bd43-9a4b-4df7-b15a-a81c869cae2a.png?auto=format",
-        "https://ph-files.imgix.net/93811283-f8d4-4f15-9258-7fa2ae2aec89.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-23T07:01:00Z",
-      "votes": 264,
-      "websiteUrl": "https://www.producthunt.com/r/VX6RX4U6IBXRW6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH 👋 I'm Jasper, Head of Growth at Monid.Today we're launching Agent Hunt: Product Hunt for agents.It is a live leaderboard of the tools AI agents actually use. Every place is earned by real calls agents make through Monid, refreshed daily.What you can see on the board:• Most used tools by agents• Most called endpoints by agents• Fastest growing tools among agentsSee who's on top today: monid.ai/rankingsWhich tool do you think agents will push up next week?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Cool idea, it could be really useful. How is the catalog being increased? can people apply to be listed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The fastest-growing list is the one I’d check first. Could be a good place to find useful APIs I wouldn’t otherwise hear about. Good luck today!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Wow, so many tools I’ve never heard of! Exciting to discover all these new things! 👀 I know it would be tricky to measure, but I’d also love to see a ranking based on how useful these tools actually are once you start using them. Otherwise, Taro might build a super inconvenient tool that takes 10 API calls to do one simple task… and accidentally end up at #1 😂 Really cool project!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The endpoint view is the interesting bit for me. A tool can be popular because of one useful endpoint, and that detail gets lost in a product-level ranking."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -29726,6 +29786,65 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-24",
+      "rank": 1,
+      "name": "zCAD AI",
+      "slug": "zcad-ai",
+      "tagline": "AI 3D that creates real parts, not just shapes",
+      "description": "zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool",
+      "category": "Design Tools • SaaS • 3D Modeling",
+      "categoryFa": "ابزار طراحی • نرم‌افزار ابری • 3D Modeling",
+      "url": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/403bf260-a186-4e77-a6b8-9f9f9a8eb757.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format",
+        "https://ph-files.imgix.net/c55184f6-4eae-4864-b120-43909d9c93da.jpeg?auto=format",
+        "https://ph-files.imgix.net/395aaaae-a967-4615-b3e8-b5469ea48753.jpeg?auto=format",
+        "https://ph-files.imgix.net/6c690977-6fe7-49fa-ba4c-f1972bfa0738.png?auto=format",
+        "https://ph-files.imgix.net/0cc762ac-9d32-4459-9dfd-12f9850407e6.png?auto=format"
+      ],
+      "maker": "Qi An",
+      "makerTitle": "built 10+ apps; living in the moment",
+      "featuredAt": "2026-10-24T07:01:00Z",
+      "votes": 252,
+      "websiteUrl": "https://www.producthunt.com/r/VPIBBXXNICLFJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, I'm Elle, and I work on product and go-to-market for zCAD. The question we kept coming back to: where is this model going to live? If it lives in a game, a render or a virtual world, a mesh is the right answer, and AI 3D tools already do it well. If it has to work in the physical world, fit another part, take a screw, get printed or machined, it needs CAD: real dimensions, solid geometry, parts that mate. zCAD. AI generates that from a prompt, and exports STEP into the tool you already use.On the product side, a few choices are deliberate. Even the free plan exports STEP, because a part you can't take into your own tools isn't really yours. We turn down figurine requests, because sculpted, organic shapes are what mesh does best, even when you print them. And it doesn't make engineering calls for you. Tolerances and materials stay with you. On the go-to-market side, I'll be honest: we're still learning who needs this most. Makers who 3D print, indie hardware designers, engineers who live in CAD all day? That's a big part of why we're here. Try it on something that has to work in the real world, and tell us who you are and where it breaks."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Most AI 3D tools make visuals; this one seems built for downstream engineering workflows. Curious about its export compatibility with STEP and native CAD formats"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This so much makes me want to build physical things"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can you make them also rigged with physical for Isaac Sim? Would be great for us robotics folks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The focus on actual usable parts instead of just nice-looking 3D models is pretty interesting. Curious how well it handles more complex designs and real-world constraints."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! 🎉 Love the focus on editable CAD. If I resize one part in an assembly, can zCAD automatically adjust the connected parts so everything still fits?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "keeping dimensions and mates editable is the part that makes this useful beyond a nice renderstep export on the free plan also means u can check the fit in the cad tool u already use"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Very cool! This is the future of manufacturing! Quick question. How do you compare to competitors in this space? Whats your differentiator?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-9",
       "date": "2026-10-16",
       "rank": 9,
@@ -30366,65 +30485,6 @@
         "confidence": 75
       },
       "aiReview": "مسئله و راه‌حل:\nایجنت‌های هوش مصنوعی (AI Agents) به‌سرعت در حال ورود به فرایندهای خودکارسازی تولید محتوا و بازاریابی هستند، اما ترجمه متون حساس (مانند تبلیغات، به‌روزرسانی‌های اپلیکیشن و ایمیل مارکتینگ) توسط هوش مصنوعی همچنان نیازمند بازبینی انسانی است تا آماده انتشار باشد. نیترو ۴.۰ با حل اصطکاک‌های احراز هویت و پرداخت، پلتفرمی ایجاد کرده که ایجنت‌های هوش مصنوعی می‌توانند بدون داشتن حساب کاربری یا API Key و به صورت کاملاً خودکار (M۲M)، سفارش ترجمه انسانی ثبت کرده و هزینه آن را پرداخت نمایند.\n\nمعماری و تکنولوژی:\nاین محصول بر پایه پروتکل پرداخت‌های ماشینی (MPP - Machine Payments Protocol) معماری شده است. ایجنت هوش مصنوعی متون کوتاه را ارسال کرده، تراکنش ریال/دلار را بر بستر MPP انجام می‌دهد و متن برای مترجمان نیتیو انسانی ارسال می‌شود. پاسخ نهایی در کمتر از چند ساعت و با حفظ فرمت‌های فنی (مانند JSON یا HTML) به ایجنت بازگردانده می‌شود.\n\nمدل درآمدی:\nمدل مالی کاملاً مبتنی بر پرداخت به ازای مصرف (Pay-Per-Request) است. عدم وجود هزینه اشتراک، حداقل سفارش یا قراردادهای ماهانه آژانسی، نرخ تبدیل و جذب ایجنت‌ها را به حداکثر می‌رساند.\n\nنقاط قوت:\n۱. پیشگام در ارائه خدمات انسانی به ایجنت‌های هوش مصنوعی (Agent-native service).\n۲. حذف کامل اصطکاک ثبت‌نام و مدیریت API Key برای ایجنت‌ها.\n۳. پوشش بیش از ۸۰ زبان با کیفیت بالای مترجمان نیتیو.\n\nنقاط ضعف و چالش‌ها:\n۱. ریسک بالای گیر افتادن ایجنت در حلقه‌های خطای متوالی (Retry Loops) و تحمیل هزینه‌های غیرمنتظره به صاحب کارت در صورت نبود سقف بودجه (Budget Cap).\n۲. بهبود مستمر مدل‌های LLM که ممکن است نیاز به ترجمه انسانی متون عمومی را در آینده کاهش دهد.\n\nنکته طلایی برای ایران:\nتوسعه‌دهندگان استارتاپی در ایران که در حال ساخت ایجنت‌های هوش مصنوعی برای بازارهای بین‌المللی (مانند کشورهای حوزه خلیج فارس یا اروپا) هستند، می‌توانند از مدل نیترو الگوبرداری کنند. ایجاد زیرساخت‌های M۲M مبتنی بر کریپتو یا پروتکل‌های پرداخت ماشینی برای وصل کردن ایجنت‌ها به فریلنسرهای متخصص ایرانی (جهت بازبینی محتوا، ترجمه یا پشتیبانی)، یک فرصت بکر برای درآمدزایی ارزی و صادرات خدمات تخصصی به زیرساخت‌های هوش مصنوعی در جهان است."
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-24",
-      "rank": 1,
-      "name": "zCAD AI",
-      "slug": "zcad-ai",
-      "tagline": "AI 3D that creates real parts, not just shapes",
-      "description": "zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool",
-      "category": "Design Tools • SaaS • 3D Modeling",
-      "categoryFa": "ابزار طراحی • نرم‌افزار ابری • 3D Modeling",
-      "url": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/403bf260-a186-4e77-a6b8-9f9f9a8eb757.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format",
-        "https://ph-files.imgix.net/c55184f6-4eae-4864-b120-43909d9c93da.jpeg?auto=format",
-        "https://ph-files.imgix.net/395aaaae-a967-4615-b3e8-b5469ea48753.jpeg?auto=format",
-        "https://ph-files.imgix.net/6c690977-6fe7-49fa-ba4c-f1972bfa0738.png?auto=format",
-        "https://ph-files.imgix.net/0cc762ac-9d32-4459-9dfd-12f9850407e6.png?auto=format"
-      ],
-      "maker": "Qi An",
-      "makerTitle": "built 10+ apps; living in the moment",
-      "featuredAt": "2026-10-24T07:01:00Z",
-      "votes": 247,
-      "websiteUrl": "https://www.producthunt.com/r/VPIBBXXNICLFJA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, I'm Elle, and I work on product and go-to-market for zCAD. The question we kept coming back to: where is this model going to live? If it lives in a game, a render or a virtual world, a mesh is the right answer, and AI 3D tools already do it well. If it has to work in the physical world, fit another part, take a screw, get printed or machined, it needs CAD: real dimensions, solid geometry, parts that mate. zCAD. AI generates that from a prompt, and exports STEP into the tool you already use.On the product side, a few choices are deliberate. Even the free plan exports STEP, because a part you can't take into your own tools isn't really yours. We turn down figurine requests, because sculpted, organic shapes are what mesh does best, even when you print them. And it doesn't make engineering calls for you. Tolerances and materials stay with you. On the go-to-market side, I'll be honest: we're still learning who needs this most. Makers who 3D print, indie hardware designers, engineers who live in CAD all day? That's a big part of why we're here. Try it on something that has to work in the real world, and tell us who you are and where it breaks."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Most AI 3D tools make visuals; this one seems built for downstream engineering workflows. Curious about its export compatibility with STEP and native CAD formats"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This so much makes me want to build physical things"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can you make them also rigged with physical for Isaac Sim? Would be great for us robotics folks"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The focus on actual usable parts instead of just nice-looking 3D models is pretty interesting. Curious how well it handles more complex designs and real-world constraints."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! 🎉 Love the focus on editable CAD. If I resize one part in an assembly, can zCAD automatically adjust the connected parts so everything still fits?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "keeping dimensions and mates editable is the part that makes this useful beyond a nice renderstep export on the free plan also means u can check the fit in the cad tool u already use"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Very cool! This is the future of manufacturing! Quick question. How do you compare to competitors in this space? Whats your differentiator?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -34412,6 +34472,59 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-24",
+      "rank": 2,
+      "name": "myPip",
+      "slug": "mypip-2",
+      "tagline": "Vibe code, publish, and monetize games with AI",
+      "description": "MyPip turns your game ideas into playable games you can publish and monetize. Describe what you want to build, and AI brings it to life directly in your browser, no coding required. Create multiplayer experiences, add in-app purchases and ads, and take your games beyond the browser to reach more players. From your first idea to publishing and monetization, MyPip gives anyone the tools to become a game creator.",
+      "category": "Developer Tools • Games • Vibe coding",
+      "categoryFa": "ابزار توسعه‌دهندگان • بازی • Vibe coding",
+      "url": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9c1a698d-fc18-4fd5-9ae2-a434934ec6be.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a6020b7b-60fd-481f-b8f4-9a7d1a4c84e4.png?auto=format",
+        "https://ph-files.imgix.net/0f1bc0ca-766f-4642-b918-46df9a649e28.png?auto=format",
+        "https://ph-files.imgix.net/669284d6-6ab8-4658-b5f1-deb7a632da0b.png?auto=format",
+        "https://ph-files.imgix.net/fec2b8cf-63c9-4224-a183-c71176243144.png?auto=format",
+        "https://ph-files.imgix.net/73803a24-828c-4c36-9eb7-96de9bb06664.png?auto=format",
+        "https://ph-files.imgix.net/b90b7866-215e-4476-810d-387523ff91d4.png?auto=format",
+        "https://ph-files.imgix.net/26e9267d-1470-43a6-8395-76966c844462.png?auto=format",
+        "https://ph-files.imgix.net/3a93a72f-4429-471f-b2bf-b457da6baabd.png?auto=format",
+        "https://ph-files.imgix.net/89900889-21b9-4d96-967b-61e1afb3c4ac.png?auto=format",
+        "https://ph-files.imgix.net/a6af6c72-7f44-4715-af10-3a4c4779eac3.png?auto=format",
+        "https://ph-files.imgix.net/f794edd4-be36-4425-b7fd-86aba8427b67.gif?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-24T07:01:00Z",
+      "votes": 215,
+      "websiteUrl": "https://www.producthunt.com/r/EHF3WCHUMHPPQ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋I'm Misha, cofounder and CEO of myPip, vibe coding for video games.Most of us grew up with a game idea in our heads that never got made. Game engines are powerful, but they're intimidating, and \"learn C# first\" kills most ideas before they start. We built myPip so anyone can describe a game in plain English and be playing it minutes later.What you can do with myPip:🎮 Vibe code a game. Describe it, play it, mod it by just saying what you want changed.🐝 Hive coding. This is the one we're most excited about. It's multiplayer game creation: you and your friends build the same game together in real time. One person adds a boss, another rewrites the physics, someone else is already playtesting.👾 Multiplayer built in. Games you make can be played with friends, no netcode required.🕹️ Controller connect. Plug in a PS5, Xbox, or Wii controller and your game feels like a real console game.🤳 Scan yourself in. Put yourself (or your friends) into the game as a character.🤖 MCP server. Build myPip games straight from your favorite AI chatbot.More than 140,000 people have already made games on myPip, and watching what they come up with has been the best part of building this.Try it at mypip.dev. I'll be here all weekend, so tell me what you build, what breaks, and what you want next. And if you start a hive coding lobby, send me the link. I'd love to jump in. 🐝"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice, how different it is from developing the game through claude code/codex?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is such a cute idea, I once tried using GPT astra to build a mini game where Mario catches butterflies in a forest, but I could only interact with a keyboard & mouse. Being able to connect a game controller would be really useful！"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@misha_stastna Nice Launch! Hive coding sounds like chaos in the best possible way."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This sounds exciting, quick question, is there any age restriction for the players to use the games? Example if someone creates an educational games which can used by kids for studying?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-2",
       "date": "2026-10-18",
       "rank": 2,
@@ -34782,59 +34895,6 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-24",
-      "rank": 2,
-      "name": "myPip",
-      "slug": "mypip-2",
-      "tagline": "Vibe code, publish, and monetize games with AI",
-      "description": "MyPip turns your game ideas into playable games you can publish and monetize. Describe what you want to build, and AI brings it to life directly in your browser, no coding required. Create multiplayer experiences, add in-app purchases and ads, and take your games beyond the browser to reach more players. From your first idea to publishing and monetization, MyPip gives anyone the tools to become a game creator.",
-      "category": "Developer Tools • Games • Vibe coding",
-      "categoryFa": "ابزار توسعه‌دهندگان • بازی • Vibe coding",
-      "url": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9c1a698d-fc18-4fd5-9ae2-a434934ec6be.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/a6020b7b-60fd-481f-b8f4-9a7d1a4c84e4.png?auto=format",
-        "https://ph-files.imgix.net/0f1bc0ca-766f-4642-b918-46df9a649e28.png?auto=format",
-        "https://ph-files.imgix.net/669284d6-6ab8-4658-b5f1-deb7a632da0b.png?auto=format",
-        "https://ph-files.imgix.net/fec2b8cf-63c9-4224-a183-c71176243144.png?auto=format",
-        "https://ph-files.imgix.net/73803a24-828c-4c36-9eb7-96de9bb06664.png?auto=format",
-        "https://ph-files.imgix.net/b90b7866-215e-4476-810d-387523ff91d4.png?auto=format",
-        "https://ph-files.imgix.net/26e9267d-1470-43a6-8395-76966c844462.png?auto=format",
-        "https://ph-files.imgix.net/3a93a72f-4429-471f-b2bf-b457da6baabd.png?auto=format",
-        "https://ph-files.imgix.net/89900889-21b9-4d96-967b-61e1afb3c4ac.png?auto=format",
-        "https://ph-files.imgix.net/a6af6c72-7f44-4715-af10-3a4c4779eac3.png?auto=format",
-        "https://ph-files.imgix.net/f794edd4-be36-4425-b7fd-86aba8427b67.gif?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-24T07:01:00Z",
-      "votes": 213,
-      "websiteUrl": "https://www.producthunt.com/r/EHF3WCHUMHPPQ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋I'm Misha, cofounder and CEO of myPip, vibe coding for video games.Most of us grew up with a game idea in our heads that never got made. Game engines are powerful, but they're intimidating, and \"learn C# first\" kills most ideas before they start. We built myPip so anyone can describe a game in plain English and be playing it minutes later.What you can do with myPip:🎮 Vibe code a game. Describe it, play it, mod it by just saying what you want changed.🐝 Hive coding. This is the one we're most excited about. It's multiplayer game creation: you and your friends build the same game together in real time. One person adds a boss, another rewrites the physics, someone else is already playtesting.👾 Multiplayer built in. Games you make can be played with friends, no netcode required.🕹️ Controller connect. Plug in a PS5, Xbox, or Wii controller and your game feels like a real console game.🤳 Scan yourself in. Put yourself (or your friends) into the game as a character.🤖 MCP server. Build myPip games straight from your favorite AI chatbot.More than 140,000 people have already made games on myPip, and watching what they come up with has been the best part of building this.Try it at mypip.dev. I'll be here all weekend, so tell me what you build, what breaks, and what you want next. And if you start a hive coding lobby, send me the link. I'd love to jump in. 🐝"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice, how different it is from developing the game through claude code/codex?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is such a cute idea, I once tried using GPT astra to build a mini game where Mario catches butterflies in a forest, but I could only interact with a keyboard & mouse. Being able to connect a game controller would be really useful！"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@misha_stastna Nice Launch! Hive coding sounds like chaos in the best possible way."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This sounds exciting, quick question, is there any age restriction for the players to use the games? Example if someone creates an educational games which can used by kids for studying?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-5",
       "date": "2026-10-22",
       "rank": 5,
@@ -35161,7 +35221,45 @@
           "user": "[REDACTED]",
           "text": "I like the idea of having the context live right on the Figma canvas. It feels like a simple solution to a problem teams deal with all the time. Great launch!"
         }
-      ]
+      ],
+      "faDescription": "Figma Specs یک سند مارک‌داون همکاری‌محور است که می‌تواند به صورت مستقل یا در کنار طرح‌های طراحی شما در بوم Figma قرار گیرد. شما می‌توانید فریم‌های Figma و نمودارهای FigJam را در آن جاسازی کنید و با همکاران و عوامل هوش مصنوعی از طریق کامنت‌ها کار کنید. این ابزار امکان انتقال کامل زمینه (Context) به عوامل کدنویسی از طریق پروتکل MCP را فراهم می‌کند. این رویکرد باعث می‌شود مستندات فنی و طراحی در یک نقطه واحد و قابل ویرایش مشترک باقی بمانند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! Figma در واقع از Specs برای ساخت Specs استفاده کرد. یکی از مهندسان آن موارد حاشیه‌ای را مستند کرد، نمودارهای FigJam را جاسازی نمود و سند همراه با کامنت‌های همکارانش را به یک عامل کدنویسی سپرد. در طول پیشرفت توسعه، او از MCP برای به‌روزرسانی سند اصلی استفاده کرد. اکنون می‌توانید یک فایل .md را روی بوم Figma رها کنید، فریم‌ها یا نمودارهای واقعی را جاسازی کنید و آن‌ها را برای ویرایش بیرون بکشید. همکاران و عامل Figma می‌توانند با هم از طریق کامنت‌ها کار کنند. لینک سند را از طریق Figma MCP به Codex بفرستید تا مارک‌داون و زمینه طراحی مرتبط را دریافت کند. البته Figma راهی پیدا کرد تا فایل‌های .md را قابل کشیدن و رها کردن (Drag & Drop) کند!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "فقط نیاز دارم بدانم که آیا امکان دارد چندین عضو تیم و عوامل هوش مصنوعی روی همان اسپکس‌ها (مستندات) همکاری کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من ایده اینکه زمینه (Context) دقیقاً روی بوم Figma زندگی کند را دوست دارم. این حس را می‌دهد که یک راه‌حل ساده برای مشکلی است که تیم‌ها همیشه با آن دست‌وپنجه نرم می‌کنند. راه‌اندازی عالی!"
+        }
+      ],
+      "aiReview": "مسئله اصلی در فرآیند توسعه نرم‌افزار، گسست بین مستندات فنی و فایل‌های طراحی است که منجر به خطا و اتلاف وقت می‌شود. راه‌حل ارائه‌شده، قرار دادن مستندات مارک‌داون مستقیماً روی بوم طراحی و اتصال آن به عوامل هوش مصنوعی از طریق MCP است. از نظر معماری، این محصول نیازمند یک لایه میانی قدرتمند برای مدیریت وضعیت (State Management) اسناد و همگام‌سازی لحظه‌ای بین کاربران و هوش مصنوعی است. مدل درآمدی بر پایه اشتراک سازمانی تمرکز دارد که برای استارتاپ‌های در حال رشد جذاب است. نقاط قوت شامل یکپارچگی عمیق با اکوسیستم طراحی و استفاده از پروتکل‌های استاندارد هوش مصنوعی است. نقاط ضعف می‌تواند وابستگی به زیرساخت‌های خارجی و پیچیدگی فنی در پیاده‌سازی همگام‌سازی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به ابزارهای خارجی، توسعه یک نسخه بومی که با ابزارهای طراحی داخلی یا حتی فایل‌های PDF/FIG مستقیم کار کند، می‌تواند یک مزیت رقابتی بزرگ ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "اسپک‌فایگما",
+        "description": "اسپک‌فایگما یک پلتفرم بومی برای مدیریت مستندات فنی و طراحی است که مستقیماً با ابزارهای طراحی رایج در ایران یکپارچه می‌شود. این محصول امکان ایجاد اسناد مارک‌داون تعاملی را فراهم می‌کند که می‌توانند در کنار فایل‌های طراحی قرار گیرند و با ابزارهای هوش مصنوعی کدنویسی ارتباط برقرار کنند. هدف اصلی، کاهش شکاف بین طراحی و توسعه و ایجاد یک منبع واحد برای حقیقت (Single Source of Truth) در تیم‌های محصول است.",
+        "marketOpportunity": "بازار استارتاپ‌ها و آژانس‌های دیجیتال مارکتینگ در ایران به شدت به ابزارهایی نیاز دارد که فرآیند تبدیل طرح به کد را تسریع کنند. با رشد استفاده از هوش مصنوعی در توسعه نرم‌افزار، نیاز به ابزارهایی که زمینه طراحی را به درستی به مدل‌های زبانی منتقل کنند، بسیار بالاست.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تیم‌های محصول، طراحان UI/UX، توسعه‌دهندگان فرانت‌اند و مدیران فنی در استارتاپ‌ها و شرکت‌های فناوری اطلاعات.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای رسمی Figma و FigJam برای توسعه‌دهندگان ایرانی به دلیل تحریم‌ها و مشکلات پرداخت.",
+          "مقاومت در برابر تغییر فرآیندها و نیاز به آموزش کاربران برای پذیرش مفهوم مستندسازی زنده روی بوم طراحی."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس تعداد کاربران فعال در هر سازمان.",
+          "فروش لایسنس سازمانی (Enterprise) با امکانات پیشرفته مدیریت دسترسی و گزارش‌گیری."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "WebSocket"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -36470,6 +36568,57 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-24",
+      "rank": 3,
+      "name": "1Password for Agents",
+      "slug": "1password-for-agents",
+      "tagline": "Let AI agents sign in for you without seeing your passwords",
+      "description": "1Password for Agents lets supported AI agents sign in to your accounts without ever seeing your passwords. When an agent hits a login, it asks 1Password. You approve or deny on your own device, and 1Password fills the password or one-time code directly. Connecting an agent doesn’t open your whole vault. Included in Individual and Family plans, with Meta Muse and Grok Bot rolling out and a waitlist.",
+      "category": "Artificial Intelligence",
+      "categoryFa": "هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6aa4f1ca-12c9-4f65-93e1-b32bfefde948.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/1c235f64-ca2f-4279-8d33-60588cd62e2c.webp?auto=format",
+        "https://ph-files.imgix.net/6fefb330-ee62-4ef2-ab45-6ebd2dc331ec.webp?auto=format",
+        "https://ph-files.imgix.net/76e91f72-1d45-46fe-b987-52f75ceaa206.webp?auto=format",
+        "https://ph-files.imgix.net/d9dee883-4513-4a0b-9672-7b067ad7cdea.webp?auto=format",
+        "https://ph-files.imgix.net/7540cf4d-a42d-4e0c-936e-844b1ae92459.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-24T07:01:00Z",
+      "votes": 203,
+      "websiteUrl": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "1Password for Agents lets supported AI agents sign in to your accounts without ever seeing your passwords.Problem: Personal AI agents increasingly need to log in to sites and apps to get things done, like completing a purchase or working in your accounts. The easy way is to hand over your passwords, which is risky, since you can’t control what the agent does with them.Solution: When an agent reaches a login screen, it asks 1Password for the credential. You approve or deny the request in 1Password, and 1Password fills in the password or one-time code directly. The agent only sees that access was granted.What makes it different: The agent never receives your credentials, and approval happens on your own device. Per 1Password, the agent proves its identity with a unique digital key, and connecting an agent doesn’t give it access to your whole vault, which stays end-to-end encrypted. If several saved logins match, you choose which one gets used.Key features:Agentic Autofill: a supported agent signs in through a browser without handling the passwordApprove or deny each access request in 1PasswordNew account details can be saved to your vaultConnect one or several supported agentsRolling out with Meta Muse and Grok Bot, with another integration in the worksIncluded in all Individual and Family plansWho it’s for: People who use personal AI agents and want them to handle logins without giving up their passwords."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This sounds great and innovative, what happens when browser autofill does not work for a particular login page, does the agent then copy and paste password without still seeing the password?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks very interesting, especially after recent security issues and concerns with AI agents, good to see a safer way to keep using AI agents!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that the agent only learns access was granted and never touches the password, approving on your own device is a smart way to keep humans in control."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! This solves a real worry: giving an agent your password always felt like handing over your house keys. Love that approval happens on my own device.One question: can I set rules, like “always allow this agent for this site” vs. “ask me every time”? For daily tasks, approving every login could get tiring."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "fingers crossed for today, approving each login in 1Password beats pasting a password into an agent. if I don't tap in time, does the agent wait or skip it?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-04",
       "rank": 4,
@@ -37122,57 +37271,6 @@
       }
     },
     {
-      "id": "ph-today-3",
-      "date": "2026-10-24",
-      "rank": 3,
-      "name": "1Password for Agents",
-      "slug": "1password-for-agents",
-      "tagline": "Let AI agents sign in for you without seeing your passwords",
-      "description": "1Password for Agents lets supported AI agents sign in to your accounts without ever seeing your passwords. When an agent hits a login, it asks 1Password. You approve or deny on your own device, and 1Password fills the password or one-time code directly. Connecting an agent doesn’t open your whole vault. Included in Individual and Family plans, with Meta Muse and Grok Bot rolling out and a waitlist.",
-      "category": "Artificial Intelligence",
-      "categoryFa": "هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/6aa4f1ca-12c9-4f65-93e1-b32bfefde948.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/1c235f64-ca2f-4279-8d33-60588cd62e2c.webp?auto=format",
-        "https://ph-files.imgix.net/6fefb330-ee62-4ef2-ab45-6ebd2dc331ec.webp?auto=format",
-        "https://ph-files.imgix.net/76e91f72-1d45-46fe-b987-52f75ceaa206.webp?auto=format",
-        "https://ph-files.imgix.net/d9dee883-4513-4a0b-9672-7b067ad7cdea.webp?auto=format",
-        "https://ph-files.imgix.net/7540cf4d-a42d-4e0c-936e-844b1ae92459.jpeg?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-24T07:01:00Z",
-      "votes": 200,
-      "websiteUrl": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "1Password for Agents lets supported AI agents sign in to your accounts without ever seeing your passwords.Problem: Personal AI agents increasingly need to log in to sites and apps to get things done, like completing a purchase or working in your accounts. The easy way is to hand over your passwords, which is risky, since you can’t control what the agent does with them.Solution: When an agent reaches a login screen, it asks 1Password for the credential. You approve or deny the request in 1Password, and 1Password fills in the password or one-time code directly. The agent only sees that access was granted.What makes it different: The agent never receives your credentials, and approval happens on your own device. Per 1Password, the agent proves its identity with a unique digital key, and connecting an agent doesn’t give it access to your whole vault, which stays end-to-end encrypted. If several saved logins match, you choose which one gets used.Key features:Agentic Autofill: a supported agent signs in through a browser without handling the passwordApprove or deny each access request in 1PasswordNew account details can be saved to your vaultConnect one or several supported agentsRolling out with Meta Muse and Grok Bot, with another integration in the worksIncluded in all Individual and Family plansWho it’s for: People who use personal AI agents and want them to handle logins without giving up their passwords."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This sounds great and innovative, what happens when browser autofill does not work for a particular login page, does the agent then copy and paste password without still seeing the password?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks very interesting, especially after recent security issues and concerns with AI agents, good to see a safer way to keep using AI agents!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that the agent only learns access was granted and never touches the password, approving on your own device is a smart way to keep humans in control."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! This solves a real worry: giving an agent your password always felt like handing over your house keys. Love that approval happens on my own device.One question: can I set rules, like “always allow this agent for this site” vs. “ask me every time”? For daily tasks, approving every login could get tiring."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "fingers crossed for today, approving each login in 1Password beats pasting a password into an agent. if I don't tap in time, does the agent wait or skip it?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-5",
       "date": "2026-10-13",
       "rank": 5,
@@ -37724,6 +37822,66 @@
       }
     },
     {
+      "id": "ph-yesterday-4",
+      "date": "2026-10-23",
+      "rank": 4,
+      "name": "Ovren Live Preview",
+      "slug": "ovren-live-preview",
+      "tagline": "See your product change live before it ships",
+      "description": "Describe a change in plain words. Ovren writes the code on a safe copy of your project and gives you a live preview of every frontend change — your real page, with the change on it. Click through it, approve it, and your team merges the pull request.",
+      "category": "Developer Tools • Artificial Intelligence • No-Code",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
+      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f48d70b2-7862-45f1-b6e0-b74cb9e001b0.x-icon?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4608a2ed-db7f-4c71-a72c-e630937fee3d.jpeg?auto=format",
+        "https://ph-files.imgix.net/db7c7fae-ae64-4dff-a4af-d8ab9657d5b1.png?auto=format",
+        "https://ph-files.imgix.net/2aec8786-5daa-4ba2-b14f-6b87efaa7fea.png?auto=format",
+        "https://ph-files.imgix.net/b7251c05-12d8-4210-890b-834a2f134633.png?auto=format",
+        "https://ph-files.imgix.net/79e70f84-1251-426d-b17b-463de97775c3.png?auto=format",
+        "https://ph-files.imgix.net/3409b7ce-4c20-455e-9708-84c5298647fc.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-23T07:01:00Z",
+      "votes": 196,
+      "websiteUrl": "https://www.producthunt.com/r/GZYWZ6Z6BGE5RV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Back in April we launched Ovren here — you describe a coding task in plain words, and it comes back as a pull request your team reviews. Thank you for the #4 of the day. The most common thing we heard after that launch: \"I trust the pull request… but I can't read code. How do I know it's what I asked for?\" So today we're launching Live Preview. Here's how it works: 1. Connect your GitHub project (one GitHub App install) 2. Describe the change — \"add a testimonials section under the hero, matching our card style\" 3. Ovren plans it, you approve the plan, it writes the code on a safe copy of your project 4. You get a live preview — your real page, with the change on it. Click through it like a visitor would 5. Happy? Approve it, and your developers review and merge the pull request. Not happy? Request changes. No localhost, no install, no deploy. Ovren builds the preview on its side. What it's for: → Marketers and founders who want to see a landing section, banner or form before asking anyone to merge it → PMs who want to show stakeholders a working version, not a mockup → Developers who'd rather click through a change than read a diff of someone else's request To be upfront: live preview covers frontend changes. Backend work still comes as a pull request with a full execution report — what Ovren understood, the files it changed and any risks it flagged. You can try it free — up to 5 changes, no credit card. I'd love to hear what you'd ship first, and what would make you trust a preview enough to approve it. I'm here all day 🙌"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@mikita_aliaksandrovich Live Preview solves a very real gap between building and approving. Nice Launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "A lot of times there are small changes that are needed for the website, and they stay in the backlog for weeks. This will reduce those. Congrats on the second launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like how it clearly states the division of responsibility. Non-technical teammates judge the result, and developers judge the implementation. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What does the preview include... different viewport sizes or does the requester need to switch between desktop and mobile manually?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As a developer, one of my day-to-day challenges is having to pause larger improvements to handle small UI portal tweaks. The context switching alone consumes a significant amount of my internal resources. This tool allows my managers and UI designers to implement validate their ideas more quickly WITHOUT DEPLOYMENT. And deploy only final version. Every product has plenty pending quick tweaks or customer requests for UI improvements. It’s great that Ovren could handle these small UI tasks and, most importantly, enable teams to validate the fixes visually before merging and deploying them.I hope many teams discover this product and enjoy using it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Awesome. Congratats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey @mikita_aliaksandrovich and team, lovely product. Congrats on launch. Would definitely, give it a time to explore it more. Best wishes ahead 😄"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-10-12",
       "rank": 3,
@@ -38040,66 +38198,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-4",
-      "date": "2026-10-23",
-      "rank": 4,
-      "name": "Ovren Live Preview",
-      "slug": "ovren-live-preview",
-      "tagline": "See your product change live before it ships",
-      "description": "Describe a change in plain words. Ovren writes the code on a safe copy of your project and gives you a live preview of every frontend change — your real page, with the change on it. Click through it, approve it, and your team merges the pull request.",
-      "category": "Developer Tools • Artificial Intelligence • No-Code",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
-      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f48d70b2-7862-45f1-b6e0-b74cb9e001b0.x-icon?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/4608a2ed-db7f-4c71-a72c-e630937fee3d.jpeg?auto=format",
-        "https://ph-files.imgix.net/db7c7fae-ae64-4dff-a4af-d8ab9657d5b1.png?auto=format",
-        "https://ph-files.imgix.net/2aec8786-5daa-4ba2-b14f-6b87efaa7fea.png?auto=format",
-        "https://ph-files.imgix.net/b7251c05-12d8-4210-890b-834a2f134633.png?auto=format",
-        "https://ph-files.imgix.net/79e70f84-1251-426d-b17b-463de97775c3.png?auto=format",
-        "https://ph-files.imgix.net/3409b7ce-4c20-455e-9708-84c5298647fc.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-23T07:01:00Z",
-      "votes": 195,
-      "websiteUrl": "https://www.producthunt.com/r/GZYWZ6Z6BGE5RV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Back in April we launched Ovren here — you describe a coding task in plain words, and it comes back as a pull request your team reviews. Thank you for the #4 of the day. The most common thing we heard after that launch: \"I trust the pull request… but I can't read code. How do I know it's what I asked for?\" So today we're launching Live Preview. Here's how it works: 1. Connect your GitHub project (one GitHub App install) 2. Describe the change — \"add a testimonials section under the hero, matching our card style\" 3. Ovren plans it, you approve the plan, it writes the code on a safe copy of your project 4. You get a live preview — your real page, with the change on it. Click through it like a visitor would 5. Happy? Approve it, and your developers review and merge the pull request. Not happy? Request changes. No localhost, no install, no deploy. Ovren builds the preview on its side. What it's for: → Marketers and founders who want to see a landing section, banner or form before asking anyone to merge it → PMs who want to show stakeholders a working version, not a mockup → Developers who'd rather click through a change than read a diff of someone else's request To be upfront: live preview covers frontend changes. Backend work still comes as a pull request with a full execution report — what Ovren understood, the files it changed and any risks it flagged. You can try it free — up to 5 changes, no credit card. I'd love to hear what you'd ship first, and what would make you trust a preview enough to approve it. I'm here all day 🙌"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@mikita_aliaksandrovich Live Preview solves a very real gap between building and approving. Nice Launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A lot of times there are small changes that are needed for the website, and they stay in the backlog for weeks. This will reduce those. Congrats on the second launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like how it clearly states the division of responsibility. Non-technical teammates judge the result, and developers judge the implementation. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What does the preview include... different viewport sizes or does the requester need to switch between desktop and mobile manually?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "As a developer, one of my day-to-day challenges is having to pause larger improvements to handle small UI portal tweaks. The context switching alone consumes a significant amount of my internal resources. This tool allows my managers and UI designers to implement validate their ideas more quickly WITHOUT DEPLOYMENT. And deploy only final version. Every product has plenty pending quick tweaks or customer requests for UI improvements. It’s great that Ovren could handle these small UI tasks and, most importantly, enable teams to validate the fixes visually before merging and deploying them.I hope many teams discover this product and enjoy using it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Awesome. Congratats!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey @mikita_aliaksandrovich and team, lovely product. Congrats on launch. Would definitely, give it a time to explore it more. Best wishes ahead 😄"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -39144,7 +39242,69 @@
           "user": "[REDACTED]",
           "text": "It's interesting that you say this is built for founders. I feel like this app was built for one-person agencies and freelancers.I'm juggling multiple clients right now and they all have one thing in common: they all live on whatsapp. They don't email. They don't want to join a Slack workspace. They have their phone and whatsapp and fire off requests, questions, documents, voice notes, and video. Whatsapp wasn't built to be a project management tool but that's what it's become."
         }
-      ]
+      ],
+      "faDescription": "ردی‌ون (readywhen) یک دستیار شخصی ارشد است که مستقیماً داخل پیام‌رسان واتس‌اپ کار می‌کند. این ابزار دارای شماره تلفن اختصاصی، کامپیوتر مستقل و یک بورد مدیریت پروژه است که تمام کارهای جاری و تعهدات شما را پیگیری می‌کند. شما می‌توانید با آن تماس بگیرید، پیام متنی بفرستید یا پیام صوتی (ویس) ارسال کنید. ردی‌ون تنها یک چت‌بات ساده نیست، بلکه کارهای واقعی و عملیاتی شما را به سرانجام می‌رساند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به تمام کاربران پروداکت هانت 👋 من سانچار، هم‌بنیان‌گذار readywhen هستم. اگر بنیان‌گذار باشید، احتمالاً حس می‌کنید اگر شما متوقف شوید، همه‌چیز متوقف می‌شود. بیشتر بنیان‌گذاران روز کاری خود را پشت میز مدیریت نمی‌کنند، بلکه از داخل ماشین، جلوی در مدرسه یا حین رفت‌وآمد بین جلسات آن را اداره می‌کنند. این دقیقاً همان‌جایی است که قول‌ها داده می‌شوند؛ یک اعلام قیمت پشت تلفن، یک «بسپارش به من» دم در، یا پاسخی که قرار است «وقتی برگشتم» بفرستید. اما تا به میز کارتان برگردید، نصف آن‌ها از دست رفته‌اند و بقیه هم تا ساعت ۱۱ شب در ذهنتان سنگینی می‌کنند. شما کسب‌وکارتان را راه انداختید چون در کاری فوق‌العاده هستید، نه برای اینکه پیگیری‌ها را از حفظ انجام دهید. بنابراین ما readywhen را دقیقاً همان‌جایی قرار دادیم که حضور دارید. readywhen دستیار شخصی ارشد برای کسب‌وکارهای مالک‌محور است و امروز روی واتس‌اپ عرضه شده است. این ابزار شماره تلفن، کامپیوتر اختصاصی و بورد پروژه‌ای دارد که همه‌چیز را پیگیری می‌کند. با آن تماس بگیرید، پیام دهید یا پیام صوتی بفرستید تا کارهای واقعی را انجام دهد. چند نمونه کاری که می‌توانید امروز به آن بسپارید:\n💬 «سه گزینه برای دورهمی تیمی ما پیدا کن و بهترینش را در تقویمم بگذار»\n💬 «این یادداشت‌ها را به یک پروپوزال مشتری تبدیل کن و بگذار بررسی‌اش کنم»\n💬 «اشتراک چه سرویس‌هایی را دارم و کدام را می‌توانم لغو کنم؟»\n💬 «ایمیل‌هایم را بررسی کن و بگو امروز دقیقاً چه کاری به حضور من نیاز دارد»\nاین ابزار با تمام ابزارهایی که استفاده می‌کنید (بیش از ۱۰۰۰ ابزار) کار می‌کند و هیچ‌چیزی بدون تأیید شما ارسال نمی‌شود. استفاده از آن در طول دوره بتای محدود رایگان است: به بتای واتس‌اپ بپیوندید. من و تیمم تمام روز اینجا هستیم. اولین چیزی که به readywhen می‌سپارید را به ما بگویید، چه چیزی کم دارد و دوست دارید بعداً چه کاری انجام دهد. من تمام نظرات را می‌خوانم. شما را در واتس‌اپ می‌بینم 👋 سانچار، هم‌بنیان‌گذار readywhen"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من زمانی عامل‌های هوشمندی داشتم که لیست کارهایم را با آنچه واقعاً اتفاق افتاده بود تطبیق می‌دادند و مشخص شد سه مانع «فوری» قبلاً حل شده بودند. آیا بورد readywhen خودش وقتی ببیند کاری در ایمیل حل شده آن را می‌بندد یا فقط کارهای جدید اضافه می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای عرضه محصول! از روی عادت از ChatGPT، Gemini و Perplexity پرسیدم «کدام ابزارها می‌توانند تعهدات را از تماس‌ها، ایمیل‌ها و پیام‌های کاری ثبت کنند؟» و readywhen در ۱ پاسخ از ۵ پاسخ آمد. دیدن این موضوع در روز عرضه بسیار عالی بود. امروز موفق باشید!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "داشتن یک دستیار داخل واتس‌اپ حرکت بسیار هوشمندانه و عالی است، چون همه همین حالا در آن زندگی می‌کنند 💬 تبریک می‌گویم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "فراموش شدن پیگیری‌ها هنگام رفت‌وآمد بین جلسات یک واقعیت ملموس است. وقتی یک قول یا تعهد را به‌صورت پیام صوتی ارسال می‌کنیم، آیا خودش به‌طور خودکار تاریخ مهلت (Due Date) روی بورد می‌گذارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من نماد اختاپوس را دوست دارم اما لوگو بیشتر شبیه یک روح به نظر می‌رسد 👻"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک برای روز لانچ! حالا که readywhen در واتس‌اپ فعال است، آیا قول‌هایی که مالکان کسب‌وکار در چت‌های شخصی خود به مشتریان می‌دهند را هم ثبت می‌کند، یا فقط محلی برای گفتگو با خود دستیار است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "جالب است که می‌گویید این ابزار برای بنیان‌گذاران ساخته شده است. من احساس می‌کنم این برنامه بیشتر برای آژانس‌های تک‌نفره و فریلنسرها ساخته شده است. من در حال حاضر مدیریت چندین مشتری را بر عهده دارم و همه آن‌ها یک ویژگی مشترک دارند: همه‌شان در واتس‌اپ هستند. آن‌ها ایمیل نمی‌زنند و تمایلی به عضویت در اسلک ندارند؛ فقط گوشی و واتس‌اپ دارند و درخواست‌ها، سوالات، اسناد، ویس و ویدیو می‌فرستند. واتس‌اپ برای مدیریت پروژه ساخته نشده بود اما الان عملاً به همین تبدیل شده است."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبزرگ‌ترین چالش مدیران و بنیان‌گذاران، انجام کارهای اجرایی و پیگیری تعهداتی است که حین رفت‌وآمد، جلسات و چت‌های روزانه داده می‌شود. readywhen با انتقال دستیار هوشمند به داخل واتس‌اپ (جایی که کاربر بیشترین زمان خود را در آن می‌گذراند)، بستر دریافت دستورات صوتی و متنی، تبدیل آن‌ها به کارهای عملیاتی و پیگیری در یک بورد پروژه را فراهم کرده است.\n\n### معماری و تکنولوژی\nاین محصول از معماری مبتنی بر عامل‌های هوشمند (Agentic AI) بهره می‌برد. هسته سیستم شامل مدل‌های هوش مصنوعی پردازش زبان طبیعی (NLP)، موتور تبدیل گفتار به متن (STT) برای فهم ویس‌ها، و وب‌هوک‌های ارتباطی برای اتصال به بیش از ۱۰۰۰ ابزار دیگر (مانند Google Calendar، ایمیل و...) است.\n\n### مدل درآمدی\nدر حال حاضر سرویس در فاز بتای رایگان است، اما مدل درآمدی نهایی آن به‌صورت SaaS (اشتراک ماهانه/سالانه) بر اساس حجم پردازش‌ها، تعداد اکشن‌های اجرایی و سطح دسترسی به ابزارهای جانبی خواهد بود.\n\n### نقاط قوت\n- **کاهش اصطکاک (Zero Friction):** استفاده از بستری که کاربر روزانه از آن استفاده می‌کند، نیاز به نصب اپلیکیشن جدید را از بین می‌برد.\n- **پشتیبانی قوی از ویس:** امکان ارسال ویس و تبدیل آن به کارهای تقویم و بورد پروژه.\n- **کنترل انسانی (Human-in-the-loop):** هیچ اقدام نهایی یا ایمیلی بدون تأیید کاربر ارسال نمی‌شود.\n\n### نقاط ضعف\n- **وابستگی شدید به پلتفرم ثالث:** تغییر در سیاست‌های API واتس‌اپ می‌تواند کل کسب‌وکار را تحت تأثیر قرار دهد.\n- **دغدغه‌های حریم خصوصی:** دسترسی دستیار هوشمند به ایمیل‌ها و پروپوزال‌های حساس ممکن است باعث تردید برخی مشتریان سازمانی شود.\n\n### نکته طلایی برای بازار ایران\nدر ایران، واتس‌اپ و پیام‌رسان‌های داخلی عملاً نقش CRM و بستر اصلی ارتباط با مشتری را بازی می‌کنند. توسعه این محصول با تمرکز بر **پردازش دقیق ویس‌های فارسی** (با مدل‌های بومی‌شده Whisper) و اتصال آن به **سیستم‌های حسابداری ایرانی (مانند سپیدار) و تقویم شمسی**، می‌تواند ارزش افزوده بی‌نظیری برای مدیران و فریلنسرهای ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "بلی‌کار ( دستیار هوشمند پیام‌رسان)",
+        "description": "بلی‌کار یک دستیار هوشمند متصل به پیام‌رسان‌های بومی و واتس‌اپ برای مدیران و فریلنسرهای ایرانی است. این سیستم با دریافت دستورات متنی و ویس‌های فارسی، وظایف کاری، یادآوری‌ها و پیش‌فاکتورها را مدیریت و در بورد کاری ثبت می‌کند. بلی‌کار با اتصالات هوشمند به تقویم و ابزارهای مالی ایرانی، پیگیری‌های کاری را به اتوماسیون کامل تبدیل می‌سازد.",
+        "marketOpportunity": "با توجه به نفوذ بالای واتس‌اپ و پیام‌رسان‌های داخلی در ایران و ترجیح مدیران به ارسال پیام صوتی، نیاز شدیدی به ابزاری برای جلوگیری از فراموشی قول‌های کاری وجود دارد. بازار آژانس‌های مارکتینگ، فریلنسرها و مدیران کسب‌وکارهای خرد بستر فوق‌العاده‌ای برای پذیرش این محصول است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "بنیان‌گذاران استارتاپ‌ها، مدیران آژانس‌های دیجیتال، فریلنسرها، مشاوران و صاحبان کسب‌وکارهای کوچک و متوسط",
+        "challenges": [
+          "محدودیت‌ها و چالش‌های فیلترینگ و اتصال مستمر به API واتس‌اپ در ایران",
+          "پیچیدگی‌های پردازش دقیق گفتار به متن (STT) برای لهجه‌ها و اصطلاحات عامیانه فارسی",
+          "نگرانی‌های کاربران در خصوص حفظ حریم خصوصی و امنیت اطلاعات کاری و مالی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه و سالانه بر اساس تعداد پردازش‌های صوتی و حجم کارهای ثبت‌شده",
+          "پلن‌های سازمانی با قابلیت اتصال به نرم‌افزارهای حسابداری و CRMهای ایرانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Python",
+          "Whisper AI (فارسی)",
+          "WhatsApp Business API",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -45260,7 +45420,59 @@
           "user": "[REDACTED]",
           "text": "As a radio amateur, loved this! TA1FKA 73."
         }
-      ]
+      ],
+      "faDescription": "با فشردن دکمه PTT روی هر بیسیم دستی، می‌توانید بدون نیاز به دست و به صورت کاملاً آزاد با ایجنت کدنویسی هوش مصنوعی خود گفتگو کنید. برنامه‌ی walkai-talkai صدای شما را به صورت محلی با مدل Whisper روی مک تبدیل به متن می‌کند و دستور را مستقیم در Cursor، Claude Code یا Antigravity تایپ می‌نماید (یا مستقیماً APIهای OpenAI، Anthropic، Gemini، DeepSeek یا Ollama را فرا می‌خواند). سپس پاسخ حاصل را از طریق صدای عصبی، تن‌های VOX و بوق Roger به صورت صوتی روی بیسیم پخش می‌کند. فایل‌های صوتی بیسیم شما هرگز از دستگاه مک شما خارج نمی‌شوند و امنیت کاملی دارند. این برنامه نیازمند macOS ۱۳ و تراشه‌های Apple Silicon است و با یک‌بار خرید لایسنس مادام‌العمر بدون اشتراک ارائه می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت! من سزر هستم، سازنده walkai-talkai. می‌خواستم بدون نشستن پشت کیبورد با ایجنت کدنویسی هوش مصنوعی‌ام صحبت کنم، به همین دلیل آن را به یک بیسیم دستی متصل کردم. دکمه PTT را فشار دهید، آنچه می‌خواهید را بگوئید (مثلاً «تست‌ها را اجرا کن و خطاها را برطرف کن») و ایجنت متوجه می‌شود. وقتی کار تمام شد، پاسخ به صورت یک خلاصه صوتی کوتاه از طریق بیسیم برمی‌گردد. نحوه کار: • بیسیم با یک کابل صوتی استاندارد (K-plug یا ۳.۵ میلی‌متری) به مک وصل می‌شود و قابلیت VOX بیسیم ارسال را مدیریت می‌کند. • گفتار روی مک شما با Whisper به متن تبدیل می‌شود و صدای بیسیم هرگز آپلود نمی‌شود. • دستور در Cursor، Claude Code یا Antigravity تایپ می‌شود یا مستقیم در حالت API به OpenAI، Anthropic، Gemini، DeepSeek یا Ollama فرستاده می‌شود. • پاسخ با صدای عصبی روی دستگاه، همراه با تن‌های VOX و بوق roger، به زبان انگلیسی یا ترکی پخش می‌شود. نکات صادقانه: فقط مخصوص macOS است (تراشه‌های اپل سیلیکون، macOS ۱۳+). هر چیزی که ارسال می‌کنید توسط دیگران روی آن فرکانس شنیده می‌شود و حتی فرد دیگری در آن کانال می‌تواند به ایجنت شما دستور بدهد؛ پس کاری کنید ایجنت قبل از اقدامات غیرقابل بازگشت تایید بگیرد. قوانین مجوز بیسیم بر عهده خودتان است. این یک لایسنس مادام‌العمر یک‌باره (بدون اشتراک) با امکان بازگشت وجه ۱۴ روزه است. خوشحال می‌شوم بدانم: شما از طریق بیسیم به ایجنت خود چه می‌گفتید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ما عاشق بیسیم هستیم، حس نوستالژی خیلی قشنگی را زنده می‌کند! ممنون بابت این بیسیم نسل جدید."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "می‌شود لطفاً توضیح دهید امنیت آن چگونه کار می‌کند، با توجه به اینکه هر کسی در آن کانال می‌تواند صحبت کند و با هوش مصنوعی شما ارتباط بگیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چه فکربکر و اورجینالی! برنامه‌نویسی از طریق بیسیم چیزی بود که اصلاً نمی‌دانستم به آن نیاز دارم. عالیه! ۷۳ از طرف TB۱LAB"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "بلافاصله رای مثبت دادم، تمام (over)."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "به عنوان یک رادیوآماطور عاشقش شدم! TA۱FKA ۷۳."
+        }
+      ],
+      "aiReview": "تحلیل جامع walkai-talkai:\n\n**مسئله و راه‌حل:** برنامه‌نویسان هنگام دور شدن از پشت میز کار یا انجام کارهای غیرمستقیم نمی‌توانند با ایجنت‌های کدنویسی هوش مصنوعی تعامل داشته باشند. walkai-talkai با اتصال بیسیم‌های دستی واقعی به رایانه، امکان ارسال صوتی دستورات (PTT) و دریافت خلاصه پاسخ‌ها به صورت صوتی با صدای طبیعی و افکت‌های رادیویی (مثل Roger Beep) را فراهم می‌کند.\n\n**معماری و تکنولوژی:** این برنامه از مدل Whisper به صورت کاملاً محلی و پردازش روی تراشه‌های Apple Silicon استفاده می‌کند تا صدا از دستگاه خارج نشود. سپس دستورات را به محیط‌های توسعه مانند Cursor و Claude Code یا مستقیم به API مدل‌های OpenAI، Anthropic، DeepSeek یا Ollama ارسال کرده و پاسخ را با صدای عصبی آفلاین بازخوانی می‌کند.\n\n**مدل درآمدی:** فروش لایسنس مادام‌العمر (Lifetime) بدون اشتراک ماهانه همراه با ۱۴ روز مهلت استرداد وجه که نرخ تبدیل بالایی در میان کاربران علاقه‌مند به ابزارهای سخت‌افزاری ایجاد می‌کند.\n\n**نقاط قوت:** ایده‌پردازی فوق‌العاده خلاقانه، حفظ کامل حریم خصوصی با پردازش محلی صوت، پشتیبانی از مدل‌های محلی مثل Ollama و حس نوستالژیک بالا.\n\n**نقاط ضعف:** محدودیت به سیستم‌عامل macOS و سخت‌افزار Apple Silicon، چالش‌های امنیتی جدی به دلیل احتمال مداخلات صوتی روی فرکانس‌های رادیویی باز، و قوانین سخت‌گیرانه مقررات رادیویی.\n\n**نکته طلایی برای بازار ایران:** در ایران به دلیل حساسیت‌های امنیتی و قانونی روی فرکانس‌های رادیویی بیسیم، می‌توان این ایده را در قالب یک نرم‌افزار Walkie-Talkie مجازی روی شبکه داخلی (Wi-Fi/LAN) یا اپلیکیشن موبایل پیاده‌سازی کرد تا همان تجربه صوتی PTT را بدون چالش‌های فرکانسی ارائه دهد.",
+      "iranEquivalent": {
+        "productName": "بیسیم‌پایلوت (BisimPilot)",
+        "description": "دستیار صوتی هوشمند کدنویسی و مدیریت سیستم بر پایه ارتباطات رادیویی بی‌سیم و پردازش صوتی محلی است. این سیستم به برنامه‌نویسان و مدیران شبکه اجازه می‌دهد بدون نیاز به دست و از طریق بیسیم‌های دستی، دستورات فنی را اجرا کنند. نرم‌افزار با تبدیل محلی صدا روی سیستم کاربر، امنیت کامل داده‌ها را تضمین می‌کند.",
+        "marketOpportunity": "بازار توسعه‌دهندگان نرم‌افزار و مدیران دیتاسنتر در ایران نیازمند ابزارهای کنترل صوتی در محیط‌های عملیاتی و پشتیبانی است. ترکیب جذابیت نوستالژیک بیسیم‌های رادیویی با ابزارهای نوین هوش مصنوعی، پتانسیل بالایی برای جذب متخصصان فنی و رادیوآماطورها دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان ارشد، مدیران سیستم (DevOps)، مهندسان شبکه و دیتاسنتر، و علاقه‌مندان به تجهیزات رادیویی و هوش مصنوعی",
+        "challenges": [
+          "محدودیت‌های قانونی و مجوزهای استفاده از فرکانس‌های رادیویی بیسیم در ایران",
+          "آسیب‌پذیری‌های امنیتی ناشی از شنود یا تزریق دستورات صوتی توسط افراد ناشناس در کانال‌های فرکانسی عمومی"
+        ],
+        "monetization": [
+          "فروش لایسنس مادام‌العمر نرم‌افزار به صورت پرداخت یک‌باره",
+          "فروش بسته‌های سخت‌افزاری شامل کابل‌های رابط اختصاصی و دانگل‌های اتصال بیسیم به رایانه"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "Whisper Local",
+          "Electron"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -52855,6 +53067,60 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-24",
+      "rank": 4,
+      "name": "AgentValley",
+      "slug": "agentvalley",
+      "tagline": "Every Claude Code agent, at a glance, in your Mac's notch",
+      "description": "It sits in your MacBook's notch. Every Claude Code session gets a card, every sub-agent gets a row, and each one has a little pixel programmer. You see who's working, on which model, and who's waiting on you. Free and open source.",
+      "category": "Open Source • Developer Tools • GitHub • Menu Bar Apps",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • Menu Bar Apps",
+      "url": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d6339e83-f70c-466e-ac7e-03eb3895bf6a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/94f375a4-baf2-4f4b-8e02-e2c1a5c4aee2.png?auto=format",
+        "https://ph-files.imgix.net/9400419b-6a38-4d7a-a9f5-e13fa0fba793.png?auto=format",
+        "https://ph-files.imgix.net/882bbbe0-d0d7-4fdd-b453-12cb125d5aa1.png?auto=format",
+        "https://ph-files.imgix.net/0bd81b9f-2b5f-49c4-923e-540f8d820e36.png?auto=format",
+        "https://ph-files.imgix.net/cc9c62ad-04e8-426d-86ef-e41882b7cf6f.png?auto=format",
+        "https://ph-files.imgix.net/a2b02376-1786-43c3-a02e-9d3081306455.png?auto=format",
+        "https://ph-files.imgix.net/b56315c6-317f-41dd-b718-f7335c3fb889.png?auto=format",
+        "https://ph-files.imgix.net/538cf649-befa-4006-a144-2a45a51b4056.jpeg?auto=format"
+      ],
+      "maker": "Morse Chimwai",
+      "makerTitle": "🪴 indie hacker, making AgentValley",
+      "featuredAt": "2026-10-24T07:01:00Z",
+      "votes": 137,
+      "websiteUrl": "https://www.producthunt.com/r/FXTTULYREWAUGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi, I'm Morse. I usually have a few Claude Code windows going at the same time, a hobby project, my day job, some experiment, and I wanted one place to see which agent is doing what in which project, if one is stuck, and if one is waiting for me to answer something. So now they all live in the notch.My favorite part is the crew. Every agent gets a little pixel character with its own look, and they feel like my employees at this point. I can watch them go through the steps while they work.I'm not sure yet what's missing, people have to try it first. Maybe a phone app later, so I can answer from the gym or while I'm out getting food. Tell me what you'd want it to do next, and if anything is hard to read, like one of the crew's expressions, or if the UI makes you stop and think before you click."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "would it see sessions running in a devcontainer? the status file would be inside the container i guess"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "seeing which agent is waiting on me right from the notch sounds handy! does it play a sound when one gets stuck or just change the icon?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Multi-agent runs feel like chaos until you can actually see what's waiting. The notch is a weird but perfect place for this."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Fun idea! How did you tackle the creation of the pixelated characters? Does it persist between sub-agents? And do you know if it works with Claude sessions started through e.g. T3Code?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The \"who's waiting on me\" row is the part I'd use most. Once I have three or four Claude Code sessions going, what costs me time is a session sitting on a permission prompt I didn't notice. How do you detect that state, through hooks or by reading the session output? Great call making it open source."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-18",
       "rank": 5,
@@ -53437,60 +53703,6 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nCaveman یک ابزار قدرتمند است که با استفاده از یک پروکسی محلی، لاگ‌ها، خروجی ابزارها و فایل‌ها را قبل از هر تماس به ارائه‌دهنده فشرده می‌کند. این ابزار می‌تواند با استفاده از بارگیری متن به عنوان تصویر، هر مهارت موجود را با حدود ۵۰ درصد کمتر توکن‌ها اجرا کند.\n🔹 معماری و تکنولوژی احتمالی:\nCaveman بر اساس یک اکوسیستم منبع باز با بیش از ۷۵ هزار ستاره در گیت‌هاب ساخته شده است. این ابزار می‌تواند با استفاده از یک پروکسی محلی بین عامل و ارائه‌دهنده، خروجی ابزارها را فشرده کند و از این طریق هزینه‌های استفاده از هوش مصنوعی را کاهش دهد.\n🔹 مدل درآمدی:\nفروش ابزار به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره برای بهینه‌سازی استفاده از هوش مصنوعی.\n🔹 نقاط قوت:\n- کاهش هزینه‌های استفاده از هوش مصنوعی\n- افزایش کارایی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای مشابه\n- نیاز به ارتقای مداوم ابزار\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای ابزارهای کاهش هزینه هوش مصنوعی در ایران بسیار زیاد است و therefore، باید به طور مداوم در حال ارتقای ابزار و ارائه خدمات بهتر به مشتریان بود."
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-24",
-      "rank": 4,
-      "name": "AgentValley",
-      "slug": "agentvalley",
-      "tagline": "Every Claude Code agent, at a glance, in your Mac's notch",
-      "description": "It sits in your MacBook's notch. Every Claude Code session gets a card, every sub-agent gets a row, and each one has a little pixel programmer. You see who's working, on which model, and who's waiting on you. Free and open source.",
-      "category": "Open Source • Developer Tools • GitHub • Menu Bar Apps",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • Menu Bar Apps",
-      "url": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d6339e83-f70c-466e-ac7e-03eb3895bf6a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/94f375a4-baf2-4f4b-8e02-e2c1a5c4aee2.png?auto=format",
-        "https://ph-files.imgix.net/9400419b-6a38-4d7a-a9f5-e13fa0fba793.png?auto=format",
-        "https://ph-files.imgix.net/882bbbe0-d0d7-4fdd-b453-12cb125d5aa1.png?auto=format",
-        "https://ph-files.imgix.net/0bd81b9f-2b5f-49c4-923e-540f8d820e36.png?auto=format",
-        "https://ph-files.imgix.net/cc9c62ad-04e8-426d-86ef-e41882b7cf6f.png?auto=format",
-        "https://ph-files.imgix.net/a2b02376-1786-43c3-a02e-9d3081306455.png?auto=format",
-        "https://ph-files.imgix.net/b56315c6-317f-41dd-b718-f7335c3fb889.png?auto=format",
-        "https://ph-files.imgix.net/538cf649-befa-4006-a144-2a45a51b4056.jpeg?auto=format"
-      ],
-      "maker": "Morse Chimwai",
-      "makerTitle": "🪴 indie hacker, making AgentValley",
-      "featuredAt": "2026-10-24T07:01:00Z",
-      "votes": 136,
-      "websiteUrl": "https://www.producthunt.com/r/FXTTULYREWAUGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi, I'm Morse. I usually have a few Claude Code windows going at the same time, a hobby project, my day job, some experiment, and I wanted one place to see which agent is doing what in which project, if one is stuck, and if one is waiting for me to answer something. So now they all live in the notch.My favorite part is the crew. Every agent gets a little pixel character with its own look, and they feel like my employees at this point. I can watch them go through the steps while they work.I'm not sure yet what's missing, people have to try it first. Maybe a phone app later, so I can answer from the gym or while I'm out getting food. Tell me what you'd want it to do next, and if anything is hard to read, like one of the crew's expressions, or if the UI makes you stop and think before you click."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "would it see sessions running in a devcontainer? the status file would be inside the container i guess"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "seeing which agent is waiting on me right from the notch sounds handy! does it play a sound when one gets stuck or just change the icon?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Multi-agent runs feel like chaos until you can actually see what's waiting. The notch is a weird but perfect place for this."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Fun idea! How did you tackle the creation of the pixelated characters? Does it persist between sub-agents? And do you know if it works with Claude sessions started through e.g. T3Code?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The \"who's waiting on me\" row is the part I'd use most. Once I have three or four Claude Code sessions going, what costs me time is a session sitting on a permission prompt I didn't notice. How do you detect that state, through hooks or by reading the session output? Great call making it open source."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -61650,7 +61862,41 @@
           "user": "[REDACTED]",
           "text": "The original 90s size controller I.e. thanks for sharing zac.."
         }
-      ]
+      ],
+      "faDescription": "با کنترلر ایکس‌باکس نانو، تجربه بازی کردن را به مکان‌های بیشتری منتقل کنید. این محصول با ابعاد فشرده‌تر خود اجازه می‌دهد سرگرمی و بازی را بیش از پیش وارد زندگی روزمره خود کنید. شما می‌توانید از طریق فناوری بلوتوث متصل شده و در دستگاه‌های مختلف به بازی بپردازید. این گیم‌پد جیبی تجربه‌ای کامل و بی‌نقص از بازی را در قالبی بسیار کوچک و قابل حمل ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی! ایکس‌باکس تمام چیدمان استاندارد کنترلر خود را در ابعادی کوچک‌تر از اکثر گوشی‌های هوشمند جا داده است. طول مدل نانو تنها کمی بیشتر از ۵ اینچ است، ۳.۵ اونس (حدود ۹۹ گرم) وزن دارد و همچنان شامل تمامی ۱۸ ورودی استاندارد بازی می‌شود. این دستگیره از طریق «ایکس‌باکس وایرلس» به کنسول‌های ایکس‌باکس و از طریق بلوتوث به کامپیوترها، گوشی‌ها و تلویزیون‌های سازگار متصل می‌شود. همچنین دارای باتری قابل شارژ و یک دکمه اکشن قابل برنامه‌ریزی است. به نظرم این محصول برای دست‌های کوچک‌تر، به عنوان کنترلر دوم برای بازی‌های هم‌زمان محلی، یا صرفاً برای حمل در کیف جهت بازی در سفر بسیار کاربردی است. قیمت آن ۴۹.۹۹ دلار است، پیش‌سفارش‌ها آغاز شده و ارسال از ماه نوامبر شروع می‌شود. با وجود کنترلرهای مینی ارزان‌تر موجود در بازار، قیمت آن دقیقاً اقتصادی نیست، اما پشتیبانی بومی از ایکس‌باکس وایرلس یک مزیت عالی به شمار می‌رود!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "کنترلری به اندازه مدل‌های اصلی دهه ۹۰ میلادی؛ ممنون زک بابت به اشتراک‌گذاری.."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** مسئله اصلی، عدم ارگونومی مناسب گوشی‌های هوشمند برای بازی و ابعاد بزرگ کنترلرهای استاندارد جهت حمل‌ونقل است. ایکس‌باکس نانو با فشرده‌سازی ابعاد بدون حذف هیچ‌یک از ۱۸ ورودی استاندارد، راه‌حلی جیبی و کاربردی برای بازی روی انواع دستگاه‌ها ارائه می‌دهد.\n\n**معماری و تکنولوژی:** بهره‌گیری از پروتکل اختصاصی Xbox Wireless جهت اتصال بدون تاخیر به کنسول، به همراه اتصال بلوتوث چندمنظوره برای رایانه، موبایل و تلویزیون‌های هوشمند. همچنین استفاده از باتری لیتیومی قابل شارژ و دکمه قابل برنامه‌ریزی سخت‌افزاری از ویژگی‌های فنی آن است.\n\n**مدل درآمدی:** مدل فروش مستقیم سخت‌افزاری (Direct-to-Consumer) با قیمت ۴۹.۹۹ دلار که علاوه بر سود حاصل از فروش کالا، کاربران را بیشتر وارد زیست‌بوم نرم‌افزاری ایکس‌باکس و سرویس گیم‌پاس می‌کند.\n\n**نقاط قوت:** حفظ تمامی ۱۸ کلید استاندارد در ابعادی کوچک‌تر از گوشی، وزن بسیار سبک (۹۹ گرم)، پشتیبانی بومی از اتصالات کنسولی و قیمت منطقی نسبت به دسته‌های اصلی مایکروسافت.\n\n**نقاط ضعف:** قیمت بالاتر در مقایسه با برندهای متفرقه چینی و احتمال خستگی دست در جلسات طولانی بازی برای افرادی که دست‌های بزرگی دارند.\n\n**نکته طلایی برای ایران:** کلید موفقیت چنین طرحی در ایران، عرضه سخت‌افزار اقتصادی همراه با توسعه اپلیکیشن مکمل فارسی جهت نگاشت خودکار دکمه‌ها (Button Mapping) روی بازی‌های محبوب موبایلی نظیر کالاف دیوتی و پابجی است.",
+      "iranEquivalent": {
+        "productName": "پوکت‌گیم ایرانی (PocketGame)",
+        "description": "یک کنترلر بی‌سیم جیبی و چندسکوئی ساخت داخل که امکان اتصال سریع به گوشی‌های هوشمند، تبلت و تلویزیون‌های هوشمند را فراهم می‌کند. این ابزار به همراه یک اپلیکیشن مکمل فارسی عرضه می‌شود که تنظیم و شخصی‌سازی دکمه‌ها را برای بازی‌های موبایلی ایرانی و خارجی ساده می‌سازد. طراحی ارگونومیک و سبک آن به کاربران اجازه می‌دهد در هر زمان و مکانی به بازی‌های حرفه‌ای بپردازند.",
+        "marketOpportunity": "گسترش چشمگیر بازار بازی‌های موبایلی در ایران و نیاز گیمرها به کنترلرهای فیزیکی باکیفیت و اقتصادی، پتانسیل بالایی برای تولید دسته‌های بازی جیبی ایجاد کرده است. عدم وجود برند بومی قوی با پشتیبانی نرم‌افزاری مناسب، فرصتی طلایی برای جذب جوانان و علاقه‌مندان به گیمینگ موبایل فراهم می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "گیمرهای موبایل، دارندگان تلویزیون‌های هوشمند و تبلت، و مسافرانی که به بازی‌های سبک علاقه‌مندند",
+        "challenges": [
+          "تامین قطعات سخت‌افزاری و آنالوگ‌های باکیفیت در شرایط تحریم",
+          "رقابت با برندهای متفرقه و ارزان‌قیمت چینی موجود در بازار"
+        ],
+        "monetization": [
+          "فروش مستقیم سخت‌افزار و لوازم جانبی سفارشی",
+          "ارائه اشتراک ویژه در اپلیکیشن مکمل برای تنظیمات پیشرفته نرم‌افزاری و نگاشت دکمه‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Flutter",
+          "Embedded C++"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -69836,7 +70082,56 @@
           "user": "[REDACTED]",
           "text": "\"proven, not guessed\" is the bit I'd want. we had prod freeze twice after a deploy and every dashboard said the app was hung, but the real cause was a schema change at startup quietly waiting on a lock behind one long running query. would 3AM's live check find that kind of thing (a waiter, not an error)? and what does rehearsing the fix look like when the fix is killing someone else's query?"
         }
-      ]
+      ],
+      "faDescription": "با «۳AM» آشنا شوید؛ مهندس آنکال مبتنی بر هوش مصنوعی برای سیستم‌های پیچیده‌ای که امکان بازنویسی آن‌ها وجود ندارد. این ابزار علت اصلی بروز خطاها در محیط پروداکشن را به دقت شناسایی کرده و راهکار رفع آن را پیش از اجرا آزمایش می‌کند. سپس تنها با یک کلیک ساده در اسلک (Slack)، اختلال ایجاد شده را به سرعت برطرف می‌سازد. تمامی این فرایندها به‌طور کامل از داخل شبکه اختصاصی خود شما و با بالاترین سطح امنیت انجام می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ما امروز ۳AM را عرضه می‌کنیم: یک مهندس آنکال مبتنی بر هوش مصنوعی برای سیستم‌هایی که نمی‌توانید آن‌ها را بازنویسی کنید. سه عامل شکل‌دهنده آن بوده‌اند: ۱) مهندسان به اثبات نیاز داشتند، نه حدس و گمان. هیچ‌کس یک راهکار را در ساعت ۳ صبح روی پروداکشن صرفاً به این دلیل که چت‌بات با اطمینان صحبت کرده، اجرا نمی‌کند. بنابراین ۳AM تنها زمانی علت اصلی را اعلام می‌کند که بررسی زنده روی سیستم‌های شما آن را اثبات کند؛ اگر نتواند اثبات کند، موضوع را شفاف می‌گوید و یافته‌هایش را تحویل می‌دهد. ۲) تیم‌های تحت مقررات سخت‌گیرانه نیاز داشتند داده‌ها داخل شبکه بماند. بانک‌ها، بیمه‌ها و اپراتورها نمی‌توانند داده‌های پروداکشن را به کلود دیگران بفرستند. ۳AM داخل شبکه شما و بدون پورت ورودی اجرا می‌شود و به‌طور کامل به صورت ایرگپ (Air-gapped) کار می‌کند. ۳) همه می‌خواستند کنترل دست خودشان باشد. هیچ‌کس نمی‌خواهد هوش مصنوعی نصف شب خودش پروداکشن را تغییر دهد. هر تغییر ابتدا شبیه‌سازی می‌شود و منتظر تأیید انسانی در اسلک، پیجردیوتی یا ایمیل می‌ماند. ۳AM در حالت سایه شروع به کار می‌کند و برای خودمختاری بیشتر به دو تأییدکننده نیاز دارد. همچنین تمام مراحل در یک لاگ تغییرناپذیر ثبت می‌شود. جهت تست، ما ۳AM را روی یک سیستم بانکی متن‌باز با ۲۴۴ هزار خط کد ۱۰ ساله ارزیابی کرده‌ایم. ۹۰ روز اول رایگان است و خوشحال می‌شویم بازخوردهایتان را دریافت کنیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "مهندس آنکال هوش مصنوعی برای سیستم‌هایی که نمی‌شه بازنویسی‌شون کرد زاویه دید هوشمندانه‌ایه 🚀 چطور دسترسی به پروداکشن رو مدیریت می‌کنه؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "هه‌هه، من هم این درد رو تجربه کردم! این چالش رو خوب می‌فهمم و مطمئنم خیلی از بنیان‌گذاران هم همین حس رو دارند. بهترین‌ها رو برای تیمتون آرزو می‌کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "از کجا مطمئن بشم که این ابزار باگ‌های بیشتری نسبت به مشکلاتی که حل می‌کنه ایجاد نمی‌کنه؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "عبارت «اثبات‌شده، نه حدسی» دقیقاً همان چیزی است که من می‌خواهم. ما دو بار بعد از دپلوی دچار فریز پروداکشن شدیم و همه داشبوردها می‌گفتند برنامه هنگ کرده، اما علت واقعی تغییر اسکیما در استارت‌آپ بود که منتظر قفل یک کوئری طولانی مانده بود. آیا بررسی زنده ۳AM چنین چیزی (یک منتظر و نه یک خطا) را پیدا می‌کند؟ و شبیه‌سازی راهکار چه شکلی است وقتی راهکار، کشتن کوئری یک نفر دیگر باشد؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nسیستم‌های بزرگ سازمانی و بانکی به دلیل قدمت بالا امکان بازنویسی ندارند و قطعی‌های شبانه آن‌ها خسارات زیادی به بار می‌آورد. ۳AM به عنوان یک مهندس آنکال مبتنی بر هوش مصنوعی، به‌جای حدس زدن، ریشه خطا را با بررسی زنده اثبات می‌کند، راهکار را شبیه‌سازی کرده و تنها با تایید انسان در ابزارهای ارتباطی اجرا می‌نماید.\n\n### معماری و تکنولوژی\nمعماری ابزار کاملاً در داخل شبکه مشتری (On-Premise / Air-gapped) اجرا می‌شود و هیچ داده‌ای از پروداکشن خارج نمی‌شود. استفاده از لاگ‌های تغییرناپذیر (Hash-chained audit log) و قابلیت کار در حالت سایه (Shadow mode)، امنیت و قابلیت حسابرسی بالایی ارائه می‌دهد.\n\n### مدل درآمدی\nمدل B۲B Enterprise با ارائه دوره آزمایشی ۹۰ روزه. درآمد اصلی از طریق فروش لایسنس‌های سالانه بر اساس حجم زیرساخت و ارائه پشتیبانی اختصاصی برای صنایع تحت مقررات شدید حاصل می‌شود.\n\n### نقاط قوت\n۱. تمرکز بر اثبات خطا به‌جای حدس زدن چت‌باتی.\n۲. حفظ کامل کنترل در دست انسان (Human-in-the-loop).\n۳. امنیت بسیار بالا و کارکرد بدون نیاز به اینترنت (Air-gapped).\n\n### نقاط ضعف\n۱. قرار داشتن در مرحله آلفا و نیاز به جلب اعتماد اولیه.\n۲. چالش در مدیریت سناریوهای بسیار پیچیده که نیاز به تغییرات چندلایه دارند.\n\n### نکته طلایی برای بازار ایران\nدر ایران به دلیل الزامات پدافند غیرعامل و تحریم‌ها، امکان استفاده از ابزارهای ابری خارجی وجود ندارد. ارائه یک نسخه بومی On-Premise متصل به پیام‌رسان‌های سازمانی که روی مدل‌های هوش مصنوعی متن‌باز محلی اجرا شود، جذابیت فوق‌العاده‌ای برای بانک‌ها و PSPهای ایرانی خواهد داشت.",
+      "iranEquivalent": {
+        "productName": "نگهبان شب (OnCall AI)",
+        "description": "سیستم هوشمند مدیریت و رفع اختلالات زیرساخت‌های بانکی و سازمانی ایران که به صورت کاملاً محلی (On-Premise) نصب می‌شود. این پلتفرم بدون نیاز به خروج داده از شبکه سازمان، علل قطعی سامانه را شناسایی کرده و پس از شبیه‌سازی رفع خطا، پیشنهاد اصلاح را برای مدیر فنی ارسال می‌کند. با استفاده از این ابزار، زمان از دست رفته در خرابی‌های شبانه سیستم‌های بانکی و پرداختی به حداقل می‌رسد.",
+        "marketOpportunity": "بانک‌ها، شرکت‌های پرداخت (PSP) و اپراتورهای ارتباطی ایران با سیستم‌های قدیمی (Legacy) مواجه هستند که بازنویسی آن‌ها ریسک بالایی دارد. ارتقای پایداری این سامانه‌ها و کاهش خسارت‌های ناشی از قطعی شبانه، بازار بسیار سودآوری برای یک راهکار بومی ایمن ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "بانک‌ها، شرکت‌های پرداخت الکترونیک (PSP)، اپراتورهای تلفن همراه، سازمان‌های دولتی و فروشگاه‌های اینترنتی بزرگ.",
+        "challenges": [
+          "پیچیدگی و تکثر زیرساخت‌های قدیمی (Legacy Systems) در سازمان‌های ایرانی",
+          "مقاومت شدید تیم‌های امنیت و DevOps در اعطای دسترسی به هوش مصنوعی",
+          "چالش اتصل به سامانه‌های تیکتینگ و پیام‌رسان‌های بومی یا داخلی سازمان‌ها"
+        ],
+        "monetization": [
+          "فروش مجوز سالانه (Enterprise License) بر اساس تعداد سرورها و سامانه‌ها",
+          "ارائه خدمات سفارشی‌سازی، نصب On-Premise و پشتیبانی ویژه به بانک‌ها"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "Docker",
+          "PostgreSQL",
+          "Ollama / Local LLM",
+          "Next.js"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -72480,7 +72775,43 @@
           "user": "[REDACTED]",
           "text": "This feels to be better than Quizlet! :D"
         }
-      ]
+      ],
+      "faDescription": "از چت‌جی‌پی‌تی بخواهید یک دوره تومو درباره سوراخ‌های سیاه بسازید و یک بازی آموزشی مستقیماً در چت ظاهر می‌شود. این پلتفرم با سؤالات سریع، بازخورد فوری و سیستم جان (Hearts) که در خطر است، یادگیری را جذاب می‌کند. شما می‌توانید موضوع هر گفتگویی را حتی همان مکالمه جاری به یک بازی تبدیل کنید و معلم دلخواه خود را از «پروفسور» تا «دزد دریایی» انتخاب کنید. برای شروع، کافی است تومو را از بخش افزونه‌های چت‌جی‌پی‌تی اضافه کنید؛ نیازی به ثبت‌نام اولیه نیست و شروع بازی کاملاً رایگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به محصول هانت، من موهاناد، سازنده مستقل تومو هستم، یک بازی آموزشی برای هر موضوعی در آیفون و اندروید. امروز این بازی در چت‌جی‌پی‌تی هم در دسترس است. شما لحظه‌ای را می‌شناسید که از چت‌جی‌پی‌تی چیزی می‌پرسید، پاسخ خوبی می‌گیرید، سر تکان می‌دهید و تب را می‌بندید. تومو به آن کنجکاوی جایی برای رفتن می‌دهد. برای یک دوره تومو درباره سوراخ‌های سیاه، نان سوردو یا سقوط روم بخواهید و یک بازی درست در چت ظاهر می‌شود. سؤالات سریع. بازخورد فوری. جان‌ها در خطر است. پنج دقیقه بعد یک واقعیت جدید مورد علاقه دارید و اگر عالی عمل کرده باشید، سه ستاره. عمیقاً در یک مکالمه هستید؟ بگویید «این چت را به یک دوره تومو تبدیل کن» و درباره چیزی که تازه صحبت کردید بازی کنید. همچنین انتخاب می‌کنید که چه کسی تدریس کند: بهترین دوست، پروفسور، توضیح بده انگار ۵ ساله‌ام، روایتگر یا دزد دریایی. همان حقایق، اما ارائه بسیار متفاوت. «آیا نمی‌توانم فقط از چت‌جی‌پی‌تی بخواهم از من آزمون بگیرد؟» بله، و چند سؤال دریافت می‌کنید. تومو یک دوره واقعی می‌سازد: هر پاسخ نمره‌دهی می‌شود، یک امتیاز وجود دارد و یک رکورد (Streak) که شما را برمی‌گرداند. چت‌جی‌پی‌تی هرگز پاسخ‌ها را نمی‌بیند، بنابراین نمی‌تواند آن‌ها را لو بدهد. برای امتحان، تومو را از افزونه‌های چت‌جی‌پی‌تی اضافه کنید و برای هر موضوعی که علاقه‌مند هستید یک دوره تومو بخواهید. بازی کردن رایگان است و برای شروع نیازی به ثبت‌نام نیست. هنوز افزونه‌ها در چت‌جی‌پی‌تی شما نیستند؟ همان بازی در اپلیکیشن تومو در آیفون و اندروید موجود است. یک چیزی که دوست دارم بدانم: چه چیزی پرسیدید و چه کسی تدریس کرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "عالی است!! فقط در حال درک این هستم که چگونه بهتر از دولینگو است. من یک کاربر منظم دولینگو هستم، بنابراین می‌خواستم این موضوع را درک کنم. ممنون از قبل"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این حس می‌کند بهتر از کوئزلت باشد! :D"
+        }
+      ],
+      "aiReview": "مسئله اصلی، گذر موقتی کنجکاوی کاربران پس از دریافت پاسخ از هوش مصنوعی است؛ راه‌حل تومو، تبدیل آن پاسخ به یک تجربه بازی‌وار (Gamified) است که یادگیری را تثبیت می‌کند. معماری محصول بر پایه یک لایه واسط (Plugin) برای چت‌جی‌پی‌تی و یک بک‌اند قدرتمند برای مدیریت وضعیت بازی (State Management) و نمره‌دهی مستقل از مدل زبانی استوار است. مدل درآمدی احتمالی بر اساس اشتراک‌های ویژه و دسترسی به شخصیت‌های تدریسی متنوع است. نقاط قوت شامل شخصی‌سازی بالای سبک تدریس، عدم نیاز به ثبت‌نام اولیه برای شروع و یکپارچگی بومی با اکوسیستم چت‌جی‌پی‌تی است. نقاط ضعف می‌تواند شامل وابستگی به پلتفرم سوم (OpenAI) و محدودیت در عمق محتوای تخصصی عمیق باشد. نکته طلایی برای ایران: تمرکز بر محتوای بومی و فارسی با شخصیت‌های تدریسی شناخته‌شده در فرهنگ ایرانی (مانند استاد دانشگاه یا شخصیت‌های طنز تلویزیونی) می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "تومو ایران (Tomo Iran)",
+        "description": "یک پلتفرم هوشمند که مکالمات روزمره یا پرسش‌های کاربر را به بازی‌های آموزشی تعاملی تبدیل می‌کند. این محصول با استفاده از هوش مصنوعی، دوره‌های کوتاه و جذاب با مکانیک‌های گیمیفیکیشن مانند جان و امتیاز ایجاد می‌کند. کاربران می‌توانند سبک تدریس را از رسمی تا طنزآمیز شخصی‌سازی کنند.",
+        "marketOpportunity": "بازار آموزش آنلاین در ایران با وجود رقابت، تشنه‌ی فرمت‌های کوتاه، جذاب و مبتنی بر هوش مصنوعی است. ترکیب گیمیفیکیشن با محتوای پویا می‌تواند نرخ نگهداشت کاربران را به‌طور چشمگیری افزایش دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "دانشجویان، علاقه‌مندان به یادگیری خودآموز و کاربران فعال شبکه‌های اجتماعی که به دنبال روش‌های سرگرم‌کننده برای یادگیری هستند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به APIهای هوش مصنوعی پیشرفته و هزینه‌های بالای پردازش",
+          "رقابت شدید با اپلیکیشن‌های آموزش زبان رایگان و رایج مانند دولینگو"
+        ],
+        "monetization": [
+          "مدل فریمیوم با اشتراک ماهانه برای دسترسی به معلم‌های ویژه و آمار پیشرفته",
+          "فروش بسته‌های محتوایی تخصصی برای مدارس و دانشگاه‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-10",
@@ -73208,7 +73539,39 @@
           "user": "[REDACTED]",
           "text": "Amazon just introduced two new Bee devices, and I find the idea pretty interesting. Bee Frontier is a wearable you can put on your wrist or clip to your clothes. Bee Eclipse takes a different approach — it attaches magnetically to the back of your phone. Both are designed to remember the little things from your conversations: ideas, commitments, plans, and details you'd otherwise forget. Frontier is available now for $74.99, while Eclipse is coming soon starting at $99.99. Curious which form factor people would actually prefer: something you wear, or something that lives on your phone?"
         }
-      ]
+      ],
+      "faDescription": "محصولات Bee Frontier و Bee Eclipse دستگاه‌های هوش مصنوعی شخصی جدید آمازون هستند که به شما کمک می‌کنند نکات مهم زندگی و کاری خود را به یاد آورید. فرانتیر یک گجت پوشیدنی است که می‌توانید آن را به مچ دست یا لباس خود متصل کنید، در حالی که اکلیپس به صورت مغناطیسی به پشت گوشی متصل می‌شود. هر دو دستگاه گفت‌وگوها را دریافت کرده و بدون ذخیره‌سازی فایل صوتی، آن‌ها را به خلاصه‌ها، یادآورها و پیگیری‌های کاربردی تبدیل می‌کنند. با ادغام الکسا پلاس، این حافظه هوش مصنوعی به شما کمک می‌کند جزئیات مهم را به خاطر آورید و بعداً بر اساس آن‌ها اقدام کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "آمازون به‌تازگی دو دستگاه جدید از سری Bee معرفی کرده و به نظر من این ایده بسیار جذاب است. Bee Frontier یک دستگاه پوشیدنی است که می‌توانید روی مچ ببندید یا به لباس متصل کنید. Bee Eclipse رویکرد متفاوتی دارد و به صورت مغناطیسی به پشت گوشی شما متصل می‌شود. هر دو طوری طراحی شده‌اند که جزئیات کوچک گفت‌وگوها را به یاد آورند؛ از جمله ایده‌ها، تعهدات، برنامه‌ها و نکاتی که ممکن است فراموش کنید. فرانتیر هم‌اکنون با قیمت ۷۴.۹۹ دلار در دسترس است، در حالی که اکلیپس به‌زودی با قیمت پایه ۹۹.۹۹ دلار عرضه می‌شود. کنجکاوم بدانم مردم کدام ظاهر و نحوه استفاده را ترجیح می‌دهند: چیزی که بپوشند یا چیزی که روی گوشی متصل شود؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبسیاری از افراد روزانه نکات کلیدی، برنامه‌ها و توافقات حاصل از گفت‌وگوهای حضوری یا تلفنی را فراموش می‌کنند. آمازون با دو گجت Bee Frontier و Bee Eclipse راه‌حلی نوآورانه ارائه داده است؛ پردازش زنده صدا، استخراج خلاصه‌ها و اقدام‌های بعدی بدون ذخیره دائم فایل صوتی، که هم مشکل فراموشی را حل می‌کند و هم نگرانی‌های حریم خصوصی را برطرف می‌سازد.\n\nمعماری و تکنولوژی:\nاین سیستم از پردازش لبه‌ای (Edge Processing) برای تبدیل اولیه گفتار به متن و ارسال متن به مدل‌های ابری الکسا پلاس بهره می‌برد. رویکرد Privacy-by-Design باعث شده تا نیازی به ذخیره‌سازی فایل‌های صوتی سنگین نباشد که این امر هزینه سرور و ریسک‌های حریم خصوصی را به شدت کاهش می‌دهد.\n\nمدل درآمدی:\nترکیب فروش مستقیم سخت‌افزار (۷۵ تا ۱۰۰ دلار) با مدل درآمدی اشتراکی برای دسترسی به قابلیت‌های پیشرفته سرویس الکسا پلاس، ساختار مالی پایداری را برای آمازون ایجاد می‌کند.\n\nنقاط قوت:\n- ارائه دو فرم فاکتور متفاوت (پوشیدنی و متصل به گوشی) برای پوشش سلایق مختلف\n- حفظ حریم خصوصی با عدم ذخیره‌سازی فایل صوتی\n- یکپارچگی عمیق با اکوسیستم هوش مصنوعی آمازون\n\nنقاط ضعف:\n- وابستگی شدید به اکوسیستم آمازون و اینترنت مداوم\n- احتمال عملکرد ضعیف در محیط‌های بسیار شلوغ و پر سروصدا\n\nنکته طلایی برای ایران:\nبرای بومی‌سازی این محصول در ایران، نیازی به شروع از سخت‌افزار پیچیده پوشیدنی نیست. می‌توان ابتدا فرم فاکتور مگنتی (پشت گوشی) یا حتی یک اپلیکیشن ضبط هوشمند را پیاده‌سازی کرد و تمرکز اصلی را بر تقویت مدل‌های پردازش زبان فارسی (STT و LLM) و اتصال مستقیم آن به تقویم‌ها و نرم‌افزارهای مدیریت وظایف ایرانی گذاشت.",
+      "iranEquivalent": {
+        "productName": "همیار هوشمند نگار",
+        "description": "این محصول یک گجت هوشمند دستیار جلسه است که به پشت گوشی متصل شده و گفتگوها را تحلیل می‌کند. دستگاه بدون ذخیره‌سازی فایل صوتی، نکات مهم، برنامه‌ها و یادآورها را استخراج کرده و در اپلیکیشن همراه ذخیره می‌سازد. هدف اصلی این ابزار افزایش بهره‌وری مدیران، متخصصان و افرادی است که با حجم بالای جلسات روزمره مواجه هستند.",
+        "marketOpportunity": "در بازار ایران به دلیل حجم بالای گفت‌وگوهای شفاهی کاری و ضعف در مستندسازی جلسات، نیاز شدیدی به دستیار هوشمند ضبط و یادآوری احساس می‌شود. عدم حضور آمازون در ایران فرصتی طلایی برای ارائه یک نمونه بومی سازگار با زبان و لهجه‌های فارسی ایجاد کرده است.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "مدیران ارشد و میانی، فریلنسرها، مشاوران، پزشکان و دانشجویان",
+        "challenges": [
+          "پیچیدگی‌های تامین و ساخت سخت‌افزار و بدنه مگنتی در حجم انبوه",
+          "چالش‌های تبدیل دقیق گفتار به متن (STT) در زبان فارسی با وجود سروصدای محیطی"
+        ],
+        "monetization": [
+          "فروش اولیه دستگاه سخت‌افزاری",
+          "فروش اشتراک ماهانه نرم‌افزار برای پردازش‌های پیشرفته هوش مصنوعی"
+        ],
+        "techStack": [
+          "React Native",
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "Whisper Fine-tuned",
+          "Llama ۳ Persian Fine-tuned"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -73249,7 +73612,46 @@
           "user": "[REDACTED]",
           "text": "Can I switch between different AI models in the same project? Amazing launch!!"
         }
-      ]
+      ],
+      "faDescription": "پاپ‌کرافت ابزاری پیشرفته است که به شما امکان می‌دهد انواع ویدیو، تصویر و صوت را مستقیماً از طریق ایجنت‌های هوش مصنوعی تولید کنید. تنها با قرار دادن یک آدرس اینترنتی در محیط‌هایی مانند کلود، چت‌جی‌پی‌تی، کرسر یا کلود کد، ایجنت شما می‌تواند سناریو را برنامه‌ریزی کرده، پیش‌نمایش هزینه‌ها را نشان دهد و خروجی‌های مالتی‌مدیا خلق کند. این پلتفرم از بیش از ۲۰ مدل برتر جهانی نظیر Seedance ۲.۵، Veo ۳.۱، Kling ۳.۰ و Nano Banana Pro پشتیبانی می‌کند. برای استفاده از این سرویس نیازی به کلید API نیست و با ورود از طریق OAuth می‌توانید از ۱۰۰ اعتبار رایگان اولیه بهره‌مند شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به اهالی پروداکت هانت — من اریک هستم، هم‌بنیان‌گذار پاپ‌کرافت. ما پاپ‌کرافت را به عنوان یک استودیوی یکپارچه برای برترین مدل‌های هوش مصنوعی ویدیو، تصویر و صدا (Seedance ۲.۵، Google Omni ۱.۱، Kling ۳.۰ Omni، Nano Banana Pro، GPT Image ۲.۵، ElevenLabs و...) ساختیم. سپس متوجه شدیم که تیم خودمان دیگر برنامه اصلی را باز نمی‌کند؛ ما فقط به کلود و کرسر پرامپت می‌دادیم و می‌خواستیم خروجی همان‌جا ظاهر شود. بنابراین پاپ‌کرافت MCP را ساختیم که تمام پلتفرم را در قالب یک سرور MCP ارائه می‌دهد: یک اندپوینت واحد (https://popcraft.ai/api/mcp)، ورود با OAuth، بدون نیاز به کلید API، تازه‌سازی خودکار توکن و ۲۷ ابزار مختلف برای کاوش مدل‌ها، آپلود مراجع، پیش‌نمایش هزینه، تولید ویدیو/تصویر/صدا/سه‌بعدی و ارتقای کیفیت. جریان‌های کاری تولید به صورت زنده ارائه می‌شوند: مثلاً از ایجنت بخواهید 'یک تبلیغ ۱۵ ثانیه‌ای عمودی UGC برای این محصول' بسازد و ایجنت قبل از تولید، دستورالعمل ما (دریافت اطلاعات ← هویت سازنده ← استوری‌بورد ← فاز واقعی‌سازی ← یک کلیپ Seedance با صدای نیتیو) را دنبال می‌کند. این سیستم در Claude، Claude Code، Cursor، ChatGPT و Codex کار می‌کند. نقاط قوت فعلی آن شامل ساخت تبلیغات UGC محصول از روی یک عکس، کاورهای یوتیوب با حفظ هویت چهره، کلیپ‌های ۳۰ ثانیه‌ای تک‌پ برداشت Seedance ۲.۵، مجموعه‌تصاویر محصول، گویندگی و موسیقی است. محدودیت‌های واقعی: با اعتبارات پاپ‌کرافت کار می‌کند (۱۰۰ اعتبار رایگان در شروع؛ پلن‌های Pro و Max شامل سهمیه روزانه Seedance ۲.۰ Fast & Mini هستند)، ویدیو رسانه‌ای پرهزینه است بنابراین ایجنت قبل از صرف اعتبار هزینه را پیش‌نمایش می‌دهد، و ابزارهای بوم/کاراکتر هنوز در دست توسعه هستند. شما از کدام ایجنت اجرا می‌گیرید و اول چه چیزی می‌سازید؟ من تمام روز این‌جا هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ساخت خودکار ویدیو و صدا توسط ایجنت‌ها واقعاً بخش جذاب داستان است! 🎬 آیا قیمت‌گذاری بر اساس هر بار تولید محاسبه می‌شود یا اشتراک ماهانه است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا می‌توانم در یک پروژه واحد بین مدل‌های مختلف هوش مصنوعی سوییچ کنم؟ لانچ فوق‌العاده‌ای بود!!"
+        }
+      ],
+      "aiReview": "پاپ‌کرافت با استفاده از پروتکل استاندارد MCP (Model Context Protocol)، چالش پراکندگی ابزارهای تولید محتوا را حل کرده است. ایجنت‌های هوشمند مانند Claude یا ChatGPT اکنون می‌توانند بدون نیاز به سوییچ میان سایت‌های مختلف، برنامه‌ریزی، تخمین هزینه و تولید نهایی ویدیو، تصویر و صدا را انجام دهند. یکپارچه‌سازی بیش از ۲۰ مدل مطرح مانند Seedance و ElevenLabs در یک اندپوینت واحد با احراز هویت OAuth، تجربه کاربری روانی ایجاد کرده است. نقطه قوت اصلی محصول، لایه هوشمند پیش‌نمایش هزینه و جریان‌های کاری پیش‌فرض (مانند ساخت تبلیغات UGC) است. با این حال، هزینه بالای رندر ویدیو و احتمال اتمام سریع اعتبارات از نقاط ضعف آن محسوب می‌شود. برای بازار ایران، بومی‌سازی چنین الگویی با اتصال به مدل‌های صوتی فارسی و الگوهای تبلیغاتی اینستاگرام می‌تواند موفقیت تجاری بالایی به همراه داشته باشد.",
+      "iranEquivalent": {
+        "productName": "ایجنت‌کست (AgentCast)",
+        "description": "پلتفرم بومی اتصال ایجنت‌های هوش مصنوعی به موتورهای تولید محتوای مالتی‌مدیا در ایران. این ابزار به آژانس‌های مارکتینگ و دستیارهای هوشمند اجازه می‌دهد بدون خروج از محیط چت، سناریوهای تبلیغاتی و تصویری را برنامه‌ریزی و رندر کنند. همچنین امکان مدیریت هزینه‌ها و انتخاب هوشمند مدل‌های صوتی و تصویری مختلف را فراهم می‌سازد.",
+        "marketOpportunity": "بازار تبلیغات شبکه‌های اجتماعی در ایران نیاز مبرمی به تولید سریع و ارزان محتوای ویدیویی و UGC دارد. اتوماسیون این فرایند از طریق ایجنت‌های هوش مصنوعی می‌تواند هزینه‌های تولید محتوای کسب‌وکارها را به شدت کاهش دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "آژانس‌های دیجیتال مارکتینگ، تولیدکنندگان محتوای شبکه‌های اجتماعی، فروشگاه‌های اینترنتی و برنامه‌نویسان توسعه‌دهنده ایجنت‌های هوش مصنوعی.",
+        "challenges": [
+          "محدودیت دسترسی به API مدل‌های بین‌المللی به دلیل تحریم‌ها و هزینه‌های بالای ارزی",
+          "پایین بودن سرعت اینترنت و چالش‌های پردازش سنگین ویدیو روی سرورهای داخلی"
+        ],
+        "monetization": [
+          "فروش بسته اعتباری (Credit Pack) به صورت ریالی برای تولید محتوا",
+          "اشتراک ماهانه و سالانه برای آژانس‌های مارکتینگ با پشتیبانی اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "Redis"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -74461,7 +74863,44 @@
           "user": "[REDACTED]",
           "text": "Is this hearthstone and vampire survivors combined? let me in"
         }
-      ]
+      ],
+      "faDescription": "سازندگان بازی Vampire Survivors که به طرز شگفت‌انگیزی برنده سه جایزه بفتا شده‌اند، محصول جدید خود یعنی Vampire Crawlers را معرفی کرده‌اند. این بازی هیجان گلوله‌برفی و تدریجی نسخه قبلی را به یک بازی نوبتی فوق‌سریع، کارت‌محور و سیاه‌چال‌پیمایی با المان‌های روگ-لایت تبدیل می‌کند. شما می‌توانید دسته‌کارت‌های قدرتمند و دست‌نخورده بسازید، سیاه‌چال‌های آشنا را از زاویه دیدی جدید کاوش کنید و ترکیب‌های ویرانگر و آخرالزمانی روی دشمنان پیاده سازید. می‌توانید کاملاً صبورانه و تاکتیکی بازی کنید یا نوبت‌ها را با حداکثر سرعتی که یک انسان می‌تواند اجرا کند پیش ببرید؛ نتیجه همیشه دقیق محاسبه می‌شود و بی‌دلیل نیست که آن را فوق‌سریع نامیده‌ایم!",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "به عنوان یکی از طرفداران پرشور بازی Vampire Survivors اثر استودیوی Poncle، دیدن این بازی در اپ استور برام خیلی جذاب بود. به نظر می‌رسه سبک بازی کاملاً متفاوتی داره اما همه شخصیت‌های آشنا توی اون حضور دارن! 🧛🏻🧄"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا این ترکیب هارت‌استون و ونپایر سوروایورزه؟ زودتر راهم بدین داخل!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبازی‌های نوبتی و کارتی معمولاً ریتمی کند دارند و برای مخاطبان اکشن کسالت‌بار می‌شوند. Vampire Crawlers با تلفیق سیستم نوبتی فوق‌سریع (Hyper Turn-based) و عناصر روگ-لایت، هیجان بازی‌های اکشن را وارد قالبی استراتژیک و کارت‌محور کرده است.\n\nمعماری و تکنولوژی:\nاستفاده از موتور Unity برای رندرینگ سریع و بهینه‌سازی محاسبات کلاینت‌محور در مبارزات نوبتی، همراه با زیرساخت سروری Node.js و Redis جهت همگام‌سازی دک‌ها و پروفایل کاربران، ساختار فنی چابک و پایداری را شکل می‌دهد.\n\nمدل درآمدی:\nمدل فریمیوم با تکیه بر فروش بسته‌های کارت، پوسته‌های سفارشی (Cosmetics) و سیستم بتل‌پاس فصلی، پتانسیل بالایی برای مونتایز مستمر ایجاد می‌کند.\n\nنقاط قوت:\n۱. استفاده از محبوبیت و اعتبار عنوان قبلی (Vampire Survivors).\n۲. نوآوری در سرعت‌بخشی به بازی‌های نوبتی.\n۳. ارزش تکرارپذیری بسیار بالا به لطف المان‌های روگ-لایت.\n\nنقاط ضعف:\n۱. خطر سردرگمی بازیکنان سنتی به دلیل سرعت بالای نوبت‌ها.\n۲. وابستگی شدید موفقیت بازی به تعادل دقیق (Balance) کارت‌ها.\n\nنکته طلایی برای ایران:\nبومی‌سازی این عنوان با داستان‌ها و افسانه‌های کهن ایرانی (مانند نبرد با دیوهای شاهنامه) و پیاده‌سازی سیستم پرداخت آسان داخلی، می‌تواند مخاطبان جوان علاقه‌مند به بازی‌های کارتی تاکتیکی را به شدت جذب کند.",
+      "iranEquivalent": {
+        "productName": "خزندگان تاریکی",
+        "description": "این محصول یک بازی موبایلی و رایانه‌ای در سبک کارت‌بازی نوبتی و سیاه‌چال‌پیمایی با درونمایه اساطیر ایرانی است. بازیکنان با ترکیب کارت‌های مختلف و ساخت دک‌های قدرتمند، در سیاه‌چال‌های پر از هیولا به مبارزه سریع و تاکتیکی می‌پردازند. الگوریتم‌های بهینه‌شده بازی اجازه می‌دهند تا مبارزات نوبتی با سرعتی بالا و حس‌و‌حالی هیجان‌انگیز تجربه شوند.",
+        "marketOpportunity": "بازار بازی‌های موبایلی ایران تشنه عناوین ترکیبی کارت‌بازی و روگ-لایت با گرافیک جذاب و ریتم سریع است. با توجه به محبوبیت عناوین نوبتی و کارت‌محور بین گیمرهای ایرانی، ارائه یک نمونه باکیفیت داخلی می‌تواند سهم بازار قابل توجهی کسب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "گیمرهای علاقه‌مند به بازی‌های کارتی، روگ-لایت، طرفداران بازی‌های نوبتی و سبک Dungeon Crawler روی موبایل و رایانه",
+        "challenges": [
+          "پیچیدگی تعادل‌سازی کارت‌ها و مکانیزم‌های بازی",
+          "هزینه بالای تولید محتوای بصری و انیمیشن کارت‌ها",
+          "چالش‌های جذب و نگهداشت کاربر در برابر بازی‌های مشابه خارجی"
+        ],
+        "monetization": [
+          "فروش بسته کارت‌ها و بسته‌های افزایشی درون‌برنامه‌ای",
+          "اشتراک ویژه فصل (Battle Pass)",
+          "فروش آیتم‌های تزئینی و پوسته‌های قهرمانان"
+        ],
+        "techStack": [
+          "Unity",
+          "C#",
+          "Node.js",
+          "MongoDB",
+          "Redis"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -75475,10 +75914,10 @@
   "audit": {
     "products": 759,
     "withRealComments": 759,
-    "withPersianComments": 691,
-    "withPersianDescription": 691,
-    "withAiReview": 669,
-    "withIranEquivalent": 691,
+    "withPersianComments": 701,
+    "withPersianDescription": 701,
+    "withAiReview": 679,
+    "withIranEquivalent": 701,
     "totalRealComments": 4647
   }
 }
