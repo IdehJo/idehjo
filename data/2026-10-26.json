@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "scrapedAt": "2026-10-25T22:45:03.061Z",
+  "scrapedAt": "2026-10-26T00:35:29.637Z",
   "periods": {
     "today": [
       {
@@ -29,12 +29,16 @@
         "maker": "Donough Liu",
         "makerTitle": "",
         "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 232,
+        "votes": 234,
         "websiteUrl": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋I’m Quinn, one of the builders behind Moli by Lexmount.Moli is the fastest headless browser for agents and harnesses. It’s the custom-built engine powering the Lexmount Browser platform, helping your agents and harnesses run faster at a lower cost.If you’re building agents and harnesses for research, data collection, or web automation, this is for you.✍️ Here’s how to build with Moli：Try it in our playground to verify your credentials and inspect the browser before coding.Or use our SDK to control real cloud browsers with support for Playwright, CDP, extensions, proxies, downloads, and session replay.Run real web tasks and get verifiable results, like a CSV with source links.Why use Moli by Lexmount:Faster starts and less memory：Moli cold-starts around 5× faster than Chrome while using roughly 1/7 of the memory in our benchmarks.Less infrastructure work: We handle browser setup and management.Cloud scalability: Run multiple Moli-powered browsers simultaneously with cloud networking and proxy support.Lower costs: 100 browser hours and 25 concurrent sessions for $12/month.🎉 To celebrate our launch, Product Hunt users get 2 months of Moli by Lexmount Pro free. Click “https://browser.lexmount.com/?ref=producthunt” and sign up to claim your offer.We’ll also be sharing more perks and giveaways on Discord soon：https://discord.gg/95QXqbsgVu.Come share what you’re building and try Moli by Lexmount with us 🚀"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Nice. My agents drive a real browser all day (Gemini for images, editors over a debug port) and the slow part is always waiting for pages and uploads, not the model. Does Moli keep logged-in sessions between runs, or is every run a clean profile?"
           },
           {
             "user": "[REDACTED]",
@@ -59,10 +63,6 @@
           {
             "user": "[REDACTED]",
             "text": "Looks amazing, great work on the launch team! Love the ergonomics of the SDK. Before we built @Strawberry we were building something similar called dendrite SDK, very cool to see how far the tech has gotten!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Building agent automation systems, resource efficiency is everything. The 1/7 memory footprint vs Chrome is a real win - running thousands of headless instances becomes viable. Love that it's open-source too, gives more control over the execution layer."
           }
         ]
       },
@@ -70,47 +70,6 @@
         "id": "ph-today-2",
         "date": "2026-10-25",
         "rank": 2,
-        "name": "AgentGrid.io",
-        "slug": "agentgrid-io",
-        "tagline": "Shared workspace for humans and agents",
-        "description": "Built for Grok Bot, Muse AI, Instinct, Hermes, Claude, GPT, OpenClaw, Cursor, Codex, all agents are welcome. Work on the same live artifacts. Docs, reports, slides, apps, and designs, with shared context, controlled access, and full version history.",
-        "category": "Artificial Intelligence • Maker Tools • Vibe coding",
-        "categoryFa": "هوش مصنوعی • Maker Tools • Vibe coding",
-        "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/fb81d1a5-1eef-40f5-af62-fe544378a6a8.gif?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/e0f477da-7baf-4fc7-bbf6-84a4c02e607a.jpeg?auto=format",
-          "https://ph-files.imgix.net/acc15ed1-d067-403d-bd16-b901c6400bfe.png?auto=format",
-          "https://ph-files.imgix.net/d7a46409-4178-4340-bf5b-bc63e7f772a5.png?auto=format",
-          "https://ph-files.imgix.net/b1d6247c-d2e9-4fbc-a866-5ba8a31204ff.png?auto=format",
-          "https://ph-files.imgix.net/6933a3f0-269d-42f2-b35f-24f9098cd2c8.png?auto=format",
-          "https://ph-files.imgix.net/2c9df38d-fec9-408c-b5f9-2a627e522945.png?auto=format",
-          "https://ph-files.imgix.net/e3db03c0-4311-4e22-bf4e-b9da37e32392.jpeg?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 167,
-        "websiteUrl": "https://www.producthunt.com/r/NJM7SLYJGCQILR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey PH 👋Avishay here, co-founder of Anima, makers of AgentGrid.io.Today, we're launching AgentGrid.io, a shared drive for humans and AI agents to collaborate on documents, websites, apps, and designs. Feels like Google Drive for humans, Git for agents.Bring your own AI agents. Keep your work independent of any AI provider. Everyone works on the same live artifacts.What you can do with AgentGrid:Collaborate on documents - Google Docs-like multiplayer editing for humans, with a Markdown and Git interface for agents.Share/publish websites and apps - HTML/React apps are a new type of document - reports, slides, designs, internal apps - Share them securely or publish to the web, simply by asking your chat/agent.Multi-agent-human collab - Let Claude create a report, ChatGPT improve it, Grok Bot generate visuals, and a teammate edit it manually. All on the same artifact.Share AI work securely - Give every document, report, app, or design a persistent link and structured storage, instead of leaving it buried in a chat.Version history and control - See who changed what, restore previous versions, and control what each agent can access or modify.Agent-agnostic, made for all agents - Claude, ChatGPT, Codex, Grok Bot, Cursor, Hermes, OpenClaw, and others via MCP, CLI, and APIs.Bring your existing work - Import files, websites, and Figma designs to continue working with your agents. You can also ask your agents to simply put their work on AgentGrid.io.Who it's for:Anyone creating real work with AI.Founders, builders, designers, developers, marketers, product teams, agencies, and companies bringing AI agents into their daily workflows.AgentGrid.io is Free to start: Unlimited agent seats.Try it with your existing Claude, Grok Bot, or ChatGPT. Connect AgentGrid and ask:\"Share this with me on AgentGrid.io.\"Why we built AgentGrid.io:Since the launch of OpenClaw and Hermes, we've been working alongside AI agents across Marketing, Engineering, BI, QA, CS, and more.AI agents are not like humans, but they are becoming teammates we collaborate with, and we need an easy way to do that. We built AgentGrid for ourselves, and today we're opening it to everyone.We'll be here all day. Ask anything, share feedback, questions, and thoughts 👇"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Great job! Looks really powerful"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is exactly what's been missing - a shared canvas for humans and multiple AI agents. The version history + permission controls are crucial for real teams. Multi-agent collaboration on the same artifact solves the \"which AI version did we actually use?\" problem. Excited to try this with Claude + Cursor workflows."
-          }
-        ]
-      },
-      {
-        "id": "ph-today-3",
-        "date": "2026-10-25",
-        "rank": 3,
         "name": "Badgey",
         "slug": "badgey",
         "tagline": "Your iPhone becomes a name badge that faces the room",
@@ -131,7 +90,7 @@
         "maker": "Marco Luthi",
         "makerTitle": "Designer & Maker of Digital Things",
         "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 166,
+        "votes": 170,
         "websiteUrl": "https://www.producthunt.com/r/PGZDT6IPQQGLGJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -153,6 +112,47 @@
           {
             "user": "[REDACTED]",
             "text": "How long does the battery last with the screen on for a whole conference day? And does it stop the phone from auto-locking?"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-3",
+        "date": "2026-10-25",
+        "rank": 3,
+        "name": "AgentGrid.io",
+        "slug": "agentgrid-io",
+        "tagline": "Shared workspace for humans and agents",
+        "description": "Built for Grok Bot, Muse AI, Instinct, Hermes, Claude, GPT, OpenClaw, Cursor, Codex, all agents are welcome. Work on the same live artifacts. Docs, reports, slides, apps, and designs, with shared context, controlled access, and full version history.",
+        "category": "Artificial Intelligence • Maker Tools • Vibe coding",
+        "categoryFa": "هوش مصنوعی • Maker Tools • Vibe coding",
+        "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/fb81d1a5-1eef-40f5-af62-fe544378a6a8.gif?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/e0f477da-7baf-4fc7-bbf6-84a4c02e607a.jpeg?auto=format",
+          "https://ph-files.imgix.net/acc15ed1-d067-403d-bd16-b901c6400bfe.png?auto=format",
+          "https://ph-files.imgix.net/d7a46409-4178-4340-bf5b-bc63e7f772a5.png?auto=format",
+          "https://ph-files.imgix.net/b1d6247c-d2e9-4fbc-a866-5ba8a31204ff.png?auto=format",
+          "https://ph-files.imgix.net/6933a3f0-269d-42f2-b35f-24f9098cd2c8.png?auto=format",
+          "https://ph-files.imgix.net/2c9df38d-fec9-408c-b5f9-2a627e522945.png?auto=format",
+          "https://ph-files.imgix.net/e3db03c0-4311-4e22-bf4e-b9da37e32392.jpeg?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-10-25T07:01:00Z",
+        "votes": 169,
+        "websiteUrl": "https://www.producthunt.com/r/NJM7SLYJGCQILR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey PH 👋Avishay here, co-founder of Anima, makers of AgentGrid.io.Today, we're launching AgentGrid.io, a shared drive for humans and AI agents to collaborate on documents, websites, apps, and designs. Feels like Google Drive for humans, Git for agents.Bring your own AI agents. Keep your work independent of any AI provider. Everyone works on the same live artifacts.What you can do with AgentGrid:Collaborate on documents - Google Docs-like multiplayer editing for humans, with a Markdown and Git interface for agents.Share/publish websites and apps - HTML/React apps are a new type of document - reports, slides, designs, internal apps - Share them securely or publish to the web, simply by asking your chat/agent.Multi-agent-human collab - Let Claude create a report, ChatGPT improve it, Grok Bot generate visuals, and a teammate edit it manually. All on the same artifact.Share AI work securely - Give every document, report, app, or design a persistent link and structured storage, instead of leaving it buried in a chat.Version history and control - See who changed what, restore previous versions, and control what each agent can access or modify.Agent-agnostic, made for all agents - Claude, ChatGPT, Codex, Grok Bot, Cursor, Hermes, OpenClaw, and others via MCP, CLI, and APIs.Bring your existing work - Import files, websites, and Figma designs to continue working with your agents. You can also ask your agents to simply put their work on AgentGrid.io.Who it's for:Anyone creating real work with AI.Founders, builders, designers, developers, marketers, product teams, agencies, and companies bringing AI agents into their daily workflows.AgentGrid.io is Free to start: Unlimited agent seats.Try it with your existing Claude, Grok Bot, or ChatGPT. Connect AgentGrid and ask:\"Share this with me on AgentGrid.io.\"Why we built AgentGrid.io:Since the launch of OpenClaw and Hermes, we've been working alongside AI agents across Marketing, Engineering, BI, QA, CS, and more.AI agents are not like humans, but they are becoming teammates we collaborate with, and we need an easy way to do that. We built AgentGrid for ourselves, and today we're opening it to everyone.We'll be here all day. Ask anything, share feedback, questions, and thoughts 👇"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great job! Looks really powerful"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This is exactly what's been missing - a shared canvas for humans and multiple AI agents. The version history + permission controls are crucial for real teams. Multi-agent collaboration on the same artifact solves the \"which AI version did we actually use?\" problem. Excited to try this with Claude + Cursor workflows."
           }
         ]
       },
@@ -181,7 +181,7 @@
         "maker": "Thibault Le Ouay",
         "makerTitle": "building openstatus.dev 🫖",
         "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 141,
+        "votes": 142,
         "websiteUrl": "https://www.producthunt.com/r/GUOGK3ES446K7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -289,6 +289,47 @@
         "id": "ph-today-7",
         "date": "2026-10-25",
         "rank": 7,
+        "name": "MRRaudit",
+        "slug": "mrraudit",
+        "tagline": "Understand why your MRR differs and get a number you trust",
+        "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
+        "category": "Analytics • Payments • SaaS",
+        "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
+        "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
+          "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
+          "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-10-25T07:01:00Z",
+        "votes": 101,
+        "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-9",
+        "date": "2026-10-25",
+        "rank": 9,
         "name": "pawl",
         "slug": "pawl",
         "tagline": "a tiny mac focus timer you start by pulling a paw",
@@ -389,47 +430,6 @@
           {
             "user": "[REDACTED]",
             "text": "ok asking Claude for \"a buy-side M&A room for Project Atlas\" and getting folders + permissions back is a pretty good demo of why MCP matterswho's allowed to change permissions through the agent though??? like if someone asks it to give an outside advisor acess to everything, does it go through or wait for a human ok???"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-9",
-        "date": "2026-10-25",
-        "rank": 9,
-        "name": "MRRaudit",
-        "slug": "mrraudit",
-        "tagline": "Understand why your MRR differs and get a number you trust",
-        "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
-        "category": "Analytics • Payments • SaaS",
-        "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
-        "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
-          "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
-          "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 99,
-        "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
           }
         ]
       },
@@ -603,7 +603,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-24T07:01:00Z",
-        "votes": 252,
+        "votes": 255,
         "websiteUrl": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -991,7 +991,66 @@
             "user": "[REDACTED]",
             "text": "Yay! I am a part of next potentially big thing!"
           }
-        ]
+        ],
+        "faDescription": "پروژه dev/null/ به عنوان یک پخش زنده از دفتر جت‌برینز (JetBrains) آغاز شد. در تاریخ ۱۵ اکتبر ۲۰۲۶، نونو مادورو، برنت روز، متیو ناپولی و پولین وس یک شبکه اجتماعی برای توسعه‌دهندگان وب را از صفر و طی ۴۸ ساعت به صورت کاملاً شفاف و زنده ساختند. در این پلتفرم می‌توانید با حساب گیت‌هاب وارد شوید، قطعه‌کدها را به اشتراک بگذارید، لایک کنید، پاسخ دهید و موارد دیگر. صدها نفر از شما ریکوئست‌های گیت‌هاب (PR) ارسال کردید، تایلر اوتول (خالق لاراول) در میان پخش زنده سر زد و گی‌یرمو راخ (مدیر ورسل) آن را فوق‌العاده نامید. از اینکه ما را تماشا کردید، به اشتراک گذاشتید و انتقاد کردید سپاسگزاریم.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "۴۸ ساعت دیوانه‌کننده بود! راستش هنوز دارم آن را هضم می‌کنم. ما با استفاده از قالبی که اکثر تیم‌های بازاریابی به دلیل ریسک بالا سمت آن نمی‌روند ویروسی شدیم (در هکر نیوز، اکس و غیره)؛ قالبی کاملاً خام، بدون ویرایش و بدون سناریو که در آن فقط خودمان بودیم و در یک لایو استریم ۴۸ ساعته تمام جزئیات را نشان دادیم. داستان کامل در لینک موجود است. مردم عاشق یک برند نمی‌شوند، بلکه عاشق انسان‌های پشت آن می‌شوند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "ساخت زنده در ۴۸ ساعت؟؟ این فوق‌العاده است. اینکه متن‌باز هم هست را واقعاً دوست دارم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "بعد از کمی استفاده به نظر بسیار نویدبخش می‌رسد؛ شگفت‌انگیز است که این را فقط در ۴۸ ساعت ساختید. کارتان عالی بود!"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "چه کسی می‌خواهد از طریق رایکست (Raycast) در dev/null/ پست بگذارد؟ من یک افزونه برای این کار ساختم (که در حال بررسی است)!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "بهترین شبکه اجتماعی برای توسعه‌دهندگان. زمان‌های بسیار خوبی را هنگام گفتگو در پلتفرم، تماشای زنده ساخت آن و مشارکت سپری کردم. اینکه می‌توان بخشی از آن بود بسیار جذاب است!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "آیا برنامه‌ای برای درآمدزایی یا نمایش تبلیغات در این پلتفرم وجود دارد؟ چگونه می‌خواهید از این پلتفرم کسب درآمد کرده و آن را فعال نگه دارید؟ در هر صورت پلتفرم فوق‌العاده‌ای است و استفاده از آن را واقعاً دوست دارم!"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "این عالی است — اما من هم دقیقاً همان سؤال j۱۲t@ را دارم:"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "هورا! من بخشی از یک اتفاق بزرگ بعدی هستم!"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان وب نیازمند فضایی تخصصی و صمیمی برای اشتراک‌گذاری سریع کد و شبکه‌سازی بدون حواشی شبکه‌های اجتماعی عمومی هستند. dev/null/ با ارائه یک پلتفرم ساده، متن‌باز و متمرکز بر گیت‌هاب، بستری تعاملی را از طریق یک هاکاتون زنده ۴۸ ساعته خلق کرده است.\n\nمعماری و تکنولوژی:\nتوسعه‌یافته با فریم‌ورک‌های مدرن وب در اکوسیستم PHP/Laravel (با حضور چهره‌های سرشناس این حوزه)، ورود یکپارچه با OAuth گیت‌هاب، قابلیت تعاملات آنی (Real-time) و ساختار متن‌باز جهت دریافت PR از سوی کاربران.\n\nمدل درآمدی:\nدر حال حاضر مدل درآمدی مستقیم ندارد و به عنوان یک پروژه جامعه‌محور (Community-driven) اجرا شده است؛ اما پتانسیل جذب اسپانسرشیپ شرکتی، ارائه خدمات کاریابی تخصصی (Recruitment) و فروش ابزارهای جانبی را دارد.\n\nنقاط قوت:\n۱. بازاریابی ویروسی فوق‌العاده از طریق راهبرد ساخت شفاف و زنده (Building in Public).\n۲. مشارکت فعال جامعه برنامه‌نویسان و حمایت چهره‌های مطرح صنعت فناوری.\n۳. تجربه کاربری ساده و متمرکز بر نیاز اصلی برنامه‌نویسان.\n\nنقاط ضعف:\n۱. مبهم بودن مدل مالی جهت نگهداری طولانی‌مدت و پوشش هزینه‌های سرور.\n۲. چالش حفظ نرخ تعامل کاربران پس از فروکش کردن هیجان اولیه رویداد.\n\nنکته طلایی برای ایران:\nاجرای رویدادهای «ساخت زنده محصول در ۴۸ ساعت» توسط توسعه‌دهندگان سرشناس ایرانی، بهترین راهبرد بازاریابی با هزینه صفر (Zero-dollar Marketing) برای جلب اعتماد عمیق جامعه فنی و ایجاد ویرال مارکتینگ ارگانیک در فضای استارت‌آپی ایران است.",
+        "iranEquivalent": {
+          "productName": "کدگپ (CodeGap)",
+          "description": "کدگپ یک شبکه اجتماعی بومی و متن‌باز برای برنامه‌نویسان و توسعه‌دهندگان ایرانی است که امکان اشتراک‌گذاری قطعه‌کد، پرسش و پاسخ و تعامل زنده را فراهم می‌کند. این پلتفرم با هدف ایجاد بستری تخصصی و بدون حواشی برای جامعه فنی کشور طراحی شده است. کاربران می‌توانند با حساب گیت‌هاب خود وارد شده و در پروژه‌های گروهی و بهبود بستر مشارکت کنند.",
+          "marketOpportunity": "جامعه بزرگ توسعه‌دهندگان ایرانی نیازمند یک پلتفرم تخصصی بومی جهت شبکه‌سازی، به اشتراک‌گذاری تجربیات و جذب نیرو است. ساخت پروژه‌های زنده در قالب رویدادهای شفاف برنامه‌نویسی پتانسیل بالایی برای جذب مخاطبان فنی و اسپانسرشیپ شرکتی در ایران دارد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان وب، توسعه‌دهندگان نرم‌افزار، دانشجویان کامپیوتر و شرکت‌های فناورمحور ایرانی",
+          "challenges": [
+            "تأمین هزینه‌های زیرساخت و سرور بدون وجود مدل درآمدی اولیه روشن",
+            "مقاومت برنامه‌نویسان برای مهاجرت از شبکه‌های اجتماعی خارجی مانند توییتر/X و گیت‌هاب"
+          ],
+          "monetization": [
+            "ارائه پنل اختصاصی کارفرمایان جهت فرصت‌های شغلی و جذب استعدادهای فنی",
+            "برگزاری رویدادها، هاکاتون‌ها و پخش‌های زنده با حمایت مالی برندهای بزرگ فناوری"
+          ],
+          "techStack": [
+            "Laravel",
+            "Vue.js",
+            "Tailwind CSS",
+            "PostgreSQL",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-week-2",
@@ -1016,7 +1075,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 428,
+        "votes": 429,
         "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1200,7 +1259,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-22T07:01:00Z",
-        "votes": 342,
+        "votes": 343,
         "websiteUrl": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1277,7 +1336,66 @@
             "user": "[REDACTED]",
             "text": "Hi team, Congrats for the launch. So this is a integration of 1000+ free tools plus a platform to manage the subscription? But ends up I still need to subscripe each of paid tool?"
           }
-        ]
+        ],
+        "faDescription": "به ایجنت‌های هوش مصنوعی خود قدرتی فوق‌العاده ببخشید. با Composio Instant دیگر نیازی به خرید اشتراک‌های متعدد و ثبت‌نام‌های پیچیده در سرویس‌های مختلف ندارید. از طریق این پلتفرم، ایجنت شما می‌تواند به راحتی در وب جستجو کند، مخاطبان تجاری بیابد، صداگذاری انجام دهد و فایل‌های صوتی را به متن تبدیل کند. این ابزار ساده‌ترین راهکار را برای پرداخت هزینه ابزارها توسط خود ایجنت‌های هوش مصنوعی فراهم می‌کند و می‌توانید آن را به صورت رایگان امتحان کنید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "من از Composio Instant برای انجام معاملات در Alpaca با روش توازن حساب استفاده کردم و داده‌ها و فیدهای زنده را از Serp API و تجمع‌کنندگان قیمت دریافت کردم. یک داشبورد هم برای ثبت معاملات زنده اضافه کردم و ۵۲ دلار سود به دست آوردم (که با چند تغییر قابل پیاده‌سازی روی سیستم واقعی است). اکثر دردسرهای مربوط به اعتبار API و شارژ مجدد با Composio Instant حل شد و به‌روزرسانی‌های قیمت را تقریباً به صورت آنی ارائه داد. این یک معامله آزمایشی بود، اما با تغییرات جزئی قابل انطباق با معاملات واقعی است. محصول عالی‌ای است :)"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "تبریک بابت رونمایی @aidanhornsby! اگر یک ایجنت به خرج کردن پول برای کارهایی که واقعاً به جایی نمی‌رسند ادامه دهد، چه اتفاقی می‌افتد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "از استفاده همزمان از ۵ کلید API مختلف برای یک ایجنت بیزار بودم. اگر Instant این مشکل را حل کند، همین امروز از آن استفاده خواهم کرد."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "از آنچه می‌سازید خوشم می‌آید اما بین بخش «برای شما» و «برای توسعه‌دهندگان» کمی گیج شده‌ام. من می‌خواهم به کاربرانم اجازه دهم از ادغام‌های Composio استفاده کنند، آیا Instant برای این سناریو هم مناسب است؟ دیروز قیمت Composio، Monid و looot را مقایسه می‌کردم. بدون بررسی عمیق، کلود به من گفت که شما ۳ برابر گران‌تر هستید، می‌شود بگویید آیا سوءتفاهمی اینجا وجود دارد؟ فکر کنم مقایسه بر اساس Firecrawl بود."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "دارم به این فکر می‌کنم که یک کسب‌وکار کامل را فقط با ایجنت خودم و ابزارهای Instant اداره کنم 👀"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "اکثر پلتفرم‌های ارائه ابزار فقط تا مرحله احراز هویت پیش می‌روند! آیا می‌توانید برای هر ایجنت سقف هزینه تعیین کنید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک برای Instant، عاشق این ایده شدم. وقتی یک ایجنت برای انجام یک کار پولی نیاز به تایید دارد و شما پشت میزتان نیستید چه اتفاقی می‌افتد؟ ما می‌توانیم این را به Pushary متصل کنیم: از طریق گوشی تایید کنید و اجازه دهید ایجنت به کارش ادامه دهد. می‌توانم یک نمونه اپن‌سورس کوچک بسازم، نظرتان چیست؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "سلام به تیم، تبریک برای رونمایی. پس این ترکیبی از ۱۰۰۰+ ابزار رایگان به همراه پلتفرمی برای مدیریت اشتراک است؟ اما در نهایت آیا هنوز باید اشتراک هر ابزار پولی را جداگانه بخرم؟"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان ایجنت‌های هوش مصنوعی برای انجام کارهای پیچیده به ابزارهای متعددی نیاز دارند، اما مدیریت ده‌ها کلید API و خرید اشتراک‌های مجزا اصطکاک بسیار بالایی ایجاد می‌کند. Composio Instant با حذف نیاز به ثبت‌نام‌های متعدد، مدل «پرداخت بر اساس مصرف» را برای ایجنت‌ها فراهم می‌کند تا بتوانند به صورت خودکار هزینه ابزارهای مورد نیاز خود را بپردازند.\n\nمعماری و تکنولوژی:\nاین پلتفرم از یک لایه پروکسی یکپارچه و مدیریت متمرکز اعتبار استفاده می‌کند. ایجنت‌ها از طریق یک SDK واحد یا واسط API به بیش از هزار ابزار متصل شده و احراز هویت و تسویه مالی زیرپوستی توسط خود پلتفرم مدیریت می‌شود.\n\nمدل درآمدی:\nدرآمد اصلی از طریق افزودن درصد مشخصی کارمزد بر روی مصرف واقعی APIها و فروش بسته‌های اعتبار شارژی تامین می‌شود.\n\nنقاط قوت:\nحذف کامل اصطکاک راه‌اندازی، عدم نیاز به مدیریت کلیدهای API متعدد و تسهیل خودکارسازی امور توسط ایجنت‌ها.\n\nنقاط ضعف:\nنگرانی کاربران از هزینه‌کرد بی‌رویه ایجنت‌ها در صورت بروز باگ یا حلقه‌های بی‌نهایت، و نیاز به شفاف‌سازی قیمت‌گذاری در مقایسه با ابزارهای مجزا.\n\nنکته طلایی برای ایران:\nدر ایران به دلیل عدم دسترسی مستقیم به کارت‌های credit بین‌المللی، ایجاد یک «پلتفرم واسط ریالی» که اعتبار APIها را یکجا خریداری کرده و با دریافت ریال، دسترسی یکپارچه به صدها ابزار AI را برای توسعه‌دهندگان ایرانی فراهم کند، یک فرصت فوق‌العاده سودآور با تقاضای بسیار بالا است.",
+        "iranEquivalent": {
+          "productName": "ایران ایجنت‌پِی (AgentPay IR)",
+          "description": "این محصول یک زیرساخت یکپارچه مدیریت API و پرداخت برای ایجنت‌های هوش مصنوعی در ایران است. توسعه‌دهندگان می‌توانند بدون نیاز به تهیه حساب‌های ارزی متعدد، دسترسی ایجنت خود را به صدها ابزار کاربردی برقرار سازند. سیستم مدیریت اعتبار متمرکز این پلتفرم، کنترل دقیق هزینه‌ها و پرداخت بر اساس میزان مصرف را میسر می‌سازد.",
+          "marketOpportunity": "با رشد روزافزون توسعه ایجنت‌های هوش مصنوعی در ایران، چالش پرداخت‌های ارزی و مدیریت کلیدهای API گوناگون به یک مانع بزرگ تبدیل شده است. ارائه یک پلتفرم واسط با قابلیت شارژ ریالی و ارائه APIهای بین‌المللی یکپارچه، بازار بکر و پرتقاضایی در میان استارتاپ‌ها و برنامه‌نویسان ایرانی دارد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "توسعه‌دهندگان هوش مصنوعی، استارتاپ‌های حوزه AI، شرکت‌های نرم‌افزاری و برنامه‌نویسان فریلنسر",
+          "challenges": [
+            "مدیریت ریسک تحریم‌ها و نوسانات نرخ ارز در تامین APIهای بین‌المللی",
+            "پیاده‌سازی مکانیزم‌های سخت‌گیرانه برای جلوگیری از هزینه‌کردهای ناخواسته توسط ایجنت‌ها"
+          ],
+          "monetization": [
+            "دریافت کارمزد درصدی روی هر فراخوانی API (Markup Price)",
+            "فروش اشتراک ویژه سازمانی برای مدیریت دسترسی‌های تیمی و سقف اعتبارات"
+          ],
+          "techStack": [
+            "Next.js",
+            "Node.js",
+            "PostgreSQL",
+            "Redis",
+            "Docker"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-week-7",
@@ -1632,9 +1750,9 @@
         ]
       },
       {
-        "id": "ph-month-3",
+        "id": "ph-week-1",
         "date": "2026-10-20",
-        "rank": 3,
+        "rank": 1,
         "name": "/dev/null",
         "slug": "dev-null",
         "tagline": "a social network for devs",
@@ -1654,8 +1772,8 @@
           "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
           "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
         ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
+        "maker": "nunomaduro",
+        "makerTitle": "Laravel Core Team Member",
         "featuredAt": "2026-10-20T07:01:00Z",
         "votes": 493,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
@@ -1692,7 +1810,66 @@
             "user": "[REDACTED]",
             "text": "Yay! I am a part of next potentially big thing!"
           }
-        ]
+        ],
+        "faDescription": "پروژه dev/null/ به عنوان یک پخش زنده از دفتر جت‌برینز (JetBrains) آغاز شد. در تاریخ ۱۵ اکتبر ۲۰۲۶، نونو مادورو، برنت روز، متیو ناپولی و پولین وس یک شبکه اجتماعی برای توسعه‌دهندگان وب را از صفر و طی ۴۸ ساعت به صورت کاملاً شفاف و زنده ساختند. در این پلتفرم می‌توانید با حساب گیت‌هاب وارد شوید، قطعه‌کدها را به اشتراک بگذارید، لایک کنید، پاسخ دهید و موارد دیگر. صدها نفر از شما ریکوئست‌های گیت‌هاب (PR) ارسال کردید، تایلر اوتول (خالق لاراول) در میان پخش زنده سر زد و گی‌یرمو راخ (مدیر ورسل) آن را فوق‌العاده نامید. از اینکه ما را تماشا کردید، به اشتراک گذاشتید و انتقاد کردید سپاسگزاریم.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "۴۸ ساعت دیوانه‌کننده بود! راستش هنوز دارم آن را هضم می‌کنم. ما با استفاده از قالبی که اکثر تیم‌های بازاریابی به دلیل ریسک بالا سمت آن نمی‌روند ویروسی شدیم (در هکر نیوز، اکس و غیره)؛ قالبی کاملاً خام، بدون ویرایش و بدون سناریو که در آن فقط خودمان بودیم و در یک لایو استریم ۴۸ ساعته تمام جزئیات را نشان دادیم. داستان کامل در لینک موجود است. مردم عاشق یک برند نمی‌شوند، بلکه عاشق انسان‌های پشت آن می‌شوند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "ساخت زنده در ۴۸ ساعت؟؟ این فوق‌العاده است. اینکه متن‌باز هم هست را واقعاً دوست دارم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "بعد از کمی استفاده به نظر بسیار نویدبخش می‌رسد؛ شگفت‌انگیز است که این را فقط در ۴۸ ساعت ساختید. کارتان عالی بود!"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "چه کسی می‌خواهد از طریق رایکست (Raycast) در dev/null/ پست بگذارد؟ من یک افزونه برای این کار ساختم (که در حال بررسی است)!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "بهترین شبکه اجتماعی برای توسعه‌دهندگان. زمان‌های بسیار خوبی را هنگام گفتگو در پلتفرم، تماشای زنده ساخت آن و مشارکت سپری کردم. اینکه می‌توان بخشی از آن بود بسیار جذاب است!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "آیا برنامه‌ای برای درآمدزایی یا نمایش تبلیغات در این پلتفرم وجود دارد؟ چگونه می‌خواهید از این پلتفرم کسب درآمد کرده و آن را فعال نگه دارید؟ در هر صورت پلتفرم فوق‌العاده‌ای است و استفاده از آن را واقعاً دوست دارم!"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "این عالی است — اما من هم دقیقاً همان سؤال j۱۲t@ را دارم:"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "هورا! من بخشی از یک اتفاق بزرگ بعدی هستم!"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان وب نیازمند فضایی تخصصی و صمیمی برای اشتراک‌گذاری سریع کد و شبکه‌سازی بدون حواشی شبکه‌های اجتماعی عمومی هستند. dev/null/ با ارائه یک پلتفرم ساده، متن‌باز و متمرکز بر گیت‌هاب، بستری تعاملی را از طریق یک هاکاتون زنده ۴۸ ساعته خلق کرده است.\n\nمعماری و تکنولوژی:\nتوسعه‌یافته با فریم‌ورک‌های مدرن وب در اکوسیستم PHP/Laravel (با حضور چهره‌های سرشناس این حوزه)، ورود یکپارچه با OAuth گیت‌هاب، قابلیت تعاملات آنی (Real-time) و ساختار متن‌باز جهت دریافت PR از سوی کاربران.\n\nمدل درآمدی:\nدر حال حاضر مدل درآمدی مستقیم ندارد و به عنوان یک پروژه جامعه‌محور (Community-driven) اجرا شده است؛ اما پتانسیل جذب اسپانسرشیپ شرکتی، ارائه خدمات کاریابی تخصصی (Recruitment) و فروش ابزارهای جانبی را دارد.\n\nنقاط قوت:\n۱. بازاریابی ویروسی فوق‌العاده از طریق راهبرد ساخت شفاف و زنده (Building in Public).\n۲. مشارکت فعال جامعه برنامه‌نویسان و حمایت چهره‌های مطرح صنعت فناوری.\n۳. تجربه کاربری ساده و متمرکز بر نیاز اصلی برنامه‌نویسان.\n\nنقاط ضعف:\n۱. مبهم بودن مدل مالی جهت نگهداری طولانی‌مدت و پوشش هزینه‌های سرور.\n۲. چالش حفظ نرخ تعامل کاربران پس از فروکش کردن هیجان اولیه رویداد.\n\nنکته طلایی برای ایران:\nاجرای رویدادهای «ساخت زنده محصول در ۴۸ ساعت» توسط توسعه‌دهندگان سرشناس ایرانی، بهترین راهبرد بازاریابی با هزینه صفر (Zero-dollar Marketing) برای جلب اعتماد عمیق جامعه فنی و ایجاد ویرال مارکتینگ ارگانیک در فضای استارت‌آپی ایران است.",
+        "iranEquivalent": {
+          "productName": "کدگپ (CodeGap)",
+          "description": "کدگپ یک شبکه اجتماعی بومی و متن‌باز برای برنامه‌نویسان و توسعه‌دهندگان ایرانی است که امکان اشتراک‌گذاری قطعه‌کد، پرسش و پاسخ و تعامل زنده را فراهم می‌کند. این پلتفرم با هدف ایجاد بستری تخصصی و بدون حواشی برای جامعه فنی کشور طراحی شده است. کاربران می‌توانند با حساب گیت‌هاب خود وارد شده و در پروژه‌های گروهی و بهبود بستر مشارکت کنند.",
+          "marketOpportunity": "جامعه بزرگ توسعه‌دهندگان ایرانی نیازمند یک پلتفرم تخصصی بومی جهت شبکه‌سازی، به اشتراک‌گذاری تجربیات و جذب نیرو است. ساخت پروژه‌های زنده در قالب رویدادهای شفاف برنامه‌نویسی پتانسیل بالایی برای جذب مخاطبان فنی و اسپانسرشیپ شرکتی در ایران دارد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان وب، توسعه‌دهندگان نرم‌افزار، دانشجویان کامپیوتر و شرکت‌های فناورمحور ایرانی",
+          "challenges": [
+            "تأمین هزینه‌های زیرساخت و سرور بدون وجود مدل درآمدی اولیه روشن",
+            "مقاومت برنامه‌نویسان برای مهاجرت از شبکه‌های اجتماعی خارجی مانند توییتر/X و گیت‌هاب"
+          ],
+          "monetization": [
+            "ارائه پنل اختصاصی کارفرمایان جهت فرصت‌های شغلی و جذب استعدادهای فنی",
+            "برگزاری رویدادها، هاکاتون‌ها و پخش‌های زنده با حمایت مالی برندهای بزرگ فناوری"
+          ],
+          "techStack": [
+            "Laravel",
+            "Vue.js",
+            "Tailwind CSS",
+            "PostgreSQL",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-month-4",
@@ -1965,7 +2142,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-23T07:01:00Z",
-        "votes": 428,
+        "votes": 429,
         "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {

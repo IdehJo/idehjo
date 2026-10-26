@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:45:03.061Z",
+  "generatedAt": "2026-10-26T00:41:18.468Z",
   "sourceFiles": 77,
   "products": [
     {
@@ -7169,7 +7169,66 @@
           "user": "[REDACTED]",
           "text": "Yay! I am a part of next potentially big thing!"
         }
-      ]
+      ],
+      "faDescription": "پروژه dev/null/ به عنوان یک پخش زنده از دفتر جت‌برینز (JetBrains) آغاز شد. در تاریخ ۱۵ اکتبر ۲۰۲۶، نونو مادورو، برنت روز، متیو ناپولی و پولین وس یک شبکه اجتماعی برای توسعه‌دهندگان وب را از صفر و طی ۴۸ ساعت به صورت کاملاً شفاف و زنده ساختند. در این پلتفرم می‌توانید با حساب گیت‌هاب وارد شوید، قطعه‌کدها را به اشتراک بگذارید، لایک کنید، پاسخ دهید و موارد دیگر. صدها نفر از شما ریکوئست‌های گیت‌هاب (PR) ارسال کردید، تایلر اوتول (خالق لاراول) در میان پخش زنده سر زد و گی‌یرمو راخ (مدیر ورسل) آن را فوق‌العاده نامید. از اینکه ما را تماشا کردید، به اشتراک گذاشتید و انتقاد کردید سپاسگزاریم.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "۴۸ ساعت دیوانه‌کننده بود! راستش هنوز دارم آن را هضم می‌کنم. ما با استفاده از قالبی که اکثر تیم‌های بازاریابی به دلیل ریسک بالا سمت آن نمی‌روند ویروسی شدیم (در هکر نیوز، اکس و غیره)؛ قالبی کاملاً خام، بدون ویرایش و بدون سناریو که در آن فقط خودمان بودیم و در یک لایو استریم ۴۸ ساعته تمام جزئیات را نشان دادیم. داستان کامل در لینک موجود است. مردم عاشق یک برند نمی‌شوند، بلکه عاشق انسان‌های پشت آن می‌شوند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ساخت زنده در ۴۸ ساعت؟؟ این فوق‌العاده است. اینکه متن‌باز هم هست را واقعاً دوست دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بعد از کمی استفاده به نظر بسیار نویدبخش می‌رسد؛ شگفت‌انگیز است که این را فقط در ۴۸ ساعت ساختید. کارتان عالی بود!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چه کسی می‌خواهد از طریق رایکست (Raycast) در dev/null/ پست بگذارد؟ من یک افزونه برای این کار ساختم (که در حال بررسی است)!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "بهترین شبکه اجتماعی برای توسعه‌دهندگان. زمان‌های بسیار خوبی را هنگام گفتگو در پلتفرم، تماشای زنده ساخت آن و مشارکت سپری کردم. اینکه می‌توان بخشی از آن بود بسیار جذاب است!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "آیا برنامه‌ای برای درآمدزایی یا نمایش تبلیغات در این پلتفرم وجود دارد؟ چگونه می‌خواهید از این پلتفرم کسب درآمد کرده و آن را فعال نگه دارید؟ در هر صورت پلتفرم فوق‌العاده‌ای است و استفاده از آن را واقعاً دوست دارم!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "این عالی است — اما من هم دقیقاً همان سؤال j۱۲t@ را دارم:"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "هورا! من بخشی از یک اتفاق بزرگ بعدی هستم!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان وب نیازمند فضایی تخصصی و صمیمی برای اشتراک‌گذاری سریع کد و شبکه‌سازی بدون حواشی شبکه‌های اجتماعی عمومی هستند. dev/null/ با ارائه یک پلتفرم ساده، متن‌باز و متمرکز بر گیت‌هاب، بستری تعاملی را از طریق یک هاکاتون زنده ۴۸ ساعته خلق کرده است.\n\nمعماری و تکنولوژی:\nتوسعه‌یافته با فریم‌ورک‌های مدرن وب در اکوسیستم PHP/Laravel (با حضور چهره‌های سرشناس این حوزه)، ورود یکپارچه با OAuth گیت‌هاب، قابلیت تعاملات آنی (Real-time) و ساختار متن‌باز جهت دریافت PR از سوی کاربران.\n\nمدل درآمدی:\nدر حال حاضر مدل درآمدی مستقیم ندارد و به عنوان یک پروژه جامعه‌محور (Community-driven) اجرا شده است؛ اما پتانسیل جذب اسپانسرشیپ شرکتی، ارائه خدمات کاریابی تخصصی (Recruitment) و فروش ابزارهای جانبی را دارد.\n\nنقاط قوت:\n۱. بازاریابی ویروسی فوق‌العاده از طریق راهبرد ساخت شفاف و زنده (Building in Public).\n۲. مشارکت فعال جامعه برنامه‌نویسان و حمایت چهره‌های مطرح صنعت فناوری.\n۳. تجربه کاربری ساده و متمرکز بر نیاز اصلی برنامه‌نویسان.\n\nنقاط ضعف:\n۱. مبهم بودن مدل مالی جهت نگهداری طولانی‌مدت و پوشش هزینه‌های سرور.\n۲. چالش حفظ نرخ تعامل کاربران پس از فروکش کردن هیجان اولیه رویداد.\n\nنکته طلایی برای ایران:\nاجرای رویدادهای «ساخت زنده محصول در ۴۸ ساعت» توسط توسعه‌دهندگان سرشناس ایرانی، بهترین راهبرد بازاریابی با هزینه صفر (Zero-dollar Marketing) برای جلب اعتماد عمیق جامعه فنی و ایجاد ویرال مارکتینگ ارگانیک در فضای استارت‌آپی ایران است.",
+      "iranEquivalent": {
+        "productName": "کدگپ (CodeGap)",
+        "description": "کدگپ یک شبکه اجتماعی بومی و متن‌باز برای برنامه‌نویسان و توسعه‌دهندگان ایرانی است که امکان اشتراک‌گذاری قطعه‌کد، پرسش و پاسخ و تعامل زنده را فراهم می‌کند. این پلتفرم با هدف ایجاد بستری تخصصی و بدون حواشی برای جامعه فنی کشور طراحی شده است. کاربران می‌توانند با حساب گیت‌هاب خود وارد شده و در پروژه‌های گروهی و بهبود بستر مشارکت کنند.",
+        "marketOpportunity": "جامعه بزرگ توسعه‌دهندگان ایرانی نیازمند یک پلتفرم تخصصی بومی جهت شبکه‌سازی، به اشتراک‌گذاری تجربیات و جذب نیرو است. ساخت پروژه‌های زنده در قالب رویدادهای شفاف برنامه‌نویسی پتانسیل بالایی برای جذب مخاطبان فنی و اسپانسرشیپ شرکتی در ایران دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان وب، توسعه‌دهندگان نرم‌افزار، دانشجویان کامپیوتر و شرکت‌های فناورمحور ایرانی",
+        "challenges": [
+          "تأمین هزینه‌های زیرساخت و سرور بدون وجود مدل درآمدی اولیه روشن",
+          "مقاومت برنامه‌نویسان برای مهاجرت از شبکه‌های اجتماعی خارجی مانند توییتر/X و گیت‌هاب"
+        ],
+        "monetization": [
+          "ارائه پنل اختصاصی کارفرمایان جهت فرصت‌های شغلی و جذب استعدادهای فنی",
+          "برگزاری رویدادها، هاکاتون‌ها و پخش‌های زنده با حمایت مالی برندهای بزرگ فناوری"
+        ],
+        "techStack": [
+          "Laravel",
+          "Vue.js",
+          "Tailwind CSS",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-today-2",
@@ -10113,6 +10172,66 @@
       }
     },
     {
+      "id": "ph-week-2",
+      "date": "2026-10-23",
+      "rank": 2,
+      "name": "Product Hunt Visual Launch Editor",
+      "slug": "product-hunt-visual-launch-editor",
+      "tagline": "See your launch as you build it",
+      "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
+      "category": "Product Hunt • Maker Tools • Community",
+      "categoryFa": "Product Hunt • Maker Tools • Community",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
+        "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
+        "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
+        "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
+        "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
+        "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "CTO at ProductHunt",
+      "featuredAt": "2026-10-23T07:01:00Z",
+      "votes": 429,
+      "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "editing right on the actual page preview is so much nicer. the checklist jumping to each field is clutch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Funny timing, I just finished setting up our launch for tomorrow and kept opening the preview to check how it looked. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the new upgrades, definitely much better to be able to preview changes live."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I am looking forward to give it a try when I realease my new tool :)"
+        }
+      ]
+    },
+    {
       "id": "ph-week-5",
       "date": "2026-09-21",
       "rank": 5,
@@ -10233,66 +10352,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-week-2",
-      "date": "2026-10-23",
-      "rank": 2,
-      "name": "Product Hunt Visual Launch Editor",
-      "slug": "product-hunt-visual-launch-editor",
-      "tagline": "See your launch as you build it",
-      "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
-      "category": "Product Hunt • Maker Tools • Community",
-      "categoryFa": "Product Hunt • Maker Tools • Community",
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
-        "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
-        "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
-        "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
-        "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
-        "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "CTO at ProductHunt",
-      "featuredAt": "2026-10-23T07:01:00Z",
-      "votes": 428,
-      "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "editing right on the actual page preview is so much nicer. the checklist jumping to each field is clutch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Funny timing, I just finished setting up our launch for tomorrow and kept opening the preview to check how it looked. Congrats!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the new upgrades, definitely much better to be able to preview changes live."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I am looking forward to give it a try when I realease my new tool :)"
-        }
-      ]
     },
     {
       "id": "ph-week-6",
@@ -18136,7 +18195,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-10-22T07:01:00Z",
-      "votes": 342,
+      "votes": 343,
       "websiteUrl": "https://www.producthunt.com/r/E2X5OB7ZYY7LBL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -18213,7 +18272,66 @@
           "user": "[REDACTED]",
           "text": "Hi team, Congrats for the launch. So this is a integration of 1000+ free tools plus a platform to manage the subscription? But ends up I still need to subscripe each of paid tool?"
         }
-      ]
+      ],
+      "faDescription": "به ایجنت‌های هوش مصنوعی خود قدرتی فوق‌العاده ببخشید. با Composio Instant دیگر نیازی به خرید اشتراک‌های متعدد و ثبت‌نام‌های پیچیده در سرویس‌های مختلف ندارید. از طریق این پلتفرم، ایجنت شما می‌تواند به راحتی در وب جستجو کند، مخاطبان تجاری بیابد، صداگذاری انجام دهد و فایل‌های صوتی را به متن تبدیل کند. این ابزار ساده‌ترین راهکار را برای پرداخت هزینه ابزارها توسط خود ایجنت‌های هوش مصنوعی فراهم می‌کند و می‌توانید آن را به صورت رایگان امتحان کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "من از Composio Instant برای انجام معاملات در Alpaca با روش توازن حساب استفاده کردم و داده‌ها و فیدهای زنده را از Serp API و تجمع‌کنندگان قیمت دریافت کردم. یک داشبورد هم برای ثبت معاملات زنده اضافه کردم و ۵۲ دلار سود به دست آوردم (که با چند تغییر قابل پیاده‌سازی روی سیستم واقعی است). اکثر دردسرهای مربوط به اعتبار API و شارژ مجدد با Composio Instant حل شد و به‌روزرسانی‌های قیمت را تقریباً به صورت آنی ارائه داد. این یک معامله آزمایشی بود، اما با تغییرات جزئی قابل انطباق با معاملات واقعی است. محصول عالی‌ای است :)"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک بابت رونمایی @aidanhornsby! اگر یک ایجنت به خرج کردن پول برای کارهایی که واقعاً به جایی نمی‌رسند ادامه دهد، چه اتفاقی می‌افتد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "از استفاده همزمان از ۵ کلید API مختلف برای یک ایجنت بیزار بودم. اگر Instant این مشکل را حل کند، همین امروز از آن استفاده خواهم کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "از آنچه می‌سازید خوشم می‌آید اما بین بخش «برای شما» و «برای توسعه‌دهندگان» کمی گیج شده‌ام. من می‌خواهم به کاربرانم اجازه دهم از ادغام‌های Composio استفاده کنند، آیا Instant برای این سناریو هم مناسب است؟ دیروز قیمت Composio، Monid و looot را مقایسه می‌کردم. بدون بررسی عمیق، کلود به من گفت که شما ۳ برابر گران‌تر هستید، می‌شود بگویید آیا سوءتفاهمی اینجا وجود دارد؟ فکر کنم مقایسه بر اساس Firecrawl بود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "دارم به این فکر می‌کنم که یک کسب‌وکار کامل را فقط با ایجنت خودم و ابزارهای Instant اداره کنم 👀"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "اکثر پلتفرم‌های ارائه ابزار فقط تا مرحله احراز هویت پیش می‌روند! آیا می‌توانید برای هر ایجنت سقف هزینه تعیین کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک برای Instant، عاشق این ایده شدم. وقتی یک ایجنت برای انجام یک کار پولی نیاز به تایید دارد و شما پشت میزتان نیستید چه اتفاقی می‌افتد؟ ما می‌توانیم این را به Pushary متصل کنیم: از طریق گوشی تایید کنید و اجازه دهید ایجنت به کارش ادامه دهد. می‌توانم یک نمونه اپن‌سورس کوچک بسازم، نظرتان چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام به تیم، تبریک برای رونمایی. پس این ترکیبی از ۱۰۰۰+ ابزار رایگان به همراه پلتفرمی برای مدیریت اشتراک است؟ اما در نهایت آیا هنوز باید اشتراک هر ابزار پولی را جداگانه بخرم؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nتوسعه‌دهندگان ایجنت‌های هوش مصنوعی برای انجام کارهای پیچیده به ابزارهای متعددی نیاز دارند، اما مدیریت ده‌ها کلید API و خرید اشتراک‌های مجزا اصطکاک بسیار بالایی ایجاد می‌کند. Composio Instant با حذف نیاز به ثبت‌نام‌های متعدد، مدل «پرداخت بر اساس مصرف» را برای ایجنت‌ها فراهم می‌کند تا بتوانند به صورت خودکار هزینه ابزارهای مورد نیاز خود را بپردازند.\n\nمعماری و تکنولوژی:\nاین پلتفرم از یک لایه پروکسی یکپارچه و مدیریت متمرکز اعتبار استفاده می‌کند. ایجنت‌ها از طریق یک SDK واحد یا واسط API به بیش از هزار ابزار متصل شده و احراز هویت و تسویه مالی زیرپوستی توسط خود پلتفرم مدیریت می‌شود.\n\nمدل درآمدی:\nدرآمد اصلی از طریق افزودن درصد مشخصی کارمزد بر روی مصرف واقعی APIها و فروش بسته‌های اعتبار شارژی تامین می‌شود.\n\nنقاط قوت:\nحذف کامل اصطکاک راه‌اندازی، عدم نیاز به مدیریت کلیدهای API متعدد و تسهیل خودکارسازی امور توسط ایجنت‌ها.\n\nنقاط ضعف:\nنگرانی کاربران از هزینه‌کرد بی‌رویه ایجنت‌ها در صورت بروز باگ یا حلقه‌های بی‌نهایت، و نیاز به شفاف‌سازی قیمت‌گذاری در مقایسه با ابزارهای مجزا.\n\nنکته طلایی برای ایران:\nدر ایران به دلیل عدم دسترسی مستقیم به کارت‌های credit بین‌المللی، ایجاد یک «پلتفرم واسط ریالی» که اعتبار APIها را یکجا خریداری کرده و با دریافت ریال، دسترسی یکپارچه به صدها ابزار AI را برای توسعه‌دهندگان ایرانی فراهم کند، یک فرصت فوق‌العاده سودآور با تقاضای بسیار بالا است.",
+      "iranEquivalent": {
+        "productName": "ایران ایجنت‌پِی (AgentPay IR)",
+        "description": "این محصول یک زیرساخت یکپارچه مدیریت API و پرداخت برای ایجنت‌های هوش مصنوعی در ایران است. توسعه‌دهندگان می‌توانند بدون نیاز به تهیه حساب‌های ارزی متعدد، دسترسی ایجنت خود را به صدها ابزار کاربردی برقرار سازند. سیستم مدیریت اعتبار متمرکز این پلتفرم، کنترل دقیق هزینه‌ها و پرداخت بر اساس میزان مصرف را میسر می‌سازد.",
+        "marketOpportunity": "با رشد روزافزون توسعه ایجنت‌های هوش مصنوعی در ایران، چالش پرداخت‌های ارزی و مدیریت کلیدهای API گوناگون به یک مانع بزرگ تبدیل شده است. ارائه یک پلتفرم واسط با قابلیت شارژ ریالی و ارائه APIهای بین‌المللی یکپارچه، بازار بکر و پرتقاضایی در میان استارتاپ‌ها و برنامه‌نویسان ایرانی دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، استارتاپ‌های حوزه AI، شرکت‌های نرم‌افزاری و برنامه‌نویسان فریلنسر",
+        "challenges": [
+          "مدیریت ریسک تحریم‌ها و نوسانات نرخ ارز در تامین APIهای بین‌المللی",
+          "پیاده‌سازی مکانیزم‌های سخت‌گیرانه برای جلوگیری از هزینه‌کردهای ناخواسته توسط ایجنت‌ها"
+        ],
+        "monetization": [
+          "دریافت کارمزد درصدی روی هر فراخوانی API (Markup Price)",
+          "فروش اشتراک ویژه سازمانی برای مدیریت دسترسی‌های تیمی و سقف اعتبارات"
+        ],
+        "techStack": [
+          "Next.js",
+          "Node.js",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-week-7",
@@ -29923,7 +30041,7 @@
       "maker": "",
       "makerTitle": "",
       "featuredAt": "2026-10-24T07:01:00Z",
-      "votes": 252,
+      "votes": 255,
       "websiteUrl": "https://www.producthunt.com/r/QPQLVSCTPHCQGE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -32313,6 +32431,69 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-25",
+      "rank": 1,
+      "name": "Moli by Lexmount",
+      "slug": "moli-by-lexmount",
+      "tagline": "The fastest headless browser for agents and harnesses",
+      "description": "Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d7a9d2e2-6db0-4c36-9c37-018bdedffc41.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format",
+        "https://ph-files.imgix.net/4b4aeee6-648f-4638-8164-badb3e273d62.png?auto=format",
+        "https://ph-files.imgix.net/405234d6-a0de-4125-9e45-5a886b939706.png?auto=format",
+        "https://ph-files.imgix.net/cc22b224-0af0-4468-9c6f-e61afb48a554.png?auto=format",
+        "https://ph-files.imgix.net/cc6b3329-9cdb-491a-b623-534451f2b4ff.png?auto=format",
+        "https://ph-files.imgix.net/d3f25156-ded4-44cc-9632-d2c36f9d913c.png?auto=format",
+        "https://ph-files.imgix.net/17950a40-a8a8-463c-87d3-124d5d951b04.png?auto=format",
+        "https://ph-files.imgix.net/6cef88bc-4812-4205-aa41-b8bdbea4f337.png?auto=format",
+        "https://ph-files.imgix.net/e884affe-1e46-4d56-beb8-26b104ed9f67.png?auto=format"
+      ],
+      "maker": "Donough Liu",
+      "makerTitle": "",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 234,
+      "websiteUrl": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I’m Quinn, one of the builders behind Moli by Lexmount.Moli is the fastest headless browser for agents and harnesses. It’s the custom-built engine powering the Lexmount Browser platform, helping your agents and harnesses run faster at a lower cost.If you’re building agents and harnesses for research, data collection, or web automation, this is for you.✍️ Here’s how to build with Moli：Try it in our playground to verify your credentials and inspect the browser before coding.Or use our SDK to control real cloud browsers with support for Playwright, CDP, extensions, proxies, downloads, and session replay.Run real web tasks and get verifiable results, like a CSV with source links.Why use Moli by Lexmount:Faster starts and less memory：Moli cold-starts around 5× faster than Chrome while using roughly 1/7 of the memory in our benchmarks.Less infrastructure work: We handle browser setup and management.Cloud scalability: Run multiple Moli-powered browsers simultaneously with cloud networking and proxy support.Lower costs: 100 browser hours and 25 concurrent sessions for $12/month.🎉 To celebrate our launch, Product Hunt users get 2 months of Moli by Lexmount Pro free. Click “https://browser.lexmount.com/?ref=producthunt” and sign up to claim your offer.We’ll also be sharing more perks and giveaways on Discord soon：https://discord.gg/95QXqbsgVu.Come share what you’re building and try Moli by Lexmount with us 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice. My agents drive a real browser all day (Gemini for images, editors over a debug port) and the slow part is always waiting for pages and uploads, not the model. Does Moli keep logged-in sessions between runs, or is every run a clean profile?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does Moli handle dynamic web content???"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The 5× faster cold start sounds impressive. How did you achieve that?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does Moli by Lexmount compare to traditional cloud browser services?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Do you offer an API or CLI to programmatically control browser sessions?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "what's its difference with ego lite? another AI browser proudct"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks amazing, great work on the launch team! Love the ergonomics of the SDK. Before we built @Strawberry we were building something similar called dendrite SDK, very cool to see how far the tech has gotten!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-10-04",
       "rank": 3,
@@ -32429,69 +32610,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-25",
-      "rank": 1,
-      "name": "Moli by Lexmount",
-      "slug": "moli-by-lexmount",
-      "tagline": "The fastest headless browser for agents and harnesses",
-      "description": "Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d7a9d2e2-6db0-4c36-9c37-018bdedffc41.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format",
-        "https://ph-files.imgix.net/4b4aeee6-648f-4638-8164-badb3e273d62.png?auto=format",
-        "https://ph-files.imgix.net/405234d6-a0de-4125-9e45-5a886b939706.png?auto=format",
-        "https://ph-files.imgix.net/cc22b224-0af0-4468-9c6f-e61afb48a554.png?auto=format",
-        "https://ph-files.imgix.net/cc6b3329-9cdb-491a-b623-534451f2b4ff.png?auto=format",
-        "https://ph-files.imgix.net/d3f25156-ded4-44cc-9632-d2c36f9d913c.png?auto=format",
-        "https://ph-files.imgix.net/17950a40-a8a8-463c-87d3-124d5d951b04.png?auto=format",
-        "https://ph-files.imgix.net/6cef88bc-4812-4205-aa41-b8bdbea4f337.png?auto=format",
-        "https://ph-files.imgix.net/e884affe-1e46-4d56-beb8-26b104ed9f67.png?auto=format"
-      ],
-      "maker": "Donough Liu",
-      "makerTitle": "",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 232,
-      "websiteUrl": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I’m Quinn, one of the builders behind Moli by Lexmount.Moli is the fastest headless browser for agents and harnesses. It’s the custom-built engine powering the Lexmount Browser platform, helping your agents and harnesses run faster at a lower cost.If you’re building agents and harnesses for research, data collection, or web automation, this is for you.✍️ Here’s how to build with Moli：Try it in our playground to verify your credentials and inspect the browser before coding.Or use our SDK to control real cloud browsers with support for Playwright, CDP, extensions, proxies, downloads, and session replay.Run real web tasks and get verifiable results, like a CSV with source links.Why use Moli by Lexmount:Faster starts and less memory：Moli cold-starts around 5× faster than Chrome while using roughly 1/7 of the memory in our benchmarks.Less infrastructure work: We handle browser setup and management.Cloud scalability: Run multiple Moli-powered browsers simultaneously with cloud networking and proxy support.Lower costs: 100 browser hours and 25 concurrent sessions for $12/month.🎉 To celebrate our launch, Product Hunt users get 2 months of Moli by Lexmount Pro free. Click “https://browser.lexmount.com/?ref=producthunt” and sign up to claim your offer.We’ll also be sharing more perks and giveaways on Discord soon：https://discord.gg/95QXqbsgVu.Come share what you’re building and try Moli by Lexmount with us 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does Moli handle dynamic web content???"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The 5× faster cold start sounds impressive. How did you achieve that?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does Moli by Lexmount compare to traditional cloud browser services?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Do you offer an API or CLI to programmatically control browser sessions?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "what's its difference with ego lite? another AI browser proudct"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks amazing, great work on the launch team! Love the ergonomics of the SDK. Before we built @Strawberry we were building something similar called dendrite SDK, very cool to see how far the tech has gotten!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Building agent automation systems, resource efficiency is everything. The 1/7 memory footprint vs Chrome is a real win - running thousands of headless instances becomes viable. Love that it's open-source too, gives more control over the execution layer."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -38756,7 +38874,49 @@
           "user": "[REDACTED]",
           "text": "Is there a way to preview which rules will be applied to the header before uploading? Especially when there are 2 filename patterns that overlap."
         }
-      ]
+      ],
+      "faDescription": "هویست‌بی (Hoistbay) یک نرم‌افزار دسکتاپ رایگان و متن‌باز برای سیستم‌عامل‌های مک و ویندوز است که کارهای تکراری و خسته‌کننده در Amazon S۳ و CloudFront را حذف می‌کند. شما می‌توانید قوانین هدر (مانند Cache-Control، Content-Type و Content-Encoding) را بر اساس الگوی فایل یک‌بار تنظیم کنید تا در هر آپلود به‌طور خودکار اعمال شوند. این برنامه امکان دانلود کامل پوشه‌ها، پاک‌سازی کش CloudFront با یک کلیک و سوئیچ آنی بین حساب‌های مختلف AWS را فراهم می‌سازد. کلیدهای امنیتی شما در کی‌چین سیستم‌عامل ذخیره می‌شوند، هیچ سرور پشتی یا جمع‌آوری داده‌ای وجود ندارد و تحت مجوز MIT منتشر شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پرادکت هانت، من کارتیک سازنده Hoistbay هستم. من این برنامه را ساختم چون از باز کردن کنسول AWS در مرورگر برای کارهای تکراری S۳ بعد از هر دپلی خسته شده بودم: عدم وجود قوانین خودکار برای هدرها که باعث می‌شد در هر آپلود هدرها را دستی تنظیم کنم؛ نبود امکان دانلود کامل پوشه‌ها از کنسول؛ و فرآیند کند پاک‌سازی کش CloudFront. هویست‌بی قوانین هدر را بر اساس الگوی فایل اعمال می‌کند، آپلود و دانلود کامل پوشه‌ها را ممکن می‌سازد، امکان پاک‌سازی کش با یک کلیک را فراهم کرده و سوئیچ سریع بین پروفایل‌های AWS را ارائه می‌دهد. کلیدهای شما فقط در سیستم‌عامل ذخیره می‌شوند و هیچ بک‌اند یا تل‌متری وجود ندارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ابزار بسیار خوبی به نظر می‌رسد @mekartikshah، اما نسخه مک من (macOS ۲۶.۶.۲) به دلیل امضا نشدن برنامه (Code Signing) اجازه اجراء به آن نمی‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "حتماً این ابزار را بررسی خواهم کرد؛ من دقیقاً با همین چالش‌هایی که توصیف کردید روبه‌رو هستم، به‌ویژه مرحله پاک‌سازی کش (Invalidation) که معمولاً آن را فراموش می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آیا راهی برای پیش‌نمایش قوانینی که قبل از آپلود روی هدر اعمال می‌شوند وجود دارد؟ به‌خصوص زمانی که دو الگوی نام فایل همپوشانی دارند."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nمدیریت دستی فایل‌ها در سرویس‌های S۳ و تنظیم هدرهای شبکه (مانند Cache-Control) در کنسول‌های وب، بسیار زمان‌بر و خطازا است. Hoistbay با ارائه یک برنامه دسکتاپ بومی و امن، امکان تنظیم یک‌باره قوانین هدر بر اساس پسوند فایل، مدیریت کش CloudFront با یک کلیک و دانلود کاملاً یکپارچه پوشه‌ها را فراهم کرده و امنیت کلیدها را در Keychain سیستم‌عامل تضمین می‌کند.\n\n### معماری و تکنولوژی\nاین برنامه به صورت Local-First طراحی شده و فاقد هرگونه سرور پشتی (Backend) یا سیستم جمع‌آوری آمار (Telemetry) است. با توجه به متن‌باز بودن (پروانه MIT) و ذخیره‌سازی محلی کلیدهای دسترسی، حداکثر امنیت و شفافیت را برای توسعه‌دهندگان فراهم می‌سازد.\n\n### مدل درآمدی\nدر حال حاضر محصول کاملاً رایگان و Open-Source است. مدل‌های درامدزایی آتی می‌تواند شامل ارائه نسخه Enterprise با ویژگی‌های تیمی (مانند به اشتراک‌گذاری پروفایل‌ها و قوانین هدر در تیم)، یا ارائه پلاگین‌های سفارشی برای سرویس‌دهندگان ابری باشد.\n\n### نقاط قوت\n۱. حل یک چالش ملموس و واقعی در تجربه کاری توسعه‌دهندگان (Developer Experience عالی).\n۲. امنیت بالا به دلیل عدم ارسال اطلاعات به سرور ثالث و ذخیره محلی کلیدها.\n۳. پشتیبانی از چند پروفایل AWS و مدیریت کش با یک کلیک.\n\n### نقاط ضعف\n۱. عدم امضای دیجیتال نرم‌افزار (Code Signing) در حال حاضر که باعث بروز هشدار امنیتی در macOS می‌شود.\n۲. محدودیت در پیش‌نمایش قوانین پیچیده هدر هنگام همپوشانی الگوهای نام فایل.\n\n### نکته طلایی برای بازار ایران\nدر ایران به دلیل استفاده گسترده از ارائه‌دهندگان ابری داخلی سازگار با API S۳ (مانند ابر آروان، ستون و پادسپهر)، توسعه یک نسخه بومی‌سازی شده از این ابزار با پشتیبانی از CDNها و Object Storageهای ایرانی می‌تواند سهم بازار بالایی در میان تیم‌های فنی و استارتاپ‌ها جذب کند.",
+      "iranEquivalent": {
+        "productName": "مدیر دسکتاپ ذخیره‌سازی ابری (CloudHoist Iran)",
+        "description": "این محصول یک ابزار دسکتاپ بومی برای مدیریت آسان و هوشمند فضاهای ذخیره‌سازی ابری و CDNهای ایرانی سازگار با S۳ است. کاربران می‌توانند قوانین مدیریت کش، هدرهای فایل و همگام‌سازی پوشه‌ها را به صورت اتوماتیک و بدون نیاز به کنسول‌های وب مدیریت کنند. همچنین امکان جابه‌جایی سریع بین حساب‌های ارائه‌دهندگان مختلف ابری داخلی در یک محیط امن محلی فراهم شده است.",
+        "marketOpportunity": "با رشد روزافزون استفاده از سرویس‌های ابری داخلی مانند ابر آروان، ستون و پارس‌پک توسط تیم‌های نرم‌افزاری، جای خالی یک ابزار دسکتاپ یکپارچه برای مدیریت S۳ به شدت احساس می‌شود. ارائه ابزاری که فرآیند تنظیم هدرها و پاک‌سازی کش CDN را خودکار کند، ارزش افزوده بالایی برای مهندسان DevOps و توسعه‌دهندگان ایرانی خواهد داشت.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند، مهندسان DevOps، مدیران سیستم و استارتاپ‌های متکی بر ذخیره‌سازی ابری",
+        "challenges": [
+          "عدم یکنواختی کامل APIهای ارائه‌دهندگان ابری داخلی در مقایسه با استاندارد دقیق AWS",
+          "چالش‌های مربوط به دریافت گواهی دیجیتال (Code Signing) برای سیستم‌عامل‌های مک و ویندوز"
+        ],
+        "monetization": [
+          "نسخه پایه رایگان و متن‌باز برای استفاده فردی",
+          "فروش اشتراک سازمانی (Pro/Enterprise) برای تیم‌ها با قابلیت اشتراک‌گذاری تنظیمات و پشتیبانی اختصاصی"
+        ],
+        "techStack": [
+          "Tauri",
+          "React",
+          "TypeScript",
+          "Rust"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -39010,7 +39170,54 @@
           "user": "[REDACTED]",
           "text": "Rewriting its own harness between runs without a grader telling it what correct looks like is the part I find hard to believe, so I want to see whether the accumulated experience actually transfers between unrelated tasks."
         }
-      ]
+      ],
+      "faDescription": "هارنس ۲ (Harness²) یک فریم‌ورک آماده و بازگشتی برای مهار و تکامل ایجنت‌های هوش مصنوعی است که توسط گوگل ریسرچ توسعه یافته است. این ابزار به ایجنت‌های مبتنی بر مدل‌های زبانی بزرگ اجازه می‌دهد تا محیط اجرایی خود شامل پرامپت‌ها، ابزارها و حافظه را برای انجام وظایف در دنیای واقعی به صورت خودکار ارتقا دهند، بدون اینکه نیازی به تأییدکننده‌های پاسخ صحیح (Ground-truth verifiers) داشته باشند. ساختار بازگشتی دوگانه این سیستم شامل بهبود در سطح وظیفه از طریق چرخه پیشنهاد-ارزیابی-ترکیب و همچنین انباشت تجربیات قابل استفاده مجدد در سطح هارنس است. پیاده‌سازی این چارچوب توانسته است عملکرد ایجنت‌ها را در بنچمارک‌های تخصصی مانند WorkBuddy-Bench تا ۱۱.۵ امتیاز بهبود ببخشد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "یک هارنس شامل همه چیزهایی است که مدل را احاطه کرده‌اند؛ مانند پرامپت سیستم، ابزارها، حافظه، مهارت‌ها و ایجنت‌های فرعی. به طور سنتی، این پیکربندی فقط یک‌بار طراحی شده و برای همه وظایف ایجنت ثابت می‌ماند. اما Harness² قابلیت انطباق‌پذیری را معرفی می‌کند و به ایجنت اجازه می‌دهد تا پیکربندی خود را به طور مستقل برای هر وظیفه سفارشی‌سازی کند، در حالی که وزن‌های مدل ثابت می‌مانند. با این رویکرد، ایجنت تغییراتی در هارنس خود پیشنهاد می‌دهد، پیکربندی‌های مختلف را آزمایش می‌کند و بر اساس بازخورد عملکرد آن آزمایش‌ها، آن را بهبود می‌بخشد. از آنجا که این سیستم از تغییرات اجرا به اجرا یاد می‌گیرد، نیازی به پاسخ صحیح مشخص یا ارزیاب خارجی برای سنجش نتایج نیست. این فرآیند محدود به یک وظیفه نیست و Harness² دانش کسب‌شده را بین وظایف مختلف منتقل می‌کند. پس از اتمام یک وظیفه، ایجنت هارنس بهینه‌شده و بینش‌های تکرارشونده را حفظ می‌کند تا در وظیفه جدید به جای شروع از صفر، بر روی این دانش انباشته‌شده بنا شود. این بهینه‌سازی مستمر، عملکرد وظایف آینده را ارتقا می‌دهد. گوگل در آزمایش‌های خود با Gemini ۳.۵ Flash و GLM-۵ روی بنچمارک‌های حقوقی و اداری دریافت که حتی یک دور ویرایش هارنس هم از هارنس‌های ثابت بهتر عمل کرده و تکرارهای بعدی بهبود بیشتری ایجاد کرده‌اند؛ این موضوع به هارنس‌های خود-ترمیم‌شونده و خود-رشدکننده اشاره دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "همم، اما ایجنت‌ها از کجا می‌فهمند چه چیزی باعث بهبود هارنس می‌شود؟ من احساس می‌کنم به ورودی و بازخورد انسانی نیاز است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "دیدم که بخش‌های اجرایی (Runners) قابل حمل هستند، اما بخش ارزیاب (Judge) از طریق Vertex کار می‌کند. آیا قابلیت «استفاده از اینفرنس سفارشی برای وظایف» برنامه‌ریزی شده است؟ آیا PRهای باز برای پشتیبانی از سایر ارائه‌دهندگان در نهایت پذیرفته خواهند شد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بهبود پیکربندی توسط خود ایجنت‌ها بسیار جذاب است. اما چگونه جلوی ایجاد تغییراتی که وضعیت را بدتر می‌کنند می‌گیرید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "بازنویسی هارنس توسط خود ایجنت بین اجراها بدون حضور ارزیابی که پاسخ صحیح را بگوید بخش باورنکردنی داستان است؛ بنابراین می‌خواهم ببینم آیا تجربیات انباشته‌شده واقعاً بین وظایف نامرتبط هم منتقل می‌شوند یا خیر."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** در توسعه ایجنت‌های هوش مصنوعی، تنظیم ثابت پرامپت‌ها، ابزارها و حافظه (Harness) باعث افت عملکرد در مواجهه با وظایف پیچیده و پیش‌بینی‌نشده می‌شود. Harness² با معرفی یک الگوی خود-تکامل‌یافته، به ایجنت اجازه می‌دهد بدون نیاز به پاسخ‌های مرجع (Ground-truth)، محیط اجرایی خود را با آزمون و خطا بهینه‌سازی کرده و دانش به‌دست‌آمده را منتقل کند.\n\n**معماری و تکنولوژی:** این فریم‌ورک از معماری بازگشتی دوگانه استفاده می‌کند؛ در سطح اول، چرخه Propose-Probe-Compose هارنس را برای یک وظیفه اصلاح می‌کند و در سطح دوم، تجربه انباشته‌شده را برای استفاده در وظایف دیگر ذخیره می‌نماید.\n\n**مدل درآمدی:** این زیرساخت معمولاً به صورت ابزار توسعه‌دهندگان (Developer Tool) یا خدمات ابری پایپ‌لاین‌های هوش مصنوعی (MLOps SaaS) تجاری‌سازی می‌شود.\n\n**نقاط قوت:** عدم نیاز به دیتاست ارزیابی مرجع، امکان انتقال دانش (Transfer Learning) بین وظایف نامرتبط و جهش عملکردی ۱۱.۵ امتیازی روی بنچمارک‌های پیچیده.\n\n**نقاط ضعف:** ریسک توهم مدل در تشخیص میزان بهبود خود، احتمال افت عملکرد در صورت عدم وجود فیلترهای کنترلی قوی، و وابستگی شدید به قدرت استدلال مدل پایه (مثل Gemini یا Claude).\n\n**نکته طلایی برای ایران:** شرکت‌های ایرانی می‌توانند با پیاده‌سازی این الگوی خود-بهینه‌ساز بر روی مدل‌های متن‌باز (مانند Llama ۳ یا Qwen)، هزینه‌های سنگین مهندسی پرامپت و نیروی انسانی برای نگهداری ایجنت‌های فارسی در سامانه‌های اداری و پشتیبانی را به شدت کاهش دهند.",
+      "iranEquivalent": {
+        "productName": "ایوا-ایجنت (EvolveAgent)",
+        "description": "یک فریم‌ورک بومی خود-بهینه‌ساز برای ایجنت‌های هوش مصنوعی که پرامپت‌ها، حافظه و ابزارهای آن‌ها را بر اساس سناریوهای واقعی کسب‌وکارهای ایرانی بهینه‌سازی می‌کند. این سیستم به ایجنت‌های سازمانی اجازه می‌دهد بدون نیاز به بازخورد مداوم انسانی، کیفیت پاسخ‌دهی و اجرای وظایف خود را به مرور زمان ارتقا دهند. دانش کسب‌شده از هر فرآیند سازمانی برای بهبود وظایف آتی ذخیره و استفاده می‌شود.",
+        "marketOpportunity": "با رشد سریع اتوماسیون اداری، پشتیبانی مشتریان و سامانه‌های حقوقی در ایران، نیاز شدیدی به ایجنت‌های هوش مصنوعی خودکار و بدون نگهداری مداوم وجود دارد. این ابزار هزینه سنگین مهندسی پرامپت و بازتنظیم دستی ایجنت‌ها را برای شرکت‌های ایرانی به حداقل می‌رساند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "شرکت‌های نرم‌افزاری B۲B، پلتفرم‌های بزرگ پشتیبانی مشتریان، سامانه‌های آنلاین حقوقی و مالی، و تیم‌های توسعه هوش مصنوعی در ایران.",
+        "challenges": [
+          "نوسان کیفیت و محدودیت‌های APIهای بین‌المللی به دلیل تحریم‌ها که بر استدلال مدل تأثیر می‌گذارد",
+          "سنجش دقیق میزان بهبود هارنس در زبان فارسی بدون دسترسی به ارزیاب‌های انسانی فراوان"
+        ],
+        "monetization": [
+          "فروش اشتراک سازمانی (SaaS) بر اساس تعداد ایجنت‌های فعال و حجم بهینه‌سازی‌های انجام‌شده",
+          "ارائه خدمات سفارشی‌سازی و استقرار بر روی سرورهای داخلی سازمان‌ها (On-Premise)"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python / FastAPI",
+          "LangChain",
+          "Redis"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -43473,6 +43680,55 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-25",
+      "rank": 2,
+      "name": "Badgey",
+      "slug": "badgey",
+      "tagline": "Your iPhone becomes a name badge that faces the room",
+      "description": "Badgey turns your iPhone into a name badge. On a lanyard, it turns to face the people you meet and swings as you move. In a chest pocket, it shrinks so your name shows above the edge. Several badges, a QR code for your link, five designs.",
+      "category": "iOS • Productivity • Events",
+      "categoryFa": "آی‌او‌اس • بهره‌وری • Events",
+      "url": "https://www.producthunt.com/products/badgey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/67ec826e-3628-4f86-a8fc-23342d4daa05.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/05184431-9613-4016-af31-2d491e372d25.png?auto=format",
+        "https://ph-files.imgix.net/9b3d1624-45fb-40ee-bd52-cb2cb89e3afb.png?auto=format",
+        "https://ph-files.imgix.net/3f5613f6-7476-4932-b4c1-6cde902258c3.png?auto=format",
+        "https://ph-files.imgix.net/fc121365-7755-48c4-9d7b-3852748bc982.png?auto=format",
+        "https://ph-files.imgix.net/cbba6ba4-042f-498a-8e22-121a07907ea0.png?auto=format",
+        "https://ph-files.imgix.net/03717e42-8246-4e4f-a16f-e454179432fa.png?auto=format",
+        "https://ph-files.imgix.net/ee503967-c6c6-40ec-a15b-c5072d393d2e.png?auto=format"
+      ],
+      "maker": "Marco Luthi",
+      "makerTitle": "Designer & Maker of Digital Things",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 170,
+      "websiteUrl": "https://www.producthunt.com/r/PGZDT6IPQQGLGJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, I'm Marco. I make small iPhone apps on my own. Badgey turns your iPhone into a name badge. Clip the phone to a lanyard and turn it upside down: the badge turns round to face the people in front of you and swings a little as you walk. Slide it top first into a chest pocket and it shrinks to a strip, so your name shows above the edge. The pocket check uses the front camera for a few seconds while the phone is upside down. A small model on the phone decides, and the frames are never stored. You can keep several badges (work, a conference, a meetup), add a link that turns into a QR code on the back, and choose a design: Classic, Office, Event, Minimal or Live, which moves. It's free with one badge; Pro is a one-time purchase. I'd love to hear where you'd wear it, and what's missing."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cool idea, but I would love to see a photo or video of how it looks in a physical setting"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great idea - good conversation starter for conferences"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "A badge that shrinks to a strip in a chest pocket, with the front camera checking for a few seconds, is a clever detail. Does the pocket check run every time you flip the phone upside down?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How long does the battery last with the screen on for a whole conference day? And does it stop the phone from auto-locking?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-10-07",
       "rank": 8,
@@ -43907,6 +44163,47 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-25",
+      "rank": 3,
+      "name": "AgentGrid.io",
+      "slug": "agentgrid-io",
+      "tagline": "Shared workspace for humans and agents",
+      "description": "Built for Grok Bot, Muse AI, Instinct, Hermes, Claude, GPT, OpenClaw, Cursor, Codex, all agents are welcome. Work on the same live artifacts. Docs, reports, slides, apps, and designs, with shared context, controlled access, and full version history.",
+      "category": "Artificial Intelligence • Maker Tools • Vibe coding",
+      "categoryFa": "هوش مصنوعی • Maker Tools • Vibe coding",
+      "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/fb81d1a5-1eef-40f5-af62-fe544378a6a8.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e0f477da-7baf-4fc7-bbf6-84a4c02e607a.jpeg?auto=format",
+        "https://ph-files.imgix.net/acc15ed1-d067-403d-bd16-b901c6400bfe.png?auto=format",
+        "https://ph-files.imgix.net/d7a46409-4178-4340-bf5b-bc63e7f772a5.png?auto=format",
+        "https://ph-files.imgix.net/b1d6247c-d2e9-4fbc-a866-5ba8a31204ff.png?auto=format",
+        "https://ph-files.imgix.net/6933a3f0-269d-42f2-b35f-24f9098cd2c8.png?auto=format",
+        "https://ph-files.imgix.net/2c9df38d-fec9-408c-b5f9-2a627e522945.png?auto=format",
+        "https://ph-files.imgix.net/e3db03c0-4311-4e22-bf4e-b9da37e32392.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 169,
+      "websiteUrl": "https://www.producthunt.com/r/NJM7SLYJGCQILR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH 👋Avishay here, co-founder of Anima, makers of AgentGrid.io.Today, we're launching AgentGrid.io, a shared drive for humans and AI agents to collaborate on documents, websites, apps, and designs. Feels like Google Drive for humans, Git for agents.Bring your own AI agents. Keep your work independent of any AI provider. Everyone works on the same live artifacts.What you can do with AgentGrid:Collaborate on documents - Google Docs-like multiplayer editing for humans, with a Markdown and Git interface for agents.Share/publish websites and apps - HTML/React apps are a new type of document - reports, slides, designs, internal apps - Share them securely or publish to the web, simply by asking your chat/agent.Multi-agent-human collab - Let Claude create a report, ChatGPT improve it, Grok Bot generate visuals, and a teammate edit it manually. All on the same artifact.Share AI work securely - Give every document, report, app, or design a persistent link and structured storage, instead of leaving it buried in a chat.Version history and control - See who changed what, restore previous versions, and control what each agent can access or modify.Agent-agnostic, made for all agents - Claude, ChatGPT, Codex, Grok Bot, Cursor, Hermes, OpenClaw, and others via MCP, CLI, and APIs.Bring your existing work - Import files, websites, and Figma designs to continue working with your agents. You can also ask your agents to simply put their work on AgentGrid.io.Who it's for:Anyone creating real work with AI.Founders, builders, designers, developers, marketers, product teams, agencies, and companies bringing AI agents into their daily workflows.AgentGrid.io is Free to start: Unlimited agent seats.Try it with your existing Claude, Grok Bot, or ChatGPT. Connect AgentGrid and ask:\"Share this with me on AgentGrid.io.\"Why we built AgentGrid.io:Since the launch of OpenClaw and Hermes, we've been working alongside AI agents across Marketing, Engineering, BI, QA, CS, and more.AI agents are not like humans, but they are becoming teammates we collaborate with, and we need an easy way to do that. We built AgentGrid for ourselves, and today we're opening it to everyone.We'll be here all day. Ask anything, share feedback, questions, and thoughts 👇"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great job! Looks really powerful"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is exactly what's been missing - a shared canvas for humans and multiple AI agents. The version history + permission controls are crucial for real teams. Multi-agent collaboration on the same artifact solves the \"which AI version did we actually use?\" problem. Excited to try this with Claude + Cursor workflows."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-08",
       "rank": 4,
@@ -44211,47 +44508,6 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-25",
-      "rank": 2,
-      "name": "AgentGrid.io",
-      "slug": "agentgrid-io",
-      "tagline": "Shared workspace for humans and agents",
-      "description": "Built for Grok Bot, Muse AI, Instinct, Hermes, Claude, GPT, OpenClaw, Cursor, Codex, all agents are welcome. Work on the same live artifacts. Docs, reports, slides, apps, and designs, with shared context, controlled access, and full version history.",
-      "category": "Artificial Intelligence • Maker Tools • Vibe coding",
-      "categoryFa": "هوش مصنوعی • Maker Tools • Vibe coding",
-      "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/fb81d1a5-1eef-40f5-af62-fe544378a6a8.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e0f477da-7baf-4fc7-bbf6-84a4c02e607a.jpeg?auto=format",
-        "https://ph-files.imgix.net/acc15ed1-d067-403d-bd16-b901c6400bfe.png?auto=format",
-        "https://ph-files.imgix.net/d7a46409-4178-4340-bf5b-bc63e7f772a5.png?auto=format",
-        "https://ph-files.imgix.net/b1d6247c-d2e9-4fbc-a866-5ba8a31204ff.png?auto=format",
-        "https://ph-files.imgix.net/6933a3f0-269d-42f2-b35f-24f9098cd2c8.png?auto=format",
-        "https://ph-files.imgix.net/2c9df38d-fec9-408c-b5f9-2a627e522945.png?auto=format",
-        "https://ph-files.imgix.net/e3db03c0-4311-4e22-bf4e-b9da37e32392.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 167,
-      "websiteUrl": "https://www.producthunt.com/r/NJM7SLYJGCQILR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH 👋Avishay here, co-founder of Anima, makers of AgentGrid.io.Today, we're launching AgentGrid.io, a shared drive for humans and AI agents to collaborate on documents, websites, apps, and designs. Feels like Google Drive for humans, Git for agents.Bring your own AI agents. Keep your work independent of any AI provider. Everyone works on the same live artifacts.What you can do with AgentGrid:Collaborate on documents - Google Docs-like multiplayer editing for humans, with a Markdown and Git interface for agents.Share/publish websites and apps - HTML/React apps are a new type of document - reports, slides, designs, internal apps - Share them securely or publish to the web, simply by asking your chat/agent.Multi-agent-human collab - Let Claude create a report, ChatGPT improve it, Grok Bot generate visuals, and a teammate edit it manually. All on the same artifact.Share AI work securely - Give every document, report, app, or design a persistent link and structured storage, instead of leaving it buried in a chat.Version history and control - See who changed what, restore previous versions, and control what each agent can access or modify.Agent-agnostic, made for all agents - Claude, ChatGPT, Codex, Grok Bot, Cursor, Hermes, OpenClaw, and others via MCP, CLI, and APIs.Bring your existing work - Import files, websites, and Figma designs to continue working with your agents. You can also ask your agents to simply put their work on AgentGrid.io.Who it's for:Anyone creating real work with AI.Founders, builders, designers, developers, marketers, product teams, agencies, and companies bringing AI agents into their daily workflows.AgentGrid.io is Free to start: Unlimited agent seats.Try it with your existing Claude, Grok Bot, or ChatGPT. Connect AgentGrid and ask:\"Share this with me on AgentGrid.io.\"Why we built AgentGrid.io:Since the launch of OpenClaw and Hermes, we've been working alongside AI agents across Marketing, Engineering, BI, QA, CS, and more.AI agents are not like humans, but they are becoming teammates we collaborate with, and we need an easy way to do that. We built AgentGrid for ourselves, and today we're opening it to everyone.We'll be here all day. Ask anything, share feedback, questions, and thoughts 👇"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great job! Looks really powerful"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is exactly what's been missing - a shared canvas for humans and multiple AI agents. The version history + permission controls are crucial for real teams. Multi-agent collaboration on the same artifact solves the \"which AI version did we actually use?\" problem. Excited to try this with Claude + Cursor workflows."
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-5",
       "date": "2026-10-11",
       "rank": 5,
@@ -44512,55 +44768,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-25",
-      "rank": 3,
-      "name": "Badgey",
-      "slug": "badgey",
-      "tagline": "Your iPhone becomes a name badge that faces the room",
-      "description": "Badgey turns your iPhone into a name badge. On a lanyard, it turns to face the people you meet and swings as you move. In a chest pocket, it shrinks so your name shows above the edge. Several badges, a QR code for your link, five designs.",
-      "category": "iOS • Productivity • Events",
-      "categoryFa": "آی‌او‌اس • بهره‌وری • Events",
-      "url": "https://www.producthunt.com/products/badgey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/67ec826e-3628-4f86-a8fc-23342d4daa05.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/05184431-9613-4016-af31-2d491e372d25.png?auto=format",
-        "https://ph-files.imgix.net/9b3d1624-45fb-40ee-bd52-cb2cb89e3afb.png?auto=format",
-        "https://ph-files.imgix.net/3f5613f6-7476-4932-b4c1-6cde902258c3.png?auto=format",
-        "https://ph-files.imgix.net/fc121365-7755-48c4-9d7b-3852748bc982.png?auto=format",
-        "https://ph-files.imgix.net/cbba6ba4-042f-498a-8e22-121a07907ea0.png?auto=format",
-        "https://ph-files.imgix.net/03717e42-8246-4e4f-a16f-e454179432fa.png?auto=format",
-        "https://ph-files.imgix.net/ee503967-c6c6-40ec-a15b-c5072d393d2e.png?auto=format"
-      ],
-      "maker": "Marco Luthi",
-      "makerTitle": "Designer & Maker of Digital Things",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 166,
-      "websiteUrl": "https://www.producthunt.com/r/PGZDT6IPQQGLGJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, I'm Marco. I make small iPhone apps on my own. Badgey turns your iPhone into a name badge. Clip the phone to a lanyard and turn it upside down: the badge turns round to face the people in front of you and swings a little as you walk. Slide it top first into a chest pocket and it shrinks to a strip, so your name shows above the edge. The pocket check uses the front camera for a few seconds while the phone is upside down. A small model on the phone decides, and the frames are never stored. You can keep several badges (work, a conference, a meetup), add a link that turns into a QR code on the back, and choose a design: Classic, Office, Event, Minimal or Live, which moves. It's free with one badge; Pro is a one-time purchase. I'd love to hear where you'd wear it, and what's missing."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Cool idea, but I would love to see a photo or video of how it looks in a physical setting"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great idea - good conversation starter for conferences"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A badge that shrinks to a strip in a chest pocket, with the front camera checking for a few seconds, is a clever detail. Does the pocket check run every time you flip the phone upside down?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How long does the battery last with the screen on for a whole conference day? And does it stop the phone from auto-locking?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -50345,7 +50552,67 @@
           "user": "[REDACTED]",
           "text": "Hey Product Hunt 👋 Tobi here, co-founder of Gleap.We’ve been building support tools for years, and one thing kept bugging me: the hardest part of support was never writing the reply. It was figuring out what actually went wrong. Teams spend hours jumping between logs, recordings and code just to understand one ticket, and the customer is left waiting the whole time.AI got really good at answering questions, but most “AI support” stops right there. We wanted something that does the part that actually hurts: the investigation.That’s Kai Resolve. It looks into every ticket like an experienced teammate would, answers what it can, and hands the rest to your team with the cause and the evidence ready. And the more context you give it (your docs, your code, your past tickets), the more it solves on its own.For me, this is the support tool I always wished we had.I’d love to hear from everyone running support: what’s the part of the digging that takes your team the longest? 🙌"
         }
-      ]
+      ],
+      "faDescription": "«کای ریزالو» (Kai Resolve) یک ایجنت هوش مصنوعی پیشرفته برای پاسخگویی به تیکت‌های پشتیبانی پیچیده‌ای است که مستندات معمولی قادر به حل آن‌ها نیستند. این ابزار با بررسی ویدیوهای ضبط‌شده از صفحه کاربر، لاگ‌های کنسول و شبکه، داده‌های حساب کاربری و کدهای منبع برنامه‌نویسی (به صورت فقط‌خواندنی در محیط ایزوله)، علت ریشه‌ای مشکلات را تشخیص می‌دهد. سپس یا به صورت مستقیم به مشتری پاسخ می‌دهد یا تیکت را همراه با تشخیص دقیق، دلایل و مستندات فنی به تیم توسعه ارجاع می‌دهد. در نهایت، باگ‌های تاییدشده به وظایف برنامه‌نویسی تبدیل می‌شوند تا توسط تیم نرم‌افزاری بازبینی و برطرف گردند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به Product Hunt 👋 من ایزابلا، هم‌بنیان‌گذار Gleap هستم. تیم ما سیستم پشتیبانی مشتری بومی هوش مصنوعی را برای تیم‌های نرم‌افزاری می‌سازد و امروز از جدیدترین عضو تیم هوش مصنوعی خود رونمایی می‌کنیم: Kai Resolve. چرا این محصول را ساختیم؟ کای پشتیبان از قبل تیکت‌های ساده را سریع و با هزینه پایین توکن مدیریت می‌کرد. اما برخی تیکت‌ها نیازمند بررسی عمیق داده‌ها هستند. اینجاست که Kai Resolve وارد می‌شود؛ تیکت را بررسی می‌کند، باگ‌ها را پیدا کرده و با گزارشی دقیق به تیم تحویل می‌دهد. همچنین از طریق پروتکل MCP می‌تواند درخاست‌های ویژگی جدید را مستقیماً به نقشه راه (Roadmap) شما اضافه کند. بر اساس داده‌های ما، این ایجنت ۷۵٪ تیکت‌ها را به طور خودکار حل می‌کند و در صورت عدم اطمینان، به جای حدس زدن از تیم شما می‌پرسد. قیمت آن به طور متوسط ۰.۴۹ دلار به ازای هر بررسی است. نسخه آزمایشی ۷ روزه بدون نیاز به کارت اعتباری هم فعال است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "در مورد هزینه ۰.۴۹ دلار برای هر بررسی، اگر یک تیکت شامل چند مشکل مختلف باشد، آیا همچنان یک بررسی محسوب می‌شود یا هر مشکل جداگانه محاسبه خواهد شد؟ مشتریان ما معمولاً همه مشکلات را در یک پیام می‌فرستند!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به ایزابلا و تیم Gleap. این که ایجنت قبل از رسیدن تیکت به انسان، ویدیو و لاگ‌ها را می‌خواند دقیقاً گامی است که اکثر ربات‌های پشتیبانی از آن غفلت می‌کنند. در مورد آمار ۷۵٪، اگر مشتری دیگر پاسخ ندهد، چطور آن را حل‌شده حساب می‌کنید؟ و آیا ارجاع باگ به تیم فنی، حل‌شده محسوب می‌شود یا اسکالیدشده؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "کنجکاوم بدانم اگر چند مشتری یک باگ یکسان را به روش‌های مختلف گزارش کنند، آیا Kai می‌تواند این تیکت‌ها را به یک بررسی واحد مرتبط کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سلام به همگی، من حسین هستم، مدیر موفقیت مشتری در Gleap 👋 آنچه از تیم‌های پشتیبانی سطح دو می‌شنوم این است که بیشتر وقت آن‌ها صرف تیکت‌هایی می‌شود که فقط نیاز به ریشه‌یابی دارند. Kai Resolve این روند را معکوس می‌کند؛ بررسی‌های روتین را انجام می‌دهد تا تیم شما روی باگ‌های پیچیده و حساب‌های کلیدی تمرکز کند. بر اساس داده‌های ما، Kai Resolve حدود ۷۵٪ تیکت‌ها را خودکار حل می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "خواندن ضبط صفحه و لاگ‌ها قبل از پاسخ‌دهی دقیقاً همان چیزی است که این ابزار را جذاب می‌کند، چرا که بیشتر ابزارهای پشتیبانی فقط مستندات را بازنویسی می‌کنند و نام آن را هوش مصنوعی می‌گذارند!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "سلام! فلوریان هستم، مدیر ارشد فناوری Gleap. از دیدگاه مهندسی، وقتی تیکت پیچیده‌ای می‌رسد، Kai مانند یک توسعه‌دهنده خوب عمل می‌کند: مسیر کلیک‌ها را دنبال می‌کند، لاگ‌های کنسول و شبکه را می‌خواند، داده‌های حساب را بررسی کرده و دقیقاً فایل و خط مربوطه در کد را نشان می‌دهد. با اتصال ابزارهای نظارتی از طریق MCP، حتی مشکلاتی که روی صفحه کاربر ظاهر نمی‌شوند را ردیابی می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام! توبی هستم، هم‌بنیان‌گذار Gleap. سخت‌ترین بخش پشتیبانی هیچ‌وقت نوشتن پاسخ نبود، بلکه فهمیدن این بود که واقعاً چه چیزی خراب شده است. بیشتر هوش مصنوعی‌ها فقط پاسخ می‌دهند، اما ما ابزاری می‌خواستیم که بخش دردناک یعنی ریشه‌یابی را انجام دهد. Kai Resolve تیکت‌ها را مثل یک همکار باتجربه بررسی کرده و علت و مستندات را آماده تحویل می‌دهد."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nاکثر ابزارهای پشتیبانی مبتنی بر هوش مصنوعی، صرفاً روی پاسخ‌دهی به سوالات متداول متمرکز هستند و در مواجهه با باگ‌های فنی عاجزند. Kai Resolve مسئله اصلی یعنی «زمان‌بر بودن ریشه‌یابی و کاوش باگ‌ها» را هدف گرفته است. با خواندن ویدیو، لاگ‌ها و سورس‌کد، فرایند عیب‌یابی را از دوش تیم پشتیبانی سطح دو برمی‌دارد.\n\n### معماری و تکنولوژی\nاین ابزار از بازپخش جلسات، لاگ‌های شبکه/کنسول و دسترسی فقط‌خواندنی به کد در محیط ایزوله (Sandbox) استفاده می‌کند. همچنین بهره‌گیری از پروتکل جدید MCP (Model Context Protocol) به آن اجازه می‌دهد به ابزارهای مانیتورینگ خارجی متصل شده و حتی درخاست‌های ویژگی جدید را مستقیم به نقشه راه محصول بیفزاید.\n\n### مدل درآمدی\nمدل درآمدی بسیار شفاف و مبتنی بر استفاده است (حدود ۰.۴۹ دلار به ازای هر کاوش موفق)، که روی پلن‌های تیمی ارائه می‌شود و بازگشت سرمایه آن برای شرکت‌ها کاملاً ملموس است.\n\n### نقاط قوت\n- حل واقعی چالش ریشه‌یابی به جای بازنویسی ساده مستندات.\n- ارجاع دقیق به خط کد معیوب که زمان توسعه‌دهندگان را نجات می‌دهد.\n- استفاده از پروتکل‌های نوین مانند MCP برای یکپارچگی بیشتر.\n\n### نقاط ضعف\n- چالش‌های امنیتی در دادن دسترسی سورس‌کد به مدل‌های هوش مصنوعی.\n- ابهام در نحوه قیمت‌گذاری برای تیکت‌های پیچیده که حاوی چندین باگ مجزا هستند.\n\n### نکته طلایی برای ایران\nبرای موفقیت مشابه این طرح در ایران، بومی‌سازی باید روی ارائه‌ی **نسخه اختصاصی قابل نصب روی سرورهای داخلی (On-Premises)** تمرکز کند تا چالش‌های مربوط به امنیت داده و محرمانه بودن سورس‌کد شرکت‌ها برطرف شود.",
+      "iranEquivalent": {
+        "productName": "دیباگ‌یار (DebugYar AI)",
+        "description": "پلتفرم بومی عیب‌یابی خودکار تیکت‌های فنی پشتیبانی برای استارت‌آپ‌های ایرانی. این سیستم با اتصال به لاگ‌های سرور، ابزارهای بازپخش نشست کاربر و مخازن کد مانند گیت‌لب، علت ریشه‌ای خطاها را شناسایی می‌کند. در نهایت گزارش دقیق باگ به زبان فارسی به همراه خط دقیق کد ایجاد شده و تیکت به تسک در سامانه‌هایی مثل تسکولو یا جیرا تبدیل می‌شود.",
+        "marketOpportunity": "اکثر محصولات SaaS و پلتفرم‌های بزرگ ایرانی زمان زیادی از تیم‌های توسعه خود را صرف بررسی لاگ‌ها و عیب‌یابی تیکت‌های گنگ کاربران می‌کنند. ایجاد یک ابزار بومی که این فرایند کاوش را خودکار کند، هزینه پشتیبانی فنی را به شدت کاهش می‌دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه نرم‌افزار، شرکت‌های B۲B SaaS، مدیران پشتیبانی فنی و پلتفرم‌های بزرگ اینترنتی در ایران",
+        "challenges": [
+          "دغدغه‌های امنیتی و عدم تمایل شرکت‌ها به دادن دسترسی خواندن سورس‌کد به هوش مصنوعی",
+          "عدم وجود ساختار یکپارچه لاگ‌گیری و مانیتورینگ در برخی از نرم‌افزارهای بومی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه بر اساس تعداد عیب‌یابی‌های انجام‌شده",
+          "ارائه نسخه On-Premises (نصب روی سرور اختصاصی مشتری) برای سازمان‌های بزرگ با قیمت پایه بالاتر"
+        ],
+        "techStack": [
+          "Next.js",
+          "FastAPI",
+          "PostgreSQL",
+          "ClickHouse",
+          "LangChain",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -51725,6 +51992,60 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-25",
+      "rank": 4,
+      "name": "Openstatus Incident Management",
+      "slug": "openstatus-incident-management",
+      "tagline": "Incident management for small teams",
+      "description": "Open source incident management next to your monitors and status page. Declare from Slack, get a channel per incident, keep a timeline and draft the postmortem.",
+      "category": "Open Source • Developer Tools • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/694f683b-d48d-4881-a66a-9f007f9f38b2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5d1f7556-9442-4f0e-ab7d-02c0e03c1978.png?auto=format",
+        "https://ph-files.imgix.net/66094cf5-0160-4ab8-ac05-d9d46bec9e4d.png?auto=format",
+        "https://ph-files.imgix.net/4a9db12e-18d0-4074-b3e0-fa4d27f1f31b.png?auto=format",
+        "https://ph-files.imgix.net/b4b20aa2-2c3b-4521-98cc-8c44ec8acf55.png?auto=format",
+        "https://ph-files.imgix.net/245fdeb1-82d1-428f-8c90-0e0711ab91cb.png?auto=format",
+        "https://ph-files.imgix.net/a139cc28-7953-4b29-8458-eec374c5d09f.png?auto=format",
+        "https://ph-files.imgix.net/5e413714-7319-4fea-93be-2eaa5ddb9266.webp?auto=format",
+        "https://ph-files.imgix.net/09b68d16-8af0-4c09-8961-8f2fbb7dfa5e.jpeg?auto=format"
+      ],
+      "maker": "Thibault Le Ouay",
+      "makerTitle": "building openstatus.dev 🫖",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 142,
+      "websiteUrl": "https://www.producthunt.com/r/GUOGK3ES446K7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Today we are launching our incident management feature for openstatus 😅 Because status page are a lie and we needed to go upstream"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Launch friends! Lets goooooo This is actually cool!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "lets goooooooo! best incident management around."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hi launch bestie, such a cool feature. happy openstatus user and customer. i hope we never have an incident to use your new feature though"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Status page stays green while the Slack channel is on fire 😅"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"status pages are a lie\" is the most honest line on PH today lol, seen it so many times, page stays green while the slack channel is on firewhen someone declares from Slack, does the status page update by itself or does someone still have to aprove what customers see???"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-22",
       "rank": 7,
@@ -52179,60 +52500,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-25",
-      "rank": 4,
-      "name": "Openstatus Incident Management",
-      "slug": "openstatus-incident-management",
-      "tagline": "Incident management for small teams",
-      "description": "Open source incident management next to your monitors and status page. Declare from Slack, get a channel per incident, keep a timeline and draft the postmortem.",
-      "category": "Open Source • Developer Tools • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/694f683b-d48d-4881-a66a-9f007f9f38b2.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5d1f7556-9442-4f0e-ab7d-02c0e03c1978.png?auto=format",
-        "https://ph-files.imgix.net/66094cf5-0160-4ab8-ac05-d9d46bec9e4d.png?auto=format",
-        "https://ph-files.imgix.net/4a9db12e-18d0-4074-b3e0-fa4d27f1f31b.png?auto=format",
-        "https://ph-files.imgix.net/b4b20aa2-2c3b-4521-98cc-8c44ec8acf55.png?auto=format",
-        "https://ph-files.imgix.net/245fdeb1-82d1-428f-8c90-0e0711ab91cb.png?auto=format",
-        "https://ph-files.imgix.net/a139cc28-7953-4b29-8458-eec374c5d09f.png?auto=format",
-        "https://ph-files.imgix.net/5e413714-7319-4fea-93be-2eaa5ddb9266.webp?auto=format",
-        "https://ph-files.imgix.net/09b68d16-8af0-4c09-8961-8f2fbb7dfa5e.jpeg?auto=format"
-      ],
-      "maker": "Thibault Le Ouay",
-      "makerTitle": "building openstatus.dev 🫖",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 141,
-      "websiteUrl": "https://www.producthunt.com/r/GUOGK3ES446K7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Today we are launching our incident management feature for openstatus 😅 Because status page are a lie and we needed to go upstream"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Launch friends! Lets goooooo This is actually cool!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "lets goooooooo! best incident management around."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "hi launch bestie, such a cool feature. happy openstatus user and customer. i hope we never have an incident to use your new feature though"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Status page stays green while the Slack channel is on fire 😅"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "\"status pages are a lie\" is the most honest line on PH today lol, seen it so many times, page stays green while the slack channel is on firewhen someone declares from Slack, does the status page update by itself or does someone still have to aprove what customers see???"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -53070,7 +53337,66 @@
           "user": "[REDACTED]",
           "text": "Cool launch! Love the focus of improving voice & learning from the context of the app you're using. Lots of craft from this team :)"
         }
-      ]
+      ],
+      "faDescription": "با والی (Wally) آشنا شوید، دستیار هوشمند جدید شما برای نگارش در پلتفرم ویلو (Willow). شما می‌توانید از طریق گفتگوی صوتی پیش‌نویس ایمیل‌ها، پیام‌های اسلک و پرامپت‌های خود را به سرعت آماده کنید. این دستیار به شما امکان می‌دهد متون هایلایت‌شده را بازنویسی کرده و آن‌ها را در طول یک گفتگوی پیوسته اصلاح نمایید. والی با استفاده از بافت شخصی و یادگیری رفت‌وبرگشتی، سبک نگارش منحصر‌به‌فرد شما را به مرور زمان فرا می‌گیرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! بسیار خوشحالیم که امروز رونمایی دیگری از ویلو را به شما معرفی می‌کنیم. دو هفته پیش، قابلیت Willow Knowledge را معرفی کردیم که از حافظه واردشده از مدل‌های زبانی یاد می‌گیرد و مانند خود شما می‌نویسد. امروز بسیار هیجان‌زده‌ایم که والی، دستیار نگارش جدیدمان را معرفی کنیم :) شما اکنون می‌توانید به صورت صوتی یا متنی با والی گفتگو کنید. روی یک ایده کار کنید، افکارتان را پیاده‌سازی کنید یا به او بگویید چه چیزی می‌خواهید بنویسید. والی تاریخچه گفتگو را حفظ می‌کند، بنابراین می‌توانید گفتگو را ادامه دهید تا زمانی که به نتیجه دقیق برسید. اگر در حال نوشتن ایمیل هستید، فقط به والی بگویید چه می‌خواهید بگویید. وقتی پیش‌نویس آماده شد، می‌توانید از او بخواهید لحن را تغییر دهد یا مواردی را که فراموش کرده‌اید اضافه کند. همچنین می‌توانید متن را در برنامه‌ای که استفاده می‌کنید هایلایت کرده و از والی بخواهید آن را بازنویسی کند، سپس نتیجه را دوباره جای‌گذاری کنید. با تعامل رفت‌وبرگشتی، والی سبک نگارش و ترجیحات شما را یاد می‌گیرد. او حتی از ویرایش‌هایی که بعد از جای‌گذاری انجام می‌دهید نیز یاد می‌گیرد. والی از بخش Knowledge هم استفاده می‌کند؛ اگر ترجیحات نگارشی و بافت شخصی خود را از چت‌جی‌پی‌تی، کلود یا هوش مصنوعی دیگری وارد ویلو کرده باشید، والی می‌تواند از آن اطلاعات در گفتگوها بهره ببرد. شما می‌توانید هر زمان که بخواهید این جزئیات را در Knowledge مرور و ویرایش کنید. والی برای همه در دسترس است. آن را دانلود کنید و همین امروز چت کردن یا کار روی متنی را که باید بنویسید امتحان کنید. تیم ما امروز اینجاست تا به سوالات شما پاسخ دهد. اگر بازخوردی دارید، لطفا در نظرات بنویسید. از همه شما بابت بررسی رونمایی ما متشکریم 🙏🏼"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "قابلیت صوتی که سبک نوشتن شما را یاد می‌گیرد بخش اصلی و جذاب کار است. دست مریزاد 👏 آیا لحن را به سرعتی یاد می‌گیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این بخش که متنی را در یک برنامه دیگر هایلایت کنیم و از آن بخواهیم بازنویسی کند بسیار کاربردی است. آیا نتیجه جای‌گذاری‌شده فرمت همان برنامه‌ای که در آن بودید را حفظ می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آپدیت بزرگ و عالی! همچنین نماد (Mascot) بسیار جذابی دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "رونمایی را تبریک می‌گویم! این را دوست دارم که از ویرایش‌های انجام‌شده بعد از جای‌گذاری یاد می‌گیرد؛ اکثر ابزارها باعث می‌شوند هر بار مجبور شوم لحنم را دوباره توضیح دهم. به نظر من گزینه متنی در والی دست‌کم گرفته شده است. من عاشق قابلیت صوتی هستم، اما به عنوان یک دانشجو نیمی از اوقات در کتابخانه‌ها و سالن‌های کنفرانس در حال نوشتن هستم، جایی که صحبت کردن با صدای بلند — حتی پچ‌پچ کردن — واقعاً امکان‌پذیر نیست. این احتمالاً بزرگترین دلیلی است که افراد در دانشگاه از برنامه‌های دیکته صوتی منصرف می‌شوند. امکان ادامه دادن همان گفتگو از طریق تایپ کردن، این مشکل را کاملاً دور می‌زند و تا اینجا عالی بوده است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من اولین بار صوتی ویلو را به لطف شارات در اینجا کشف کردم و از آن زمان تمام رونمایی‌های این شرکت را دنبال می‌کنم! این یک ابزار صوتی بسیار ساده است که من دقیقاً همین الان دارم از آن برای نوشتن این نظر استفاده می‌کنم 🤩 تبریک به تیم بابت یک رونمایی هیجان‌انگیز دیگر! بی‌صبرانه منتظرم تا دستیار والی خودم را امتحان کنم! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "در ابزارهایی مثل این، مشکل همیشه حافظه است؛ من همین الان هم چند دستیار مختلف دارم و دیگر نمی‌دانم کدام یک چه چیزی را می‌داند، آیا برنامه‌ای برای این موضوع دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "رونمایی جذابی بود! تمرکز روی بهبود ورودی صوتی و یادگیری از بافت برنامه‌ای که استفاده می‌کنید را دوست دارم. ظرافت و ظریف‌کاری زیادی از این تیم دیده می‌شود :)🏼"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبزرگ‌ترین چالش ابزارهای مولد متن تولید پاسخ‌های عمومی و بدون لحن شخصی است. Wally با ترکیب الگوریتم‌های یادگیری تعاملی و حافظه بلندمدت (Knowledge)، این مشکل را حل کرده است. کاربر می‌تواند با صوت یا متن پیش‌نویس بسازد، متن‌های هایلایت‌شده در سایر برنامه‌ها را بازنویسی کند و به مرور دستیاری داشته باشد که دقیقاً مانند خود او می‌نویسد.\n\n### معماری و تکنولوژی\nبرنامه بر پایه تبدیل صوتی تبدیل گفتار به متن (STT) فوق‌العاده سریع، پردازش زبانی متنی (LLM) با قابلیت حفظ بافت گفتگو، و یک سیستم مدیریت حافظه (Memory Vector Database) طراحی شده است. حفظ فرمت متن در هنگام بازنویسی بین برنامه‌ها از طریق ابزارهای Clipboard API و نگاشت سبک‌های متنی مدیریت می‌شود.\n\n### مدل درآمدی\nمدل درآمدی پیشنهادی ترکیبی از Freemium (استفاده رایگان محدود در روز) و اشتراک‌های حجمی/زمانی است. همچنین ارائه API نگارش شخصی‌سازی‌شده برای شرکت‌ها می‌تواند جریان درآمدی B۲B پایداری ایجاد کند.\n\n### نقاط قوت\n- **حفظ سبک نگارش شخص:** یادگیری فعال از ویرایش‌های بعدی کاربر.\n- **پشتیبانی دوگانه صوتی/متنی:** انعطاف‌پذیری برای استفاده در محیط‌های شلوغ یا خلوت (مانند کتابخانه).\n- **کاربرد پذیری بالا (UX):** امکان بازنویسی مستقیم متون هایلایت‌شده در نرم‌افزارهای جانبی.\n\n### نقاط ضعف\n- **سردرگمی حافظه دستیارها:** احتمال تداخل داده‌ها در صورتی که کاربر از چندین دستیار همزمان استفاده کند.\n- **چالش فرمت‌بندی:** احتمال خراب شدن فرمت متون پیچیده هنگام پاست کردن در برنامه‌های مختلف.\n\n### نکته طلایی برای ایران\nدر بازار ایران، ابزاری که بتواند **لحن رسمی و اداری فارسی** را از **لحن صمیمانه شبکه‌های اجتماعی** تفکیک کند و تبدیل گفتار به متن فارسی (با دقت بالا روی کلمات تخصصی) ارائه دهد، شانس بالایی برای تصاحب بازار مکاتبات سازمانی و فریلنسری خواهد داشت.",
+      "iranEquivalent": {
+        "productName": "کاتب AI (Kateb)",
+        "description": "کاتب یک دستیار هوشمند نگارش مبتنی بر هوش مصنوعی برای کاربران فارسی‌زبان است که فرآیند تولید متن را از طریق ورودی صوتی و متنی تسهیل می‌کند. این ابزار با تحلیل ویرایش‌های کاربر و اتصال به نرم‌افزارهای کاربردی، سبک نگارش خاص هر فرد را یاد گرفته و متن‌های هایلایت‌شده را بازنویسی می‌نماید. کاتب به طور ویژه برای ساخت پیش‌نویس ایمیل‌ها، نامه‌های اداری و پیام‌های شبکه‌های اجتماعی طراحی شده است.",
+        "marketOpportunity": "با توجه به توسعه روزافزون کسب‌وکارهای دیجیتال در ایران، نیاز شدیدی به ابزارهای هوشمند نگارش که ساختار و لحن‌های مختلف زبان فارسی را درک کنند احساس می‌شود. خلق ابزاری که بتواند حافظه نگارشی کاربر را حفظ کند، فرآیند مکاتبات اداری و تولید محتوا را در کسب‌وکارهای ایرانی به شدت تسریع خواهد کرد.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران اجرایی، کارشناسان روابط عمومی و مارکتینگ، تولیدکنندگان محتوا، فریلنسرها و دانشجویان.",
+        "challenges": [
+          "پیچیدگی‌های تبدیل دقیق گفتار به متن در زبان فارسی با توجه به تنوع لهجه‌ها و لحن‌های محاوره‌ای",
+          "حفظ فرمت‌بندی صحیح متون راست‌به‌چپ (RTL) در زمان بازنویسی و انتقال بین برنامه‌های مختلف"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه (مدل Freemium با محدودیت تعداد کلمات یا دقایق پردازش صوتی)",
+          "ارائه نسخه سازمانی (Enterprise) با قابلیت اتصال به سیستم‌های اتوماسیون اداری و CRM"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "PostgreSQL",
+          "Whisper AI (Fine-tuned for Persian)",
+          "LangChain / LlamaIndex"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -55328,7 +55654,39 @@
           "user": "[REDACTED]",
           "text": "Beam is focused on coding and agentic use cases. It is for teams that want a frontier-scale model on their own hardware, infrastructure, or cloud, and want to customize it to their own use cases. Beam ships with its own dedicated open source Rust based harness that delivers the best performance from the model.TL;DR501B-parameter MoEs LLM with 23B active per token. 52 layers, 256 experts per MoE layer, 8 routed per token.Text in, text out with context window of 1M tokens.Checkpoint formats: BF16, FP8, and NVFP4Reasoning that can stay in context across turns (`preserve_thinking`), tool calling with a dedicated grammar. The model supports five reasoning values: \"low\", \"medium\" (default), \"high\", \"xhigh\", and \"max\".Response template in the tokenizer.Speculative decoding drafter model with DFlash2Day-0 libraries: transformers, SGLang, vLLM. Full-parameter RL with Miles.Ships with an open source Rust-based custom harness.Apache 2.0."
         }
-      ]
+      ],
+      "faDescription": "بیم یک مدل زبان بزرگ اپن‌سورس و بسیار کارآمد با ۵۰۱ میلیارد پارامتر کلی است که بر پایه معماری خبرگان ترکیبی پراکنده توسعه یافته است. این مدل به‌طور خاص برای وظایف برنامه‌نویسی، استدلال پیچیده و سناریوهای مبتنی بر عامل‌های هوشمند طراحی و بهینه‌سازی شده است. بیم از میان مجموع پارامترهای خود، تنها ۲۳ میلیارد پارامتر فعال به ازای هر توکن دارد که باعث کاهش چشمگیر هزینه‌های پردازشی می‌شود. این محصول امکان اجرای مدل‌های در حد مرز دانش را روی زیرساخت و سخت‌افزار اختصاصی یا ابری تیم‌ها فراهم می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "بیم بر روی کاربردهای برنامه‌نویسی و عامل‌های هوشمند تمرکز دارد. این مدل برای تیم‌هایی مناسب است که می‌خواهند مدلی در حد مرز دانش را روی سخت‌افزار، زیرساخت یا ابر اختصاصی خود اجرا کرده و آن را بر اساس نیازهایشان سفارشی‌سازی کنند. بیم همراه با یک هارنس اختصاصی متن‌باز مبتنی بر رَست (Rust) عرضه می‌شود که بهترین کارایی را از مدل استخراج می‌کند. خلاصه مشخصات: مدل زبانی بزرگ MoE با ۵۰۱ میلیارد پارامتر و ۲۳ میلیارد پارامتر فعال به ازای هر توکن؛ دارای ۵۲ لایه، ۲۵۶ خبره در هر لایه MoE و هدایت ۸ خبره به ازای هر توکن؛ ورودی و خروجی متنی با پنجره کانتکست ۱ میلیون توکنی؛ فرمت‌های چک‌پوینت BF۱۶، FP۸ و NVFP۴؛ استدلال با قابلیت حفظ کانتکست در طول گفتگوها (preserve_thinking) و فراخوانی ابزارها با گرامر اختصاصی؛ پشتیبانی از ۵ سطح استدلال (کم، متوسط، بالا، بسیار بالا و حداکثر)؛ الگوی پاسخ در توکنایزر؛ مدل پیش‌نویس برای رمزگشایی گمانه‌زنی با DFlash۲؛ پشتیبانی روز اول از کتابخانه‌های transformers، SGLang و vLLM؛ یادگیری تقویتی تمام‌پارامتر با Miles؛ عرضه به همراه هارنس اختصاصی Rust؛ تحت مجوز Apache ۲.۰."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: مدل‌های هوش مصنوعی پیشرفته تجاری معمولاً وابسته به ابرهای خارجی هستند که خطر افشای داده‌ها و هزینه‌های بالای استفاده از API را به همراه دارند. Beam با ارائه یک مدل ۵۰۱ میلیارد پارامتری اپن‌سورس با معماری MoE، امکان استفاده از قدرت پردازشی بالا را با مصرف تنها ۲۳ میلیارد پارامتر فعال در زیرساخت‌های اختصاصی فراهم می‌کند.\n\nمعماری و تکنولوژی: Beam از ۵۲ لایه و ۲۵۶ خبره بهره می‌برد و دارای پنجره کانتکست ۱ میلیون توکنی است. پشتیبانی از فرمت‌های فشرده‌سازی FP۸ و NVFP۴، همراه با هارنس اختصاصی نوشته‌شده به زبان Rust و پشتیبانی روز اول از vLLM و SGLang، سرعت استنتاج (Inference) و کارایی فوق‌العاده‌ای را تضمین می‌کند.\n\nمدل درآمدی: پروژه اصلی تحت مجوز Apache ۲.۰ کاملاً رایگان است. مدل کسب‌وکار حول آن شامل ارائه خدمات استقرار ابری مدیریت‌شده، ابزارهای مدیریت عامل‌ها، و خدمات مشاوره و سفارشی‌سازی برای شرکت‌هاست.\n\nنقاط قوت:\n۱. کارایی بالا با فعال‌سازی تنها ۲۳ میلیارد پارامتر از ۵۰۱ میلیارد.\n۲. کانتکست بسیار عریض ۱ میلیون توکنی و پشتیبانی از حفظ استدلال در طول گفتگو.\n۳. هارنس اختصاصی Rust برای استنتاج با حداکثر سرعت.\n\nنقاط ضعف:\n۱. نیاز به حافظه رم و گرافیک بالا جهت بارگذاری اولیه ۵۰۱ میلیارد پارامتر.\n۲. پیچیدگی‌های فنی در مدیریت و نگهداری مدل‌های MoE در مقیاس بزرگ.\n\nنکته طلایی برای ایران: شرکت‌های ایرانی می‌توانند با استفاده از نسخه NVFP۴ یا FP۸ این مدل و هارنس Rust آن، یک دستیار هوشمند برنامه‌نویسی و عامل خودکار برای بانک‌ها و سازمان‌های امنیتی ایران بسازند که کاملاً داخل کشور و بدون نیاز به اینترنت بین‌الملل کار کند.",
+      "iranEquivalent": {
+        "productName": "پرتو هوش",
+        "description": "پرتو هوش یک پلتفرم بومی ارائه و بهینه‌سازی مدل‌های زبانی بزرگ برای زیرساخت‌های سازمانی در ایران است. این پلتفرم امکان استقرار مدل‌های خبره متن‌باز را روی سرورهای داخلی فراهم کرده و آن‌ها را برای برنامه‌نویسی و عامل‌های هوشمند شخصی‌سازی می‌کند. با استفاده از این ابزار، سازمان‌ها می‌توانند بدون خروج داده‌های حساس از کشور، از قدرت مدل‌های مقیاس بزرگ بهره‌مند شوند.",
+        "marketOpportunity": "با توجه به محدودیت‌های تحریمی و قوانین سخت‌گیرانه حریم خصوصی داده‌ها در بانک‌ها و سازمان‌های بزرگ ایران، نیاز مبرمی به مدل‌های اپن‌سورس قابل استقرار در محل وجود دارد. ارائه پلتفرمی که هوش مصنوعی عامل‌محور را روی زیرساخت‌های داخلی بهینه‌سازی کند، بازار بکری در صنایع مالی و نرم‌افزاری ایجاد می‌کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "شرکت‌های بزرگ نرم‌افزاری، بانک‌ها، مؤسسات مالی و سازمان‌های دولتی در ایران",
+        "challenges": [
+          "محدودیت شدید در تامین منابع سخت‌افزاری و کارت‌های گرافیک پیشرفته در کشور",
+          "چالش‌های مربوط به بومی‌سازی زبان فارسی و جلب اعتماد سازمان‌ها جهت استقرار سیستم‌های مبتنی بر عامل"
+        ],
+        "monetization": [
+          "فروش لایسنس استقرار سازمانی On-Premise",
+          "ارائه خدمات سفارشی‌سازی، آموزش مدل روی داده‌های اختصاصی و پشتیبانی فنی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Rust",
+          "Python",
+          "vLLM",
+          "PyTorch"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -59970,7 +60328,66 @@
           "user": "[REDACTED]",
           "text": "This makes me happy. MSN for coding agents is the most fun take on running several agents at once that I've seen. Can I add Hermes as a buddy, or is it just the four built in?"
         }
-      ]
+      ],
+      "faDescription": "این نرم‌افزار یک برنامه دسکتاپ رایگان برای سیستم‌عامل‌های مک (اپل سیلیکون)، ویندوز و لینوکس است که ایجنت‌های کدنویسی مانند کلود کد، کدکس، جمینای و اپن‌کد را در قالب یک لیست مخاطبان به سبک MSN مسنجر کنار هم قرار می‌دهد. شما می‌توانید از درگاه‌های کاری (Worktrees) مجزای گیت برای کارهای مختلف استفاده کنید یا ایجنت‌ها را در یک پوشه مشترک وارد چت گروهی نمایید. این ابزار به ایجنت‌ها اجازه می‌دهد به نوبت عمل کنند، به صورت مشترک پاسخ دهند یا کارهای نیمه‌کاره را به ایجنت دیگری واگذار کنند. همچنین امکان بررسی تغییرات کد، اجرای ترمینال، پیش‌نمایش برنامه و پیگیری بررسی‌های PR در کنار پنجره گفتگو فراهم شده است. استفاده از برنامه نیازمند اکانت‌های اختصاصی خود کاربر است و میزان مصرف و دسترسی به ارائه‌دهندگان به صورت جداگانه مدیریت می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی، من صفا هستم، سازنده بادی‌لیست 👋 آیا MSN Messenger را به یاد دارید؟ من بادی‌لیست را ساختم تا آن حس و حال نوستالژیک را به کار با ایجنت‌های کدنویسی بیاورم. Claude Code، Codex، Gemini و OpenCode را به عنوان دوست (Buddy) اضافه کنید. آنها را وارد یک چت گروهی کنید، از کلود بخواهید یک ویژگی بسازد و سپس از کدکس بخواهید آن را بررسی کند. آنها پوشه پروژه مربوط به گفتگو را به اشتراک می‌گذارند. همچنین می‌توانید ایجنت دیگری را برای ادامه چک‌لیست نیمه‌کاره انتخاب کنید. مخاطبین مجزا می‌توانند در Worktreeهای گیت مخصوص به خود کار کنند. تب‌های چت و چت‌های شاخه‌دار (Forked) پوشه موجود را به اشتراک می‌گذارند. تغییرات کد را بررسی کنید، ترمینال اجرا کنید، برنامه‌تان را پیش‌نمایش بگیرید و PRها را در کنار گفتگو مدیریت کنید. تم‌های قدیمی، Nudge و Wink هم وجود دارد. این برنامه برای مک، ویندوز و لینوکس رایگان است و حمایت مالی اختیاری دارد. اکانت‌های ایجنت را خودتان بیاورید؛ دسترسی و میزان مصرف ارائه‌دهنده‌ها جداست. دمو یا نسخه دسکتاپ را امتحان کنید: https://buddylist.dev"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "وای، باورم نمیشه بیشتر از ۲۱ سال گذشته!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "رابط کاربری به سبک MSN کلی خاطره را زنده می‌کند :D. چه چیزی باعث شد این طرح را انتخاب کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "حس و حال MSN را دوست دارم. کنار هم آوردن چند ایجنت کدنویسی در یک چت و اجازه دادن به همکاری آن‌ها فوق‌العاده کاربردی به نظر می‌رسد. یک ایده بسیار جذاب با حس نوستالژیک!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من واقعاً ایده ادغام ایجنت‌های کدنویسی هوش مصنوعی در یک رابط چت آشنا را دوست دارم. کنجکاوم بدانم با توانمندتر شدن این ایجنت‌ها، آیا یک بادی‌لیست می‌تواند به پلتفرمی تبدیل شود که در آن چند ایجنت نه تنها کنار هم کار کنند، بلکه روی یک پروژه واحد با به اشتراک‌گذاری کانتکست همکاری کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "خیلی عالیه! من عاشق پوسته (Skin) برای برنامه‌های پیام‌رسان نوستالژیک دیگر مثل AIM و ICQ هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "حس نوستالژی بسیار قوی دارد!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "این من را خوشحال می‌کند. MSN برای ایجنت‌های کدنویسی جالب‌ترین رویکردی است که برای اجرای همزمان چند ایجنت دیده‌ام. آیا می‌توانم Hermes را هم به عنوان دوست اضافه کنم یا فقط همین چهار مورد داخلی هستند؟"
+        }
+      ],
+      "aiReview": "پروژه buddylist با ترکیب هوشمندانه حس نوستالژی پیام‌رسان‌های دهه ۲۰۰۰ مانند MSN Messenger و نیاز روز توسعه‌دهندگان به مدیریت چندین ایجنت کدنویسی هوش مصنوعی، یک محصول متمایز ایجاد کرده است.\n\n**مسئله و راه‌حل:**\nتوسعه‌دهندگان هنگام استفاده از چند مدل هوش مصنوعی (مانند Claude و Codex) مجبورند بین ابزارها و وب‌سایت‌های مختلف جابه‌جا شوند. buddylist با فراهم کردن یک محیط چت گروهی، امکان تعامل همزمان مدل‌ها، ارجاع کارهای نیمه‌کاره به یکدیگر و مدیریت کدهای گیت (Worktrees) را در یک برنامه دسکتاپ یکپارچه حل کرده است.\n\n**معماری و تکنولوژی:**\nبرنامه به صورت دسکتاپ چندپلتفرمی توسعه یافته و از معماری BYOK (Bring Your Own Key) استفاده می‌کند تا بار هزینه‌ای سرور را از روی دوش سازنده بردارد. یکپارچه‌سازی با Git Worktrees و ابزارهای داخلی مانند ترمینال و پیش‌نمایش وب، تجربه کاربری روانی را شکل داده است.\n\n**مدل درآمدی:**\nدر حال حاضر رایگان و متکی بر حمایت‌های مالی اختیاری است، اما پتانسیل بالایی برای تجاری‌سازی از طریق پلن‌های تیمی، اشتراک‌های ابری و فروش افزونه‌ها دارد.\n\n**نقاط قوت:**\nرابط کاربری بسیار جذاب و نوستالژیک، کاهش اصطکاک تعامل با چند ایجنت، پشتیبانی از سیستم کنترل نسخه گیت و ساختار سبک برنامه دسکتاپ.\n\n**نقاط ضعف:**\nوابستگی شدید به کیفیت API ایجنت‌های جانبی و محدودیت در افزودن سفارشی مدل‌های جدید بدون به‌روزرسانی نرم‌افزار.\n\n**نکته طلایی برای بازار ایران:**\nارائه قابلیت اتصال آسان به مدل‌های هوش مصنوعی بومی یا مدل‌های متن‌باز اجرا شده روی سیستم کاربر (مانند Ollama و LM Studio) می‌تواند این ابزار را در ایران به محصولی استثنایی و بی‌نیاز از تحریم‌ها تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "کدپاتوق (CodePatogh)",
+        "description": "یک پلتفرم دسکتاپ برای برنامه‌نویسان ایرانی که ایجنت‌های مختلف هوش مصنوعی کدنویسی را در یک محیط چت گروهی نوستالژیک گرد هم می‌آورد. این ابزار مدیریت کارهای نیمه‌کاره، بررسی کد و پیش‌نمایش برنامه‌ها را به صورت همزمان با چند ایجنت هوشمند تسهیل می‌کند. توسعه‌دهندگان می‌توانند با اتصال کلیدهای API خود یا مدل‌های بومی، هزینه‌ها را بهینه کرده و بهره‌وری کدنویسی را چند برابر کنند.",
+        "marketOpportunity": "با رشد سریع استفاده از هوش مصنوعی در توسعه نرم‌افزار در ایران، نیاز به ابزارهای یکپارچه‌ساز برای مدیریت همزمان چند مدل هوش مصنوعی به شدت احساس می‌شود. این ابزار می‌تواند بازار برنامه‌نویسان، فریلنسرها و تیم‌های نرم‌افزاری را به سرعت جذب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، توسعه‌دهندگان نرم‌افزار، فریلنسرها و تیم‌های فنی استارتاپ‌ها",
+        "challenges": [
+          "چالش‌های مربوط به تحریم‌ها و محدودیت دسترسی مستقیم به APIهای بین‌المللی هوش مصنوعی",
+          "اختلالات شبکه و تأخیر در اتصال پایدار به سرورهای ارائه‌دهندگان مدل‌ها"
+        ],
+        "monetization": [
+          "فروش اشتراک ابری برای قابلیت‌های همکاری تیمی و همگام‌سازی پروژه‌ها",
+          "ارائه خدمات واسط پرداختی برای تامین توکن‌های API و فروش پوسته‌ها و تم‌های اختصاصی"
+        ],
+        "techStack": [
+          "Tauri",
+          "React",
+          "TypeScript",
+          "Git",
+          "Rust"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -71137,6 +71554,47 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-25",
+      "rank": 7,
+      "name": "MRRaudit",
+      "slug": "mrraudit",
+      "tagline": "Understand why your MRR differs and get a number you trust",
+      "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
+      "category": "Analytics • Payments • SaaS",
+      "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
+      "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
+        "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
+        "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 101,
+      "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-10-16",
       "rank": 10,
@@ -72261,47 +72719,6 @@
       }
     },
     {
-      "id": "ph-today-9",
-      "date": "2026-10-25",
-      "rank": 9,
-      "name": "MRRaudit",
-      "slug": "mrraudit",
-      "tagline": "Understand why your MRR differs and get a number you trust",
-      "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
-      "category": "Analytics • Payments • SaaS",
-      "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
-      "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
-        "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
-        "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 99,
-      "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
-        }
-      ]
-    },
-    {
       "id": "ph-today-8",
       "date": "2026-10-25",
       "rank": 8,
@@ -72359,9 +72776,9 @@
       ]
     },
     {
-      "id": "ph-today-7",
+      "id": "ph-today-9",
       "date": "2026-10-25",
-      "rank": 7,
+      "rank": 9,
       "name": "pawl",
       "slug": "pawl",
       "tagline": "a tiny mac focus timer you start by pulling a paw",
@@ -72448,7 +72865,48 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch Okan! The video you have attached, is that made with Framefields?"
         }
-      ]
+      ],
+      "faDescription": "فریم‌فیلدز یک موتور ویدئوی با عملکرد بالا و مبتنی بر کد است که با استفاده از WebGPU بومی در Node.js قدرت گرفته است. این ابزار برای هوش مصنوعی و مهندسان طراحی شده و با یک بسته npm واحد، نرم‌افزارهای سنگین خلاقیت را جایگزین می‌کند. شما می‌توانید انیمیشن‌های حرکتی، جلوه‌های ویژه در حد فتوشاپ، صحنه‌های سه‌بعدی و پردازش صوت را بدون نیاز به مرورگر یا Chromium اجرا کنید. خروجی نهایی ویدئوهای MP۴ با شتاب سخت‌افزاری و دقت فریم‌به‌فریم به صورت مستقیم از TypeScript تولید می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "خوشحالم که WebGPU را بدون نیاز به Chromium در Node.js می‌بینم. سوالی درباره بازرسی شبکه فریم‌ها دارم: آیا ایجنت یک تصویر با چندین فریم داخل آن دریافت می‌کند؟ تا چند فریم می‌تواند قبل از اینکه متن‌های ریز غیرقابل خواندن شوند؟ وقتی کلود انیمیشن‌های من را بررسی می‌کند، اغلب فقط حدس می‌زند که متن‌های ریز چه می‌گویند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من اخیراً ویرایش‌های مبتنی بر کلود برای ویدئوهای سنتی (مثل مصاحبه‌ها و پادکست‌های استودیویی) انجام داده‌ام. آیا به نظر شما فریم‌فیلدز بیشتر برای گرافیک‌ها و دموهای تولیدی است و به فرآیند کاری من اضافه نمی‌کند، یا اینکه روشی که ایجنت را برای درک ویدئو آموزش می‌دهد، برای ویرایش‌های «سنتی» من نیز مفید است؟ با مزیت اضافه‌ی یکپارچه‌سازی گرافیک‌ها."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ما ویدئوهای آموزشی برای محصول خود می‌سازیم، بنابراین یک موتور ویدئویی که ایجنت بتواند به صورت قابل اعتماد آن را هدایت کند، چیزی است که می‌خواهم بررسی کنم. برای پاسخ به سوال شما: دوست دارم ببینم که چگونه با ضبط‌های واقعی صفحه کار می‌کند تا ایجنت بتواند آن‌ها را به ویدئوهای توضیحی نهایی تبدیل کند. آیا این امکان در حال حاضر وجود دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک به مناسبت راه‌اندازی اوقان! ویدئویی که پیوست کرده‌اید، آیا با فریم‌فیلدز ساخته شده است؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، سنگینی و پیچیدگی نرم‌افزارهای ویرایش ویدئو برای اتوماسیون توسط هوش مصنوعی است؛ فریم‌فیلدز با ارائه یک موتور سبک و کد-محور، این مشکل را حل می‌کند. معماری محصول بر پایه WebGPU در Node.js استوار است که امکان رندر بدون مرورگر و با دقت فریم‌به‌فریم را فراهم می‌آورد. مدل درآمدی احتمالی شامل اشتراک‌های توسعه‌دهنده و لایسنس سازمانی است. نقاط قوت شامل سبک‌وزن بودن، سازگاری با ایجنت‌های هوشمند و خروجی با کیفیت سخت‌افزاری است. نقاط ضعف ممکن است شامل پیچیدگی یادگیری برای غیربرنامه‌نویسان و وابستگی به سخت‌افزار مناسب باشد. نکته طلایی برای ایران: تمرکز بر تولید ویدئوهای آموزشی و تبلیغاتی خودکار برای کسب‌وکارهای دیجیتال که به سرعت و مقیاس‌پذیری نیاز دارند.",
+      "iranEquivalent": {
+        "productName": "موتور ویدئو هوشمند کد-محور",
+        "description": "این محصول یک پلتفرم بومی برای تولید ویدئو با کد است که از تکنولوژی‌های جدید گرافیکی وب استفاده می‌کند. هدف آن حذف وابستگی به نرم‌افزارهای سنگین و ارائه یک API ساده برای هوش مصنوعی‌هاست. این سیستم امکان رندر دقیق و سریع ویدئوهای با کیفیت بالا را بدون نیاز به مرورگر فراهم می‌کند.",
+        "marketOpportunity": "بازار تولید محتوا در ایران به شدت به سمت خودکارسازی و استفاده از هوش مصنوعی حرکت کرده است. وجود یک ابزار سبک‌وزن و قابل یکپارچه‌سازی با ایجنت‌های هوشمند، خلأ بزرگ بازار را برای استارتاپ‌ها و تولیدکنندگان محتوا پر می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند، تیم‌های محصول که نیاز به تولید سریع ویدئو دارند و شرکت‌های هوش مصنوعی که به ابزارهای رندرینگ نیاز دارند.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری و دسترسی به GPUهای قدرتمند در ایران",
+          "نیاز به آموزش بازار برای پذیرش مفهوم ویدئوی کد-محور به جای نرم‌افزارهای سنتی"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه برای دسترسی به API و رندرهای ابری",
+          "فروش لایسنس سازمانی برای شرکت‌های بزرگ تولید محتوا"
+        ],
+        "techStack": [
+          "Node.js",
+          "WebGPU",
+          "TypeScript"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -72714,7 +73172,56 @@
           "user": "[REDACTED]",
           "text": "Browsing the JSON and related resources in the same terminal looks handy. The confirmation before stopping an instance is a detail I would want in a tool like this."
         }
-      ]
+      ],
+      "faDescription": "لیزی ای‌دابلیواس یک محیط کاربری کیبورد-محور و یکپارچه برای مدیریت تمامی منابع AWS شما است. با استفاده از این ابزار می‌توانید بدون خروج از محیط ترمینال، تمامی منابع ابری خود را مرور، بررسی و تحلیل کنید. این محصول به شما اجازه می‌دهد دستورات مختلف AWS CLI را پس از تأیید نهایی و با امنیت کامل اجرا نمایید. ابزار فوق تجربه کاربری بسیار روانی مشابه lazygit و lazydocker ارائه می‌دهد تا بهره‌وری مهندسان DevOps و توسعه‌دهندگان به حداکثر برسد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی 👋 من کل وقتم را در ترمینال می‌گذرانم. کدها را در Neovim می‌نویسم و هر روز از lazygit، lazydocker و سایر ابزارهای TUI استفاده می‌کنم. اما هر بار که مجبور بودم با AWS کار کنم، باید ترمینال را به مقصد کنسول وب ترک می‌کردم یا دستورات طولانی CLI را فقط برای پاسخ به چند سوال ساده تایپ می‌کردم؛ مانند این‌که کدام نمونه‌ها در حال اجرا هستند؟ درون این باکت چیست؟ آیا این لمبدا مستقر شد؟ من می‌خواستم حس و حال lazygit را برای AWS هم داشته باشم، بنابراین ابزار خودم یعنی Lazy AWS را ساختم. کارهایی که انجام می‌دهد: - مرور EC۲، ECS، ECR، S۳ و Lambda در یک رابط کاربری ترمینالی - فیلتر کردن لیست‌ها، مشاهده منابع مرتبط و خواندن جزئیات کامل JSON - اجرای اقداماتی مانند متوقف کردن یک نمونه یا آپلود فایل، همواره همراه با مرحله تأیید. می‌توانید آن را در ۱۰ ثانیه امتحان کنید: brew install capybara-brain۳۴۶/tap/lazyaws $ lazyaws"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا راهی هست که بتوان یک پروفایل را روی حالت فقط خواندنی (Read-only) قفل کرد؟ مثلاً اگر ابزار را با profile prod-- اجرا کنم، دلم می‌خواهد از توقف یا آپلود چیزها امتناع کند و حتی پیش‌نمایش یا تأییدیه هم نشان ندهد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "صبر کن، آیا می‌توانم یک Lambda را با داده‌های آزمایشی (Test Payload) از داخل آن فراخوانی کنم؟ طبق تجربه من در ساخت Voiden، ترجیح می‌دهم آن پِیلود را به عنوان یک فایل در مخزن کد و کنار خود پروژه نگه دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "دیدن انتشار ابزارهایی که همه‌چیز را ساده نگه می‌دارند لذت‌بخش است. آیا برنامه‌ای برای پشتیبانی از سایر ارائه‌دهندگان خدمات ابری هم دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ابزار فوق‌العاده است! به‌ویژه برای تیم‌هایی که زیرساخت سنگینی دارند. آیا این امکان وجود دارد که در آینده پشتیبانی از GCP را هم اضافه کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "مرور JSON و منابع مرتبط در همان ترمینال بسیار کاربردی به نظر می‌رسد. گرفتن تأییدیه قبل از متوقف کردن یک نمونه، جزئیاتی است که دقیقاً در چنین ابزاری به آن نیاز دارم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: جابه‌جایی مداوم بین ترمینال و کنسول‌های وب سنگین ابری باعث افت تمرکز و کاهش سرعت توسعه‌دهندگان می‌شود. Lazy AWS با ارائه یک رابط کاربری متنی (TUI) کیبورد-محور درون ترمینال، امکان مرور، بررسی و اجرای دستورات تأییدشده AWS را بدون خروج از محیط کار فراهم می‌کند.\nمعماری و تکنولوژی: این ابزار عمدتاً با زبان Go و کتابخانه‌های قدرتمند TUI (مانند Bubbletea) پیاده‌سازی می‌شود تا حجم کمی داشته باشد و با سرعت بالا به AWS CLI و SDK متصل شود.\nمدل درآمدی: پروژه در حال حاضر متن‌باز و رایگان است، اما پتانسیل تجاری‌سازی از طریق ارائه نسخه Open-Core با ویژگی‌های امنیتی سازمانی، قفل پروفایل‌های حساس و پشتیبانی مالتی‌کلاود را دارد.\nنقاط قوت: سرعت فوق‌العاده، عدم نیاز به ترک ترمینال، دریافت تأییدیه برای عملیات خطرناک و حس کاربری آشنا برای کاربران lazygit.\nنقاط ضعف: محدودیت فعلی به سرویس‌های AWS، عدم پشتیبانی کامل از تمام سرویس‌های پیچیده ابری و نیاز به توسعه پشتیبانی از سایر کلودها مانند GCP.\nنکته طلایی برای ایران: ساخت نسخه بومی این ابزار با اتصال به API ابر آروان، هم‌روش و پارس‌پک می‌تواند به شدت مورد استقبال مهندسان DevOps ایرانی قرار گیرد و ابزار استاندارد مدیریت زیرساخت کشور شود.",
+      "iranEquivalent": {
+        "productName": "لیزی ابر (LazyAbr)",
+        "description": "لیزی ابر یک ابزار مدیریت ترمینالی (TUI) برای مدیریت یکپارچه سرویس‌دهندگان ابری داخلی مانند ابر آروان، هم‌روش و پارس‌پک است. این ابزار به مهندسان زیرساخت و DevOps اجازه می‌دهد تا سرورهای مجازی، ذخیره‌سازی ابری و کانتینرهای خود را بدون نیاز به پنل‌های وب متعدد کنترل کنند. با ارائه یک رابط کاربری کیبورد-محور، سرعت عملیات پایش و مدیریت زیرساخت‌های ابری در ایران به شدت افزایش می‌یابد.",
+        "marketOpportunity": "با توجه به توسعه روزافزون شرکت‌های مبتنی بر ابر در ایران و محبوبیت بالای ابزارهای ترمینالی بین متخصصان DevOps، خلاء یک TUI یکپارچه داخلی کاملاً حس می‌شود. این ابزار می‌تواند به عنوان داشبورد استاندارد مهندسان ایرانی برای مدیریت همزمان چند ارائه‌دهنده ابری داخلی و خارجی عمل کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مهندسان DevOps، مدیران سیستم، توسعه‌دهندگان ارشد و تیم‌های زیرساخت شرکت‌های فناورانه ایرانی",
+        "challenges": [
+          "عدم وجود APIهای استاندارد و یکسان میان تمامی سرویس‌دهندگان ابری ایرانی",
+          "محدودتر بودن جامعه مخاطبان TUI نسبت به کاربران داشبوردهای گرافیکی وب"
+        ],
+        "monetization": [
+          "ارائه مدل Freemium (نسخه پایه رایگان و فروش اشتراک پرو برای قابلیت‌های سفارشی)",
+          "فروش لایسنس سازمانی به همراه قابلیت مدیریت دسترسی دسته‌جمعی و لاگ‌های امنیتی"
+        ],
+        "techStack": [
+          "Go",
+          "Bubbletea",
+          "PostgreSQL"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -75294,6 +75801,45 @@
       ]
     },
     {
+      "id": "ph-yesterday-10",
+      "date": "2026-10-24",
+      "rank": 10,
+      "name": "How It Went",
+      "slug": "how-it-went",
+      "tagline": "Your route, photos and clips as a short film",
+      "description": "Turns one ride or a whole trip into a short film from the GPS track, photos and clips you already have. Your track draws itself across a tilted map, each photo appears where you took it, and clips play where they were shot. Pick rides from Strava or bring Garmin FIT and GPX files. Several days merge into one film, rest days included. Fix a wrong camera clock once and every shot from it moves. Out comes an MP4, 9:16 or 16:9, assembled and encoded on your iPhone, Android phone or Mac.",
+      "category": "Android • Biking • Travel • Video",
+      "categoryFa": "اندروید • Biking • سفر • ویدیو",
+      "url": "https://www.producthunt.com/products/how-it-went?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d4c08742-dce1-4d03-9440-5178d9e0a2ed.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/0f34fe1e-7b6b-48e1-8ecf-93cb26146195.jpeg?auto=format",
+        "https://ph-files.imgix.net/50572046-009b-4d53-9b01-7339494d689e.png?auto=format",
+        "https://ph-files.imgix.net/fcd76738-529f-49d8-8ea7-ecbb37484dd2.jpeg?auto=format",
+        "https://ph-files.imgix.net/9df0c4f0-9ed2-45f1-9de7-feb45c444863.jpeg?auto=format",
+        "https://ph-files.imgix.net/b5babbf6-5de8-4601-9273-a78fc6307991.jpeg?auto=format"
+      ],
+      "maker": "Herbert Poul",
+      "makerTitle": "App Dev & UX Designer. //codeux.design/",
+      "featuredAt": "2026-10-24T07:01:00Z",
+      "votes": 87,
+      "websiteUrl": "https://www.producthunt.com/r/HHBJPDPSK62X4D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi, I'm Herbert. I ride multi-day bikepacking trips, and I kept getting home with the same pile: photos on my phone, clips from an action cam and a drone, and a Garmin track nobody was ever going to scroll through.A slideshow loses the days I care about most, the long ones where I was too tired to stop for pictures. The track is the one thing that recorded all of those hours, so How It Went builds the film from the route. Your track draws itself across a tilted map, each photo shows up where you took it, and clips play where they were shot. Distance, elevation gain and the passes you crossed come along as captions.Two parts were harder than they look:1. Camera clocks. An action cam that was never set to local time puts your lunch stop in the wrong valley. You fix the clock once per camera and every shot from it moves together.2. Rendering on the device. Flutter paints every frame offscreen and hands it to the platform's own encoder (AVAssetWriter on Apple, MediaCodec on Android). The render happens on your phone or Mac rather than on a server, so the film is ready the evening you get in.The whole film is free on iPhone, iPad, Mac and Android, from your own files and at every export size. Version 2.0.0 came out today with Premium on top: five more map looks, a photos-first layout, a soundtrack style you pick and an opening on a photo or clip of your own. Pay once or yearly, and try it free for a week first. It was built for riding, and the words in the film still say \"ridden\". If you hike, ski or paddle, I'd like to hear how your film comes out."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good idea. Output can be more appealing, and sharable to social media like Insta, Tiktok etc."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Do I need a GPS track, or can it build the film from my iPhone photos' locations alone?"
+        }
+      ]
+    },
+    {
       "id": "ph-today-10",
       "date": "2026-10-18",
       "rank": 10,
@@ -76380,12 +76926,12 @@
     }
   ],
   "audit": {
-    "products": 769,
-    "withRealComments": 769,
-    "withPersianComments": 701,
-    "withPersianDescription": 701,
-    "withAiReview": 679,
-    "withIranEquivalent": 701,
-    "totalRealComments": 4694
+    "products": 770,
+    "withRealComments": 770,
+    "withPersianComments": 711,
+    "withPersianDescription": 711,
+    "withAiReview": 689,
+    "withIranEquivalent": 711,
+    "totalRealComments": 4697
   }
 }
