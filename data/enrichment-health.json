@@ -1,16 +1,29 @@
 {
-  "checkedAt": "2026-10-26T00:41:18.512Z",
-  "latestDataset": "2026-10-26.json",
+  "checkedAt": "2026-10-27T01:43:01.285Z",
+  "latestDataset": "2026-10-27.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 117,
-  "backlogAfter": 108,
-  "completedProducts": 662,
-  "missingFaDescription": 60,
-  "missingFaComments": 88,
-  "missingAiReview": 83,
-  "missingIranEquivalent": 62,
-  "failures": []
+  "succeeded": 7,
+  "failed": 3,
+  "backlogBefore": 118,
+  "backlogAfter": 112,
+  "completedProducts": 668,
+  "missingFaDescription": 64,
+  "missingFaComments": 92,
+  "missingAiReview": 87,
+  "missingIranEquivalent": 65,
+  "failures": [
+    {
+      "slug": "mintlify-autopilot",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"اتوپایلوت یک ایجنت هوشمند و همواره فعال برای مستندسازی محصول از شرکت مینتلیفای است. این ابزار به طور مداوم مخازن کد و ابزارهای ارتباطی شما مانند اسلک را زیر ن"
+    },
+    {
+      "slug": "useit-studio",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
+    {
+      "slug": "band-for-developers",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your pro"
+    }
+  ]
 }

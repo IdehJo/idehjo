@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:01:31.160Z",
+  "generatedAt": "2026-10-27T01:43:01.241Z",
   "sourceFiles": 78,
   "products": [
     {
@@ -6775,7 +6775,7 @@
       "maker": "nunomaduro",
       "makerTitle": "Laravel Core Team Member",
       "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 502,
+      "votes": 503,
       "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -9582,6 +9582,66 @@
       "aiReview": "**مسئله و راه‌حل:**\nبا گسترش ابزارهای هوش مصنوعی، کاربران به‌طور هم‌زمان از پلتفرم‌های مختلفی مانند ChatGPT، Claude، Gemini و Grok استفاده می‌کنند. این امر باعث پراکندگی چت‌ها، سختی جستجو و عدم امکان مدیریت یکپارچه داده‌ها شده است. ابزار AI Toolbox ۳.۰ به‌عنوان یک «لایه مکمل» روی مرورگر نصب شده و با ارائه پوشه‌بندی پیشرفته، جستجوی متنی سراسری و هم‌زمان در تمامی پلتفرم‌ها، کتابخانه پرامپت سفارشی و قابلیت خروجی‌گیری دسته‌جمعی، مدیریت چت‌های هوش مصنوعی را یکپارچه و بهینه‌سازی می‌کند.\n\n**معماری و تکنولوژی:**\nاین محصول در قالب یک افزونه مرورگر (Chrome Extension) با معماری «محلی‌محور» (Local-First) توسعه یافته است. تمام تاریخچه‌ها و اطلاعات چت‌ها در حافظه داخلی مرورگر کاربر ذخیره می‌شوند و هیچ داده‌ای به سرورهای واسط ارسال نمی‌شود؛ این امر امنیت و حریم خصوصی فوق‌العاده‌ای ایجاد می‌کند. همچنین ابزارهایی نظیر سنجش زنده کانتکست (Context Meter) و فراخوانی سریع پرامپت‌ها با شورت‌کد `//` نشان‌دهنده طراحی فرانت‌اند قوی و بهینه‌سازی شده آن است.\n\n**مدل درآمدی:**\nمدل درآمدی احتمالاً فری‌میوم (Freemium) است؛ به این صورت که قابلیت‌های پایه‌ای به‌صورت رایگان ارائه شده و ابزارهای پیشرفته‌تر نظیر خروجی‌گیری انبوه (Bulk Export)، زنجیره‌سازی چندمرحله‌ای پرامپت‌ها و جستجوی پیشرفته متنی در قالب اشتراک ماهانه/سالانه یا لایسنس مادام‌العمر (Lifetime Deal) به فروش می‌رسند.\n\n**نقاط قوت:**\n- پوشش هم‌زمان چهار پلتفرم بزرگ هوش مصنوعی تنها با یک بار نصب.\n- حفظ کامل حریم خصوصی و امنیت داده‌ها با استراتژی Local-First.\n- ابزارهای ارزشمند افزایش بهره‌وری مانند کتابخانه پرامپت، زنجیره‌سازی و نشانه‌گذاری (Bookmarks).\n- قابلیت خروجی‌گیری انعطاف‌پذیر به فرمت‌های PDF ،Markdown و JSON.\n- اعتبار و اثبات بازار (تایید شده توسط بیش از ۴۰ هزار کاربر با امتیاز ۴.۵).\n\n**نقاط ضعف:**\n- وابستگی شدید به تغییرات فرانت‌اند و ساختار HTML/DOM پلتفرم‌های پایه (تغییر در ChatGPT یا Claude می‌تواند عملکرد افزونه را موقتاً مختل کند).\n- محدود بودن به مرورگرهای دسکتاپ و عدم پشتیبانی مستقیم در اپلیکیشن‌های موبایل.\n\n**نکته طلایی برای ایران:**\nکسب‌وکارهای ایرانی و فریلنسرها به‌دلیل چالش‌های دسترسی و ریسک مسدودی حساب‌ها در پلتفرم‌های خارجی، نیاز مبرمی به پشتیبان‌گیری (Backup) دائمی از داده‌های خود دارند. ساخت یک نمونه بومی با قابلیت ذخیره‌سازی ابری امن یا افزونه‌ای مشابه که از مدل‌های هوش مصنوعی بومی/واسط‌های ایرانی نیز پشتیبانی کند، می‌تواند بازار بسیار جذاب و بکری در کشور داشته باشد."
     },
     {
+      "id": "ph-week-2",
+      "date": "2026-10-23",
+      "rank": 2,
+      "name": "Product Hunt Visual Launch Editor",
+      "slug": "product-hunt-visual-launch-editor",
+      "tagline": "See your launch as you build it",
+      "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
+      "category": "Product Hunt • Maker Tools • Community",
+      "categoryFa": "Product Hunt • Maker Tools • Community",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
+        "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
+        "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
+        "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
+        "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
+        "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "CTO at ProductHunt",
+      "featuredAt": "2026-10-23T07:01:00Z",
+      "votes": 437,
+      "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "editing right on the actual page preview is so much nicer. the checklist jumping to each field is clutch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Funny timing, I just finished setting up our launch for tomorrow and kept opening the preview to check how it looked. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the new upgrades, definitely much better to be able to preview changes live."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I am looking forward to give it a try when I realease my new tool :)"
+        }
+      ]
+    },
+    {
       "id": "ph-week-5",
       "date": "2026-08-09",
       "rank": 5,
@@ -9696,66 +9756,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "سلام، فقط یک نکته سریع: این محصول بیشتر برای کمک به شرکت شماست. محصول ادعاهای بسیار بزرگی دارد («سیستم عامل عامل»، «عوامل متخصص»، «بیش از ۱۰,۰۰۰ تیم»)، اما اجرای وب‌سایت با این ادعاها همخوانی ندارد. عناصر ساختاری پایه‌ای مانند لینک‌های «تماس» و «درباره ما» در فوتر پیاده‌سازی نشده‌اند و فقط به بالای صفحه پرش می‌کنند. این یک شکاف اعتباری بین مقیاس بیان‌شده محصول و بلوغ واقعی پلتفرم ایجاد می‌کند. توصیه: اطمینان حاصل کنید که ناوبری اصلی و صفحات شرکت کارآمد هستند، قبل از ارائه موقعیت‌یابی سطح سیستم عامل."
-        }
-      ]
-    },
-    {
-      "id": "ph-week-2",
-      "date": "2026-10-23",
-      "rank": 2,
-      "name": "Product Hunt Visual Launch Editor",
-      "slug": "product-hunt-visual-launch-editor",
-      "tagline": "See your launch as you build it",
-      "description": "See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.",
-      "category": "Product Hunt • Maker Tools • Community",
-      "categoryFa": "Product Hunt • Maker Tools • Community",
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format",
-        "https://ph-files.imgix.net/1deb2bc7-c5ed-4376-8cfc-9a97a661df8f.jpeg?auto=format",
-        "https://ph-files.imgix.net/2c756dcc-7a27-48f6-907a-5da5fe6fe4d2.png?auto=format",
-        "https://ph-files.imgix.net/3ec19904-9017-4331-96b9-02b85cffcc05.png?auto=format",
-        "https://ph-files.imgix.net/c59ea434-527d-4c89-ad5e-c2d263661a6c.png?auto=format",
-        "https://ph-files.imgix.net/8712c491-46e5-4e9f-98b5-45e568da12ec.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "CTO at ProductHunt",
-      "featuredAt": "2026-10-23T07:01:00Z",
-      "votes": 436,
-      "websiteUrl": "https://www.producthunt.com/r/Y7DEMV6KEGC3FT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋Every launch on Product Hunt starts in our submission flow, and for a long time that meant a step-by-step form. You filled in one step at a time, opened a preview to see how it looked, then went back through the steps to find whatever was missing.Today we're upgrading it with a visual launch editor. You can now build your launch on a page that looks like your launch, and you edit anything by clicking on it.Here's what's new:Start with your link. Paste your website link, and we bring in the details and media we can find. You can edit them before launching.Edit in place. Name, tagline, description, gallery, links, pricing, tags, makers, shoutouts and your first comment are all edited right on the page.See your edits, LIVE! The editor is now visual, so you can see exactly how your launch will look as you make changes.A launch checklist. It sorts everything into Required, Needs attention and Make it stand out, and Fix links open the exact field that's blocking you.Better tag discovery. Get suggestions based on your description, or browse every launch tag from A to Z."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "editing right on the actual page preview is so much nicer. the checklist jumping to each field is clutch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Funny timing, I just finished setting up our launch for tomorrow and kept opening the preview to check how it looked. Congrats!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Product hunt product editing dashboard has always been confusing. This is great improvement."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is soo good! I can't wait to launch more.I'm sold when I read this works on the iOS app. Great work guys!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Finally — submitting on mobile! This is great — unifying what you get with what you see should improve completion and quality. I still find the Product Hunt ontology confusing — especially categories, launch tags, etc. I also would love more transparency about the questions about investment during submission. Where does that data go?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the new upgrades, definitely much better to be able to preview changes live."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I am looking forward to give it a try when I realease my new tool :)"
         }
       ]
     },
@@ -19914,7 +19914,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "I was drunk, but haunted by sobriety.",
       "featuredAt": "2026-10-21T07:01:00Z",
-      "votes": 328,
+      "votes": 329,
       "websiteUrl": "https://www.producthunt.com/r/YLLDQZV3DAU3ZO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -24006,7 +24006,63 @@
           "user": "[REDACTED]",
           "text": "Looks really cool, just checked it out - best of luck with the PH launch day Needle Team !"
         }
-      ]
+      ],
+      "faDescription": "Needle به شما کمک می‌کند تا بهترین سرنخ‌های فروش را پیدا کنید و با استفاده از دستورات به Claude، ChatGPT یا Grok، به آن‌ها دسترسی پیدا کنید. این ابزار می‌تواند در هر جایی که مخاطب هدف شما حضور دارد—چه در LinkedIn، Instagram یا ایمیل—به‌سرعت اطلاعات لازم را جمع‌آوری کند. پس از یافتن سرنخ‌ها، می‌توانید به‌صورت خودکار و شخصی‌سازی‌شده با آن‌ها ارتباط برقرار کنید. تمام این فرآیندها بدون نیاز به جابجایی بین ابزارهای مختلف انجام می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به جامعه PH 👋 من اونور، بنیان‌گذار Needle. این ششمین لانچ ماست و از همه‌ای که مسیر ما را دنبال کردند تشکر می‌کنم. مشکل: امروز آوت‌باند به معنای استفاده از بیش از ۵ ابزار مختلف است؛ یک ابزار برای لیست‌ها، یک ابزار برای غنی‌سازی، یک ابزار برای توالی‌ها، یک ابزار برای LinkedIn و زمان زیادی برای کپی‑پیست CSVها بین آن‌ها صرف می‌شود. ما Needle را ساختیم؛ یک موتور آوت‌باند که می‌تواند توسط هوش مصنوعی شما رانده شود. کافی است یک پرامپت ساده بدهید: «۵۰ نفر Head of Sales در شرکت‌های SaaS سری A در برلین پیدا کن، آن‌ها را غنی‌سازی کن و یک توالی LinkedIn بر پایه آخرین پستشان شروع کن». Needle سپس سرنخ‌ها را از LinkedIn، Instagram و Google Maps پیدا می‌کند، آن‌ها را با زمینه‌های لازم برای شخصی‌سازی غنی‌سازی می‌کند و از حساب‌های متصل شما با محدودیت‌های ارسال منطقی در هر کانال ارتباط برقرار می‌کند. چرا agent‑native؟ چون هوش مصنوعی شما قبلاً ICP، اسناد و لحن شما را می‌داند؛ فقط به دست‌ها نیاز دارد. ما به جای ساخت داشبورد جدید، زیرساخت را ساختیم. هیچ هوش مصنوعی اضافه‌ای نیست؛ ما به شما کمک می‌کنیم هوش مصنوعی را به‌درستی استفاده کنید: زمینه واقعی برای هر سرنخ و پیام‌هایی که شبیه به نوشته‌های شماست. Needle یک SDR هوش مصنوعی نیست؛ فقط سرعت تیم فروش شما را افزایش می‌دهد و خلاقیت شما را در GTM حفظ می‌کند. 🎁 برای جامعه PH کد PH۲۰۲۶ را برای ۵۰٪ تخفیف شش ماهه به‌علاوه دوره آزمایشی ۷ روزه استفاده کنید. فقط ۵ دقیقه زمان می‌برد تا اولین کمپین خود را اجرا کنید. هر چه می‌خواهید—فروش، مشارکت، استخدام یا جذب سرمایه—ما آماده‌ایم. نظرات سخت‌تان را بگویید؛ دردناک‌ترین بخش استک آوت‌باند شما چیست؟ تیم من تمام روز در کامنت‌ها حضور دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "prompting claude برای اجرای آوت‌باند مفید است، دیگر نیازی به جابجایی تب‌ها نیست 🚀 نحوه مدیریت تحویل‌پذیری چطور است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "به Jan و تیمش تبریک می‌گویم برای راه‌اندازی Needle در Product Hunt امروز! صادقانه باور دارم آوت‌باند یکی از بهترین روش‌ها برای تولید درآمد در بازار امروز است. تبریک فراوان! شما در حال حاضر در رتبه #۳ هستید و امیدوارم تا پایان روز به #۱ برسید! 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "قابلیت شخصی‌سازی Needle برای تنظیم پیام‌ها بر اساس نقاط درد احتمالی prospect چقدر انعطاف‌پذیر است؟ معمولاً وقتی عمومی‌سازی می‌کنم شانس موفقیتم کاهش می‌یابد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من در بخش فروش کار می‌کنم و این ابزار را در زمان واقعی ساخته می‌شد مشاهده کردم. ایده شگفت‌انگیز، اجرا حتی بهتر!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ارسال از حساب‌های متصل خود با محدودیت‌های داخلی، انتخاب معقولی برای LinkedIn است. این محدودیت‌ها به ازای هر حساب تنظیم می‌شوند یا به ازای کل فضای کاری؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "راه‌اندازی ششمین بار، Onur و تیم. رانده شدن آوت‌باند از داخل Claude برای من منطقی است. نگرانی من این است که عامل ۵۰ نفر \"Head of Sales\" را استخراج کند که همه‌شان در سه ماه گذشته این شغل را ترک کرده‌اند. تازگی غنی‌سازی چقدر است و آیا قبل از ارسال از LinkedIn من بررسی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "خیلی جذاب به نظر می‌رسد، همین‌حالا بررسی کردم – برای تیم Needle در روز لانچ PH موفق باشید!"
+        }
+      ],
+      "aiReview": "مسئله: تیم‌های فروش ایرانی مجبورند بین چندین ابزار برای لیست‌برداری، غنی‌سازی، توالی پیام و ارسال در شبکه‌های مختلف جابجا شوند که باعث هدررفت زمان و خطا می‌شود. راه‌حل: Needle یک موتور آوت‌باند agent‑native ارائه می‌دهد که با یک پرامپت هوش مصنوعی (Claude، ChatGPT یا Grok) سرنخ‌ها را از LinkedIn، Instagram و ایمیل استخراج، غنی‌سازی و به‌صورت خودکار از حساب‌های متصل کاربر ارسال می‌کند. معماری: لایه جمع‌آوری داده‌ها (scraper) به‌صورت میکروسرویس بر پایه Node.js و Puppeteer، سرویس غنی‌سازی با استفاده از APIهای داده‌ای (Clearbit، Apollo) و لایه هوش مصنوعی برای پردازش پرامپت‌ها. تکنولوژی‌ها: Next.js برای فرانت‌اند، PostgreSQL برای ذخیره‌سازی، Redis برای صف‌بندی پیام‌ها، Kubernetes برای مقیاس‌پذیری و Docker برای استقرار. مدل درآمدی: اشتراک ماهانه بر پایه تعداد سرنخ‌های پردازش‌شده (tiered pricing)، فروش افزونه‌های تحلیل پیشرفته و خدمات مشاوره‌ای سفارشی. نقاط قوت: یکپارچگی کامل با هوش مصنوعی، حذف نیاز به داشبوردهای متعدد، ارسال از حساب‌های واقعی کاربر که اعتبار پیام را بالا می‌برد، قابلیت شخصی‌سازی عمیق بر پایه زمینه‌های غنی‌سازی. نقاط ضعف: وابستگی به دسترسی به داده‌های خارجی (LinkedIn، Instagram) که ممکن است در ایران با محدودیت‌های فنی یا قانونی مواجه شود، نیاز به نگهداری زیرساخت‌های اسکرپینگ که هزینه‌بر است. نکته طلایی برای ایران: تمرکز بر یکپارچه‌سازی با شبکه‌های محلی مانند Aparat یا تلگرام و ارائه نسخه‌ای با رعایت قوانین حریم خصوصی می‌تواند پذیرش سریع‌تر و مزیت رقابتی قابل توجهی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "Needle",
+        "description": "Needle یک پلتفرم هوشمند برای یافتن و غنی‌سازی سرنخ‌های فروش است که با هوش مصنوعی Claude، ChatGPT یا Grok یکپارچه می‌شود. این ابزار می‌تواند از LinkedIn، Instagram و ایمیل سرنخ‌ها را استخراج کرده و با پیام‌های شخصی‌سازی‌شده از حساب‌های متصل شما ارسال کند. تمام فرآیند بدون نیاز به جابجایی بین ابزارهای مختلف انجام می‌شود.",
+        "marketOpportunity": "بازار آوت‌باند در ایران با رشد استارتاپ‌ها و نیاز به فروش مستقیم به‌سرعت در حال گسترش است. شرکت‌های فناوری و خدماتی به‌دنبال راه‌حل‌های کم‌هزینه و خودکار برای پیدا کردن مشتریان هدف هستند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌ها و شرکت‌های فناوری متوسط که تیم فروش محدود دارند و به دنبال خودکارسازی فرآیندهای پیدا کردن و ارتباط با مشتریان هدف هستند.",
+        "challenges": [
+          "دسترسی به داده‌های دقیق و به‌روز در شبکه‌های اجتماعی محلی",
+          "محدودیت‌های قانونی و حریم خصوصی در ارسال پیام‌های خودکار"
+        ],
+        "monetization": [
+          "اشتراک ماهانه بر پایه تعداد سرنخ‌های پردازش‌شده",
+          "درآمد از فروش افزونه‌های پیشرفته تحلیل و گزارش‌گیری"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-1",
@@ -28030,6 +28086,65 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-26",
+      "rank": 1,
+      "name": "Strawberry 1.0",
+      "slug": "strawberry-1-0",
+      "tagline": "AI Browser that saves your team >100h/week",
+      "description": "Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.",
+      "category": "Productivity • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c35c35a2-a69b-4705-ae4e-3611f14b13ff.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format",
+        "https://ph-files.imgix.net/c7efe950-35fe-4b5a-a1e4-6ed9600fc192.png?auto=format",
+        "https://ph-files.imgix.net/4fb8e612-f95b-4281-88d0-95358367d2d8.png?auto=format",
+        "https://ph-files.imgix.net/e1f90ff4-5f38-4776-af59-3f317bb1e743.png?auto=format",
+        "https://ph-files.imgix.net/fd5faaa7-4000-4a54-9034-86983beaeda3.jpeg?auto=format"
+      ],
+      "maker": "Arian Hanifi",
+      "makerTitle": "cto @ strawberry",
+      "featuredAt": "2026-10-26T07:01:00Z",
+      "votes": 271,
+      "websiteUrl": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone! Charles here, and I'm really excited to share Strawberry 1.0 with you 🍓A year ago we launched our beta here on Product Hunt. Back then, Strawberry was a simple browser with a built-in AI agent.Today it's a fully fledged agent platform that hundreds of teams, including Lovable, Tandem Health and ElevenLabs, use to run agents around the clock, transcribe meetings and build a shared company context.We call these agents \"companions\".🫠 The problemDevelopers already have great AI agents that can work for hours on end, like Claude Code and Codex. But those tools are built for people who work in files, not tabs. These apps are powerful, but usually too complex for the average non-technical team.Newer assistants like Dots, Grok Bot and Instinct are much more delightful and intuitive, and they're great for consumers. But they're hard to rely on for real team work. You mostly work through one long chat and can't easily see what the agent is doing.🌐 Why we built a browserThe browser strikes the perfect balance between intuitive and powerful.Everyone knows how to use a browser, and it's where most of your team's work already happens. Your tools, your context and your logins are all there. The browser as the interface makes it much easier for e.g. sales, marketing and talent teams to get started with agents, while still being possible to build advanced systems that run on their own.We're also big believers in the agentic web. Soon there will be trillions of AI agents communicating and trading with each other. With Strawberry, you are ready for that future, while your companions can still leverage today's internet.🧩 What you get• You can start with an official companion, like Sales Sally for sales or Talent Theo for recruiting, or create your own in a few minutes. Your companion interviews you and learns how you work.• You can see and edit everything your companion knows and does: its skills, routines and memory.• Big jobs run in parallel. Ask it to research 200 accounts and you get one finished sheet back.• When a companion works well, share it, and your whole team can use it.• Use any AI model you like. We're SOC 2 Type II compliant with EU data residency, and your companion always asks before it sends anything.🎁 For the Product Hunt community: get 50% off your first month on any monthly plan with code PH50, until 8 November.🚀 Try it for free at strawberrybrowser.com, on Mac and Windows.What's the first job you'd give your companion? Our whole team is in the comments all day, and we'll share the wackiest answers in our team chat 👀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The shared companion idea is the part I'm most curious about — when a companion works well for one person and gets shared with the whole team, does it carry over that person's tools and memory, or does each teammate start from their own connections? I'm wondering how that plays out for something like researching 200 accounts in parallel, where the data sources and permissions might differ person to person."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been using Claude and Claude in Chrome to do in-browse tasks until now, but the idea of having the browser BE the UI for the agent is pretty fascinating. I assume Strawberry pings you through the browser when it's done with a task or when it needs something? What about setting a time-limit on tasks so results are done before a business call? Definitely will be playing around with this as a supplementary browser, if not eventually my primary one."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good timing in the context of Arc's sunsetting!Curious how you compare with other proactive agents like Dots, Grok Bot, Duet, et al?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Just went through the demo and was reassured by the team it was amazing. Dont get me wrong, it was. BUT I was actually more impressed with the product because of how good it was. Everything that i hated with DIA, FIXED! + a better interface and agents for everything. Switching NOW"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’ve been an early adopter of Strawberry Browser 🍓, and to be honest, it’s brilliant – great performance, speed and, especially on Windows, it’s got a cracking UI. (I obviously loved the design system used in the companions.)I hope they continue to improve it and add new features in the future."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Makes sense that it uses the same login sessions as my own browser, so the 2FA handoff is clear now. Congrats on 1.0, and good luck with the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi team, Congrats! will this browser can help the agents really do the work on the website? because a lot of central platfrom ban agents so fast, like reddit, amazon, etc."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-09-29",
       "rank": 4,
@@ -28762,65 +28877,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-26",
-      "rank": 1,
-      "name": "Strawberry 1.0",
-      "slug": "strawberry-1-0",
-      "tagline": "AI Browser that saves your team >100h/week",
-      "description": "Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.",
-      "category": "Productivity • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c35c35a2-a69b-4705-ae4e-3611f14b13ff.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format",
-        "https://ph-files.imgix.net/c7efe950-35fe-4b5a-a1e4-6ed9600fc192.png?auto=format",
-        "https://ph-files.imgix.net/4fb8e612-f95b-4281-88d0-95358367d2d8.png?auto=format",
-        "https://ph-files.imgix.net/e1f90ff4-5f38-4776-af59-3f317bb1e743.png?auto=format",
-        "https://ph-files.imgix.net/fd5faaa7-4000-4a54-9034-86983beaeda3.jpeg?auto=format"
-      ],
-      "maker": "Arian Hanifi",
-      "makerTitle": "cto @ strawberry",
-      "featuredAt": "2026-10-26T07:01:00Z",
-      "votes": 265,
-      "websiteUrl": "https://www.producthunt.com/r/VLEJBVBONXC6FH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone! Charles here, and I'm really excited to share Strawberry 1.0 with you 🍓A year ago we launched our beta here on Product Hunt. Back then, Strawberry was a simple browser with a built-in AI agent.Today it's a fully fledged agent platform that hundreds of teams, including Lovable, Tandem Health and ElevenLabs, use to run agents around the clock, transcribe meetings and build a shared company context.We call these agents \"companions\".🫠 The problemDevelopers already have great AI agents that can work for hours on end, like Claude Code and Codex. But those tools are built for people who work in files, not tabs. These apps are powerful, but usually too complex for the average non-technical team.Newer assistants like Dots, Grok Bot and Instinct are much more delightful and intuitive, and they're great for consumers. But they're hard to rely on for real team work. You mostly work through one long chat and can't easily see what the agent is doing.🌐 Why we built a browserThe browser strikes the perfect balance between intuitive and powerful.Everyone knows how to use a browser, and it's where most of your team's work already happens. Your tools, your context and your logins are all there. The browser as the interface makes it much easier for e.g. sales, marketing and talent teams to get started with agents, while still being possible to build advanced systems that run on their own.We're also big believers in the agentic web. Soon there will be trillions of AI agents communicating and trading with each other. With Strawberry, you are ready for that future, while your companions can still leverage today's internet.🧩 What you get• You can start with an official companion, like Sales Sally for sales or Talent Theo for recruiting, or create your own in a few minutes. Your companion interviews you and learns how you work.• You can see and edit everything your companion knows and does: its skills, routines and memory.• Big jobs run in parallel. Ask it to research 200 accounts and you get one finished sheet back.• When a companion works well, share it, and your whole team can use it.• Use any AI model you like. We're SOC 2 Type II compliant with EU data residency, and your companion always asks before it sends anything.🎁 For the Product Hunt community: get 50% off your first month on any monthly plan with code PH50, until 8 November.🚀 Try it for free at strawberrybrowser.com, on Mac and Windows.What's the first job you'd give your companion? Our whole team is in the comments all day, and we'll share the wackiest answers in our team chat 👀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The shared companion idea is the part I'm most curious about — when a companion works well for one person and gets shared with the whole team, does it carry over that person's tools and memory, or does each teammate start from their own connections? I'm wondering how that plays out for something like researching 200 accounts in parallel, where the data sources and permissions might differ person to person."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been using Claude and Claude in Chrome to do in-browse tasks until now, but the idea of having the browser BE the UI for the agent is pretty fascinating. I assume Strawberry pings you through the browser when it's done with a task or when it needs something? What about setting a time-limit on tasks so results are done before a business call? Definitely will be playing around with this as a supplementary browser, if not eventually my primary one."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good timing in the context of Arc's sunsetting!Curious how you compare with other proactive agents like Dots, Grok Bot, Duet, et al?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Just went through the demo and was reassured by the team it was amazing. Dont get me wrong, it was. BUT I was actually more impressed with the product because of how good it was. Everything that i hated with DIA, FIXED! + a better interface and agents for everything. Switching NOW"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I’ve been an early adopter of Strawberry Browser 🍓, and to be honest, it’s brilliant – great performance, speed and, especially on Windows, it’s got a cracking UI. (I obviously loved the design system used in the companions.)I hope they continue to improve it and add new features in the future."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Makes sense that it uses the same login sessions as my own browser, so the 2FA handoff is clear now. Congrats on 1.0, and good luck with the launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi team, Congrats! will this browser can help the agents really do the work on the website? because a lot of central platfrom ban agents so fast, like reddit, amazon, etc."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -34580,6 +34636,67 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-26",
+      "rank": 2,
+      "name": "SurgePix",
+      "slug": "surgepix",
+      "tagline": "AI visuals. Edit every layer. Agent-callable. ",
+      "description": "Most AI image tools stop at one-shot generation. SurgePix keeps going: edit any layer, swap text, repaint a region, and stay on-brand with your brand kit. Or skip the UI — open-source agent skills let Claude Code & Cursor generate and edit visuals for you.",
+      "category": "Design Tools • Developer Tools • Artificial Intelligence",
+      "categoryFa": "ابزار طراحی • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/63c38e20-1271-4f3b-8ed2-1b7b30fed1c1.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5fd31ade-324f-4fa3-a076-afdcc6189743.png?auto=format",
+        "https://ph-files.imgix.net/e2fa9ceb-a051-4db3-9a2b-5d342a20edf7.png?auto=format",
+        "https://ph-files.imgix.net/7c68f59e-afbc-4492-bb9f-b9a583d5ee45.png?auto=format",
+        "https://ph-files.imgix.net/9917e2b5-44b3-405f-a62a-8456c23b9215.png?auto=format",
+        "https://ph-files.imgix.net/f14ba731-fdee-4966-8b1d-bbc4c2b8fe6f.png?auto=format",
+        "https://ph-files.imgix.net/2939b143-cc52-4e12-9cad-f835a4174ebb.png?auto=format",
+        "https://ph-files.imgix.net/24cb16a1-5e3e-43c4-b5e1-91c136ff4182.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-26T07:01:00Z",
+      "votes": 220,
+      "websiteUrl": "https://www.producthunt.com/r/CS2V53OCZ2KXEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Yichi, the maker behind SurgePix.SurgePix puts the whole job in one place — no juggling a dozen tools. Its built-in design agent can even search the live web and design straight from what it finds.It started with a simple frustration: every AI image tool I tried was great at generating something new, but the moment I wanted to tweak a color, swap a headline, or keep things on-brand across a whole set of visuals, I was stuck starting over.The latest models — GPT Image 2.5 and friends — are genuinely amazing at generating that first image, or that first slide. The problem starts after: I'd generate a whole deck in one click, then spend an hour fixing headlines, swapping charts, and getting every slide back on-brand. That redo-from-scratch gap is exactly what SurgePix is built to close — for decks, and for every visual you make.So we built SurgePix around three ideas:Edit, don't regenerate: brush over any area to repaint it, split a flat image into editable layers, or pull the text off an image to retype itUpload your brand assets once, and every output stays on-brandFor developers: SurgePix ships as open-source agent skills, so Claude Code, Cursor, or any AI agent can generate and edit visuals for you — right from your terminal, no browser neededWe're still early and shipping fast. Would love to hear what you think, and what you'd want SurgePix to do next.👉Try it free: https://surgepix.ai"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "roughly how many credits for a layered ppt vs one image"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "PPTX export is the part I care about, I basically live in slides."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "clean. trying it now"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Layers that stay editable after the agent is done is the part I care about. When my agent builds a video I always want to nudge one thing by hand without redoing everything. Can you call it from an MCP client, or is it API only for now?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The agent-skills part is what caught my eye. We generate social posts for online stores through n8n, and the pain is always the image that's almost right but needs one text fix. Can an agent call a single edit, like swapping the headline on an existing layer, through an API without Claude Code or Cursor? And does it render Arabic text correctly?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The edit-don't-regenerate angle is what stands out to me. Most of my time with generated visuals goes to fixing one headline or color after the fact, so keeping text editable and the brand kit applied across a set makes a lot of sense. I'm also curious how the agent skills handle a request that spans multiple layers — does it keep the rest of the layout untouched while it repaints just one region?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "this could save a lot of back and forth with small design changes 👍"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-16",
       "rank": 4,
@@ -35534,67 +35651,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-26",
-      "rank": 2,
-      "name": "SurgePix",
-      "slug": "surgepix",
-      "tagline": "AI visuals. Edit every layer. Agent-callable. ",
-      "description": "Most AI image tools stop at one-shot generation. SurgePix keeps going: edit any layer, swap text, repaint a region, and stay on-brand with your brand kit. Or skip the UI — open-source agent skills let Claude Code & Cursor generate and edit visuals for you.",
-      "category": "Design Tools • Developer Tools • Artificial Intelligence",
-      "categoryFa": "ابزار طراحی • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/63c38e20-1271-4f3b-8ed2-1b7b30fed1c1.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5fd31ade-324f-4fa3-a076-afdcc6189743.png?auto=format",
-        "https://ph-files.imgix.net/e2fa9ceb-a051-4db3-9a2b-5d342a20edf7.png?auto=format",
-        "https://ph-files.imgix.net/7c68f59e-afbc-4492-bb9f-b9a583d5ee45.png?auto=format",
-        "https://ph-files.imgix.net/9917e2b5-44b3-405f-a62a-8456c23b9215.png?auto=format",
-        "https://ph-files.imgix.net/f14ba731-fdee-4966-8b1d-bbc4c2b8fe6f.png?auto=format",
-        "https://ph-files.imgix.net/2939b143-cc52-4e12-9cad-f835a4174ebb.png?auto=format",
-        "https://ph-files.imgix.net/24cb16a1-5e3e-43c4-b5e1-91c136ff4182.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-26T07:01:00Z",
-      "votes": 212,
-      "websiteUrl": "https://www.producthunt.com/r/CS2V53OCZ2KXEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm Yichi, the maker behind SurgePix.SurgePix puts the whole job in one place — no juggling a dozen tools. Its built-in design agent can even search the live web and design straight from what it finds.It started with a simple frustration: every AI image tool I tried was great at generating something new, but the moment I wanted to tweak a color, swap a headline, or keep things on-brand across a whole set of visuals, I was stuck starting over.The latest models — GPT Image 2.5 and friends — are genuinely amazing at generating that first image, or that first slide. The problem starts after: I'd generate a whole deck in one click, then spend an hour fixing headlines, swapping charts, and getting every slide back on-brand. That redo-from-scratch gap is exactly what SurgePix is built to close — for decks, and for every visual you make.So we built SurgePix around three ideas:Edit, don't regenerate: brush over any area to repaint it, split a flat image into editable layers, or pull the text off an image to retype itUpload your brand assets once, and every output stays on-brandFor developers: SurgePix ships as open-source agent skills, so Claude Code, Cursor, or any AI agent can generate and edit visuals for you — right from your terminal, no browser neededWe're still early and shipping fast. Would love to hear what you think, and what you'd want SurgePix to do next.👉Try it free: https://surgepix.ai"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The agent-skills part is what caught my eye. We generate social posts for online stores through n8n, and the pain is always the image that's almost right but needs one text fix. Can an agent call a single edit, like swapping the headline on an existing layer, through an API without Claude Code or Cursor? And does it render Arabic text correctly?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The edit-don't-regenerate angle is what stands out to me. Most of my time with generated visuals goes to fixing one headline or color after the fact, so keeping text editable and the brand kit applied across a set makes a lot of sense. I'm also curious how the agent skills handle a request that spans multiple layers — does it keep the rest of the layout untouched while it repaints just one region?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "this could save a lot of back and forth with small design changes 👍"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can it pull the text out of an image and let me edit it normally ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "posters usually eat my whole afternoon, will try this next one"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I spend way too much time fixing AI generated slides... Curious to try this!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Yichi! The open-source agent skills caught my eye, since I already run Claude Code for most of my builds. Does the skill need a SurgePix account, or can it run from the terminal on its own?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -41152,7 +41208,46 @@
           "user": "[REDACTED]",
           "text": "Congrats on Exa 3.0! I’m a big fan of Exa. It helps me solve problems every day and has become a regular part of my workflow. Dynamic Highlights looks particularly useful, and I’m excited to try it out. Thanks for building something I get so much value from!"
         }
-      ]
+      ],
+      "faDescription": "اگزام ۳.۰ (Exa ۳.۰) بزرگ‌ترین به‌روزرسانی کیفیت جستجو در ای‌پی‌آی جستجوی اگزام برای عامل‌های هوش مصنوعی است. این نسخه یک مدل امبدینگ بزرگ‌تر و میلیاردها سند جدید شامل ۱.۲۷ میلیارد فهرست فروشگاهی و بیش از ۲۱۱ میلیون کسب‌وکار محلی را اضافه می‌کند. همچنین قابلیت هایلایت‌های پویا (Dynamic Highlights) در این نسخه معرفی شده که نسبت به متن کامل صفحه، ۹۵ درصد توکن کمتری مصرف می‌کند. پلن جدید Exa Lite با قیمت ۴ دلار به ازای هر ۱,۰۰۰ درخواست و پلن Exa Auto با قیمت ۷ دلار ارائه شده‌اند. این سرویس هم‌اکنون از طریق ای‌پی‌آی در دسترس توسعه‌دهندگان قرار دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "اگزام ۳.۰ یک ارتقای بزرگ برای ای‌پی‌آی جستجوی اگزام است که مخصوص دستیارهای هوش مصنوعی و برنامه‌های متکی بر جستجوی سنگین ساخته شده است. این نسخه چالش دریافت داده‌های وب به‌روز و باکیفیت را بدون هزینه‌های هنگفت یا مصرف بیش از حد توکن حل می‌کند. موارد برجسته عبارتند از: بازیابی رتبه برتر در حوزه‌های کدنویسی، مالی، تحقیقات عمیق، اطلاعات شرکت‌ها و بنچمارک‌های عمومی. قابلیت هایلایت‌های پویا بدون هزینه اضافی مصرف توکن را تا ۹۵ درصد نسبت به متن کامل صفحه کاهش داده و کیفیت پاسخ را بهبود می‌دهد. ایندکس مستقل توسعه یافته با بیش از ۲ تریلیون URL پیگیری‌شده و ۱۰۰ میلیارد صفحه ارائه شده، شامل محصولات فروشگاهی، کسب‌وکارهای محلی، اخبار، ورزش، آب و هوا، پروازها، رویدادها، حمل‌ونقل و پادکست‌ها می‌شود. طرح Exa Lite با قیمت اقتصادی ۴ دلار به ازای هر ۱,۰۰۰ درخواست در کنار Exa Auto با قیمت ۷ دلار ارائه شده است. این ابزار به‌ویژه برای تیم‌هایی که دستیارهای شخصی، ابزارهای تحقیقاتی، عامل‌های کدنویسی و محصولات هوش تجاری می‌سازند بسیار کاربردی است. اگر محصولی بر پایه هوش مصنوعی می‌سازید که به جستجوی وب قابل اعتماد نیاز دارد، ارزش امتحان کردن را دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "انتشار اگزام ۳.۰ را تبریک می‌گویم! من از طرفداران پرشور اگزام هستم. این ابزار هر روز به من در حل مسائل کمک می‌کند و به بخشی ثابت از جریان کاری من تبدیل شده است. قابلیت هایلایت‌های پویا به نظر بسیار کاربردی می‌رسد و مشتاقم آن را امتحان کنم. متشکرم برای ساخت محصولی که ارزش زیادی برای من ایجاد می‌کند!"
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:**\nعامل‌های هوش مصنوعی برای ارائه پاسخ‌های دقیق و به‌روز نیازمند دسترسی به وب هستند، اما ارسال متن کامل صفحات وب به مدل‌های زبانی باعث مصرف بی‌رویه توکن و افزایش چشمگیر هزینه‌ها می‌شود. Exa ۳.۰ با ارائه ای‌پی‌آی جستجوی اختصاصی و فناوری Dynamic Highlights، تنها بخش‌های کلیدی و مرتبط صفحه را استخراج کرده و مصرف توکن را تا ۹۵٪ کاهش می‌دهد.\n\n**معماری و تکنولوژی:**\nاین سرویس از یک مدل امبدینگ پیشرفته اختصاصی و پایگاه‌داده برداری (Vector DB) مقیاس‌پذیر برای جستجوی معنایی استفاده می‌کند. ایندکس عظیم آن شامل بیش از ۲ تریلیون لینک و ۱۰۰ میلیارد صفحه وب است. قابلیت Dynamic Highlights با ترکیب جستجوی برداری و مدل‌های خلاصه‌سازی فشرده، خروجی بهینه برای LLMها تولید می‌کند.\n\n**مدل درآمدی:**\nمدل قیمت‌گذاری این سرویس مبتنی بر میزان مصرف (Usage-based) است؛ لایه Exa Lite با قیمت ۴ دلار و Exa Auto با قیمت ۷ دلار به ازای هر ۱,۰۰۰ درخواست API عرضه می‌شود که مدلی بسیار جذاب برای استارتاپ‌ها و توسعه‌دهندگان است.\n\n**نقاط قوت:**\nکاهش ۹۵ درصدی مصرف توکن، اندکس اختصاصی بسیار وسیع (از اخبار تا تجارت الکترونیک)، قیمت‌گذاری رقابتی و بهینه‌سازی دقیق برای عامل‌های AI.\n\n**نقاط ضعف:**\nوابستگی شدید به دیتاسنترها و منابع پردازشی بزرگ، و احتمال بروز چالش در پوشش کامل زبان‌های کمتر توسعه‌یافته در وب مانند فارسی.\n\n**نکته طلایی برای ایران:**\nدر ایران به دلیل هزینه بالای توکن‌های API خارجی (مثل OpenAI)، پیاده‌سازی سرویس مشابهی که محتوای وب فارسی را استخراج، هایلایت و خلاصه کند، می‌تواند هزینه پردازش مدل‌های هوش مصنوعی بومی را به طرز شگفت‌انگیزی کاهش دهد و ارزش ارزش‌مندی برای بوم‌سازگان فناوری ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "موتور جستجوی هوشمند برای عامل‌های هوش مصنوعی (پارسی‌سیرچ AI)",
+        "description": "این محصول یک ای‌پی‌آی جستجوی تخصصی برای عامل‌های هوش مصنوعی و دستیارهای هوشمند در وب فارسی است. سیستم با ارزیابی و هایلایت هوشمند محتوا، نیازمندی به خواندن کل صفحات وب فارسی را از بین برده و مصرف توکن را به شدت کاهش می‌دهد. موتور جستجو با اتصال به منابع محلی، اطلاعات کسب‌وکارها، فروشگاه‌های آنلاین و اخبار ایران را به شکل ساختاریافته ارائه می‌کند.",
+        "marketOpportunity": "با رشد روزافزون توسعه دستیارهای هوش مصنوعی بومی در ایران، نیاز مبرمی به ای‌پی‌آی‌های جستجوی فارسی سریع، ارزان و بهینه‌سازی‌شده برای توکن وجود دارد. نبود یک موتور جستجوی اختصاصی هوش مصنوعی برای وب فارسی، فرصت بکری را برای ارائه خدمات به استارتاپ‌ها و شرکت‌های بزرگ فراهم کرده است.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، استارتاپ‌های پردازش زبان طبیعی (NLP)، شرکت‌های ارائه دهنده چت‌بات و دستیار هوشمند، و تحلیل‌گران داده‌های بازار",
+        "challenges": [
+          "محدودیت و عدم شفافیت در ساختار وب فارسی برای ایندکس‌سازی جامع",
+          "چالش‌های مربوط به زیرساخت پردازشی و تامین پردازنده‌های گرافیکی (GPU) برای مدل‌های امبدینگ",
+          "نوسانات نرخ ارز و مشکلات مدل‌های پرداخت اشتراکی در ایران"
+        ],
+        "monetization": [
+          "فروش اشتراک API بر اساس تعداد درخواست (Pay-as-you-go)",
+          "ارائه پلن‌های سازمانی (Enterprise) با سرور اختصاصی و پشتیبانی ویژه",
+          "ارائه پلن‌های اقتصادی و محدود برای استارتاپ‌ها و توسعه‌دهندگان مستقل"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "Elasticsearch",
+          "Qdrant",
+          "PyTorch",
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -43561,6 +43656,50 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-26",
+      "rank": 3,
+      "name": "MiniMax M3.1 Flash",
+      "slug": "minimax-m3-1-flash",
+      "tagline": "MiniMax’s Flash model, 3x faster and 70% cheaper for agents",
+      "description": "MiniMax M3.1 Flash is MiniMax’s new Flash model for agentic tasks, coding, computer use and cybersecurity. MiniMax says it is about 3x faster online and 70% cheaper for agentic tasks than its predecessor, with output at 200+ tokens per second. Pricing is $0.15 input and $0.60 output per 1M tokens. It’s on the MiniMax API, M Plan and MiniMax Code, and weights are promised later.",
+      "category": "Artificial Intelligence",
+      "categoryFa": "هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d9847daf-0cdc-4552-a2c7-b7dca2ebf1f5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c7765f20-2373-4e12-804e-041481d57675.webp?auto=format",
+        "https://ph-files.imgix.net/4c9e4ba6-6ab2-4822-8ef7-ceac292c35bf.png?auto=format",
+        "https://ph-files.imgix.net/a8561c0f-0623-4a69-b7cb-7484baa5f0d4.png?auto=format",
+        "https://ph-files.imgix.net/26a79604-fbe3-498e-9a31-7ed71a94e156.png?auto=format",
+        "https://ph-files.imgix.net/2a900fac-7a68-4058-82aa-8f3d68372097.png?auto=format",
+        "https://ph-files.imgix.net/26bd9562-1fd2-43cd-87aa-b37532e5aa9d.webp?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-26T07:01:00Z",
+      "votes": 172,
+      "websiteUrl": "https://www.producthunt.com/r/YRN2XABOMOIRQO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "MiniMax M3.1 Flash is MiniMax’s next-generation Flash model, built for agentic tasks, coding, computer use and cybersecurity. MiniMax calls it a “generational leap” over its predecessor.An early version ran anonymously as “Space Bunny”, and MiniMax says it processed over 200 trillion tokens before the official launch.What’s new in M3.1 Flash:About 3x faster online inference than its predecessor, with more aggressive sparsity improving inference efficiencyA 70% lower usage cost for agentic tasksOutput at 200+ tokens per second in everyday use, with a median of 170+Stronger agentic, coding, computer use and cybersecurity performanceSome numbers:DeepSWE v1.1: 73.7%OSWorld V2: 61.7 and ALE: 29.6, which MiniMax says rank first among Chinese modelsBankerToolBench: 76.2CyberGym: 82%, assessed by MiniMax’s internal security expertsPricing is flat at $0.15 per 1M input tokens, $0.60 per 1M output tokens and $0.015 per 1M cached input tokens.You can use it through the MiniMax API, the M Plan subscription and the MiniMax Code desktop app. Good fit if you’re building coding or computer-use agents and want a fast, low-cost model.P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The DeepSWE and OSWorld numbers are what I would look at first for coding work, more than raw tokens per second. For long agent loops, the question I keep coming back to is how it holds up when a task needs several tool calls and a correction mid-run — does the speed hold, or does accuracy drop off first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Three times faster at 70 percent cheaper is the kind of change that quietly makes a whole agent workflow viable, and 200 tokens per second should make those long tool loops feel less like waiting."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the price makes this interesting for longer agent runsi would compare cost per finished task alongside tokens per second since retries can change the bill quite a bit"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-02",
       "rank": 5,
@@ -43770,50 +43909,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-26",
-      "rank": 3,
-      "name": "MiniMax M3.1 Flash",
-      "slug": "minimax-m3-1-flash",
-      "tagline": "MiniMax’s Flash model, 3x faster and 70% cheaper for agents",
-      "description": "MiniMax M3.1 Flash is MiniMax’s new Flash model for agentic tasks, coding, computer use and cybersecurity. MiniMax says it is about 3x faster online and 70% cheaper for agentic tasks than its predecessor, with output at 200+ tokens per second. Pricing is $0.15 input and $0.60 output per 1M tokens. It’s on the MiniMax API, M Plan and MiniMax Code, and weights are promised later.",
-      "category": "Artificial Intelligence",
-      "categoryFa": "هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d9847daf-0cdc-4552-a2c7-b7dca2ebf1f5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c7765f20-2373-4e12-804e-041481d57675.webp?auto=format",
-        "https://ph-files.imgix.net/4c9e4ba6-6ab2-4822-8ef7-ceac292c35bf.png?auto=format",
-        "https://ph-files.imgix.net/a8561c0f-0623-4a69-b7cb-7484baa5f0d4.png?auto=format",
-        "https://ph-files.imgix.net/26a79604-fbe3-498e-9a31-7ed71a94e156.png?auto=format",
-        "https://ph-files.imgix.net/2a900fac-7a68-4058-82aa-8f3d68372097.png?auto=format",
-        "https://ph-files.imgix.net/26bd9562-1fd2-43cd-87aa-b37532e5aa9d.webp?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-26T07:01:00Z",
-      "votes": 171,
-      "websiteUrl": "https://www.producthunt.com/r/YRN2XABOMOIRQO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "MiniMax M3.1 Flash is MiniMax’s next-generation Flash model, built for agentic tasks, coding, computer use and cybersecurity. MiniMax calls it a “generational leap” over its predecessor.An early version ran anonymously as “Space Bunny”, and MiniMax says it processed over 200 trillion tokens before the official launch.What’s new in M3.1 Flash:About 3x faster online inference than its predecessor, with more aggressive sparsity improving inference efficiencyA 70% lower usage cost for agentic tasksOutput at 200+ tokens per second in everyday use, with a median of 170+Stronger agentic, coding, computer use and cybersecurity performanceSome numbers:DeepSWE v1.1: 73.7%OSWorld V2: 61.7 and ALE: 29.6, which MiniMax says rank first among Chinese modelsBankerToolBench: 76.2CyberGym: 82%, assessed by MiniMax’s internal security expertsPricing is flat at $0.15 per 1M input tokens, $0.60 per 1M output tokens and $0.015 per 1M cached input tokens.You can use it through the MiniMax API, the M Plan subscription and the MiniMax Code desktop app. Good fit if you’re building coding or computer-use agents and want a fast, low-cost model.P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The DeepSWE and OSWorld numbers are what I would look at first for coding work, more than raw tokens per second. For long agent loops, the question I keep coming back to is how it holds up when a task needs several tool calls and a correction mid-run — does the speed hold, or does accuracy drop off first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Three times faster at 70 percent cheaper is the kind of change that quietly makes a whole agent workflow viable, and 200 tokens per second should make those long tool loops feel less like waiting."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the price makes this interesting for longer agent runsi would compare cost per finished task alongside tokens per second since retries can change the bill quite a bit"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -47821,6 +47916,69 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-10-26",
+      "rank": 4,
+      "name": "N8N Chat UI",
+      "slug": "n8n-chat-ui-3",
+      "tagline": "Beautiful, no-code, on-brand AI chat widgets for n8n",
+      "description": "N8N Chat UI is a no-code builder for branded AI chat widgets, built for n8n users, agencies, SaaS teams, and businesses. Design a mobile-friendly chat experience with live preview, then connect it to any n8n workflow and embed it anywhere. Unlike default n8n chat, it adds deep customization, streaming, voice and file uploads, flexible layouts, and a JavaScript API for advanced integrations.",
+      "category": "Developer Tools • Artificial Intelligence • No-Code",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
+      "url": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c59eca39-ac3f-4ae1-af4b-c628da9ffdd2.x-icon?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/64201c63-3a36-43a4-8dca-5ce5773717c8.jpeg?auto=format",
+        "https://ph-files.imgix.net/0a438722-f5ed-4478-a60a-1eb9cc8c3dcb.png?auto=format",
+        "https://ph-files.imgix.net/ebb0f5a3-c232-4b6a-b524-3e2ebff6bc3f.png?auto=format",
+        "https://ph-files.imgix.net/e3876de0-85ef-4307-8be3-a7692f637749.png?auto=format",
+        "https://ph-files.imgix.net/0fdc210a-4e30-4c4b-92d5-926820a71cd5.png?auto=format",
+        "https://ph-files.imgix.net/16e36879-c18d-45ba-af70-82718c23b77d.png?auto=format",
+        "https://ph-files.imgix.net/6f9108e9-5a14-4b4f-9ebe-1f9e45e63542.png?auto=format",
+        "https://ph-files.imgix.net/feae21fd-aada-4b32-ab87-689d7fdfbe67.png?auto=format",
+        "https://ph-files.imgix.net/701990bf-5a98-4ec5-b77c-b32a6a80cb65.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-26T07:01:00Z",
+      "votes": 156,
+      "websiteUrl": "https://www.producthunt.com/r/EMEWBY4KEFUXFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Ross (@ross_jenkins) & Dani (@dani_martin1), the owners of N8N Chat UI.The problemn8n is brilliant for building AI agents, but its built-in chat widget is basic. Making it look like your brand means digging into HTML, CSS and JavaScript, and your webhook URL sits in the page source for anyone to find.What we builtA visual builder that turns any n8n workflow into a polished, on-brand chat widget. Customize it with a live preview, copy one snippet, and it's on your site. No code.Try the builder yourself, no signup needed: n8nchatui.comKey featuresPopup or in-page widgets, fully themed: colors, fonts, avatars, welcome messages, custom CSSStreaming replies, voice input, file uploads, follow-up prompts, Markdown/HTML renderingRTL support for Arabic, Hebrew and PersianManaged widgets: hidden webhook, domain restrictions, geofencing, rate limits and real-time analyticsMCP server: ask Claude, Cursor or VS Code to create and restyle widgets for youOfficial plugins for WordPress, Webflow, Shopify and Wix, plus an n8n community nodeFor developers: it's no-code, but not locked downSend messages programmatically with sendMessage(): start a chat from a \"Ask about this product\" button, a form submission, a URL parameter, or after a visitor has been idle on the checkout pageEvent callbacks (onWidgetOpen, beforeSubmit, onResponseReceived, onError…) to hook the chat into your analytics or app logicPass custom metadata (user ID, plan, current page) to your n8n workflow with every messageChange the theme and starter prompts on the fly with updateTheme() and updatePrompts(), no reload neededSession keys to keep separate conversations per page or per userWorks with any backend that returns JSON, not only n8nFor agenciesBuild a branded chat widget for every client in minutes, and clone widgets to reuse your best setupsHelp your clients turn more website visitors into leads and salesShow clients the results in the analytics panel, with message counts you can use to charge them per messageHow pricing worksOne paid plan: a lifetime license. Pay once, never pay again. You can also try it free with 100 credits, no card needed.How it startedN8N Chat UI launched on the n8n community forum in April 2025 to fix a problem every n8n builder runs into: you build a great AI agent, put it on your website, and get a generic chat window with hardly any options to match your brand, unless you write the code yourself.It caught on. More than 2,700 people have built widgets with it, and a lot of what shipped along the way began as requests from the community: session management, a free way to get started, streaming replies, voice notes and file uploads.Why we bought itIn August 2026, we bought N8N Chat UI from its original creator, and Nicholas and Daniel from Ross's team at DigitalME joined us to build it out. We could see how many people already relied on it, because it fixes what n8n's own chat widget can't. And we could see how much further it could go: more advanced features, and a library of ready-made n8n recipes we're building to give to the community for free.Our first big step is getting it onto the platforms people actually build with: official plugins for WordPress, Wix, Webflow and Shopify, plus an n8n community node that replaces the usual webhook wiring.🎁 Product Hunt offer: $90 off the lifetime license ($59 instead of $149), plus 2,500 free credits to try Managed widgetsWe'd love your feedback: which integrations or features should we build next? Drop them below.Thanks to @jonnotie for hunting us, and to the PH community!Questions or feedback? Email us at hello@n8nchatui.com, or connect with me on LinkedIn.— Ross & Dani"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Definitely going to recommend this to Webflow users. https://webflow.com/apps/detail/digitalme-n8n-chatuiwidget"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks useful for n8n workflows. Does it support custom branding across the whole chat widget?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Managed widget approach is the part I would lean on first. Hiding the webhook behind a proxy plus domain restrictions solves the exact thing that makes me hesitate to embed an n8n chat directly. I also like that it stays no-code without locking out developers — passing page and user metadata, plus the sendMessage and theme-update hooks, means a widget can still behave like part of the site rather than a bolt-on."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Evening update from the team 🌙Thank you all, this has been an amazing day. Over 70 comments and lots of great questions. Here's what you've told us so far:🔁 Live takeover was the most-asked feature: people want a person to be able to step into the chat. We've sketched out how to build it, and it's now near the top of our list.🔐 Shared computers and signed-in users: a sharp question about clearing chats when someone signs out. There's a way to handle it today, and a simpler built-in option is on our list.🕘 Out of hours: most of you agree on letting the bot answer what it can and collect details for anything else, so nothing gets lost overnight.If you're just arriving: build a widget on our homepage without signing up and tell us what's missing. The launch offer ($59 lifetime license instead of $149, plus 2,500 Managed credits) runs until 25 November.One question for tonight: what's the first workflow you'd put behind a chat window? 👇— Dani & Ross"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "At last something that's gonna make work easier for me. Will give a try!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Ross and Dani! Out of hours I'd let the bot answer what it can and only collect the visitor's details when it gets stuck, so nothing gets lost overnight."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-24",
       "rank": 4,
@@ -48283,69 +48441,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-26",
-      "rank": 4,
-      "name": "N8N Chat UI",
-      "slug": "n8n-chat-ui-3",
-      "tagline": "Beautiful, no-code, on-brand AI chat widgets for n8n",
-      "description": "N8N Chat UI is a no-code builder for branded AI chat widgets, built for n8n users, agencies, SaaS teams, and businesses. Design a mobile-friendly chat experience with live preview, then connect it to any n8n workflow and embed it anywhere. Unlike default n8n chat, it adds deep customization, streaming, voice and file uploads, flexible layouts, and a JavaScript API for advanced integrations.",
-      "category": "Developer Tools • Artificial Intelligence • No-Code",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
-      "url": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c59eca39-ac3f-4ae1-af4b-c628da9ffdd2.x-icon?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/64201c63-3a36-43a4-8dca-5ce5773717c8.jpeg?auto=format",
-        "https://ph-files.imgix.net/0a438722-f5ed-4478-a60a-1eb9cc8c3dcb.png?auto=format",
-        "https://ph-files.imgix.net/ebb0f5a3-c232-4b6a-b524-3e2ebff6bc3f.png?auto=format",
-        "https://ph-files.imgix.net/e3876de0-85ef-4307-8be3-a7692f637749.png?auto=format",
-        "https://ph-files.imgix.net/0fdc210a-4e30-4c4b-92d5-926820a71cd5.png?auto=format",
-        "https://ph-files.imgix.net/16e36879-c18d-45ba-af70-82718c23b77d.png?auto=format",
-        "https://ph-files.imgix.net/6f9108e9-5a14-4b4f-9ebe-1f9e45e63542.png?auto=format",
-        "https://ph-files.imgix.net/feae21fd-aada-4b32-ab87-689d7fdfbe67.png?auto=format",
-        "https://ph-files.imgix.net/701990bf-5a98-4ec5-b77c-b32a6a80cb65.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-26T07:01:00Z",
-      "votes": 155,
-      "websiteUrl": "https://www.producthunt.com/r/EMEWBY4KEFUXFH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Ross (@ross_jenkins) & Dani (@dani_martin1), the owners of N8N Chat UI.The problemn8n is brilliant for building AI agents, but its built-in chat widget is basic. Making it look like your brand means digging into HTML, CSS and JavaScript, and your webhook URL sits in the page source for anyone to find.What we builtA visual builder that turns any n8n workflow into a polished, on-brand chat widget. Customize it with a live preview, copy one snippet, and it's on your site. No code.Try the builder yourself, no signup needed: n8nchatui.comKey featuresPopup or in-page widgets, fully themed: colors, fonts, avatars, welcome messages, custom CSSStreaming replies, voice input, file uploads, follow-up prompts, Markdown/HTML renderingRTL support for Arabic, Hebrew and PersianManaged widgets: hidden webhook, domain restrictions, geofencing, rate limits and real-time analyticsMCP server: ask Claude, Cursor or VS Code to create and restyle widgets for youOfficial plugins for WordPress, Webflow, Shopify and Wix, plus an n8n community nodeFor developers: it's no-code, but not locked downSend messages programmatically with sendMessage(): start a chat from a \"Ask about this product\" button, a form submission, a URL parameter, or after a visitor has been idle on the checkout pageEvent callbacks (onWidgetOpen, beforeSubmit, onResponseReceived, onError…) to hook the chat into your analytics or app logicPass custom metadata (user ID, plan, current page) to your n8n workflow with every messageChange the theme and starter prompts on the fly with updateTheme() and updatePrompts(), no reload neededSession keys to keep separate conversations per page or per userWorks with any backend that returns JSON, not only n8nFor agenciesBuild a branded chat widget for every client in minutes, and clone widgets to reuse your best setupsHelp your clients turn more website visitors into leads and salesShow clients the results in the analytics panel, with message counts you can use to charge them per messageHow pricing worksOne paid plan: a lifetime license. Pay once, never pay again. You can also try it free with 100 credits, no card needed.How it startedN8N Chat UI launched on the n8n community forum in April 2025 to fix a problem every n8n builder runs into: you build a great AI agent, put it on your website, and get a generic chat window with hardly any options to match your brand, unless you write the code yourself.It caught on. More than 2,700 people have built widgets with it, and a lot of what shipped along the way began as requests from the community: session management, a free way to get started, streaming replies, voice notes and file uploads.Why we bought itIn August 2026, we bought N8N Chat UI from its original creator, and Nicholas and Daniel from Ross's team at DigitalME joined us to build it out. We could see how many people already relied on it, because it fixes what n8n's own chat widget can't. And we could see how much further it could go: more advanced features, and a library of ready-made n8n recipes we're building to give to the community for free.Our first big step is getting it onto the platforms people actually build with: official plugins for WordPress, Wix, Webflow and Shopify, plus an n8n community node that replaces the usual webhook wiring.🎁 Product Hunt offer: $90 off the lifetime license ($59 instead of $149), plus 2,500 free credits to try Managed widgetsWe'd love your feedback: which integrations or features should we build next? Drop them below.Thanks to @jonnotie for hunting us, and to the PH community!Questions or feedback? Email us at hello@n8nchatui.com, or connect with me on LinkedIn.— Ross & Dani"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Definitely going to recommend this to Webflow users. https://webflow.com/apps/detail/digitalme-n8n-chatuiwidget"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks useful for n8n workflows. Does it support custom branding across the whole chat widget?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Managed widget approach is the part I would lean on first. Hiding the webhook behind a proxy plus domain restrictions solves the exact thing that makes me hesitate to embed an n8n chat directly. I also like that it stays no-code without locking out developers — passing page and user metadata, plus the sendMessage and theme-update hooks, means a widget can still behave like part of the site rather than a bolt-on."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Evening update from the team 🌙Thank you all, this has been an amazing day. Over 70 comments and lots of great questions. Here's what you've told us so far:🔁 Live takeover was the most-asked feature: people want a person to be able to step into the chat. We've sketched out how to build it, and it's now near the top of our list.🔐 Shared computers and signed-in users: a sharp question about clearing chats when someone signs out. There's a way to handle it today, and a simpler built-in option is on our list.🕘 Out of hours: most of you agree on letting the bot answer what it can and collect details for anything else, so nothing gets lost overnight.If you're just arriving: build a widget on our homepage without signing up and tell us what's missing. The launch offer ($59 lifetime license instead of $149, plus 2,500 Managed credits) runs until 25 November.One question for tonight: what's the first workflow you'd put behind a chat window? 👇— Dani & Ross"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "At last something that's gonna make work easier for me. Will give a try!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Ross and Dani! Out of hours I'd let the bot answer what it can and only collect the visitor's details when it gets stuck, so nothing gets lost overnight."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -60602,7 +60697,55 @@
           "user": "[REDACTED]",
           "text": "Waiting two months for one replacement part is a pretty clear reason to build differently. Public designs and parts people can source themselves make the ownership story much more concrete."
         }
-      ]
+      ],
+      "faDescription": "آسیموف ۱ یک ربات انسان‌نما است که می‌توانید کسب‌وکار خود را بر پایه آن بنا کنید. این ربات قابلیت سفارشی‌سازی بالایی دارد و شما می‌توانید آن را برای هر هدفی که در حال ساختن آن هستید، آموزش دهید و شکل دهید. این محصول توسط بنیان‌گذاران، پژوهشگران و توسعه‌دهندگان در بیش از ۲۰ کشور خریداری شده است. هدف اصلی ما این است که مالکیت کامل و آزادی عمل در توسعه ربات را به دست کاربران بدهیم.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به محصول هانت، من امیر از منلو ریسرچ هستم. آسیموف ۱ یک ربات انسان‌نما متن‌باز است که می‌توانید کسب‌وکار خود را بر آن بنا کنید. این ربات قابل‌سفارشی‌سازی‌ترین ربات انسان‌نما موجود در بازار است. ما با یک یونیت G۱ شروع کردیم، اما وقتی یک قطعه کوچک شکست، به دلیل بسته بودن سورس‌کد، دو ماه برای قطعه یدکی صبر کردیم. این تجربه باعث شد تصمیم بگیریم ربات خودمان را بسازیم؛ رباتی که طراحی آن عمومی است، همه قطعات قابل تهیه هستند و مالک تصمیم می‌گیرد ربات چه چیزی شود. ما با پاها شروع کردیم و در ژانویه منتشرشان کردیم و ربات کامل در آوریل عرضه شد. کل فرآیند ساخت به صورت عمومی به اشتراک گذاشته شد. وقتی پیش‌سفارش‌ها را باز کردیم، در ۹ ساعت به حداقل سفارش تولید رسیدیم و اولین محموله را به مشتریان در بیش از ۲۰ کشور ارسال کردیم. آسیموف ۱ اکنون پایه‌ی استقرارهای سازمانی خود ماست. بنیان‌گذاران آن را برای یادگیری رباتیک و شروع کسب‌وکار روی رباتی که کاملاً مالک آن هستند می‌خرند. پژوهشگران و توسعه‌دهندگان از آن برای آموزش و تست کارهای خود استفاده می‌کنند. ارتفاع آن ۱.۲ متر است، ۲۵ مفاصل محرک دارد و با یک سیاست پایه‌ی راه رفتن عرضه می‌شود. به صورت کیت عرضه می‌شود که در حدود یک هفته با چند ساعت کار در روز قابل مونتاژ است. قیمت آن ۲۰,۰۰۰ دلار است و به درب منزل تحویل داده می‌شود. سفارش: https://menlo.ai/asimov-۱ ساخت: https://docs.menlo.ai/ شما با آن چه چیزی می‌سازید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ظاهرش عالی است و من طرفدار بزرگ ربات‌ها هستم. تنها مشکلی که دارم، عدم شفافیت در مورد ارسال به برخی کشورها مانند امارات و تایلند است که مراکز اصلی من هستند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "عالی است 🔥. آیا آسیموف می‌تواند پله‌ها را بالا برود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این محصول بسیار جذاب به نظر می‌رسد. کنجکاو هستم که چقدر آسان است برای انجام وظایف جدید آموزش داده شود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تلاشی که تیم در این کار گذاشته واقعاً تحسین‌برانگیز است. رویکرد متن‌باز و چشم‌انداز پشت آن را دوست دارم. مشتاقم ببینم این پروژه به کجا می‌رسد. تبریک بابت راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دو ماه صبر کردن برای یک قطعه یدکی، دلیل بسیار روشنی برای ساختن به شیوه‌ای متفاوت است. طراحی‌های عمومی و قطعاتی که افراد می‌توانند خودشان تهیه کنند، داستان مالکیت را بسیار ملموس‌تر می‌کنند."
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، قفل شدن کاربران در اکوسیستم‌های بسته رباتیک است که در آن تعمیرات و سفارشی‌سازی‌ها بسیار کند و پرهزینه هستند. راه‌حل ارائه‌شده، یک ربات انسان‌نما متن‌باز با طراحی شفاف است که مالکیت کامل را به کاربر واگذار می‌کند. از نظر معماری، ترکیب سخت‌افزار ماژولار با نرم‌افزار متن‌باز (احتمالاً مبتنی بر ROS) اجازه می‌دهد توسعه‌دهندگان بدون نیاز به اجازه از سازنده، الگوریتم‌های جدید را پیاده‌سازی کنند. مدل درآمدی مستقیماً بر فروش سخت‌افزار (کیت) و احتمالاً خدمات پشتیبانی و آموزش استوار است. نقاط قوت اصلی شامل شفافیت کامل، جامعه‌ی کاربری فعال بین‌المللی و قیمت‌گذاری رقابتی نسبت به ربات‌های تجاری بسته است. نقاط ضعف می‌تواند شامل پیچیدگی مونتاژ توسط کاربر و چالش‌های لجستیک بین‌المللی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های واردات ربات‌های پیشرفته، ایجاد یک نسخه بومی با قطعات قابل تأمین داخلی یا از طریق کانال‌های جایگزین، می‌تواند یک فرصت طلایی برای دانشگاه‌ها و استارتاپ‌های ایرانی باشد تا بدون وابستگی به برندهای خارجی، در حوزه رباتیک انسان‌نما پیشرو شوند.",
+      "iranEquivalent": {
+        "productName": "ربات انسان‌نما متن‌باز آریا",
+        "description": "یک پلتفرم رباتیک انسان‌نما با معماری باز که امکان سفارشی‌سازی سخت‌افزار و نرم‌افزار را برای توسعه‌دهندگان ایرانی فراهم می‌کند. این محصول به صورت کیت عرضه شده و با مستندات کامل، امکان مونتاژ و برنامه‌نویسی توسط کاربران را می‌دهد. هدف اصلی، کاهش وابستگی به ربات‌های بسته و گران‌قیمت وارداتی است.",
+        "marketOpportunity": "بازار رباتیک صنعتی و پژوهشی در ایران با وجود تحریم‌ها، تشنه‌ی راه‌حل‌های بومی و متن‌باز است. دانشگاه‌ها و استارتاپ‌های هوش مصنوعی به دنبال پلتفرم‌های ارزان‌تر و قابل دسترس برای تحقیق و توسعه هستند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "دانشجویان و اساتید دانشگاه‌های فنی، استارتاپ‌های هوش مصنوعی و رباتیک، و شرکت‌های صنعتی کوچک و متوسط.",
+        "challenges": [
+          "دسترسی به قطعات الکترونیکی و موتورها به دلیل تحریم‌ها و نوسانات ارزی",
+          "نیاز به آموزش گسترده کاربران در زمینه رباتیک و برنامه‌نویسی"
+        ],
+        "monetization": [
+          "فروش کیت‌های سخت‌افزاری ربات",
+          "فروش اشتراک‌های نرم‌افزاری و دسترسی به کتابخانه‌های الگوریتمی"
+        ],
+        "techStack": [
+          "ROS۲",
+          "PyTorch"
+        ],
+        "confidence": 65
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -64916,7 +65059,69 @@
           "user": "[REDACTED]",
           "text": "It makes sense to pin feedback to the actual element. What do you do if two reviewers request opposite changes before that feedback gets to the coding agent?"
         }
-      ]
+      ],
+      "faDescription": "اینفلایت ابزاری نوآورانه و لایه مفقوده بازخورد برای نمونه‌های اولیه محصول است. با استفاده از این پلتفرم می‌توانید لینک پیش‌نمایش یا نمونه اولیه HTML اپلیکیشن خود را به راحتی با دیگران به اشتراک بگذارید. بررسی‌کنندگان و مشتریان می‌توانند نظرات خود را دقیقاً روی المان‌های واقعی سنجاق کنند یا مستقیماً روی اپلیکیشن در حال اجرا ویدیو ضبط نمایند. در نهایت، اینفلایت این بازخوردها را به اقدامات و گام‌های بعدی ساختاریافته تبدیل می‌کند تا ایجنت‌های هوش مصنوعی کدنویسی شما مانند Cursor، Claude Code و Codex آن‌ها را از طریق پروتکل MCP دریافت و اعمال کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "محصولی جدید از riddering@ — این یک مصاحبه عالی درباره نحوه شکل‌گیری این محصول است: https://youtube.com/watch?v=۰FQC۰mu۵Z۰۰"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "برای امتحان کردنش بسیار هیجان‌زده‌ام. خیلی عالی می‌شود اگر با برنامه‌های نیتیو iOS هم کار کند، چون در حال حاضر بیشتر نمونه‌سازی‌هایم را در شبیه‌ساز iOS انجام می‌دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "designertom@ بهترین است، واقعاً برای امتحان کردن این محصول مشتاقم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آیا بازخوردها در جایی قرار می‌گیرند که مشتری بتواند بدون داشتن حساب کاربری از آن استفاده کند؟ دلیل اینکه بازخوردهای نمونه اولیه برای من در واتس‌اپ تمام می‌شود این است که مشتریان حاضر نیستند فقط برای گذاشتن سه نظر در یک ابزار جدید ثبت‌نام کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "به عنوان کسی که خودش یک ابزار نمونه‌سازی (Magic Patterns) می‌سازد، اینفلایت واقعاً همان لایه مفقوده بازخورد است. دنیای نرم‌افزار به سمت اولویت دادن به نمونه اولیه حرکت کرده است؛ قبلاً نمونه اولیه یک قابلیت جانبی و خوب بود، اما الان تیم‌ها به آن نیاز حیاتی دارند. تبریک بزرگ برای انتشار محصول!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "طرفدار پر و پا قرص اینفلایت هستم! تیم سازنده بهترین استعدادهای طراحی هستند که تا به حال دیده‌ام."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "سلام به پروداکت هانت، تامی هستم، هم‌بنیان‌گذار به همراه کایل، رید و ویر. رهبران طراحی که با آن‌ها مصاحبه کردم مدام یک آشفتگی مشترک را توصیف می‌کردند: بازخورد نمونه‌ اولیه در کانال‌های مختلف پراکنده است، سپس یک نفر باید آن را دوباره به صورت پرامپت تایپ کند تا ایجنت هوش مصنوعی بتواند آن را اصلاح کند. ما می‌خواستیم بازخورد روی خود نمونه اولیه قرار گیرد و از همان‌جا به دست ایجنت برسد. نحوه کار: لینک پیش‌نمایش یا نمونه اولیه HTML را به اشتراک بگذارید، بررسی‌کنندگان نظرات را روی المان‌های واقعی پین می‌کنند یا روی اپلیکیشن در حال اجرا ویدیو ضبط می‌کنند، و ایجنت کدنویسی شما (Cursor، Claude Code، Codex) آن‌ها را از طریق MCP به عنوان گام‌های بعدی دریافت می‌کند. یک درخواست: اگر MCP را متصل کردید، با اولین گام بعدی که ایجنت شما دریافت کرده پاسخ دهید و بگویید آیا درست متوجه شده است یا خیر."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سنجاق کردن بازخورد به المان واقعی بسیار منطقی است. اما اگر دو بررسی‌کننده قبل از رسیدن بازخورد به ایجنت کدنویسی، درخواست‌های متناقضی ثبت کنند چه کار می‌کنید؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nیکی از چالش‌های اصلی در فرآیند توسعه نرم‌افزار، پراکندگی بازخوردهای کارفرما و تیم طراحی در پیام‌رسان‌ها و ایمیل‌ها است. فرایند دستی تبدیل این بازخوردها به دستورالعمل‌های برنامه‌نویسی (پرامپت) وقت‌گیر و همراه با خطا است. Inflight با ارائه یک لایه تعاملی روی نمونه‌های اولیه، اجازه ثبت نظر و ویدیو روی المان‌های زنده را می‌دهد و با استفاده از پروتکل MCP، این بازخوردها را مستقیماً به ایجنت‌های هوش مصنوعی کدنویسی متصل می‌سازد.\n\nمعماری و تکنولوژی:\nاین محصول بر پایه پروتکل جدید MCP (Model Context Protocol) طراحی شده که اتصال استاندارد بین داده‌های بافتار (Context) و مدل‌های هوش مصنوعی مثل Cursor و Claude Code را ممکن می‌سازد. استفاده از ابزارهای ضبط ویدیو در وب (WebRTC) و تزریق اسکریپت به پروتوتایپ‌های HTML از ارکان فنی آن است.\n\nمدل درآمدی:\nمدل درآمدی متداول این محصول به صورت Freemium و SaaS ابری است؛ به‌طوری‌که استفاده پایه رایگان بوده و برای تیم‌های بزرگتر با قابلیت‌های متصل به MCP و حجم ذخیره‌سازی ویدیو بیشتر، حق اشتراک ماهانه دریافت می‌شود.\n\nنقاط قوت:\n۱. یکپارچگی مستقیم با ابزارهای هوش مصنوعی کدنویسی مدرن (Cursor، Codex).\n۲. کاهش شدید اصطکاک در فرآیند بازخورد تا کدنویسی.\n۳. پشتیبانی از ثبت نظر متنی و ضبط ویدیویی روی المان‌های زنده.\n\nنقاط ضعف:\n۱. وابسته بودن به پذیرش مشتریان (چنانچه مشتری بدون حساب کاربری نتواند کامنت بگذارد، به ابزارهای ساده‌تر مثل واتس‌اپ برمی‌گردد).\n۲. عدم وجود مکانیزم مشخص برای حل تعارضات نظرات همزمان چند بررسی‌کننده.\n\nنکته طلایی برای بازار ایران:\nدر ایران بیشترین ریزش بازخوردها در واتس‌اپ و تلگرام رخ می‌دهد. اگر نمونه ایرانی بدون نیاز به ثبت‌نام (Guest Mode) به مشتری اجازه ثبت نظر روی پروتوتایپ را بدهد و خروجی آن را مستقیم به پرامپت‌های فارسی یا انگلیسی قابل استفاده در ابزارهایی مانند Cursor یا VSCode تبدیل کند، به شدت مورد استقبال آژانس‌های وب و فریلنسرهای ایرانی قرار خواهد گرفت.",
+      "iranEquivalent": {
+        "productName": "پین‌کد (PinCode)",
+        "description": "پین‌کد یک سامانه بومی برای ثبت بازخورد تعاملی و تصویری روی نمونه‌های اولیه وب و اپلیکیشن است که مستقیماً به ابزارهای توسعه متصل می‌شود. این ابزار به طراحان و برنامه‌نویسان ایرانی اجازه می‌دهد لینک پیش‌نمایش را برای کارفرما بفرستند تا نظرات روی المان‌های واقعی ثبت شوند. در نهایت این بازخوردها به دسکریپشن‌های ساختاریافته و پرامپت‌های آماده برای ایجنت‌های هوش مصنوعی تبدیل می‌شوند.",
+        "marketOpportunity": "با همه‌گیر شدن استفاده از هوش مصنوعی در کدنویسی و توسعه محصول در ایران، نیاز شدیدی به ابزار یکپارچه‌کننده بازخورد کارفرما با محیط توسعه احساس می‌شود. این محصول می‌تواند فاصله میان مدیران محصول، طراحان UI/UX و تیم فنی را به حداقل برساند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه نرم‌افزار، آژانس‌های طراحی وب، طراحان UI/UX، فریلنسرها و شرکت‌های SaaS",
+        "challenges": [
+          "مقاومت کارفرمایان سنتی در استفاده از ابزارهای جدید و تمایل آن‌ها به استفاده از پیام‌رسان‌ها مانند تلگرام و واتس‌اپ",
+          "محدودیت‌ها و چالش‌های مربوط به زیرساخت اینترنت و دسترسی مستقیم به APIهای خارجی هوش مصنوعی",
+          "پیچیدگی مدیریت بازخوردهای متناقض و تحلیل ویدیوهای ثبت‌شده توسط کاربر"
+        ],
+        "monetization": [
+          "اشتراک ماهانه و سالانه بر اساس تعداد پروژه‌ها و اعضای تیم (SaaS)",
+          "ارائه پنل اختصاصی سازمانی (Enterprise) با قابلیت نصب روی سرور اختصاصی",
+          "ارائه افزونه‌های اختصاصی برای اتصال به ابزارهای مدیریت پروژه داخلی"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "Node.js",
+          "PostgreSQL",
+          "WebRTC",
+          "MCP Protocol"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -64977,7 +65182,66 @@
           "user": "[REDACTED]",
           "text": "$12 of usage per month for $10 is not enough to justify daily and weekly limits in my opinion. How is your plan better than GLM, CommandCode or Ollama’s paid plans?"
         }
-      ]
+      ],
+      "faDescription": "برنامه‌های کدنویسی RunInfra مدل‌های متن‌باز و سریع را با قیمت ثابت ماهانه و شروع از ۱۰ دلار در اختیار ایجنت‌های کدنویسی شما قرار می‌دهند. شما می‌توانید از مدل‌های قدرتمندی مانند GLM ۵.۳، DeepSeek V۴.۱ Flash، Qwen۳.۸ ۲۷B و موارد دیگر درون ابزارهایی نظیر Claude Code، Codex، OpenCode، Cline، Droid یا Grok Build استفاده کنید. راه‌اندازی این سرویس تنها به یک پرامپت نیاز دارد؛ کافی است آن را در ایجنت خود کپی کرده، ورود را تأیید کنید و کار تمام است. سیستم مسیریابی هوشمند و آگاه از نشست (Session-aware routing) تا ۹۹.۵ درصد نرخ کش ثبت می‌کند تا اشتراک شما بازدهی به‌مراتب بیشتری داشته باشد. عدم نگهداری داده‌ها، عدم آموزش مدل‌ها روی پرامپت‌های شما و دارا بودن گواهی امنیتی SOC ۲ Type II از ویژگی‌های کلیدی این پلتفرم است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، جابر هستم. من تمام روز با ایجنت‌های کدنویسی کار می‌کنم و از نگاه کردن به قبض توکن‌ها به جای تمرکز روی خودِ کار خسته شده بودم، بنابراین یک اشتراک با قیمت ثابت ساختیم. مدل‌های متن‌باز سریع در Claude Code، Codex یا هر ابزاری که از قبل استفاده می‌کنید، شروع از ۱۰ دلار در ماه. من تمام روز در بخش نظرات هستم، خوشحال می‌شوم بازخوردهایتان را به اشتراک بگذارید :)"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "مدل‌های متن‌باز بهینه‌شده برای ایجنت‌های کدنویسی یک زاویه دید بسیار هوشمندانه است 🔥 تا الان کدام مدل‌ها سریع‌ترین بوده‌اند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من خودم قبلاً چنین چیزی را سرهم کرده بودم، اما سر و کله زدن با مدل‌های پشتیبان (fallback) و رسیدن به محدودیت‌ها واقعاً دردسر ساز است. آیا برنامه‌ای برای اضافه کردن شاخص نرخ فال‌بک در داشبورد یا سایر هشدارها برای مشکلات جاری که ممکن است روی کیفیت کد تاثیر بگذارند دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "سلام، انتشار فوق‌العاده‌ای بود! می‌خواستم بدانم آیا جدول مقایسه قیمت پایاپای بین OpenRouter و RunInfra دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک بابت انتشار! کار عالی بود. برنامه‌های شروع از ۱۰ دلار در ماه با پشتیبانی یکجا از Claude Code و بقیه ابزارها، پیشنهادی قوی برای تیم‌هایی است که می‌خواهند بدون هزینه اضافی آزمایش کنند. روز انتشار خوبی را برایتان آرزومندم! 👏"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "قیمت‌گذاری ثابت برای ایجنت‌ها منطقی است، چون چک کردن مداوم کنتور مصرف، نحوه استفاده شما از ابزار را تغییر می‌دهد. اما وقتی وسط یک نشست به محدودیت روزانه می‌رسیم چه اتفاقی می‌افتد؟ آیا به یک مدل کندتر سوئیچ می‌کند یا کاملاً متوقف می‌شود؟ این چیزی است که قبل از انتقال Claude Code می‌خواهم بدانم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ده دلار در ماه برای GLM و DeepSeek داخل ایجنت‌هایی که از قبل اجرا می‌کنم، خیلی راحت‌تر از مدیریت یک کلید API دیگر فروخته می‌شود و آن نرخ کش (Cache hit rate) همان چیزی است که ماندگاری آن را تعیین می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "به نظر من ۱۲ دلار مصرف ماهانه در ازای ۱۰ دلار پرداخت، برای توجیه محدودیت‌های روزانه و هفتگی کافی نیست. اشتراک شما چطور از برنامه‌های پولی GLM، CommandCode یا Ollama بهتر است؟"
+        }
+      ],
+      "aiReview": "پلتفرم RunInfra دست روی یکی از اصلی‌ترین نقاط درد توسعه‌دهندگان یعنی «استرس کنتور مصرف توکن» (Meter Anxiety) گذاشته است. ایجنت‌های کدنویسی به دلیل پرامپت‌های طولانی و بازخورد مداوم، توکن بسیار زیادی مصرف می‌کنند و مدل پرداخت به ازای مصرف (Pay-as-you-go) مانع از استفاده آزادانه می‌شود. RunInfra با ترکیب دو راهکار کلیدی این مشکل را حل کرده است: اول، استفاده از مدل‌های متن‌باز قدرتمند و ارزان‌تر مانند DeepSeek و Qwen، و دوم، معماری آگاه از نشست (Session-aware) که تا ۹۹.۵٪ نرخ کش به همراه دارد و هزینه‌های زیرساختی خودشان را به‌شدت کاهش می‌دهد.\n\nاز نقاط قوت اصلی پروژه می‌توان به راه‌اندازی بسیار ساده (One-prompt setup)، پشتیبانی از ابزارهای محبوب مانند Claude Code و رعایت استانداردهای امنیتی بالا (SOC ۲ Type II) اشاره کرد. با این حال، نقطه ضعف اصلی آن در ابهام پیرامون نحوه مدیریت محدودیت‌های روزانه/هفتگی (Limits) و ارزش‌افزوده ناچیز در پلن پایه (۱۲ دلار مصرف واقعی در ازای ۱۰ دلار پرداخت) است که برخی کاربران به آن اشاره کرده‌اند.\n\nنکته طلایی برای ایران: پیاده‌سازی این الگو با دریافت ورودی ریالی و ایجاد لایه کشینگ محلی (Prompt Caching) در داخل کشور، نه تنها مشکل پرداخت دلاری برنامه‌نویسان را حل می‌کند، بلکه با کاهش حجم داده‌های ارسالی به خارج از کشور، تاخیر (Latency) پاسخ‌دهی ایجنت‌ها را در شرایط اینترنت ایران به شکل چشمگیری بهبود می‌بخشد.",
+      "iranEquivalent": {
+        "productName": "کدپایه (CodePayeh)",
+        "description": "کدپایه یک زیرساخت واسط هوشمند برای برنامه‌نویسان ایرانی است که دسترسی به برترین مدل‌های متن‌باز کدنویسی را با پرداخت ریالی و قیمت ثابت فراهم می‌کند. این سرویس با لایه کشینگ پیشرفته و سرورهای پروکسی کم‌تاخیر، نیازی به خریدهای دلاری یا کلیدهای API متعدد را باقی نمی‌گذارد. توسعه‌دهندگان می‌توانند سرویس را تنها با یک دستور به IDEها و ایجنت‌های هوش مصنوعی خود مانند Cline یا Claude Code متصل کنند.",
+        "marketOpportunity": "با توجه به هزینه‌های سنگین دلاری APIها، نوسانات ارزی و استرس ناشی از محاسبه توکنی، برنامه‌نویسان و تیم‌های نرم‌افزاری ایرانی به شدت نیازمند یک مدل اشتراک ریالی ثابت هستند. همچنین چالش تحریم‌ها و کندی دسترسی به سرویس‌های خارجی، بستر مناسبی برای ارائه یک لایه واسط هوشمند و دارای کش در داخل کشور ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان فریلنسر، تیم‌های توسعه نرم‌افزار، استارتاپ‌ها و شرکت‌های فناوری محور در ایران",
+        "challenges": [
+          "تأمین زیرساخت سروری کم‌تاخیر و دور زدن موثر تحریم‌های APIهای خارجی",
+          "مدیریت ریسک نوسانات شدید قیمت ارز در مدل قیمت‌گذاری ثابت ریالی"
+        ],
+        "monetization": [
+          "فروش اشتراک‌های ریالی ماهانه با قیمت ثابت (مثلاً از ۴۹۰ هزار تومان در ماه)",
+          "ارائه پلن‌های تخصصی سازمانی با تخصیص سرور اختصاصی و نرخ کش بالا"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "PostgreSQL",
+          "Redis",
+          "vLLM / LiteLLM Proxy"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -67423,6 +67687,51 @@
       }
     },
     {
+      "id": "ph-yesterday-8",
+      "date": "2026-10-25",
+      "rank": 8,
+      "name": "MRRaudit",
+      "slug": "mrraudit",
+      "tagline": "Understand why your MRR differs and get a number you trust",
+      "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
+      "category": "Analytics • Payments • SaaS",
+      "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
+      "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
+        "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
+        "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 111,
+      "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "finally someone tackling the stripe vs chartmogul mrr mismatch 🙌 super usefull, is it free forever?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
+        }
+      ]
+    },
+    {
       "id": "ph-today-10",
       "date": "2026-09-23",
       "rank": 10,
@@ -67896,7 +68205,47 @@
           "user": "[REDACTED]",
           "text": "So keen for this"
         }
-      ]
+      ],
+      "faDescription": "کلینگ ۴.۰ یک مدل تولید ویدئوی هوش مصنوعی برای تولیدکنندگان محتوا، بازاریابان و استودیوهایی است که به دنبال کنترل دقیق روی خروجی هستند، نه آزمون و خطای تصادفی. برخلاف مولدهای مبتنی بر شانس، در این ابزار ابتدا داستان را تثبیت می‌کنید؛ امکان استفاده از ۱۰ فریم کلیدی، ۱۵ دارایی مرجع و پرامپت‌های ۸۰۰۰ توکنی، تولید کلیپ‌های ۳۰ ثانیه‌ای را در یک مرحله ممکن می‌سازد. این ابزار دارای قابلیت تولید صدای استریو و همگام‌سازی لب (Lip sync) به بیش از ۱۰ زبان مختلف است. همچنین ویژگی بازآفرینی خلاقانه (Creative Recreation) امکان تعویض محصولات یا شخصیت‌ها را در ویدیوهای موجود فراهم کرده و نسخه Flash پیش‌نویس‌های سریع‌تر و ارزان‌تری ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 بیشتر ابزارهای ویدئوی هوش مصنوعی هنوز مثل ماشین اسلات عمل می‌کنند؛ یک پرامپت می‌نویسید، دکمه تولید را می‌زنید و امیدوارید. کلینگ ۴.۰ مسیر دیگری را می‌رود و اجازه می‌دهد قبل از تولید، داستان را برنامه‌ریزی کنید. نکات برجسته: ویدئو تا ۳۰ ثانیه در یک مرحله، تا ۱۰ فریم کلیدی برای تثبیت جابه‌جایی صحنه‌ها، تا ۱۵ دارایی مرجع در هر تولید شامل استوری‌بوردها و نقشه‌های عمق، همگام‌سازی لب به ۱۰+ زبان همراه صدای استریو، بازآفرینی خلاقانه برای تعویض محصول یا شخصیت بدون بازتولید کل ویدئو، و دسترسی MCP و CLI برای اتصال به ایجنت‌ها. نسخه ۴.۰ Flash نیز برای تولید با سرعت بالا طراحی شده که سریع‌تر و ارزان‌تر بوده و تا کیفیت ۷۲۰p و ۲۰ ثانیه را پشتیبانی می‌کند؛ عالی برای پیش‌نویس‌ها و تست ایده‌ها. سناریوی مورد علاقه من بازآفرینی خلاقانه برای تبلیغات است که صرفه‌جویی زیادی در زمان بازاریابان خواهد داشت."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "همین الان یک پروژه ویدئویی بزرگ را تمام کردم، کاش این محصول ۱ یا ۲ هفته پیش معرفی شده بود!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "برای استفاده از این ابزار بسیار مشتاقم!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: اکثر مولدهای ویدئوی هوش مصنوعی غیرقابل پیش‌بینی هستند و متکی بر آزمون و خطا عمل می‌کنند. Kling ۴.۰ با ارائه کنترل دقیق از طریق فریم‌های کلیدی، دارایی‌های مرجع و پرامپت‌های طولانی، ساخت سناریوی مشخص را ممکن می‌سازد.\n\nمعماری و تکنولوژی: بهره‌گیری از مدل‌های پیشرفته انتشار ویدیو (Video Diffusion)، پشتیبانی از پروتکل MCP و CLI جهت یکپارچه‌سازی با ایجنت‌های هوش مصنوعی، و ارائه نسخه سبک Flash برای رندرینگ سریع.\n\nمدل درآمدی: مدل فری‌میوم همراه با اشتراک‌های اعتباری بر اساس زمان ویدیو و کیفیت رندر، و ارائه API پرداختی برای کسب‌وکارها.\n\nنقاط قوت: قابلیت کنترل بالای داستان، جایگزینی هوشمند محصولات در ویدیو (Creative Recreation)، همگام‌سازی لب زبانی و پشتیبانی از معماری ایجنت‌محور.\n\nنقاط ضعف: نیاز به توان پردازشی بسیار بالا و هزینه بالای سرورها، و منحنی یادگیری بالاتر نسبت به ابزارهای ساده پرامپت‌محور.\n\nنکته طلایی برای ایران: بومی‌سازی ویژگی 'Creative Recreation' برای فروشگاه‌های اینترنتی ایرانی جهت ساخت سریع تیزرهای تبلیغاتی محصولات دیجی‌کالا یا اینستاگرام با دوبله و همگام‌سازی لب فارسی، می‌تواند ارزش ارزش‌آفرینی فوق‌العاده‌ای ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "نماساز ای‌آی (NamaSaz AI)",
+        "description": "نماساز یک پلتفرم هوشمند تولید و ویرایش ویدیو برای آژانس‌های تبلیغاتی و تولیدکنندگان محتوای ایرانی است. این ابزار با دریافت فریم‌های کلیدی و سناریوی اولیه، ویدیوهای تبلیغاتی حرفه‌ای با صداگذاری و همگام‌سازی لب به زبان فارسی تولید می‌کند. با استفاده از قابلیت جایگزینی هوشمند محصول، کسب‌وکارها می‌توانند کمپین‌های تبلیغاتی متنوعی را با هزینه بسیار پایین اجرا کنند.",
+        "marketOpportunity": "با رشد روزافزون بازاریابی ویدیویی در اینستاگرام و آپارات، نیاز شدیدی به ابزارهای سریع و ارزان تولید تیزر تبلیغاتی در ایران وجود دارد. نبود ابزار بومی که از همگام‌سازی لب فارسی پشتیبانی کند، فرصت طلایی برای تصاحب بازار آژانس‌های دیجیتال مارکتینگ ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "آژانس‌های دیجیتال مارکتینگ، تولیدکنندگان محتوا در شبکه‌های اجتماعی، فروشگاه‌های اینترنتی و استودیوهای انیمیشن‌سازی",
+        "challenges": [
+          "هزینه بالای تامین زیرساخت‌های پردازشی GPU و محدودیت‌های تحریمی",
+          "پیچیدگی توسعه مدل‌های زبانی و صوتی بومی برای همگام‌سازی دقیق لب با زبان فارسی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه بر اساس دقیقه ویدیو تولیدشده (SaaS)",
+          "ارائه API اختصاصی به پلتفرم‌های ایجنت و ابزارهای خودکارسازی کسب‌وکار"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "PyTorch",
+          "FastAPI",
+          "Redis"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -68327,51 +68676,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-8",
-      "date": "2026-10-25",
-      "rank": 8,
-      "name": "MRRaudit",
-      "slug": "mrraudit",
-      "tagline": "Understand why your MRR differs and get a number you trust",
-      "description": "MRRaudit explains why your MRR numbers differ so you can get to a figure you trust. Compare Stripe and ChartMogul customer by customer, trace discrepancies to invoices and subscription events, and choose how billing events affect MRR. Built by the ChartMogul team, who've obsessed over SaaS metrics since 2014 and helped thousands of SaaS businesses investigate these differences by hand through calls and support tickets. Read-only access. No ChartMogul account required.",
-      "category": "Analytics • Payments • SaaS",
-      "categoryFa": "تحلیل داده • Payments • نرم‌افزار ابری",
-      "url": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7939087a-2479-462f-bddc-7725feec3b41.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/30717c4e-032d-435b-80bf-041530218401.jpeg?auto=format",
-        "https://ph-files.imgix.net/a36c114a-806b-4252-a212-e432d3761f15.png?auto=format",
-        "https://ph-files.imgix.net/806f5561-38a1-4759-9273-5443ed2e0706.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 109,
-      "websiteUrl": "https://www.producthunt.com/r/L62GHB4OGSZKLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "There are only so many times you can think “we should really build a tool for this” before you have to actually build it. For us, that was investigating why MRR numbers don’t match. We built MRRaudit to help our own team work through those questions, then realized there was no reason to keep it to ourselves. What’s the strangest thing you’ve uncovered while trying to make your revenue numbers match?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "finally someone tackling the stripe vs chartmogul mrr mismatch 🙌 super usefull, is it free forever?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "We're a small team on Stripe, and the thing that tripped us up was renewal invoices sitting as drafts for about an hour before the charge. It's easy to read those as failed payments. Does MRRaudit show drafts like that separately, or count them as normal renewals?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The customer-by-customer Stripe vs ChartMogul comparison traced back to invoices and subscription events is the part I would use most. Read-only access is a nice touch too."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "a customer by customer diff between Stripe and ChartMogul is the view everyone ends up rebuilding in a spreadhseet at month endhow do you treat a failed payment that gets recovered a few days later??? does that customer drop out of MRR in between, and can i choose that rule myself???"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -68938,6 +69242,54 @@
         {
           "user": "کاربر ProductHunt 3",
           "text": "سلام Product Hunt! 👋 من الکس، بنیان‌گذار و مدیرعامل Kubit هستم. وقتی یک ویژگی هوش مصنوعی شکست می‌خورد، ابزارهای مشاهده‌پذیری موجود به شما می‌گویند عامل چه کاری انجام داده و تحلیل‌های سنتی به شما می‌گویند آیا کاربر رفته است یا نه. هیچ‌کدام به شما نمی‌گویند چرا، زیرا با هم صحبت نمی‌کنند. شما مجبور می‌شوید بین تب‌ها جابه‌جا شوید و به صورت دستی لاگ‌های اجرای هوش مصنوعی را با جلسات کاربری فرانت‌اند تطبیق دهید تا بفهمید چه چیزی تجربه را خراب کرده است. ما این کلافگی را هنگام ساخت ویژگی‌های هوش مصنوعی خودمان از نزدیک تجربه کردیم. بنابراین Kubit را برای پل زدن دقیقاً روی این شکاف ساختیم: یک پلتفرم یکپارچه تحلیل محصول طراحی شده برای هر دو عامل و کاربر. با Kubit می‌توانید: ردیابی عامل را به رفتار کاربر متصل کنید: ردیابی‌های بک‌اند عامل را مستقیماً به اقدامات کاربر پیوند بزنید تا ببینید چرا کاربران دوباره پرامپت می‌دهند، یک جریان را رها می‌کنند یا تبدیل می‌شوند. عملکرد عامل را به نتایج کاربری مرتبط کنید: تأخیر P۹۵، مصرف توکن و هزینه‌های مدل را مستقیماً با شاخص‌های کلیدی مانند DAU، حفظ کاربر و LTV همبسته کنید. قیف‌های کاربر-عامل را ردیابی کنید: مرحله دقیق جایی که توهم عامل یا فراخوانی ابزار ناموفق یک قیف تبدیل را مختل می‌کند را شناسایی کنید. سفرهای کاربری هوش مصنوعی را نقشه‌برداری کنید: پرامپت‌های مجدد، کلیک‌های خشمگین، نیت کاربر و احساسات را ردیابی کنید تا بن‌بست‌های پنهان UX را کشف کنید که APMهای استاندارد آن‌ها را از دست می‌دهند. کوهورت‌های ریزبینانه بین‌دومانی بسازید: کاربران را با استفاده از شرایط پیچیده‌ای که هم تعاملات بک‌اند عامل و هم رفتار کاربری فرانت‌اند را ترکیب می‌کنند، بخش‌بندی کنید. بدون سر برای عامل‌های کدنویسی: از MCP و مهارت‌های سفارشی برای تحلیل‌های بدون سر طراحی شده برای ابزارهای هوش مصنوعی توسعه‌دهنده‌محور استفاده کنید. یکپارچه‌سازی آسان و معماری داده انعطاف‌پذیر راه‌اندازی سریع: Kubit را مستقیماً به زیرساخت OpenTelemetry (OTel) موجود یا CDP خود در چند دقیقه متصل کنید. بدون کپی / BYOW: ترجیح می‌دهید داده‌ها را در استک خودتان نگه دارید؟ معماری Bring Your Own Warehouse (BYOW) ما اطمینان می‌دهد که امنیت، انطباق و کنترل در بالاترین سطح باشد. ما Kubit را برای کمک به مهندسان محصول و هوش مصنوعی برای بهینه‌سازی عملکرد عامل در کنار رفتار کاربر برای ایجاد محصولات هوش مصنوعی که واقعاً ماندگار باشند، ساختیم. امروز رایگان آن را امتحان کنید در kubit.ai. بازخورد شما را دوست داریم! شما در حال حاضر چگونه با مشاهده‌پذیری عامل و تحلیل‌های کاربری مقابله می‌کنید؟ افکار، سؤالات یا درخواست‌های ویژگی خود را در بخش نظرات بنویسید، به تبدیل بپیوندید، یا مستقیماً با alex@kubit.ai تماس بگیرید. ساختن شاد! 🚀"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-8",
+      "date": "2026-10-26",
+      "rank": 8,
+      "name": "WhoIsCooking",
+      "slug": "whoiscooking",
+      "tagline": "See which AI agent is heating your Mac and cool it down.",
+      "description": "A Mac app that shows chip temperature and which AI agent (Claude Code, Codex, Cursor) is heating your Apple Silicon Mac. One click moves busy work to the efficiency cores, so everything keeps running, cooler. $5 one time.",
+      "category": "Developer Tools • Menu Bar Apps • Apple",
+      "categoryFa": "ابزار توسعه‌دهندگان • Menu Bar Apps • Apple",
+      "url": "https://www.producthunt.com/products/whoiscooking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/571cca35-8db2-4467-a076-1b1b0d3c98e2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/de597106-63be-437e-ad19-496efa9b3cc5.png?auto=format",
+        "https://ph-files.imgix.net/9726ebd9-b7ac-4f76-9050-1a3377ac3181.jpeg?auto=format",
+        "https://ph-files.imgix.net/93d1a3cf-637d-4735-b312-d6ce96194cd9.jpeg?auto=format",
+        "https://ph-files.imgix.net/72a2010c-e10f-4a46-a316-02937d38673d.jpeg?auto=format",
+        "https://ph-files.imgix.net/8364cd77-9669-4f0c-ac67-3654fa577e9f.jpeg?auto=format",
+        "https://ph-files.imgix.net/c10a740d-b86a-4aa5-a409-27c4cd2dc094.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-26T07:01:00Z",
+      "votes": 108,
+      "websiteUrl": "https://www.producthunt.com/r/6NKDSDYTNP22PA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Andrew, the maker.I run Claude Code and Codex on a MacBook and it kept getting hot, with no way to tell which agent was responsible. Activity Monitor shows dozens of node and compiler processes and no temperature at all.WhoIsCooking shows the chip temperature in your notch or menu bar, groups each agent session with everything it started into one row, and has a \"Cool down my Mac\" button that moves busy work to the efficiency cores. Nothing is killed or frozen. On my M5, 4 processes flat out went from about 83°C at full speed to about 48°C cooled. The work just runs a bit slower.Honest limits: it can't cool GPU work or Apple's own processes, and it needs Apple Silicon (M1 to M5) on macOS 14+.It's $5 one time, signed and notarized, no account. I'd love feedback on what else it should show per agent."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Grouping child processes by agent session solves the part Activity Monitor misses. I'd add a short thermal timeline beside each session and mark what was running—build, tests, dev server, verifier—when the spike happened. That would separate a healthy long compile from a runaway loop and make \"cool down\" a decision instead of a blind throttle."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Grouping everything under one row per agent is the part that makes this usable. Activity Monitor showing dozens of node and compiler processes tells you the Mac is hot, but it never answers which agent session is responsible, or which of its builds, tests, and dev servers belong together. Moving busy work to the efficiency cores instead of killing or freezing it also seems like the right trade-off: the work keeps running, just slower, which is what you want when a long agent run is in progress. Stating the limits up front — no cooling for GPU work or Apple's own processes, and Apple Silicon only — makes the $5 one-time scope much clearer."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I wonder if you can check the temperature history and see which agent puts the most strain on your Mac throughout the day?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This makes me happy. I was literally thinking about this yesterday as the fans were blasting on my Macbook.One row per agent, with its builds, tests and dev servers grouped under it, beats staring at 80 processes."
         }
       ]
     },
@@ -69823,50 +70175,61 @@
       }
     },
     {
-      "id": "ph-today-8",
+      "id": "ph-today-9",
       "date": "2026-10-26",
-      "rank": 8,
-      "name": "WhoIsCooking",
-      "slug": "whoiscooking",
-      "tagline": "See which AI agent is heating your Mac and cool it down.",
-      "description": "A Mac app that shows chip temperature and which AI agent (Claude Code, Codex, Cursor) is heating your Apple Silicon Mac. One click moves busy work to the efficiency cores, so everything keeps running, cooler. $5 one time.",
-      "category": "Developer Tools • Menu Bar Apps • Apple",
-      "categoryFa": "ابزار توسعه‌دهندگان • Menu Bar Apps • Apple",
-      "url": "https://www.producthunt.com/products/whoiscooking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/571cca35-8db2-4467-a076-1b1b0d3c98e2.png?auto=format",
+      "rank": 9,
+      "name": "Kiwi",
+      "slug": "kiwi-a8f6558b-2889-41dd-b68d-dd02b67b42a9",
+      "tagline": "A proactive AI assistant that texts you before you ask",
+      "description": "Kiwi is your proactive assistant. It keeps track of what's coming up, your trips, plans, bills and the people in them, and texts you at the right moment. When something needs doing, it does it on any app or website when you say yes. Your Saturday is free: want a plan with the kids? Your flight is delayed: want a car for when you land? Your parcel needs a signature while you're at work: move it to Saturday? It all happens in iMessage or WhatsApp. Free during the pilot.",
+      "category": "Productivity • Travel • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • سفر • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/kiwi-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/29510d41-700e-429e-bfdf-3d6161dce7c0.png?auto=format",
       "screenshots": [
-        "https://ph-files.imgix.net/de597106-63be-437e-ad19-496efa9b3cc5.png?auto=format",
-        "https://ph-files.imgix.net/9726ebd9-b7ac-4f76-9050-1a3377ac3181.jpeg?auto=format",
-        "https://ph-files.imgix.net/93d1a3cf-637d-4735-b312-d6ce96194cd9.jpeg?auto=format",
-        "https://ph-files.imgix.net/72a2010c-e10f-4a46-a316-02937d38673d.jpeg?auto=format",
-        "https://ph-files.imgix.net/8364cd77-9669-4f0c-ac67-3654fa577e9f.jpeg?auto=format",
-        "https://ph-files.imgix.net/c10a740d-b86a-4aa5-a409-27c4cd2dc094.jpeg?auto=format"
+        "https://ph-files.imgix.net/0a484c68-1dfa-4513-97ec-d0b2c58be6b6.jpeg?auto=format",
+        "https://ph-files.imgix.net/a6d22233-7d06-4898-9ce3-572d710ad54a.jpeg?auto=format",
+        "https://ph-files.imgix.net/a5537466-7044-40da-8cf8-84a015247532.jpeg?auto=format",
+        "https://ph-files.imgix.net/71a71f16-2a4a-48ee-9d61-d0315aba36be.jpeg?auto=format",
+        "https://ph-files.imgix.net/d452307e-f3f9-4d56-a0ae-ab1e4d9d5c6f.jpeg?auto=format"
       ],
-      "maker": "",
-      "makerTitle": "",
+      "maker": "Aneesh Modi",
+      "makerTitle": "Founder",
       "featuredAt": "2026-10-26T07:01:00Z",
       "votes": 106,
-      "websiteUrl": "https://www.producthunt.com/r/6NKDSDYTNP22PA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "websiteUrl": "https://www.producthunt.com/r/OUMTTWMMRX6ZMC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
           "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Andrew, the maker.I run Claude Code and Codex on a MacBook and it kept getting hot, with no way to tell which agent was responsible. Activity Monitor shows dozens of node and compiler processes and no temperature at all.WhoIsCooking shows the chip temperature in your notch or menu bar, groups each agent session with everything it started into one row, and has a \"Cool down my Mac\" button that moves busy work to the efficiency cores. Nothing is killed or frozen. On my M5, 4 processes flat out went from about 83°C at full speed to about 48°C cooled. The work just runs a bit slower.Honest limits: it can't cool GPU work or Apple's own processes, and it needs Apple Silicon (M1 to M5) on macOS 14+.It's $5 one time, signed and notarized, no account. I'd love feedback on what else it should show per agent."
+          "text": "Hi Product Hunt, I'm Aneesh, and I built Kiwi.Most of us spend more time on our phones than we'd like. It isn't that we want to give up our digital lives: the flights, the bills, the replies and the plans all matter. But each one pulls us back to the screen, again and again.Most assistants wait for you to ask. Kiwi texts you first, when something needs doing:• \"Your Saturday afternoon is free. Want me to plan something with the kids?\" You say yes, pick a plan, and it books the tickets, lunch and the taxi• \"Your flight tonight is delayed an hour, so you'll land at about 1:20. Want me to book a taxi from arrivals?\" One yes, and it's waiting when you land• \"Your parcel needs a signature tomorrow and you're at the office until 6. Want me to move it to Saturday?\" Say yes, and it's moved• Before your day starts, a short brief of what's coming, with an offer when something's worth doingSaying yes is the whole job. Kiwi does the checking, the apps and the websites, and it only tells you something is booked once the company confirms it.That's the point: your phone is meant to be used for the things that really need you looking at it, and Kiwi is meant to handle the rest. You hear from it when it matters, and it stays quiet when nothing does. It learns what you like as it goes, so its suggestions get better.That's also why we're building the Kiwi Band, a band for your wrist with no screen. This takes your screen-time reduction goal to the next level. It buzzes when Kiwi needs you, and you answer with a tap or your voice, so your phone can stay in your pocket.It's free during the pilot.It always shows the price before booking, never types your card number, and never shows your passwords to an AI. It isn't perfect yet: some sites ask you to prove you're human. Tell me where it breaks."
         },
         {
           "user": "[REDACTED]",
-          "text": "Grouping child processes by agent session solves the part Activity Monitor misses. I'd add a short thermal timeline beside each session and mark what was running—build, tests, dev server, verifier—when the spike happened. That would separate a healthy long compile from a runaway loop and make \"cool down\" a decision instead of a blind throttle."
+          "text": "The delayed-flight example is what sold me on this approach. Getting a text that my flight is delayed an hour, with an offer to book a taxi for when I actually land, is exactly the kind of trip detail I usually have to chase myself. I also like that Kiwi shows the price before booking and only says something is booked once it is confirmed."
         },
         {
           "user": "[REDACTED]",
-          "text": "Grouping everything under one row per agent is the part that makes this usable. Activity Monitor showing dozens of node and compiler processes tells you the Mac is hot, but it never answers which agent session is responsible, or which of its builds, tests, and dev servers belong together. Moving busy work to the efficiency cores instead of killing or freezing it also seems like the right trade-off: the work keeps running, just slower, which is what you want when a long agent run is in progress. Stating the limits up front — no cooling for GPU work or Apple's own processes, and Apple Silicon only — makes the $5 one-time scope much clearer."
+          "text": "Does Kiwi read my text messages as well? Can I connect it to any of my SmartHome devices?"
         },
         {
           "user": "[REDACTED]",
-          "text": "I wonder if you can check the temperature history and see which agent puts the most strain on your Mac throughout the day?"
+          "text": "thanks for the answer! one nice to have might be a quiet hours setting so a free saturday idea never lands during a sleep in. can you set that kind of thing by texting it?"
         },
         {
           "user": "[REDACTED]",
-          "text": "This makes me happy. I was literally thinking about this yesterday as the fans were blasting on my Macbook.One row per agent, with its builds, tests and dev servers grouped under it, beats staring at 80 processes."
+          "text": "If I dismiss a suggestion, can I tell Kiwi to stop suggesting that type of thing without turning off the important alerts?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does it work better for personal tasks or it can help with work related tasks as well?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the distinction between asking to book and saying it is booked. Waiting for the actual confirmation matters when somebody is planning around the result."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "texting you before you ask is a neat angle. how does it decide what's worth a text, does a delayed flight always ping but a free saturday only sometimes?"
         }
       ]
     },
@@ -71069,61 +71432,63 @@
       ]
     },
     {
-      "id": "ph-today-9",
+      "id": "ph-today-10",
       "date": "2026-10-26",
-      "rank": 9,
-      "name": "Kiwi",
-      "slug": "kiwi-a8f6558b-2889-41dd-b68d-dd02b67b42a9",
-      "tagline": "A proactive AI assistant that texts you before you ask",
-      "description": "Kiwi is your proactive assistant. It keeps track of what's coming up, your trips, plans, bills and the people in them, and texts you at the right moment. When something needs doing, it does it on any app or website when you say yes. Your Saturday is free: want a plan with the kids? Your flight is delayed: want a car for when you land? Your parcel needs a signature while you're at work: move it to Saturday? It all happens in iMessage or WhatsApp. Free during the pilot.",
-      "category": "Productivity • Travel • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • سفر • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/kiwi-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/29510d41-700e-429e-bfdf-3d6161dce7c0.png?auto=format",
+      "rank": 10,
+      "name": "Flipcorder",
+      "slug": "flipcorder",
+      "tagline": "A 1991 camcorder for your iPhone, one tape a day",
+      "description": "Currently #3 in Top Paid Photo & Video on the US App Store 🎉 Flipcorder turns your iPhone into a 1991 camcorder. We have lost touch crafting perfect videos for social media, and Flipcorder encourages you to take shorter \"flips\" of 20 seconds each throughout your day to enjoy as a home video at the end of the day. No editing, just shoot and enjoy in VHS or DV style. Made for iPhone Duo, works on any iPhone. $4.99 once. No ads, no subscription, no watermark, no account.",
+      "category": "iOS • Apple • Photo & Video",
+      "categoryFa": "آی‌او‌اس • Apple • Photo & Video",
+      "url": "https://www.producthunt.com/products/flipcorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/84df58ef-162f-4367-b73e-3677c6fd8597.png?auto=format",
       "screenshots": [
-        "https://ph-files.imgix.net/0a484c68-1dfa-4513-97ec-d0b2c58be6b6.jpeg?auto=format",
-        "https://ph-files.imgix.net/a6d22233-7d06-4898-9ce3-572d710ad54a.jpeg?auto=format",
-        "https://ph-files.imgix.net/a5537466-7044-40da-8cf8-84a015247532.jpeg?auto=format",
-        "https://ph-files.imgix.net/71a71f16-2a4a-48ee-9d61-d0315aba36be.jpeg?auto=format",
-        "https://ph-files.imgix.net/d452307e-f3f9-4d56-a0ae-ab1e4d9d5c6f.jpeg?auto=format"
+        "https://ph-files.imgix.net/8bccb409-934f-4b6e-9c30-d4bace027128.jpeg?auto=format",
+        "https://ph-files.imgix.net/79f4068b-41dc-4ca8-acbe-b820a18486b3.jpeg?auto=format",
+        "https://ph-files.imgix.net/c360c273-5ba3-4b50-9a12-8329e4d13ca3.jpeg?auto=format",
+        "https://ph-files.imgix.net/2b75fe27-387d-4714-9943-73a4b0e15963.jpeg?auto=format",
+        "https://ph-files.imgix.net/448c231c-b2ee-41b5-85f1-791b84671974.jpeg?auto=format",
+        "https://ph-files.imgix.net/2ad98186-a642-4d0a-bc5b-e4bf8023ab42.jpeg?auto=format",
+        "https://ph-files.imgix.net/499f458d-fbd9-4a6f-bf3b-def1917ae77a.jpeg?auto=format"
       ],
-      "maker": "Aneesh Modi",
-      "makerTitle": "Founder",
+      "maker": "Matt Brewer",
+      "makerTitle": "Indie Apple Developer - Flipcorder",
       "featuredAt": "2026-10-26T07:01:00Z",
       "votes": 104,
-      "websiteUrl": "https://www.producthunt.com/r/OUMTTWMMRX6ZMC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "websiteUrl": "https://www.producthunt.com/r/5D3YQB6LWNMKJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
           "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Aneesh, and I built Kiwi.Most of us spend more time on our phones than we'd like. It isn't that we want to give up our digital lives: the flights, the bills, the replies and the plans all matter. But each one pulls us back to the screen, again and again.Most assistants wait for you to ask. Kiwi texts you first, when something needs doing:• \"Your Saturday afternoon is free. Want me to plan something with the kids?\" You say yes, pick a plan, and it books the tickets, lunch and the taxi• \"Your flight tonight is delayed an hour, so you'll land at about 1:20. Want me to book a taxi from arrivals?\" One yes, and it's waiting when you land• \"Your parcel needs a signature tomorrow and you're at the office until 6. Want me to move it to Saturday?\" Say yes, and it's moved• Before your day starts, a short brief of what's coming, with an offer when something's worth doingSaying yes is the whole job. Kiwi does the checking, the apps and the websites, and it only tells you something is booked once the company confirms it.That's the point: your phone is meant to be used for the things that really need you looking at it, and Kiwi is meant to handle the rest. You hear from it when it matters, and it stays quiet when nothing does. It learns what you like as it goes, so its suggestions get better.That's also why we're building the Kiwi Band, a band for your wrist with no screen. This takes your screen-time reduction goal to the next level. It buzzes when Kiwi needs you, and you answer with a tap or your voice, so your phone can stay in your pocket.It's free during the pilot.It always shows the price before booking, never types your card number, and never shows your passwords to an AI. It isn't perfect yet: some sites ask you to prove you're human. Tell me where it breaks."
+          "text": "Hi Product Hunt! I’m Matt, and Flipcorder is the first app I’ve put on the App Store under my own name in about a decade. I’ve spent those years building apps and software for other people, so launching one of my own has me really excited. Like stupid excited!It’s been a wild first weekend: it’s currently #3 in Top Paid, Photo & Video on the US App Store and I'm so humbled and amazed!Flipcorder is a 1991 camcorder for your iPhone. You film little moments through the day, each one a “flip” (20 seconds by default), and they all land on that day’s dated tape. There’s no editing, so the chatter, the pauses and the fumble for the stop button stay in. Tonight, you play back one raw home movie in a warm VHS or crisp MiniDV look, date stamp and all.I really wanted a way to capture those moments and keep authentic video alive - I feel we have lost so much chasing perfection for social media, that the messiness of a camcorder is appealing and comforting. Home movies can be for anyone, and Flipcorder is for those people.I built it around iPhone Duo, which came out on Friday. The fold is the power switch: closed, the outer screen shows a lens cap; open it and the cap comes off. Fully open, the person you’re filming sees themselves on the outer screen with a red REC light. It works on every iPhone with iOS 26 or later too, with a big glowing POWER key instead.A few things I cared about:• $4.99 once. No subscription, no ads, no watermarks, no account needed.• Your tapes stay on your phone unless you share them.• Never lose footage: closing the phone, a call or low storage always saves the flip.Today launches v1.1.0 that includes earning stickers, subtle streaks for your home screen widgets, some in app events (like Halloween coming up) and more. I have a lot planned for Flipcorder!I’d love to hear what you’d film first, and anything you’d change. I’ll be here all day answering questions."
         },
         {
           "user": "[REDACTED]",
-          "text": "The delayed-flight example is what sold me on this approach. Getting a text that my flight is delayed an hour, with an offer to book a taxi for when I actually land, is exactly the kind of trip detail I usually have to chase myself. I also like that Kiwi shows the price before booking and only says something is booked once it is confirmed."
+          "text": "A little thank-you for stopping by: here are 5 free codes for the full app, one each, no strings. If you grab one, reply with which code you took so the next person doesn't try it.PRTHPJXJFKMH9EKYYFR43JER4MN7ALM6L6JL4PFPXRNX6937FKT7JRM6WTERRedeem in the App Store app (your account picture → Redeem Gift Card or Code), or at https://apps.apple.com/redeemI'd love to see what ends up on your first tape. 📼"
         },
         {
           "user": "[REDACTED]",
-          "text": "Does Kiwi read my text messages as well? Can I connect it to any of my SmartHome devices?"
+          "text": "wicked! will you release it for Android as well?"
         },
         {
           "user": "[REDACTED]",
-          "text": "thanks for the answer! one nice to have might be a quiet hours setting so a free saturday idea never lands during a sleep in. can you set that kind of thing by texting it?"
+          "text": "Love the one tape a day constraint, a refreshing push toward short, intentional moments instead of endless perfect takes."
         },
         {
           "user": "[REDACTED]",
-          "text": "If I dismiss a suggestion, can I tell Kiwi to stop suggesting that type of thing without turning off the important alerts?"
+          "text": "I love Starfe photos and videos. Thank you for this opportunity \"1991\"!"
         },
         {
           "user": "[REDACTED]",
-          "text": "does it work better for personal tasks or it can help with work related tasks as well?"
+          "text": "Is the 20 second limit per flip fixed, or can it be changed? Also, does the end-of-day compilation let you reorder or drop a clip before it plays?"
         },
         {
           "user": "[REDACTED]",
-          "text": "I like the distinction between asking to book and saying it is booked. Waiting for the actual confirmation matters when somebody is planning around the result."
+          "text": "Is the VHS look baked into the file, or can I export the clean footage too?"
         },
         {
           "user": "[REDACTED]",
-          "text": "texting you before you ask is a neat angle. how does it decide what's worth a text, does a delayed flight always ping but a free saturday only sometimes?"
+          "text": "one dated tape for the whole day is a nice constraintleaving the awkward pauses in gives it more of a home movie feel than another polished highlight reel"
         }
       ]
     },
@@ -71226,7 +71591,55 @@
           "user": "[REDACTED]",
           "text": "Don't we lose that mini dopamine effect when we are able to tick off the item from the list? Like proof of accomplishment. :D Just kidding, wishing a successful launch! :)"
         }
-      ]
+      ],
+      "faDescription": "ابزار Todo.is یک ایجنت هوش مصنوعی همیشه فعال است که کارهای عملیاتی شما را تحویل می‌گیرد و انجام می‌دهد. کافی است دستوراتی نظیر «پیدا کردن پرواز ارزان‌تر به لیسبون» یا «تبدیل این فایل PDF به Word» را وارد کنید تا تمام مراحل تحقیق، ساخت فایل و تعامل با وب‌سایت‌ها را ایجنت انجام دهد. این سرویس گزارش نهایی را از طریق وب، اپلیکیشن اندروید، واتساپ یا تلگرام به شما تحویل می‌دهد. این دستیار به صورت ۲۴ ساعته در محیط امن اختصاصی (سندباکس) اجرا می‌شود، تنظیمات و اولویت‌های شما را به خاطر می‌سپارد، گزارش‌های روزانه و هشدار تغییر قیمت ارائه می‌دهد و پیش از هرگونه اقدام حساس مانند پرداخت، ارسال یا حذف اطلاعات، تایید شما را دریافت می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 من عزاکی اب، سازنده todo.is هستم. من مدام یک شکاف تکراری می‌دیدم: چت هوش مصنوعی در پاسخ دادن عالی است، اما فهرست کارهای من کوتاه تر نمی‌شد. هنوز مجبور بودم خودم پرواز پیدا کنم، فایل PDF را درست کنم، پیگیر فاکتور باشم و هر روز صبح قیمت‌ها را بررسی کنم. بنابراین todo.is کارهای لیست شما را واقعاً انجام می‌دهد: ✅ مانند یک لیست کار بنویسید: '۳ رستوران ایتالیایی در لیسبون برای جمعه پیدا کن'، 'این صورتحساب بانکی PDF را به اکسل تبدیل کن'، 'هر روز کاری ساعت ۸، خلاصه اخبار را در واتساپ بفرست' 🧠 ایجنت اختصاصی شما کار را انجام می‌دهد: تحقیقات وب با منابع، ساخت فایل‌های واقعی (Word, Excel, PDF, PowerPoint)، تصویر، ویدیو کوتاه و یادداشت صوتی 💬 هر کجا که باشید همراه شماست: وب، اپلیکیشن اندروید، واتساپ، تلگرام، اسلک، دیسکورد، ایمیل 🌐 می‌تواند از وب‌سایت‌ها استفاده کند: در مرورگر ابری یا مرورگر کروم خودتان با افزونه Connector (پنجره اختصاصی که هر سایت جدید را تایید می‌کنید) ⏰ روی برنامه زمان‌بندی کار می‌کند: خلاصه‌های روزانه، افت قیمت، هشدارهای شغلی، یادآوری‌ها 🛡️ قبل از پرداخت، ارسال یا حذف هر چیزی اجازه می‌گیرد و هر ایجنت در سندباکس خود کار می‌کند 🧩 بیش از ۴۵۰ مدل هوش مصنوعی در اعتبارات اولیه موجود است، یا می‌توانید کلید API خود را بیاورید. برای شروع سریع بیش از ۱۰۰۰ پرامپت آماده در todo.is/prompts وجود دارد (رزومه‌ساز، تبدیل PDF به Word، حذف پس‌زمینه، برنامه‌ریزی سفر، لیست لیدها...). قیمت برای ۲۴ ساعت اول ۱ دلار است تا بتوانید لیست کارهای واقعی خود را تست کنید. مشتاقانه منتظر بازخورد صادقانه شما هستم: اولین کاری که به آن می‌سپارید چیست و دوست دارید در ادامه چه چیزی یاد بگیرد؟ من تمام روز اینجا هستم تا به تمام نظرات پاسخ دهم. 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "برای کارهای زمان‌بندی‌شده، می‌خواهم تاییدیه دقیقاً گیرنده و اقدام مربوطه را در همان لحظه اجرا نشان دهد؛ تاییدیه هفته گذشته نباید چراغ‌خاموش شامل یک ایمیل یا رزرو متفاوت در امروز شود."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این بخش که قبل از پرداخت، ارسال یا حذف اقدام اجازه می‌گیرد حرکت خیلی خوبی است. آیا این درخواست تایید درون چت نمایش داده می‌شود یا به صورت پوش‌نوتیفیکیشن روی اندروید می‌آید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "اینکه همه چیز در یک جا و با چنین فرمت ساده‌ای قرار گرفته، بسیار کاربردی و راحت است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا با انجام نشدن دستی کارها، آن حس دوپامین کوچک ناشی از خط زدن موارد از لیست را از دست نمی‌دهیم؟ مثل مدرکی برای حس موفقیت. :D شوخی کردم، با آرزوی موفقیت در عرضه محصول! :)"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبزرگ‌ترین مشکل چت‌بات‌های فعلی هوش مصنوعی این است که فقط پاسخ تولید می‌کنند، اما کار واقعی را انجام نمی‌دهند. ToDo.is با تغییر پارادایم از «چت» به «اجرا (Action)»، فیلد کارهای روزمره (To-Do) را به دستورات اجرایی برای ایجنت‌های هوشمند تبدیل می‌کند.\n\n### معماری و تکنولوژی\nمعماری محصول مبتنی بر ایجنت‌های مستقل در محیط‌های ایزوله (Sandbox) است. استفاده از مرورگر ابری (Headless Browser) و امکان اتصال به کروم کاربر از طریق افزونه، به همراه پشتیبانی از بیش از ۴۵۰ مدل هوش مصنوعی، انعطاف‌پذیری فوق‌العاده‌ای به سیستم داده است.\n\n### مدل درآمدی\nتست ۲۴ ساعته با قیمت ۱ دلار برای جذب لید اولیه و کاهش اصطکاک ورود بسیار جذاب است. مدل درآمدی اصلی مبتنی بر اشتراک ماهانه همراه با اعتبارات استفاده از مدل‌ها یا مدل Bring Your Own Key (BYOK) است.\n\n### نقاط قوت\n۱. حضور در تمام کانال‌های ارتباطی (واتساپ، تلگرام، وب، اپلیکیشن).\n۲. سیستم تایید انسان در مدار (Human-in-the-loop) برای کارهای حساس.\n۳. کتابخانه گسترده پرامپت‌های آماده برای آنبوردینگ سریع کاربر.\n\n### نقاط ضعف\n۱. ریسک‌های امنیتی ناشی از دسترسی مرورگر ابری به داده‌های حساس کاربر.\n۲. چالش اعتماد در کارهای زمان‌بندی‌شده بدون نظارت لحظه‌ای.\n\n### نکته طلایی برای ایران\nدر بازار ایران، چالش اصلی عدم وجود API برای وب‌سایت‌های خدماتی و بانکی است. یک نمونه بومی موفق باید بر اتوماسیون مرورگر (RPA مبتنی بر AI) تمرکز کند تا بتواند فرم‌های اداری، استعلام‌های دولتی و خرید بلیط را بدون نیاز به API رسمی انجام دهد و خروجی را در تلگرام یا بله به کاربر تحویل دهد.",
+      "iranEquivalent": {
+        "productName": "انجامش بده (DoIt AI)",
+        "description": "دستیار هوشمند اجرایی که کارهای دیجیتال روزمره مانند استعلام‌ها، ساخت گزارش و تبدیل فایل‌ها را انجام می‌دهد. این سرویس به پیام‌رسان‌های رایج مانند تلگرام و بله متصل شده و گزارش کارها را ارسال می‌کند. تمام اقدامات حساس مالی و اجرایی نیازمند تایید مستقیم کاربر از طریق پیام‌رسان است.",
+        "marketOpportunity": "نیاز شدید فریلنسرها، مدیران و کارمندان ایرانی به اتوماسیون فرآیندهای تکراری دیجیتال، بازار بزرگی را شکل داده است. نبود یک ابزار ایجنتی جامع که فراتر از چت‌بات عمل کند، فرصت طلایی برای تصاحب این بازار ایجاد می‌کند.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران اجرایی، فریلنسرها، دیجیتال مارکترها و پژوهشگرانی که روزانه کارهای تکراری زیادی انجام می‌دهند.",
+        "challenges": [
+          "محدودیت دسترسی مستقیم به API مدل‌های بین‌المللی و هزینه‌های ارزی زیرساخت",
+          "عدم وجود APIهای استاندارد و باز در اکثر سامانه‌ها و وب‌سایت‌های ایرانی برای اتوماسیون وب"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه مبتنی بر تعداد ایجنت فعال و میزان توکن مصرفی",
+          "ارائه پلن‌های سازمانی برای اتوماسیون فرآیندهای درون‌سازمانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "Playwright"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -71382,67 +71795,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-10-26",
-      "rank": 10,
-      "name": "Flipcorder",
-      "slug": "flipcorder",
-      "tagline": "A 1991 camcorder for your iPhone, one tape a day",
-      "description": "Currently #3 in Top Paid Photo & Video on the US App Store 🎉 Flipcorder turns your iPhone into a 1991 camcorder. We have lost touch crafting perfect videos for social media, and Flipcorder encourages you to take shorter \"flips\" of 20 seconds each throughout your day to enjoy as a home video at the end of the day. No editing, just shoot and enjoy in VHS or DV style. Made for iPhone Duo, works on any iPhone. $4.99 once. No ads, no subscription, no watermark, no account.",
-      "category": "iOS • Apple • Photo & Video",
-      "categoryFa": "آی‌او‌اس • Apple • Photo & Video",
-      "url": "https://www.producthunt.com/products/flipcorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/84df58ef-162f-4367-b73e-3677c6fd8597.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/8bccb409-934f-4b6e-9c30-d4bace027128.jpeg?auto=format",
-        "https://ph-files.imgix.net/79f4068b-41dc-4ca8-acbe-b820a18486b3.jpeg?auto=format",
-        "https://ph-files.imgix.net/c360c273-5ba3-4b50-9a12-8329e4d13ca3.jpeg?auto=format",
-        "https://ph-files.imgix.net/2b75fe27-387d-4714-9943-73a4b0e15963.jpeg?auto=format",
-        "https://ph-files.imgix.net/448c231c-b2ee-41b5-85f1-791b84671974.jpeg?auto=format",
-        "https://ph-files.imgix.net/2ad98186-a642-4d0a-bc5b-e4bf8023ab42.jpeg?auto=format",
-        "https://ph-files.imgix.net/499f458d-fbd9-4a6f-bf3b-def1917ae77a.jpeg?auto=format"
-      ],
-      "maker": "Matt Brewer",
-      "makerTitle": "Indie Apple Developer - Flipcorder",
-      "featuredAt": "2026-10-26T07:01:00Z",
-      "votes": 103,
-      "websiteUrl": "https://www.producthunt.com/r/5D3YQB6LWNMKJJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! I’m Matt, and Flipcorder is the first app I’ve put on the App Store under my own name in about a decade. I’ve spent those years building apps and software for other people, so launching one of my own has me really excited. Like stupid excited!It’s been a wild first weekend: it’s currently #3 in Top Paid, Photo & Video on the US App Store and I'm so humbled and amazed!Flipcorder is a 1991 camcorder for your iPhone. You film little moments through the day, each one a “flip” (20 seconds by default), and they all land on that day’s dated tape. There’s no editing, so the chatter, the pauses and the fumble for the stop button stay in. Tonight, you play back one raw home movie in a warm VHS or crisp MiniDV look, date stamp and all.I really wanted a way to capture those moments and keep authentic video alive - I feel we have lost so much chasing perfection for social media, that the messiness of a camcorder is appealing and comforting. Home movies can be for anyone, and Flipcorder is for those people.I built it around iPhone Duo, which came out on Friday. The fold is the power switch: closed, the outer screen shows a lens cap; open it and the cap comes off. Fully open, the person you’re filming sees themselves on the outer screen with a red REC light. It works on every iPhone with iOS 26 or later too, with a big glowing POWER key instead.A few things I cared about:• $4.99 once. No subscription, no ads, no watermarks, no account needed.• Your tapes stay on your phone unless you share them.• Never lose footage: closing the phone, a call or low storage always saves the flip.Today launches v1.1.0 that includes earning stickers, subtle streaks for your home screen widgets, some in app events (like Halloween coming up) and more. I have a lot planned for Flipcorder!I’d love to hear what you’d film first, and anything you’d change. I’ll be here all day answering questions."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A little thank-you for stopping by: here are 5 free codes for the full app, one each, no strings. If you grab one, reply with which code you took so the next person doesn't try it.PRTHPJXJFKMH9EKYYFR43JER4MN7ALM6L6JL4PFPXRNX6937FKT7JRM6WTERRedeem in the App Store app (your account picture → Redeem Gift Card or Code), or at https://apps.apple.com/redeemI'd love to see what ends up on your first tape. 📼"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "wicked! will you release it for Android as well?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the one tape a day constraint, a refreshing push toward short, intentional moments instead of endless perfect takes."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love Starfe photos and videos. Thank you for this opportunity \"1991\"!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is the 20 second limit per flip fixed, or can it be changed? Also, does the end-of-day compilation let you reorder or drop a clip before it plays?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is the VHS look baked into the file, or can I export the clean footage too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "one dated tape for the whole day is a nice constraintleaving the awkward pauses in gives it more of a home movie feel than another polished highlight reel"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -74696,6 +75048,36 @@
       }
     },
     {
+      "id": "ph-yesterday-10",
+      "date": "2026-10-25",
+      "rank": 10,
+      "name": "Clips by Plastic",
+      "slug": "clips-by-plastic",
+      "tagline": "Lyric video ads for every part of your song, on the beat",
+      "description": "Drop in a finished song and your own footage or photos. Clips finds the tempo and every part (verses, pre-chorus, chorus, bridge) and makes a vertical lyric video for each one, cut on the beat, with the words synced. Pick a layout and one of 54 effects, then export every part on every backdrop at once, named and ready for Ads Manager. Run them all for a week and put your budget behind the part that wins. Works offline. Free to try, then $99 once.",
+      "category": "Mac • Music • Marketing",
+      "categoryFa": "مک • موسیقی • بازاریابی",
+      "url": "https://www.producthunt.com/products/clips-by-plastic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/51a684d7-a279-4090-910d-f5961f335075.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c9b5a0e6-718a-4367-acf1-998d66540b45.jpeg?auto=format",
+        "https://ph-files.imgix.net/146a3c9d-2d73-4da6-a8e8-f05a70e832e3.jpeg?auto=format",
+        "https://ph-files.imgix.net/4ba60899-07e7-441f-a5d7-cd13e4b97ba3.png?auto=format",
+        "https://ph-files.imgix.net/016585f8-a8f5-402d-8308-45b83b5b2598.jpeg?auto=format"
+      ],
+      "maker": "Kai Williams",
+      "makerTitle": "Music artist based in LA",
+      "featuredAt": "2026-10-25T07:01:00Z",
+      "votes": 94,
+      "websiteUrl": "https://www.producthunt.com/r/3SXM2NBTVCXAAC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! I'm Kai, a musician. I made Clips while promoting my album. Song ads work best when you test several parts of the song, but cutting the same song fifteen ways in a video editor took a whole evening, so I'd make two and guess. Clips does that part. Drop in the song and your footage or photos, and it finds the tempo and every part, then makes a vertical lyric video for each one, cut on the beat with the words synced. Export them all at once, run them for a week, and keep the part that wins. It runs on your Mac, offline, so an unreleased song never leaves it. It's free to try (exports carry a small Clips tag), then $99 once. No subscription. I'd love to hear which part of your song you think would win, and what you'd want Clips to do next."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-10",
       "rank": 7,
@@ -75093,36 +75475,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-yesterday-10",
-      "date": "2026-10-25",
-      "rank": 10,
-      "name": "Clips by Plastic",
-      "slug": "clips-by-plastic",
-      "tagline": "Lyric video ads for every part of your song, on the beat",
-      "description": "Drop in a finished song and your own footage or photos. Clips finds the tempo and every part (verses, pre-chorus, chorus, bridge) and makes a vertical lyric video for each one, cut on the beat, with the words synced. Pick a layout and one of 54 effects, then export every part on every backdrop at once, named and ready for Ads Manager. Run them all for a week and put your budget behind the part that wins. Works offline. Free to try, then $99 once.",
-      "category": "Mac • Music • Marketing",
-      "categoryFa": "مک • موسیقی • بازاریابی",
-      "url": "https://www.producthunt.com/products/clips-by-plastic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/51a684d7-a279-4090-910d-f5961f335075.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c9b5a0e6-718a-4367-acf1-998d66540b45.jpeg?auto=format",
-        "https://ph-files.imgix.net/146a3c9d-2d73-4da6-a8e8-f05a70e832e3.jpeg?auto=format",
-        "https://ph-files.imgix.net/4ba60899-07e7-441f-a5d7-cd13e4b97ba3.png?auto=format",
-        "https://ph-files.imgix.net/016585f8-a8f5-402d-8308-45b83b5b2598.jpeg?auto=format"
-      ],
-      "maker": "Kai Williams",
-      "makerTitle": "Music artist based in LA",
-      "featuredAt": "2026-10-25T07:01:00Z",
-      "votes": 93,
-      "websiteUrl": "https://www.producthunt.com/r/3SXM2NBTVCXAAC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! I'm Kai, a musician. I made Clips while promoting my album. Song ads work best when you test several parts of the song, but cutting the same song fifteen ways in a video editor took a whole evening, so I'd make two and guess. Clips does that part. Drop in the song and your footage or photos, and it finds the tempo and every part, then makes a vertical lyric video for each one, cut on the beat with the words synced. Export them all at once, run them for a week, and keep the part that wins. It runs on your Mac, offline, so an unreleased song never leaves it. It's free to try (exports carry a small Clips tag), then $99 once. No subscription. I'd love to hear which part of your song you think would win, and what you'd want Clips to do next."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -77521,10 +77873,10 @@
   "audit": {
     "products": 780,
     "withRealComments": 780,
-    "withPersianComments": 711,
-    "withPersianDescription": 711,
-    "withAiReview": 689,
-    "withIranEquivalent": 711,
+    "withPersianComments": 718,
+    "withPersianDescription": 718,
+    "withAiReview": 696,
+    "withIranEquivalent": 718,
     "totalRealComments": 4775
   }
 }
