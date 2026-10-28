@@ -1,23 +1,23 @@
 {
-  "checkedAt": "2026-10-27T23:56:02.870Z",
+  "checkedAt": "2026-10-28T01:33:27.942Z",
   "latestDataset": "2026-10-28.json",
   "dailyFeatured": 10,
   "dailyNewQuota": 10,
   "discovered": 47,
   "canonical": 47,
-  "netNewCorpus": 10,
-  "duplicatesOrExisting": 36,
-  "rejected": 1,
-  "before": 780,
-  "after": 790,
-  "added": 10,
+  "netNewCorpus": 1,
+  "duplicatesOrExisting": 46,
+  "rejected": 0,
+  "before": 790,
+  "after": 791,
+  "added": 1,
   "audit": {
-    "products": 790,
-    "withRealComments": 790,
+    "products": 791,
+    "withRealComments": 791,
     "withPersianComments": 718,
     "withPersianDescription": 718,
     "withAiReview": 696,
     "withIranEquivalent": 718,
-    "totalRealComments": 4844
+    "totalRealComments": 4850
   }
 }
