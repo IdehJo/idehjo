@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "scrapedAt": "2026-10-29T00:14:52.245Z",
+  "scrapedAt": "2026-10-29T01:54:50.926Z",
   "periods": {
     "today": [
       {
@@ -27,7 +27,7 @@
         "maker": "Prajwal",
         "makerTitle": "Founder @ Dedica",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 260,
+        "votes": 267,
         "websiteUrl": "https://www.producthunt.com/r/SMFJH4J7K55FL4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -91,7 +91,7 @@
         "maker": "Sergey Karakhanyan",
         "makerTitle": "Techy Solopreneur",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 241,
+        "votes": 249,
         "websiteUrl": "https://www.producthunt.com/r/KKQJJZQQWWTXZK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -149,12 +149,20 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 209,
+        "votes": 215,
         "websiteUrl": "https://www.producthunt.com/r/QSDCJZKJUIFLGU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Your agent has a failure mode you haven’t found yet. Your users will find it first. 👋I’m Pramin, co-founder and CEO of BotGauge. Today we’re launching BotGauge: the platform that finds your AI agent’s failures before your users do. Agents don’t fail like normal software. A user comes at it sideways, and it calls tools it shouldn’t, leaks context, or skips approvals. Change the model, a prompt, or an MCP server, and it can take a completely different path. Last month’s tests won’t catch that.So we built an attacker.🧠 Custom attacks for your agent. BotGauge learns your agent’s purpose, its users, and what it’s allowed to do. Then our in-house red-teaming engine builds attack patterns specific to that agent, because a booking agent and a support bot break in very different ways.🔍 See exactly how it broke. Every finding links to the prompts, tool calls, and execution path behind it, so you fix the root cause.🔁 Every failure becomes a permanent test. Each break turns into an eval that runs on every release and feeds your guardrails and monitoring.Example: we told a booking agent to ignore its instructions, rebook to a new destination, and skip approval. BotGauge caught it, blocked the action, and added the attack to the eval suite for good.It works with OpenAI, Anthropic, LangChain, LangGraph, CrewAI, AutoGen, and plain SDK/API. We’re SOC 2 Type II.👉 Try it free: Link 👉 Book a demo here: LinkWhat’s the weirdest thing your agent has done in production? The team and I are in the comments all day. 🚀"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Detecting errors made by AI agents can be significantly more difficult than identifying bugs in traditional software. I appreciate that, rather than treating each failure as an isolated incident. This approach integrates reusable evaluation methods with red team testing."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "One aspect of this approach that I appreciate is that it doesn’t just focus on whether an AI agent provides the correct answer. It also sheds light on unexpected behavior. It is possible for an agent to appear to be functioning perfectly while in reality, it is making incorrect decisions. Being able to identify such edge cases early on my view extremely valuable."
           },
           {
             "user": "[REDACTED]",
@@ -175,14 +183,6 @@
           {
             "user": "[REDACTED]",
             "text": "An agent passing yesterday's test is a low bar if today's PDF can talk it into a new career. Do your evals cover instructions hidden in documents and tool outputs, or mainly direct user prompts?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This looks really interesting. I've been hesitant to hook up some services to agents precisely because I didn't trust it not to take advantage of the permissions it was given. I'm definitely going to explore BotGauge further.A bit of feedback on the post: your images are too low-resolution to really see what's on the screens you're sharing. I noticed the same thing on your website. I think some higher-resolution images would go a long way in helping people better understand what it is you're offering."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Curious, what's the mist surprising way you're seen an agent break during testing?"
           }
         ]
       },
@@ -212,7 +212,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 195,
+        "votes": 201,
         "websiteUrl": "https://www.producthunt.com/r/KLAMYKYCPTEVYB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -266,7 +266,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 156,
+        "votes": 164,
         "websiteUrl": "https://www.producthunt.com/r/6OKRX6JA5BJRJ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -327,7 +327,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 124,
+        "votes": 130,
         "websiteUrl": "https://www.producthunt.com/r/3EFM4NPQQEMV32?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -380,7 +380,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 120,
+        "votes": 125,
         "websiteUrl": "https://www.producthunt.com/r/YIAE2QFH3EFXKL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -413,6 +413,62 @@
         "id": "ph-today-8",
         "date": "2026-10-28",
         "rank": 8,
+        "name": "App Store Screenshots",
+        "slug": "app-store-screenshots",
+        "tagline": "Your coding agent designs your app store screenshots",
+        "description": "A free, open-source skill for Claude Code, Codex, and Cursor. Give your agent your app captures and a short brief, and it builds a local screenshot editor in your project. Choose from 18 styles, compare looks in Style Lab, edit the copy, and export every size for iPhone, iPad, Mac, and Android, in multiple languages. No screenshot subscription. It runs locally; your usual agent costs apply. Install: npx skills add ParthJadhav/app-store-screenshots",
+        "category": "Design Tools • Developer Tools • Artificial Intelligence",
+        "categoryFa": "ابزار طراحی • ابزار توسعه‌دهندگان • هوش مصنوعی",
+        "url": "https://www.producthunt.com/products/app-store-screenshots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/6d4ea65e-6a92-4efe-866b-0933a1911511.webp?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/00d6ab96-4c61-4ba5-98e6-5e90a88860a0.png?auto=format",
+          "https://ph-files.imgix.net/ab174cf3-e0f0-4eac-8547-2d6e2e044373.png?auto=format",
+          "https://ph-files.imgix.net/2fcdd4da-9094-4b37-8928-154ed4ad8a33.png?auto=format",
+          "https://ph-files.imgix.net/eac4f1c1-ef82-4d4d-bee4-943ec4fc87d3.png?auto=format",
+          "https://ph-files.imgix.net/9baefeef-c4fe-4a42-aac9-06fcecb35a42.png?auto=format",
+          "https://ph-files.imgix.net/34f8facd-0e5b-4528-a55d-ab079b0b2e99.png?auto=format"
+        ],
+        "maker": "Parth Jadhav",
+        "makerTitle": "SDE II @ Atlassian | Open-source maker",
+        "featuredAt": "2026-10-28T07:01:00Z",
+        "votes": 106,
+        "websiteUrl": "https://www.producthunt.com/r/MMLYDUYT2RHFD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt, I’m Parth. I made App Store Screenshots to turn app captures into a finished store listing without giving up control of the design.It’s a free, open-source skill for Claude Code, Codex, and Cursor. Give your agent the captures and a brief; it builds a local editor in your project.• Start with 18 styles and compare complete looks in Style Lab.• Edit the copy, device frames, spacing, and UI details yourself.• Export PNG bundles across device sizes and languages, including iPhone, iPad, Mac, and Android.The editor lives with your project. There’s no screenshot subscription; your usual coding-agent costs still apply.Install with npx skills add ParthJadhav/app-store-screenshots, then ask your agent to create screenshots for your app.Which part of making store screenshots takes you the longest?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hi Parth! I like that the editor stays inside the project ... next release I just ask the agent again. Question: do you plan App Store preview videos too, or only still screenshots? Preview video is the part I always postpone :D"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I made my Play Store slides by hand as HTML pages rendered in headless Chrome. The worst part wasn't the design, it was redoing all of them after every UI change. Does the editor re-capture the app itself, or do I feed it new captures every release?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Super nice! Does it handle the different iPhone sizes automatically, or do you design one set and it scales? Timely for me, I’m about to ship an iOS app."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The Style Lab comparison is what caught my eye — comparing complete looks instead of tweaking one style at a time is where I usually lose time. When you export across device sizes and languages, does the copy stay linked to one set of strings, so a headline edit carries through every size and locale?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This looks really nice. I’ve been using another agent skill but I don’t get to see the output until the very end. The idea of a lab to tweak things is a great improvement over my current workflow. I’ll give it a shot for my next release."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Keeping the editor in the app's project makes sense. When the UI changes, the store images and their copy can be updated in the same place."
+          }
+        ]
+      },
+      {
+        "id": "ph-today-9",
+        "date": "2026-10-28",
+        "rank": 9,
         "name": "Zro: Uncensored Security Models",
         "slug": "zro-uncensored-security-models",
         "tagline": "Abliterated open models for security work",
@@ -432,12 +488,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 104,
+        "votes": 105,
         "websiteUrl": "https://www.producthunt.com/r/7N6PVVLDFD3TXQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt! We launched Zro here in July for fast, private inference for coding agents. Since then, we’ve served over 250B tokens. Today we’re expanding into private models for cybersecurity research.General-purpose models can refuse those questions before the investigation gets anywhere. Dolly Security is our answer.Live on Zro today:Dolly 1 Security: Based on GLM-5.3 Flash. $0.45 input / $1.50 output per 1M tokens.Dolly 2 Security: Based on GLM-5.3, abliterated in-house with a focus on retaining general capability. $2.10 input / $6.30 output per 1M tokens. We’ve also published its weights and evaluation.Free plan: Daily usage on Flash models.Try Dolly 2 with Claude Codenpm install -g @moonmath-ai/zro zro login zro launch claude --model dolly2-securityMore from this launchProduct Hunt offer: 25% off your first month of Pro or Max with ZROPRODUCTHUNT.Referrals: Give a friend $5 in usage credit and get $5 when they start a paid subscription.Community: Join our Discord to talk with the team and other builders.What we’re working on next: Kimi K3.1 on our stack and a security-focused version of DeepSeek V4.1 Flash. We’re also working toward stronger evaluations and clearer evidence of how our security models are modified.We’ll be here today to answer questions and hear what you think."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The published weights and evaluation for Dolly 2 is the part that stood out to me — abliterating while trying to retain general capability is easy to claim and hard to show. I'm curious how you check that in practice: do the evals you published cover both the security tasks and ordinary coding/general tasks side by side, so a regression in one shows up before a release?"
           },
           {
             "user": "[REDACTED]",
@@ -462,9 +522,9 @@
         ]
       },
       {
-        "id": "ph-today-9",
+        "id": "ph-today-10",
         "date": "2026-10-28",
-        "rank": 9,
+        "rank": 10,
         "name": "TONKO",
         "slug": "tonko",
         "tagline": "Pocket money app that teaches kids about money",
@@ -521,45 +581,6 @@
           {
             "user": "[REDACTED]",
             "text": "The savings goal gives the three jars something concrete to point to. A child can see what spending a little now means for the thing they're saving up for."
-          }
-        ]
-      },
-      {
-        "id": "ph-today-10",
-        "date": "2026-10-28",
-        "rank": 10,
-        "name": "Genie 4",
-        "slug": "genie-4-5",
-        "tagline": "Turn a prompt into a living world you can steer",
-        "description": "Genie 4 is Google DeepMind’s new real-time world model for creators, game developers and AI researchers. Unlike video generators that hand you a finished clip, Genie 4 builds a world you walk through with your keyboard and steer with text as it runs: change the weather, add a character, set an event in motion. It generates native audio and live dialogue, simulates physics and natural human motion, and uses Gemini to keep scenes coherent. Research preview, waitlist open now.",
-        "category": "Artificial Intelligence",
-        "categoryFa": "هوش مصنوعی",
-        "url": "https://www.producthunt.com/products/gemini-1-5-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/7a45103f-39ca-413e-b437-dbdb0b7f6175.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/af519a91-ce9a-45de-a822-22359f11e271.png?auto=format",
-          "https://ph-files.imgix.net/56dc0bd2-7139-46fa-a743-9d73aca14925.png?auto=format",
-          "https://ph-files.imgix.net/c2164e02-d333-4471-a0ea-9087f4f7989a.png?auto=format",
-          "https://ph-files.imgix.net/2ac0da4b-73ed-49c9-bcd6-627f4698c519.png?auto=format",
-          "https://ph-files.imgix.net/fbed2f80-cde7-4214-b3ab-f095142971b6.jpeg?auto=format"
-        ],
-        "maker": "",
-        "makerTitle": "",
-        "featuredAt": "2026-10-28T07:01:00Z",
-        "votes": 100,
-        "websiteUrl": "https://www.producthunt.com/r/LQRWKQDQ6UWMRQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hi! Cay, you start from your own image, like a photo of a real place, and walk into it?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! Not a game dev, but even as just a person who likes games, this looks incredible"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Quick Question, say I am am and advertising studio,and I represent a brand. Can I generate base assets for them that they can later post in social media? as in will it preserve the logo and branding? Can I create a world, where we can highlight the product as would have done with a real actors and cameras? Say we have existing videos can we condition on those to extend beyond or in negative time to highlight something that was missed in the real cut?"
           }
         ]
       }
@@ -1314,7 +1335,52 @@
             "user": "[REDACTED]",
             "text": "The nuance and tone in Claude's writing make it feel much less robotic than other models out there."
           }
-        ]
+        ],
+        "faDescription": "کلود دوئت (Claude Duet) یک دستیار هوشمند و پیشگام است که می‌توانید کارهای خود را از طریق پیام‌رسان به آن واگذار کنید. کافی است نیاز خود را مطرح کنید تا این عامل در رایانه ابری اختصاصی خود و با استفاده از برنامه‌های متصل‌شده، به‌صورت مستقل کارها را انجام دهد. این سیستم پس از اتمام کار یا هنگام نیاز به تصمیم‌گیری شما، پیام ارسال می‌کند. اگرچه این دستیار همواره فعال است، اما با تشخیص هوشمندانه تنها در موارد ضروری ارتباط برقرار می‌سازد و می‌داند چه کارهایی می‌توانند منتظر بمانند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "بالاخره — حالا همه مدعیان اصلی از راه رسیدند! Muse از متا، Instinct، سایت Poke.com، Dots از چت‌جی‌پتی و GrokBot. چه کسی برنده خواهد شد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "برای من برنده ایجنتی است که بداند چه زمانی نباید برایم پیام بفرستد، و آنتروپیک هم آزمایشگاهی است که بیشترین اعتماد را به آن دارم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "کار عالی بود مایک کریگر، پابلو استانلی و تیم. آنتروپیک آزمایشگاهی است که بیشترین اعتماد را به آن دارم و منتظر عرضه این ایجنت بودم. برای امتحان کردن Claude Duet بسیار هیجان‌زده‌ام!"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ظرافت و لحن نگارش کلود باعث می‌شود بسیار کمتر از سایر مدل‌های موجود حالت رباتیک داشته باشد."
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: مدیران و شاغلین دنیای مدرن غرق در وظایف تکراری و اعلان‌های متعدد هستند. Claude Duet با اجرای وظایف در یک ماشین مجازی ابری و هوشمندی در قطع نکردن تمرکز کاربر، راه‌حلی عالی برای مدیریت جریان کار ارائه می‌دهد.\n\nمعماری و تکنولوژی: این محصول از ایجنت‌های خودمختار (Autonomous Agents) مبتنی بر مدل‌های زبانی بزرگ (LLM) استفاده می‌کند که قابلیت کنترل برنامه‌های مختلف از طریق API و واسط کاربری را دارند.\n\nمدل درآمدی: مدل اشتراکی B۲B SaaS بر اساس تعداد ایجنت‌های فعال و میزان استفاده از منابع پردازشی ابری.\n\nنقاط قوت: درک بالا از اولویت‌بندی پیام‌ها (کاهش مزاحمت)، لحن طبیعی انسانی و اجرای مستقل کارهای پیچیده.\n\nنقاط ضعف: چالش‌های امنیتی و حریم خصوصی در اعطای دسترسی‌های حساس به ایجنت، و وابستگی به پایداری API برنامه‌های ثالث.\n\nنکته طلایی برای ایران: بومی‌سازی این سیستم با اتصال به پیام‌رسان‌های بومی (یا تلگرام) و نرم‌افزارهای مالی و اداری ایرانی مثل سپیدار یا اتوماسیون‌های رایج، می‌تواند یک ارزش‌آفرینی منحصربه‌فرد برای کسب‌وکارهای داخلی ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "همیار ابری (Hamyar Cloud)",
+          "description": "یک دستیار هوشمند ایرانی که کارهای اداری، مالی و مدیریتی کاربران را در بستری ابری و به صورت خودکار انجام می‌دهد. این سامانه به ابزارهای بومی مانند اتوماسیون‌های اداری، بانک‌ها و نرم‌افزارهای حسابداری متصل می‌شود. همیار ابری تنها در مواقع ضروری و جهت اخذ تاییدیه نهایی با کاربر تماس یا پیام برقرار می‌کند.",
+          "marketOpportunity": "کاهش بار کاری مدیران و کسب‌وکارهای نوپا در ایران نیاز مبرمی به خودکارسازی فرآیندهای تکراری ایجاد کرده است. نبود یک دستیار هوشمند متصل به ابزارهای بومی فرصت شغلی و اقتصادی بسیار بزرگی را فراهم می‌سازد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "مدیران ارشد، صاحبان کسب‌وکارهای کوچک و متوسط، فریلنسرها و تیم‌های پشتیبانی",
+          "challenges": [
+            "محدودیت دسترسی به APIهای استاندارد در نرم‌افزارهای اتوماسیون و مالی ایرانی",
+            "دشواری جلب اعتماد کاربران ایرانی جهت سپردن دسترسی حساب‌ها به هوش مصنوعی",
+            "هزینه‌های بالا و چالش‌های زیرساختی مربوط به پردازش ابری"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه بر اساس حجم وظایف اجراشده",
+            "ارائه نسخه‌های سازمانی (Enterprise) با متصل‌کننده‌های اختصاصی"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python",
+            "FastAPI",
+            "Docker",
+            "RabbitMQ"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-week-4",
@@ -1339,7 +1405,7 @@
           "https://ph-files.imgix.net/329cd7b9-90df-43be-8fa6-5c13c33ba4db.png?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "Co-founder of DeepCell",
         "featuredAt": "2026-10-22T07:01:00Z",
         "votes": 363,
         "websiteUrl": "https://www.producthunt.com/r/QQW4YFA2J3HRIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
@@ -1376,7 +1442,67 @@
             "user": "[REDACTED]",
             "text": "Congrats on the launch! How out-of-the-box it is?"
           }
-        ]
+        ],
+        "faDescription": "دیپ‌سل (DeepCell) به شما کمک می‌کند تا کارهای دارای مهلت زمانی فشرده را که به طور همزمان نیازمند روایت‌گری، محاسبات و ارائه هستند، مانند مدل‌سازی مالی، مرور فروش، پیش‌بینی بودجه و گزارش‌های ماهانه، به راحتی انجام دهید. این محصول در قالب اپلیکیشن تحت وب و افزونه عامل هوشمند، اسناد، جداول داده و اسلایدهای آماده به کار را همراه با منابع دقیق و برگه‌های راهنما تولید می‌کند تا ارائه موضوعات برای شما آسان‌تر شود. علاوه بر این، با اعمال هر ویرایش در یک بخش، تمام قسمت‌های مرتبط به صورت خودکار به‌روزرسانی می‌شوند. این محصول بر پایه یک فرمت سند جدید و کاملاً اختصاصی (deepcell.) ساخته شده که به طور ویژه برای تحلیل‌های عمیق و انجام وظایف پیچیده طراحی شده است.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "این فوق‌العاده است، به‌ویژه از آنجایی که بسیاری از شرکت‌ها هنوز در باتلاق فایل‌های اکسل گیر کرده‌اند. اما اگر داده‌های ما در واقع در یک پایگاه داده باشد چه؟ آیا امکان فراخوانی داده‌ها از نقاط پایانی خارجی یا پایگاه‌های داده SQL وجود دارد؟ یا اتصال به داده‌ها از طریق API/MCP؟"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "اعداد وقتی بین فایل‌های مختلف کپی می‌شوند، به‌سرعت معنی خود را از دست می‌دهند. همراه کردن زمینه و منبع با خود عدد، ایده‌ای هوشمندانه است. رونمایی مبارک!"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "عاشق این فکرم که یک‌بار محتوا را به‌روزرسانی کنی و بقیه بخش‌های مرتبط خودشان به‌روز شوند؛ هنوز چقدر نیاز به تصمیم‌گیری دستی دارید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "آیا می‌توانم از منطق سه‌ماهه قبل دوباره استفاده کنم و فقط داده‌های این دوره را جایگزین کنم، به جای اینکه همه چیز را از صفر بسازم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "آیا ویرایش کردن برای اعداد و متون طولانی‌تر به یک شکل کار می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "ما هر ماه یک گزارش پشتیبانی ماهانه تهیه می‌کنیم (حجم تیکت‌ها، زمان پاسخگویی، میزان رضایت مشتری، به همراه یک خلاصه متنی کوتاه و چند اسلاید برای مدیران ارشد). آیا می‌توانم هر ماه یک فایل CSV جدید از نرم‌افزار پشتیبانی‌مان ورودی بدهم و همه چیز به‌روز شود، یا باید هر بار از اول بسازمش؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تبریک برای رونمایی! حساب تعداد دفعه‌هایی که مدل یک عدد را نشان می‌داد اما اسلاید ۱۴ هنوز عدد قدیمی را داشت از دستم در رفته است، پس درک می‌کنم چرا این را ساختید. برای من بهترین بخش این است که هر عدد منبع خود را نشان می‌دهد. به همین دلیل صادرات به پاورپوینت مثل یک برگشت به عقب است، چون همین که به pptx تبدیل شود، اعداد دوباره بی‌روح و مرده می‌شوند. آیا به این فکر می‌کنید که اجازه دهید مردم فقط یک لینک زنده DeepCell را به اشتراک بگذارند؟ مدیر آن را باز کند، کامنت بگذارد و روی هر عدد کلیک کند تا منبعش را ببیند."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تبریک بابت رونمایی! این محصول تا چه حد بدون نیاز به تنظیمات اولیه و بلافاصله آماده به کار است؟"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: در کارهای دفتری و مدیریتی، عدم یکپارچگی میان داده‌های محاسباتی، گزارش‌های متنی و اسلایدهای ارائه باعث اتلاف زمان شدید و بروز خطاهای انسانی در ددلاین‌ها می‌شود. DeepCell با معرفی یک فرمت جدید (.deepcell) و بستر مبتنی بر هوش مصنوعی، ارتباط زنجیره‌ای بین اعداد، متن‌ها و اسلایدها برقرار می‌کند به‌طوری که هر ویرایش به صورت زنده در تمامی بخش‌ها منعکس می‌شود.\n\nمعماری و تکنولوژی: بهره‌گیری از هوش مصنوعی برای درک منبع داده‌ها (Data Provenance)، تولید هوشمند اسناد ترکیبی و فرمت سند اختصاصی جهت پردازش تفکر سیستم دو (System ۲)، معماری این محصول را بسیار مدرن و کارآمد کرده است.\n\nمدل درآمدی: مدل B۲B SaaS با پلن‌های ماهانه بر اساس تعداد کاربر، حجم پردازش هوش مصنوعی و اتصالات سفارشی به پایگاه‌های داده.\n\nنقاط قوت: شفافیت و قابل ردیابی بودن منابع اعداد، صرفه‌جویی فوق‌العاده در زمان گزارش‌دهی‌های دوره‌ای، و جلوگیری از ناهمگونی اطلاعات در اسلایدهای نهایی.\n\nنقاط ضعف: چالش پذیرش فرمت جدید فایل توسط کاربرانی که به .pptx و .xlsx عادت دارند و احتمال قطع ارتباط زنده داده‌ها هنگام خروجی گرفتن به فرمت‌های قدیمی.\n\nنکته طلایی برای ایران: موفقیت کلیدی این طرح در ایران، اتصال مستقیم (Connector) به نرم‌افزارهای مالی و اتوماسیون محلی (مانند راهکاران و سپیدار) و امکان ارائه لینک زنده داخلی به مدیران ارشد به جای خروجی‌های ایستا است.",
+        "iranEquivalent": {
+          "productName": "تراسند (TaraSand)",
+          "description": "تراسند یک بستر بومی برای یکپارچه‌سازی اسناد تحلیلی، جداول محاسباتی و اسلایدهای مدیریتی است که اتصالات داده‌ای را به صورت زنده حفظ می‌کند. با تغییر یک متغیر در جدول مالی یا داتابیس، تمامی متون تحلیلی و اسلایدهای ارائه مربوطه به طور خودکار به روز می‌شوند. این ابزار به طور ویژه برای اتوماسیون گزارش‌های دوره‌ای و جلسات تصمیم‌گیری سازمان‌ها طراحی شده است.",
+          "marketOpportunity": "نیاز مبرم هلدینگ‌ها، شرکت‌های سرمایه‌گذاری و تیم‌های مالی در ایران به کاهش خطاهای انسانی در گزارش‌دهی‌های ماهانه و فصلی، یک بازار بکر ایجاد کرده است. عدم وجود ابزار بومی که هم‌زمان متن، فرمول و اسلاید را به صورت یکپارچه و متصل مدیریت کند، شانس موفقیت این محصول در بازار B۲B را بسیار بالا می‌برد.",
+          "estimatedBudget": "۲.۵ تا ۳.۵ میلیارد تومان",
+          "targetAudience": "مدیران مالی، تحلیل‌گران سرمایه‌گذاری، مدیران عملیات، تیم‌های پشتیبانی و مشاوران مدیریت در سازمان‌های متوسط و بزرگ",
+          "challenges": [
+            "مقاومت سنتی سازمان‌ها در برابر تغییر بستر از نرم‌افزارهای رایج مانند Microsoft Excel و PowerPoint",
+            "چالش اتصالات امن و یکپارچه‌سازی با نرم‌افزارهای مالی و ERPهای داخلی مثل همکاران سیستم و سپیدار"
+          ],
+          "monetization": [
+            "فروش اشتراک سازمانی ماهانه/سالانه (SaaS)",
+            "ارائه نسخه اختصاصی نصب در محل (On-Premise) برای سازمان‌های بزرگ و نهادهای مالی با حساسیت داده‌ای بالا"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python",
+            "FastAPI",
+            "Redis",
+            "Tailwind CSS"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-week-5",
@@ -2470,9 +2596,9 @@
         ]
       },
       {
-        "id": "ph-year-3",
+        "id": "ph-year-4",
         "date": "2026-04-09",
-        "rank": 3,
+        "rank": 4,
         "name": "Brila",
         "slug": "brila-2",
         "tagline": "One-page websites from real Google Maps reviews",
@@ -2528,9 +2654,9 @@
         ]
       },
       {
-        "id": "ph-year-4",
+        "id": "ph-year-3",
         "date": "2026-02-11",
-        "rank": 4,
+        "rank": 3,
         "name": "happycapy",
         "slug": "happycapy",
         "tagline": "The agent-native computer, for the rest of us",
