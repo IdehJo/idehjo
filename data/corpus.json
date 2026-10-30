@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:09:16.534Z",
+  "generatedAt": "2026-10-30T02:10:50.347Z",
   "sourceFiles": 81,
   "products": [
     {
@@ -5106,9 +5106,9 @@
       }
     },
     {
-      "id": "ph-month-7",
+      "id": "ph-month-8",
       "date": "2026-10-06",
-      "rank": 7,
+      "rank": 8,
       "name": "Rill Browser",
       "slug": "rill-browser",
       "tagline": "The browser where Claude Code and Codex work beside you",
@@ -7780,9 +7780,9 @@
       "aiReview": "مسئله اصلی: پیچیدگی زیرساختی بالا برای اجرای ایجنت‌های هوش مصنوعی در مقیاس تولید، شامل مدیریت ساندباکس‌ها، به‌روزرسانی نسخه‌ها، ماندگاری وضعیت و اتصال به کانال‌های متنوع. راه‌حل: AgentSky یک سرویس مدیریت‌شده (Managed Agent as a Service) ارائه می‌دهد که با یک کلیک یا دستور CLI، ایجنت‌ها را در ساندباکس‌های ابری اختصاصی با قابلیت بازیابی خودکار و حافظه پایدار اجرا می‌کند. معماری و تکنولوژی: این پلتفرم از طریق یک پروتکل یکپارچه، هارنس‌های مختلف (مانند Claude Code، Codex، Hermes و OpenClaw) را با مدل‌های LLM متنوع ترکیب می‌کند. ویژگی کلیدی، حفظ زمینه (Context) و حافظه ایجنت در سراسر کانال‌های مختلف (واتساپ، تلگرام، اسلک، وب و API) است که نیاز به توسعه مجدد برای هر کانال را حذف می‌کند. مدل درآمدی: مدل مصرفی (Pay-as-you-go) با امکان پارک رایگان ایجنت‌ها؛ هزینه فقط زمانی محاسبه می‌شود که ایجنت به‌طور فعال در حال پردازش باشد. نقاط قوت: ۱. حذف اصطکاک فنی در راه‌اندازی ایجنت‌ها. ۲. انعطاف‌پذیری در انتخاب مدل و هارنس بدون قفل شدن (Vendor Lock-in). ۳. یکپارچگی چندکاناله که تجربه کاربری یکپارچه‌ای ایجاد می‌کند. ۴. اثبات شده در محیط واقعی با بیش از ۱۰,۰۰۰ جلسه. نقاط ضعف: ۱. نیاز به اعتمادسازی بیشتر از طریق ارائه نمونه‌های واقعی و شفافیت در مورد لاگ‌های ممیزی و امنیت داده‌ها در کانال‌های مختلف. ۲. وابستگی به کیفیت خروجی مدل‌های پایه که ممکن است نوسان داشته باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی مستقیم به برخی سرویس‌های ابری و مدل‌های خارجی، AgentSky می‌تواند به عنوان یک لایه واسط (Middleware) برای توسعه‌دهندگان ایرانی عمل کند که نیاز به ایجنت‌های هوشمند دارند اما زیرساخت ابری داخلی کافی ندارند. همچنین، قابلیت اتصال به تلگرام (که در ایران بسیار پرکاربرد است) می‌تواند مزیت رقابتی بزرگی برای جذب کاربران و توسعه‌دهندگان ایرانی باشد، به شرطی که راهکارهای پرداخت و دسترسی امن به API‌های خارجی فراهم شود."
     },
     {
-      "id": "ph-month-8",
+      "id": "ph-month-7",
       "date": "2026-10-07",
-      "rank": 8,
+      "rank": 7,
       "name": "Velozity",
       "slug": "velozity-3",
       "tagline": "The Multiplayer AI Office where your team and agents work",
@@ -8929,7 +8929,63 @@
           "user": "[REDACTED]",
           "text": "I am looking forward to give it a try when I realease my new tool :)"
         }
-      ]
+      ],
+      "faDescription": "با ویرایشگر بصری جدید، می‌توانید لانچ خود را در پراکت‌هانت همان‌طور که در حال ساخت است، مشاهده کنید. این ابزار به شما امکان می‌دهد فرآیند انتشار را در تعداد کمتری از مراحل و با ذخیره‌سازی خودکار پیش‌نویس‌ها انجام دهید. کافیست روی نام، شعار، گالری تصاویر یا سازندگان کلیک کنید تا آن‌ها را مستقیماً در همان محل ویرایش کنید. یک چک‌لیست هوشمند نشان می‌دهد چه مواردی الزامی است و چه مواردی به برجسته‌تر شدن لانچ شما کمک می‌کند؛ با کلیک روی هر آیتم، مستقیماً به فیلدی که نیاز به اصلاح دارد هدایت می‌شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پراکت‌هانت 👋 همه لانچ‌ها در پراکت‌هانت با فرآیند ارسال ما شروع می‌شوند و مدت طولانی این فرآیند به صورت فرم مرحله‌به‌مرحله بود. شما مرحله‌ای را تکمیل می‌کردید، پیش‌نمایش را باز می‌کردید تا ببینید چگونه به نظر می‌رسد، سپس دوباره به مراحل برمی‌گشتید تا ببینید چه چیزی جا مانده است. امروز آن را با یک ویرایشگر بصری لانچ ارتقا داده‌ایم. اکنون می‌توانید لانچ خود را در صفحه‌ای بسازید که شبیه به ظاهر نهایی لانچ است و هر چیزی را با کلیک روی آن ویرایش کنید. چه چیزهای جدیدی داریم؟ با لینک وب‌سایت خود شروع کنید. لینک وب‌سایت خود را بچسبانید و ما جزئیات و رسانه‌هایی که می‌توانیم پیدا کنیم را وارد می‌کنیم. می‌توانید آن‌ها را قبل از لانچ ویرایش کنید. ویرایش در محل. نام، شعار، توضیحات، گالری، لینک‌ها، قیمت‌گذاری، تگ‌ها، سازندگان، تشکرها و اولین کامنت شما همه مستقیماً در صفحه ویرایش می‌شوند. ویرایش‌های خود را زنده ببینید! ویرایشگر اکنون بصری است، بنابراین دقیقاً می‌توانید ببینید لانچ شما هنگام انجام تغییرات چگونه به نظر می‌رسد. یک چک‌لیست لانچ. همه چیز را به دسته‌های الزامی، نیازمند توجه و برجسته‌سازی مرتب می‌کند و لینک‌های اصلاح، فیلد دقیق مسدودکننده را باز می‌کنند. کشف بهتر تگ‌ها. پیشنهاداتی بر اساس توضیحات خود دریافت کنید یا از A تا Z همه تگ‌های لانچ را مرور کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ویرایش مستقیم روی پیش‌نمایش واقعی صفحه بسیار بهتر است. پرش چک‌لیست به هر فیلد بسیار کاربردی است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "زمان‌بندی بامزه‌ای است، من تازه تنظیمات لانچ خود برای فردا را تمام کرده بودم و مدام پیش‌نمایش را باز می‌کردم تا ببینم چگونه به نظر می‌رسد. تبریک می‌گویم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "داشبورد ویرایش محصول پراکت‌هانت همیشه گیج‌کننده بوده است. این یک بهبود عالی است."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این فوق‌العاده است! نمی‌توانم صبر کنم تا بیشتر لانچ کنم. وقتی می‌خوانم که این روی اپلیکیشن iOS هم کار می‌کند، کاملاً متقاعد می‌شوم. کار خوب بچه‌ها!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "در نهایت — ارسال در موبایل! این عالی است — یکپارچه‌سازی آنچه دریافت می‌کنید با آنچه می‌بینید باید تکمیل و کیفیت را بهبود بخشد. من هنوز آناتومی پراکت‌هانت را گیج‌کننده می‌دانم — به ویژه دسته‌ها، تگ‌های لانچ و غیره. همچنین شفافیت بیشتری درباره سؤالات مربوط به سرمایه‌گذاری در حین ارسال می‌خواهم. آن داده‌ها کجا می‌روند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ارتقاءهای جدید را دوست دارم، قطعاً توانایی پیش‌نمایش زنده تغییرات بسیار بهتر است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "منتظر هستم تا وقتی ابزار جدیدم را منتشر می‌کنم، آن را امتحان کنم :)"
+        }
+      ],
+      "aiReview": "مسئله اصلی در فرآیند انتشار محصولات استارتاپی، پیچیدگی فرم‌های مرحله‌ای و عدم شفافیت در پیش‌نمایش نهایی است که باعث کاهش کیفیت و افزایش خطا می‌شود. راه‌حل ارائه‌شده، یک ویرایشگر بصری (WYSIWYG) است که امکان ویرایش مستقیم روی پیش‌نمایش زنده را فراهم می‌کند و با چک‌لیست هوشمند، کاربر را به فیلدهای ناقص هدایت می‌کند. از نظر معماری، این محصول احتمالاً از تکنولوژی‌های مدرن فرانت‌اند مانند React یا Next.js برای رندر زنده و مدیریت state پیچیده استفاده می‌کند، در حالی که بک‌اند باید برای ذخیره‌سازی لحظه‌ای (Auto-save) و مدیریت نسخه‌های مختلف پیش‌نویس بهینه شده باشد. مدل درآمدی می‌تواند مبتنی بر اشتراک‌های SaaS برای تیم‌های بزرگ‌تر یا مدل Freemium برای کاربران فردی باشد. نقاط قوت شامل بهبود تجربه کاربری (UX)، افزایش نرخ تکمیل فرآیند لانچ و کاهش بار شناختی کاربران است. نقاط ضعف ممکن است شامل پیچیدگی فنی در همگام‌سازی داده‌ها بین ویرایشگر و دیتابیس، و نیاز به آموزش کاربران برای استفاده از چک‌لیست هوشمند باشد. نکته طلایی برای ایران: ایجاد یک لایه ترجمه و بومی‌سازی کامل برای شبکه‌های اجتماعی ایرانی (مانند لینکدین و اینستاگرام) و افزودن قابلیت‌های تحلیل احساسات مخاطب ایرانی می‌تواند مزیت رقابتی منحصربه‌فردی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "استارت‌لنچ",
+        "description": "استارت‌لنچ یک پلتفرم بصری برای مدیریت و انتشار محصولات استارتاپی در اکوسیستم‌های ایرانی مانند لینکدین، اینستاگرام و وب‌سایت‌های تخصصی است. این ابزار با ارائه ویرایشگر زنده، به بنیان‌گذاران کمک می‌کند تا قبل از انتشار نهایی، ظاهر و محتوا را به صورت لحظه‌ای ببینند و اصلاح کنند. یکپارچه‌سازی فرآیند ساخت و پیش‌نمایش، خطاهای رایج در انتشار را کاهش می‌دهد و تجربه کاربری را ساده‌تر می‌کند.",
+        "marketOpportunity": "بازار استارتاپ‌های ایرانی به شدت در حال رشد است و بسیاری از بنیان‌گذاران با چالش‌های فنی و محتوایی در انتشار محصول مواجه هستند. وجود یک ابزار ساده و بصری برای استانداردسازی فرآیند لانچ، خلأ بزرگ در اکوسیستم حمایتی استارتاپ‌ها را پر می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "بنیان‌گذاران استارتاپ‌های فناوری، تیم‌های محصول و مدیران بازاریابی که نیاز به انتشار حرفه‌ای محصول خود در شبکه‌های اجتماعی و وب‌سایت‌های تخصصی دارند.",
+        "challenges": [
+          "رقابت با ابزارهای رایگان و ساده‌ای که در شبکه‌های اجتماعی موجود هستند",
+          "قانع کردن بنیان‌گذاران برای تغییر عادات فعلی انتشار محصول"
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه برای دسترسی به ویژگی‌های پیشرفته و تحلیل‌ها",
+          "فروش بسته‌های تبلیغاتی و نمایش ویژه در پلتفرم‌های همکار"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-week-4",
@@ -13338,6 +13394,68 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-29",
+      "rank": 1,
+      "name": "Empacer",
+      "slug": "empacer",
+      "tagline": " The voice-first assistant for small business owners",
+      "description": "Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
+      "category": "Productivity • SaaS • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format",
+        "https://ph-files.imgix.net/abcf9ce9-7ef5-46ea-b8b7-dc458e1a4282.png?auto=format",
+        "https://ph-files.imgix.net/946fe0a5-fe70-4384-a47f-f8d9e80f61a4.png?auto=format",
+        "https://ph-files.imgix.net/b5bfbe10-2bf8-43e2-9861-df04c0cac8d9.png?auto=format",
+        "https://ph-files.imgix.net/45be37f2-6f04-4108-b91b-c531fb0213cd.png?auto=format",
+        "https://ph-files.imgix.net/33dd463b-18fd-400e-8f51-3594c1ed3723.png?auto=format",
+        "https://ph-files.imgix.net/0da12497-d71c-44e5-94ce-3d885dd6b391.png?auto=format",
+        "https://ph-files.imgix.net/a1505ee2-c8de-4f69-a32f-a5f4325d924e.jpeg?auto=format"
+      ],
+      "maker": "Yerkebulan Akhmetzaki",
+      "makerTitle": "Founder & CEO at Empacer",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 386,
+      "websiteUrl": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋 I’m Yerkebulan, Founder & CEO of Empacer.Everyone keeps telling small business owners to \"use AI.\" But watch a salon owner’s actual day: clients in the chair since morning, DMs piling up, this week’s posts still not written, and they are still expected to sit down, write prompts, and manage chat threads. Tools got smarter, but using them became another job.Before building anything, we talked to dozens of small business owners across the US: salons, barbershops, auto services, photographers. The pattern repeated in almost every conversation: they don’t really want to learn AI. They want to give a task and see it done - simple as that.So we built Empacer: a voice-first assistant for owners running a 1-10 person business from their phone. The idea is simple: You say what you need out loud, Empacer does the work, and nothing goes out without your approval.And, the part I'm most proud of: Empacer doesn't wait to be asked. It learns your business during onboarding and comes up with your first week of work on its own.How it works:1️⃣ Answer three questions about your business2️⃣ Empacer drafts your first week: Instagram posts, document drafts, and more3️⃣ You review, edit, approve, and connect your toolsWhat you get:🔌 Integrations. 1000+ tools for your business🧠 Memory. A business profile that remembers everything you’ve said✍️ Marketing content. Posts drafted around what makes your business worth choosing💬 Communication. Customer messages about prices and hours answered in your voiceWhere to find Empacer:🌐 Web. Works right in your browser🤖 Android. The app is already in Google Play🍏 iOS. The app is coming soon🎁 Exclusive for the Product Hunt community: We're offering a 60% off the first subscription period. You can access this discount via this link. 📲 Also, there is a 3-day free trial if you download the app directly from Google Play.We'd love honest feedback on one thing in particular: Voice interfaces have been \"the next big thing\" for a long time. What’s stopped them from working for you so far?The whole team is here all day: @vehsakam @kenessary @yesmakhan @cool_person_v2"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can it help with posting on social media?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is it integrated with ClickUp?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "niiice! I think this could be super useful for small businesses. how many clients are already obsessed with Empacer?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks genuinely useful. Quick question - what if it gets something wrong about the user's business?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Making admin work simpler for small business owners is a genuinely useful problem to solve. I like the voice-first approach and the focus on getting work done without constantly switching between tools. Congratulations on the launch🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What clicked for me is the approval step. Letting it draft everything but keeping the owner as the last word is exactly the right amount of trust for this kind of tool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks very promising. What can I try before connecting any accounts?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-5",
       "date": "2026-08-29",
       "rank": 5,
@@ -14044,68 +14162,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-29",
-      "rank": 1,
-      "name": "Empacer",
-      "slug": "empacer",
-      "tagline": " The voice-first assistant for small business owners",
-      "description": "Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.",
-      "category": "Productivity • SaaS • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format",
-        "https://ph-files.imgix.net/abcf9ce9-7ef5-46ea-b8b7-dc458e1a4282.png?auto=format",
-        "https://ph-files.imgix.net/946fe0a5-fe70-4384-a47f-f8d9e80f61a4.png?auto=format",
-        "https://ph-files.imgix.net/b5bfbe10-2bf8-43e2-9861-df04c0cac8d9.png?auto=format",
-        "https://ph-files.imgix.net/45be37f2-6f04-4108-b91b-c531fb0213cd.png?auto=format",
-        "https://ph-files.imgix.net/33dd463b-18fd-400e-8f51-3594c1ed3723.png?auto=format",
-        "https://ph-files.imgix.net/0da12497-d71c-44e5-94ce-3d885dd6b391.png?auto=format",
-        "https://ph-files.imgix.net/a1505ee2-c8de-4f69-a32f-a5f4325d924e.jpeg?auto=format"
-      ],
-      "maker": "Yerkebulan Akhmetzaki",
-      "makerTitle": "Founder & CEO at Empacer",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 379,
-      "websiteUrl": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋 I’m Yerkebulan, Founder & CEO of Empacer.Everyone keeps telling small business owners to \"use AI.\" But watch a salon owner’s actual day: clients in the chair since morning, DMs piling up, this week’s posts still not written, and they are still expected to sit down, write prompts, and manage chat threads. Tools got smarter, but using them became another job.Before building anything, we talked to dozens of small business owners across the US: salons, barbershops, auto services, photographers. The pattern repeated in almost every conversation: they don’t really want to learn AI. They want to give a task and see it done - simple as that.So we built Empacer: a voice-first assistant for owners running a 1-10 person business from their phone. The idea is simple: You say what you need out loud, Empacer does the work, and nothing goes out without your approval.And, the part I'm most proud of: Empacer doesn't wait to be asked. It learns your business during onboarding and comes up with your first week of work on its own.How it works:1️⃣ Answer three questions about your business2️⃣ Empacer drafts your first week: Instagram posts, document drafts, and more3️⃣ You review, edit, approve, and connect your toolsWhat you get:🔌 Integrations. 1000+ tools for your business🧠 Memory. A business profile that remembers everything you’ve said✍️ Marketing content. Posts drafted around what makes your business worth choosing💬 Communication. Customer messages about prices and hours answered in your voiceWhere to find Empacer:🌐 Web. Works right in your browser🤖 Android. The app is already in Google Play🍏 iOS. The app is coming soon🎁 Exclusive for the Product Hunt community: We're offering a 60% off the first subscription period. You can access this discount via this link. 📲 Also, there is a 3-day free trial if you download the app directly from Google Play.We'd love honest feedback on one thing in particular: Voice interfaces have been \"the next big thing\" for a long time. What’s stopped them from working for you so far?The whole team is here all day: @vehsakam @kenessary @yesmakhan @cool_person_v2"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can it help with posting on social media?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is it integrated with ClickUp?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "niiice! I think this could be super useful for small businesses. how many clients are already obsessed with Empacer?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks genuinely useful. Quick question - what if it gets something wrong about the user's business?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Making admin work simpler for small business owners is a genuinely useful problem to solve. I like the voice-first approach and the focus on getting work done without constantly switching between tools. Congratulations on the launch🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What clicked for me is the approval step. Letting it draft everything but keeping the owner as the last word is exactly the right amount of trust for this kind of tool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks very promising. What can I try before connecting any accounts?"
-        }
-      ]
     },
     {
       "id": "ph-week-3",
@@ -22578,7 +22634,59 @@
           "user": "[REDACTED]",
           "text": "Brilliant Reading the story, I thought you would name it MOFA (Mother and Father) :) Goodluck mate"
         }
-      ]
+      ],
+      "faDescription": "MOVO AI اولین عامل هوش مصنوعی برای تولید ویدیوهای بلند است که مستقیماً از روی گوشی موبایل کار می‌کند و همچنین نسخه وب دارد. کاربر می‌تواند با ضبط، بارگذاری یا حتی فقط با یک ایده ساده، بگوید چه می‌خواهد و MOVO تمام مراحل از برنامه‌ریزی، تولید صحنه‌ها، حفظ سازگاری شخصیت‌ها و ترکیب نهایی را انجام می‌دهد. پس از قفل کردن گوشی، فرآیند تولید به‌صورت ناهمزمان ادامه می‌یابد و کاربر می‌تواند در هر زمان از طریق چت بازبینی یا تغییرات دلخواه را اعمال کند. این ابزار نیازی به نوشتن پرامپت‌های پیچیده یا کارهای دستی برش و چسباندن کلیپ‌ها ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من یکی از سازندگان MOVO AI هستم – اولین عامل هوش مصنوعی برای ویدیوهای بلند روی موبایل. مادرم یک سازنده محتوا کوچک است که چندین حساب شبکه‌های اجتماعی را مدیریت می‌کند و پدرش دوربین‌دار وفادارش است. آن‌ها هر دو بالای ۶۰ سال هستند اما ساعت‌ها فیلم‌برداری، ویرایش و انتشار می‌کنند و از هر لایک و فالوور جدید لذت می‌برند. من هم به عنوان یک مهندس درون‌گرای که در کارآیی هوش مصنوعی در دانشگاه کارنگی ملون مشغول به تحصیل بودم، نمی‌دانستم چگونه دوربین را حرکت دهم یا طبیعی روی دوربین ظاهر شوم. این فاصله بین نیاز به ویدیو و ناآگاهی فنی باعث شد MOVO AI را بسازیم. این ابزار ایده را به یک ویدیو کامل تبدیل می‌کند و با یک گفت‌وگو پیوسته، ساختار داستان، شخصیت‌ها و جهت بصری را تنظیم می‌کند؛ بدون نیاز به دانستن نام فنی هر شات یا نوشتن پرامپت‌های پیچیده."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من فقط برای تریلرهای کتاب‌های نویسندگانم از سازندگان ویدیو هوش مصنوعی استفاده می‌کنم و مشتاقم این محصول را امتحان کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا این ابزار حساب‌های اجتماعی من را دنبال می‌کند و ایده‌های خلاقانه ترند برای ویدیو پیشنهاد می‌دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای راه‌اندازی! ایده ساخت ویدیوهای طولانی فقط با توصیف خواسته‌ها عالی است 👏"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آیا نسخه موبایل تمام ویژگی‌های نسخه وب را دارد، به‌ویژه بخش ویرایش؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "راه‌حل‌های فعلی هوش مصنوعی برای ویدیوهای کوتاه خوب عمل می‌کنند اما در قالب‌های بلند و داستان‌محور کمبود دارند؛ خوشحالم که MOVO این مشکل را حل می‌کند! می‌خواهم بدانم وقتی فقط بخش کوچکی از ویدیو نیاز به تغییر دارد، آیا کل ویدیو دوباره تولید می‌شود یا می‌توانم تنها آن قسمت را برش داده و اصلاح کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی بود! وقتی داستان را می‌خواندم فکر کردم نام آن MOFA (Mother and Father) باشد :) موفق باشید."
+        }
+      ],
+      "aiReview": "مسئله: تولید محتوای ویدئویی بلند در ایران با ابزارهای موجود دشوار است؛ نیاز به مهارت‌های فنی، نرم‌افزارهای سنگین و زمان‌بر بودن فرآیند. راه‌حل: MOVO AI با استفاده از یک عامل هوش مصنوعی گفتگو محور، تولید ویدیو را به‌صورت موبایلی و بدون پرامپت‌های پیچیده ساده می‌کند و تمام مراحل از نوشتن سناریو تا رندر نهایی را خودکار می‌کند. معماری و تکنولوژی: سرویس از مدل‌های مولد بزرگ (LLM) برای درک متن و تولید سناریو، مدل‌های Diffusion برای ساخت صحنه‌های تصویری و موتور رندر ابری برای ترکیب نهایی استفاده می‌کند؛ لایهٔ وب با Next.js و APIهای بک‌اند با PostgreSQL پشتیبانی می‌شود. مدل درآمدی: ترکیبی از اشتراک ماهانه (سطوح پایه، حرفه‌ای و سازمانی) و فروش بسته‌های پردازش اضافی یا افزونه‌های تخصصی (مثلاً افکت‌های ویژه یا ترجمه چند زبانه). نقاط قوت: رابط کاربری ساده بر روی موبایل، تولید محتوا به‌صورت ناهمزمان، حفظ سازگاری شخصیت‌ها و صحنه‌ها در پروژه‌های طولانی، کاهش زمان تولید از ساعت‌ها به دقیقه‌ها. نقاط ضعف: وابستگی به اتصال اینترنت برای رندرهای سنگین، نیاز به بهبود دقت مدل‌های تصویری برای فرهنگ و مناظر بومی ایران، هزینه‌های پردازشی بالا در مقیاس بزرگ. نکته طلایی برای ایران: تمرکز بر بومی‌سازی مدل‌های تصویری با داده‌های محلی (مناظر، پوشش‌های فرهنگی) و ارائه نسخهٔ آفلاین یا نیمه‌آفلاین برای مناطق با اینترنت ضعیف می‌تواند پذیرش را به‌طور چشمگیری افزایش دهد.",
+      "iranEquivalent": {
+        "productName": "MOVO AI",
+        "description": "MOVO AI یک پلتفرم هوش مصنوعی برای تولید ویدیوهای بلند به‌صورت موبایلی است که با گفت‌وگو و بدون نیاز به مهارت فنی، داستان‌ها را به فیلم تبدیل می‌کند. این سرویس امکان کار همزمان بر روی وب و موبایل را فراهم می‌کند و تولید محتوا را به‌صورت ناهمزمان ادامه می‌دهد. کاربران می‌توانند در هر زمان و مکان، با یک گفت‌وگو ساده، صحنه‌ها، شخصیت‌ها و ویرایش نهایی را مدیریت کنند.",
+        "marketOpportunity": "بازار تولید محتوای ویدئویی در ایران به‌سرعت در حال رشد است و تقاضا برای ابزارهای ساده و قدرتمند برای تولید ویدیوهای طولانی وجود دارد. علاوه بر این، استفاده گسترده از موبایل باعث می‌شود این محصول بتواند نیازهای خالقان محتوا در شهرها و مناطق دوردست را پوشش دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "خالقان محتوا، کارآفرینان، فروشگاه‌داران، فیلمسازان مستقل و کاربران عادی که می‌خواهند داستان‌های خود را به‌صورت ویدئویی به‌سرعت و بدون پیچیدگی تولید کنند.",
+        "challenges": [
+          "بهینه‌سازی مدل‌های هوش مصنوعی برای پردازش محلی روی موبایل",
+          "اطمینان از حفظ حریم خصوصی و امنیت داده‌های کاربران در فضای ابری"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با سطوح مختلف قابلیت‌ها",
+          "فروش بسته‌های پردازش اضافی برای رندرهای با کیفیت بالا"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-week-8",
@@ -25775,6 +25883,65 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-29",
+      "rank": 2,
+      "name": "Scape",
+      "slug": "scape-6",
+      "tagline": "An intelligent email inbox that works for you",
+      "description": "Imagine opening your inbox and finding everything already organized, with replies ready to review. Scape is an intelligent email client that prioritizes messages, prepares contextual drafts, and helps track conversations and follow-ups. It understands your work across emails, meetings, calendars, and attachments, so you can spend less time managing communication and more time moving work forward.",
+      "category": "Email • Artificial Intelligence • Design",
+      "categoryFa": "ایمیل • هوش مصنوعی • طراحی",
+      "url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/66057095-dec7-47b9-a111-e4b47aa53bbb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a7bec0d6-10fa-405d-b1e6-4a7b7bfcc2a5.jpeg?auto=format",
+        "https://ph-files.imgix.net/0577faac-a1b7-47de-81bf-f7243dfc63ff.png?auto=format",
+        "https://ph-files.imgix.net/6bb3cb63-0f09-4dbc-9d3c-cd73d70f6d8a.png?auto=format",
+        "https://ph-files.imgix.net/ca59b125-61e1-4727-9f96-7651e5344cb5.png?auto=format",
+        "https://ph-files.imgix.net/4329102a-3c94-46f8-9e77-68fd52129cc3.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 289,
+      "websiteUrl": "https://www.producthunt.com/r/OG2OR3JKMHZ566?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 Melvin here, founder of Scape.As a founder, I’ve always felt overwhelmed by my inbox. In 2024, I was spending hours in Gmail, copy-pasting emails into ChatGPT. I wanted an inbox that could do more of that work without having to ask.So I assembled a team and spent 18 months in a small office in Stockholm building Scape with early users. We’ve obsessed over reliability, speed, design, and making it feel great to use. We even deleted Slack for our team to exclusively communicate over email, to make sure we love using our own product.During this time, it felt like a new AI email tool launched every week. Yet, to this day, most new users we talk to are using Gmail just as before. Models have become incredibly intelligent, yet email remains so manual.Scape is designed to organize your inbox automatically, and prepare replies using context from your emails, meetings and files, in a Mac app.Since we launched our invite-only Preview Release two months ago, thousands of people have started using Scape, including founders and teams at some of the world’s fastest-growing companies. Most of them stop going into Gmail entirely.Today, we want to bring that experience to more people.Introducing our free planStarting today, you can download Scape and use it for free, no credit card required. Here’s what’s included:Email client, with keyboard shortcuts and search across all your emails in under 100ms.Automatic inbox organization, including custom labels that sync to Gmail.Suggested email replies, exactly in your tone using context from your emails, meetings and apps.Local meeting recording, with no meeting bots and support for 99 languages.Chat assistant, that helps you draft emails, find things and even edit files.Automatic meeting follow-ups, ready for you to review and send.Multiple email accounts, unified in one inbox.We’re compliant with SOC 2, ISO 27001 and GDPR requirements. Your emails are encrypted, and we don’t train AI models on your data.Scape ProFor higher usage limits, we also offer Scape Pro. As a thank-you to the Product Hunt community, get 30 days free with code PH26.Get started by downloading the app at scape.app, and connecting your existing Gmail accounts.We’d love to hear what you think and what you wish your inbox could do for you. We’ll be here in the comments!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The local meeting recording without a bot is the part I keep coming back to. If the recording stays local, how do the suggested replies and follow-ups use that meeting context — does the transcript stay on the device too, or does it get summarized elsewhere first? And with custom labels syncing to Gmail, what happens if I relabel something in Gmail afterward?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is awesome!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I started using Scape about 2 months ago, and haven't looked back since. On day 1, I was able to categorize and autolabel 20k emails across my work and personal inboxes, and mark read many thousands more that was clogging up my inboxes. Thanks to Scape, no more email anxiety! I'm now ahead of emails, versus drowning in them. Thanks to Melvin and the Scape team for such a powerful and useful tool."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "damn, finally an app that looks as good/better than Superhuman?! I'm switching."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Scape definitely has best in class style! Any plans to add MCP? MCP could be added to the native app build. So would work for existing users out of the box, and easily installed in codex / claude without much friction. There is just something really cool to let codex and claude having access to email. Be it for \"slow drip mass outreach\" (I just invented that word 💀) or for agentic email checking, occasionally needed when doing agentic things. :D"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt!I’m Moritz, founding engineer at Scape.Melvin covered why we built Scape, so I wanted to share some product decisions we made to make Scape feel proactive and effortless.Proactive by default. We believe deeply in building the interface where the real work happens. This meant building an architecture that runs agent flows the moment you receive an email so drafts and meeting follow-ups are just waiting for your approval to be sent.Speed and small details that compound. To be the fastest email client in the world we made Scape local-first, which meant building our own sync engine from the ground up. This makes interactions instant and has the nice side effect of being able to use the app offline. A local native meeting recorder. We wanted to support recording any call, from Zoom meetings to FaceTime calls. What started as a simple idea required four full rewrites from scratch. For the final solution, we tuned our own echo cancellation model in C++, with help from the Google Meet founding team who, as it turns out, are based just a few hundred meters away from us in Stockholm.Most of all, we care about craft in every part of the product.Ask us anything about how we built Scape. I’m happy to answer anything!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Been using Scape since it's early days, great product and wonderful team!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-09-29",
       "rank": 3,
@@ -26695,65 +26862,6 @@
       }
     },
     {
-      "id": "ph-today-2",
-      "date": "2026-10-29",
-      "rank": 2,
-      "name": "Scape",
-      "slug": "scape-6",
-      "tagline": "An intelligent email inbox that works for you",
-      "description": "Imagine opening your inbox and finding everything already organized, with replies ready to review. Scape is an intelligent email client that prioritizes messages, prepares contextual drafts, and helps track conversations and follow-ups. It understands your work across emails, meetings, calendars, and attachments, so you can spend less time managing communication and more time moving work forward.",
-      "category": "Email • Artificial Intelligence • Design",
-      "categoryFa": "ایمیل • هوش مصنوعی • طراحی",
-      "url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/66057095-dec7-47b9-a111-e4b47aa53bbb.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/a7bec0d6-10fa-405d-b1e6-4a7b7bfcc2a5.jpeg?auto=format",
-        "https://ph-files.imgix.net/0577faac-a1b7-47de-81bf-f7243dfc63ff.png?auto=format",
-        "https://ph-files.imgix.net/6bb3cb63-0f09-4dbc-9d3c-cd73d70f6d8a.png?auto=format",
-        "https://ph-files.imgix.net/ca59b125-61e1-4727-9f96-7651e5344cb5.png?auto=format",
-        "https://ph-files.imgix.net/4329102a-3c94-46f8-9e77-68fd52129cc3.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 285,
-      "websiteUrl": "https://www.producthunt.com/r/OG2OR3JKMHZ566?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 Melvin here, founder of Scape.As a founder, I’ve always felt overwhelmed by my inbox. In 2024, I was spending hours in Gmail, copy-pasting emails into ChatGPT. I wanted an inbox that could do more of that work without having to ask.So I assembled a team and spent 18 months in a small office in Stockholm building Scape with early users. We’ve obsessed over reliability, speed, design, and making it feel great to use. We even deleted Slack for our team to exclusively communicate over email, to make sure we love using our own product.During this time, it felt like a new AI email tool launched every week. Yet, to this day, most new users we talk to are using Gmail just as before. Models have become incredibly intelligent, yet email remains so manual.Scape is designed to organize your inbox automatically, and prepare replies using context from your emails, meetings and files, in a Mac app.Since we launched our invite-only Preview Release two months ago, thousands of people have started using Scape, including founders and teams at some of the world’s fastest-growing companies. Most of them stop going into Gmail entirely.Today, we want to bring that experience to more people.Introducing our free planStarting today, you can download Scape and use it for free, no credit card required. Here’s what’s included:Email client, with keyboard shortcuts and search across all your emails in under 100ms.Automatic inbox organization, including custom labels that sync to Gmail.Suggested email replies, exactly in your tone using context from your emails, meetings and apps.Local meeting recording, with no meeting bots and support for 99 languages.Chat assistant, that helps you draft emails, find things and even edit files.Automatic meeting follow-ups, ready for you to review and send.Multiple email accounts, unified in one inbox.We’re compliant with SOC 2, ISO 27001 and GDPR requirements. Your emails are encrypted, and we don’t train AI models on your data.Scape ProFor higher usage limits, we also offer Scape Pro. As a thank-you to the Product Hunt community, get 30 days free with code PH26.Get started by downloading the app at scape.app, and connecting your existing Gmail accounts.We’d love to hear what you think and what you wish your inbox could do for you. We’ll be here in the comments!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The local meeting recording without a bot is the part I keep coming back to. If the recording stays local, how do the suggested replies and follow-ups use that meeting context — does the transcript stay on the device too, or does it get summarized elsewhere first? And with custom labels syncing to Gmail, what happens if I relabel something in Gmail afterward?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is awesome!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I started using Scape about 2 months ago, and haven't looked back since. On day 1, I was able to categorize and autolabel 20k emails across my work and personal inboxes, and mark read many thousands more that was clogging up my inboxes. Thanks to Scape, no more email anxiety! I'm now ahead of emails, versus drowning in them. Thanks to Melvin and the Scape team for such a powerful and useful tool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "damn, finally an app that looks as good/better than Superhuman?! I'm switching."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Scape definitely has best in class style! Any plans to add MCP? MCP could be added to the native app build. So would work for existing users out of the box, and easily installed in codex / claude without much friction. There is just something really cool to let codex and claude having access to email. Be it for \"slow drip mass outreach\" (I just invented that word 💀) or for agentic email checking, occasionally needed when doing agentic things. :D"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt!I’m Moritz, founding engineer at Scape.Melvin covered why we built Scape, so I wanted to share some product decisions we made to make Scape feel proactive and effortless.Proactive by default. We believe deeply in building the interface where the real work happens. This meant building an architecture that runs agent flows the moment you receive an email so drafts and meeting follow-ups are just waiting for your approval to be sent.Speed and small details that compound. To be the fastest email client in the world we made Scape local-first, which meant building our own sync engine from the ground up. This makes interactions instant and has the nice side effect of being able to use the app offline. A local native meeting recorder. We wanted to support recording any call, from Zoom meetings to FaceTime calls. What started as a simple idea required four full rewrites from scratch. For the final solution, we tuned our own echo cancellation model in C++, with help from the Google Meet founding team who, as it turns out, are based just a few hundred meters away from us in Stockholm.Most of all, we care about craft in every part of the product.Ask us anything about how we built Scape. I’m happy to answer anything!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Been using Scape since it's early days, great product and wonderful team!"
-        }
-      ]
-    },
-    {
       "id": "ph-week-10",
       "date": "2026-10-23",
       "rank": 10,
@@ -26800,7 +26908,54 @@
           "user": "[REDACTED]",
           "text": "The endpoint view is the interesting bit for me. A tool can be popular because of one useful endpoint, and that detail gets lost in a product-level ranking."
         }
-      ]
+      ],
+      "faDescription": "محصول Agent Hunt یک جدول رده‌بندی زنده و پویا از ابزارها و APIهایی است که ایجنت‌های هوش مصنوعی در عمل از آن‌ها استفاده می‌کنند. تمام جایگاه‌ها در این لیدربورد بر اساس فراخوانی‌های واقعی ایجنت‌ها از طریق زیرساخت Monid سنجیده شده و به‌صورت روزانه به‌روزرسانی می‌شوند. این محصول به توسعه‌دهندگان امکان می‌دهد پرکاربردترین ابزارها، شلوغ‌ترین اندپوینت‌ها و سریع‌ترین ابزارهای در حال رشد را در اکوسیستم هوش مصنوعی شناسایی کنند. بر خلاف پلتفرم‌های سنتی نظیر Product Hunt که بر اساس لایک و نظر کاربران رتبه‌بندی می‌کنند، رتبه‌بندی ایجنت هانت کاملاً مبتنی بر داده‌های واقعیِ مصرفِ ماشین به ماشین است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت 👋 من جاسپر، مدیر رشد Monid هستم. امروز Agent Hunt را معرفی می‌کنیم: پروداکت هانت برای ایجنت‌ها. این یک جدول رده‌بندی زنده از ابزارهایی است که ایجنت‌های هوش مصنوعی واقعاً استفاده می‌کنند. هر جایگاه بر اساس فراخوانی‌های واقعی ایجنت‌ها از طریق Monid به دست آمده و روزانه به‌روزرسانی می‌شود. آنچه در جدول می‌توانید ببینید: • پرکاربردترین ابزارها توسط ایجنت‌ها • پرتقاضاترین اندپوینت‌ها توسط ایجنت‌ها • سریع‌ترین ابزارهای در حال رشد در میان ایجنت‌ها. ببینید امروز چه کسی در صدر است: monid.ai/rankings. به نظر شما هفته آینده ایجنت‌ها چه ابزاری را بالا می‌کشند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایده جذابی است، واقعاً می‌تواند کاربردی باشد. کاتالوگ ابزارها چگونه افزایش می‌یابد؟ آیا افراد می‌توانند برای ثبت ابزار خود درخواست دهند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "لیست ابزارهایی با سریع‌ترین رشد اولین بخشی است که بررسی خواهم کرد. می‌تواند جای خوبی برای پیدا کردن APIهای کاربردی باشد که در غیر این صورت هرگز اسمشان را نمی‌شنیدم. امروز موفق باشید!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "واو، خیلی از این ابزارها را تا به حال نشنیده بودم! کشف این همه چیز جدید هیجان‌انگیز است! 👀 می‌دانم اندازه‌گیری آن سخت خواهد بود، اما دوست دارم رتبه‌بندی بر اساس میزان کاربردی بودن واقعی ابزارها پس از شروع استفاده را هم ببینم. وگرنه ممکن است تارو یک ابزار بسیار نامناسب بسازد که برای یک کار ساده به ۱۰ فراخوانی API نیاز داشته باشد... و تصادفاً در رتبه اول قرار گیرد 😂 پروژه بسیار خفنی است!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "نمای اندپوینت‌ها جذاب‌ترین بخش برای من است. یک ابزار می‌تواند صرفاً به خاطر یک اندپوینت کاربردی محبوب شود و این جزئیات در رتبه‌بندی‌های سطح محصول گم می‌شود."
+        }
+      ],
+      "aiReview": "پلتفرم Agent Hunt یک پاسخ هوشمندانه به تغییر پارادایم در وب است؛ جایی که مصرف‌کنندگان خدمات دیگر انسان‌ها نیستند، بلکه ایجنت‌های هوش مصنوعی هستند.\n\n۱. مسئله و راه‌حل: رتبه‌بندی‌های سنتی مانند Product Hunt مبتنی بر رای‌های انسانی (Upvotes) هستند که به‌راحتی دچار دستکاری یا سوگیری تبلیغاتی می‌شوند. Agent Hunt با اتصال مستقیم به گیت‌وی Monid، رتبه‌بندی واقعی مبتنی بر ترافیک ماشین‌به‌ماشین (M۲M) ارائه می‌دهد که کاملاً شفاف و غیرقابل تقلب دستی است.\n\n۲. معماری و تکنولوژی: سیستم نیازمند یک معماری دریافت رویداد (Event Ingestion) فوق‌العاده سریع با پایگاه‌داده‌های سری زمانی یا آنالیتیکس سنگین نظیر ClickHouse است تا میلیون‌ها لاگ فراخوانی API را پردازش کرده و لیدربورد را به صورت لحظه‌ای بروزرسانی کند.\n\n۳. مدل درآمدی: مدل اصلی به صورت B۲B است؛ جذب ارائه‌دهندگان API برای بهبود وضعیت خود در دیدرس ایجنت‌ها، ارائه تحلیل‌های عمیق بازار (Market Intelligence) به ارائه‌دهندگان سرویس، و ایجاد یک API Marketplace ویژه ایجنت‌ها.\n\n۴. نقاط قوت: سنجش براساس داتاهای واقعی مصرف، داشتن ابعاد تحلیلی مختلف (مانند تفکیک بر اساس اندپوینت) و انطباق کامل با موج جدید هوش مصنوعی.\n\n۵. نقاط ضعف: وابستگی شدید به میزان تبادلات گذرنده از گیت‌وی Monid (اگر ترافیک Monid کم باشد، داده‌ها نماینده واقعی کل بازار نخواهند بود) و احتمال دستکاری سیستم با فراخوانی‌های اسپم (Spam Calls) جهت بالا بردن رتبه.\n\n۶. نکته طلایی برای ایران: در ایران به دلیل پراکندگی سرویس‌های API (از خدمات بانکی و پستی تا پردازش تصویر)، راه‌اندازی یک API Gateway یکپارچه مخصوص ایجنت‌های ایرانی و ارائه لیدربورد مصرف واقعی، می‌تواند اولین هاب رسمی زیرساخت هوش مصنوعی کشور را شکل دهد و ارزش بالایی برای استارتاپ‌های حوزه AI ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "ایجنت‌بان (AgentBan)",
+        "description": "ایجنت‌بان یک لیدربورد زنده و هوشمند برای رصد محبوب‌ترین سرویس‌ها و ای‌پي‌آی‌های بومی در ایران است. این سیستم با تحلیل ترافیک واقعی فراخوانی‌های ایجنت‌های هوش مصنوعی، پرکاربردترین ابزارها را معرفی می‌کند. با این ابزار، توسعه‌دهندگان ایرانی می‌توانند سرویس‌های کارآمد را برای ایجنت‌های خود به سرعت شناسایی کنند.",
+        "marketOpportunity": "با رشد روزافزون توسعه ایجنت‌های هوش مصنوعی در ایران، نیاز مبرمی به زیرساختی برای سنجش و رتبه‌بندی واقعی ای‌پي‌آی‌های بومی وجود دارد. ایجاد چنین پلتفرمی می‌تواند شفافیت بازار سرویس‌های B۲B و APIهای ایرانی را به شدت افزایش دهد.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، شرکت‌های ارائه‌دهنده سرویس‌های API، معماران نرم‌افزار و سرمایه‌گذاران استارتاپی",
+        "challenges": [
+          "عدم وجود یک Gateway یکپارچه و همه‌گیر برای مانیتورینگ فراخوانی‌های ایجنت‌ها در بستر بومی",
+          "مقاومت شرکت‌ها در به اشتراک‌گذاری آمار واقعی فراخوانی APIها به دلیل مسائل امنیتی یا رقابتی"
+        ],
+        "monetization": [
+          "فروش اشتراک ویژه به شرکت‌ها جهت نمایش آمار تحلیل بازار و رفتار ایجنت‌ها",
+          "دریافت هزینه برای تبلیغ و پروموت کردن ابزارها در بخش ابزارهای برجسته"
+        ],
+        "techStack": [
+          "Next.js",
+          "Go",
+          "ClickHouse",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -42682,7 +42837,40 @@
           "user": "[REDACTED]",
           "text": "Eleven Realtime is ElevenLabs’ new family of speech-to-speech models for building voice agents that sound natural in conversation.Problem: Voice agents are usually stitched together from separate parts: speech recognition, a language model, turn-taking logic and a voice. Each hand-off adds delay, and that’s where conversations start to feel stiff, with awkward pauses and talking over each other.Solution: Eleven Realtime tunes speech recognition, turn-taking, the LLM and the voice end to end. It comes in two models. v1 Mini is built for natural conversation, and v1 Max is built for complex tasks that need precise, deliberate answers. You can use it in ElevenAgents or through a Realtime API.What makes it different: The API is OpenAI-compatible, so if you already have a voice app built on OpenAI’s Realtime API, you change the endpoint and model name and your existing event handlers keep working. Per ElevenLabs, time to first audio is 620 ms for v1 Mini and 570 ms for v1 Max, across 90+ languages.Key features:v1 Mini for assistants, tutors and interactive charactersv1 Max for lead qualification, customer support and schedulingPick the model from one dropdown in ElevenAgents, with transcription, turn-taking and voice preconfiguredDeploy to phone, web widget, WhatsApp and contact center platformsKnowledge base, guardrails, scripted scenario testing and production monitoring in ElevenAgentsSearchable, auditable conversation logsPer ElevenLabs, SOC 2, HIPAA and GDPR support, with EU Data Residency and Zero Retention modesWho it’s for: Developers and teams building voice agents for support, sales, scheduling or education who want natural-sounding conversations without wiring the pieces together themselves.Try it via Eleven Realtime, the docs and the OpenAI compatibility guide."
         }
-      ]
+      ],
+      "faDescription": "ایلوون ریئل‌تایم (Eleven Realtime) خانواده جدیدی از مدل‌های گفتار-به-گفتار شرکت ایلوون‌لبز برای ساخت ایجنت‌های صوتی هوشمند است. در این پلتفرم، تمامی بخش‌ها شامل تشخیص گفتار، مدیریت نوبت صحبت، مدل زبانی بزرگ و تولید صدا به صورت یکپارچه و سرتاسری (End-to-End) بهینه‌سازی شده‌اند. نسخه v۱ Mini برای مکالمات طبیعی و روان و نسخه v۱ Max برای انجام وظایف پیچیده و نیازمند پاسخ‌های دقیق طراحی شده‌اند که تاخیر زمان تا شروع صوت در آن‌ها به ترتیب ۶۲۰ و ۵۷۰ میلی‌ثانیه است. این سرویس از بیش از ۹۰ زبان پشتیبانی کرده و با APIهای همگام با OpenAI ارائه می‌شود، به طوری که توسعه‌دهندگان تنها با تغییر اندپوینت و نام مدل می‌توانند پروژه‌های خود را متصل کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ایلوون ریئل‌تایم خانواده جدیدی از مدل‌های گفتار به گفتار ایلوون‌لبز برای ساخت ایجنت‌های صوتی با صدای کاملاً طبیعی در مکالمه است. مشکل اصلی اینجاست که ایجنت‌های صوتی معمولاً از قطعات مجزا شامل تشخیص گفتار، مدل زبانی، منطق نوبت‌گیری و سنتز صدا به هم وصل می‌شوند؛ این دست‌به‌دست شدن داده‌ها باعث ایجاد تاخیر، مکث‌های عجیب و تداخل صوتی می‌شود. راه‌حل ایلوون‌لبز، بهینه‌سازی سرتاسری این چهار بخش در دو مدل است: v۱ Mini برای گفتگوهای طبیعی و v۱ Max برای کارهای پیچیده که نیازمند پاسخ‌های دقیق هستند. سازگاری کامل API آن با OpenAI به توسعه‌دهندگان اجازه می‌دهد تنها با تغییر اندپوینت و نام مدل، سیستم موجود خود را ارتقا دهند. این سرویس تاخیر تا پخش صوت را به ۵۷۰ تا ۶۲۰ میلی‌ثانیه رسانده، از ۹۰+ زبان پشتیبانی می‌کند و قابلیت استقرار روی تلفن، ویجت وب، واتس‌اپ و مرکز تماس را داراست، همراه با استانداردهای امنیتی نظیر HIPAA و GDPR."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nسیستم‌های صوتی سنتی هوش مصنوعی از اتصال چندین ماژول مجزا (تشخیص گفتار -> پردازش متنی -> سنتز صدا) استفاده می‌کنند که باعث تاخیر بالا و مکث‌های غیرطبیعی می‌شود. ElevenLabs Realtime با معماری سرتاسری (Speech-to-Speech)، تمام این فرآیندها را یکپارچه کرده و تاخیر را به زیر ۶۰۰ میلی‌ثانیه رسانده است.\n\nمعماری و تکنولوژی:\nبهینه‌سازی سرتاسری (End-to-End Tuning) مدل زبانی و صوتی با قابلیت تشخیص نوبت صحبت (Turn-taking). پشتیبانی از پروتکل WebRTC/WebSocket و سازگاری کامل با ساختار APIهای OpenAI که مهاجرت فنی را بسیار ساده می‌کند.\n\nمدل درآمدی:\nمحاسبه قیمت بر اساس میزان مصرف (دقیقه مکالمه یا توکن) همراه با پلن‌های enterprise شامل استانداردهای امنیتی و عدم ذخیره‌سازی داده (Zero Retention).\n\nنقاط قوت:\n۱. تاخیر فوق‌العاده پایین (۵۷۰ms) و کیفیت صدای بی‌نظیر.\n۲. سازگاری کامل با APIهای موجود بازار جهت ادغام سریع.\n۳. ارائه ابزارهای کامل مدیریت سناریو، ارزیابی کیفیت و پشتیبانی از ۹۰+ زبان.\n\nنقاط ضعف:\n۱. وابستگی شدید به پهنای باند و پایداری شبکه اینترنت.\n۲. هزینه پردازش بالا در مقایسه با مدل‌های متنی ساده.\n\nنکته طلایی برای بازار ایران:\nبزرگ‌ترین پاشنه آشیل ربات‌های صوتی در ایران، تاخیر بالا و لحن روباتیک است. پیاده‌سازی مدل بومی‌شده Speech-to-Speech که بتواند بدون قطع شدن مکالمه، به اصطلاحات عامیانه فارسی پاسخ دهد و مستقیماً به مرکز تماس (Asterisk/Issabel) متصل شود، بازار هوشمندسازی پشتیبانی شرکت‌های بزرگ ایرانی را دگرگون خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "آوا ریئل‌تایم (AvaRealtime)",
+        "description": "این محصول یک زیرساخت بومی پردازش سرتاسری گفتار به گفتار (Speech-to-Speech) برای هوشمندسازی مراکز تماس و دستیاران صوتی در ایران است. این پلتفرم با حذف تاخیرهای ناشی از زنجیره‌سازی جداگانه تشخیص گفتار و سنتز صدا، تجربه مکالمه روان و طبیعی بدون مکث را فراهم می‌کند. سیستم به صورت مستقیم با خطوط SIP Trunk و سامانه‌های VoIP سازمان‌ها متصل شده و پاسخگویی صوتی هوشمند را ممکن می‌سازد.",
+        "marketOpportunity": "مراکز تماس سازمان‌های بزرگ، بانک‌ها، بیمه‌ها و پلتفرم‌های ای‌کومرس در ایران با هزینه‌های سنگین نیروی انسانی و کیفیت پایین پاسخگویی روبه‌رو هستند. بومی‌سازی یک مدل گفتار به گفتار با تاخیر زیر ۱ ثانیه روی لهجه‌ها و زبان فارسی می‌تواند سهم قابل توجهی از بازار زیرساخت‌های خدمات مشتریان را تصاحب کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "مراکز تماس سازمان‌ها، سامانه‌های نوبت‌دهی، پلتفرم‌های آموزش آنلاین و شرکت‌های ارائه دهنده خدمات CRM و VoIP",
+        "challenges": [
+          "چالش‌های زیرساختی و تاخیر شبکه برای ارتباطات صوتی همزمان (Realtime)",
+          "پیچیدگی‌های زبان فارسی، تنوع لهجه‌ها و نبود دادگان کلامی کافی برای آموزش مدل‌های سرتاسری"
+        ],
+        "monetization": [
+          "فروش اشتراک SaaS بر اساس دقیقه مصرف صوتی",
+          "ارائه لایسنس سازمانی و استقرار اختصاصی روی سرورهای داخلی (On-Premise) برای بانک‌ها"
+        ],
+        "techStack": [
+          "Python",
+          "PyTorch",
+          "FastAPI",
+          "WebRTC",
+          "Next.js",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -44307,6 +44495,66 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-29",
+      "rank": 3,
+      "name": "Floot in ChatGPT",
+      "slug": "floot-in-chatgpt",
+      "tagline": "Build and publish real apps without leaving ChatGPT",
+      "description": "Floot is now a native app in your ChatGPT sidebar. Describe what you want, watch it build in a live preview inside the chat, and publish it with a real link. Database, logins and hosting are built in, and the AI runs on your ChatGPT plan.",
+      "category": "Developer Tools • Artificial Intelligence • No-Code",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
+      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b66f0961-7df0-4d63-82a4-b29d8084afdb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5b951486-a972-41d7-82dd-059d2cfa1f92.jpeg?auto=format",
+        "https://ph-files.imgix.net/0929be73-6b4e-4389-aa0c-f1ddc7f341f0.jpeg?auto=format",
+        "https://ph-files.imgix.net/722abd08-c835-45a5-a5fd-edfcde2fe726.jpeg?auto=format",
+        "https://ph-files.imgix.net/c4d6df99-d77e-4850-bb74-3d31130931c1.jpeg?auto=format",
+        "https://ph-files.imgix.net/32087867-75f2-48e5-bcda-8aab6ff7680d.jpeg?auto=format",
+        "https://ph-files.imgix.net/fe3996b7-d350-43cc-add6-813fdb14d07a.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 176,
+      "websiteUrl": "https://www.producthunt.com/r/VOASQ4LXPHOIXR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt!Yuj here, founder of Floot (YC S25).Floot was already one of the most used ways to build apps over MCP, and it’s the top-ranked app builder in ChatGPT. Now it’s a native app in your ChatGPT sidebar, which means it can:→ Show a live preview of your app right inside the chat→ Pick up what you’ve been discussing, so you don’t have to re-explain or copy and paste→ Send prompts to ChatGPT for you while it buildsThen you can:→ Publish to a real link, plus the App Store and Google Play→ Get a database, user logins and hosting built in→ Build on your ChatGPT plan. We don’t charge for AI tokens, and you get 100 free build actions a dayTo try it: install Floot from ChatGPT’s app directory, sign in, type @Floot and tell it what to build.What’s the first app you’d build from your ChatGPT sidebar? Our team is in the comments all day."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Yuj. Building the whole app from inside Claude or ChatGPT is a nice idea, I already do most of my planning in Claude so this fits how I work. One question from the agency side: if I build an app for a client this way and later they want to host it themselves, can I export the code and the database, or does it stay on Floot?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!Building directly inside ChatGPT with a live preview is amazing. Can we also deploy apps from here?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats with the launch!Love the idea! It's ChatGPT inside ChatGPT :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part that would make or break this for me is picking up the earlier discussion in ChatGPT — if I've been going back and forth about an idea in a long thread, how much of that does Floot actually carry into the build? Does it use the whole thread's decisions, or mainly the prompt where I bring Floot in, and what happens if I change my mind partway through?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Integration into ChatGPT is smart. Really smart."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "ooh I like the part about AI running on my ChatGPT plan. V cool! Congrats on this launch 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The live preview inside the chat is a nice addition. Being able to point at what needs changing while discussing it sounds like a much smoother workflow. Congrats on the launch!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-09-24",
       "rank": 7,
@@ -44830,66 +45078,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-29",
-      "rank": 3,
-      "name": "Floot in ChatGPT",
-      "slug": "floot-in-chatgpt",
-      "tagline": "Build and publish real apps without leaving ChatGPT",
-      "description": "Floot is now a native app in your ChatGPT sidebar. Describe what you want, watch it build in a live preview inside the chat, and publish it with a real link. Database, logins and hosting are built in, and the AI runs on your ChatGPT plan.",
-      "category": "Developer Tools • Artificial Intelligence • No-Code",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • No-Code",
-      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b66f0961-7df0-4d63-82a4-b29d8084afdb.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5b951486-a972-41d7-82dd-059d2cfa1f92.jpeg?auto=format",
-        "https://ph-files.imgix.net/0929be73-6b4e-4389-aa0c-f1ddc7f341f0.jpeg?auto=format",
-        "https://ph-files.imgix.net/722abd08-c835-45a5-a5fd-edfcde2fe726.jpeg?auto=format",
-        "https://ph-files.imgix.net/c4d6df99-d77e-4850-bb74-3d31130931c1.jpeg?auto=format",
-        "https://ph-files.imgix.net/32087867-75f2-48e5-bcda-8aab6ff7680d.jpeg?auto=format",
-        "https://ph-files.imgix.net/fe3996b7-d350-43cc-add6-813fdb14d07a.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 173,
-      "websiteUrl": "https://www.producthunt.com/r/VOASQ4LXPHOIXR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt!Yuj here, founder of Floot (YC S25).Floot was already one of the most used ways to build apps over MCP, and it’s the top-ranked app builder in ChatGPT. Now it’s a native app in your ChatGPT sidebar, which means it can:→ Show a live preview of your app right inside the chat→ Pick up what you’ve been discussing, so you don’t have to re-explain or copy and paste→ Send prompts to ChatGPT for you while it buildsThen you can:→ Publish to a real link, plus the App Store and Google Play→ Get a database, user logins and hosting built in→ Build on your ChatGPT plan. We don’t charge for AI tokens, and you get 100 free build actions a dayTo try it: install Floot from ChatGPT’s app directory, sign in, type @Floot and tell it what to build.What’s the first app you’d build from your ChatGPT sidebar? Our team is in the comments all day."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!Building directly inside ChatGPT with a live preview is amazing. Can we also deploy apps from here?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats with the launch!Love the idea! It's ChatGPT inside ChatGPT :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The part that would make or break this for me is picking up the earlier discussion in ChatGPT — if I've been going back and forth about an idea in a long thread, how much of that does Floot actually carry into the build? Does it use the whole thread's decisions, or mainly the prompt where I bring Floot in, and what happens if I change my mind partway through?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Integration into ChatGPT is smart. Really smart."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "ooh I like the part about AI running on my ChatGPT plan. V cool! Congrats on this launch 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The live preview inside the chat is a nice addition. Being able to point at what needs changing while discussing it sounds like a much smoother workflow. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Writing something like a booking page and getting a real hosted link in the same chat where I had the idea is the shortest path I have seen so far, and using the ChatGPT plan for the AI part is a nice touch."
-        }
-      ]
     },
     {
       "id": "ph-today-7",
@@ -45454,6 +45642,58 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-10-29",
+      "rank": 4,
+      "name": "Notch Metrics",
+      "slug": "notch-metrics",
+      "tagline": "Use claude code to build analytics widgets for your notch",
+      "description": "Revenue, MRR and subscribers from Stripe, Polar, Paddle, Dodo Payments and more, in the MacBook notch.",
+      "category": "Productivity • Analytics • Menu Bar Apps",
+      "categoryFa": "بهره‌وری • تحلیل داده • Menu Bar Apps",
+      "url": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/cf275bcd-37c6-4d63-8150-cf5dd40fadc6.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/887bbd13-a9e1-4bbd-a326-391aaf79aacd.jpeg?auto=format",
+        "https://ph-files.imgix.net/2b56dc47-b86d-4365-b0f1-f879a5e4dcf5.png?auto=format",
+        "https://ph-files.imgix.net/8e6480aa-c6f1-41aa-8688-cab1352b490a.png?auto=format",
+        "https://ph-files.imgix.net/f1f534f2-3046-4bd1-85d7-22ff21997c5c.png?auto=format",
+        "https://ph-files.imgix.net/d4f3e336-6df7-4370-8b2a-57a09294a837.png?auto=format",
+        "https://ph-files.imgix.net/dfa0d779-191c-49cf-9421-7c0c17d0486b.png?auto=format"
+      ],
+      "maker": "Musthaq Ahamad",
+      "makerTitle": "UX Engineer and Visual Designer",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 170,
+      "websiteUrl": "https://www.producthunt.com/r/BJSV7OQQ7BMSV6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt.I’m Musthaq, and I made Notch Metrics.The numbers I check most sit behind four different logins. A browser tab is a decision every time, and the decision comes back every morning. Notch Metrics puts those numbers in the camera housing on your MacBook. Look up, and they are already there.Hover the notch and it opens. Revenue, MRR, subscribers and today’s takings sit side by side, with a recent-payments feed beside them. Widgets run from a single square to the full width, and you drag and resize them in the notch itself. No dock icon, no window, no menu bar clutter.Sixteen sources connect today: Stripe, Polar, Paddle, RevenueCat, Lemon Squeezy, Dodo Payments, Google Analytics, Search Console, YouTube, GitHub, OpenAI and Claude among them. Four are labelled beta on the site. New ones arrive without an app update. For anything else you write a custom metric against your own API. Custom metrics are contained, not sandboxed.Your provider keys never reach your Mac. Each is encrypted with its own key, bound to your account and the integration that made it. That row copied anywhere else decrypts to nothing.Apple silicon, macOS 14 or later. $9 a month or $49 a year, with a seven-day trial."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "own api number - does it still fetch if you never hover the notch?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part that caught me is the custom metric against your own API sitting alongside Stripe and Paddle in the same view. I check a few different dashboards every morning, and the friction is never one provider, it is comparing numbers that live in different places. Does a custom metric get the same side-by-side treatment as the built-in sources, or does it live in its own widget?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the notch is a smart spot for numbers you check anyway. does it show the revenue change versus yesterday or just the running total?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "MRR sitting in the camera housing where I already glance a hundred times a day is smarter than another dashboard tab, since the whole problem is remembering to check at all."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Having Stripe and Paddle figures together is the useful part here. I'd want the date range visible too, especially when checking today's revenue beside MRR."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -46513,58 +46753,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-10-29",
-      "rank": 4,
-      "name": "Notch Metrics",
-      "slug": "notch-metrics",
-      "tagline": "Use claude code to build analytics widgets for your notch",
-      "description": "Revenue, MRR and subscribers from Stripe, Polar, Paddle, Dodo Payments and more, in the MacBook notch.",
-      "category": "Productivity • Analytics • Menu Bar Apps",
-      "categoryFa": "بهره‌وری • تحلیل داده • Menu Bar Apps",
-      "url": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/cf275bcd-37c6-4d63-8150-cf5dd40fadc6.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/887bbd13-a9e1-4bbd-a326-391aaf79aacd.jpeg?auto=format",
-        "https://ph-files.imgix.net/2b56dc47-b86d-4365-b0f1-f879a5e4dcf5.png?auto=format",
-        "https://ph-files.imgix.net/8e6480aa-c6f1-41aa-8688-cab1352b490a.png?auto=format",
-        "https://ph-files.imgix.net/f1f534f2-3046-4bd1-85d7-22ff21997c5c.png?auto=format",
-        "https://ph-files.imgix.net/d4f3e336-6df7-4370-8b2a-57a09294a837.png?auto=format",
-        "https://ph-files.imgix.net/dfa0d779-191c-49cf-9421-7c0c17d0486b.png?auto=format"
-      ],
-      "maker": "Musthaq Ahamad",
-      "makerTitle": "UX Engineer and Visual Designer",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 165,
-      "websiteUrl": "https://www.producthunt.com/r/BJSV7OQQ7BMSV6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt.I’m Musthaq, and I made Notch Metrics.The numbers I check most sit behind four different logins. A browser tab is a decision every time, and the decision comes back every morning. Notch Metrics puts those numbers in the camera housing on your MacBook. Look up, and they are already there.Hover the notch and it opens. Revenue, MRR, subscribers and today’s takings sit side by side, with a recent-payments feed beside them. Widgets run from a single square to the full width, and you drag and resize them in the notch itself. No dock icon, no window, no menu bar clutter.Sixteen sources connect today: Stripe, Polar, Paddle, RevenueCat, Lemon Squeezy, Dodo Payments, Google Analytics, Search Console, YouTube, GitHub, OpenAI and Claude among them. Four are labelled beta on the site. New ones arrive without an app update. For anything else you write a custom metric against your own API. Custom metrics are contained, not sandboxed.Your provider keys never reach your Mac. Each is encrypted with its own key, bound to your account and the integration that made it. That row copied anywhere else decrypts to nothing.Apple silicon, macOS 14 or later. $9 a month or $49 a year, with a seven-day trial."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "own api number - does it still fetch if you never hover the notch?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The part that caught me is the custom metric against your own API sitting alongside Stripe and Paddle in the same view. I check a few different dashboards every morning, and the friction is never one provider, it is comparing numbers that live in different places. Does a custom metric get the same side-by-side treatment as the built-in sources, or does it live in its own widget?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the notch is a smart spot for numbers you check anyway. does it show the revenue change versus yesterday or just the running total?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "MRR sitting in the camera housing where I already glance a hundred times a day is smarter than another dashboard tab, since the whole problem is remembering to check at all."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Having Stripe and Paddle figures together is the useful part here. I'd want the date range visible too, especially when checking today's revenue beside MRR."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -50352,7 +50540,63 @@
           "user": "[REDACTED]",
           "text": "Hey PH 👋 I lead tech at ShogunAI.The thing that bugged us about every AI tool was having to re-explain everything, every time: who this person is, what we promised, where that thread went. ShogunAI builds that picture of your work as you go, right on your Mac, and keeps the evidence behind everything it knows, so you can always see why it thinks something.Think of it like a sharp chief of staff: it already knows the context and has the work ready, and you just hit go.Tell us what you'd throw at it first. We're shipping fast and building around what you say :)"
         }
-      ]
+      ],
+      "faDescription": "یک دستیار هوش مصنوعی است که کارهای شما را به خاطر می‌سپارد و در آماده‌سازی جلسات، جستجو، نوشتن و پیگیری‌ها کمک می‌کند. می‌توانید ShogunAI را برای مک به‌صورت رایگان به مدت ۷ روز امتحان کنید. این ابزار در ناحیه notch مک شما مستقر می‌شود و با فشار کلید Option می‌توانید پیش‌نویس‌های هوشمند با زمینهٔ کار قبلی دریافت کنید. همچنین یادداشت‌های جلسه، ترجمهٔ دو‑طرفه، جستجوی یک‌سواله در ایمیل، چت، اسناد و تقویم را با منبع ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! من تورو هستم و ShogunAI را می‌سازم. به‌صورت یک خط: ShogunAI هوش مصنوعی شخصی شماست که در ناتچ مک شما زندگی می‌کند، کارهای شما را به‌صورت زنده به‌خاطر می‌سپارد، با منبع نشان می‌دهد و حلقه‌های باز ابزارهای مورد استفاده‌تان را تکمیل می‌کند. دو مشکلی که روزانه با هوش مصنوعی داشتیم این بود: ۱) هوش مصنوعی من را نمی‌شناخت؛ تصمیمات هفتهٔ گذشته، گفتگوهای باز، چه کسی چه گفت. ۲) پاسخ می‌داد اما کار را خودم انجام می‌دادم؛ پیش‌نویس را کپی می‌کردم، ایمیل باز می‌کردم، فایل را می‌یابدم، پیوست می‌کردم و می‌فرستادم. ما می‌خواستیم این دو شکاف را ببندیم. ویژگی‌ها: فشار Option و پیش‌نویس هوشمند در همان برنامه، یادداشت‌های جلسه بدون ضبط صوت، ترجمهٔ دو‑طرفه، پرسش یک‌سواله در ایمیل، چت، اسناد و تقویم با منبع، خلاصهٔ روز قبل، انتقال حافظه به برنامه‌های AI دیگر. تعهدات: بدون ضبط صفحه یا صدا، فقط متن و منبع، حافظه روی مک شما، هر عملی که به شخص دیگر می‌رسد تا تأیید شما صبر می‌کند، هیچ برنامهٔ رایگان بدون داده شما نیست. پیشنهاد: یک ماه رایگان با کد ShogunAI۲۰۲۶۰۹ برای هر پلن ماهانه. نیازمندی‌ها: macOS ۱۴ یا بالاتر روی Apple Silicon. قیمت: استاندارد ۶۲ دلار/ماه، پرو ۱۲۴ دلار/ماه یا ۴۹/۹۹ دلار سالانه با دورهٔ آزمایشی ۷ روزه."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "@shogunai رویکرد جالبی برای هوش مصنوعی شخصی است. آیا ShogunAI کاملاً به‌صورت محلی کار می‌کند یا برای برخی وظایف از مدل‌های ابری استفاده می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ایدهٔ دستیار شخصی روی مک را خیلی دوست داشتم. خیلی خوشحال می‌شوم اگر نسخهٔ موبایلی هم داشته باشید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بسیاری از شما پرسیدید «نسخهٔ ویندوز کی آماده می‌شود؟» لطفاً صبر کنید؛ در حال کار روی آن هستیم! برای لیست انتظار ثبت‌نام کنید و به‌روز بمانید: https://shogunai.si/windows. نسخهٔ موبایل هم به‌زودی می‌آید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "@shogunai به‌عنوان صاحب آژانس، داشتن یک مکان برای پیگیری وظایف مشتریان و فالو‑آپ‌ها در یکجا، به‌ویژه هنگام مدیریت پروژه‌های متعدد، بسیار مفید خواهد بود."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "منبع تصمیمی که به‌خاطر سپرده می‌شود به‌اندازهٔ خود حافظه مهم است؛ قبل از اقدام به تعهد قدیمی، می‌خواهم رشتهٔ اصلی را باز کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "سلام Product Hunt! ما تیم ShogunAI هستیم. هوش مصنوعی شخصی می‌سازیم که زمینهٔ کار شما را می‌فهمد تا هر بار از ابتدا توضیح ندهید. دوست داریم شما تجربهٔ نوشتن و ترجمه با کلید Option را امتحان کنید. از پیش‌نویس پاسخ‌ها تا آماده‌سازی جلسات، هدف ما کمک به شما برای پیش رفتن در کارهای روزانه بدون قطع جریان است. جزئیات کوچک را طوری طراحی کرده‌ایم که تعامل طبیعی به‌نظر برسد. هنوز مواردی برای بهبود داریم؛ در حین استفاده بگویید چه چیزهایی مفید است، کجا گیر می‌کنید و چه ویژگی‌های دیگری می‌خواهید. می‌خواهیم محصولی بسازیم که هر روز به آن تکیه کنید و بر اساس نحوهٔ کار واقعی شما شکل بگیرد. ممنون که ShogunAI را امتحان می‌کنید!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "Hey PH 👋 من مسئول فناوری در ShogunAI هستم. مشکل همهٔ ابزارهای هوش مصنوعی این بود که هر بار باید همه چیز را دوباره توضیح می‌دادید: این شخص کیست، چه وعده‌ای دادیم، آن رشته کجا رفته است. ShogunAI این تصویر را به‌صورت زنده روی مک شما می‌سازد و شواهد پشت هر دانشی که دارد را نگه می‌دارد، بنابراین همیشه می‌توانید ببینید چرا این‌طور فکر می‌کند. تصور کنید یک معاون اجرایی تیزبین دارید که زمینه را می‌داند و کار آماده است؛ فقط کافی است «اجرا» بزنید. بگویید اولین کاری که می‌خواهید به آن بسپارید چیست. ما سریع می‌فرستیم و بر پایهٔ بازخورد شما می‌سازیم."
+        }
+      ],
+      "aiReview": "مسئله: کاربران مک در ایران برای مدیریت مداوم اطلاعات کاری، ایمیل‌ها و جلسات نیاز به ابزاری دارند که هر بار مجبور به توضیح مجدد زمینه نباشند و همچنین نگران حفظ حریم خصوصی داده‌ها هستند. راه‌حل: ShogunAI یک دستیار هوش مصنوعی محلی ارائه می‌دهد که متن‌ها، تصمیمات و منابع را در حافظهٔ دستگاه ذخیره می‌کند و با فشار یک کلید پیش‌نویس‌های هوشمند، خلاصهٔ جلسات و ترجمهٔ دو‑طرفه را فراهم می‌کند. معماری و تکنولوژی: لایهٔ محلی بر پایهٔ مدل‌های LLM به‌صورت on‑device اجرا می‌شود (مثلاً استفاده از مدل‌های متن باز مثل Llama یا Mistral به‌صورت بهینه‌شده برای Apple Silicon) و یک سرویس همگام‌سازی امن برای ذخیرهٔ متادیتا در PostgreSQL بر بستر Next.js فراهم می‌کند. مدل درآمدی: دو پلن اشتراکی (استاندارد و پرو) با قیمت‌گذاری ماهانه و سالانه، به‌علاوه فروش لایسنس سازمانی با پشتیبانی اختصاصی؛ می‌توان در آینده افزونه‌های پرداخت به‌ازای ویژگی‌های پیشرفته (مانند ترجمهٔ تخصصی یا تجزیه و تحلیل داده‌های بزرگ) اضافه کرد. نقاط قوت: حفظ کامل داده‌ها روی دستگاه، یکپارچه‌سازی با برنامه‌های موجود مک، تجربهٔ کاربری یک‑کلید، و قابلیت گسترش به نسخه‌های ویندوز و موبایل. نقاط ضعف: وابستگی به سخت‌افزار Apple Silicon، نیاز به بهینه‌سازی مدل‌های بزرگ برای عملکرد زمان واقعی، و چالش‌های بازاریابی در بازار ایران به‌دلیل محدودیت‌های قانونی برای ابزارهای AI. نکتهٔ طلایی برای ایران: تمرکز بر حفظ حریم خصوصی و ارائهٔ نسخهٔ کاملاً محلی می‌تواند به‌عنوان مزیت رقابتی در برابر رقبای ابری بین‌المللی عمل کند و اعتماد کاربران شرکتی و دولتی را جلب نماید.",
+      "iranEquivalent": {
+        "productName": "ShogunAI",
+        "description": "ShogunAI دستیار هوش مصنوعی شخصی برای کاربران مک است که با حفظ متن‌ها و تصمیمات کاری، به‌صورت لحظه‌ای در نوشتن ایمیل، تهیهٔ خلاصهٔ جلسات و ترجمهٔ دو‑طرفه کمک می‌کند. این ابزار به‌صورت محلی روی مک اجرا می‌شود و داده‌ها فقط بر روی دستگاه ذخیره می‌شوند. با یک کلید می‌توانید پیش‌نویس‌های هوشمند را مستقیماً در برنامه‌های مورد استفاده‌تان دریافت کنید.",
+        "marketOpportunity": "بازار ابزارهای بهره‌وری برای کاربران مک در ایران در حال رشد است و نیاز به راه‌حل‌های هوشمند با حفظ حریم خصوصی احساس می‌شود. علاوه بر این، شرکت‌های کوچک و استارتاپ‌ها به دنبال کاهش زمان صرف شده برای جستجو و پیگیری اطلاعات هستند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کاربران مک حرفه‌ای، فریلنسرها، تیم‌های کوچک فناوری و شرکت‌های نوپا",
+        "challenges": [
+          "حفظ حریم خصوصی در محیط‌های شرکتی",
+          "بهینه‌سازی عملکرد بر روی سخت‌افزارهای متنوع مک بدون ناتچ"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با پلن‌های استاندارد و پرو",
+          "فروش لایسنس سازمانی با پشتیبانی اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -55835,6 +56079,64 @@
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-29",
+      "rank": 5,
+      "name": "Gologin Cloud Browser",
+      "slug": "gologin-cloud-browser-2",
+      "tagline": "Cloud browser for AI agents and tough sites ",
+      "description": "Gologin Cloud Browser gives AI agents and scrapers real Chromium browsers that stay logged in. Persistent sessions survive across runs, so there’s no re-auth or lost state. Built-in stealth and anti-bot protection, plus proxies in 150+ countries. Fully serverless, it scales to thousands of browsers and works with Playwright and Puppeteer via WebSocket. Built by the GoLogin team: 7 years’ expertise, SOC 2 Type II, 99.9% SLA. Plans from $4.50/mo.",
+      "category": "SaaS • Developer Tools • Artificial Intelligence",
+      "categoryFa": "نرم‌افزار ابری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/gologin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c2dcc381-b427-4d86-a78f-d5d61c784624.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/8a33038a-ff30-42c0-b7c5-13bc3a3fc6d9.png?auto=format",
+        "https://ph-files.imgix.net/359ac873-f816-45d3-8a6d-e03fa3eebe3d.png?auto=format",
+        "https://ph-files.imgix.net/9ac101f1-720b-4335-88bb-f70476176581.png?auto=format",
+        "https://ph-files.imgix.net/c740d57e-7aab-4c33-bf4d-f7f79e48a8c3.jpeg?auto=format"
+      ],
+      "maker": "Eugene  Stepnov",
+      "makerTitle": "Doing things at Gologin.com",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 137,
+      "websiteUrl": "https://www.producthunt.com/r/TJNEWWJYUBDNAH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋Eugene here, from Gologin.The problemWe kept seeing the same failure mode from teams running scrapers and AI agents at scale: a brand-new browser is the most suspicious thing on the internet. Cloudflare, DataDome and Akamai aren't really hunting for automation, because that's cheap to fake. They score coherence: does the hardware story hold together, and has this identity been seen before?A container that didn't exist three seconds ago fails both checks. Not for being a bot, but for being a stranger.What we builtSo we asked: what if restoring a session meant restoring the whole identity, not just the cookie jar? That means cookies, device fingerprint, and the exact residential or mobile IP it logged in from.That's Gologin Cloud Browser. One line of code swaps into your existing Playwright/Puppeteer script. Log in once, and the same device, same network, same session comes back every run.Honest notesThis sits on top of the Gologin platform, with 7 years of anti-detect browser work behind it. It's not a brand-new standalone product.We're live today, so if something's confusing or broken, tell us. I'm reading every comment.Your turnCurious how you're handling this today. Are you re-authenticating manually between runs, rotating proxies and hoping for the best, or have you found another way to keep sessions alive? And once you try it: does session persistence matter more to you, or the fingerprint/IP coherence side? 👇"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch guys! And great hunter here @rohanrecommends I huge fan of Gologin. Have used it previosly multiple times and great experience."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Persistent sessions that survive across runs is the part of agent infra nobody puts on the slide deck and everybody hits in week two. How do you handle a site that rotates cookies or forces re-auth mid-run - does the profile recover on its own, or does the agent have to catch it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Restoring the whole identity, not just the cookie jar, is the part that stood out — especially the same device and IP coming back every run. When a site still asks for 2FA mid-run, does the agent pause and surface Live View on its own, or does it have to detect the challenge first before handing control back?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "is it easy to organize profiles into groups when working with a large team?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "If I start a session and forget to shut it down, am I charged for those idle minutes? Or is there an inactivity timeout to catch idle sessions? Really interested in digging in further."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Definitely something to keep an eye on. We have dabbled with CUA to automate workflows and the login side of the process was always the weak spot. Glad that someone has decided to tackle that aspect."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "keeping the session around between runs should save a lot of repeated setupi would want the controls for sharing and retiring a session to be as clear as the controls for starting one"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-18",
       "rank": 5,
@@ -56417,64 +56719,6 @@
         "confidence": 75
       },
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nCaveman یک ابزار قدرتمند است که با استفاده از یک پروکسی محلی، لاگ‌ها، خروجی ابزارها و فایل‌ها را قبل از هر تماس به ارائه‌دهنده فشرده می‌کند. این ابزار می‌تواند با استفاده از بارگیری متن به عنوان تصویر، هر مهارت موجود را با حدود ۵۰ درصد کمتر توکن‌ها اجرا کند.\n🔹 معماری و تکنولوژی احتمالی:\nCaveman بر اساس یک اکوسیستم منبع باز با بیش از ۷۵ هزار ستاره در گیت‌هاب ساخته شده است. این ابزار می‌تواند با استفاده از یک پروکسی محلی بین عامل و ارائه‌دهنده، خروجی ابزارها را فشرده کند و از این طریق هزینه‌های استفاده از هوش مصنوعی را کاهش دهد.\n🔹 مدل درآمدی:\nفروش ابزار به شرکت‌ها و سازمان‌ها و ارائه خدمات مشاوره برای بهینه‌سازی استفاده از هوش مصنوعی.\n🔹 نقاط قوت:\n- کاهش هزینه‌های استفاده از هوش مصنوعی\n- افزایش کارایی\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با ابزارهای مشابه\n- نیاز به ارتقای مداوم ابزار\n🔹 نکته طلایی برای بازار ایران:\nفرصت بازار برای ابزارهای کاهش هزینه هوش مصنوعی در ایران بسیار زیاد است و therefore، باید به طور مداوم در حال ارتقای ابزار و ارائه خدمات بهتر به مشتریان بود."
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-10-29",
-      "rank": 5,
-      "name": "Gologin Cloud Browser",
-      "slug": "gologin-cloud-browser-2",
-      "tagline": "Cloud browser for AI agents and tough sites ",
-      "description": "Gologin Cloud Browser gives AI agents and scrapers real Chromium browsers that stay logged in. Persistent sessions survive across runs, so there’s no re-auth or lost state. Built-in stealth and anti-bot protection, plus proxies in 150+ countries. Fully serverless, it scales to thousands of browsers and works with Playwright and Puppeteer via WebSocket. Built by the GoLogin team: 7 years’ expertise, SOC 2 Type II, 99.9% SLA. Plans from $4.50/mo.",
-      "category": "SaaS • Developer Tools • Artificial Intelligence",
-      "categoryFa": "نرم‌افزار ابری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/gologin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c2dcc381-b427-4d86-a78f-d5d61c784624.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/8a33038a-ff30-42c0-b7c5-13bc3a3fc6d9.png?auto=format",
-        "https://ph-files.imgix.net/359ac873-f816-45d3-8a6d-e03fa3eebe3d.png?auto=format",
-        "https://ph-files.imgix.net/9ac101f1-720b-4335-88bb-f70476176581.png?auto=format",
-        "https://ph-files.imgix.net/c740d57e-7aab-4c33-bf4d-f7f79e48a8c3.jpeg?auto=format"
-      ],
-      "maker": "Eugene  Stepnov",
-      "makerTitle": "Doing things at Gologin.com",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 136,
-      "websiteUrl": "https://www.producthunt.com/r/TJNEWWJYUBDNAH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋Eugene here, from Gologin.The problemWe kept seeing the same failure mode from teams running scrapers and AI agents at scale: a brand-new browser is the most suspicious thing on the internet. Cloudflare, DataDome and Akamai aren't really hunting for automation, because that's cheap to fake. They score coherence: does the hardware story hold together, and has this identity been seen before?A container that didn't exist three seconds ago fails both checks. Not for being a bot, but for being a stranger.What we builtSo we asked: what if restoring a session meant restoring the whole identity, not just the cookie jar? That means cookies, device fingerprint, and the exact residential or mobile IP it logged in from.That's Gologin Cloud Browser. One line of code swaps into your existing Playwright/Puppeteer script. Log in once, and the same device, same network, same session comes back every run.Honest notesThis sits on top of the Gologin platform, with 7 years of anti-detect browser work behind it. It's not a brand-new standalone product.We're live today, so if something's confusing or broken, tell us. I'm reading every comment.Your turnCurious how you're handling this today. Are you re-authenticating manually between runs, rotating proxies and hoping for the best, or have you found another way to keep sessions alive? And once you try it: does session persistence matter more to you, or the fingerprint/IP coherence side? 👇"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch guys! And great hunter here @rohanrecommends I huge fan of Gologin. Have used it previosly multiple times and great experience."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Persistent sessions that survive across runs is the part of agent infra nobody puts on the slide deck and everybody hits in week two. How do you handle a site that rotates cookies or forces re-auth mid-run - does the profile recover on its own, or does the agent have to catch it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Restoring the whole identity, not just the cookie jar, is the part that stood out — especially the same device and IP coming back every run. When a site still asks for 2FA mid-run, does the agent pause and surface Live View on its own, or does it have to detect the challenge first before handing control back?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "is it easy to organize profiles into groups when working with a large team?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "If I start a session and forget to shut it down, am I charged for those idle minutes? Or is there an inactivity timeout to catch idle sessions? Really interested in digging in further."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Definitely something to keep an eye on. We have dabbled with CUA to automate workflows and the login side of the process was always the weak spot. Glad that someone has decided to tackle that aspect."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "keeping the session around between runs should save a lot of repeated setupi would want the controls for sharing and retiring a session to be as clear as the controls for starting one"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -58852,7 +59096,35 @@
           "user": "[REDACTED]",
           "text": "Cloudflare just released Clairic, and I think the idea behind it is pretty interesting. We're using LLMs for all sorts of tasks that don't really need text generation — extracting invoice totals, reading dates, pulling information from documents, etc. Clairic is built specifically for that kind of work. It returns structured values in a single pass, without generating tokens one by one. It's also just $0.10 per million input tokens on Workers AI. Still an early preview, but I'm curious to see how these smaller, specialized models change the way we build AI applications."
         }
-      ]
+      ],
+      "faDescription": "کلیریک (Clairic) مدل هوش مصنوعی جدید کلادفلر است که برای استخراج اطلاعات ساختاریافته طراحی شده است. این مدل بدون تولید توکن‌های متنی، داده‌های خام مانند نام‌ها، تاریخ‌ها و مبالغ را در یک مرحله به مقادیر تایپ‌شده تبدیل می‌کند. کلیریک برای توسعه‌دهندگانی ساخته شده که به پردازش داده‌ای سریع‌تر و ارزان‌تر نسبت به فراخوانی‌های سنتی LLM نیاز دارند. این سرویس در حال حاضر در پیش‌نمایش روی Workers AI با قیمت ۰.۱۰ دلار برای هر میلیون توکن ورودی در دسترس است و وزن‌های باز آن نیز در آینده منتشر خواهد شد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "کلادفلر اخیراً کلیریک را منتشر کرده و من فکر می‌کنم ایده پشت آن بسیار جالب است. ما از LLMها برای کارهای مختلفی استفاده می‌کنیم که واقعاً به تولید متن نیاز ندارند، مانند استخراج کل فاکتورها، خواندن تاریخ‌ها و کشیدن اطلاعات از اسناد. کلیریک دقیقاً برای این نوع کارها ساخته شده است. این مدل مقادیر ساختاریافته را در یک مرحله برمی‌گرداند، بدون اینکه توکن‌ها را یکی‌یکی تولید کند. همچنین قیمت آن روی Workers AI تنها ۰.۱۰ دلار برای هر میلیون توکن ورودی است. هنوز در مرحله پیش‌نمایش اولیه است، اما کنجکاو هستم ببینم این مدل‌های کوچک‌تر و تخصصی‌تر چگونه روش ما در ساخت برنامه‌های هوش مصنوعی را تغییر می‌دهند."
+        }
+      ],
+      "aiReview": "مسئله اصلی، هزینه و زمان بالای استفاده از مدل‌های زبانی بزرگ (LLM) برای کارهای ساده‌ای مانند استخراج داده است. راه‌حل کلیریک، استفاده از مدل‌های تخصصی کوچک‌تر است که بدون تولید متن، مستقیماً خروجی ساختاریافته می‌دهند. از نظر معماری، این سیستم بر پایه Workers AI ساخته شده و از مدل‌های سبک‌وزن برای پردازش سریع استفاده می‌کند. مدل درآمدی مبتنی بر مصرف (Pay-per-use) است که برای توسعه‌دهندگان جذاب است. نقاط قوت شامل سرعت بالا، هزینه بسیار پایین و ارائه امتیاز اطمینان برای داده‌هاست. نقاط ضعف عبارتند از محدودیت در درک متن‌های پیچیده و خلاقانه و وضعیت پیش‌نمایش بودن محصول. نکته طلایی برای ایران: با توجه به محدودیت‌های ارزی و دسترسی به APIهای خارجی، توسعه یک نسخه بومی از این مدل با داده‌های فارسی می‌تواند مزیت رقابتی عظیمی برای اتوماسیون اسناد مالی و اداری ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "استخراج‌گر هوشمند داده",
+        "description": "یک پلتفرم بومی برای استخراج ساختاریافته داده از اسناد و تصاویر با استفاده از مدل‌های تخصصی کوچک. این سیستم به جای تولید متن، مستقیماً مقادیر تایپ‌شده مانند تاریخ و مبلغ را با امتیاز اطمینان ارائه می‌دهد. هدف اصلی کاهش هزینه‌ها و افزایش سرعت پردازش در مقایسه با مدل‌های زبانی بزرگ عمومی است.",
+        "marketOpportunity": "بازار ایران به شدت به اتوماسیون فرآیندهای مالی و اداری نیاز دارد و هزینه بالای APIهای خارجی مانع اصلی است. ارائه یک راهکار ارزان و سریع برای پردازش اسناد، فرصت بزرگی برای کسب‌وکارهای متوسط و بزرگ ایجاد می‌کند.",
+        "estimatedBudget": "۳.۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های فین‌تک، سازمان‌های دولتی، و استارتاپ‌های لجستیک که حجم بالایی از اسناد متنی و تصویری دارند.",
+        "challenges": [
+          "دسترس‌پذیری به مدل‌های پایه قوی و به‌روز در داخل کشور",
+          "نیاز به داده‌های آموزشی فارسی باکیفیت برای تطبیق مدل با اسناد بومی"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس حجم اسناد پردازش‌شده",
+          "فروش لایسنس نرم‌افزار به سازمان‌های بزرگ برای استقرار در سرورهای داخلی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -58882,7 +59154,35 @@
           "user": "[REDACTED]",
           "text": "FLUX 3 Max is fal’s post-trained text-to-video and image-to-video model, built with Black Forest Labs on the FLUX 3 base model.Problem: AI video usually asks you to choose. Waiting minutes for a clip slows down iteration, while faster models often give up fidelity, motion coherence or prompt adherence.Solution: fal Research post-trained FLUX 3 for video, with a focus on visual fidelity, motion coherence, prompt adherence and image-to-video quality. Per fal, a 10-second 720p, 16:9 clip takes about 12 seconds to generate.What makes it different: Speed without a big quality drop. fal says it’s about 10x faster than FLUX 3 (12.45 s vs 126.44 s) and about 22x faster than Seedance 2.5 (277.80 s). On Artificial Analysis’s preliminary image-to-video board, it scores 1,139 Elo, tied for #1 with Seedance 2.5, though MiniMax H3 (768p) sits at 1,141 and the board is based on blind human votes. fal highlights faces in close-up, fast-moving subjects and detail retention.Key features:One post-trained model for both text-to-video and image-to-videoA 10-second clip in about 12 seconds720p outputPay per second of video, with no minimums or subscriptionPlayground on fal.ai, plus an API with JavaScript and Python examplesContent generated through the fal.ai API can be used commercially, subject to fal’s termsPricing: $0.0425 per second at 720p during the launch promotion, down from the $0.17 list price. The discount ends November 7.Who it’s for: Creators, studios and developers building video features who want fast iteration without giving up quality.Try it in the playground or through the API docs. There’s also image-to-video and the FLUX 3 Max page."
         }
-      ]
+      ],
+      "faDescription": "FLUX ۳ Max مدل پس‌آموزش‌دیدهٔ متن‑به‑ویدیو و تصویر‑به‑ویدیو شرکت fal است که بر پایهٔ FLUX ۳ ساخته شده و با همکاری Black Forest Labs توسعه یافته. این مدل می‌تواند یک کلیپ ۱۰ ثانیه‌ای با وضوح ۷۲۰p و نسبت تصویر ۱۶:۹ را در حدود ۱۲ ثانیه تولید کند که سرعتی حدود ۱۰ برابر سریع‌تر از FLUX ۳ اصلی است. در مسابقهٔ اولیهٔ Artificial Analysis برای تبدیل تصویر به ویدیو، این محصول با امتیاز ۱٬۱۳۹ Elo در ردهٔ اول همراه با Seedance ۲.۵ قرار گرفت. قیمت‌گذاری فعلی به‌صورت پرداخت به ازای هر ثانیه ویدیو (۰٫۰۴۲۵ دلار) تا تاریخ ۷ نوامبر فعال است و می‌توان از طریق Playground یا API به آن دسترسی داشت.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "FLUX ۳ Max مدل پس‌آموزش‌دیدهٔ متن‑به‑ویدیو و تصویر‑به‑ویدیو شرکت fal است که با Black Forest Labs بر پایهٔ FLUX ۳ ساخته شده. مشکل اصلی در ویدیوهای هوش مصنوعی زمان طولانی انتظار برای تولید است که باعث کندی تکرار می‌شود و مدل‌های سریع‌تر معمولاً کیفیت، انسجام حرکتی یا تطابق با پرامپت را قربانی می‌کنند. راه‌حل fal این است که FLUX ۳ را پس‌آموزش داده و بر روی وفاداری بصری، انسجام حرکتی، تطابق با پرامپت و کیفیت تصویر‑به‑ویدیو تمرکز کند؛ به‌طوری‌که یک کلیپ ۱۰ ثانیه‌ای ۷۲۰p در حدود ۱۲ ثانیه تولید شود. این مدل سرعت بالا بدون کاهش چشمگیر کیفیت را ارائه می‌دهد؛ حدود ۱۰ برابر سریع‌تر از FLUX ۳ (۱۲٫۴۵ ثانیه در مقابل ۱۲۶٫۴۴ ثانیه) و حدود ۲۲ برابر سریع‌تر از Seedance ۲.۵ (۲۷۷٫۸۰ ثانیه). در جدول اولیهٔ Artificial Analysis، با امتیاز ۱٬۱۳۹ Elo در ردهٔ اول همراه با Seedance ۲.۵ قرار گرفت، اگرچه MiniMax H۳ (۷۶۸p) با ۱٬۱۴۱ امتیاز پیشی گرفته است. ویژگی‌های کلیدی شامل یک مدل پس‌آموزش‌دیده برای هر دو حالت متن‑به‑ویدیو و تصویر‑به‑ویدیو، تولید کلیپ ۱۰ ثانیه‌ای در حدود ۱۲ ثانیه، خروجی ۷۲۰p، پرداخت به ازای هر ثانیه بدون حداقل یا اشتراک، Playground در fal.ai و API با مثال‌های JavaScript و Python است. محتواهای تولید شده از طریق API می‌توانند به‌صورت تجاری استفاده شوند، مشروط بر شرایط fal. قیمت‌گذاری در دورهٔ راه‌اندازی ۰٫۰۴۲۵ دلار به ازای هر ثانیه (۷۲۰p) است که از قیمت لیست ۰٫۱۷ دلار کمتر است و تا ۷ نوامبر ادامه دارد. این محصول برای خالقان، استودیوها و توسعه‌دهندگانی که می‌خواهند ویژگی‌های ویدئویی سریع و با کیفیت بسازند مناسب است."
+        }
+      ],
+      "aiReview": "مسئله: تولید ویدیوهای هوش مصنوعی در ایران با زمان طولانی انتظار و هزینهٔ بالا مواجه است و این موضوع سرعت تکرار و خلاقیت تولیدکنندگان را محدود می‌کند. راه‌حل: ارائهٔ یک سرویس مشابه FLUX ۳ Max که بتواند کلیپ‌های کوتاه ۷۲۰p را در حدود ۱۲ ثانیه تولید کند، با تمرکز بر حفظ کیفیت بصری، انسجام حرکتی و تطابق دقیق با پرامپت. معماری و تکنولوژی: استفاده از مدل‌های پس‌آموزش‌دیدهٔ FLUX ۳ بر پایهٔ معماری Diffusion، میزبانی در زیرساخت‌های GPU‑محور (مثلاً NVIDIA A۱۰۰) در دیتاسنترهای داخلی یا ابری، لایهٔ API مبتنی بر FastAPI و Frontend با Next.js؛ دیتابیس PostgreSQL برای مدیریت کاربران و تراکنش‌ها. مدل درآمدی: پرداخت به ازای هر ثانیهٔ ویدیو (قیمت‌گذاری متغیر بر حسب وضوح) به‌همراه پلن‌های اشتراکی ماهانه برای دسترسی به نرخ‌های تخفیفی، پشتیبانی و SLA. نقاط قوت: سرعت بسیار بالا نسبت به رقبا، هزینهٔ متغیر بدون حداقل، قابلیت استفاده تجاری، پشتیبانی از ورودی تصویر به ویدیو. نقاط ضعف: نیاز به زیرساخت‌های GPU گران‌قیمت در داخل کشور، ریسک‌های قانونی مرتبط با حق نشر محتواهای تولیدی توسط هوش مصنوعی. نکته طلایی برای ایران: با ایجاد یک پارک فناوری محلی برای میزبانی مدل‌های بزرگ و ارائهٔ پلن‌های تخفیفی برای استارتاپ‌ها و شرکت‌های محتوا، می‌توان هزینهٔ زیرساخت را کاهش داد و به‌سرعت بازار محلی را تسخیر کرد.",
+      "iranEquivalent": {
+        "productName": "FLUX ۳ Max",
+        "description": "FLUX ۳ Max یک مدل هوش مصنوعی پس‌آموزش‌دیده برای تولید ویدیوهای کوتاه از متن یا تصویر است که با زیرساخت‌های محاسباتی پیشرفته ساخته شده. این مدل می‌تواند یک کلیپ ۱۰ ثانیه‌ای با وضوح ۷۲۰p را در حدود ۱۲ ثانیه تولید کند و سرعتی برابر با ۱۰ برابر مدل‌های قبلی ارائه دهد. قیمت‌گذاری به‌صورت پرداخت به ازای هر ثانیه ویدیو است و امکان استفاده تجاری از خروجی‌ها را فراهم می‌کند.",
+        "marketOpportunity": "در ایران تقاضا برای تولید محتوای ویدئویی سریع و با کیفیت در حوزه‌های تبلیغاتی، آموزش آنلاین و شبکه‌های اجتماعی به‌سرعت در حال رشد است. ارائهٔ یک سرویس تولید ویدیو با زمان تأخیر کم می‌تواند به تولیدکنندگان محتوا کمک کند تا چرخهٔ تولید را به‌طور چشمگیری کوتاه‌تر کنند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استودیوهای تولید محتوا، شرکت‌های تبلیغاتی دیجیتال، توسعه‌دهندگان اپلیکیشن‌های موبایل و وب، خالقان محتوا در شبکه‌های اجتماعی",
+        "challenges": [
+          "دسترسی به زیرساخت‌های پردازش گرافیکی قدرتمند در داخل کشور",
+          "مقررات مالکیت معنوی و استفاده تجاری از محتواهای تولید شده توسط هوش مصنوعی"
+        ],
+        "monetization": [
+          "پرداخت به ازای هر ثانیهٔ ویدیو تولید شده",
+          "اشتراک ماهانه برای دسترسی به API پیشرفته و پشتیبانی فنی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -59807,6 +60107,50 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-10-29",
+      "rank": 6,
+      "name": "Gemini 4 Carbon",
+      "slug": "gemini-4-carbon",
+      "tagline": "Google's next frontier model",
+      "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+      "category": "Artificial Intelligence • Tech",
+      "categoryFa": "هوش مصنوعی • Tech",
+      "url": "https://www.producthunt.com/products/gemini-4-carbon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/8bb4fc59-5dac-41b8-ab00-c1a75688e917.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f257c60c-499b-4c1d-ba8f-67badbb2380b.png?auto=format",
+        "https://ph-files.imgix.net/4b82e7bd-b77d-40a9-b40f-5658b49ee618.jpeg?auto=format",
+        "https://ph-files.imgix.net/62f7a487-09d3-43bb-937e-2ccbfb5f1d7e.jpeg?auto=format",
+        "https://ph-files.imgix.net/bafb1df2-33a4-46a5-b471-194a4983c0c4.jpeg?auto=format",
+        "https://ph-files.imgix.net/8b301004-221c-402b-8c53-bfc9f86b88af.jpeg?auto=format",
+        "https://ph-files.imgix.net/566f13bc-847d-4279-aebf-aa81d3347ac7.jpeg?auto=format"
+      ],
+      "maker": "Sundar Pichai",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 129,
+      "websiteUrl": "https://www.producthunt.com/r/2IANFENKZW6KZI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "I’m happy to share this! Gemini 4 Carbon is pushing the boundaries of AI reasoning, cybersecurity, and reliable autonomous execution.Key highlights:🔵 State-of-the-art cybersecurity across vulnerability detection, validation, and remediation🔵 88.2% on SEC-bench Pro and 71.0% on CWE-bench🔵 Better handling of uncertainty by flagging missing information before acting🔵 Reliable execution of multi-step plans while respecting project boundaries🔵 0.0% on Gray Swan’s Indirect Prompt Injection BenchmarkWith a focus on frontier performance, stronger alignment, and safety, Carbon aims to make AI agents more capable and trustworthy.It’s rolling out to cyber defenders through the Fairwind Program, with broader access planned for developers, businesses, and consumers."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The two highlights that matter most to me are the ones that aren't benchmarks: flagging missing information before acting, and respecting project boundaries while running multi-step plans. That's where agents usually go wrong in practice — confidently filling in a gap, or wandering outside the task they were given. The 0.0% on the indirect prompt injection benchmark is encouraging in the same way, but I'll be watching how that holds up once it's in developers' hands more broadly."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "attack success rate: 0%!! That should be the first slide, very impressive!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Glad to see Google back at the front, but has anybody figured out how to actually access it yet?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-26",
       "rank": 7,
@@ -60479,46 +60823,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-29",
-      "rank": 6,
-      "name": "Gemini 4 Carbon",
-      "slug": "gemini-4-carbon",
-      "tagline": "Google's next frontier model",
-      "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-      "category": "Artificial Intelligence • Tech",
-      "categoryFa": "هوش مصنوعی • Tech",
-      "url": "https://www.producthunt.com/products/gemini-4-carbon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/8bb4fc59-5dac-41b8-ab00-c1a75688e917.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f257c60c-499b-4c1d-ba8f-67badbb2380b.png?auto=format",
-        "https://ph-files.imgix.net/4b82e7bd-b77d-40a9-b40f-5658b49ee618.jpeg?auto=format",
-        "https://ph-files.imgix.net/62f7a487-09d3-43bb-937e-2ccbfb5f1d7e.jpeg?auto=format",
-        "https://ph-files.imgix.net/bafb1df2-33a4-46a5-b471-194a4983c0c4.jpeg?auto=format",
-        "https://ph-files.imgix.net/8b301004-221c-402b-8c53-bfc9f86b88af.jpeg?auto=format",
-        "https://ph-files.imgix.net/566f13bc-847d-4279-aebf-aa81d3347ac7.jpeg?auto=format"
-      ],
-      "maker": "Sundar Pichai",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 128,
-      "websiteUrl": "https://www.producthunt.com/r/2IANFENKZW6KZI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "I’m happy to share this! Gemini 4 Carbon is pushing the boundaries of AI reasoning, cybersecurity, and reliable autonomous execution.Key highlights:🔵 State-of-the-art cybersecurity across vulnerability detection, validation, and remediation🔵 88.2% on SEC-bench Pro and 71.0% on CWE-bench🔵 Better handling of uncertainty by flagging missing information before acting🔵 Reliable execution of multi-step plans while respecting project boundaries🔵 0.0% on Gray Swan’s Indirect Prompt Injection BenchmarkWith a focus on frontier performance, stronger alignment, and safety, Carbon aims to make AI agents more capable and trustworthy.It’s rolling out to cyber defenders through the Fairwind Program, with broader access planned for developers, businesses, and consumers."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "attack success rate: 0%!! That should be the first slide, very impressive!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Glad to see Google back at the front, but has anybody figured out how to actually access it yet?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -62412,6 +62716,60 @@
         ],
         "confidence": 60
       }
+    },
+    {
+      "id": "ph-today-7",
+      "date": "2026-10-29",
+      "rank": 7,
+      "name": "TopAgent",
+      "slug": "topagent-2",
+      "tagline": "Drive B2B event attendance with an AI agent",
+      "description": "Fill your next B2B conference, summit, or workshop with SMS invitations and relevant follow-ups. Give TopAgent your opted-in audience, event details, registration link, and deadline. It prepares the campaign, monitors delivery, clicks, and replies, and returns with follow-ups ready for your approval.",
+      "category": "Messaging • Marketing • Artificial Intelligence",
+      "categoryFa": "پیام‌رسان • بازاریابی • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/topmessage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/ed1f006b-c98d-4a9c-9eeb-ef277c1509d5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/1495d4f7-aa10-4fd7-b3f6-4f1028df12e9.png?auto=format",
+        "https://ph-files.imgix.net/2285bf2c-2191-47fb-9f4a-d0cb76a5d7ae.png?auto=format",
+        "https://ph-files.imgix.net/8044702b-e6b1-42cd-9d41-2cfb77959f6d.png?auto=format",
+        "https://ph-files.imgix.net/1b071fa0-7a1f-4216-a605-e2fbc8105d59.png?auto=format",
+        "https://ph-files.imgix.net/9a791f97-101d-4c95-906a-b8c4345aac6e.png?auto=format",
+        "https://ph-files.imgix.net/86988ee7-4f54-4418-b5ba-84180276768a.png?auto=format",
+        "https://ph-files.imgix.net/e78a633b-aa12-4df1-aa12-f7492502ddd9.png?auto=format",
+        "https://ph-files.imgix.net/0c2e1588-2e06-48be-9a78-2544d1c343d1.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 124,
+      "websiteUrl": "https://www.producthunt.com/r/4WKNUM64IFEFUW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Can you use this for smaller events too, like a webinar or a meetup?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Being able to just describe the campaign instead of setting everything up manually sounds pretty handy. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Having follow-ups ready for approval makes outreach a lot easier to manage"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey team! you're making messaging so easy and simple. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! If an event’s venue or start time changes at the last minute, can TopAgent notify all confirmed guests and show who hasn’t received the update?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How much time does it take to get the first event campaign running? Would someone on the events team be able to set it up themselves, or would they need help from a technical person?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -65334,60 +65692,6 @@
       }
     },
     {
-      "id": "ph-today-7",
-      "date": "2026-10-29",
-      "rank": 7,
-      "name": "TopAgent",
-      "slug": "topagent-2",
-      "tagline": "Drive B2B event attendance with an AI agent",
-      "description": "Fill your next B2B conference, summit, or workshop with SMS invitations and relevant follow-ups. Give TopAgent your opted-in audience, event details, registration link, and deadline. It prepares the campaign, monitors delivery, clicks, and replies, and returns with follow-ups ready for your approval.",
-      "category": "Messaging • Marketing • Artificial Intelligence",
-      "categoryFa": "پیام‌رسان • بازاریابی • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/topmessage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/ed1f006b-c98d-4a9c-9eeb-ef277c1509d5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/1495d4f7-aa10-4fd7-b3f6-4f1028df12e9.png?auto=format",
-        "https://ph-files.imgix.net/2285bf2c-2191-47fb-9f4a-d0cb76a5d7ae.png?auto=format",
-        "https://ph-files.imgix.net/8044702b-e6b1-42cd-9d41-2cfb77959f6d.png?auto=format",
-        "https://ph-files.imgix.net/1b071fa0-7a1f-4216-a605-e2fbc8105d59.png?auto=format",
-        "https://ph-files.imgix.net/9a791f97-101d-4c95-906a-b8c4345aac6e.png?auto=format",
-        "https://ph-files.imgix.net/86988ee7-4f54-4418-b5ba-84180276768a.png?auto=format",
-        "https://ph-files.imgix.net/e78a633b-aa12-4df1-aa12-f7492502ddd9.png?auto=format",
-        "https://ph-files.imgix.net/0c2e1588-2e06-48be-9a78-2544d1c343d1.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 119,
-      "websiteUrl": "https://www.producthunt.com/r/4WKNUM64IFEFUW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Can you use this for smaller events too, like a webinar or a meetup?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Being able to just describe the campaign instead of setting everything up manually sounds pretty handy. Congrats!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Having follow-ups ready for approval makes outreach a lot easier to manage"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey team! you're making messaging so easy and simple. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! If an event’s venue or start time changes at the last minute, can TopAgent notify all confirmed guests and show who hasn’t received the update?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How much time does it take to get the first event campaign running? Would someone on the events team be able to set it up themselves, or would they need help from a technical person?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-8",
       "date": "2026-10-27",
       "rank": 8,
@@ -65898,6 +66202,67 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-8",
+      "date": "2026-10-29",
+      "rank": 8,
+      "name": "Radar",
+      "slug": "radar-101",
+      "tagline": "You don't need an AI SRE. Give your agent Radar.",
+      "description": "Your agent knows Kubernetes. It doesn't know your cluster. Radar (open-source) gives it context over MCP: ranked issues, a change timeline, logs and owners in one view. New: click Investigate on a failing workload. Claude Code, Codex or Cursor finds the root cause, read-only, with evidence for each claim. In our benchmark of 50 live faults across six tools, Radar found the most root causes. Radar Cloud investigates every alert and posts findings to Slack.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/radar-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7b214b2d-1dda-4df6-b3b8-b70892a94877.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2bf4525b-b60f-4d4f-a769-258469c0c95e.jpeg?auto=format",
+        "https://ph-files.imgix.net/1eff4526-1726-4067-9ccd-1d30ad7b1ff5.png?auto=format",
+        "https://ph-files.imgix.net/7d5dcd96-bff5-4c78-8b00-0a1568c77f7a.png?auto=format",
+        "https://ph-files.imgix.net/9186db90-e56c-483b-97b3-e245c7e287cf.png?auto=format",
+        "https://ph-files.imgix.net/1666a467-9f3e-4e76-ae3e-fe4e456a63d8.png?auto=format",
+        "https://ph-files.imgix.net/7e0cb3f2-ebdc-4920-bff7-efe384cf480c.png?auto=format",
+        "https://ph-files.imgix.net/11aa3c79-9fb8-438e-836c-e2ba04dc40e5.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 118,
+      "websiteUrl": "https://www.producthunt.com/r/OPRQGVDZ6RGUVJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Nadav here, one of the people behind Radar.We launched Radar here in May as an open-source Kubernetes UI. Unsurprisingly, more and more people have been telling us since then that they want to point their AI agents at their clusters. Agents have become really smart, but they burn a lot of time and tokens poking around the cluster with kubectl to understand what’s going on and piecing together the puzzle - and even then often miss the change that someone made ten minutes before things broke.Radar's MCP server gives your agent (Claude Code, Codex, Cursor, Copilot, etc) the cluster already put together: issues detected, a history of events and changes to Kubernetes resources, topology and relationships between objects, logs and metrics.We benchmarked it - same agent with Radar found root cause 3x (!) faster and 80% cheaper than with plain kubectl.Click Investigate on any issue and Radar runs your own agent CLI, read-only, on your machine. You get the root cause, the evidence for each claim, and a fix that runs only if you approve it. Radar Cloud does the same when it detects an issue or an alert fires, and posts the answer to Slack.We also ran six AI SRE tools on 50 live faults. Claude Code on Radar's MCP got 44 right, the most of the six, and was the fastest and cheapest. Method and every run: https://radarhq.io/benchmark/ai-sre-toolsRadar is free and open source, Apache 2.0:brew install kubectl-radarHow do you debug your clusters today, and what would you want an agent to take on next?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Clearly answers a real need, I liked the approach. curious to see how this evolves"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does the redaction also apply to logs pulled through /mcp-readonly, not just when Investigate runs"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The ranked-issues view is the part I'd want to poke at first. When the MCP gives the agent ranked issues together with the change timeline, logs, and owners, what sets the ranking — is it mainly severity and recency, or does a change in the timeline, like a deploy just before the failure, push an issue up the list?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The read-only-until-approved default is the right way to let an agent near a cluster. On the 50-fault benchmark, did the six misses cluster around one failure type, or were they just noise?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Many congratulations team! Quick one- How well does Radar work when something goes wrong across multiple clusters? Can it actually pinpoint the root cause, or does it still need an engineer to dig into the logs?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. What all have you added lately to radar?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Read-only investigation with evidence for each claim is a good call. I'd be much more comfortable letting an agent investigate production issues that way. Also, the change timeline sounds especially useful. Congratulations!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -66985,67 +67350,6 @@
         "confidence": 80
       },
       "aiReview": "مسئله اصلی در استخدام مهندسان، دشواری سنجش قضاوت فنی و کیفیت کد در محیط واقعی است؛ راه‌حل Merge یک ارزیابی آنلاین است که با شبیه‌سازی دقیق فرآیند بازبینی Pull Request (PR) در محیط کاری، این خلأ را پر می‌کند. از نظر معماری، محصول بر پایه یک عامل هوش مصنوعی (AI Agent) بنا شده که به صورت بلادرنگ به کامنت‌های کاندیدا پاسخ می‌دهد و رفتار یک مهندس واقعی را تقلید می‌کند تا تعامل پویا و واقعی ایجاد شود. مدل درآمدی احتمالاً بر اساس اشتراک سازمانی یا پرداخت به ازای هر ارزیابی برای تیم‌های مهندسی است. نقاط قوت شامل شبیه‌سازی واقع‌گرایانه، سنجش چندبعدی (پوشش باگ، کیفیت ارتباط، کیفیت PR و کارایی مصرف توکن) و کاهش زمان فرآیند استخدام است. نقاط ضعف می‌تواند شامل وابستگی به دقت بالای AI در درک زمینه‌های کد پیچیده و نیاز به اعتماد اولیه تیم‌های فنی به اعتبار نتایج باشد. نکته طلایی برای ایران: با توجه به رشد استارتاپ‌های فناوری و نیاز به جذب نیروی ماهر، این ابزار می‌تواند به تیم‌های ایرانی کمک کند تا با کمترین هزینه و بیشترین دقت، مهندسان با قضاوت فنی قوی را شناسایی کنند و از استخدام‌های ناکارآمد جلوگیری کنند."
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-10-29",
-      "rank": 8,
-      "name": "Radar",
-      "slug": "radar-101",
-      "tagline": "You don't need an AI SRE. Give your agent Radar.",
-      "description": "Your agent knows Kubernetes. It doesn't know your cluster. Radar (open-source) gives it context over MCP: ranked issues, a change timeline, logs and owners in one view. New: click Investigate on a failing workload. Claude Code, Codex or Cursor finds the root cause, read-only, with evidence for each claim. In our benchmark of 50 live faults across six tools, Radar found the most root causes. Radar Cloud investigates every alert and posts findings to Slack.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/radar-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7b214b2d-1dda-4df6-b3b8-b70892a94877.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2bf4525b-b60f-4d4f-a769-258469c0c95e.jpeg?auto=format",
-        "https://ph-files.imgix.net/1eff4526-1726-4067-9ccd-1d30ad7b1ff5.png?auto=format",
-        "https://ph-files.imgix.net/7d5dcd96-bff5-4c78-8b00-0a1568c77f7a.png?auto=format",
-        "https://ph-files.imgix.net/9186db90-e56c-483b-97b3-e245c7e287cf.png?auto=format",
-        "https://ph-files.imgix.net/1666a467-9f3e-4e76-ae3e-fe4e456a63d8.png?auto=format",
-        "https://ph-files.imgix.net/7e0cb3f2-ebdc-4920-bff7-efe384cf480c.png?auto=format",
-        "https://ph-files.imgix.net/11aa3c79-9fb8-438e-836c-e2ba04dc40e5.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 116,
-      "websiteUrl": "https://www.producthunt.com/r/OPRQGVDZ6RGUVJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Nadav here, one of the people behind Radar.We launched Radar here in May as an open-source Kubernetes UI. Unsurprisingly, more and more people have been telling us since then that they want to point their AI agents at their clusters. Agents have become really smart, but they burn a lot of time and tokens poking around the cluster with kubectl to understand what’s going on and piecing together the puzzle - and even then often miss the change that someone made ten minutes before things broke.Radar's MCP server gives your agent (Claude Code, Codex, Cursor, Copilot, etc) the cluster already put together: issues detected, a history of events and changes to Kubernetes resources, topology and relationships between objects, logs and metrics.We benchmarked it - same agent with Radar found root cause 3x (!) faster and 80% cheaper than with plain kubectl.Click Investigate on any issue and Radar runs your own agent CLI, read-only, on your machine. You get the root cause, the evidence for each claim, and a fix that runs only if you approve it. Radar Cloud does the same when it detects an issue or an alert fires, and posts the answer to Slack.We also ran six AI SRE tools on 50 live faults. Claude Code on Radar's MCP got 44 right, the most of the six, and was the fastest and cheapest. Method and every run: https://radarhq.io/benchmark/ai-sre-toolsRadar is free and open source, Apache 2.0:brew install kubectl-radarHow do you debug your clusters today, and what would you want an agent to take on next?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Clearly answers a real need, I liked the approach. curious to see how this evolves"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "does the redaction also apply to logs pulled through /mcp-readonly, not just when Investigate runs"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The ranked-issues view is the part I'd want to poke at first. When the MCP gives the agent ranked issues together with the change timeline, logs, and owners, what sets the ranking — is it mainly severity and recency, or does a change in the timeline, like a deploy just before the failure, push an issue up the list?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The read-only-until-approved default is the right way to let an agent near a cluster. On the 50-fault benchmark, did the six misses cluster around one failure type, or were they just noise?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Many congratulations team! Quick one- How well does Radar work when something goes wrong across multiple clusters? Can it actually pinpoint the root cause, or does it still need an engineer to dig into the logs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch. What all have you added lately to radar?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Read-only investigation with evidence for each claim is a good call. I'd be much more comfortable letting an agent investigate production issues that way. Also, the change timeline sounds especially useful. Congratulations!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -72079,7 +72383,55 @@
           "user": "[REDACTED]",
           "text": "Being able to read the same memory your agents use seems useful. I'd want to see what they saved before the next agent picks up the task."
         }
-      ]
+      ],
+      "faDescription": "موتور زمینه یک حافظهٔ مشترک برای عوامل هوش مصنوعی و اعضای تیم شماست. Claude، ChatGPT، Cursor و Claude Code به‌صورت خودکار در حین کار به این حافظه می‌نویسند و تیم می‌تواند محتوا را بخواند، سؤال بپرسد و فایل‌ها را اضافه کند. این حافظهٔ متمرکز باعث می‌شود اطلاعات بین انسان و ربات‌ها همگام باشد و از تکرار و اشتباهات جلوگیری شود. استفاده اولیه رایگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "قوانین عوامل ما در فایلی ذخیره می‌شود که توسط کسی به‌صورت دستی ویرایش می‌شود و بخش سخت کار پاک‌سازی مواردی است که دیگر صحیح نیستند. وقتی یک هم‌تیمی چیزی را که عامل ذخیره کرده اصلاح می‌کند، آیا آن عامل دیگر آن را ذخیره نمی‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "با وجود افزودن چندین کاربر به حافظه، آیا مکانیزم‌های حفاظتی برای جلوگیری از تغییرات عمدی یا ناخواستهٔ نادرست وجود دارد؟ یا راهی برای ایجاد سلسله‌مراتب به‌طوری که برخی کاربران به‌عنوان اصلی شناخته شوند و مشارکت‌هایشان اولویت داشته باشد؟ ایدهٔ بررسی توسط کاربر دوم برای محتواهای جدید می‌تواند مفید باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای موتور زمینه. داشتن یک حافظهٔ مشترک که هم عامل و هم هم‌تیمی می‌توانند بخوانند، نکتهٔ کلیدی بود که به ذهن می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای راه‌اندازی! به‌اشتراک‌گذاری یک حافظه بین عوامل و انسان‌ها دشوارترین بخش برای من است. وقتی یک عامل اطلاعات منقضی یا نادرست می‌نویسد، چگونه می‌توانید از تبدیل شدن آن به «حقیقت» برای کل تیم جلوگیری کنید؟ آیا قابلیت ردیابی منبع یا زوال داده‌ها وجود دارد یا این کار بر عهدهٔ انسان‌هاست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ابزار برای ردیابی پیشرفت افراد در تیم مفید است، به‌ویژه وقتی که برخی کارها را به‌درستی انجام نمی‌دهند. ارائهٔ زمینهٔ مشترک به چندین عامل برای من منطقی نیست چون اطلاعات دقیق از ابتدا برنامه‌ریزی شده‌اند. اگر بخواهم از عامل دیگری برای بازبینی استفاده کنم، نمی‌خواهم همان زمینهٔ قبلی را بدهیم چون ممکن است همان تصمیمات را تکرار کند. این مسأله در شرایطی که از هوش مصنوعی‌های دیگر مانند AWS AI یا ادغام‌های مشابه استفاده می‌کنیم، اهمیت می‌یابد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "توانایی خواندن همان حافظه‌ای که عوامل شما استفاده می‌کنند، مفید است. مایلم قبل از این‌که عامل بعدی کار را بر عهده بگیرد، ببینم قبلاً چه چیزی ذخیره شده است."
+        }
+      ],
+      "aiReview": "مسئله: هماهنگی و به‌روز نگه داشتن دانش بین عوامل هوش مصنوعی و اعضای تیم انسانی به‌دلیل پراکندگی داده‌ها و بروز خطاهای انسانی یا رباتی دشوار است. راه‌حل: موتور زمینه یک حافظهٔ متمرکز و زمان‌واقعی فراهم می‌کند که هم‌زمان توسط مدل‌های مختلف (Claude، ChatGPT، Cursor) و کاربران انسانی قابل خواندن و نوشتن است. معماری: لایهٔ API مبتنی بر Next.js برای ارتباط فرانت‌اند و بک‌اند، PostgreSQL به‌عنوان دیتابیس تراکنشی با قابلیت نسخه‌بندی و زمان‌بندی انقضا، و ماژول‌های کنترل دسترسی (RBAC) برای سطوح مختلف کاربری. تکنولوژی: استفاده از وب‌هوک‌ها برای دریافت خودکار خروجی مدل‌ها، جستجوی متنی پیشرفته با PostgreSQL full‑text search، و سرویس‌های پس‌زمینه برای ارزیابی کیفیت داده (پرووننس، decay). مدل درآمدی: ترکیب اشتراک ماهیانه بر پایهٔ تعداد کاربران و حجم ذخیره‌سازی، به‌علاوه فروش API به شرکت‌های بزرگ برای ادغام داخلی. نقاط قوت: یکپارچگی داده‌ها، قابلیت مقیاس‌پذیری، و امکان نظارت انسانی بر تغییرات. نقاط ضعف: نیاز به مدیریت دقیق دسترسی و ریسک انباشت داده‌های منقضی بدون مکانیزم خودکار decay. نکته طلایی برای ایران: با توجه به محدودیت‌های زیرساختی و نیاز به شفافیت در داده‌های دولتی، می‌توان یک نسخهٔ «محلی» با رمزنگاری انتها‑به‑انتها و قابلیت همگام‌سازی با سرورهای ملی ارائه داد تا اعتماد سازمان‌های دولتی و استارتاپ‌های بومی جلب شود.",
+      "iranEquivalent": {
+        "productName": "موتور زمینه",
+        "description": "موتور زمینه یک پلتفرم حافظهٔ مشترک برای هوش مصنوعی و تیم‌های انسانی است. این سرویس به‌صورت خودکار داده‌ها را از مدل‌های مختلف مانند Claude و ChatGPT جمع‌آوری می‌کند و امکان جستجو، پرسش و افزودن فایل‌ها را برای کاربران فراهم می‌کند. استفاده اولیه رایگان بوده و می‌تواند به‌عنوان یک لایهٔ دانش مرکزی در پروژه‌های فناوری اطلاعات عمل کند.",
+        "marketOpportunity": "در ایران، شرکت‌های فناوری و استارتاپ‌ها به‌سرعت به هوش مصنوعی متکی می‌شوند و نیاز به یک منبع دادهٔ متمرکز برای هماهنگی بین انسان و ربات‌ها دارند. موتور زمینه می‌تواند این خلأ را پر کرده و به‌عنوان زیرساختی برای توسعهٔ محصولات هوشمند عمل کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌ها، شرکت‌های فناوری اطلاعات، تیم‌های توسعه نرم‌افزار و سازمان‌های دولتی که از هوش مصنوعی استفاده می‌کنند",
+        "challenges": [
+          "اطمینان از صحت و به‌روز بودن داده‌ها",
+          "مدیریت دسترسی و سطوح مجوز برای کاربران مختلف"
+        ],
+        "monetization": [
+          "اشتراک ماهیانه بر پایهٔ تعداد کاربران و حجم داده",
+          "فروش API برای ادغام با سیستم‌های داخلی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -73750,6 +74102,41 @@
       }
     },
     {
+      "id": "ph-today-9",
+      "date": "2026-10-29",
+      "rank": 9,
+      "name": "Viggle JST-2",
+      "slug": "viggle-jst-2",
+      "tagline": "JST-2: 3D scenes, characters and motion from one model",
+      "description": "JST-2 is Viggle’s physics-native world foundation model for generating 3D scenes, characters and full-body motion in one shared world. Scenes take about one second, characters come from one image or text with motion built in, and motion comes from text or video. Try it free in the PINOC browser app, or use the API or MCP with agents like Claude Code. Benchmarks are Viggle’s own blind human tests.",
+      "category": "Artificial Intelligence",
+      "categoryFa": "هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/viggle-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/67f7899d-f233-4940-b810-02367cfcea59.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e6e25ced-8c69-47ec-a6b4-4e5fa421f110.png?auto=format",
+        "https://ph-files.imgix.net/b5aea32a-ce66-4058-8fa5-1a2876c56cff.jpeg?auto=format",
+        "https://ph-files.imgix.net/03e90407-68c1-4095-948a-a3903804d7f3.jpeg?auto=format",
+        "https://ph-files.imgix.net/8835e9e5-d23a-4552-a5af-774189eab409.jpeg?auto=format",
+        "https://ph-files.imgix.net/4cb964e0-5f14-4cc0-98b9-049ac17fe5f2.jpeg?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-29T07:01:00Z",
+      "votes": 105,
+      "websiteUrl": "https://www.producthunt.com/r/YEZ2L5PFTMCTQZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "JST-2 is Viggle’s physics-native world foundation model. It generates 3D scenes, characters and full-body motion in one shared 3D world.Problem: Building 3D content is split into separate, slow jobs. Scenes, characters, rigging and animation each need their own tools and specialists, and rigging and skinning alone can take hours and decide how a character moves afterward.Solution: JST-2 handles all three in one model. Viggle’s JST architecture represents the world as persistent 3D “atoms” with learned attributes and dynamics, encodes them as Physics-Native Tokens, and decodes them into images or 3D Gaussian splats.What makes it different: Characters come with motion built in, so there’s no separate rigging or skinning step, and scenes can be explored without rerunning the model. Per Viggle, a 3D scene takes about one second to generate, against about 5 to 6 minutes for Marble, at an inference cost below $0.01 per scene. In Viggle’s own blind human tests, JST-2 was preferred over Meshy 7.1 and Tripo H3.1 for characters, and over HY-Motion-1.0 and DeepMotion Animate 3D for motion.Key features:Scenes: generate a 3D scene from prompts or images, expand a world one view at a time (up to 64 input views), or reconstruct real environments from sparse images for robot simulationCharacters: full-body 3D characters from one image or text, including cropped or partly hidden images, with detailed faces and individual finger movementMotion: full-body 3D motion from a text sentence or from video, applied directly to JST-2 characters and compatible with standard 3D rigsPINOC, a free browser app with Scene mode and Agent modeAPI, plus MCP support for agents like Codex and Claude CodeWho it’s for: 3D artists, game and animation developers, and robotics and embodied-AI teams who want scenes, characters and motion without stitching separate tools together.Try it free in the PINOC app, read the JST-2 launch page, and see the API docs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is PINOC free with no limit for now, or is there a cap once you start exporting characters for real projects?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-10-21",
       "rank": 10,
@@ -74619,41 +75006,6 @@
       ]
     },
     {
-      "id": "ph-today-9",
-      "date": "2026-10-29",
-      "rank": 9,
-      "name": "Viggle JST-2",
-      "slug": "viggle-jst-2",
-      "tagline": "JST-2: 3D scenes, characters and motion from one model",
-      "description": "JST-2 is Viggle’s physics-native world foundation model for generating 3D scenes, characters and full-body motion in one shared world. Scenes take about one second, characters come from one image or text with motion built in, and motion comes from text or video. Try it free in the PINOC browser app, or use the API or MCP with agents like Claude Code. Benchmarks are Viggle’s own blind human tests.",
-      "category": "Artificial Intelligence",
-      "categoryFa": "هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/viggle-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/67f7899d-f233-4940-b810-02367cfcea59.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e6e25ced-8c69-47ec-a6b4-4e5fa421f110.png?auto=format",
-        "https://ph-files.imgix.net/b5aea32a-ce66-4058-8fa5-1a2876c56cff.jpeg?auto=format",
-        "https://ph-files.imgix.net/03e90407-68c1-4095-948a-a3903804d7f3.jpeg?auto=format",
-        "https://ph-files.imgix.net/8835e9e5-d23a-4552-a5af-774189eab409.jpeg?auto=format",
-        "https://ph-files.imgix.net/4cb964e0-5f14-4cc0-98b9-049ac17fe5f2.jpeg?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 103,
-      "websiteUrl": "https://www.producthunt.com/r/YEZ2L5PFTMCTQZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "JST-2 is Viggle’s physics-native world foundation model. It generates 3D scenes, characters and full-body motion in one shared 3D world.Problem: Building 3D content is split into separate, slow jobs. Scenes, characters, rigging and animation each need their own tools and specialists, and rigging and skinning alone can take hours and decide how a character moves afterward.Solution: JST-2 handles all three in one model. Viggle’s JST architecture represents the world as persistent 3D “atoms” with learned attributes and dynamics, encodes them as Physics-Native Tokens, and decodes them into images or 3D Gaussian splats.What makes it different: Characters come with motion built in, so there’s no separate rigging or skinning step, and scenes can be explored without rerunning the model. Per Viggle, a 3D scene takes about one second to generate, against about 5 to 6 minutes for Marble, at an inference cost below $0.01 per scene. In Viggle’s own blind human tests, JST-2 was preferred over Meshy 7.1 and Tripo H3.1 for characters, and over HY-Motion-1.0 and DeepMotion Animate 3D for motion.Key features:Scenes: generate a 3D scene from prompts or images, expand a world one view at a time (up to 64 input views), or reconstruct real environments from sparse images for robot simulationCharacters: full-body 3D characters from one image or text, including cropped or partly hidden images, with detailed faces and individual finger movementMotion: full-body 3D motion from a text sentence or from video, applied directly to JST-2 characters and compatible with standard 3D rigsPINOC, a free browser app with Scene mode and Agent modeAPI, plus MCP support for agents like Codex and Claude CodeWho it’s for: 3D artists, game and animation developers, and robotics and embodied-AI teams who want scenes, characters and motion without stitching separate tools together.Try it free in the PINOC app, read the JST-2 launch page, and see the API docs."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is PINOC free with no limit for now, or is there a cap once you start exporting characters for real projects?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-10",
       "date": "2026-10-23",
       "rank": 10,
@@ -74691,7 +75043,51 @@
           "user": "[REDACTED]",
           "text": "Tracking the referral and rewarding the partner in one place makes sense. I can see that helping a small team try a partner program without building its own tracking first."
         }
-      ]
+      ],
+      "faDescription": "برنامه همکاری در فروش و بازاریابی ارجاعی کسب‌وکار خود را به راحتی راه‌اندازی کنید. با استفاده از این پلتفرم می‌توانید تمامی ارجاع‌ها و لیدهای ورودی را به دقت رهگیری و تحلیل کنید. به افرادی که در مسیر رشد و توسعه کسب‌وکارتان به شما کمک می‌کنند، به سادگی پاداش دهید. با ثبت‌نام در این برنامه استارتاپی، از ۵۰ درصد تخفیف ویژه برای سال اول استفاده از خدمات Dub بهره‌مند شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "اگر قصد دارید در سال ۲۰۲۶ یک برنامه همکاری در فروش (افیلیت) راه‌اندازی کنید، استفاده از Dub واقعاً بهترین و هوشمندانه‌ترین انتخاب است. خسته نباشید به استیون تی و تیمش بابت این کار فوق‌العاده."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این واقعاً عالی و جذاب است. حتماً آن را مد نظر داشته و بوک‌مارک می‌کنم تا زمانی که پروژه گوشی مینیمالیستی ما آماده شد، وارد حسابمان شویم و استفاده کنیم. :)"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تخفیف ۵۰ درصدی سال اول خیلی عالی است، اما نتوانستم پیدا کنم چه کسب‌وکاری دقیقاً استارتاپ محسوب می‌شود؛ آیا بر اساس مرحله جذب سرمایه، اندازه تیم یا سقف درآمد تعیین می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ترکیب رهگیری ارجاع‌ها و پاداش دادن به همکاران در یک مکان واحد بسیار منطقی است. می‌توانم ببینم که این ابزار چگونه به یک تیم کوچک کمک می‌کند تا بدون نیاز به ساخت سیستم رهگیری اختصاصی، برنامه همکاری را امتحان کند."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nاستارتاپ‌ها برای رشد ارگانیک و کاهش هزینه جذب مشتری (CAC) نیاز به برنامه‌های بازاریابی ارجاعی دارند، اما توسعه سیستم‌های اختصاصی رهگیری و پاداش‌دهی زمان‌بر و پرهزینه است. Dub Startup Program با ارائه یک پنل یکپارچه برای ساخت لینک، آنالیز ارجاع‌ها و اعطای پاداش به همراه ۵۰٪ تخفیف سال اول، این فرایند را برای تیم‌های کوچک بسیار آسان و مقرون‌به‌صرفه کرده است.\n\n### معماری و تکنولوژی\nاین محصول بر پایه معماری وب مدرن و مقیاس‌پذیر با تمرکز بر تاخیر بسیار کم (Low-latency) در هدایت لینک‌ها و ثبت دقیق رویدادها توسعه یافته است تا تحلیل‌های لحظه‌ای از عملکرد همکاران ارائه دهد.\n\n### مدل درآمدی\nمدل SaaS بر پایه اشتراک با تخفیف‌های ویژه ورودی جهت جذب استارتاپ‌های نوپا و ارتقای آن‌ها به پلن‌های پیشرفته‌تر با رشد کسب‌وکارشان.\n\n### نقاط قوت\n۱. تمرکز هم‌زمان بر رهگیری ارجاع و مدیریت پاداش در یک جا.\n۲. ارائه پیشنهاد قیمتی و تخفیف جذاب برای استارتاپ‌ها.\n۳. تجربه کاربری ساده که نیاز به تیم فنی اختصاصی را برطرف می‌کند.\n\n### نقاط ضعف\n۱. ابهام در معیارهای دقیق ارزیابی استارتاپ‌های واجد شرایط.\n۲. وابستگی شدید به یکپارچه‌سازی با ابزارهای تحلیل پرداخت.\n\n### نکته طلایی برای ایران\nدر بازار ایران، ساخت نمونه بومی این ابزار با قابلیت تسویه‌حساب خودکار بانکی (پایا/ساتنا) و اتصال به درگاه‌های پرداخت داخلی، می‌تواند به انتخاب اول استارتاپ‌های ایرانی برای راه‌اندازی برنامه‌های افیلیت تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "پلتفرم مدیریت بازاریابی ارجاعی هم‌پاد",
+        "description": "این محصول یک پلتفرم بومی جهت راه‌اندازی و مدیریت برنامه‌های بازاریابی ارجاعی برای استارتاپ‌های ایرانی است. با این سیستم کسب‌وکارها می‌توانند بدون نیاز به توسعه زیرساخت‌های پیچیده فنی، لینک‌های اختصاصی ساخته و عملکرد همکاران فروش را رصد کنند. فرایند تسویه‌حساب و اعطای پاداش به همکاران بازاریاب نیز به شکل شفاف و هوشمند مدیریت می‌شود.",
+        "marketOpportunity": "بسیاری از کسب‌وکارهای آنلاین ایرانی برای کاهش هزینه جذب مشتری به بازاریابی ارجاعی نیاز دارند اما ابزار بومی و یکپارچه‌ای در اختیار ندارند. ارائه یک پلتفرم آماده با پشتیبانی از سیستم‌های پرداخت داخلی می‌تواند سهم قابل توجهی از بازار استارتاپی کشور را تصاحب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های SaaS، فروشگاه‌های آنلاین B۲C و B۲B، و آژانس‌های دیجیتال مارکتینگ",
+        "challenges": [
+          "چالش‌های مربوط به بومی‌سازی و اتصال اتوماتیک به سیستم‌های تسویه‌حساب بانکی (پایا و ساتنا)",
+          "نیاز به راهکارهای پیشرفته برای جلوگیری از تقلب در کلیک‌ها و ارجاع‌های غیرواقعی",
+          "مقاومت اولیه برخی استارتاپ‌ها در تخصیص بودجه به برنامه‌های افیلیت"
+        ],
+        "monetization": [
+          "حق اشتراک ماهانه و سالانه بر اساس تعداد لید یا همکاران فعال",
+          "دریافت درصد کارمزد از هر تراکنش موفق ارجاعی"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "PostgreSQL",
+          "Redis",
+          "Tailwind CSS"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -80793,10 +81189,10 @@
   "audit": {
     "products": 813,
     "withRealComments": 813,
-    "withPersianComments": 738,
-    "withPersianDescription": 738,
-    "withAiReview": 716,
-    "withIranEquivalent": 738,
-    "totalRealComments": 5000
+    "withPersianComments": 747,
+    "withPersianDescription": 747,
+    "withAiReview": 725,
+    "withIranEquivalent": 747,
+    "totalRealComments": 5001
   }
 }
