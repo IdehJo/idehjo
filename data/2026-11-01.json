@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "scrapedAt": "2026-10-31T23:35:21.277Z",
+  "scrapedAt": "2026-11-01T01:21:55.649Z",
   "periods": {
     "today": [
       {
@@ -28,7 +28,7 @@
         "maker": "Anand Balakrishnan",
         "makerTitle": "Pattern AI Lab",
         "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 220,
+        "votes": 230,
         "websiteUrl": "https://www.producthunt.com/r/YRTZMFLGRKJM3F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -89,7 +89,7 @@
         "maker": "Ola Piętka",
         "makerTitle": "Founder & CEO @ Specsight",
         "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 198,
+        "votes": 204,
         "websiteUrl": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -152,12 +152,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 194,
+        "votes": 200,
         "websiteUrl": "https://www.producthunt.com/r/DROUHCHKOTIAJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm Ephraim, one of the makers of telemetry.dev.When an agent breaks in production, you want to know which step did it and what the run cost. telemetry.dev shows each run as one trace, with every model call and tool call as a span with its tokens, cost, and error.New in this launch:- Prompt management: change prompts without a deploy- Evals: test a new prompt version on a dataset before it goes live- Alerts when errors pile up or a run gets expensive- A CLI and an MCP server, so your coding agent can read your tracesIt's built on OpenTelemetry, with TypeScript and Python SDKs for OpenAI, Anthropic, the Vercel AI SDK, LangChain and more. The free plan needs no card, and the code PHBU7A47FH gets you 1 month of Pro.What's the hardest part of debugging your agents right now?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch! I love how each run shows up as one trace — is cost or errors usually the first thing you check in a trace?"
           },
           {
             "user": "[REDACTED]",
@@ -182,10 +186,6 @@
           {
             "user": "[REDACTED]",
             "text": "Impressive tracing. Questions: does pricing scale for high-volume inference? Self-hosting option? How does this compare to vanilla OpenTelemetry sampling?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "absolute fan of @ephraimduncan's work. the maker of @blocks.so keeps cooking!"
           }
         ]
       },
@@ -266,7 +266,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 114,
+        "votes": 120,
         "websiteUrl": "https://www.producthunt.com/r/KRKHMHKQW6VVDT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -322,7 +322,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 114,
+        "votes": 115,
         "websiteUrl": "https://www.producthunt.com/r/H7UZRHUBGPTV43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -343,6 +343,39 @@
         "id": "ph-today-7",
         "date": "2026-10-31",
         "rank": 7,
+        "name": "GitHub Copilot Fusion",
+        "slug": "github-copilot-fusion",
+        "tagline": "GitHub's AI coding agent that picks and combines models",
+        "description": "GitHub Copilot Fusion takes the guesswork out of choosing AI models for coding. Instead of picking one model, Fusion automatically routes each task to suitable models and combines them when needed. One model can write code while another reviews or improves it. Choose Standard, High, or Max effort to balance speed, quality, and cost. Available across GitHub Copilot plans in VS Code, Copilot CLI, the Copilot app, and JetBrains IDEs.",
+        "category": "Developer Tools • Artificial Intelligence • GitHub",
+        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+        "url": "https://www.producthunt.com/products/github-copilot-fusion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/df93ae14-eab5-4baa-91de-688ed4e7d4b3.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/9d3be44b-b0d5-4737-9f81-e1ea08e6bb03.png?auto=format",
+          "https://ph-files.imgix.net/d2acc910-897d-4591-8228-c3f67cb019e0.webp?auto=format",
+          "https://ph-files.imgix.net/124ebaf3-bdd9-4fd8-8b21-609d4c426100.png?auto=format"
+        ],
+        "maker": "",
+        "makerTitle": "",
+        "featuredAt": "2026-10-31T07:01:00Z",
+        "votes": 96,
+        "websiteUrl": "https://www.producthunt.com/r/72K5GZ4MAY5NR2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "GitHub just launched Copilot Fusion, and I think this is a pretty useful idea.Instead of constantly deciding which AI model to use for coding, you select Fusion and let it figure that out. For harder tasks, it can even use multiple models together — one writes the solution, another reviews it.GitHub says Fusion Max gets close to Claude Code with Opus 5.5 Max on Artificial Analysis benchmarks, at roughly half the average API cost per task.It's available now across Copilot plans. Curious to see how well the automatic model selection works in real projects."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Interesting idea — when Fusion uses multiple models together, like one writing and another reviewing, do they share the same full context, or does the reviewer only get a summary? I'm curious how that handoff works when the second model needs to catch something subtle in the first model's reasoning."
+          }
+        ]
+      },
+      {
+        "id": "ph-today-8",
+        "date": "2026-10-31",
+        "rank": 8,
         "name": "Secret Key",
         "slug": "secret-key",
         "tagline": "Let your family unlock your passwords if you can't",
@@ -373,39 +406,6 @@
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt! 👋 I’m Mateusz, the maker of Secret Key.The problem: if something happens to you, your family is locked out of everything: email, photos, 2FA codes, crypto, bank. Most password managers offer no real way around that.What Secret Key does: it protects your password database (e.g. KeePass) and splits the master password into pieces using Shamir’s Secret Sharing. You hand the pieces to people you trust, and you decide how many are needed to unlock it (for example, any 3 of 5). One piece alone reveals nothing.How access works:A loved one signs in with their printed card.They confirm with an SMS code.The agreed number of people enter their pieces.A 48-hour timelock starts. You get an email with a one-click Panic Button to cut access off if it’s a false alarm.Only then can the vault be downloaded.Details that matter:Self-hosted: it runs on your own server, so no vendor holds your vault.Pieces are generated offline, in your browser.Printable cards (PDF with QR code) for each person.Open source (MIT).🌐 Heads-up: the live demo (app.secretkey.website) and the app itself are currently in Polish only, since I built the system for my own family first. The video is narrated in Polish by default, but it comes with English narration, English subtitles and several other languages: just pick them on YouTube (⚙ → Audio track / Subtitles). The project site, documentation and the slides above are in English.Shamir’s Secret Sharing is done with the open-source secrets.js library (MIT), the same one used by iancoleman.io/shamir, so you can verify the shares independently, outside Secret Key. Big thanks to its maintainers!I’d love your feedback, especially on the recovery flow and what would make you trust a tool like this with your own vault. Thanks for checking it out! 🔑"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-8",
-        "date": "2026-10-31",
-        "rank": 8,
-        "name": "GitHub Copilot Fusion",
-        "slug": "github-copilot-fusion",
-        "tagline": "GitHub's AI coding agent that picks and combines models",
-        "description": "GitHub Copilot Fusion takes the guesswork out of choosing AI models for coding. Instead of picking one model, Fusion automatically routes each task to suitable models and combines them when needed. One model can write code while another reviews or improves it. Choose Standard, High, or Max effort to balance speed, quality, and cost. Available across GitHub Copilot plans in VS Code, Copilot CLI, the Copilot app, and JetBrains IDEs.",
-        "category": "Developer Tools • Artificial Intelligence • GitHub",
-        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-        "url": "https://www.producthunt.com/products/github-copilot-fusion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/df93ae14-eab5-4baa-91de-688ed4e7d4b3.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/9d3be44b-b0d5-4737-9f81-e1ea08e6bb03.png?auto=format",
-          "https://ph-files.imgix.net/d2acc910-897d-4591-8228-c3f67cb019e0.webp?auto=format",
-          "https://ph-files.imgix.net/124ebaf3-bdd9-4fd8-8b21-609d4c426100.png?auto=format"
-        ],
-        "maker": "",
-        "makerTitle": "",
-        "featuredAt": "2026-10-31T07:01:00Z",
-        "votes": 94,
-        "websiteUrl": "https://www.producthunt.com/r/72K5GZ4MAY5NR2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "GitHub just launched Copilot Fusion, and I think this is a pretty useful idea.Instead of constantly deciding which AI model to use for coding, you select Fusion and let it figure that out. For harder tasks, it can even use multiple models together — one writes the solution, another reviews it.GitHub says Fusion Max gets close to Claude Code with Opus 5.5 Max on Artificial Analysis benchmarks, at roughly half the average API cost per task.It's available now across Copilot plans. Curious to see how well the automatic model selection works in real projects."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Interesting idea — when Fusion uses multiple models together, like one writing and another reviewing, do they share the same full context, or does the reviewer only get a summary? I'm curious how that handoff works when the second model needs to catch something subtle in the first model's reasoning."
           }
         ]
       },
@@ -516,7 +516,7 @@
         "maker": "Bhavya Singh",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 370,
+        "votes": 371,
         "websiteUrl": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -575,7 +575,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 342,
+        "votes": 343,
         "websiteUrl": "https://www.producthunt.com/r/PZ4KKDP7MANWFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -635,7 +635,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 316,
+        "votes": 317,
         "websiteUrl": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -696,7 +696,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 180,
+        "votes": 181,
         "websiteUrl": "https://www.producthunt.com/r/CC5KZ2CNTCOFOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -800,7 +800,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 137,
+        "votes": 138,
         "websiteUrl": "https://www.producthunt.com/r/6XWF3PRT2W3QVO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1202,7 +1202,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 370,
+        "votes": 371,
         "websiteUrl": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1320,7 +1320,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 342,
+        "votes": 343,
         "websiteUrl": "https://www.producthunt.com/r/PZ4KKDP7MANWFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1417,9 +1417,9 @@
         ]
       },
       {
-        "id": "ph-week-7",
+        "id": "ph-week-8",
         "date": "2026-10-27",
-        "rank": 7,
+        "rank": 8,
         "name": "Overmind",
         "slug": "overmind-2",
         "tagline": "Open-source platform for continuous learning",
@@ -1479,9 +1479,9 @@
         ]
       },
       {
-        "id": "ph-week-8",
+        "id": "ph-week-7",
         "date": "2026-10-30",
-        "rank": 8,
+        "rank": 7,
         "name": "SpeakON Agent",
         "slug": "speakon-agent",
         "tagline": "Turn natural speech into real work for an agent to complete",
@@ -1501,7 +1501,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-30T07:01:00Z",
-        "votes": 316,
+        "votes": 317,
         "websiteUrl": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1625,7 +1625,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-25T07:01:00Z",
-        "votes": 301,
+        "votes": 302,
         "websiteUrl": "https://www.producthunt.com/r/RAM2WW7LJWJVNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1660,7 +1660,67 @@
             "user": "[REDACTED]",
             "text": "How does Moli by Lexmount compare to traditional cloud browser services?"
           }
-        ]
+        ],
+        "faDescription": "مولی از شرکت لکسمونت یک موتور مرورگر اختصاصی است که از پایه برای عامل‌های هوش مصنوعی طراحی و ساخته شده است. این مرورگر سرعت راه‌اندازی بسیار بالاتری دارد و حافظه سرور بسیار کمتری را نسبت به گوگل کروم مصرف می‌کند. شما می‌توانید از مولی از طریق مرورگر ابری لکسمونت که پلتفرم اختصاصی این مجموعه است استفاده کنید. با این سرویس امکان اجرای چندین نشست مرورگر ایزوله شده همراه با پشتیبانی از پروکسی وجود دارد، در حالی که تمام مدیریت زیرساخت توسط لکسمونت انجام می‌شود. به عامل‌های هوش مصنوعی خود اجازه دهید وب‌گردی کنند، فرم‌ها را پر نمایند و داده‌های مورد نیاز را استخراج کنند. شما می‌توانید این محصول را در محیط آزمایشی تست کرده یا از طریق SDK اختصاصی به آن متصل شوید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام پروداکت هانت 👋 من کوئین هستم، یکی از سازندگان Moli by Lexmount. مولی سریع‌ترین مرورگر بدون واسط گرافیکی (Headless) برای عامل‌ها و چارچوب‌های هوش مصنوعی است. این موتور اختصاصی، پلتفرم ابری Lexmount Browser را توانمند می‌سازد و به اجرای سریع‌تر و ارزان‌تر عامل‌های شما کمک می‌کند. اگر در حال ساخت عامل‌های هوش مصنوعی برای تحقیقات، جمع‌آوری داده یا اتوماسیون وب هستید، این ابزار مخصوص شماست. ✍️ روش توسعه با مولی: ابتدا آن را در محیط آزمایشی ما تست کنید تا اعتبارنامه‌ها را بررسی کرده و مرورگر را پیش از کدنویسی معاینه نمایید. یا از SDK ما برای کنترل مرورگرهای واقعی ابری با پشتیبانی از Playwright، CDP، افزونه‌ها، پروکسی‌ها، دانلودها و بازپخش نشست استفاده کنید. وظایف واقعی وب را اجرا کرده و نتایج قابل راستی‌آزمایی مانند فایل CSV همراه با لینک‌های منبع دریافت کنید. چرا مولی؟ راه‌اندازی بسیار سریع‌تر و مصرف حافظه کمتر (راه‌اندازی سرد ۵ برابر سریع‌تر از کروم و مصرف ۱/۷ حافظه)، کار زیرساختی کمتر، مقیاس‌پذیری ابری و هزینه‌های پایین‌تر (۱۰۰ ساعت مرورگر و ۲۵ نشست همزمان فقط با ۱۲ دلار در ماه). 🎉 به مناسبت عرضه، کاربران پروداکت هانت ۲ ماه اشتراک رایگان دریافت می‌کنند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "ساخت یک موتور مرورگر اختصاصی برای عامل‌های هوش مصنوعی به جای استفاده از پوسته کروم، تصمیم بسیار جذابی است. راه‌اندازی اولیه و میزان مصرف حافظه جایی است که مرورگرهای هدرلس به مرور بودجه زیرساخت را می‌بلعند، به‌ویژه زمانی که نشست‌های همزمان زیادی اجرا می‌شوند. بخشی که من ابتدا تست می‌کنم این است که چقدر دقیق مراحل پیچیده یک سناریوی واقعی مانند وضعیت ورود، آیفریم‌ها و صفحاتی که پس از بارگذاری تغییر می‌کنند را مدیریت می‌کند، زیرا موتورهای سبک‌تر معمولاً در این نقاط ضعف خود را نشان می‌دهند."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "زیرساخت مرورگر از آن چیزهایی است که هیچ‌کس واقعاً به آن فکر نمی‌کند تا زمانی که شروع به بلعیدن هزینه‌ها کند. ساخت یک ابزار سبک‌تر اختصاصی برای عامل‌های هوش مصنوعی منطقی به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "آیا می‌توانم مرورگر لکسمونت را به کلود (Claude) یا سایر عامل‌های هوش مصنوعی متصل کنم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "چه چیزی مولی را به یک مرورگر بومیِ عامل‌های هوش مصنوعی تبدیل می‌کند، به جای اینکه فقط یک مرورگر سبک باشد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "مولی چگونه محتوای پویای وب را مدیریت می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "راه‌اندازی اولیه ۵ برابر سریع‌تر به نظر شگفت‌انگیز می‌رسد. چگونه به این سرعت دست یافتید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "مولی لکسمونت چه مقایسه‌ای با سرویس‌های مرورگر ابری سنتی دارد؟"
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: اجرای مرورگرهای استاندارد مانند کروم برای عامل‌های هوش مصنوعی (AI Agents) بسیار سنگین بوده و حافظه و منابع سرور زیادی را مصرف می‌کند که باعث افزایش شدید هزینه‌ها می‌شود. Moli با بازنویسی موتور مرورگر از صفر، سرعت راه‌اندازی را ۵ برابر افزایش و مصرف حافظه را به یک‌هفتم کاهش داده است.\n\nمعماری و تکنولوژی: این محصول از یک موتور مرورگر اختصاصی (Agent-native Engine) استفاده می‌کند که از پروتکل‌های استاندارد مانند CDP و Playwright پشتیبانی کرده و با ارائه SDK و کانتینرهای ابری، مدیریت پروکسی و نشست‌های ایزوله را بر عهده می‌گیرد.\n\nمدل درآمدی: مدل اشتراکی ابری (SaaS) بر اساس میزان استفاده (مصرف ساعتی مرورگر و تعداد نشست‌های همزمان) با قیمت‌گذاری بسیار رقابتی در مقایسه با سایر سرویس‌های ابری.\n\nنقاط قوت: بهینه‌سازی خیره‌کننده منابع سرور، کاهش شدید هزینه‌ها، راه‌اندازی فوق‌العاده سریع و یکپارچگی عالی با SDKهای محبوب اتوماسیون.\n\nنقاط ضعف: چالش‌های احتمالی در رندرینگ صفحات بسیار پیچیده پویای جاوااسکریپت و احراز هویت‌های چندمرحله‌ای به دلیل بازنویسی موتور از صفر.\n\nنکته طلایی برای ایران: در ایران که هزینه‌های زیرساخت سروری و پهنای باند گران است، ارائه زیرساخت مرورگر سبک برای اسکرپینگ سایت‌های داخلی (مانند دیوار، دیجی‌کالا و ترب) با پروکسی‌های تمیز داخلی می‌تواند جذابیت تجاری فوق‌العاده‌ای برای تیم‌های هوش مصنوعی داشته باشد.",
+        "iranEquivalent": {
+          "productName": "پلتفرم ابری کاوش‌گر (ابرکاوش)",
+          "description": "این پلتفرم یک زیرساخت ابری بهینه‌شده برای اجرای مرورگرهای سبک و بدون واسط گرافیکی است که مخصوص عامل‌های هوش مصنوعی و ربات‌های جمع‌آوری داده در ایران طراحی شده است. توسعه‌دهندگان می‌توانند بدون درگیر شدن با پیچیدگی‌های مدیریت سرور و پروکسی، هزاران عملیات وب‌گردی و استخراج اطلاعات را با کمترین هزینه اجرا کنند. این سرویس امکان استفاده از پروکسی‌های داخلی برای دور زدن محدودیت‌ها و تعامل با سایت‌های ایرانی را به سادگی فراهم می‌کند.",
+          "marketOpportunity": "با رشد روزافزون استارتاپ‌های هوش مصنوعی و نیاز به پایش مداوم داده‌های فروشگاهی، مالی و شبکه‌های اجتماعی در ایران، نیاز شدیدی به زیرساخت‌های ابری ارزان و بهینه وجود دارد. ارائه سرویسی که مصرف منابع سروری را تا ۷۰ درصد کاهش دهد، می‌تواند سهم بازار بالایی از تیم‌های نرم‌افزاری و داده‌کاوی کشور کسب کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "توسعه‌دهندگان هوش مصنوعی، شرکت‌های داده‌کاوی، استارتاپ‌های پایش قیمت و تحلیل بازار، تیم‌های اتوماسیون وب و اسکراپینگ",
+          "challenges": [
+            "مواجهه با سیستم‌های ضد اسکرپینگ شدید و کَپچاهای پیچیده در سایت‌های ایرانی",
+            "تامین زیرساخت ابری پایدار و شبکه پروکسی‌های داخلی تمیز"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه بر اساس میزان ساعات مصرفی مرورگر و تعداد نشست‌های همزمان",
+            "ارائه پلن‌های اختصاصی سازمانی همراه با سرورهای مجزا و پشتیبانی ویژه"
+          ],
+          "techStack": [
+            "Rust",
+            "Node.js",
+            "TypeScript",
+            "Docker",
+            "PostgreSQL",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       }
     ],
     "month": [
@@ -1812,7 +1872,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-10-20T07:01:00Z",
-        "votes": 518,
+        "votes": 520,
         "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {

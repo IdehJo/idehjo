@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:35:21.277Z",
+  "generatedAt": "2026-11-01T01:26:59.047Z",
   "sourceFiles": 83,
   "products": [
     {
@@ -6183,7 +6183,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Laravel Core Team Member",
       "featuredAt": "2026-10-20T07:01:00Z",
-      "votes": 518,
+      "votes": 520,
       "websiteUrl": "https://www.producthunt.com/r/CQPWN4LKI7SB2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -15179,6 +15179,67 @@
       }
     },
     {
+      "id": "ph-yesterday-1",
+      "date": "2026-10-30",
+      "rank": 1,
+      "name": "Vaani Developer Platform",
+      "slug": "vaani-developer-platform",
+      "tagline": "The only voice AI harness that you'll ever need",
+      "description": "Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.",
+      "category": "Artificial Intelligence • Tech • Audio",
+      "categoryFa": "هوش مصنوعی • Tech • صدا",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format",
+        "https://ph-files.imgix.net/660866d2-9ede-4b2e-bdc9-bc59b50e4202.png?auto=format",
+        "https://ph-files.imgix.net/59a85e5f-60d2-480a-a5a3-c62eed21f5fc.jpeg?auto=format",
+        "https://ph-files.imgix.net/4b4385a0-8272-401c-95d7-3bdd91ff5929.jpeg?auto=format",
+        "https://ph-files.imgix.net/65af910e-7e8b-443b-a8f9-d826ec47a508.png?auto=format",
+        "https://ph-files.imgix.net/2fbefa10-e719-41b3-98aa-7c7481fa8d59.png?auto=format",
+        "https://ph-files.imgix.net/38c7dfb3-737c-48eb-903c-4a3a6e184bee.png?auto=format"
+      ],
+      "maker": "Bhavya Singh",
+      "makerTitle": "",
+      "featuredAt": "2026-10-30T07:01:00Z",
+      "votes": 371,
+      "websiteUrl": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I’m Chandra from Vaani, a small voice AI team in Bengaluru.Voice AI started with great models and only later got applications, so putting an agent on a real phone line still means stitching together speech, an LLM, telephony, tools and retries. We built an internal tool to configure agents without all that glue. Founders, PMs and developers who saw it kept asking for access, so today we’re opening it up.What you can do, no code:Design the call flow, including how the agent handles objections, interruptions and edge casesGive it actions: hold, schedule a callback, hand off to another agent or a humanConnect a knowledge base so it answers from your docs mid-callPick a number and go liveAfter every call, get structured data: extracted fields and a disposition, so you don’t have to read transcripts to know what happenedIt also orchestrates multiple models and switches to a backup if one fails mid-call, so one bad response doesn’t wreck the conversation.We started with languages where data is scarce, which is why “sounds local” matters so much to us. It’s built to work for your customers wherever they are.What’s the first voice agent you’d build, and what would you expect to break it? We’ll be in the comments all day.Try out the platform first-hand at https://platform.vaani.dev/Grab 1000 free credits by using the code PHL1000X"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really interesting approach to voice AI. I like that Vaani goes beyond just building the agent and considers the entire call experience, from handling interruptions and edge cases to getting structured data after each call. The model failover is also a nice touch. Great work👏."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is there a way to hear each English voice before picking one?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey! How are you different than Bolna or ElevenLabs?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What options does Vaani have for deployments? I want to embed a chat/voice bubble on my website. Can I do that with Vaani?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@Vaani Developer Platform experience is something which lacks a lot during an AI call, how that would be handled properly like .... asking key validation to ensure its you and putting your call on hold to check the vital info, earlier in human calls there was a hold tone and an apology ... but in AI its a long pause and slow conversation which frustrates user... How that is gonna handled ."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "a friend's company trialed with every top voice AI startup in india to automate renewal calls. they picked the company’s revenue depends heavily on renewals. most of the non startup Top 500 companies of India are their customers. renewals here happen on phone calls, not card subscriptions. they went with vaani because of good the tech is, and also because the team stays with you until you're happy."
+        }
+      ]
+    },
+    {
       "id": "ph-week-10",
       "date": "2026-08-02",
       "rank": 10,
@@ -15299,67 +15360,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-1",
-      "date": "2026-10-30",
-      "rank": 1,
-      "name": "Vaani Developer Platform",
-      "slug": "vaani-developer-platform",
-      "tagline": "The only voice AI harness that you'll ever need",
-      "description": "Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.",
-      "category": "Artificial Intelligence • Tech • Audio",
-      "categoryFa": "هوش مصنوعی • Tech • صدا",
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format",
-        "https://ph-files.imgix.net/660866d2-9ede-4b2e-bdc9-bc59b50e4202.png?auto=format",
-        "https://ph-files.imgix.net/59a85e5f-60d2-480a-a5a3-c62eed21f5fc.jpeg?auto=format",
-        "https://ph-files.imgix.net/4b4385a0-8272-401c-95d7-3bdd91ff5929.jpeg?auto=format",
-        "https://ph-files.imgix.net/65af910e-7e8b-443b-a8f9-d826ec47a508.png?auto=format",
-        "https://ph-files.imgix.net/2fbefa10-e719-41b3-98aa-7c7481fa8d59.png?auto=format",
-        "https://ph-files.imgix.net/38c7dfb3-737c-48eb-903c-4a3a6e184bee.png?auto=format"
-      ],
-      "maker": "Bhavya Singh",
-      "makerTitle": "",
-      "featuredAt": "2026-10-30T07:01:00Z",
-      "votes": 370,
-      "websiteUrl": "https://www.producthunt.com/r/PLG3DPJZGCJSAB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I’m Chandra from Vaani, a small voice AI team in Bengaluru.Voice AI started with great models and only later got applications, so putting an agent on a real phone line still means stitching together speech, an LLM, telephony, tools and retries. We built an internal tool to configure agents without all that glue. Founders, PMs and developers who saw it kept asking for access, so today we’re opening it up.What you can do, no code:Design the call flow, including how the agent handles objections, interruptions and edge casesGive it actions: hold, schedule a callback, hand off to another agent or a humanConnect a knowledge base so it answers from your docs mid-callPick a number and go liveAfter every call, get structured data: extracted fields and a disposition, so you don’t have to read transcripts to know what happenedIt also orchestrates multiple models and switches to a backup if one fails mid-call, so one bad response doesn’t wreck the conversation.We started with languages where data is scarce, which is why “sounds local” matters so much to us. It’s built to work for your customers wherever they are.What’s the first voice agent you’d build, and what would you expect to break it? We’ll be in the comments all day.Try out the platform first-hand at https://platform.vaani.dev/Grab 1000 free credits by using the code PHL1000X"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really interesting approach to voice AI. I like that Vaani goes beyond just building the agent and considers the entire call experience, from handling interruptions and edge cases to getting structured data after each call. The model failover is also a nice touch. Great work👏."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is there a way to hear each English voice before picking one?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey! How are you different than Bolna or ElevenLabs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What options does Vaani have for deployments? I want to embed a chat/voice bubble on my website. Can I do that with Vaani?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@Vaani Developer Platform experience is something which lacks a lot during an AI call, how that would be handled properly like .... asking key validation to ensure its you and putting your call on hold to check the vital info, earlier in human calls there was a hold tone and an apology ... but in AI its a long pause and slow conversation which frustrates user... How that is gonna handled ."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "a friend's company trialed with every top voice AI startup in india to automate renewal calls. they picked the company’s revenue depends heavily on renewals. most of the non startup Top 500 companies of India are their customers. renewals here happen on phone calls, not card subscriptions. they went with vaani because of good the tech is, and also because the team stays with you until you're happy."
-        }
-      ]
     },
     {
       "id": "ph-week-8",
@@ -18623,6 +18623,65 @@
       }
     },
     {
+      "id": "ph-yesterday-2",
+      "date": "2026-10-30",
+      "rank": 2,
+      "name": "Knocket AI",
+      "slug": "knocket-ai",
+      "tagline": "Chat with visitors from your website or link",
+      "description": "Give visitors a way to say hello. Add free live chat to your website or app, or turn your bio link into a personal contact page. Visitors can start chatting without signing up. Built for founders, creators, and small teams.",
+      "category": "Productivity • Customer Success • Customer Communication",
+      "categoryFa": "بهره‌وری • Customer Success • Customer Communication",
+      "url": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c9e78747-3bbf-4262-b48f-06a2f61660f1.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/474f2622-097f-4606-adc6-ee4191ae5d9e.png?auto=format",
+        "https://ph-files.imgix.net/ece0c4b8-1df2-4083-bfcb-58bc039e8d5b.png?auto=format",
+        "https://ph-files.imgix.net/59bce133-eeb5-455e-9a65-927b80efa379.png?auto=format",
+        "https://ph-files.imgix.net/c9f4b354-32b2-4cd4-bbe4-8bac8a091286.png?auto=format",
+        "https://ph-files.imgix.net/71e6d8f6-dd53-4375-bd3e-55f76acff3c2.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-30T07:01:00Z",
+      "votes": 343,
+      "websiteUrl": "https://www.producthunt.com/r/PZ4KKDP7MANWFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! Someone lands on your website, checks out your work, and has a question. Make it easy for them to ask.With Knocket, you can:• Add a free chat widget to your website or app• Create a personal contact page to share anywhere• Let visitors message you without creating an accountGot a website? Add the widget. No website yet? Start with a contact page.We’d love to hear what you think!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could be useful on launch day for questions the landing page missed."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on this launch! A potential product for my website!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is it possible to update the Contact Page URL after setup?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on launch! Would it be possible to integrate with AI? And will it support Wordpress?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks great, just hitting our pain points. 100% free?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Simple product，easy to understand what it is for."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can the contact Page URL be changed without breaking the old link??"
+        }
+      ]
+    },
+    {
       "id": "ph-week-5",
       "date": "2026-10-20",
       "rank": 5,
@@ -18738,65 +18797,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-2",
-      "date": "2026-10-30",
-      "rank": 2,
-      "name": "Knocket AI",
-      "slug": "knocket-ai",
-      "tagline": "Chat with visitors from your website or link",
-      "description": "Give visitors a way to say hello. Add free live chat to your website or app, or turn your bio link into a personal contact page. Visitors can start chatting without signing up. Built for founders, creators, and small teams.",
-      "category": "Productivity • Customer Success • Customer Communication",
-      "categoryFa": "بهره‌وری • Customer Success • Customer Communication",
-      "url": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c9e78747-3bbf-4262-b48f-06a2f61660f1.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/474f2622-097f-4606-adc6-ee4191ae5d9e.png?auto=format",
-        "https://ph-files.imgix.net/ece0c4b8-1df2-4083-bfcb-58bc039e8d5b.png?auto=format",
-        "https://ph-files.imgix.net/59bce133-eeb5-455e-9a65-927b80efa379.png?auto=format",
-        "https://ph-files.imgix.net/c9f4b354-32b2-4cd4-bbe4-8bac8a091286.png?auto=format",
-        "https://ph-files.imgix.net/71e6d8f6-dd53-4375-bd3e-55f76acff3c2.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-30T07:01:00Z",
-      "votes": 342,
-      "websiteUrl": "https://www.producthunt.com/r/PZ4KKDP7MANWFR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! Someone lands on your website, checks out your work, and has a question. Make it easy for them to ask.With Knocket, you can:• Add a free chat widget to your website or app• Create a personal contact page to share anywhere• Let visitors message you without creating an accountGot a website? Add the widget. No website yet? Start with a contact page.We’d love to hear what you think!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could be useful on launch day for questions the landing page missed."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on this launch! A potential product for my website!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is it possible to update the Contact Page URL after setup?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on launch! Would it be possible to integrate with AI? And will it support Wordpress?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks great, just hitting our pain points. 100% free?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Simple product，easy to understand what it is for."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can the contact Page URL be changed without breaking the old link??"
-        }
-      ]
     },
     {
       "id": "ph-week-7",
@@ -21913,9 +21913,69 @@
       }
     },
     {
-      "id": "ph-week-7",
+      "id": "ph-yesterday-3",
+      "date": "2026-10-30",
+      "rank": 3,
+      "name": "SpeakON Agent",
+      "slug": "speakon-agent",
+      "tagline": "Turn natural speech into real work for an agent to complete",
+      "description": "Turn natural speech into real work with SpeakON Agent. It understands your Notes, connects your tools, and prepares Actions for you to review and confirm.",
+      "category": "Productivity • Hardware • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • Hardware • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7f258b9d-821d-41ba-8535-b24f5a3d415d.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/13aa9ec1-903a-40d8-ab9f-911cdc02e813.jpeg?auto=format",
+        "https://ph-files.imgix.net/681786db-0e7c-454c-b094-c1c72befbedd.png?auto=format",
+        "https://ph-files.imgix.net/cee636b7-2810-4b7d-8d1a-968c9201fdea.png?auto=format",
+        "https://ph-files.imgix.net/12cfd236-7dc8-4fe2-b770-a2e70479788d.png?auto=format",
+        "https://ph-files.imgix.net/849bfc84-6497-45e4-baa5-9eb7ce0ebcc9.png?auto=format",
+        "https://ph-files.imgix.net/b7584463-40e0-45b8-8cb3-e4d5461fd7bc.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-30T07:01:00Z",
+      "votes": 317,
+      "websiteUrl": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 Ryan here, founder of SpeakON.Six months ago, this community helped make SpeakON #1 Product of the Day. Thank you for trying it and helping shape what came next.Today, we're back with SpeakON Agent, taking SpeakON beyond voice input to help you act on what’s on your mind.To mark the launch, we drove an actual steamroller over 1,000 keyboards. Yes, really. They were responsibly recycled afterward.We’re not asking you to give up your keyboard. But a simple thought shouldn’t require opening three apps and typing the same details again.We built SpeakON to shorten the distance from thought to action: an AI communicator with a physical button for your iPhone.Press the button and say what you need, even while your iPhone is locked:📅 “Find a time that works for Alex, Maya, and me, schedule a meeting, and share the details on Slack.” SpeakON creates the event and prepares a Slack update for you to review before sending.📧 “Draft an email to Sarah about tomorrow’s meeting and ask her to bring the updated proposal.” SpeakON prepares a Gmail draft for you to review.Works with Apple Mail, Calendar, Contacts, and Reminders, plus Gmail, Google Calendar, Google Contacts, Slack, Google Drive, Notion, and Evernote. More integrations are on the way.🎁 For the Product Hunt community: get $25 off this week with code Agent25.I'll be here throughout the day. I'd especially love to hear: What’s one task you’d love to handle with a single spoken request?Honest questions and tough feedback are both welcome.— Ryan"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "SpeekOn seems to be a handy product！I've also upvoted. One question though, once I give SpeakON a voice command, how do I see/feel the working progress and results from the SpeakON device or i have to go back to my cellphone or laptop to check the progress/results?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "suddenly realized I have owned one this😂 My friend gave one to me as a gift. Brilliant product"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Just have tried. An interesting and powered AI tool! Congrats on this launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The review-before-sending step is the part I'd want to understand first — for a spoken request that touches more than one tool, like scheduling a meeting and sharing it on Slack, do you get one combined confirmation to review, or a separate confirmation for each action? And if one part looks wrong, can you fix just that part by voice without redoing the whole request?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I wonder it's accuracy ratio.Nice idea."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I think more dialects should be included to make it diverse"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the physical button working while the iPhone is locked is a nice touch. does a spoken note still get a review step before it hits Gmail or Slack?"
+        }
+      ]
+    },
+    {
+      "id": "ph-week-8",
       "date": "2026-10-27",
-      "rank": 7,
+      "rank": 8,
       "name": "Overmind",
       "slug": "overmind-2",
       "tagline": "Open-source platform for continuous learning",
@@ -21971,66 +22031,6 @@
         {
           "user": "[REDACTED]",
           "text": "As a marketer, I'm not new to using AI, but I am new to actually building and running AI agents. Overmind seems like it would be able to help me get there much quicker than I anticipated, and without hiring an entire ML team, too 😁 Best of luck with the launch!"
-        }
-      ]
-    },
-    {
-      "id": "ph-yesterday-3",
-      "date": "2026-10-30",
-      "rank": 3,
-      "name": "SpeakON Agent",
-      "slug": "speakon-agent",
-      "tagline": "Turn natural speech into real work for an agent to complete",
-      "description": "Turn natural speech into real work with SpeakON Agent. It understands your Notes, connects your tools, and prepares Actions for you to review and confirm.",
-      "category": "Productivity • Hardware • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • Hardware • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7f258b9d-821d-41ba-8535-b24f5a3d415d.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/13aa9ec1-903a-40d8-ab9f-911cdc02e813.jpeg?auto=format",
-        "https://ph-files.imgix.net/681786db-0e7c-454c-b094-c1c72befbedd.png?auto=format",
-        "https://ph-files.imgix.net/cee636b7-2810-4b7d-8d1a-968c9201fdea.png?auto=format",
-        "https://ph-files.imgix.net/12cfd236-7dc8-4fe2-b770-a2e70479788d.png?auto=format",
-        "https://ph-files.imgix.net/849bfc84-6497-45e4-baa5-9eb7ce0ebcc9.png?auto=format",
-        "https://ph-files.imgix.net/b7584463-40e0-45b8-8cb3-e4d5461fd7bc.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-30T07:01:00Z",
-      "votes": 316,
-      "websiteUrl": "https://www.producthunt.com/r/GUQI7NTMSNKCWZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 Ryan here, founder of SpeakON.Six months ago, this community helped make SpeakON #1 Product of the Day. Thank you for trying it and helping shape what came next.Today, we're back with SpeakON Agent, taking SpeakON beyond voice input to help you act on what’s on your mind.To mark the launch, we drove an actual steamroller over 1,000 keyboards. Yes, really. They were responsibly recycled afterward.We’re not asking you to give up your keyboard. But a simple thought shouldn’t require opening three apps and typing the same details again.We built SpeakON to shorten the distance from thought to action: an AI communicator with a physical button for your iPhone.Press the button and say what you need, even while your iPhone is locked:📅 “Find a time that works for Alex, Maya, and me, schedule a meeting, and share the details on Slack.” SpeakON creates the event and prepares a Slack update for you to review before sending.📧 “Draft an email to Sarah about tomorrow’s meeting and ask her to bring the updated proposal.” SpeakON prepares a Gmail draft for you to review.Works with Apple Mail, Calendar, Contacts, and Reminders, plus Gmail, Google Calendar, Google Contacts, Slack, Google Drive, Notion, and Evernote. More integrations are on the way.🎁 For the Product Hunt community: get $25 off this week with code Agent25.I'll be here throughout the day. I'd especially love to hear: What’s one task you’d love to handle with a single spoken request?Honest questions and tough feedback are both welcome.— Ryan"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "SpeekOn seems to be a handy product！I've also upvoted. One question though, once I give SpeakON a voice command, how do I see/feel the working progress and results from the SpeakON device or i have to go back to my cellphone or laptop to check the progress/results?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "suddenly realized I have owned one this😂 My friend gave one to me as a gift. Brilliant product"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Just have tried. An interesting and powered AI tool! Congrats on this launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The review-before-sending step is the part I'd want to understand first — for a spoken request that touches more than one tool, like scheduling a meeting and sharing it on Slack, do you get one combined confirmation to review, or a separate confirmation for each action? And if one part looks wrong, can you fix just that part by voice without redoing the whole request?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I wonder it's accuracy ratio.Nice idea."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I think more dialects should be included to make it diverse"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the physical button working while the iPhone is locked is a nice touch. does a spoken note still get a review step before it hits Gmail or Slack?"
         }
       ]
     },
@@ -24461,7 +24461,67 @@
           "user": "[REDACTED]",
           "text": "How does Moli by Lexmount compare to traditional cloud browser services?"
         }
-      ]
+      ],
+      "faDescription": "مولی از شرکت لکسمونت یک موتور مرورگر اختصاصی است که از پایه برای عامل‌های هوش مصنوعی طراحی و ساخته شده است. این مرورگر سرعت راه‌اندازی بسیار بالاتری دارد و حافظه سرور بسیار کمتری را نسبت به گوگل کروم مصرف می‌کند. شما می‌توانید از مولی از طریق مرورگر ابری لکسمونت که پلتفرم اختصاصی این مجموعه است استفاده کنید. با این سرویس امکان اجرای چندین نشست مرورگر ایزوله شده همراه با پشتیبانی از پروکسی وجود دارد، در حالی که تمام مدیریت زیرساخت توسط لکسمونت انجام می‌شود. به عامل‌های هوش مصنوعی خود اجازه دهید وب‌گردی کنند، فرم‌ها را پر نمایند و داده‌های مورد نیاز را استخراج کنند. شما می‌توانید این محصول را در محیط آزمایشی تست کرده یا از طریق SDK اختصاصی به آن متصل شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت 👋 من کوئین هستم، یکی از سازندگان Moli by Lexmount. مولی سریع‌ترین مرورگر بدون واسط گرافیکی (Headless) برای عامل‌ها و چارچوب‌های هوش مصنوعی است. این موتور اختصاصی، پلتفرم ابری Lexmount Browser را توانمند می‌سازد و به اجرای سریع‌تر و ارزان‌تر عامل‌های شما کمک می‌کند. اگر در حال ساخت عامل‌های هوش مصنوعی برای تحقیقات، جمع‌آوری داده یا اتوماسیون وب هستید، این ابزار مخصوص شماست. ✍️ روش توسعه با مولی: ابتدا آن را در محیط آزمایشی ما تست کنید تا اعتبارنامه‌ها را بررسی کرده و مرورگر را پیش از کدنویسی معاینه نمایید. یا از SDK ما برای کنترل مرورگرهای واقعی ابری با پشتیبانی از Playwright، CDP، افزونه‌ها، پروکسی‌ها، دانلودها و بازپخش نشست استفاده کنید. وظایف واقعی وب را اجرا کرده و نتایج قابل راستی‌آزمایی مانند فایل CSV همراه با لینک‌های منبع دریافت کنید. چرا مولی؟ راه‌اندازی بسیار سریع‌تر و مصرف حافظه کمتر (راه‌اندازی سرد ۵ برابر سریع‌تر از کروم و مصرف ۱/۷ حافظه)، کار زیرساختی کمتر، مقیاس‌پذیری ابری و هزینه‌های پایین‌تر (۱۰۰ ساعت مرورگر و ۲۵ نشست همزمان فقط با ۱۲ دلار در ماه). 🎉 به مناسبت عرضه، کاربران پروداکت هانت ۲ ماه اشتراک رایگان دریافت می‌کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ساخت یک موتور مرورگر اختصاصی برای عامل‌های هوش مصنوعی به جای استفاده از پوسته کروم، تصمیم بسیار جذابی است. راه‌اندازی اولیه و میزان مصرف حافظه جایی است که مرورگرهای هدرلس به مرور بودجه زیرساخت را می‌بلعند، به‌ویژه زمانی که نشست‌های همزمان زیادی اجرا می‌شوند. بخشی که من ابتدا تست می‌کنم این است که چقدر دقیق مراحل پیچیده یک سناریوی واقعی مانند وضعیت ورود، آیفریم‌ها و صفحاتی که پس از بارگذاری تغییر می‌کنند را مدیریت می‌کند، زیرا موتورهای سبک‌تر معمولاً در این نقاط ضعف خود را نشان می‌دهند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "زیرساخت مرورگر از آن چیزهایی است که هیچ‌کس واقعاً به آن فکر نمی‌کند تا زمانی که شروع به بلعیدن هزینه‌ها کند. ساخت یک ابزار سبک‌تر اختصاصی برای عامل‌های هوش مصنوعی منطقی به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "آیا می‌توانم مرورگر لکسمونت را به کلود (Claude) یا سایر عامل‌های هوش مصنوعی متصل کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "چه چیزی مولی را به یک مرورگر بومیِ عامل‌های هوش مصنوعی تبدیل می‌کند، به جای اینکه فقط یک مرورگر سبک باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "مولی چگونه محتوای پویای وب را مدیریت می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "راه‌اندازی اولیه ۵ برابر سریع‌تر به نظر شگفت‌انگیز می‌رسد. چگونه به این سرعت دست یافتید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "مولی لکسمونت چه مقایسه‌ای با سرویس‌های مرورگر ابری سنتی دارد؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: اجرای مرورگرهای استاندارد مانند کروم برای عامل‌های هوش مصنوعی (AI Agents) بسیار سنگین بوده و حافظه و منابع سرور زیادی را مصرف می‌کند که باعث افزایش شدید هزینه‌ها می‌شود. Moli با بازنویسی موتور مرورگر از صفر، سرعت راه‌اندازی را ۵ برابر افزایش و مصرف حافظه را به یک‌هفتم کاهش داده است.\n\nمعماری و تکنولوژی: این محصول از یک موتور مرورگر اختصاصی (Agent-native Engine) استفاده می‌کند که از پروتکل‌های استاندارد مانند CDP و Playwright پشتیبانی کرده و با ارائه SDK و کانتینرهای ابری، مدیریت پروکسی و نشست‌های ایزوله را بر عهده می‌گیرد.\n\nمدل درآمدی: مدل اشتراکی ابری (SaaS) بر اساس میزان استفاده (مصرف ساعتی مرورگر و تعداد نشست‌های همزمان) با قیمت‌گذاری بسیار رقابتی در مقایسه با سایر سرویس‌های ابری.\n\nنقاط قوت: بهینه‌سازی خیره‌کننده منابع سرور، کاهش شدید هزینه‌ها، راه‌اندازی فوق‌العاده سریع و یکپارچگی عالی با SDKهای محبوب اتوماسیون.\n\nنقاط ضعف: چالش‌های احتمالی در رندرینگ صفحات بسیار پیچیده پویای جاوااسکریپت و احراز هویت‌های چندمرحله‌ای به دلیل بازنویسی موتور از صفر.\n\nنکته طلایی برای ایران: در ایران که هزینه‌های زیرساخت سروری و پهنای باند گران است، ارائه زیرساخت مرورگر سبک برای اسکرپینگ سایت‌های داخلی (مانند دیوار، دیجی‌کالا و ترب) با پروکسی‌های تمیز داخلی می‌تواند جذابیت تجاری فوق‌العاده‌ای برای تیم‌های هوش مصنوعی داشته باشد.",
+      "iranEquivalent": {
+        "productName": "پلتفرم ابری کاوش‌گر (ابرکاوش)",
+        "description": "این پلتفرم یک زیرساخت ابری بهینه‌شده برای اجرای مرورگرهای سبک و بدون واسط گرافیکی است که مخصوص عامل‌های هوش مصنوعی و ربات‌های جمع‌آوری داده در ایران طراحی شده است. توسعه‌دهندگان می‌توانند بدون درگیر شدن با پیچیدگی‌های مدیریت سرور و پروکسی، هزاران عملیات وب‌گردی و استخراج اطلاعات را با کمترین هزینه اجرا کنند. این سرویس امکان استفاده از پروکسی‌های داخلی برای دور زدن محدودیت‌ها و تعامل با سایت‌های ایرانی را به سادگی فراهم می‌کند.",
+        "marketOpportunity": "با رشد روزافزون استارتاپ‌های هوش مصنوعی و نیاز به پایش مداوم داده‌های فروشگاهی، مالی و شبکه‌های اجتماعی در ایران، نیاز شدیدی به زیرساخت‌های ابری ارزان و بهینه وجود دارد. ارائه سرویسی که مصرف منابع سروری را تا ۷۰ درصد کاهش دهد، می‌تواند سهم بازار بالایی از تیم‌های نرم‌افزاری و داده‌کاوی کشور کسب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، شرکت‌های داده‌کاوی، استارتاپ‌های پایش قیمت و تحلیل بازار، تیم‌های اتوماسیون وب و اسکراپینگ",
+        "challenges": [
+          "مواجهه با سیستم‌های ضد اسکرپینگ شدید و کَپچاهای پیچیده در سایت‌های ایرانی",
+          "تامین زیرساخت ابری پایدار و شبکه پروکسی‌های داخلی تمیز"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه بر اساس میزان ساعات مصرفی مرورگر و تعداد نشست‌های همزمان",
+          "ارائه پلن‌های اختصاصی سازمانی همراه با سرورهای مجزا و پشتیبانی ویژه"
+        ],
+        "techStack": [
+          "Rust",
+          "Node.js",
+          "TypeScript",
+          "Docker",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -34575,6 +34635,68 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-10-31",
+      "rank": 1,
+      "name": "SKI",
+      "slug": "ski-2",
+      "tagline": "Voice-first coding harness ",
+      "description": "Talk to your coding agents and hear them talk back. SKI runs Claude Code, Codex, Cursor, OpenCode, Antigravity and pi side by side on your Mac, and tells you the moment one needs you.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c51ef03e-0e19-4fab-b0a2-3b69fc8d07c4.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/9cbc7a28-bd42-4a93-bb1c-32cbecaf5167.png?auto=format",
+        "https://ph-files.imgix.net/1362d9fa-f0bc-4cd1-9611-f3dc56d4d7ff.png?auto=format",
+        "https://ph-files.imgix.net/a2f81e49-c6d5-4c71-9ceb-30e5688d6594.png?auto=format",
+        "https://ph-files.imgix.net/bbfe818d-19f2-4340-bd06-ec46d7abcd48.png?auto=format",
+        "https://ph-files.imgix.net/9c7afbb6-b133-49e9-942e-8c58d08d464f.png?auto=format",
+        "https://ph-files.imgix.net/81a8705e-fe96-4c06-a748-85fdd8cdf6f9.png?auto=format",
+        "https://ph-files.imgix.net/0fc0589c-4fa7-4348-b89d-3ff38d8d80e4.png?auto=format",
+        "https://ph-files.imgix.net/b3ab44a3-9518-48ef-8428-76083d1fc88d.jpeg?auto=format"
+      ],
+      "maker": "Anand Balakrishnan",
+      "makerTitle": "Pattern AI Lab",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 230,
+      "websiteUrl": "https://www.producthunt.com/r/YRTZMFLGRKJM3F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋Anand here, one of the makers of SKI.In July we launched SKI as a voice layer for coding agents. It went to #1 that day, and the people who found us through that launch gave us the feedback that shaped what we are showing today.One pattern kept coming up: the people who got the most out of SKI were running three or four agents at once and using voice to keep track of them. So we rebuilt SKI around that.SKI is now a voice-first harness for coding agents:• Run Claude Code, Codex, OpenCode, Antigravity, Cursor and pi side by side. Each chat gets its own git worktree, so agents never step on each other.• Talk to any of them. Click the notch to move your voice to another chat. SKI reads the agent's question out loud and you answer by voice.• Say \"stop\" and it stops. Undo a turn and the agent forgets it.• 85+ languages. Speak the way you think.• Every change waits on screen for your review before it goes anywhere.• Your agents run on the subscriptions you already have. SKI only charges for its voice, and there is a free plan every month.Now on Mac. Linux and windows coming soon. Sign in at justski.it.What we would love from you: try it on a real repo and tell us what you said and what came back, good or bad. We are here all day.— Anand, Anoop and John"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. When an agent asks for a yes or no by voice, is the diff still shown on screen before anything is applied to the worktree? And in one-voice mode, how does it tell you which agent is asking when two are waiting at once?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I dictate a lot of what I ask Claude already. When I say stop, does it kill a command that's already running, a git push say, or just the agent's next step?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch anand. the worktree per chat is the part that got me, i always lose track which agent touched what. one thing im curious, when the agent reads a long change back by voice how do you keep it short enough that i still really review it and not just say yes"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The per-chat git worktree detail is what caught my eye — running Claude Code, Codex, and Cursor side by side only works if they never step on each other. With voice as the input, the review-before-anything-goes-anywhere step feels essential, not optional. Does saying “stop” pause just the chat I’m talking to, or all of them at once?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good to see SKI at #1 today. Running Claude Code, Codex and Cursor by voice is useful, and review before merge is important. Can one voice session pass context from one agent to another?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This demo as well as the landing page looks pretty smooth, ngl. How exactly did you build it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "clicking the notch to move your voice to another chat is a neat detail :) if two agents ask something at the same moment, which one gets read out first?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-2",
       "date": "2026-09-13",
       "rank": 2,
@@ -35856,7 +35978,59 @@
           "user": "[REDACTED]",
           "text": "How long does the battery last with the screen on for a whole conference day? And does it stop the phone from auto-locking?"
         }
-      ]
+      ],
+      "faDescription": "بدجی آیفون شما را به یک کارت شناسایی و اتیکت سینه دیجیتال تبدیل می‌کند. هنگامی که گوشی را با بند گردنی آویزان می‌کنید، صفحه نمایش می‌چرخد تا رو به مخاطبان قرار گیرد و با حرکت شما کمی تاب می‌خورد. اگر آن را درون جیب پیراهن بگذارید، ابعاد کارت کوچک شده تا فقط نام شما از بالای خط جیب دیده شود. این برنامه امکان ساخت چند کارت مختلف، درج کد QR برای لینک‌های اختصاصی و انتخاب از میان پنج طرح متنوع را فراهم می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی، من مارکو هستم. من به تنهایی برنامه‌های کوچک آیفون می‌سازم. بدجی آیفون شما را به یک کارت شناسایی تبدیل می‌کند. گوشی را به بند گردنی وصل کرده و آن را برعکس کنید: کارت می‌چرخد تا رو به افرادی که در برابرتان هستند قرار گیرد و هنگام راه رفتن کمی تاب می‌خورد. اگر آن را از سمت بالا داخل جیب پیراهن سر دهید، به یک نوار کوچک تبدیل می‌شود تا اسم شما از بالای جیب مشخص باشد. بررسی وضعیت جیب با استفاده از دوربین جلو برای چند ثانیه و در حالت وارونه بودن گوشی انجام می‌شود؛ یک مدل هوش مصنوعی سبک روی خود گوشی تصمیم‌گیری می‌کند و فریم‌های تصویر هرگز ذخیره نمی‌شوند. شما می‌توانید چند کارت مختلف (کاری، کنفرانس، همایش) داشته باشید، لینکی اضافه کنید که در پشت کارت به کد QR تبدیل شود و از بین طرح‌های کلاسیک، اداری، رویداد، مینیمال یا زنده انتخاب کنید. این برنامه با یک کارت رایگان است و نسخه پرو با یک‌بار پرداخت فعال می‌شود. خوشحال می‌شوم بدانم کجا از آن استفاده می‌کنید و چه ویژگی‌هایی کم دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایده فوق‌العاده‌ای است.. اما شخصاً احساس می‌کنم این روزها چه کسی از بند گردنی برای گوشی استفاده می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ایده جالبی است، اما دوست دارم عکس یا ویدیویی از ظاهر آن در یک محیط واقعی و فیزیکی ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ایده عالی - یک شروع‌کننده گفتگوی خوب برای کنفرانس‌ها و رویدادها."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این ویژگی که کارت در جیب پیراهن به یک نوار کوچک تبدیل می‌شود و دوربین جلو چند ثانیه آن را بررسی می‌کند، جزئیات هوشمندانه‌ای است. آیا بررسی جیب هر بار که گوشی را برعکس می‌کنیم اجرا می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "میزان شارژدهی باتری با روشن بودن صفحه نمایش برای یک روز کامل کنفرانس چقدر است؟ و آیا این برنامه مانع از قفل شدن خودکار گوشی می‌شود؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nدر کنفرانس‌ها و رویدادها، تبادل اطلاعات تماس و معرفی سریع افراد همواره با چالش حذف کارت‌های کاغذی و عدم جذابیت اتیکت‌های سنتی همراه است. Badgey با تبدیل آیفون به یک اتیکت تعاملی زنده که با حرکات بدن (روی بند یا داخل جیب) سازگار می‌شود و نمایش کد QR برای شبکه‌سازی، این مشکل را حل می‌کند.\n\nمعماری و تکنولوژی:\nاین محصول با استفاده از SwiftUI برای رابط کاربری، CoreML و Vision Framework برای پردازش تصویر دوربین جلو روی دستگاه (بدون ذخیره‌سازی تصویر جهت حفظ حریم خصوصی) و سنسورهای شتاب‌سنج برای تشخیص زاویه و حرکت گوشی طراحی شده است.\n\nمدل درآمدی:\nمدل فری‌میوم با امکان ساخت یک کارت رایگان و خرید یک‌باره نسخه Pro برای باز کردن قابلیت‌های نامحدود، تم‌های تعاملی و کارت‌های متعدد.\n\nنقاط قوت:\nخلاقیت بالای تجربه کاربری (UX)، توجه دقیق به حریم خصوصی با پردازش آنبرد، استفاده هوشمندانه از سنسورها، و کارکرد به عنوان یک شروع‌کننده عالی برای گفتگو (Icebreaker).\n\nنقاط ضعف:\nمصرف بالای باتری صفحه نمایش طی یک روز رویداد، ریسک افتادن یا آسیب دیدن گوشی روی بند یا جیب، و تردید کاربران در استفاده از بند گردنی برای آیفون‌های سنگین.\n\nنکته طلایی برای ایران:\nدر ایران می‌توان با اتصال این ابزار به پلتفرم‌های رویداد (مانند ایوند) و شبکه‌های اجتماعی حرفه‌ای، پکیج‌های B۲B به برگزارکنندگان همایش‌ها فروخت تا کارت ورود و شناسایی شرکت‌کنندگان مستقیماً و به صورت دیجیتال روی گوشی آن‌ها فعال شود.",
+      "iranEquivalent": {
+        "productName": "کارتینو (Kartino)",
+        "description": "کارتینو یک اپلیکیشن بومی است که گوشی هوشمند افراد را در رویدادها و همایش‌ها به اتیکت سینه و کارت شناسایی تعاملی تبدیل می‌کند. این برنامه با تشخیص موقعیت قرارگیری گوشی، اطلاعات شغلی و شبکه اجتماعی فرد را به صورت کد QR و طرح‌های پویا نمایش می‌دهد. این محصول به شرکت‌کنندگان رویدادهای داخلی امکان شبکه‌سازی سریع و تبادل اطلاعات بدون نیاز به کارت‌های کاغذی را می‌دهد.",
+        "marketOpportunity": "با رونق گرفتن همایش‌های فناوری، نمایشگاه‌ها و رویدادهای شبکه‌سازی در ایران، نیاز به ابزارهای مدرن جایگزین کارت‌های ویزیت کاغذی به شدت احساس می‌شود. این اپلیکیشن می‌تواند با ارائه تجربه‌ای نوآورانه در رویدادهای حضوری، سهم بازار مناسبی از برگزارکنندگان و شرکت‌کنندگان حرفه‌ای کسب کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران استارتاپ‌ها، شرکت‌کنندگان همایش‌ها و کنفرانس‌ها، فریلنسرها، برگزارکنندگان رویدادهای شبکه‌سازی و نمایشگاه‌ها",
+        "challenges": [
+          "مصرف بالای باتری گوشی در صورت روشن بودن طولانی‌مدت صفحه نمایش در رویدادها",
+          "نگرانی‌های حریم خصوصی کاربران درباره استفاده اپلیکیشن از دوربین جلو جهت تشخیص جیب",
+          "عدم تمایل برخی کاربران ایرانی به آویزان کردن آیفون گران‌قیمت با بند گردنی"
+        ],
+        "monetization": [
+          "مدل فری‌میوم (رایگان برای ۱ کارت، فروش نسخه پرو با پرداخت یک‌باره برای کارت‌های نامحدود)",
+          "فروش اشتراک سازمانی B۲B به برگزارکنندگان رویدادها جهت شخصی‌سازی تم‌ها و افزودن لوگوی همایش"
+        ],
+        "techStack": [
+          "Swift",
+          "SwiftUI",
+          "CoreML",
+          "Vision Framework",
+          "AVFoundation"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -36194,68 +36368,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-10-31",
-      "rank": 1,
-      "name": "SKI",
-      "slug": "ski-2",
-      "tagline": "Voice-first coding harness ",
-      "description": "Talk to your coding agents and hear them talk back. SKI runs Claude Code, Codex, Cursor, OpenCode, Antigravity and pi side by side on your Mac, and tells you the moment one needs you.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c51ef03e-0e19-4fab-b0a2-3b69fc8d07c4.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/9cbc7a28-bd42-4a93-bb1c-32cbecaf5167.png?auto=format",
-        "https://ph-files.imgix.net/1362d9fa-f0bc-4cd1-9611-f3dc56d4d7ff.png?auto=format",
-        "https://ph-files.imgix.net/a2f81e49-c6d5-4c71-9ceb-30e5688d6594.png?auto=format",
-        "https://ph-files.imgix.net/bbfe818d-19f2-4340-bd06-ec46d7abcd48.png?auto=format",
-        "https://ph-files.imgix.net/9c7afbb6-b133-49e9-942e-8c58d08d464f.png?auto=format",
-        "https://ph-files.imgix.net/81a8705e-fe96-4c06-a748-85fdd8cdf6f9.png?auto=format",
-        "https://ph-files.imgix.net/0fc0589c-4fa7-4348-b89d-3ff38d8d80e4.png?auto=format",
-        "https://ph-files.imgix.net/b3ab44a3-9518-48ef-8428-76083d1fc88d.jpeg?auto=format"
-      ],
-      "maker": "Anand Balakrishnan",
-      "makerTitle": "Pattern AI Lab",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 220,
-      "websiteUrl": "https://www.producthunt.com/r/YRTZMFLGRKJM3F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋Anand here, one of the makers of SKI.In July we launched SKI as a voice layer for coding agents. It went to #1 that day, and the people who found us through that launch gave us the feedback that shaped what we are showing today.One pattern kept coming up: the people who got the most out of SKI were running three or four agents at once and using voice to keep track of them. So we rebuilt SKI around that.SKI is now a voice-first harness for coding agents:• Run Claude Code, Codex, OpenCode, Antigravity, Cursor and pi side by side. Each chat gets its own git worktree, so agents never step on each other.• Talk to any of them. Click the notch to move your voice to another chat. SKI reads the agent's question out loud and you answer by voice.• Say \"stop\" and it stops. Undo a turn and the agent forgets it.• 85+ languages. Speak the way you think.• Every change waits on screen for your review before it goes anywhere.• Your agents run on the subscriptions you already have. SKI only charges for its voice, and there is a free plan every month.Now on Mac. Linux and windows coming soon. Sign in at justski.it.What we would love from you: try it on a real repo and tell us what you said and what came back, good or bad. We are here all day.— Anand, Anoop and John"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch. When an agent asks for a yes or no by voice, is the diff still shown on screen before anything is applied to the worktree? And in one-voice mode, how does it tell you which agent is asking when two are waiting at once?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I dictate a lot of what I ask Claude already. When I say stop, does it kill a command that's already running, a git push say, or just the agent's next step?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch anand. the worktree per chat is the part that got me, i always lose track which agent touched what. one thing im curious, when the agent reads a long change back by voice how do you keep it short enough that i still really review it and not just say yes"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The per-chat git worktree detail is what caught my eye — running Claude Code, Codex, and Cursor side by side only works if they never step on each other. With voice as the input, the review-before-anything-goes-anywhere step feels essential, not optional. Does saying “stop” pause just the chat I’m talking to, or all of them at once?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good to see SKI at #1 today. Running Claude Code, Codex and Cursor by voice is useful, and review before merge is important. Can one voice session pass context from one agent to another?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This demo as well as the landing page looks pretty smooth, ngl. How exactly did you build it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "clicking the notch to move your voice to another chat is a neat detail :) if two agents ask something at the same moment, which one gets read out first?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -38649,6 +38761,67 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-10-31",
+      "rank": 2,
+      "name": "Specsight",
+      "slug": "specsight-2",
+      "tagline": "Product observability for teams shipping fast with AI",
+      "description": "Shipping fast with AI? Specsight turns code changes into a living product map, feature knowledge, and clear release updates. Keep Product, Sales, and Support in sync with what your software actually does and what changed.",
+      "category": "Productivity • SaaS • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/19f1aa34-f2f3-4249-9ebf-42aefa9f1830.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format",
+        "https://ph-files.imgix.net/cac7bfe9-4f13-4fc4-abec-d5eb1c59deed.png?auto=format",
+        "https://ph-files.imgix.net/4cf4fb64-c8c5-4023-92cc-c12dcc5005b7.png?auto=format",
+        "https://ph-files.imgix.net/9de8012b-8615-4d57-bef0-2e781f9942b7.png?auto=format",
+        "https://ph-files.imgix.net/b44825ed-6b4a-4408-b96b-23abddca3439.png?auto=format",
+        "https://ph-files.imgix.net/1342ebd1-21ba-4948-b322-74a5a30ce5d1.png?auto=format",
+        "https://ph-files.imgix.net/7a0a97f7-af68-4357-a1c7-82d4cc2dad76.jpeg?auto=format"
+      ],
+      "maker": "Ola Piętka",
+      "makerTitle": "Founder & CEO @ Specsight",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 204,
+      "websiteUrl": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋I'm Ola, founder of Specsight.At every startup I worked at, I was the engineer people came to with the same three questions: How does this work? What changed? Is this supposed to happen?The answer was always sitting in the code, in a language most of the company couldn't read. I spent years being the translation layer and never stopped finding it absurd.Now everyone is building with AI, products change every day, and nobody can keep up with what's actually shipping. But you still need to know and understand the product you're selling and supporting.So I built Specsight.It tracks your product as it evolves, straight from the source code. It shows what features exist, how they behave, how they connect, and what changed with every release, all in plain product language.Unlike release notes that only tell you what's new, Specsight maintains a living understanding of your entire product, so Product, Sales, and Support can keep up without constantly chasing engineering.What changes for your team:- Support knows what changed and how things work before customers start asking.- Sales demos the product as it works today, not as it worked last month.- Product sees what actually got built, not just what was planned.- \"Let me check with engineering\" becomes an answer in seconds.- Weekly product digests arrive automatically, and release notes are drafted for you.Getting started is simple! Connect GitHub or GitLab, pick a repository and branch, and Specsight does the rest. Most projects get their first product map within an hour. From then on, Specsight tracks how the product evolves with every release.You can even see Specsight tracking itself in our live demo:https://specsight.app/demo🎁 For the Product Hunt community: 50% off the first 3 months https://specsight.app/promo/ph2026. Use code PH2026 until 8 Nov 2026.I believe we're heading toward a world where companies increasingly manage AI agents that build their software. But you can't control what you can't see. That's why I'm building Specsight.I'd love your honest feedback. What's missing? What would make you want to use it every day?I'll be here all day, so ask me anything! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Well done Ola! 🔥 We ship fast with AI as well - so we do know keeping everyone on the same page about actual changes is a constant battle. One thing I enjoy most is that it comes straight from the code, i.e. nobody has to write anything right? Just to clarify, does it work for teams with several products? Is it rather one product per setup?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Why not just connect Claude to codebase?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a fantastic idea! Even before AI, teams often weren't made aware of changes, and I would have to spend time out of my day explaining them individually."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The living map idea really clicks for me — sales demoing what the product actually does today, not last month, is a real pain point. One question: when a feature is merged but behind a flag or only partially shipped, does the map mark it differently from a fully live feature, or do they show up the same way?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Being the translation layer is the most of my week as a solo dev. The people asking are merchants, plus the AI agents that answer their customers. A lot of our product logic lives in n8n workflows instead of normal code. Does Specsight read workflow JSON committed to the repo, or only source files it can parse as code?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Ola, this is such a fantastic idea! May I ask how did you get the idea for this? Sales, support and product teams getting the answers without interrupting the engineering team is very helpful."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "who is it really for? devs or buisness teams?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-08-06",
       "rank": 5,
@@ -39261,7 +39434,58 @@
           "user": "[REDACTED]",
           "text": "This is exactly what's been missing - a shared canvas for humans and multiple AI agents. The version history + permission controls are crucial for real teams. Multi-agent collaboration on the same artifact solves the \"which AI version did we actually use?\" problem. Excited to try this with Claude + Cursor workflows."
         }
-      ]
+      ],
+      "faDescription": "ایجنت‌گرید (AgentGrid.io) یک فضای کاری مشترک برای همکاری هم‌زمان انسان‌ها و ایجنت‌های مختلف هوش مصنوعی روی پروژه‌ها و اسناد زنده است. این پلتفرم از ایجنت‌های گوناگون نظیر Claude، ChatGPT، Cursor، Grok Bot، Hermes و غیره پشتیبانی کرده و امکان کار روی اسناد، گزارش‌ها، اسلایدها، اپلیکیشن‌ها و طرح‌ها را فراهم می‌آورد. با ارائه رابط کاربری شبیه به گوگل درایو برای انسان‌ها و رابط گیت (Git) برای ایجنت‌ها، مدیریت تغییرات و هم‌افزایی میان انسان و AI بسیار آسان‌تر شده است. همچنین ویژگی‌هایی مانند کنترل دسترسی پیشرفته، تاریخچه کامل نسخه‌ها و زمینه (Context) مشترک، این ابزار را به محیطی امن و کارآمد برای تیم‌ها تبدیل کرده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به Product Hunt! من آویشای هستم، هم‌بنیان‌گذار Anima و سازندگان AgentGrid.io. امروز AgentGrid.io را راه‌اندازی می‌کنیم؛ یک درایو مشترک برای انسان‌ها و ایجنت‌های هوش مصنوعی تا روی اسناد، وب‌سایت‌ها، اپلیکیشن‌ها و طرح‌ها همکاری کنند. حس آن مانند گوگل درایو برای انسان‌ها و گیت برای ایجنت‌ها است. ایجنت‌های هوش مصنوعی خودتان را بیاورید و کارتان را مستقل از هر ارائه‌دهنده هوش مصنوعی نگه دارید. همه روی یک آرتیکت زنده کار می‌کنند. با AgentGrid می‌توانید روی اسناد همکاری کنید، وب‌سایت‌ها و اپلیکیشن‌ها را منتشر کنید، همکاری چند ایجنت و انسان داشته باشید، کارهای AI را ایمن به اشتراک بگذارید و تاریخچه نسخه‌ها را کنترل کنید. این پلتفرم با همه ایجنت‌ها (Claude, ChatGPT, Codex, Cursor و...) سازگار است. شروع استفاده از آن رایگان است و تعداد صندلی‌های ایجنت نامحدود می‌باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "رابط کاربری گیت (Git) برای ایجنت‌ها توجه من را جلب کرد — اگر دو ایجنت هم‌زمان یک سند را ویرایش کنند، آیا AgentGrid تغییرات را ادغام (Merge) می‌کند، شاخه‌بندی (Branch) می‌کند یا سند را قفل می‌کند؟ و در مورد دسترسی‌ها، آیا یک ایجنت می‌تواند روی یک سند فقط‌خواندنی باشد اما دیگری را ویرایش کند، یا سطح دسترسی در سطح کل فضای کاری تنظیم می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "عالیه، آیا این چیزی شبیه به Claude Artifacts است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "کنجکاوم بدانم، آیا مشتری پولی هم دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "کار فوق‌العاده‌ای بود! بسیار قدرتمند به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این دقیقاً همان چیزی بود که کمبودش حس می‌شد - یک بوم مشترک برای انسان‌ها و چندین ایجنت هوش مصنوعی. تاریخچه نسخه‌ها + کنترل دسترسی‌ها برای تیم‌های واقعی حیاتی است. همکاری چند ایجنت روی یک آرتیکت، مشکل «از کدام نسخه هوش مصنوعی استفاده کردیم؟» را حل می‌کند. برای امتحان کردن آن در جریان‌های کاری Claude + Cursor هیجان‌زده‌ام."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nبا ورود ایجنت‌های متعدد هوش مصنوعی به جریان کاری روزمره، خروجی‌های AI معمولاً در محیط‌های چت پراکنده و گم می‌شوند. همچنین همکاری چند ایجنت و انسان روی یک فایل واحد همراه با مدیریت نسخه دچار چالش است. AgentGrid با ارائه یک فضای کاری مشترک (مشابه گوگل درایو برای انسان و گیت برای ایجنت‌ها) این مشکل را حل کرده و امکان ساخت و ویرایش هم‌زمان اسناد، اپلیکیشن‌ها و طرح‌ها را روی یک «آرتیکت زنده» فراهم می‌کند.\n\n### معماری و تکنولوژی\nاین پلتفرم از پروتکل‌های ارتباطی مدرن مانند MCP (Model Context Protocol)، APIها و CLI بهره می‌برد تا مستقل از ارائه‌دهنده AI عمل کند (Agent-Agnostic). معماری تعاملی آن از تعاملات چندکاربره هم‌زمان پشتیبانی کرده و با مکانیزم‌های نسخه‌دهی مشابه Git، تمام تغییرات اعمال‌شده توسط هر ایجنت یا انسان را ثبت و قابل بازگشت می‌سازد.\n\n### مدل درآمدی\nاستراتژی ورود به بازار این محصول مبتنی بر Freemium است؛ شروع رایگان با تعداد ایجنت نامحدود برای جذب سریع کاربران. مدل درآمدی اصلی آن بر پایه اشتراک‌های پولی ماهیانه برای کاربران انسانی، قابلیت‌های پیشرفته امنیتی، فضای ذخیره‌سازی بالاتر و ویژگی‌های مدیریت تیم سازمان‌یافته بنا شده است.\n\n### نقاط قوت\n۱. استقلال کامل از تامین‌کنندگان هوش مصنوعی (مفهوم Bring Your Own Agent).\n۲. مدیریت نسخه دقیق و شفافیت در تغییرات ایجادشده توسط انسان/AI.\n۳. پشتیبانی از طیف وسیعی از فرمت‌ها از جمله کدهای ری‌اکت/HTML، اسناد و طرح‌های فیگما.\n\n### نقاط ضعف\n۱. وابستگی به میزان پایداری API ابزارهای هوش مصنوعی مختلف.\n۲. احتمال بروز تعارضات ویرایشی در صورت کار هم‌زمان چند ایجنت روی یک خط کد یا متن.\n\n### نکته طلایی برای بازار ایران\nدر بازار ایران، پیاده‌سازی یک پلتفرم بوم مشترک که امکان میزبانی داخلی (On-Premise) را برای شرکت‌های ایرانی فراهم کند، مشکل تحریم‌ها و نگرانی‌های افشای داده‌های سازمانی را به طور کامل حل کرده و ارزش افزوده بسیار بالایی برای تیم‌های فنی و مارکتینگ ایجاد خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "پروژه بوم (BoomWorkspace)",
+        "description": "یک فضای کاری تعاملی بومی برای شرکت‌های ایرانی جهت همکاری هم‌زمان نیروهای انسانی و دستیارهای هوش مصنوعی. این سامانه امکان مدیریت اسناد، پروژه‌های کُد و فایل‌های طراحی را با حفظ تاریخچه تغییرات فراهم می‌سازد. همچنین زیرساختی امن برای کنترل دسترسی سطح فایل و پروژه ارائه می‌دهد.",
+        "marketOpportunity": "با محبوبیت روزافزون ابزارهای هوش مصنوعی در شرکت‌های فناور ایرانی، خلا یک ابزار یکپارچه‌کننده که تاریخچه و دسترسی‌ها را مدیریت کند بسیار مشهود است. ایجاد پلتفرمی مستقر در داخل کشور که با مدل‌های مختلف هوش مصنوعی یکپارچه شود فرصتی بکر در بازار توسعه نرم‌افزار و دیجیتال مارکتینگ ایران محسوب می‌شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه نرم‌افزار، آژانس‌های مارکتینگ، تیم‌های تولید محتوا و استارتاپ‌های پیشرو در حوزه فناوری",
+        "challenges": [
+          "محدودیت‌های ناشی از تحریم برای اتصال مستقیم به APIهای ایجنت‌های پیشرفته بین‌المللی",
+          "مدیریت تداخل ویرایش‌های هم‌زمان (Conflict Resolution) بین ایجنت‌های هوش مصنوعی و کاربران انسانی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه براساس تعداد کاربران انسانی و فضای ذخیره‌سازی ابری",
+          "ارائه نسخه خصوصی (On-Premise) برای سازمان‌ها و شرکت‌های حساس به امنیت داده"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "WebSockets",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -39472,6 +39696,69 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-10-31",
+      "rank": 3,
+      "name": "telemetry.dev",
+      "slug": "telemetry-dev",
+      "tagline": "LLM observability for AI agents",
+      "description": "telemetry.dev shows each run of your AI agent as one trace. Each model call and tool call is a span with its duration, tokens, cost, and error. Prompts and evals use the same traces: change a prompt without a deploy, then run it on a dataset and compare the scores with production. Alerts tell you about errors, cost spikes, and agent loops. Connect with our TypeScript or Python SDK, or with the OpenTelemetry exporter that you already use.",
+      "category": "Analytics • Developer Tools • Artificial Intelligence",
+      "categoryFa": "تحلیل داده • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a1dcdd13-fce1-4da8-99c3-9e1b927aac3c.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f4967885-c088-4095-af88-59e9d7d59c8c.png?auto=format",
+        "https://ph-files.imgix.net/c5926b7d-23ef-4243-b157-fcd1d9e35494.png?auto=format",
+        "https://ph-files.imgix.net/c1eca76c-aae7-4e7c-a362-24de52471a2c.png?auto=format",
+        "https://ph-files.imgix.net/e206f75f-8dd5-4bc5-a888-bfec5e6951f5.png?auto=format",
+        "https://ph-files.imgix.net/b872e0aa-6f0d-4570-bce7-eefd3d73218d.png?auto=format",
+        "https://ph-files.imgix.net/05cb98b3-b640-47a0-a667-678689fd199e.png?auto=format",
+        "https://ph-files.imgix.net/c94609ec-9f67-4282-9fa6-6f45d5568c8a.png?auto=format",
+        "https://ph-files.imgix.net/3e5c96b0-5f86-45a0-931a-8c16d76b1dc6.png?auto=format",
+        "https://ph-files.imgix.net/4c56298f-d286-4574-8217-9ef11ef542df.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 200,
+      "websiteUrl": "https://www.producthunt.com/r/DROUHCHKOTIAJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Ephraim, one of the makers of telemetry.dev.When an agent breaks in production, you want to know which step did it and what the run cost. telemetry.dev shows each run as one trace, with every model call and tool call as a span with its tokens, cost, and error.New in this launch:- Prompt management: change prompts without a deploy- Evals: test a new prompt version on a dataset before it goes live- Alerts when errors pile up or a run gets expensive- A CLI and an MCP server, so your coding agent can read your tracesIt's built on OpenTelemetry, with TypeScript and Python SDKs for OpenAI, Anthropic, the Vercel AI SDK, LangChain and more. The free plan needs no card, and the code PHBU7A47FH gets you 1 month of Pro.What's the hardest part of debugging your agents right now?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! I love how each run shows up as one trace — is cost or errors usually the first thing you check in a trace?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Being able to track AI costs and errors in one place seems super helpful, especially for businesses trying to work more efficiently"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Beautiful software and it just works. Congrats on the launch Duncan"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The MCP server part is what caught my eye — when a coding agent reads a trace to fix a failing run, does it see the full prompt and tool inputs, or can you redact sensitive parts first? I'm wondering how you keep debugging useful without leaking things like API keys or user data into the agent's context."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Ephraim. We run a remote MCP server, so the agent loop lives in the user’s Claude, not on our side. All we see are separate tool calls coming in. Can telemetry.dev group the calls from one conversation into a single trace from the server side, or does it have to sit inside the agent?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Impressive tracing. Questions: does pricing scale for high-volume inference? Self-hosting option? How does this compare to vanilla OpenTelemetry sampling?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-13",
       "rank": 5,
@@ -39669,67 +39956,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-10-31",
-      "rank": 2,
-      "name": "Specsight",
-      "slug": "specsight-2",
-      "tagline": "Product observability for teams shipping fast with AI",
-      "description": "Shipping fast with AI? Specsight turns code changes into a living product map, feature knowledge, and clear release updates. Keep Product, Sales, and Support in sync with what your software actually does and what changed.",
-      "category": "Productivity • SaaS • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • نرم‌افزار ابری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/19f1aa34-f2f3-4249-9ebf-42aefa9f1830.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format",
-        "https://ph-files.imgix.net/cac7bfe9-4f13-4fc4-abec-d5eb1c59deed.png?auto=format",
-        "https://ph-files.imgix.net/4cf4fb64-c8c5-4023-92cc-c12dcc5005b7.png?auto=format",
-        "https://ph-files.imgix.net/9de8012b-8615-4d57-bef0-2e781f9942b7.png?auto=format",
-        "https://ph-files.imgix.net/b44825ed-6b4a-4408-b96b-23abddca3439.png?auto=format",
-        "https://ph-files.imgix.net/1342ebd1-21ba-4948-b322-74a5a30ce5d1.png?auto=format",
-        "https://ph-files.imgix.net/7a0a97f7-af68-4357-a1c7-82d4cc2dad76.jpeg?auto=format"
-      ],
-      "maker": "Ola Piętka",
-      "makerTitle": "Founder & CEO @ Specsight",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 198,
-      "websiteUrl": "https://www.producthunt.com/r/U5MK5YLVIQ7YIM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋I'm Ola, founder of Specsight.At every startup I worked at, I was the engineer people came to with the same three questions: How does this work? What changed? Is this supposed to happen?The answer was always sitting in the code, in a language most of the company couldn't read. I spent years being the translation layer and never stopped finding it absurd.Now everyone is building with AI, products change every day, and nobody can keep up with what's actually shipping. But you still need to know and understand the product you're selling and supporting.So I built Specsight.It tracks your product as it evolves, straight from the source code. It shows what features exist, how they behave, how they connect, and what changed with every release, all in plain product language.Unlike release notes that only tell you what's new, Specsight maintains a living understanding of your entire product, so Product, Sales, and Support can keep up without constantly chasing engineering.What changes for your team:- Support knows what changed and how things work before customers start asking.- Sales demos the product as it works today, not as it worked last month.- Product sees what actually got built, not just what was planned.- \"Let me check with engineering\" becomes an answer in seconds.- Weekly product digests arrive automatically, and release notes are drafted for you.Getting started is simple! Connect GitHub or GitLab, pick a repository and branch, and Specsight does the rest. Most projects get their first product map within an hour. From then on, Specsight tracks how the product evolves with every release.You can even see Specsight tracking itself in our live demo:https://specsight.app/demo🎁 For the Product Hunt community: 50% off the first 3 months https://specsight.app/promo/ph2026. Use code PH2026 until 8 Nov 2026.I believe we're heading toward a world where companies increasingly manage AI agents that build their software. But you can't control what you can't see. That's why I'm building Specsight.I'd love your honest feedback. What's missing? What would make you want to use it every day?I'll be here all day, so ask me anything! 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Well done Ola! 🔥 We ship fast with AI as well - so we do know keeping everyone on the same page about actual changes is a constant battle. One thing I enjoy most is that it comes straight from the code, i.e. nobody has to write anything right? Just to clarify, does it work for teams with several products? Is it rather one product per setup?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Why not just connect Claude to codebase?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a fantastic idea! Even before AI, teams often weren't made aware of changes, and I would have to spend time out of my day explaining them individually."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The living map idea really clicks for me — sales demoing what the product actually does today, not last month, is a real pain point. One question: when a feature is merged but behind a flag or only partially shipped, does the map mark it differently from a fully live feature, or do they show up the same way?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Being the translation layer is the most of my week as a solo dev. The people asking are merchants, plus the AI agents that answer their customers. A lot of our product logic lives in n8n workflows instead of normal code. Does Specsight read workflow JSON committed to the repo, or only source files it can parse as code?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Ola, this is such a fantastic idea! May I ask how did you get the idea for this? Sales, support and product teams getting the answers without interrupting the engineering team is very helpful."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "who is it really for? devs or buisness teams?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -40959,69 +41185,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "اویسیس یکی از بزرگ‌ترین مشکلات استفاده از چند ایجنت امروز را حل می‌کند، جایی که همه در نهایت با زمینه‌های مختلف در مکان‌های مختلف کار می‌کنند! شما چگونه به مجوزها و حافظه فکر می‌کنید وقتی انسان‌ها و ایجنت‌های مختلف زیادی همه در یک اتاق یکسان کار می‌کنند؟ آیا تیم‌ها می‌توانند دقیقاً کنترل کنند که هر ایجنت اجازه دارد چه چیزی را به خاطر بسپارد و دوباره استفاده کند؟ :)"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-10-31",
-      "rank": 3,
-      "name": "telemetry.dev",
-      "slug": "telemetry-dev",
-      "tagline": "LLM observability for AI agents",
-      "description": "telemetry.dev shows each run of your AI agent as one trace. Each model call and tool call is a span with its duration, tokens, cost, and error. Prompts and evals use the same traces: change a prompt without a deploy, then run it on a dataset and compare the scores with production. Alerts tell you about errors, cost spikes, and agent loops. Connect with our TypeScript or Python SDK, or with the OpenTelemetry exporter that you already use.",
-      "category": "Analytics • Developer Tools • Artificial Intelligence",
-      "categoryFa": "تحلیل داده • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a1dcdd13-fce1-4da8-99c3-9e1b927aac3c.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f4967885-c088-4095-af88-59e9d7d59c8c.png?auto=format",
-        "https://ph-files.imgix.net/c5926b7d-23ef-4243-b157-fcd1d9e35494.png?auto=format",
-        "https://ph-files.imgix.net/c1eca76c-aae7-4e7c-a362-24de52471a2c.png?auto=format",
-        "https://ph-files.imgix.net/e206f75f-8dd5-4bc5-a888-bfec5e6951f5.png?auto=format",
-        "https://ph-files.imgix.net/b872e0aa-6f0d-4570-bce7-eefd3d73218d.png?auto=format",
-        "https://ph-files.imgix.net/05cb98b3-b640-47a0-a667-678689fd199e.png?auto=format",
-        "https://ph-files.imgix.net/c94609ec-9f67-4282-9fa6-6f45d5568c8a.png?auto=format",
-        "https://ph-files.imgix.net/3e5c96b0-5f86-45a0-931a-8c16d76b1dc6.png?auto=format",
-        "https://ph-files.imgix.net/4c56298f-d286-4574-8217-9ef11ef542df.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 194,
-      "websiteUrl": "https://www.producthunt.com/r/DROUHCHKOTIAJV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Ephraim, one of the makers of telemetry.dev.When an agent breaks in production, you want to know which step did it and what the run cost. telemetry.dev shows each run as one trace, with every model call and tool call as a span with its tokens, cost, and error.New in this launch:- Prompt management: change prompts without a deploy- Evals: test a new prompt version on a dataset before it goes live- Alerts when errors pile up or a run gets expensive- A CLI and an MCP server, so your coding agent can read your tracesIt's built on OpenTelemetry, with TypeScript and Python SDKs for OpenAI, Anthropic, the Vercel AI SDK, LangChain and more. The free plan needs no card, and the code PHBU7A47FH gets you 1 month of Pro.What's the hardest part of debugging your agents right now?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Being able to track AI costs and errors in one place seems super helpful, especially for businesses trying to work more efficiently"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Beautiful software and it just works. Congrats on the launch Duncan"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The MCP server part is what caught my eye — when a coding agent reads a trace to fix a failing run, does it see the full prompt and tool inputs, or can you redact sensitive parts first? I'm wondering how you keep debugging useful without leaking things like API keys or user data into the agent's context."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Ephraim. We run a remote MCP server, so the agent loop lives in the user’s Claude, not on our side. All we see are separate tool calls coming in. Can telemetry.dev group the calls from one conversation into a single trace from the server side, or does it have to sit inside the agent?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Impressive tracing. Questions: does pricing scale for high-volume inference? Self-hosting option? How does this compare to vanilla OpenTelemetry sampling?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "absolute fan of @ephraimduncan's work. the maker of @blocks.so keeps cooking!"
         }
       ]
     },
@@ -44050,6 +44213,55 @@
       }
     },
     {
+      "id": "ph-yesterday-4",
+      "date": "2026-10-30",
+      "rank": 4,
+      "name": "Canva Brush",
+      "slug": "canva-brush",
+      "tagline": "A vision-language model that edits your designs",
+      "description": "Canva Brush is a vision-language model for design from Canva Research. It sees your design, understands how it’s put together, and makes the changes you ask for, from one line of copy to every slide in a deck. Everything stays fully editable. Canva says it’s up to 69% faster and 46% lower cost per edit task than its previous design agent. It’s powering Canva AI design edits for Canva Pro subscribers today.",
+      "category": "Artificial Intelligence • Graphics & Design",
+      "categoryFa": "هوش مصنوعی • Graphics & Design",
+      "url": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d70456a3-3e4d-4bea-a910-bd66615b3384.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5d14b7ac-2820-47c4-81b1-f1469f2e0a54.png?auto=format",
+        "https://ph-files.imgix.net/7cbc3011-33dc-4c0c-903c-b8bdf01c6de0.avif?auto=format",
+        "https://ph-files.imgix.net/908c57c5-dc30-4af5-b37c-4ac0bfbc1248.avif?auto=format",
+        "https://ph-files.imgix.net/f89d5d09-0a13-47b3-b95e-26feeaf6c3ec.avif?auto=format",
+        "https://ph-files.imgix.net/fad4430e-a210-4d4a-b55c-3508d3005294.avif?auto=format",
+        "https://ph-files.imgix.net/dbfa0d7d-e9ab-4da6-89cb-196365b2dec2.avif?auto=format",
+        "https://ph-files.imgix.net/f89552ca-71a7-46bc-bf25-eb9134151f2a.gif?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-30T07:01:00Z",
+      "votes": 181,
+      "websiteUrl": "https://www.producthunt.com/r/CC5KZ2CNTCOFOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Canva Brush is a new vision-language model for design, built by Canva Research. It sees your design, understands how it’s put together, and makes the changes you ask for, from a single line of copy to every slide in a deck.Problem: Generating a design is hard for AI, but editing one is harder. The model has to understand what you want to change, how the design is structured, and what has to stay exactly as it is. Otherwise a simple edit request can come back with a pile of changes you didn’t ask for.Solution: Brush works through an agentic loop. It writes and runs code to adjust design elements, then inspects the page to guide its next step. Everything it creates is fully editable like any other Canva design, so you can take over in the editor whenever you want.What makes it different: It’s built for design editing, not general chat. Brush started from a leading open-weights model, which Canva post-trained on real design and editing tasks, then added large-scale reinforcement learning with a reward system that scores visual quality, layout, and whether the task was completed as requested. Canva says its definition of “good” is set by professional designers on its team. Per Canva, it’s up to 69% faster and 46% lower cost per edit task than Canva’s previous design agent, and in internal testing it matched or exceeded the previous setup on most editing tasks.Key features:Restyle an image or design, like changing the colour scheme, the weather or the vibeChange a multi-page design in one prompt, instead of editing every header by handRemix a design for another channel, like turning a slide into an Instagram graphicFully editable output, with every element still yours to changeSelect “Brush” from the dropdown in Canva AIWho it’s for: Canva users who spend time on repetitive design edits, from solo creators to teams working on multi-page decks and campaigns.Try it by opening a design in the editor or going to Canva AI, and read the announcement. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The agentic loop part is what I would want to test first — since Brush writes and runs code to adjust elements, then inspects the page to guide its next step, how does it handle a multi-page change where one page needs an exception? If I ask it to change every header in a deck, but one slide has a locked or custom header, does the inspection step catch that and leave that slide alone, or does it need me to call it out in the prompt first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love that everything stays editable. I hate it when AI generates a beautiful image that you can barely modify afterward"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that Brush focuses on editing rather than generating, and keeping everything fully editable is a thoughtful touch. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been using Canva for years, from university presentations to our app's marketing visuals, so this one is exciting to see.As a designer, the part that matters most to me is \"what has to stay exactly as it is\". That's where AI edits usually break a layout.Real use case from this week: I localized our app's store visuals into 14 languages. The hardest part wasn't translating, it was German words twice as long, Chinese characters, and Arabic flipping right-to-left without breaking the composition. Curious if Brush handles that kind of \"same design, new language\" edit, especially RTL. That would save designers days.Congrats to the Canva Research team! Fellow maker launching today 🚀"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-10-22",
       "rank": 6,
@@ -44530,55 +44742,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-yesterday-4",
-      "date": "2026-10-30",
-      "rank": 4,
-      "name": "Canva Brush",
-      "slug": "canva-brush",
-      "tagline": "A vision-language model that edits your designs",
-      "description": "Canva Brush is a vision-language model for design from Canva Research. It sees your design, understands how it’s put together, and makes the changes you ask for, from one line of copy to every slide in a deck. Everything stays fully editable. Canva says it’s up to 69% faster and 46% lower cost per edit task than its previous design agent. It’s powering Canva AI design edits for Canva Pro subscribers today.",
-      "category": "Artificial Intelligence • Graphics & Design",
-      "categoryFa": "هوش مصنوعی • Graphics & Design",
-      "url": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d70456a3-3e4d-4bea-a910-bd66615b3384.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5d14b7ac-2820-47c4-81b1-f1469f2e0a54.png?auto=format",
-        "https://ph-files.imgix.net/7cbc3011-33dc-4c0c-903c-b8bdf01c6de0.avif?auto=format",
-        "https://ph-files.imgix.net/908c57c5-dc30-4af5-b37c-4ac0bfbc1248.avif?auto=format",
-        "https://ph-files.imgix.net/f89d5d09-0a13-47b3-b95e-26feeaf6c3ec.avif?auto=format",
-        "https://ph-files.imgix.net/fad4430e-a210-4d4a-b55c-3508d3005294.avif?auto=format",
-        "https://ph-files.imgix.net/dbfa0d7d-e9ab-4da6-89cb-196365b2dec2.avif?auto=format",
-        "https://ph-files.imgix.net/f89552ca-71a7-46bc-bf25-eb9134151f2a.gif?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-30T07:01:00Z",
-      "votes": 180,
-      "websiteUrl": "https://www.producthunt.com/r/CC5KZ2CNTCOFOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Canva Brush is a new vision-language model for design, built by Canva Research. It sees your design, understands how it’s put together, and makes the changes you ask for, from a single line of copy to every slide in a deck.Problem: Generating a design is hard for AI, but editing one is harder. The model has to understand what you want to change, how the design is structured, and what has to stay exactly as it is. Otherwise a simple edit request can come back with a pile of changes you didn’t ask for.Solution: Brush works through an agentic loop. It writes and runs code to adjust design elements, then inspects the page to guide its next step. Everything it creates is fully editable like any other Canva design, so you can take over in the editor whenever you want.What makes it different: It’s built for design editing, not general chat. Brush started from a leading open-weights model, which Canva post-trained on real design and editing tasks, then added large-scale reinforcement learning with a reward system that scores visual quality, layout, and whether the task was completed as requested. Canva says its definition of “good” is set by professional designers on its team. Per Canva, it’s up to 69% faster and 46% lower cost per edit task than Canva’s previous design agent, and in internal testing it matched or exceeded the previous setup on most editing tasks.Key features:Restyle an image or design, like changing the colour scheme, the weather or the vibeChange a multi-page design in one prompt, instead of editing every header by handRemix a design for another channel, like turning a slide into an Instagram graphicFully editable output, with every element still yours to changeSelect “Brush” from the dropdown in Canva AIWho it’s for: Canva users who spend time on repetitive design edits, from solo creators to teams working on multi-page decks and campaigns.Try it by opening a design in the editor or going to Canva AI, and read the announcement. P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The agentic loop part is what I would want to test first — since Brush writes and runs code to adjust elements, then inspects the page to guide its next step, how does it handle a multi-page change where one page needs an exception? If I ask it to change every header in a deck, but one slide has a locked or custom header, does the inspection step catch that and leave that slide alone, or does it need me to call it out in the prompt first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love that everything stays editable. I hate it when AI generates a beautiful image that you can barely modify afterward"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that Brush focuses on editing rather than generating, and keeping everything fully editable is a thoughtful touch. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been using Canva for years, from university presentations to our app's marketing visuals, so this one is exciting to see.As a designer, the part that matters most to me is \"what has to stay exactly as it is\". That's where AI edits usually break a layout.Real use case from this week: I localized our app's store visuals into 14 languages. The hardest part wasn't translating, it was German words twice as long, Chinese characters, and Arabic flipping right-to-left without breaking the composition. Curious if Brush handles that kind of \"same design, new language\" edit, especially RTL. That would save designers days.Congrats to the Canva Research team! Fellow maker launching today 🚀"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -45644,7 +45807,60 @@
           "user": "[REDACTED]",
           "text": "\"status pages are a lie\" is the most honest line on PH today lol, seen it so many times, page stays green while the slack channel is on firewhen someone declares from Slack, does the status page update by itself or does someone still have to aprove what customers see???"
         }
-      ]
+      ],
+      "faDescription": "اپن‌استاتوس یک ابزار متن‌باز برای مدیریت اختلالات و رخدادهای فنی در کنار سامانه‌های مانیتورینگ و صفحات وضعیت سرویس است. این ابزار به تیم‌های کوچک اجازه می‌دهد تا اختلالات را مستقیماً از داخل اسلک اعلام و ثبت نمایند. با ایجاد خودکار یک کانال اختصاصی برای هر رخداد، تمامی مکالمات و زمان‌بندی وقایع به صورت یکپارچه نگهداری می‌شوند. در نهایت، امکان تنظیم و نگارش پیش‌نویس گزارش پس از رخداد (Postmortem) جهت بهبود مستمر سرویس فراهم شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "امروز ما قابلیت مدیریت اختلالات را برای اپن‌استاتوس عرضه کردیم 😅 چون صفحات وضعیت معمولاً واقعیت را نشان نمی‌دهند و ما باید به سراغ ریشه اصلی مشکل می‌رفتیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "دوستان رونمایی، بزنید بریم! این قابلیت واقعاً جذابه!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بزن بریم! بهترین ابزار مدیریت اختلالات موجود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "سلام رفیق رونمایی، قابلیت بسیار جذابی است. من از کاربران و مشتریان راضی اپن‌استاتوس هستم، هرچند امیدوارم هیچ‌وقت دچار اختلال نشویم که مجبور به استفاده از این قابلیت جدید باشیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "صفحه وضعیت سبز و سالم باقی می‌ماند در حالی که کانال اسلک آتش گرفته و در حال سوزان است 😅"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "جمله «صفحات وضعیت دروغ می‌گویند» صادقانه‌ترین حرفی بود که امروز در پروداکت هانت دیدم خخخ، بارها دیده‌ام که صفحه وضعیت سبز می‌ماند اما کانال اسلک آتش گرفته است. وقتی کسی رخدادی را از اسلک اعلام می‌کند، آیا صفحه وضعیت به طور خودکار به روز می‌شود یا هنوز کسی باید آنچه مشتریان می‌بینند را تأیید کند؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nدر اکثر سازمان‌ها هنگام بروز اختلال، صفحات عمومی نمایش وضعیت سرویس (Status Pages) دیرتر از واقعیت به‌روزرسانی می‌شوند یا وضعیت را سبز نشان می‌دهند در حالی که تیم‌ها در اسلک مشغول اطفای حریق هستند. Openstatus با انتقال فرایند اعلام و مدیریت رخداد به درون پیام‌رسان (Slack) و ساخت خودکار کانال و خط زمانی، فاصله میان کشف مشکل تا اطلاع‌رسانی و مستندسازی را به حداقل می‌رساند.\n\n### معماری و تکنولوژی\nاین ابزار بر پایه معماری متن‌باز و مدرن وب (مانند Next.js و PostgreSQL) توسعه یافته است. استفاده از Webhookها و ساختار API-First امکان اتصال سریع به ابزارهای مانیتورینگ و پیام‌رسان‌ها را فراهم می‌سازد.\n\n### مدل درآمدی\nمدل درآمدی متکی بر Freemium و اشتراک ماهانه ابری به همراه امکان فروش نسخه اختصاصی (On-premise) برای شرکت‌های بزرگ است که مایل به نگهداری داده‌های عملیاتی خود روی سرورهای داخلی هستند.\n\n### نقاط قوت\n- متن‌باز بودن و قابلیت سفارشی‌سازی بالا\n- تمرکز بر تجربه کاری تیم‌های کوچک و چابک\n- اتوماسیون فرایند مستندسازی (Postmortem) و ایجاد کانال بحران\n\n### نقاط ضعف\n- وابستگی شدید به زیست‌بوم پیام‌رسان‌ها\n- نیاز به کنترل دسترسی دقیق‌تر برای جلوگیری از انتشار اشتباهی اخبار اختلال در صفحات عمومی\n\n### نکته طلایی برای ایران\nدر بازار ایران، ابزاری که بتواند مستقیماً با پیام‌رسان‌های بومی (بله، ایتا، آی‌گپ) و ابزارهای مانیتورینگ رایج مثل Prometheus و Zabbix متصل شود و گزارش‌های پست‌مورتوم فارسی تولید کند، شانس بالایی برای جلب رضایت تیم‌های DevOps استارتاپی و شرکت‌های بزرگ دولتی/خصوصی دارد.",
+      "iranEquivalent": {
+        "productName": "پاسبان (Paseban)",
+        "description": "پاسبان یک پلتفرم بومی مدیریت اختلالات فنی و شفاف‌سازی وضعیت آنلاین سرویس‌ها برای تیم‌های توسعه و پشتیبانی ایرانی است. این سیستم با اتصال به پیام‌رسان‌های بومی و ابزارهای مانیتورینگ، روند اعلام رخداد و مدیریت بحران را تسهیل می‌کند. همچنین مستندسازی خودکار و نگارش گزارش‌های پس از رخداد را در یک محیط یکپارچه ارائه می‌دهد.",
+        "marketOpportunity": "با گسترش استارتاپ‌ها و زیرساخت‌های ابری در ایران، نیاز مبرمی به ابزارهای شفاف‌سازی وضعیت سرویس و مدیریت بحران در تیم‌های فنی وجود دارد. عدم دسترسی آسان یا تحریم ابزارهایی مانند PagerDuty و Statuspage فرصت مناسبی برای ارائه یک جایگزین بومی یکپارچه با پیام‌رسان‌های ایرانی ایجاد کرده است.",
+        "estimatedBudget": "۲.۵ میلیارد تومان",
+        "targetAudience": "تیم‌های فنی استارتاپ‌ها، شرکت‌های نرم‌افزاری، ارائه‌دهندگان خدمات ابری و تیم‌های پشتیبانی و DevOps",
+        "challenges": [
+          "مقاومت برخی شرکت‌ها در برابر شفاف‌سازی عمومی اختلالات سرویس",
+          "چالش‌های یکپارچه‌سازی پایدار با پیام‌رسان‌های بومی نظیر بله و ایتا",
+          "رقابت با ابزارهای داخلی ترکیبی و کدهای سفارشی توسعه‌یافته در شرکت‌ها"
+        ],
+        "monetization": [
+          "حق اشتراک ماهانه بر اساس تعداد اعضای تیم فنی",
+          "پلن‌های سازمانی با قابلیت نصب در زیرساخت اختصاصی (Self-hosted)",
+          "ارائه خدمات سفارشی‌سازی و یکپارچه‌سازی با سیستم‌های مانیتورینگ داخلی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -56441,6 +56657,62 @@
       }
     },
     {
+      "id": "ph-yesterday-6",
+      "date": "2026-10-30",
+      "rank": 6,
+      "name": "fastbrowse",
+      "slug": "fastbrowse-2",
+      "tagline": "Fastest open source browser agent",
+      "description": "A fast open-source browser agent. It reads every button, link and field on the page and has a System One model (ex: jev) pick the next step from that list. If it's unsure, it falls back to a standard model model. Fast, cheap, and every answer provides a citation.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/fastbrowse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9fb50b70-aed6-4b3d-ab35-2a6f909b2d83.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/ef30a313-509e-47f8-b891-07d2918b8616.png?auto=format",
+        "https://ph-files.imgix.net/002d0451-e0a4-4825-8fe6-c74287f9d622.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-30T07:01:00Z",
+      "votes": 138,
+      "websiteUrl": "https://www.producthunt.com/r/6XWF3PRT2W3QVO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I'm Furqan, one of the makers of fastbrowse.Browser agents have become exceptionally popular, but there's some huge problems. They're slow, expensive and miss easy tasks.A lot of them take a screenshot and have a slow model decide every step, so each task takes a while and the bill adds up.Fastbrowse reads the elements on the page instead. Every button, link and field is handed to a System One model (like Jev) with a list of choices. This model decies what to do next, when it isn't sure, fastbrowse falls back to a LLM to get it right. And because it only picks from what's on the page, it can't click something that isn't there.We tested this against the latest open-source browser agents agent: same sign-in and add-to-cart task on a demo shop, three runs each.fastbrowse took 25.7 seconds and $0.020 a run. Browser Use took 42.2 seconds and $0.045. Both got it right every time. On a wider 46-task benchmark against Browser Use's hosted agent running Claude Opus, our median task cost $0.026 vs $0.284. 99.2% of tasks passed. Fastbrowse produces citations for everything it referenced to get answers, so you can trust and verify the results.It's MIT licensed, and the code, the benchmark harness and the raw results are all on GitHub: https://github.com/agent-labs-dev/fastbrowse"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "falling back to a screenshot only when the element list is unsure is a smart split. how often does the fallback actually fire on the 46-task benchmark?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! The quoted evidence sounds pretty neat, but just for observability purposes, if a page changes after the run, can someone still open a snapshot/screenshot and see what the browser saw at that moment?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Solid open source approach. Curious about the citation mechanism - how does it handle dynamic content and SPA updates? Also, what's the error recovery strategy when the model picks wrong paths? Comparing speed vs accuracy tradeoff vs proprietary agents would be interesting. Local deployment story is a big plus for privacy-focused teams."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Reading the elements instead of taking a screenshot for every step is the choice I'd want to understand first — especially with the 25.7-second, $0.020 run against Browser Use's 42.2 seconds and $0.045. When the small model is unsure and it falls back, does the citation trail still show which elements it was choosing between?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "\"Can't click something that isn't there\" is an underrated feature. Half of browser-agent debugging is discovering the button the model invented. Reading the DOM first is the right kind of boring. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "is the --secret value masked in the run replay too"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Seeing the list of element choices alongside the fallback would be useful when debugging a run. It gives you a way to check what the agent actually had available at that step."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-10-22",
       "rank": 8,
@@ -56975,62 +57247,6 @@
         "confidence": 80
       },
       "aiReview": "مسئله و راه‌حل: توسعه‌دهندگان که از Claude Code استفاده می‌کنند، بازخورد بصری و انسانی‌تری برای وضعیت اجرای آژنت‌های هوش مصنوعی خود نیاز دارند. Crew با تبدیل هر چت یا زیرآژنت به یک موجودیت پیکسلی زنده، فرآیند انتزاعی پردازش داده را به یک تجربه بصری ملموس تبدیل می‌کند؛ موجودیت هنگام کار کندن، هنگام بیکاری خوابیدن و هنگام اتمام کار دست زدن را شبیه‌سازی می‌کند. معماری و تکنولوژی: این محصول به صورت یک اپلیکیشن سبک‌وزن و محلی (Local-first) برای macOS طراحی شده است. تمرکز اصلی بر روی حریم خصوصی مطلق است، به طوری که هیچ داده‌ای از دستگاه کاربر خارج نمی‌شود و تمام پردازش‌ها به صورت آفلاین انجام می‌شود. مدل درآمدی: مدل رایگان (Free) برای کاربران macOS است که نشان‌دهنده استراتژی جذب جامعه کاربری، ایجاد ویروسی بودن از طریق جذابیت بصری و احتمالاً فروش نسخه‌های پیشرفته یا پلتفرم‌های دیگر در آینده است. نقاط قوت: تمرکز شدید بر حریم خصوصی، تجربه کاربری (UX) خلاقانه و متفاوت، سبک‌وزن بودن و عدم نیاز به اتصال دائمی به اینترنت. نقاط ضعف: محدودیت به پلتفرم macOS در مرحله فعلی، عدم وجود مدل درآمدی مستقیم در نسخه رایگان و وابستگی به اکوسیستم خاص Claude Code. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های ابری و حساسیت بالا نسبت به حریم خصوصی داده‌ها، این رویکرد محلی (Local-first) می‌تواند الگویی برای توسعه ابزارهای هوش مصنوعی بومی باشد که بدون نگرانی از نشت اطلاعات، تجربه‌ای جذاب و کاربردی برای توسعه‌دهندگان ایرانی فراهم کنند."
-    },
-    {
-      "id": "ph-yesterday-6",
-      "date": "2026-10-30",
-      "rank": 6,
-      "name": "fastbrowse",
-      "slug": "fastbrowse-2",
-      "tagline": "Fastest open source browser agent",
-      "description": "A fast open-source browser agent. It reads every button, link and field on the page and has a System One model (ex: jev) pick the next step from that list. If it's unsure, it falls back to a standard model model. Fast, cheap, and every answer provides a citation.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/fastbrowse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9fb50b70-aed6-4b3d-ab35-2a6f909b2d83.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/ef30a313-509e-47f8-b891-07d2918b8616.png?auto=format",
-        "https://ph-files.imgix.net/002d0451-e0a4-4825-8fe6-c74287f9d622.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-30T07:01:00Z",
-      "votes": 137,
-      "websiteUrl": "https://www.producthunt.com/r/6XWF3PRT2W3QVO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, I'm Furqan, one of the makers of fastbrowse.Browser agents have become exceptionally popular, but there's some huge problems. They're slow, expensive and miss easy tasks.A lot of them take a screenshot and have a slow model decide every step, so each task takes a while and the bill adds up.Fastbrowse reads the elements on the page instead. Every button, link and field is handed to a System One model (like Jev) with a list of choices. This model decies what to do next, when it isn't sure, fastbrowse falls back to a LLM to get it right. And because it only picks from what's on the page, it can't click something that isn't there.We tested this against the latest open-source browser agents agent: same sign-in and add-to-cart task on a demo shop, three runs each.fastbrowse took 25.7 seconds and $0.020 a run. Browser Use took 42.2 seconds and $0.045. Both got it right every time. On a wider 46-task benchmark against Browser Use's hosted agent running Claude Opus, our median task cost $0.026 vs $0.284. 99.2% of tasks passed. Fastbrowse produces citations for everything it referenced to get answers, so you can trust and verify the results.It's MIT licensed, and the code, the benchmark harness and the raw results are all on GitHub: https://github.com/agent-labs-dev/fastbrowse"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "falling back to a screenshot only when the element list is unsure is a smart split. how often does the fallback actually fire on the 46-task benchmark?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! The quoted evidence sounds pretty neat, but just for observability purposes, if a page changes after the run, can someone still open a snapshot/screenshot and see what the browser saw at that moment?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Solid open source approach. Curious about the citation mechanism - how does it handle dynamic content and SPA updates? Also, what's the error recovery strategy when the model picks wrong paths? Comparing speed vs accuracy tradeoff vs proprietary agents would be interesting. Local deployment story is a big plus for privacy-focused teams."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Reading the elements instead of taking a screenshot for every step is the choice I'd want to understand first — especially with the 25.7-second, $0.020 run against Browser Use's 42.2 seconds and $0.045. When the small model is unsure and it falls back, does the citation trail still show which elements it was choosing between?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "\"Can't click something that isn't there\" is an underrated feature. Half of browser-agent debugging is discovering the button the model invented. Reading the DOM first is the right kind of boring. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "is the --secret value masked in the run replay too"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Seeing the list of element choices alongside the fallback would be useful when debugging a run. It gives you a way to check what the agent actually had available at that step."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -57975,7 +58191,43 @@
           "user": "[REDACTED]",
           "text": "Thanks so much for hunting us, @fmerian! 🙌Hey Product Hunt 👋 I'm Bruno from the Tower team, and we also work on git-flow-next.git-flow-next is the successor to the original git-flow, the branching model that has organized feature, release and hotfix branches for countless teams since 2010. We rebuilt it from scratch in Go, and it's fully compatible with your existing git-flow setups. It's free and open source, and it's endorsed by Vincent Driessen, the creator of git-flow, which means a lot to us.Version 2.1 adds worktrees, the feature you've asked for most:Start a feature in its own directory with --worktree, with no more stashing and switchingJump between worktrees with one command (git flow feature checkout)Make worktrees the default, so Claude Code, Codex or any other agent that starts a feature gets its own directory, letting them work in parallel without stepping on each other's toesFinish a feature and its worktree is cleaned up for youIn the AI era, running several agents side by side is quickly becoming the norm, and worktrees are what make that safe.Want to dig deeper?Blog post 👉 https://git-flow.sh/blog/posts/hello-worktrees/Video walkthrough (under 4 min) 👉 https://youtu.be/vAFvBLcnsG8GitHub repo 👉 https://github.com/gittower/git-flow-next/We'd love your feedback. Happy branching!"
         }
-      ]
+      ],
+      "faDescription": "ابزار git-flow-next رویکردی مدرن و انعطاف‌پذیر برای مدل محبوب شاخه‌بندی git-flow ارائه می‌دهد که گردش کار گیت را به‌طور کامل بازطراحی کرده است. این ابزار از ابتدا با زبان Go بازنویسی شده تا سرعت بالا، مصرف منابع کم و سازگاری کامل با فرآیندهای قبلی را تضمین کند. یکی از برترین ویژگی‌های این نسخه، پشتیبانی بومی از Git Worktrees است که مدیریت هم‌زمان چند ویژگی را بدون نیاز به ذخیره موقت (Stash) یا سوئیچ‌های مکرر ممکن می‌سازد. شما می‌توانید با اجرای دستور brew install git-flow-next ابزار خط فرمان آن را نصب کرده و تجربه بسیار بهتری در مدیریت پروژه و همکاری با ایجنت‌های هوش مصنوعی داشته باشید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "گیت‌فلو یا توسعه مبتنی بر ترانک، مسئله اصلی این است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "استفاده از Worktree به عنوان حالت پیش‌فرض، منطقی‌ترین تغییری است که در حال حاضر می‌بینم. اجرای همزمان چند ایجنت هوش مصنوعی روی یک نسخه چک‌اوت‌شده همیشه به تداخل در تغییرات نیمه‌کاره ختم می‌شود؛ بنابراین اختصاص یک دایرکتوری مجزا به هر ویژگی و پاک‌سازی آن پس از اتمام کار، بخش زیادی از این اصطکاک را از بین می‌برد. بسیار کنجکاوم بدانم زمانی که یک شاخه ویژگی در جای دیگری تغییرات commit‌نشده دارد، این ابزار چگونه ورک‌تری را مدیریت می‌کند: آیا دستور را رد می‌کند، آن را جابه‌جا می‌کند یا تصمیم‌گیری را به عهده کاربر می‌گذارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "خیلی ممنون از معرفی ما، fmerian@! سلام به پروداکت هانت 👋 من برونو از تیم Tower هستم و ما روی git-flow-next کار می‌کنیم. این پروژه جانشین رسمی git-flow اولیه است؛ همان مدل شاخه‌بندی که از سال ۲۰۱۰ شاخه‌های feature، release و hotfix را برای تیم‌های بی‌شماری سازمان‌دهی کرده است. ما آن را از ابتدا با زبان Go بازنویسی کردیم که با تنظیمات فعلی شما کاملاً سازگار است. این ابزار رایگان و متن‌باز بوده و توسط وینسنت دریسن (خالق اصلی git-flow) تایید شده است. نسخه ۲.۱ قابلیت worktree را اضافه کرده که پرتقاضاترین ویژگی بود: شروع یک ویژگی در دایرکتوری مجزا با worktree-- بدون نیاز به stash، جابه‌جایی بین دایرکتوری‌ها با یک دستور ساده، پیش‌فرض قرار دادن worktrees تا ایجنت‌های هوش مصنوعی مثل Claude Code و Codex بدون تداخل به‌طور موازی کار کنند، و پاک‌سازی خودکار دایرکتوری پس از پایان ویژگی. در عصر هوش مصنوعی، اجرای همزمان چند ایجنت در حال تبدیل شدن به یک روال عادی است و worktrees امنیت این کار را تامین می‌کند. مشتاقانه منتظر بازخوردهای شما هستیم!"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nمدل‌های سنتی گیت‌فلو هنگام توسعه موازی قابلیت‌ها (Features)، به‌ویژه زمان استفاده از چندین ایجنت هوش مصنوعی (مانند Claude Code یا Codex)، دچار تداخل تغییرات و پیچیدگی سوئیچ بین شاخه‌ها می‌شوند. ابزار git-flow-next با بازنویسی کامل در زبان Go و استفاده از قابلیت Git Worktrees، به هر ویژگی یک دایرکتوری مستقل اختصاص می‌دهد. این کار باعث جلوگیری از تداخل کدها، حذف نیاز به stashing و پاک‌سازی خودکار دایرکتوری پس از ادغام می‌شود.\n\n### معماری و تکنولوژی\nاستفاده از زبان Go برای ساخت این CLI باعث ایجاد یک فایل اجرایی سبک، بسیار سریع و بدون وابستگی پیچیده شده است. همچنین معماری آن مبتنی بر استاندارد Git Worktrees طراحی شده که بومی خود گیت است و کارایی بسیار بالایی دارد.\n\n### مدل درآمدی\nپروژه فعلی کاملاً رایگان و متن‌باز (Open-Source) است. سازندگان آن (تیم Tower) از این ابزار به عنوان یک بازاریابی محتوایی و جذب کاربر برای نرم‌افزار تجاری مدیریت گیت خود (Tower Git Client) استفاده می‌کنند.\n\n### نقاط قوت\n- تایید رسمی توسط خالق اولیه git-flow (Vincent Driessen)\n- بازنویسی کاملاً سریع و بهینه با Go\n- حل دقیق چالش تداخل کدها در عصر توسعه با ایجنت‌های هوش مصنوعی\n\n### نقاط ضعف\n- وابستگی به الگوی Git Flow که برخی تیم‌ها به سمت Trunk-Based Development حرکت کرده‌اند.\n- نیاز به دانش اولیه کاربران از نحوه کارکرد Git Worktree برای عیب‌یابی‌های احتمالی.\n\n### نکته طلایی برای ایران\nدر ایران، بسیاری از شرکت‌ها به دلیل تحریم‌ها یا مسائل امنیتی از گیت‌سرورهای محلی (مثل GitLab Self-Hosted) استفاده می‌کنند. توسعه یک افزونه یا داشبورد تحت وب مبتنی بر Next.js و PostgreSQL که روی این CLI قرار گیرد و فرآیند Release و Hotfix را با سامانه مدیریت تسک‌های داخلی (مانند جیرا یا تسکولو) یکپارچه کند، پتانسیل بالایی برای درآمدزایی B۲B در بازار ایران دارد.",
+      "iranEquivalent": {
+        "productName": "دستیار هوشمند گردش کار گیت (DevFlow IR)",
+        "description": "پلتفرم و ابزار بومی‌سازی‌شده مدیریت شاخه‌بندی گیت که توسعه موازی نرم‌افزار را برای تیم‌های ایرانی ساده‌تر می‌سازد. این ابزار با یکپارچه‌سازی Git Worktrees و ابزارهای کدنویسی هوش مصنوعی، امکان کار هم‌زمان روی چند بخش پروژه را بدون تداخل فراهم می‌کند. همچنین با اتوماسیون فرآیندهای انتشار و پشتیبانی از تقویم خورشیدی، مدیریت نسخه‌های نرم‌افزاری را هوشمندتر می‌سازد.",
+        "marketOpportunity": "با افزایش استفاده تیم‌های توسعه ایرانی از ایجنت‌های هوش مصنوعی و نیاز روزافزون به خودکارسازی DevOps، جای خالی یک ابزار مدیریت گردش کار بومی به‌شدت احساس می‌شود. بیش از ۱۰۰ هزار توسعه‌دهنده و شرکت نرم‌افزاری در ایران بازار هدف بالقوه برای بهره‌گیری از این ابزار و افزایش سرعت توسعه هستند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، راهبران فنی، مهندسان DevOps و تیم‌های برنامه‌نویسی که از ایجنت‌های AI استفاده می‌کنند",
+        "challenges": [
+          "مقاومت برخی از تیم‌های سنتی در برابر تغییر الگوی شاخه‌بندی به ابزارهای جدید",
+          "چالش‌های سازگاری کامل با زیرساخت‌های گیت سرور محلی و محدودیت‌های شبکه"
+        ],
+        "monetization": [
+          "فروش اشتراک سازمانی برای نسخه دارای داشبورد مدیریتی و یکپارچه‌سازی با سامانه مدیریت پروژه",
+          "ارائه خدمات مشاوره پیاده‌سازی DevOps و استقرار زیرساخت‌های توسعه موازی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -63312,7 +63564,50 @@
           "user": "[REDACTED]",
           "text": "Running Llama locally on Windows removes the dependency on cloud APIs for AI tasks. Privacy-first, no token limits, and full control over your model. Perfect for teams working with sensitive data or running inference-heavy workflows offline. The local server approach is much cleaner than scattered client-side LLM wrappers."
         }
-      ]
+      ],
+      "faDescription": "برنامه‌ی Llama Windows موتور قدرتمند llama.cpp را مستقیماً به بخش سینی سیستم (System Tray) در ویندوز ۱۱ می‌آورد. شما می‌توانید مدل‌های هوش مصنوعی متن‌باز را تنها با یک کلیک از پلتفرم هاگینگ فیس دانلود کنید. این ابزار امکان چت سریع با فشردن کلیدهای ترکیبی Alt+Space را فراهم می‌سازد. همچنین تمامی ایجنت‌های کدنویسی، ویرایشگرها و اسکریپت‌های شما می‌توانند از یک API محلی سازگار با OpenAI و حافظه پنهان مشترک مدل‌ها استفاده کنند. این نرم‌افزار کاملاً رایگان و متن‌باز ارائه شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی! تیم llama.cpp و هاگینگ فیس، لاما را به ویندوز ۱۱ آورده‌اند. این برنامه در سینی سیستم قرار می‌گیرد، مدل‌های متناسب با سخت‌افزار کامپیوترتان را پیشنهاد می‌دهد و اجرای llama.cpp را برای شما مدیریت می‌کند. با فشردن Alt+Space می‌توانید از هر جایی با یک مدل محلی چت کنید. سایر برنامه‌های شما نیز می‌توانند از آن استفاده کنند؛ کافی است ایجنت کدنویسی، ادیتور یا اسکریپت خود را به آدرس localhost:۹۹۳۱/v۱ متصل کنید تا همگی از یک سرور محلی سازگار با OpenAI استفاده کنند. مدل‌ها در کش استاندارد هاگینگ فیس ذخیره می‌شوند، بنابراین نیازی به دانلود مجدد فایل‌های ۲۰ گیگابایتی برای هر برنامه ندارید. بدون نیاز به ترمینال، دسترسی ادمین یا پردازش ابری؛ این ابزار کاملاً رایگان و متن‌باز است!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخش حافظه پنهان (کش) مشترک مدل‌ها نقطه‌ی عطف این برنامه برای من است؛ اینکه یک ایجنت کدنویسی، ادیتور و اسکریپت همگی به یک سرور محلی سازگار با OpenAI متصل شوند به جای اینکه هر کدام مدل ۲۰ گیگابایتی جداگانه‌ای دانلود کنند، یک بهبود واقعی در تجربه کاربری است. سوالم این است که وقتی دو برنامه هم‌زمان درخواست مدل‌های متفاوت می‌دهند چگونه رفتار می‌کند؟ آیا مدل‌ها را جابه‌جا می‌کند یا هر دو را بارگذاری‌شده نگه می‌دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "واقعاً از اینکه یک سرور محلی مشترک باعث می‌شود تمام برنامه‌ها از یک کش مدل استفاده کنند لذت می‌برم، به جای اینکه هر نرم‌افزار دانلود ۲۰ گیگابایتی اختصاصی خود را همراه داشته باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "اجرای محلی Llama روی ویندوز، وابستگی به APIهای ابری را برای وظایف هوش مصنوعی از بین می‌برد. اولویت با حریم خصوصی است، هیچ محدودیت توکنی وجود ندارد و کنترل کامل روی مدل در دست شماست. این ابزار برای تیم‌هایی که با داده‌های حساس کار می‌کنند یا پردازش‌های سنگین را به صورت آفلاین انجام می‌دهند عالی است. رویکرد سرور محلی بسیار تمیزتر از برنامه‌های پراکنده هوش مصنوعی در سمت کلاینت است."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: ابزارهای هوش مصنوعی محلی معمولاً باعث اتلاف حجم دیسک (دانلودهای مکرر ۲۰ گیگابایتی) و پیچیدگی تنظیمات ترمینال می‌شوند. Llama Windows با انتقال llama.cpp به سینی سیستم و ایجاد یک سرور مرکزی با کش مشترک، این چالش را به ساده‌ترین شکل حل کرده است.\n\nمعماری و تکنولوژی: این ابزار بر پایه هسته قدرتمند llama.cpp پیاده‌سازی شده و با یک کلیک به هاگینگ فیس متصل می‌شود. ارائه Endpoint محلی بر روی پورت localhost:۹۹۳۱/v۱ باعث یکپارچگی کامل با تمام ابزارهای استاندارد اکوسیستم OpenAI می‌شود.\n\nمدل درآمدی: پروژه به صورت کاملاً متن‌باز و رایگان عرضه شده است؛ اما پتانسیل بالایی برای ارائه خدمات مدیریت شده سازمانی، پشتیبانی فنی و نسخه‌های Premium برای کسب‌وکارها دارد.\n\nنقاط قوت: عدم نیاز به دسترسی ادمین، حریم خصوصی مطلق، مدیریت بهینه حافظه دیسک، میانبر سریع Alt+Space و حذف کامل هزینه‌های توکن ابری.\n\nنقاط ضعف: مدیریت هم‌زمانی (Concurrency) در صورت درخواست مدل‌های متعدد توسط برنامه‌های مختلف، و وابستگی عملکرد به سخت‌افزار محلی کاربر.\n\nنکته طلایی برای ایران: در بازار ایران که تحریم APIها و قطعی اینترنت چالش اصلی است، بومی‌سازی این ابزار با افزودن مدل‌های کوانتایزشده‌ی فارسی و قابلیت مدیریت مدل‌های بومی، می‌تواند محصولی فوق‌العاده حیاتی برای سازمان‌ها و توسعه‌دهندگان ایرانی باشد.",
+      "iranEquivalent": {
+        "productName": "سرور محلی هوش‌بیس (HooshBase Local)",
+        "description": "این محصول یک سرور محلی هوش مصنوعی برای کاربران و توسعه‌دهندگان ویندوز در ایران است که امکان اجرای مدل‌های زبانی متن‌باز را بدون نیاز به اینترنت فراهم می‌کند. ابزار مذکور با ارائه یک API سازگار با استاندارد OpenAI، به تمامی برنامه‌ها و ایجنت‌های داخلی اجازه می‌دهد از یک حافظه مشترک مدل استفاده کنند. با توجه به چالش‌های قطعی اینترنت و تحریم‌ها، این بستر پردازش‌های هوش مصنوعی را کاملاً داخلی، امن و بدون هزینه توکن سازمانی می‌سازد.",
+        "marketOpportunity": "نیازمندی شدید شرکت‌های ایرانی به پردازش امن داده‌های حساس و حریم خصوصی، بازار بسیار جذابی برای ابزارهای محلی ایجاد کرده است. همچنین محدودیت‌های اینترنت، کندی سرعت و تحریم APIهای خارجی، تقاضا برای سرورهای هوش مصنوعی آفلاین را به شدت افزایش داده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، شرکت‌های نرم‌افزاری و مالی با داده‌های حساس، متخصصان داده و سازمان‌های نیازمند اتوماسیون آفلاین",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری کاربران ایرانی از جمله کمبود کارت‌های گرافیک قوی",
+          "چالش بهینه‌سازی و کوانتایز‌سازی مدل‌های زبانی برای پشتیبانی روان از زبان فارسی"
+        ],
+        "monetization": [
+          "ارائه نسخه سازمانی با قابلیت مدیریت دسترسی، مانیتورینگ و پشتیبانی از مدل‌های اختصاصی فارسی",
+          "فروش خدمات نصب، پیکربندی، بهینه‌سازی مدل‌ها و ادغام در سیستم‌های داخلی سازمان‌ها"
+        ],
+        "techStack": [
+          "C++",
+          "Rust",
+          "Electron",
+          "React",
+          "llama.cpp"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -66565,6 +66860,64 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-10-31",
+      "rank": 5,
+      "name": "Backenly",
+      "slug": "backenly-2",
+      "tagline": "The autonomous backend for AI coding agents",
+      "description": "Backenly is an autonomous backend platform built for coding agents. Your agent builds the backend over MCP, from Postgres to sign-in, storage, functions and realtime. Then it maintains itself: every minute a self-healing loop repairs missing indexes, RLS gaps and dead realtime triggers, verifying each fix live. As your app grows, it restructures its own schema once you approve. Risky changes wait for you, and every change is versioned with rollback.",
+      "category": "Open Source • Developer Tools • GitHub • Database",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • Database",
+      "url": "https://www.producthunt.com/products/backenly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/44b41b32-66c7-4675-91b4-07eff87d21c1.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d8c5e11a-e42c-4763-b423-9f62bcc5d2e0.png?auto=format",
+        "https://ph-files.imgix.net/ab312cae-cd41-473b-9f1a-75cd922a78f5.png?auto=format",
+        "https://ph-files.imgix.net/ade776b9-7812-4020-8690-5d04dab26268.png?auto=format",
+        "https://ph-files.imgix.net/357a45fc-f362-4217-9df2-f0873844ebbe.png?auto=format",
+        "https://ph-files.imgix.net/a9896678-de96-4f1d-8f81-2d651438f8a1.png?auto=format",
+        "https://ph-files.imgix.net/9b276bff-bdb9-4a45-8c09-c3c8f6142233.png?auto=format",
+        "https://ph-files.imgix.net/764150bb-9ea1-43c0-9b66-6d7b3137d885.png?auto=format",
+        "https://ph-files.imgix.net/9201c082-7f59-4761-ad0a-97e8847cda1c.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 120,
+      "websiteUrl": "https://www.producthunt.com/r/KRKHMHKQW6VVDT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Adarsh, cofounder of Backenly with @lakshmi_sunil AI coding agents can now build an application in an afternoon. But once that application goes live, the backend still works the old way: it waits for a person to notice what broke.APIs break. Schemas drift. Permissions leak. Migrations go wrong. Patches pile up. Eventually, someone has to stop building and start debugging the backend.We started Backenly around one question:If software is increasingly built by AI agents, why should the backend still depend on humans to keep it alive?So we built an autonomous backend platform for AI coding agents.Through MCP, agents can create and work with:Postgres databases with row-level security AuthenticationStorageRealtimeFunctionsBut the part we care about most begins after deployment.Every minute, Backenly checks the running backend, works out what has gone wrong, fixes what it can verify and roll back, and confirms the fix worked. Anything it can't fix safely waits for your approval.And we didn't want \"autonomous\" to mean endlessly applying patches.If Backenly keeps finding problems in the same part of a table, or changes to it keep locking a table serving live traffic, that table might be doing two jobs.Instead of adding another patch, Backenly can rehearse splitting it on a copy and show you the proposed change. Once you approve, it moves the data while your app keeps working.That's the idea we're most excited about: a backend that repairs itself and changes shape as your application grows.Of course, giving software this much autonomy creates a different problem: trust.Every change Backenly makes autonomously must be reversible, verified after execution, and recorded in one history so you can see what changed and why.Destructive changes, like dropping a table, always wait for your approval. Your coding agent cannot approve them on your behalf.Getting started with BackenlyStart free at backenly.com and connect Claude Code, Cursor or Codex in one command: backenly.com/docs/connect🎁 Launch offer: Use code PRODUCTHUNT50 for 50% off monthly Pro for three months.We're still early, and that's exactly why we wanted to launch here.I'd especially love feedback from people building with Claude Code, Codex, Cursor, and other coding agents:What would you trust an autonomous backend to change completely on its own, and what should always require your approval?Lakshmi and I will be here all day answering questions. Really excited to hear what you think! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch adarsh. to your question, i would let it add indexes alone but anything touching rls policies i want to see first. one wrong policy and users see each others data and nobody notice for weeks. does history show who started the change, the agent or the healing loop?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The rehearsed split on a copy is the part I am most curious about. What does the rehearsal actually validate before it shows you the proposal, and does a split still wait for approval like other destructive changes?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice launch Adarsh. On fintech projects our clients’ auditors want every production schema change tied to a ticket. Can the self-healing loop be limited to staging, so production only changes through a migration someone has reviewed?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "To your question: I'd let it add a missing index or fix a dead realtime trigger on its own, but anything touching row-level security on orders or payments should wait for me, even when it looks like a fix. In a multi-store setup, one wrong policy means one merchant can see another merchant's customers. Can approval rules be set per table, so a few tables always need a human while the rest repair themselves?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Well, finally someone takes care about what happens after deployment. Defo bookmarked for my next project! Congrats on launching this very useful product."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@adarsh_cj What happens if an AI agent makes an incorrect schema change ? Can developers easily roll it back ?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-26",
       "rank": 9,
@@ -68012,7 +68365,66 @@
           "user": "[REDACTED]",
           "text": "Love the product, wish i could use the product more 😂"
         }
-      ]
+      ],
+      "faDescription": "اتاق داده ۲.۰: یک اتاق داده امن را در کمتر از ۶۰ ثانیه راه‌اندازی کنید. این پلتفرم کاملاً رمزنگاری‌شده و دارای گواهینامه‌های معتبر امنیتی است و امکاناتی نظیر دسترسی سطح فایل، بخش پرسش و پاسخ داخلی، لاگ کامل حسابرسی و تحلیل‌های پیشرفته را ارائه می‌دهد. شما می‌توانید این ابزار را به صورت کاملاً اختصاصی (White-label) روی دامنه و برند خود پیاده‌سازی کنید. همچنین به ایجنت‌های هوش مصنوعی اجازه دهید تا از طریق API، CLI و پروتکل MCP به راحتی آن را مدیریت و اجرا نمایند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت 👋 یولیا هستم، هم‌بنیان‌گذار پیپرمارک. امروز روز لانچ ماست 🚀 سه سال پیش من و مارک پیپرمارک را شروع کردیم و از آن زمان دائماً در حال توسعه و گوش دادن به بازخوردها بوده‌ایم. امروز بیش از ۸۰ هزار کاربر از جمله بنیان‌گذاران، مشاوران ادغام و تملک (M&A)، سرمایه‌گذاران جسورانه و تیم‌های فروش برای معامله‌های خود به پیپرمارک اعتماد دارند. مشکلات مشابهی همیشه مطرح می‌شد: ساخت اتاق داده روزها و گاهی هفته‌ها طول می‌کشد، هرگز نمی‌دانید چه کسی واقعاً دک شما را خوانده است، اتاق داده لوگوی ارائه‌دهنده را دارد نه لوگوی شما را، و ایجنت‌های هوش مصنوعی شما نمی‌توانند به آن دسترسی داشته باشند. پاسخ ما به همه این‌ها اتاق داده ۲.۰ است: راه‌اندازی زیر ۶۰ ثانیه، تحلیل صفحه به صفحه و لاگ کامل حسابرسی، کاملاً اختصاصی با برند و دامنه شما، و داشتن API، CLI و سرور MCP تا کلود، کِرسِر یا چت‌جی‌پی‌تی بتوانند در صورت درخواست شما اتاق بسازند. بخش مورد علاقه من ایجنت‌ها هستند. مثلاً بپرسید «یک اتاق M&A برای پروژه اتلس بساز» و شما پوشه‌ها، دسترسی‌ها و لینک اشتراک‌گذاری را تحویل می‌گیرید. ما در حال تعریف استاندارد جدید اتاق داده هستیم! از حمایت امروز شما متشکریم 💫 به ما بگویید اتاق داده شما چه چیزی کم دارد. من و مارک تمام روز اینجا هستیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "از زمان اولین لانچ تا کنون مسیر خیلی زیادی را طی کرده‌اید! هنوز لندینگ پیج اولیه و لانچ قبلی شما در پروداکت هانت را به یاد دارم!!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "زاویه دید و ادغام MCP توجه من را جلب کرد — اینکه از یک ایجنت بخواهیم یک اتاق داده ادغام و تملک بسازد و پوشه‌ها، دسترسی‌ها و لینک اشتراک‌گذاری دریافت کنیم، جریان کاری بسیار متفاوتی نسبت به کلیک روی ویزارد نصب دارد. با توجه به اینکه ایجنت‌ها می‌توانند اتاق بسازند، چگونه از تغییر ناخواسته دسترسی‌ها در طول زمان جلوگیری می‌کنید؟ آیا لاگ حسابرسی وجود دارد که نشان دهد دقیقاً کدام ایجنت چه دسترسی داده است و آیا مدیر می‌تواند دسترسی‌های ایجاد شده توسط ایجنت را در یک جا لغو کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش تحلیل صفحه به صفحه اولین چیزی است که بررسی می‌کنم. آیا این آمار به ازای هر فردی که اتاق را باز کرده نشان داده می‌شود یا فقط به ازای هر لینک است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سرعت پیشرفت شما واقعاً شگفت‌انگیز است. با آرزوی موفقیت برای این لانچ! :)"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ما از این محصول برای فرایند جذب سرمایه خود استفاده می‌کنیم و کاملاً عاشق آن هستیم! آن را به هر کسی که به دنبال یک راه‌حل جامع و انعطاف‌پذیر برای اتاق داده است پیشنهاد می‌کنم — فقط امتحانش کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تبریک به یولیا و مارک! به نظر شما تاثیرگذارترین بخش این لانچ کدام است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "عاشق این محصول هستم، فقط کاش می‌توانستم بیشتر از آن استفاده کنم 😂"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nراه‌اندازی اتاق داده (Data Room) در ابزارهای سنتی معمولاً زمان‌بر، گران و پیچیده است و به عدم شفافیت در پیگیری رفتار بینندگان منجر می‌شود. Papermark با معرفی «Data Rooms ۲.۰» امکان ساخت یک اتاق داده رمزنگاری‌شده، دارای لاگ حسابرسی، تحلیل صفحه به صفحه و قابلیت White-label را در کمتر از ۶۰ ثانیه فراهم کرده است. ویژگی کلیدی این نسخه، پشتیبانی از پروتکل MCP است که به ایجنت‌های هوش مصنوعی اجازه می‌دهد به طور خودکار ساختار پوشه‌ها و دسترسی‌ها را مدیریت کنند.\n\n### معماری و تکنولوژی\nاین محصول بر پایه پلتفرم مدرن وب با معماری API-First طراحی شده است. استفاده از پروتکل Model Context Protocol (MCP) به ابزارهایی مانند Claude و Cursor اجازه می‌دهد به مستقیم‌ترین شکل ممکن با اتاق داده تعامل داشته باشند. سیستم دارای رمزنگاری داده‌ها در حالت سکون و انتقال، مدیریت دسترسی فایل، لاگ دقیق حسابرسی (Audit Log) و تحلیل‌های دقیق رفتار کاربر است.\n\n### مدل درآمدی\nمدل درآمدی به صورت SaaS (اشتراک پایدار) بر اساس تعداد اتاق‌های فعال، میزان فضای ذخیره‌سازی، سطح تحلیل‌ها و قابلیت‌های پیشرفته مانند برندینگ اختصاصی (White-label) و دسترسی به API/MCP تعیین می‌شود.\n\n### نقاط قوت\n۱. راه‌اندازی فوق‌العاده سریع زیر ۶۰ ثانیه.\n۲. پیشگامی در ادغام با ایجنت‌های هوش مصنوعی از طریق MCP.\n۳. ارائه تحلیل‌های دقیق صفحه به صفحه از رفتار بینندگان اسناد.\n۴. قابلیت شخصی‌سازی کامل برند و دامنه برای حفظ هویت بصری مشتری.\n\n### نقاط ضعف\n۱. چالش‌های امنیتی و ریسک دسترسی‌های ناخواسته هنگام تعامل ایجنت‌های هوش مصنوعی با اسناد محرمانه.\n۲. رقابت فشرده با بازیگران قدیمی و جاافتاده مانند DocSend.\n\n### نکته طلایی برای بازار ایران\nاکثر استارتاپ‌ها و VCهای ایرانی همچنان از ابزارهای عمومی و غیرامن برای اشتراک‌گذاری دک‌های سرمایه‌گذاری استفاده می‌کنند. پیاده‌سازی یک اتاق داده بومی با قابلیت White-label و تحلیل دقیق رفتار بیننده، همراه با ادغام با پیام‌رسان‌ها یا ایجنت‌های بومی، می‌تواند بازار جذب سرمایه ایران را به راحتی فتح کند.",
+      "iranEquivalent": {
+        "productName": "داده‌نو (اتاق داده امن ایرانی)",
+        "description": "پلتفرم بومی اتاق داده امن برای مدیریت اسناد محرمانه در فرایندهای جذب سرمایه و ادغام شرکتی. این ابزار به بنیان‌گذاران و صندوق‌های سرمایه‌گذاری اجازه می‌دهد اسناد خود را با رمزنگاری پیشرفته، دامنه اختصاصی و کنترل دقیق دسترسی به اشتراک بگذارند. همچنین قابلیت اتصال به ایجنت‌های هوش مصنوعی برای مدیریت خودکار دسترسی‌ها در سیستم تعبیه شده است.",
+        "marketOpportunity": "با رشد صندوق‌های سرمایه‌گذاری جسورانه و افزایش معاملات ادغام و تملک در زیست‌بوم استارتاپی ایران، نیاز شدیدی به ابزار جایگزین برای روش‌های ناامن مانند گوگل درایو وجود دارد. ارائه یک ابزار بومی با امنیت بالا و پرداخت ریالی، شانس موفقیت بالایی در جذب VCها و هلدینگ‌های بزرگ دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "صندوق‌های سرمایه‌گذاری جسورانه (VC)، شتاب‌دهنده‌ها، هلدینگ‌های سرمایه‌گذاری، مشاوران حقوقی و مالی، بنیان‌گذاران استارتاپ‌ها",
+        "challenges": [
+          "دشواری جلب اعتماد اولیه سازمان‌ها و VCهای بزرگ برای ذخیره‌سازی اسناد محرمانه مالی روی بسترهای ابری بومی",
+          "عدم شفافیت قوانین حقوقی بومی در زمینه مسئولیت‌های ناشی از دسترسی ایجنت‌های هوش مصنوعی به اسناد حساس"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه بر اساس تعداد اتاق داده فعال و حجم ذخیره‌سازی",
+          "ارائه خدمات White-label و پلن‌های سازمانی (Enterprise) با قابلیت نصب On-Premise"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Redis",
+          "MinIO"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -68917,6 +69329,46 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-10-31",
+      "rank": 6,
+      "name": "WinnerAdSpy",
+      "slug": "winneradspy-2",
+      "tagline": "Turn competitor ad insights into winning app campaigns",
+      "description": "Winneradspy is an ad creative intelligence platform built specifically for mobile app and game marketers. Explore 20M+ ad creatives across 200K+ apps, uncover winning hooks, visuals, messaging and CTAs, and track competitor campaigns with real-time alerts. Unlike generic ad spy tools, it scores creatives as Winner, Loser or Learning, helping UA managers, growth teams and agencies understand what works and build better campaigns. Query ad insights through ChatGPT, Claude or Gemini via MCP.",
+      "category": "Marketing • Advertising • Artificial Intelligence",
+      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/winneradspy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/cf36420a-1251-48c5-a48f-3ecf2a07163d.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b7d425ef-6fb2-418e-b45c-9e57ad5f61dc.jpeg?auto=format",
+        "https://ph-files.imgix.net/a8eb629b-9300-4bed-84c6-bf941db4e1fa.png?auto=format",
+        "https://ph-files.imgix.net/99be20cb-41b9-4327-845f-3ee7ea6e692f.png?auto=format",
+        "https://ph-files.imgix.net/2e87eb0c-d02c-46c3-b006-960696cad75a.png?auto=format",
+        "https://ph-files.imgix.net/661de502-0856-4a44-a973-0dbf58a2165d.png?auto=format",
+        "https://ph-files.imgix.net/4a04e870-98f6-4243-b5fa-a22824325083.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 115,
+      "websiteUrl": "https://www.producthunt.com/r/H7UZRHUBGPTV43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "is it for analytics only or there is ad builder as well?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, team! 🎉 Great to see ad spy tool that isn't built around e-commerce. The Winner / Loser / Learning tags are such a simple and great idea. How do you decide when a creative moves from Learning to Winner? Is it mostly how long it runs, or something more?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋I'm Zeynep, a Social Media Specialist and part of the team behind WinnerAdSpy.Finding competitor ads is easy. Understanding which ones are actually working, and why, is much harder.Most ad spy tools focus on ecommerce, leaving mobile app and game marketers with generic ad libraries or expensive enterprise solutions.That's why we built WinnerAdSpy to help mobile marketers discover winning ad creatives, understand competitor strategies, and make smarter creative decisions.Here's how WinnerAdSpy works in 4 steps:Search: Find any mobile app or game, or paste its App Store or Google Play link.Explore: Browse competitor ad creatives and filter them by format, date, and status.Discover: Identify Winner, Loser, and Learning creatives based on advertising signals.Analyze: Explore each creative's 0–100 Winner Score, including hooks, visuals, emotions, messaging, and CTAs.What's inside WinnerAdSpy?🔍 Creative Library: Explore 20M+ ad creatives from 200K+ mobile apps and games.📡 Competitor Listening: Get notified when competitors launch new ads, change creatives, or stop running campaigns.🧠 AI Creative Scoring: Understand what makes an ad creative stand out with AI-powered analysis and scoring.🤖 MCP Integration: Explore competitor ad insights through ChatGPT, Claude, and Gemini.Who is WinnerAdSpy for?We built WinnerAdSpy for mobile game UA managers, app growth teams, performance marketers, and agencies managing advertising campaigns. Whether you're researching competitor strategies, looking for creative inspiration, or planning your next campaign, WinnerAdSpy helps you spend less time searching and more time understanding what works.Our goal is simple: Make competitor ad research faster, smarter, and more actionable for mobile marketers.We'd love to hear your feedback and what you'd like us to build next! 🚀🙏"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-29",
       "rank": 9,
@@ -69750,104 +70202,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-10-31",
-      "rank": 5,
-      "name": "Backenly",
-      "slug": "backenly-2",
-      "tagline": "The autonomous backend for AI coding agents",
-      "description": "Backenly is an autonomous backend platform built for coding agents. Your agent builds the backend over MCP, from Postgres to sign-in, storage, functions and realtime. Then it maintains itself: every minute a self-healing loop repairs missing indexes, RLS gaps and dead realtime triggers, verifying each fix live. As your app grows, it restructures its own schema once you approve. Risky changes wait for you, and every change is versioned with rollback.",
-      "category": "Open Source • Developer Tools • GitHub • Database",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • Database",
-      "url": "https://www.producthunt.com/products/backenly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/44b41b32-66c7-4675-91b4-07eff87d21c1.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d8c5e11a-e42c-4763-b423-9f62bcc5d2e0.png?auto=format",
-        "https://ph-files.imgix.net/ab312cae-cd41-473b-9f1a-75cd922a78f5.png?auto=format",
-        "https://ph-files.imgix.net/ade776b9-7812-4020-8690-5d04dab26268.png?auto=format",
-        "https://ph-files.imgix.net/357a45fc-f362-4217-9df2-f0873844ebbe.png?auto=format",
-        "https://ph-files.imgix.net/a9896678-de96-4f1d-8f81-2d651438f8a1.png?auto=format",
-        "https://ph-files.imgix.net/9b276bff-bdb9-4a45-8c09-c3c8f6142233.png?auto=format",
-        "https://ph-files.imgix.net/764150bb-9ea1-43c0-9b66-6d7b3137d885.png?auto=format",
-        "https://ph-files.imgix.net/9201c082-7f59-4761-ad0a-97e8847cda1c.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 114,
-      "websiteUrl": "https://www.producthunt.com/r/KRKHMHKQW6VVDT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm Adarsh, cofounder of Backenly with @lakshmi_sunil AI coding agents can now build an application in an afternoon. But once that application goes live, the backend still works the old way: it waits for a person to notice what broke.APIs break. Schemas drift. Permissions leak. Migrations go wrong. Patches pile up. Eventually, someone has to stop building and start debugging the backend.We started Backenly around one question:If software is increasingly built by AI agents, why should the backend still depend on humans to keep it alive?So we built an autonomous backend platform for AI coding agents.Through MCP, agents can create and work with:Postgres databases with row-level security AuthenticationStorageRealtimeFunctionsBut the part we care about most begins after deployment.Every minute, Backenly checks the running backend, works out what has gone wrong, fixes what it can verify and roll back, and confirms the fix worked. Anything it can't fix safely waits for your approval.And we didn't want \"autonomous\" to mean endlessly applying patches.If Backenly keeps finding problems in the same part of a table, or changes to it keep locking a table serving live traffic, that table might be doing two jobs.Instead of adding another patch, Backenly can rehearse splitting it on a copy and show you the proposed change. Once you approve, it moves the data while your app keeps working.That's the idea we're most excited about: a backend that repairs itself and changes shape as your application grows.Of course, giving software this much autonomy creates a different problem: trust.Every change Backenly makes autonomously must be reversible, verified after execution, and recorded in one history so you can see what changed and why.Destructive changes, like dropping a table, always wait for your approval. Your coding agent cannot approve them on your behalf.Getting started with BackenlyStart free at backenly.com and connect Claude Code, Cursor or Codex in one command: backenly.com/docs/connect🎁 Launch offer: Use code PRODUCTHUNT50 for 50% off monthly Pro for three months.We're still early, and that's exactly why we wanted to launch here.I'd especially love feedback from people building with Claude Code, Codex, Cursor, and other coding agents:What would you trust an autonomous backend to change completely on its own, and what should always require your approval?Lakshmi and I will be here all day answering questions. Really excited to hear what you think! 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch adarsh. to your question, i would let it add indexes alone but anything touching rls policies i want to see first. one wrong policy and users see each others data and nobody notice for weeks. does history show who started the change, the agent or the healing loop?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The rehearsed split on a copy is the part I am most curious about. What does the rehearsal actually validate before it shows you the proposal, and does a split still wait for approval like other destructive changes?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice launch Adarsh. On fintech projects our clients’ auditors want every production schema change tied to a ticket. Can the self-healing loop be limited to staging, so production only changes through a migration someone has reviewed?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "To your question: I'd let it add a missing index or fix a dead realtime trigger on its own, but anything touching row-level security on orders or payments should wait for me, even when it looks like a fix. In a multi-store setup, one wrong policy means one merchant can see another merchant's customers. Can approval rules be set per table, so a few tables always need a human while the rest repair themselves?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Well, finally someone takes care about what happens after deployment. Defo bookmarked for my next project! Congrats on launching this very useful product."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@adarsh_cj What happens if an AI agent makes an incorrect schema change ? Can developers easily roll it back ?"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-10-31",
-      "rank": 6,
-      "name": "WinnerAdSpy",
-      "slug": "winneradspy-2",
-      "tagline": "Turn competitor ad insights into winning app campaigns",
-      "description": "Winneradspy is an ad creative intelligence platform built specifically for mobile app and game marketers. Explore 20M+ ad creatives across 200K+ apps, uncover winning hooks, visuals, messaging and CTAs, and track competitor campaigns with real-time alerts. Unlike generic ad spy tools, it scores creatives as Winner, Loser or Learning, helping UA managers, growth teams and agencies understand what works and build better campaigns. Query ad insights through ChatGPT, Claude or Gemini via MCP.",
-      "category": "Marketing • Advertising • Artificial Intelligence",
-      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/winneradspy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/cf36420a-1251-48c5-a48f-3ecf2a07163d.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b7d425ef-6fb2-418e-b45c-9e57ad5f61dc.jpeg?auto=format",
-        "https://ph-files.imgix.net/a8eb629b-9300-4bed-84c6-bf941db4e1fa.png?auto=format",
-        "https://ph-files.imgix.net/99be20cb-41b9-4327-845f-3ee7ea6e692f.png?auto=format",
-        "https://ph-files.imgix.net/2e87eb0c-d02c-46c3-b006-960696cad75a.png?auto=format",
-        "https://ph-files.imgix.net/661de502-0856-4a44-a973-0dbf58a2165d.png?auto=format",
-        "https://ph-files.imgix.net/4a04e870-98f6-4243-b5fa-a22824325083.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 114,
-      "websiteUrl": "https://www.producthunt.com/r/H7UZRHUBGPTV43?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "is it for analytics only or there is ad builder as well?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, team! 🎉 Great to see ad spy tool that isn't built around e-commerce. The Winner / Loser / Learning tags are such a simple and great idea. How do you decide when a creative moves from Learning to Winner? Is it mostly how long it runs, or something more?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋I'm Zeynep, a Social Media Specialist and part of the team behind WinnerAdSpy.Finding competitor ads is easy. Understanding which ones are actually working, and why, is much harder.Most ad spy tools focus on ecommerce, leaving mobile app and game marketers with generic ad libraries or expensive enterprise solutions.That's why we built WinnerAdSpy to help mobile marketers discover winning ad creatives, understand competitor strategies, and make smarter creative decisions.Here's how WinnerAdSpy works in 4 steps:Search: Find any mobile app or game, or paste its App Store or Google Play link.Explore: Browse competitor ad creatives and filter them by format, date, and status.Discover: Identify Winner, Loser, and Learning creatives based on advertising signals.Analyze: Explore each creative's 0–100 Winner Score, including hooks, visuals, emotions, messaging, and CTAs.What's inside WinnerAdSpy?🔍 Creative Library: Explore 20M+ ad creatives from 200K+ mobile apps and games.📡 Competitor Listening: Get notified when competitors launch new ads, change creatives, or stop running campaigns.🧠 AI Creative Scoring: Understand what makes an ad creative stand out with AI-powered analysis and scoring.🤖 MCP Integration: Explore competitor ad insights through ChatGPT, Claude, and Gemini.Who is WinnerAdSpy for?We built WinnerAdSpy for mobile game UA managers, app growth teams, performance marketers, and agencies managing advertising campaigns. Whether you're researching competitor strategies, looking for creative inspiration, or planning your next campaign, WinnerAdSpy helps you spend less time searching and more time understanding what works.Our goal is simple: Make competitor ad research faster, smarter, and more actionable for mobile marketers.We'd love to hear your feedback and what you'd like us to build next! 🚀🙏"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -79327,6 +79681,39 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-10-31",
+      "rank": 7,
+      "name": "GitHub Copilot Fusion",
+      "slug": "github-copilot-fusion",
+      "tagline": "GitHub's AI coding agent that picks and combines models",
+      "description": "GitHub Copilot Fusion takes the guesswork out of choosing AI models for coding. Instead of picking one model, Fusion automatically routes each task to suitable models and combines them when needed. One model can write code while another reviews or improves it. Choose Standard, High, or Max effort to balance speed, quality, and cost. Available across GitHub Copilot plans in VS Code, Copilot CLI, the Copilot app, and JetBrains IDEs.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/df93ae14-eab5-4baa-91de-688ed4e7d4b3.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/9d3be44b-b0d5-4737-9f81-e1ea08e6bb03.png?auto=format",
+        "https://ph-files.imgix.net/d2acc910-897d-4591-8228-c3f67cb019e0.webp?auto=format",
+        "https://ph-files.imgix.net/124ebaf3-bdd9-4fd8-8b21-609d4c426100.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-10-31T07:01:00Z",
+      "votes": 96,
+      "websiteUrl": "https://www.producthunt.com/r/72K5GZ4MAY5NR2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "GitHub just launched Copilot Fusion, and I think this is a pretty useful idea.Instead of constantly deciding which AI model to use for coding, you select Fusion and let it figure that out. For harder tasks, it can even use multiple models together — one writes the solution, another reviews it.GitHub says Fusion Max gets close to Claude Code with Opus 5.5 Max on Artificial Analysis benchmarks, at roughly half the average API cost per task.It's available now across Copilot plans. Curious to see how well the automatic model selection works in real projects."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting idea — when Fusion uses multiple models together, like one writing and another reviewing, do they share the same full context, or does the reviewer only get a summary? I'm curious how that handoff works when the second model needs to catch something subtle in the first model's reasoning."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-24",
       "rank": 9,
@@ -79368,12 +79755,54 @@
           "user": "[REDACTED]",
           "text": "this is the cleanest of its kind. the internet speed test is a huge plus. great work!"
         }
-      ]
+      ],
+      "faDescription": "نرم‌افزار بایتر به شما نشان می‌دهد که دقیقاً چه مقدار داده اینترنتی و در چه شبکه‌ای مصرف کرده‌اید. این برنامه میزان مصرف را به تفکیک برای هر شبکه وای‌فای، نقطه اتصال موبایل (هات‌اسپات) و اتصال سیمی ثبت می‌کند تا دقیقاً بدانید بسته اینترنت شما صرف چه بخش‌هایی شده است. علاوه بر این، امکاناتی نظیر نمایش سرعت لحظه‌ای، تست سرعت با یک کلیک، نمودارهای مصرف روزانه تا سالانه و هشدارهای هوشمند هنگام جهش مصرف در اختیارتان قرار می‌گیرد. تمامی اطلاعات به‌صورت کاملاً خصوصی روی دستگاه شما باقی می‌ماند و نیازی به ساخت حساب کاربری یا تحمل تبلیغات نیست. این برنامه در حال حاضر برای سیستم‌عامل مک منتشر شده، نسخه ویندوز آن به‌زودی عرضه می‌شود و از ۱۱ زبان مختلف پشتیبانی می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! من مکس، سازنده بایتر هستم. حدود ماه می، در آکرا با هات‌اسپات گوشی کار می‌کردم؛ صبح بسته اینترنت می‌خریدم و تا عصر تمام می‌شد، بدون هیچ هشداری و بدون اینکه بدانم کجا مصرف شده است. آیا مک من بود؟ یک به‌روزرسانی در پس‌زمینه؟ یا تماس تصویری؟ این موضوع باعث شد از خودم بپرسم چرا دیدن محل واقعی مصرف داده اینقدر سخت است؟ وای‌فای خانه، شبکه دفتر و هات‌اسپاتی که موقع قطعی برق به آن متکی هستید، همگی با هم ترکیب می‌شوند و وقتی بسته تمام می‌شود، تازه متوجه می‌شوید. بنابراین بایتر را ساختم؛ یک برنامه کوچک و آرام برای منوبار که میزان مصرف و سرعت را به تفکیک شبکه پیگیری می‌کند، اطلاعات را محرمانه روی دستگاه نگه می‌دارد و هنگام جهش مصرف به شما هشدار می‌دهد. این برنامه رایگان است، از ۱۱ زبان پشتیبانی می‌کند، امروز برای مک در دسترس است و نسخه ویندوز هم در راه است. ممنون که آن را بررسی می‌کنید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "یک برنامه کوچک واقعاً کاربردی. مشخص است که کار و فکر زیادی روی رابط کاربری و تجربه کاربری آن انجام شده است. فوق‌العاده است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "یک برنامه کوچک بسیار کاربردی برای مک. دوست دارم که چقدر ساده و بدون پیچیدگی اضافه، دیدن میزان مصرف داده و سرعت شبکه را امکان‌پذیر می‌کند. ساده، تمیز و دقیقاً همان کاری را انجام می‌دهد که نیاز دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این تمیزترین برنامه در نوع خودش است. تست سرعت اینترنت یک مزیت بزرگ محسوب می‌شود. کارتان عالی بود!"
+        }
+      ],
+      "aiReview": "پروژه Byter یک ابزار کاربردی و «میکرو» (Micro-app) است که دست روی یکی از نقاط درد واقعی کاربران (تمام شدن بی‌دلیل بسته‌های اینترنت) گذاشته است.\n\n- **مسئله و راه‌حل:** عدم شفافیت در مصرف ترافیک شبکه هنگام اتصال به هات‌اسپات یا شبکه‌های مختلف. راه‌حل Byter نمایش تفکیک‌شده و لحظه‌ای حجم و سرعت مصرفی در منوبار بدون درگیر کردن کاربر با پیچیدگی‌های فنی است.\n- **معماری و تکنولوژی:** بهره‌گیری از معماری On-Device که بدون نیاز به سرور مرکزی کار می‌کند. این کار هزینه‌های زیرساخت سازنده را صفر کرده و امنیت/حریم خصوصی کاربر را تضمین می‌کند.\n- **مدل درآمدی:** در حال حاضر رایگان است که به رشد ارگانیک آن کمک می‌کند، اما قابلیت اضافه کردن لایسنس پرو (یک‌بار خرید) یا مدل Freemium را دارد.\n- **نقاط قوت:** UI/UX بسیار ساده و جذاب، عدم نیاز به ثبت‌نام، احترام به حریم خصوصی، قابلیت تفکیک شبکه‌ها، و اضافه کردن ابزار کاربردی تست سرعت.\n- **نقاط ضعف:** محدود بودن بازار به سیستم‌عامل‌های دسکتاپ و نبود نسخه ویندوز در زمان عرضه اولیه.\n- **نکته طلایی برای ایران:** نسخه ایرانی این ابزار می‌تواند با اضافه کردن قابلیت تفکیک ترافیک بین‌الملل از ترافیک داخلی (نیم‌بهاء) و همچنین نمایش حجم مصرفی ابزارهای تغییر IP، ارزش افزوده‌ای دوچندان برای کاربران ایرانی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "نت‌بین (NetBeen)",
+        "description": "نت‌بین یک ابزار هوشمند پایش مصرف اینترنت در نوار ابزار سیستم‌عامل است که میزان مصرف داده را به تفکیک شبکه‌های مختلف (وای‌فای، هات‌اسپات و کابل) مدیریت می‌کند. این محصول با ارائه هشدارهای لحظه‌ای هنگام جهش مصرف و قابلیت تست سرعت، مانع از اتمام ناگهانی و غیرمنتظره بسته‌های گران‌قیمت اینترنت همراه می‌شود. کلیه داده‌ها جهت حفظ کامل حریم خصوصی به‌صورت محلی روی دستگاه کاربر ذخیره شده و نیازی به اتصال به سرور مجزا ندارد.",
+        "marketOpportunity": "با توجه به قیمت بالای بسته‌های اینترنت همراه در ایران و متکی بودن کاربران به هات‌اسپات گوشی هنگام قطعی اینترنت ثابت، نیاز مبرمی به پایش دقیق مصرف وجود دارد. نبود یک ابزار بومی سبک با پشتیبانی از سیستم‌عامل‌های مختلف، فرصت شغلی و تجاری بسیار مناسبی را در بازار ایران فراهم کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "فریلنسرها، دورکاران، دانشجویان، توسعه‌دهندگان و تمامی کاربرانی که از بسته‌های حجمی اینترنت یا هات‌اسپات موبایل استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های دسترسی سیستم‌عامل‌ها به سطح شبکه جهت تفکیک دقیق ترافیک",
+          "رقابت با ابزارهای رایگان قدیمی یا امکانات داخلی خود سیستم‌عامل‌ها"
+        ],
+        "monetization": [
+          "مدل Freemium (رایگان برای امکانات پایه، اشتراک پولی برای گزارش‌گیری پیشرفته و خروجی اکسل)",
+          "فروش نسخه سازمانی برای مدیریت مصرف داده تجهیزات شرکتی"
+        ],
+        "techStack": [
+          "Tauri",
+          "Rust",
+          "React",
+          "TypeScript"
+        ],
+        "confidence": 85
+      }
     },
     {
-      "id": "ph-today-7",
+      "id": "ph-today-8",
       "date": "2026-10-31",
-      "rank": 7,
+      "rank": 8,
       "name": "Secret Key",
       "slug": "secret-key",
       "tagline": "Let your family unlock your passwords if you can't",
@@ -79822,39 +80251,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-10-31",
-      "rank": 8,
-      "name": "GitHub Copilot Fusion",
-      "slug": "github-copilot-fusion",
-      "tagline": "GitHub's AI coding agent that picks and combines models",
-      "description": "GitHub Copilot Fusion takes the guesswork out of choosing AI models for coding. Instead of picking one model, Fusion automatically routes each task to suitable models and combines them when needed. One model can write code while another reviews or improves it. Choose Standard, High, or Max effort to balance speed, quality, and cost. Available across GitHub Copilot plans in VS Code, Copilot CLI, the Copilot app, and JetBrains IDEs.",
-      "category": "Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/df93ae14-eab5-4baa-91de-688ed4e7d4b3.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/9d3be44b-b0d5-4737-9f81-e1ea08e6bb03.png?auto=format",
-        "https://ph-files.imgix.net/d2acc910-897d-4591-8228-c3f67cb019e0.webp?auto=format",
-        "https://ph-files.imgix.net/124ebaf3-bdd9-4fd8-8b21-609d4c426100.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-10-31T07:01:00Z",
-      "votes": 94,
-      "websiteUrl": "https://www.producthunt.com/r/72K5GZ4MAY5NR2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "GitHub just launched Copilot Fusion, and I think this is a pretty useful idea.Instead of constantly deciding which AI model to use for coding, you select Fusion and let it figure that out. For harder tasks, it can even use multiple models together — one writes the solution, another reviews it.GitHub says Fusion Max gets close to Claude Code with Opus 5.5 Max on Artificial Analysis benchmarks, at roughly half the average API cost per task.It's available now across Copilot plans. Curious to see how well the automatic model selection works in real projects."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Interesting idea — when Fusion uses multiple models together, like one writing and another reviewing, do they share the same full context, or does the reviewer only get a summary? I'm curious how that handoff works when the second model needs to catch something subtle in the first model's reasoning."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-10",
@@ -81672,7 +82068,45 @@
           "user": "[REDACTED]",
           "text": "Do I need a GPS track, or can it build the film from my iPhone photos' locations alone?"
         }
-      ]
+      ],
+      "faDescription": "این اپلیکیشن سفرهای تک‌روزه یا چندروزه شما را با استفاده از مسیرهای GPS، عکس‌ها و ویدیوهای موجود، به یک فیلم کوتاه جذاب تبدیل می‌کند. مسیر شما به شکل انیمیشن روی یک نقشه زاویه‌دار رسم می‌شود، هر عکس دقیقاً در نقطه‌ای که ثبت شده قرار می‌گیرد و کلیپ‌های ویدیویی نیز در محل ضبط خود به نمایش درمی‌آیند. شما می‌توانید فعالیت‌های خود را از Strava انتخاب کنید یا فایل‌های FIT و GPX دستگاه‌های جارمین را وارد برنامه نمایید. این نرم‌افزار حتی سفرهای چندروزه همراه با روزهای استراحت را در قالب یک فیلم یکپارچه ادغام می‌کند. همچنین اگر زمان‌بندی ساعت دوربین شما اشتباه باشد، با یک‌بار تنظیم، تمام عکس‌ها به مکان صحیح خود منتقل می‌شوند. در نهایت، خروجی به صورت فایل MP۴ با ابعاد ۹:۱۶ یا ۱۶:۹ آماده می‌شود که تمام فرآیند مونتاژ و کدگذاری آن به صورت محلی روی گوشی آیفون، اندروید یا مک شما انجام می‌پذیرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام، من هربرت هستم. من سفرهای چندروزه با دوچرخه می‌روم و همیشه با انبوهی از فایل‌ها به خانه برمی‌گشتم: عکس روی گوشی، ویدیوهای دوربین ورزشی و پهپاد، و یک مسیر جارمین که هیچ‌کس حوصله اسکرول کردن روی آن را نداشت. اسلایدشوها روزهای مهم یعنی روزهای طولانی و خسته‌کننده‌ای که فرصت عکس گرفتن نداشتم را از دست می‌دادند. مسیر GPS تنها چیزی بود که تمام آن ساعات را ثبت می‌کرد، بنابراین How It Went فیلم را بر اساس خود مسیر می‌سازد. مسیر شما روی نقشه زاویه‌دار رسم می‌شود، عکس‌ها در محل ثبت نمایش داده می‌شوند و ویدیوها در مکان ضبط پخش می‌شوند. مسافت، افزایش ارتفاع و گردنه‌هایی که رد کرده‌اید هم به صورت زیرنویس اضافه می‌شوند. دو بخش از برنامه سخت‌تر از آن بود که به نظر می‌رسید: ۱. زمان‌بندی دوربین‌ها: اگر زمان دوربین اکشن تنظیم نشده باشد، ایستگاه ناهار شما را در دره‌ای اشتباه می‌گذارد. یک بار ساعت دوربین را تنظیم می‌کنید و همه تصاویر همراه هم منتقل می‌شوند. ۲. رندر روی دستگاه: فلاتر هر فریم را به‌صورت آف‌اسکرین رسم می‌کند و به انکودر بومی سیستم‌عامل (AVAssetWriter در اپل، MediaCodec در اندروید) می‌دهد. رندر روی گوشی یا مک انجام می‌شود نه سرور، بنابراین فیلم همان شب آماده است. کل فیلم روی آیفون، آي‌پد، مک و اندروید با فایل‌های شما و در تمامی ابعاد رایگان است. نسخه ۲.۰.۰ امروز با قابلیت‌های پرمیوم منتشر شد: ۵ پوسته نقشه جدید، چیدمان عکس‌محور، سبک موسیقی انتخابی و شروع فیلم با عکس یا ویدیوی دلخواه. امکان پرداخت یک‌باره یا سالانه وجود دارد و یک هفته تست رایگان دارد. این برنامه برای دوچرخه‌سواری ساخته شده، اما اگر اهل پیاده‌روی، اسکی یا قایق‌رانی هستید، مشتاقم خروجی فیلم شما را ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایده بسیار خوبی است. خروجی می‌تواند جذاب‌تر و برای به اشتراک‌گذاری در شبکه‌های اجتماعی مثل اینستاگرام و تیک‌تاک بهینه‌تر شود."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا حتماً به مسیر GPS نیاز دارم یا برنامه می‌تواند فیلم را صرفاً بر اساس موقعیت مکانی عکس‌های آیفون من بسازد؟"
+        }
+      ],
+      "aiReview": "محصول How It Went یک ابزار کاربردی و هوشمندانه برای حل مشکل نمایش خاطرات سفر و فعالیت‌های ورزشی است. مسئله اصلی این است که فایل‌های عکس، ویدیو و ترک‌های GPS پس از سفر بدون استفاده رها می‌شوند؛ این محصول با ترکیب انیمیشن مسیر و رسانه‌های کاربر، یک ویدیوی کوتاه شیک تولید می‌کند.\n\nاز نظر معماری، نقطه عطف این برنامه استفاده از رندر Client-Side (روی دستگاه کاربر) به کمک فلاتر و انکودرهای بومی سیستم‌عامل است که هزینه سرور پردازش ویدیو را به صفر می‌رساند. مدل درآمدی آن فری‌پریوم با امکان تست رایگان و خرید اشتراک سالانه یا دائمی است.\n\nنقاط قوت محصول شامل عدم نیاز به سرور سنگین، حل مشکل ناهماهنگی تایمر دوربین‌ها، پشتیبانی از فرمت‌های استانداردی مثل GPX و FIT، و خروجی مناسب شبکه‌های اجتماعی است. نقطه ضعف اصلی، وابستگی زیاد به فایل دقیق GPS و احتمال افت فریم در پردازش گوشی‌های ضعیف‌تر است.\n\nنکته طلایی برای بازار ایران: از آنجا که رندر ویدیو کاملاً روی گوشی کاربر انجام می‌شود، تحریم‌های سروری و کندی اینترنت خللی در کارکرد برنامه ایجاد نمی‌کند. بومی‌سازی نقشه‌ها با APIهای داخلی (مثل پارسی‌جو یا نشان) و افزودن فونت‌ها و موسیقی‌های محلی می‌تواند این محصول را به ابزاری محبوب برای طبیعت‌گردان و کوهنوردان ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "مسیرنما (Routify)",
+        "description": "این پلتفرم مسیرهای ورزشی و مسافرتی کاربران را بر اساس فایل‌های GPX یا عکس‌های دارای موقعیت مکانی به انیمیشن‌های ویدیویی جذاب تبدیل می‌کند. با ترسیم زنده مسیر روی نقشه سه‌بعدی و سنجاق کردن عکس‌ها و کلیپ‌ها در مکان دقیق ثبت، تداعی‌گر دقیق خاطرات سفر است. تمام مراحل پردازش و رندر ویدیو مستقیماً روی دستگاه کاربر انجام می‌شود تا نیازی به سرورهای گران‌قیمت پردازش ویدیو نباشد.",
+        "marketOpportunity": "با توجه به محبوبیت روزافزون طبیعت‌گردی، دوچرخه‌سواری و کوهنوردی در ایران، نیاز به ابزارهای خودکار برای تولید محتوای شبکه‌های اجتماعی بسیار ملموس است. قابلیت پردازش آفلاین روی گوشی، چالش سرعت پایین اینترنت و تحریم‌ها را در ایران کاملاً خنثی کرده و جذابیت محصول را بالا می‌برد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طبیعت‌گردان، کوهنوردان، دوچرخه‌سواران، سایکل‌توریست‌ها، رانندگان آفرود و بلاگرهای سفر",
+        "challenges": [
+          "محدودیت دسترسی به نقشه‌های باکیفیت و بدون تحریم مانند Mapbox در ایران",
+          "تنوع سخت‌افزاری گوشی‌های اندرویدی بازار ایران و چالش رندر سنگین ویدیویی روی گوشی‌های میان‌رده"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه یا سالانه برای دسترسی به قالب‌های اختصاصی، نقشه‌های سه‌بعدی پیشرفته و موزیک‌های بدون کپی‌رایت",
+          "ارائه پلن تجاری به تورهای گردشگری و باشگاه‌های ورزشی جهت درج لوگو و برندسازی روی ویدیوها"
+        ],
+        "techStack": [
+          "Flutter",
+          "Next.js",
+          "PostgreSQL",
+          "MediaCodec / AVAssetWriter"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-10",
@@ -82077,7 +82511,42 @@
           "user": "[REDACTED]",
           "text": "ok the \"failed payments CSV to finance every morning\" example is exactly the thing someone on our team still does by handif a run returns zero rows, does it still send an empty file or skip that day??? finance would probly read an empty csv as something broke"
         }
-      ]
+      ],
+      "faDescription": "اتوماسیون‌های بیس‌دش (Basedash) اکنون می‌توانند فایل‌های خروجی CSV را به صورت خودکار ارسال کنند. کافی است این دستور را در بخش دستورالعمل‌ها بنویسید؛ برای مثال: «دوشنبه هر هفته یک فایل CSV از ثبت‌نام‌های جدید هفته گذشته ارسال کن» تا در هر اجرا، فایل خروجی بر اساس داده‌های شما ساخته شود. در پیام‌رسان اسلک (Slack)، فایل CSV مستقیم در ترد پیام ضمیمه می‌شود و در ایمیل‌ها یا تاریخچه اجرای اتوماسیون نیز لینک دانلود CSV قرار می‌گیرد. دانلود فایل‌ها از طریق بستر بیس‌دش انجام می‌شود، بنابراین دریافت‌کنندگان برای باز کردن آن‌ها نیاز به داشتن دسترسی به اتوماسیون مربوطه دارند. فقط یک‌بار درخواست دهید و هر هفته فایل جدید CSV را تحویل بگیرید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی، مکس هستم از بیس‌دش. امروز ویژگی خروجی‌های زمان‌بندی‌شده CSV را معرفی می‌کنیم: فقط یک‌بار از اتوماسیون بیس‌دش خروجی CSV بخواهید تا در هر اجرا یک فایل تازه تحویل دهد. خیلی از گزارش‌های دوره‌ای در واقع همان خروجی‌های تکراری هستند؛ هر دوشنبه شخصی فایل را می‌خواهد، دانلود می‌کند و در اسلک می‌گذارد اما حالا اتوماسیون این کار را انجام می‌دهد. کافی است آن را در دستورالعمل‌ها بنویسید، مثل «هر دوشنبه یک CSV از ثبت‌نام‌های جدید هفته قبل بفرست» یا «هر روز صبح یک CSV از پرداخت‌های ناموفق دیروز را برای بخش مالی ایمیل کن»، و هر اجرا فایل را بر اساس داده‌های شما می‌سازد، درست همان‌طور که در چت انجام می‌دهد. در اسلک، فایل CSV به ترد پیام ضمیمه می‌شود. ایمیل‌ها و تاریخچه اجرای اتوماسیون شامل لینک دانلود CSV هستند. اگر یک اجرا فایل CSV را بسازد اما قبل از نوشتن خلاصه متوقف شود، فایل همچنان ارسال می‌شود. دانلودها از طریق بیس‌دش انجام می‌شوند، بنابراین دریافت‌کنندگان برای باز کردن آن‌ها نیاز به دسترسی به اتوماسیون دارند. خوشحال می‌شوم به هر سوالی پاسخ دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "عالیه، مثال «ارسال CSV پرداخت‌های ناموفق به بخش مالی در هر روز صبح» دقیقاً کاری است که یکی از اعضای تیم ما هنوز دستی انجام می‌دهد. اگر یک اجرا هیچ سطری برنگرداند، آیا باز هم فایل خالی می‌فرستد یا آن روز را رد می‌کند؟ بخش مالی احتمالاً فایل خالی را به عنوان خراب شدن سیستم تعبیر می‌کند."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nفرآیند خروجی گرفتن دستی داده‌ها از پایگاه داده و ارسال آن برای بخش‌های مختلف مانند مالی یا فروش، کاری تکراری و زمان‌بر است. این محصول با ترکیب پردازش زبان طبیعی و زمان‌بندی خودکار، امکان دریافت گزارش‌های CSV را در بسترهایی مثل اسلک و ایمیل فراهم کرده و کارهای تکراری را حذف می‌کند.\n\nمعماری و تکنولوژی:\nسیستم بر پایه موتور اتوماسیون و ابزارهای مدیریت صف (Queue Management) کار می‌کند. کوئری‌ها بر اساس زبان طبیعی به SQL تبدیل شده، داده‌ها استخراج و به CSV تبدیل می‌شوند. لینک‌های دانلود از طریق سیستم کنترل دسترسی (RBAC) بیس‌دش محافظت می‌شوند تا امنیت داده‌ها حفظ شود.\n\nمدل درآمدی:\nاین ویژگی به عنوان یک ارزش افزوده روی پلن‌های SaaS ابزار Basedash ارائه می‌شود که باعث ارتقای کاربران به پلن‌های پولی بالاتر برای استفاده از اتوماسیون‌های بیشتر می‌گردد.\n\nنقاط قوت:\n- سادگی فوق‌العاده در تنظیمات با استفاده از دستورات متنی ساده.\n- حفظ امنیت داده‌ها از طریق الزام دریافت‌کنندگان به داشتن دسترسی در بیس‌دش.\n- ارسال موفق فایل حتی در صورت بروز خطا در تولید خلاصه متنی.\n\nنقاط ضعف:\n- وابستگی به احراز هویت بیس‌دش که ممکن است اشتراک‌گذاری با افراد خارج از سازمان را دشوار کند.\n- ابهام در مدیریت حالات خاص، مانند زمانی که داده‌ای برای خروجی وجود ندارد (فایل خالی یا عدم ارسال).\n\nنکته طلایی برای ایران:\nارائه بومی این ابزار با پشتیبانی کامل از تاریخ شمسی، خروجی‌های متناسب با نرم‌افزارهای مالی ایرانی (فرمت XLSX به‌جای CSV ساده) و قابلیت ارسال به پیام‌رسان‌های بومی یا تلگرام می‌تواند توجه اکثر شرکت‌های ایرانی را جلب کند.",
+      "iranEquivalent": {
+        "productName": "داده‌رسان خودکار",
+        "description": "این پلتفرم به تیم‌های ایرانی اجازه می‌دهد گزارش‌های دوره‌ای داده‌ای خود را به صورت خودکار به پیام‌رسان‌های داخلی یا ایمیل ارسال کنند. کاربران با نوشتن دستورات ساده متنی به زبان فارسی، زمان‌بندی خروجی اکسل یا CSV را مشخص می‌سازند. این ابزار نیاز به خروجی گرفتن دستی و تکراری توسط تیم‌های فنی برای بخش مالی یا مدیریت را به کلی برطرف می‌کند.",
+        "marketOpportunity": "بسیاری از شرکت‌ها و استارتاپ‌های ایرانی روزانه وقت زیادی را صرف خروجی گرفتن دستی از دیتابیس برای گزارش‌دهی مالی و مدیریتی می‌کنند. ایجاد ابزاری که این گزارش‌گیری را با اتصال به دیتابیس‌های بومی و پیام‌رسان‌ها خودکار کند، بازار بسیار جذابی در میان تیم‌های فنی دارد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های فنی، مدیران محصول، بخش‌های مالی و تیم‌های پشتیبانی در استارتاپ‌ها و شرکت‌های متوسط",
+        "challenges": [
+          "مدیریت سطح دسترسی و امنیت داده‌های حساس کسب‌وکارها در فایل‌های ارسالی",
+          "پشتیبانی از فرمت‌های متداول در ایران مانند Excel با فونت‌ها و تاریخ شمسی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه بر اساس تعداد اتوماسیون‌های فعال",
+          "مدل قیمت‌گذاری بر اساس حجم داده پردازش‌شده و تعداد کاربران دارای دسترسی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Node.js",
+          "PostgreSQL",
+          "Redis",
+          "BullMQ"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-today-10",
@@ -82763,10 +83232,10 @@
   "audit": {
     "products": 834,
     "withRealComments": 834,
-    "withPersianComments": 757,
-    "withPersianDescription": 757,
-    "withAiReview": 735,
-    "withIranEquivalent": 757,
+    "withPersianComments": 767,
+    "withPersianDescription": 767,
+    "withAiReview": 745,
+    "withIranEquivalent": 767,
     "totalRealComments": 5126
   }
 }
