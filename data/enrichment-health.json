@@ -1,18 +1,22 @@
 {
-  "checkedAt": "2026-11-02T01:50:02.895Z",
-  "latestDataset": "2026-11-02.json",
+  "checkedAt": "2026-11-03T03:44:52.454Z",
+  "latestDataset": "2026-11-03.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 127,
-  "backlogAfter": 118,
-  "completedProducts": 726,
-  "missingFaDescription": 70,
-  "missingFaComments": 98,
-  "missingAiReview": 93,
-  "missingIranEquivalent": 71,
+  "succeeded": 8,
+  "failed": 2,
+  "backlogBefore": 130,
+  "backlogAfter": 122,
+  "completedProducts": 734,
+  "missingFaDescription": 74,
+  "missingFaComments": 102,
+  "missingAiReview": 97,
+  "missingIranEquivalent": 75,
   "failures": [
+    {
+      "slug": "framer-3-0-2",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
     {
       "slug": "n8n-chat-ui-3",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
