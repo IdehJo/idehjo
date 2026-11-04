@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:48:36.522Z",
+  "generatedAt": "2026-11-04T02:40:29.295Z",
   "sourceFiles": 86,
   "products": [
     {
@@ -1719,7 +1719,65 @@
           "user": "[REDACTED]",
           "text": "The agent/workflow angle in Framer AI Agents is interesting. One thing I’d love to understand is how you handle handoff when the automation is not confident — do users get a clear review step before changes go live?"
         }
-      ]
+      ],
+      "faDescription": "آژنت‌ها هوش مصنوعی را مستقیماً به بوم طراحی می‌آورند تا در طراحی، نوشتن، تحلیل و سازماندهی سایت‌های شما کمک کنند. ما همچنین «شاخه‌بندی» (Branching) را معرفی می‌کنیم، روشی جدید برای تیم‌ها جهت آزمایش ایده‌ها قبل از انتشار عمومی. در کنار اینها، جامعه جدید Framer رونمایی شد که به خالقان اجازه می‌دهد آثار خود را به اشتراک بگذارند و از آن‌ها درآمد کسب کنند. این راه‌اندازی‌ها به طور همزمان نحوه ایجاد، نگهداری و مقیاس‌پذیری وب‌سایت‌ها برای تیم‌ها را دگرگون می‌کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "همه سلام، امروز سه به‌روزرسانی بزرگ Framer را منتشر می‌کنیم. ۱. استفاده از آژنت‌ها روی بوم برای طراحی، نوشتن، تحلیل و سازماندهی سایت شما. شامل راه‌هایی برای اتصال هوش مصنوعی‌های شخصی شما مانند Claude Code یا Codex به Framer. ۲. شاخه‌بندی (Branching) به تیم شما راهی ایمن‌تر برای آزمایش ایده‌ها قبل از انتشار می‌دهد. ۳. جامعه جدید Framer به خالقان مکانی برای به اشتراک‌گذاری کارها و کسب درآمد از آن‌ها می‌دهد. آن‌ها را امتحان کنید و نظرتان را بگویید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "شاخه‌بندی بخشی است که بیشترین علاقه‌مندی من را جلب می‌کند. وقتی یک آژنت یک تغییر را در یک شاخه آزمایش می‌کند، آیا می‌توانید فقط بخشی از آن شاخه را به سایت اصلی ادغام کنید یا همه یا هیچ است؟ و آیا یک شاخه محتوای CMS و تعاملات را در حالی که در حال آزمایش هستید، سالم نگه می‌دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "واقعاً خوشحالم که آژنت‌ها می‌توانند به ابزارهای هوش مصنوعی خارجی مانند Claude Code متصل شوند به جای قفل شدن در یک دستیار جعبه سیاه. وقتی پیشنهاد یک آژنت با یک سیستم طراحی موجود یا محدودیت‌های کامپوننت در تضاد باشد، چگونه با آن برخورد می‌کنید — آیا تضاد را علامت‌گذاری می‌کنند یا آن را بازنویسی می‌کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "واقعاً از این مسیر خوشم می‌آید — انتشار مستقیم از طراحی تولیدشده با هوش مصنوعی شکافی را پر می‌کند که بسیاری از ابزارها آن را باز می‌گذارند. یک نکته‌ای هست که کنجکاوم بدانم: وقتی محتوای تولیدشده با هوش مصنوعی (طراحی یا ویدیو) عادی شود، آیا اصلاً به مسئله اصالت/منسوب‌سازی برای آنچه با هوش مصنوعی ساخته شده در مقابل آنچه توسط انسان ویرایش شده فکر می‌کنید؟ این چیزی است که ما از روز اول در بخش ویدیو مجبور به ساختن آن بودیم و تصور می‌کنم برای طراحی نیز اهمیت آن فزاینده خواهد بود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "استفاده آسان، قابل سفارشی‌سازی آسان. مشتریان عاشق آن هستند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "شاخه‌بندی برای فایل‌های طراحی قهرمان بی‌نام و نشان اینجا است، نمی‌دانستم تا حالا به آن نیاز دارم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "اتصال Claude Code / Codex بخشی است که می‌خواهم اول آن را تست کنم. یک سوال: وقتی یک آژنت یک سایت شبه‌زنده را تغییر می‌دهد، آیا شاخه‌بندی ویرایش‌های هوش مصنوعی را به عنوان یک دیف (diff) تمیز برای بررسی آسان نگه می‌دارد، یا بیشتر شبیه مقایسه بصری وضعیت صفحات است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "زاویه آژنت/فلو در Framer AI Agents جالب است. یک چیزی که دوست دارم بفهمم این است که چگونه هنگامی که اتوماسیون اطمینان ندارد، تحویل (handoff) را مدیریت می‌کنید — آیا کاربران یک مرحله بررسی واضح قبل از زنده شدن تغییرات دریافت می‌کنند؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی در بازار فعلی، پیچیدگی فرآیند طراحی تا انتشار و ریسک بالای تغییرات در محیط‌های زنده است. راه‌حل ارائه‌شده ترکیب هوش مصنوعی مولد برای تسریع تولید محتوا و طراحی با سیستم کنترل نسخه (Branching) برای کاهش ریسک است. از نظر معماری، این محصول نیازمند یک موتور رندر سبک‌وزن و سریع است که بتواند تغییرات هوش مصنوعی را به صورت بلادرنگ اعمال کند و در عین حال، لایه‌ای از مدیریت نسخه برای فایل‌های طراحی و کد ایجاد کند. مدل درآمدی ترکیبی از SaaS (اشتراک) و Marketplace (بازارچه) است که هم درآمد پایدار و هم شبکه‌ای اثر ایجاد می‌کند. نقاط قوت شامل کاهش زمان به بازار (Time-to-Market) و دموکراتیزه کردن طراحی حرفه‌ای است. نقاط ضعف شامل وابستگی به کیفیت مدل‌های هوش مصنوعی و پیچیدگی فنی در همگام‌سازی تغییرات هوش مصنوعی با سیستم‌های طراحی موجود است. نکته طلایی برای ایران: تمرکز بر «هوش مصنوعی فارسی‌زبان» برای تولید محتوا و طراحی رابط کاربری که با فرهنگ و زبان کاربران ایرانی همخوانی داشته باشد، می‌تواند مزیت رقابتی غیرقابل کپی‌شدنی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "فریم‌ایران (FramerIran)",
+        "description": "پلتفرمی یکپارچه برای طراحی و توسعه وب‌سایت‌های مدرن با تمرکز بر هوش مصنوعی بومی. این محصول امکان ایجاد شاخه‌های کاری برای تست امن ایده‌ها و مدیریت تیمی را فراهم می‌کند. همچنین یک بازار آنلاین برای خرید و فروش قالب‌ها و خدمات طراحی توسط خالقان ایرانی ایجاد می‌شود.",
+        "marketOpportunity": "بازار طراحی وب در ایران با رشد سریع استارتاپ‌ها و کسب‌وکارهای دیجیتال تشنه‌ی ابزارهای بومی و ارزان‌تر از رقبا است. وجود زیرساخت‌های هوش مصنوعی بومی و نیاز به شخصی‌سازی محتوا به زبان فارسی، فرصت بزرگی برای ورود است.",
+        "estimatedBudget": "۳.۵ میلیارد تومان",
+        "targetAudience": "استارتاپ‌ها، آژانس‌های دیجیتال مارکتینگ، فریلنسرها و کسب‌وکارهای کوچک و متوسط ایرانی",
+        "challenges": [
+          "محدودیت‌های دسترسی به مدل‌های هوش مصنوعی پیشرفته خارجی و نیاز به یکپارچه‌سازی با مدل‌های بومی",
+          "مقاومت در برابر تغییر از ابزارهای سنتی و نیاز به آموزش گسترده کاربران"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای دسترسی به آژنت‌های هوش مصنوعی و قابلیت شاخه‌بندی",
+          "کمیسیون از فروش قالب‌ها و خدمات طراحی در بازار آنلاین خالقان"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 72
+      }
     },
     {
       "id": "ph-month-1",
@@ -5165,9 +5223,9 @@
       }
     },
     {
-      "id": "ph-month-8",
+      "id": "ph-month-10",
       "date": "2026-10-06",
-      "rank": 8,
+      "rank": 10,
       "name": "Rill Browser",
       "slug": "rill-browser",
       "tagline": "The browser where Claude Code and Codex work beside you",
@@ -9881,6 +9939,68 @@
       "aiReview": "**مسئله و راه‌حل:**\nبا گسترش ابزارهای هوش مصنوعی، کاربران به‌طور هم‌زمان از پلتفرم‌های مختلفی مانند ChatGPT، Claude، Gemini و Grok استفاده می‌کنند. این امر باعث پراکندگی چت‌ها، سختی جستجو و عدم امکان مدیریت یکپارچه داده‌ها شده است. ابزار AI Toolbox ۳.۰ به‌عنوان یک «لایه مکمل» روی مرورگر نصب شده و با ارائه پوشه‌بندی پیشرفته، جستجوی متنی سراسری و هم‌زمان در تمامی پلتفرم‌ها، کتابخانه پرامپت سفارشی و قابلیت خروجی‌گیری دسته‌جمعی، مدیریت چت‌های هوش مصنوعی را یکپارچه و بهینه‌سازی می‌کند.\n\n**معماری و تکنولوژی:**\nاین محصول در قالب یک افزونه مرورگر (Chrome Extension) با معماری «محلی‌محور» (Local-First) توسعه یافته است. تمام تاریخچه‌ها و اطلاعات چت‌ها در حافظه داخلی مرورگر کاربر ذخیره می‌شوند و هیچ داده‌ای به سرورهای واسط ارسال نمی‌شود؛ این امر امنیت و حریم خصوصی فوق‌العاده‌ای ایجاد می‌کند. همچنین ابزارهایی نظیر سنجش زنده کانتکست (Context Meter) و فراخوانی سریع پرامپت‌ها با شورت‌کد `//` نشان‌دهنده طراحی فرانت‌اند قوی و بهینه‌سازی شده آن است.\n\n**مدل درآمدی:**\nمدل درآمدی احتمالاً فری‌میوم (Freemium) است؛ به این صورت که قابلیت‌های پایه‌ای به‌صورت رایگان ارائه شده و ابزارهای پیشرفته‌تر نظیر خروجی‌گیری انبوه (Bulk Export)، زنجیره‌سازی چندمرحله‌ای پرامپت‌ها و جستجوی پیشرفته متنی در قالب اشتراک ماهانه/سالانه یا لایسنس مادام‌العمر (Lifetime Deal) به فروش می‌رسند.\n\n**نقاط قوت:**\n- پوشش هم‌زمان چهار پلتفرم بزرگ هوش مصنوعی تنها با یک بار نصب.\n- حفظ کامل حریم خصوصی و امنیت داده‌ها با استراتژی Local-First.\n- ابزارهای ارزشمند افزایش بهره‌وری مانند کتابخانه پرامپت، زنجیره‌سازی و نشانه‌گذاری (Bookmarks).\n- قابلیت خروجی‌گیری انعطاف‌پذیر به فرمت‌های PDF ،Markdown و JSON.\n- اعتبار و اثبات بازار (تایید شده توسط بیش از ۴۰ هزار کاربر با امتیاز ۴.۵).\n\n**نقاط ضعف:**\n- وابستگی شدید به تغییرات فرانت‌اند و ساختار HTML/DOM پلتفرم‌های پایه (تغییر در ChatGPT یا Claude می‌تواند عملکرد افزونه را موقتاً مختل کند).\n- محدود بودن به مرورگرهای دسکتاپ و عدم پشتیبانی مستقیم در اپلیکیشن‌های موبایل.\n\n**نکته طلایی برای ایران:**\nکسب‌وکارهای ایرانی و فریلنسرها به‌دلیل چالش‌های دسترسی و ریسک مسدودی حساب‌ها در پلتفرم‌های خارجی، نیاز مبرمی به پشتیبان‌گیری (Backup) دائمی از داده‌های خود دارند. ساخت یک نمونه بومی با قابلیت ذخیره‌سازی ابری امن یا افزونه‌ای مشابه که از مدل‌های هوش مصنوعی بومی/واسط‌های ایرانی نیز پشتیبانی کند، می‌تواند بازار بسیار جذاب و بکری در کشور داشته باشد."
     },
     {
+      "id": "ph-yesterday-1",
+      "date": "2026-11-02",
+      "rank": 1,
+      "name": "beacon.sh",
+      "slug": "beacon-sh",
+      "tagline": "Open-source self-improving memory for AI coding agents",
+      "description": "Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh",
+      "category": "Open Source • Developer Tools • GitHub • SDK",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • SDK",
+      "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format",
+        "https://ph-files.imgix.net/8f036004-a4ac-4bf3-ad8f-a8661b51bbad.png?auto=format",
+        "https://ph-files.imgix.net/1ae02b7d-4223-4892-84db-4f8e2f0dac4a.png?auto=format",
+        "https://ph-files.imgix.net/b6ea6359-bb7c-4a94-8190-d441cc00fd47.png?auto=format",
+        "https://ph-files.imgix.net/466d2276-30bf-49b1-8ed0-818bdb7b9023.png?auto=format",
+        "https://ph-files.imgix.net/c9b23488-0271-430c-8b4e-64d8a39d0eff.png?auto=format",
+        "https://ph-files.imgix.net/65f19ad3-bb19-4059-aa6d-3be6411e3581.jpeg?auto=format",
+        "https://ph-files.imgix.net/850d6fba-9bed-44ba-8395-1c86d6103707.jpeg?auto=format"
+      ],
+      "maker": "Justin D'Souza",
+      "makerTitle": "Co-founder & CEO at Asymptote Labs",
+      "featuredAt": "2026-11-02T08:01:00Z",
+      "votes": 437,
+      "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "One of my favorite things about Beacon is that it makes your coding agents smarter the more you use them.For everyone in the Product Hunt community building and shipping with Claude Code, Cursor, Codex, or other coding agents, you've probably experienced how frustrating it is to solve the same problem multiple times across different sessions and tools!Beacon learns from your past sessions, turns useful discoveries into reusable memories and skills, and makes them portable across all your coding agents.I personally switch between multiple agents every day, and seeing them build on each other's work has been a game changer.We're building Beacon in the open, it's completely free to get started, and I'd love to hear what you think!See the public repo: github.com/asymptote-labs/agent-beacon"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the idea of carrying lessons across coding agents. How does Beacon handle it when two agents learn conflicting things about the same codebase?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The portability is the bit I keep thinking about. Most sessions end with one useful lesson that's tied to a specific harness — a Claude Code quirk, a Cursor setting — and another that's true for the whole codebase. When a memory like that gets carried into a different agent, does Beacon tag or filter it by where it came from, or does everything travel as-is? I'd worry a harness-specific trick could read as a general rule in the wrong context."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is sick for trying to optimize my Claude and oai subs!!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch @justindsouza !What happens when two branches need different fixes for the same issue? Does Beacon track which advice applies to each branch? Or could an agent end up using a fix that only works on main?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Justin. Saw the launch on X. How does Beacon decide which learnings are worth turning into reusable skills and how does it discard outdated or conflicting learnings?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Ours is one `CLAUDE.md` in the repo and `AGENTS.md` just points to it, so every agent reads the same file and a change goes through a commit like any other code. When I approve a memory in Beacon, can it land as a file in the repo so a teammate sees it in the PR?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is like AI agents having Apple Continuity. Very cool. Que: how do you handle the artifacts across agents?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-5",
       "date": "2026-08-09",
       "rank": 5,
@@ -9995,68 +10115,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "سلام، فقط یک نکته سریع: این محصول بیشتر برای کمک به شرکت شماست. محصول ادعاهای بسیار بزرگی دارد («سیستم عامل عامل»، «عوامل متخصص»، «بیش از ۱۰,۰۰۰ تیم»)، اما اجرای وب‌سایت با این ادعاها همخوانی ندارد. عناصر ساختاری پایه‌ای مانند لینک‌های «تماس» و «درباره ما» در فوتر پیاده‌سازی نشده‌اند و فقط به بالای صفحه پرش می‌کنند. این یک شکاف اعتباری بین مقیاس بیان‌شده محصول و بلوغ واقعی پلتفرم ایجاد می‌کند. توصیه: اطمینان حاصل کنید که ناوبری اصلی و صفحات شرکت کارآمد هستند، قبل از ارائه موقعیت‌یابی سطح سیستم عامل."
-        }
-      ]
-    },
-    {
-      "id": "ph-yesterday-1",
-      "date": "2026-11-02",
-      "rank": 1,
-      "name": "beacon.sh",
-      "slug": "beacon-sh",
-      "tagline": "Open-source self-improving memory for AI coding agents",
-      "description": "Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh",
-      "category": "Open Source • Developer Tools • GitHub • SDK",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب • SDK",
-      "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format",
-        "https://ph-files.imgix.net/8f036004-a4ac-4bf3-ad8f-a8661b51bbad.png?auto=format",
-        "https://ph-files.imgix.net/1ae02b7d-4223-4892-84db-4f8e2f0dac4a.png?auto=format",
-        "https://ph-files.imgix.net/b6ea6359-bb7c-4a94-8190-d441cc00fd47.png?auto=format",
-        "https://ph-files.imgix.net/466d2276-30bf-49b1-8ed0-818bdb7b9023.png?auto=format",
-        "https://ph-files.imgix.net/c9b23488-0271-430c-8b4e-64d8a39d0eff.png?auto=format",
-        "https://ph-files.imgix.net/65f19ad3-bb19-4059-aa6d-3be6411e3581.jpeg?auto=format",
-        "https://ph-files.imgix.net/850d6fba-9bed-44ba-8395-1c86d6103707.jpeg?auto=format"
-      ],
-      "maker": "Justin D'Souza",
-      "makerTitle": "Co-founder & CEO at Asymptote Labs",
-      "featuredAt": "2026-11-02T08:01:00Z",
-      "votes": 435,
-      "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "One of my favorite things about Beacon is that it makes your coding agents smarter the more you use them.For everyone in the Product Hunt community building and shipping with Claude Code, Cursor, Codex, or other coding agents, you've probably experienced how frustrating it is to solve the same problem multiple times across different sessions and tools!Beacon learns from your past sessions, turns useful discoveries into reusable memories and skills, and makes them portable across all your coding agents.I personally switch between multiple agents every day, and seeing them build on each other's work has been a game changer.We're building Beacon in the open, it's completely free to get started, and I'd love to hear what you think!See the public repo: github.com/asymptote-labs/agent-beacon"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the idea of carrying lessons across coding agents. How does Beacon handle it when two agents learn conflicting things about the same codebase?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The portability is the bit I keep thinking about. Most sessions end with one useful lesson that's tied to a specific harness — a Claude Code quirk, a Cursor setting — and another that's true for the whole codebase. When a memory like that gets carried into a different agent, does Beacon tag or filter it by where it came from, or does everything travel as-is? I'd worry a harness-specific trick could read as a general rule in the wrong context."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is sick for trying to optimize my Claude and oai subs!!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch @justindsouza !What happens when two branches need different fixes for the same issue? Does Beacon track which advice applies to each branch? Or could an agent end up using a fix that only works on main?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Justin. Saw the launch on X. How does Beacon decide which learnings are worth turning into reusable skills and how does it discard outdated or conflicting learnings?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Ours is one `CLAUDE.md` in the repo and `AGENTS.md` just points to it, so every agent reads the same file and a change goes through a commit like any other code. When I approve a memory in Beacon, can it land as a file in the repo so a teammate sees it in the PR?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is like AI agents having Apple Continuity. Very cool. Que: how do you handle the artifacts across agents?"
         }
       ]
     },
@@ -17443,6 +17501,68 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-03",
+      "rank": 1,
+      "name": "AgentKit by Scalekit",
+      "slug": "agentkit-by-scalekit",
+      "tagline": "MCP gateway for production agents that acts on your behalf",
+      "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
+      "category": "API • Developer Tools",
+      "categoryFa": "API • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format",
+        "https://ph-files.imgix.net/da2436be-53f8-47bf-a3c7-050f4d5997ae.png?auto=format",
+        "https://ph-files.imgix.net/8c1904ec-d17c-47d9-984c-dc6736295630.png?auto=format",
+        "https://ph-files.imgix.net/ab38075e-e0a2-4eac-95f1-c35763bcc8ea.png?auto=format",
+        "https://ph-files.imgix.net/c37a2ca5-a700-4085-ade6-36554fb488a8.png?auto=format",
+        "https://ph-files.imgix.net/59cd6b29-cf82-4b3d-8a59-887a7330c931.png?auto=format",
+        "https://ph-files.imgix.net/809c26af-a96c-443d-b1ae-4e798d99f4b7.png?auto=format",
+        "https://ph-files.imgix.net/851127f8-1a17-42d4-a618-0cc25dd3638f.jpeg?auto=format"
+      ],
+      "maker": "Shrimithran",
+      "makerTitle": "Building Scalekit",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 357,
+      "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt,I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.Why now? Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.But the tool call is only the surface. Once an agent ships to real users, everything underneath it shows up:whose credentials each call executes withwhich tools each agent should have in contextthe internal systems no catalog coverswhat happens when an upstream API pushes backwho's accountable for every actionThat layer decides whether an agent makes it to production. It's what we built AgentKit for.Try it free: scalekit.com. The free tier includes 10,000 tool calls a month and all 600+ connectors. Make your first tool call from the dashboard, or start from your terminal with npx @ scalekit-inc/cli setup.Here's what it looks like in practice.Say you're shipping a sales agent inside your product. A rep types: \"Prep me for the Acme renewal. Pull the deal, the last three email threads, what the team said in Slack, when we last met them, and how much they've used the product this quarter.\"Four apps, one ask. Getting it working for one rep in a demo is easy. Here's what's underneath when it runs for every rep at every customer:Thousands of OAuth grants, not four. 40 customers × 30 reps × Salesforce, Gmail, Slack and Calendar = 4,800 connected accounts. Each needs its tokens stored, isolated per customer, and refreshed before they expire mid-run. → AgentKit manages connected accounts end to end. Users authorize through an auth link you surface in your app. Tokens live in a per-tenant AES-256 vault, refresh automatically, and are injected at execution time. They never touch your code, logs, or prompts.Every call has to execute as the right user. The agent should see what that rep can see at that customer, and nothing more. Not a shared service account with org-wide access to every inbox. → Every tool call executes with the end user's own credentials, within the scopes they granted.Every tool definition costs context. Gmail alone exposes ~30 tools; four apps put over a hundred on the table. At ~200 tokens per definition, 40 tools burn ~8,000 tokens before the agent does any work, and tool selection gets worse as the list grows. Your prep agent needs about ten tools. Your outbound agent needs a different ten. → Virtual MCP Servers let you compose a tool set per agent role, across connectors. Each role gets one static MCP URL; you mint a short-lived session token per user per run. Smaller context and least-privilege access: ten tool definitions (~2,000 tokens) instead of over a hundred (20,000+).The data you need has no connector. Usage lives in your customer's internal analytics service. No catalog covers it, so you'd build that integration yourself, auth included. → Define it as a custom connector (OAuth 2.0, API key, bearer token, RSA or basic auth), or point AgentKit at a remote MCP server. It runs on the same gateway with the same credential handling and logs as the 600+ built-in connectors.It has to hold up and be auditable. Rate limits, timeouts, upstream errors the model can't act on. Then a deal stage changes and someone asks whether the rep did it or the agent did. → Retries and rate limits are handled on every call. Every call is logged with agent, user, tool and response, and logs stream to Datadog or Splunk.None of this shows up in a demo. All of it shows up in production. AgentKit handles that layer: 30,000+ tools across 600+ apps behind one MCP gateway. And with Triggers, an agent can start on its own the moment an email lands.Python and Node SDKs. Works with the Anthropic and OpenAI SDKs, LangChain, Google ADK, Vercel AI SDK, Mastra, and Claude Code. You keep your framework and backend.Which of these five has slowed your agent down the most?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch @ravibits @satya_deva549. How is this different from connecting an MCP server directly to my agent?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great product from Satya and Ravi. I've seen the story from the beginning, and this one just ups the game from what I know they've already been building."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Ravi and Satya!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats folks on the launch. This is really exciting, are you planning to support browser agents too in the future?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Very cool, how does authentication work? Ill try it out."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The per-tenant token vault plus Virtual MCP Servers per role is a sensible split. One thing I'm curious about: when a user revokes a grant in Salesforce directly, how fast does AgentKit notice, and what does the agent see on its next call, a clean auth error or a silent failure?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is pretty cool - congratulations on the launch @satya_deva549 @ravibits @shrimithranr!"
+        }
+      ]
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-09-23",
       "rank": 8,
@@ -18222,9 +18342,9 @@
       }
     },
     {
-      "id": "ph-week-5",
+      "id": "ph-week-6",
       "date": "2026-10-30",
-      "rank": 5,
+      "rank": 6,
       "name": "Knocket AI",
       "slug": "knocket-ai",
       "tagline": "Chat with visitors from your website or link",
@@ -19159,68 +19279,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-11-03",
-      "rank": 1,
-      "name": "AgentKit by Scalekit",
-      "slug": "agentkit-by-scalekit",
-      "tagline": "MCP gateway for production agents that acts on your behalf",
-      "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
-      "category": "API • Developer Tools",
-      "categoryFa": "API • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format",
-        "https://ph-files.imgix.net/da2436be-53f8-47bf-a3c7-050f4d5997ae.png?auto=format",
-        "https://ph-files.imgix.net/8c1904ec-d17c-47d9-984c-dc6736295630.png?auto=format",
-        "https://ph-files.imgix.net/ab38075e-e0a2-4eac-95f1-c35763bcc8ea.png?auto=format",
-        "https://ph-files.imgix.net/c37a2ca5-a700-4085-ade6-36554fb488a8.png?auto=format",
-        "https://ph-files.imgix.net/59cd6b29-cf82-4b3d-8a59-887a7330c931.png?auto=format",
-        "https://ph-files.imgix.net/809c26af-a96c-443d-b1ae-4e798d99f4b7.png?auto=format",
-        "https://ph-files.imgix.net/851127f8-1a17-42d4-a618-0cc25dd3638f.jpeg?auto=format"
-      ],
-      "maker": "Shrimithran",
-      "makerTitle": "Building Scalekit",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 339,
-      "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt,I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.Why now? Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.But the tool call is only the surface. Once an agent ships to real users, everything underneath it shows up:whose credentials each call executes withwhich tools each agent should have in contextthe internal systems no catalog coverswhat happens when an upstream API pushes backwho's accountable for every actionThat layer decides whether an agent makes it to production. It's what we built AgentKit for.Try it free: scalekit.com. The free tier includes 10,000 tool calls a month and all 600+ connectors. Make your first tool call from the dashboard, or start from your terminal with npx @ scalekit-inc/cli setup.Here's what it looks like in practice.Say you're shipping a sales agent inside your product. A rep types: \"Prep me for the Acme renewal. Pull the deal, the last three email threads, what the team said in Slack, when we last met them, and how much they've used the product this quarter.\"Four apps, one ask. Getting it working for one rep in a demo is easy. Here's what's underneath when it runs for every rep at every customer:Thousands of OAuth grants, not four. 40 customers × 30 reps × Salesforce, Gmail, Slack and Calendar = 4,800 connected accounts. Each needs its tokens stored, isolated per customer, and refreshed before they expire mid-run. → AgentKit manages connected accounts end to end. Users authorize through an auth link you surface in your app. Tokens live in a per-tenant AES-256 vault, refresh automatically, and are injected at execution time. They never touch your code, logs, or prompts.Every call has to execute as the right user. The agent should see what that rep can see at that customer, and nothing more. Not a shared service account with org-wide access to every inbox. → Every tool call executes with the end user's own credentials, within the scopes they granted.Every tool definition costs context. Gmail alone exposes ~30 tools; four apps put over a hundred on the table. At ~200 tokens per definition, 40 tools burn ~8,000 tokens before the agent does any work, and tool selection gets worse as the list grows. Your prep agent needs about ten tools. Your outbound agent needs a different ten. → Virtual MCP Servers let you compose a tool set per agent role, across connectors. Each role gets one static MCP URL; you mint a short-lived session token per user per run. Smaller context and least-privilege access: ten tool definitions (~2,000 tokens) instead of over a hundred (20,000+).The data you need has no connector. Usage lives in your customer's internal analytics service. No catalog covers it, so you'd build that integration yourself, auth included. → Define it as a custom connector (OAuth 2.0, API key, bearer token, RSA or basic auth), or point AgentKit at a remote MCP server. It runs on the same gateway with the same credential handling and logs as the 600+ built-in connectors.It has to hold up and be auditable. Rate limits, timeouts, upstream errors the model can't act on. Then a deal stage changes and someone asks whether the rep did it or the agent did. → Retries and rate limits are handled on every call. Every call is logged with agent, user, tool and response, and logs stream to Datadog or Splunk.None of this shows up in a demo. All of it shows up in production. AgentKit handles that layer: 30,000+ tools across 600+ apps behind one MCP gateway. And with Triggers, an agent can start on its own the moment an email lands.Python and Node SDKs. Works with the Anthropic and OpenAI SDKs, LangChain, Google ADK, Vercel AI SDK, Mastra, and Claude Code. You keep your framework and backend.Which of these five has slowed your agent down the most?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great product from Satya and Ravi. I've seen the story from the beginning, and this one just ups the game from what I know they've already been building."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch Ravi and Satya!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats folks on the launch. This is really exciting, are you planning to support browser agents too in the future?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Very cool, how does authentication work? Ill try it out."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The per-tenant token vault plus Virtual MCP Servers per role is a sensible split. One thing I'm curious about: when a user revokes a grant in Salesforce directly, how fast does AgentKit notice, and what does the agent see on its next call, a clean auth error or a silent failure?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is pretty cool - congratulations on the launch @satya_deva549 @ravibits @shrimithranr!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is great idea, and very necessary for any AI-native SaaS app. Maintaining integrations is challenging. Keeping it all secure is more than a full-time job."
-        }
-      ]
     },
     {
       "id": "ph-week-7",
@@ -22702,7 +22760,66 @@
           "user": "[REDACTED]",
           "text": "I think about this a lot from the agent side. When your real-agent checks hit the Payments category, how do you test a signup or checkout without creating real accounts or charges? And with the MCP server, can an agent re-run just the failing checks after a fix, or does it re-run all 125?"
         }
-      ]
+      ],
+      "faDescription": "دِدیکا (Dedica) وب‌سایت شما را دقیقاً به همان روشی که ایجنت‌های هوش مصنوعی از آن استفاده می‌کنند تست کرده و راهکارهای مشخصی برای رفع خطاهای موجود به تیم توسعه ارائه می‌دهد. امروزه ایجنت‌هایی مانند Muse، Instinct و GrokBot به نیابت از کاربران در وب جستجو کرده، محصولات را مقایسه نموده و اقدام به ثبت‌نام می‌کنند. این ابزار با اجرای ۱۲۵ تست رایگان، میزان دسترسی‌پذیری وب‌سایت شما را برای ایجنت‌ها بررسی می‌کند. در نهایت، راهنمای دقیق رفع هر مشکل در اختیارتان قرار می‌گیرد تا آن را مستقیماً به ایجنت کدنویسی خود بسپارید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! من ددیکا را پس از مشاهده تلاش یک ایجنت برای ثبت‌نام تیم در یک ابزار SaaS ساختم. ایجنت صفحه قیمت‌گذاری را پیدا کرد، اما به دلیل بارگذاری طرح‌ها با جاوااسکریپت با صفحه‌ای خالی مواجه شد، سپس در مرحله ثبت‌نام به تست ضد ربات برخورد کرد و کلاً انصراف داد. ایجنت هیچ خطایی هم به کاربر گزارش نداد و فقط گفت «نتوانستم آن کار را انجام دهم». کاری که ددیکا انجام می‌دهد: ۱۲۵ بررسی را در بخش‌های کشف، دسترسی، کاربردپذیری و پرداخت بر اساس رفتار ایجنت‌هایی مانند Muse یا GrokBot انجام می‌دهد. امتیازی از ۱۰۰ به همراه موثرترین راهکارهای بهبود، به صورت رایگان و زیر یک دقیقه بدون نیاز به ثبت‌نام ارائه می‌دهد. با قیمت ۳۰ دلار (تخفیف رونمایی، قیمت اصلی ۵۰ دلار)، یک کیت اصلاحی شامل فایل دستورالعمل برای هر مشکل دریافت می‌کنید که آماده درج در Claude Code، Cursor یا Copilot است. همچنین API عمومی و MCP Server نیز ارائه شده تا ایجنت شما خودش سایت‌ها را بررسی کند. امروز دامنه خود را در کامنت‌ها بگذارید تا امتیاز و بزرگ‌ترین چالش سایت‌تان را ریپلای کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تحلیل بسیار عالی از تفاوت‌های رفتاری ایجنت‌ها و انسان‌ها. یک نکته: ایجنت‌ها الگوهای تعاملی خاص خود را دارند؛ مثلاً برخی در صورت دریافت خطای ۴۲۹ دوباره تلاش می‌کنند و برخی بلافاصله انصراف می‌دهند. تست بر اساس منطق تلاش مجدد اختصاصی هر ایجنت می‌تواند مسائل اعتمادسازی را که چک‌های استاتیک ندیده می‌گیرند آشکار کند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای رونمایی! همین الان آن را روی وب‌سایت خودمان اجرا کردم و مشکلی در تنظیمات OAuth پیدا کردم که حتماً رفعش می‌کنم. البته گزارش داد که مستندات و API را پیدا نکرده، در حالی که از منوی اصلی و فوتر لینک شده‌اند. آیا فقط فایل llms.txt را بررسی می‌کند یا لینک‌های صفحه اصلی را هم دنبال می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "روی سایتم اجرا کردم و امتیاز ۵۰ گرفتم. چیزی که غافلگیرم کرد این بود که گفت سرور MCP و مشخصات OpenAPI ندارم، در حالی که هر دو را دارم! فقط روی ساب‌دومین اپلیکیشن هستند و در دامنه اصلی لینکی به آن‌ها نیست که الان دارم درستش می‌کنم. آیا ددیکا فقط مسیر well-known/. در دامنه اصلی را نگاه می‌کند یا وجود لینک در llms.txt هم کافی است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "کنجکاوم بدانم آیا این ابزار فناوری‌های جلوگیری از ربات (مثل Cloudflare یا CAPTCHA) را هم شناسایی می‌کند؟ و اگر بله، آیا راهکارهای دقیق‌تری وجود دارد که هم از سایت در برابر ربات‌ها محافظت کند و هم استفاده از آن را برای ایجنت‌ها آسان‌تر سازد؟ (با فرض اینکه پاسخ فقط حذف کامل سیستم‌های ضدربات نباشد.)"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ما سال‌ها وب‌سایت‌ها را برای انسان‌هایی که حوصله خواندن ندارند بهینه‌سازی کردیم؛ حالا باید آن‌ها را برای ایجنت‌هایی بهینه‌سازی کنیم که همه‌چیز را می‌خوانند. آیا ددیکا می‌تواند کل جریان ثبت‌نام، شامل فرم‌های پویا را تست کند یا عمدتاً صفحات فردی را ممیزی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "با توجه به حجم بالایی از محصولاتی که به صورت مداوم تولید و عرضه می‌کنیم، وجود چنین ابزاری واقعاً ضروری و مورد نیاز است!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من از دیدگاه ایجنت‌ها زیاد به این موضوع فکر می‌کنم. وقتی بررسی‌های ایجنت واقعی به بخش پرداخت می‌رسد، چگونه فرایند ثبت‌نام یا پرداخت را بدون ایجاد حساب واقعی یا کسر وجه تست می‌کنید؟ و با وجود سرور MCP، آیا ایجنت می‌تواند فقط تست‌های ناموفق را دوباره اجرا کند یا کل ۱۲۵ تست از اول تکرار می‌شوند؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: امروزه ایجنت‌های هوش مصنوعی به جای انسان‌ها وب‌گردی و خرید می‌کنند، اما اکثر وب‌سایت‌ها به دلیل رفتارهای دینامیک، کپچا یا عدم ساختاریافتگی داده‌ها برای ایجنت‌ها غیرقابل استفاده هستند. ددیکا با ۱۲۵ تست رایگان موانع را شناسایی کرده و فایل‌های راهنمای کدنویسی برای حل آن‌ها ارائه می‌دهد.\n\nمعماری و تکنولوژی: استفاده از مرورگرهای بدون سر (Headless Browsers) برای شبیه‌سازی رفتار ایجنت‌ها، موتور تحلیل کدهای فرانت‌اند و ارائه API و MCP Server جهت یکپارچه‌سازی مستقیم با دستیارهای کدنویسی هوش مصنوعی مانند Cursor و Claude Code.\n\nمدل درآمدی: فری‌میوم (اسکن و امتیازدهی اولیه رایگان) به همراه فروش کیت‌های اختصاصی رفع خطا به قیمت ۳۰ تا ۵۰ دلار برای هر دامنه.\n\nنقاط قوت: ورود هوشمندانه به ترند نوظهور وب ایجنتی (Agentic Web)، ارائه راهکارهای عملی دقیق به‌جای گزارش‌های انتزاعی و یکپارچگی عالی با MCP Server.\n\nنقاط ضعف: چالش در ارزیابی فرم‌های پیچیده چندمرحله‌ای یا مراحل پرداخت واقعی بدون ایجاد تراکنش، و برخی خطاها در شناسایی ساختار ساب‌دومین‌ها.\n\nنکته طلایی برای ایران: با توجه به نقش پررنگ موتورهای جستجو و پلتفرم‌های مقایسه قیمت (مانند ترب و ایمالز)، راه‌اندازی ابزاری مشابه برای سنجش آمادگی فروشگاه‌های ایرانی جهت تعامل با ایجنت‌های خریدار می‌تواند موج جدیدی از خدمات «سئوی هوش مصنوعی» (GEO) را در ایران خلق کند.",
+      "iranEquivalent": {
+        "productName": "ایجنتی‌فای (Agentify) / عامل‌سنج",
+        "description": "پلتفرم بومی ارزیابی و بهینه‌سازی وب‌سایت‌ها برای تعامل با ایجنت‌های هوش مصنوعی و ربات‌های خریدار. این سیستم با انجام تست‌های تخصصی، میزان دسترسی‌پذیری و آمادگی کسب‌وکارهای آنلاین برای ایجنت‌ها را می‌سنجد. همچنین فایل‌های راهنمای دقیق فنی برای رفع موانع موجود به تیم توسعه ارائه می‌دهد.",
+        "marketOpportunity": "با توسعه ایجنت‌های خرید و پلتفرم‌های هوشمند مقایسه قیمت در ایران، فروشگاه‌ها و پلتفرم‌های آنلاین برای حفظ مشتریان نیازمند سازگاری با ایجنت‌ها هستند. ارائه ابزار بهینه‌سازی وب برای هوش مصنوعی (GEO/Agent Optimization) یک فرصت بکر در بازار نرم‌افزاری ایران است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان وب، صاحبان فروشگاه‌های اینترنتی، شرکت‌های SaaS، متخصصان سئو و آژانس‌های دیجیتال مارکتینگ",
+        "challenges": [
+          "موانع ناشی از سیستم‌های ضدربات و کپچاهای رایج در وب‌سایت‌های ایرانی",
+          "عدم وجود استانداردهای یکپارچه بین‌المللی برای نحوه تعامل ایجنت‌های هوش مصنوعی با وب"
+        ],
+        "monetization": [
+          "فروش کیت‌های رفع خطا به ازای هر دامنه (Pay-per-scan)",
+          "اشتراک ماهیانه پایش مداوم وب‌سایت و ارائه API دسترسی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python",
+          "Playwright",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -27834,6 +27951,70 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-11-03",
+      "rank": 2,
+      "name": "Teamily AI",
+      "slug": "teamily-ai",
+      "tagline": "Your personal agent, agent teams & people in one messenger",
+      "description": "The human-agent platform where people and always-on agents get work done together in one unified, context-aware space. Unlike single-user personal agents, Teamily AI enables multi-user, multi-agent teamwork. Built on an AI-native messenger, it connects people, agents, docs, meetings, calls, workflows, and business systems to automate office work and customer service. Agents become real teammates with persistent memory, proactive intelligence, and continuous self-improvement. Free to get started.",
+      "category": "Productivity • Artificial Intelligence • Social Networking",
+      "categoryFa": "بهره‌وری • هوش مصنوعی • Social Networking",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/fd5b66ca-66f1-473b-be98-91d0ad7fce9c.jpeg?auto=format",
+        "https://ph-files.imgix.net/40c90f4e-b4e2-4a13-838f-0a7a8d7e1e49.png?auto=format",
+        "https://ph-files.imgix.net/abc1b00c-67a5-4eff-8c20-9e723d28179c.png?auto=format",
+        "https://ph-files.imgix.net/4c2c9c15-316e-4612-82f2-e384ad422413.png?auto=format",
+        "https://ph-files.imgix.net/827334b9-f9b3-4031-a8e7-4b6a50db4ceb.png?auto=format",
+        "https://ph-files.imgix.net/ecb316b3-229c-497d-b5db-f46b01e4fe43.png?auto=format",
+        "https://ph-files.imgix.net/bbcf9961-5fe4-474b-bb2d-fe0eda31346d.png?auto=format",
+        "https://ph-files.imgix.net/86d9e08c-828f-455a-a867-828f5be772e6.png?auto=format",
+        "https://ph-files.imgix.net/51015ead-1242-44b7-8570-21eb787ed728.png?auto=format",
+        "https://ph-files.imgix.net/5ac4ddc6-e7cf-4494-b2b1-bd09efc89073.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 284,
+      "websiteUrl": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "It is hard to review AI work when everyone is looking at a different version."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "good ideas in group chat usually stop there. curious how well it turns them into something usable"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "what happens if two people @ mention different agents on the same message?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting. I would start with a group that already has a lot of shared docs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The concept of bringing humans and multiple AI agents together into a shared workspace is truly compelling. I particularly like the idea of ​​using a shared memory across various conversations. This could solve one of the major challenges in working with AI the need to repeatedly explain the context."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "two agents finish the same chat. does each one post its own message?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the idea of seeing the work happen where the request started 👍"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How much memory carries from one group to another? Congrats @aidenchaoyanghe"
+        }
+      ]
+    },
+    {
       "id": "ph-week-10",
       "date": "2026-10-23",
       "rank": 10,
@@ -30932,70 +31113,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-03",
-      "rank": 2,
-      "name": "Teamily AI",
-      "slug": "teamily-ai",
-      "tagline": "Your personal agent, agent teams & people in one messenger",
-      "description": "The human-agent platform where people and always-on agents get work done together in one unified, context-aware space. Unlike single-user personal agents, Teamily AI enables multi-user, multi-agent teamwork. Built on an AI-native messenger, it connects people, agents, docs, meetings, calls, workflows, and business systems to automate office work and customer service. Agents become real teammates with persistent memory, proactive intelligence, and continuous self-improvement. Free to get started.",
-      "category": "Productivity • Artificial Intelligence • Social Networking",
-      "categoryFa": "بهره‌وری • هوش مصنوعی • Social Networking",
-      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/fd5b66ca-66f1-473b-be98-91d0ad7fce9c.jpeg?auto=format",
-        "https://ph-files.imgix.net/40c90f4e-b4e2-4a13-838f-0a7a8d7e1e49.png?auto=format",
-        "https://ph-files.imgix.net/abc1b00c-67a5-4eff-8c20-9e723d28179c.png?auto=format",
-        "https://ph-files.imgix.net/4c2c9c15-316e-4612-82f2-e384ad422413.png?auto=format",
-        "https://ph-files.imgix.net/827334b9-f9b3-4031-a8e7-4b6a50db4ceb.png?auto=format",
-        "https://ph-files.imgix.net/ecb316b3-229c-497d-b5db-f46b01e4fe43.png?auto=format",
-        "https://ph-files.imgix.net/bbcf9961-5fe4-474b-bb2d-fe0eda31346d.png?auto=format",
-        "https://ph-files.imgix.net/86d9e08c-828f-455a-a867-828f5be772e6.png?auto=format",
-        "https://ph-files.imgix.net/51015ead-1242-44b7-8570-21eb787ed728.png?auto=format",
-        "https://ph-files.imgix.net/5ac4ddc6-e7cf-4494-b2b1-bd09efc89073.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 263,
-      "websiteUrl": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "two agents finish the same chat. does each one post its own message?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like the idea of seeing the work happen where the request started 👍"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How much memory carries from one group to another? Congrats @aidenchaoyanghe"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does the agent keep working if everyone closes the app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the first place I would try this is a messy planning group😼"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats! Roxie's question about how proactive an agent should be in a group of ten got me thinking. What happens when two people give it conflicting instructions? Does it decide, or ask the group?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great job team! May I ask how are permissions handled for Gmail and X actions?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does it support voice messages from WhatsApp?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -34759,6 +34876,77 @@
       }
     },
     {
+      "id": "ph-yesterday-4",
+      "date": "2026-11-02",
+      "rank": 4,
+      "name": "Cedric AI for Meetings",
+      "slug": "cedric-ai-for-meetings",
+      "tagline": "The first AI agent to present your slides and attend for you",
+      "description": "Send Cedric to your Zoom, Meet, or Teams calls. He presents your slides, and answers questions using live data from your tools. Join late? He catches you up. Can’t join? He represents you. Afterwards, approve the notes and follow-ups, and he handles the work.",
+      "category": "Sales • Meetings • Artificial Intelligence",
+      "categoryFa": "فروش • Meetings • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/cedric?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/69d303d3-67c8-4ef1-9d36-fc7c597ace1b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/066b7fd8-7b22-49ec-8993-4378bfc63017.png?auto=format",
+        "https://ph-files.imgix.net/f60ca6c3-1903-427c-8cac-422aedf5e9ef.png?auto=format",
+        "https://ph-files.imgix.net/4a37466e-40eb-40d0-80ae-52a8218a87fd.png?auto=format",
+        "https://ph-files.imgix.net/2d5befe7-e889-44d8-9b79-6c90e9cfa961.png?auto=format",
+        "https://ph-files.imgix.net/2e88c8f4-b716-4d53-bfaa-6bc907b68a07.png?auto=format",
+        "https://ph-files.imgix.net/a670271c-baee-452f-989a-15bd2b0c1cc7.png?auto=format",
+        "https://ph-files.imgix.net/38cccfde-191e-44fd-925a-5e4e3b1671c3.png?auto=format",
+        "https://ph-files.imgix.net/2956a1a0-2fd7-44a2-940c-013c763ce144.png?auto=format",
+        "https://ph-files.imgix.net/f56f0f75-39db-4b24-839b-3ace91f9fe02.png?auto=format",
+        "https://ph-files.imgix.net/e86310e9-b9f5-46d3-8f53-1410b9d2a4ee.png?auto=format",
+        "https://ph-files.imgix.net/832cbd26-6c69-4b37-acb9-06b6bc87594c.png?auto=format",
+        "https://ph-files.imgix.net/6d8e73ef-7dfb-4e3a-a4b3-6341f0955a40.png?auto=format",
+        "https://ph-files.imgix.net/39e5a967-1a03-4db7-a117-9f70be1b7fea.png?auto=format",
+        "https://ph-files.imgix.net/2266a1f2-839d-4254-8992-1737e7bb08b6.png?auto=format",
+        "https://ph-files.imgix.net/d29439c3-272f-45b2-b238-42a78db6d27e.png?auto=format",
+        "https://ph-files.imgix.net/a4e9c217-0d80-4eeb-ad57-4b77d815fffb.png?auto=format",
+        "https://ph-files.imgix.net/c783968a-77c8-4a53-8346-dd4381c8f95f.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-02T08:01:00Z",
+      "votes": 238,
+      "websiteUrl": "https://www.producthunt.com/r/3WNUZE5QLV6YEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt!Ben here, co-founder of Cedric.Have you ever joined a one-hour meeting just to present three slides? Or missed a call because two clients booked the same slot?That’s what we built Cedric for.Brief him beforehand: what to present, what matters, and what he should avoid committing to. He joins your Zoom, Meet, or Teams call, presents your slides, and answers questions using the context and tools you’ve connected.We see this being useful for:Founders juggling customer demos, partner calls, and fundraising conversations.Sales teams repeating product presentations across time zones.Agencies and consultants handling overlapping client updates.Project leads sharing an update without attending the entire meeting.Join alongside him and let him handle the slides while you focus on the discussion, or send him when you cannot attend. Arrive late, and he catches you up.Afterwards, you get the notes, decisions, and proposed follow-ups. You review and approve; Cedric handles the actions.For us, the exciting part is helping people contribute to a meeting even when their calendar says they can’t.Use code PRODUCTHUNT2026 for free credits to try Cedric in your meetings."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good stuff Ben, installing now to use on meetings this week.Wow - tons of integrations too!Congratulations on the launch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "i should probably use Cedric to handle those early morning meetings when i’m half awake. the idea of it running through slides with live numbers is tempting. might finally make those 7am calls productive, if i remember to set it up right."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a really compelling use case. Having an AI teammate that can join calls, present with live data, and turn decisions into approved follow-ups could save teams a huge amount of time—especially for recurring client meetings and internal reviews."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch benjamin. getting caught up when i join late is the feature i would pay for alone. one thing i am not sure, how do other people in the call know they talk to an agent? on sales calls with new clients i think it changes how they answer, do you show it in the name or say it at the start?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Real question from healthcare: a lot of our calls touch patient info, so an AI joining and recording is a no-go without HIPAA and a BAA. Is that on the roadmap?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’d try this for recurring project updates. What happens if someone asks a question it doesn’t have enough context to answer?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "what happens if someone asks him something live that isn't in the connected tools? does he say so or just wing it?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-1",
       "date": "2026-09-19",
       "rank": 1,
@@ -34963,77 +35151,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-4",
-      "date": "2026-11-02",
-      "rank": 4,
-      "name": "Cedric AI for Meetings",
-      "slug": "cedric-ai-for-meetings",
-      "tagline": "The first AI agent to present your slides and attend for you",
-      "description": "Send Cedric to your Zoom, Meet, or Teams calls. He presents your slides, and answers questions using live data from your tools. Join late? He catches you up. Can’t join? He represents you. Afterwards, approve the notes and follow-ups, and he handles the work.",
-      "category": "Sales • Meetings • Artificial Intelligence",
-      "categoryFa": "فروش • Meetings • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/cedric?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/69d303d3-67c8-4ef1-9d36-fc7c597ace1b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/066b7fd8-7b22-49ec-8993-4378bfc63017.png?auto=format",
-        "https://ph-files.imgix.net/f60ca6c3-1903-427c-8cac-422aedf5e9ef.png?auto=format",
-        "https://ph-files.imgix.net/4a37466e-40eb-40d0-80ae-52a8218a87fd.png?auto=format",
-        "https://ph-files.imgix.net/2d5befe7-e889-44d8-9b79-6c90e9cfa961.png?auto=format",
-        "https://ph-files.imgix.net/2e88c8f4-b716-4d53-bfaa-6bc907b68a07.png?auto=format",
-        "https://ph-files.imgix.net/a670271c-baee-452f-989a-15bd2b0c1cc7.png?auto=format",
-        "https://ph-files.imgix.net/38cccfde-191e-44fd-925a-5e4e3b1671c3.png?auto=format",
-        "https://ph-files.imgix.net/2956a1a0-2fd7-44a2-940c-013c763ce144.png?auto=format",
-        "https://ph-files.imgix.net/f56f0f75-39db-4b24-839b-3ace91f9fe02.png?auto=format",
-        "https://ph-files.imgix.net/e86310e9-b9f5-46d3-8f53-1410b9d2a4ee.png?auto=format",
-        "https://ph-files.imgix.net/832cbd26-6c69-4b37-acb9-06b6bc87594c.png?auto=format",
-        "https://ph-files.imgix.net/6d8e73ef-7dfb-4e3a-a4b3-6341f0955a40.png?auto=format",
-        "https://ph-files.imgix.net/39e5a967-1a03-4db7-a117-9f70be1b7fea.png?auto=format",
-        "https://ph-files.imgix.net/2266a1f2-839d-4254-8992-1737e7bb08b6.png?auto=format",
-        "https://ph-files.imgix.net/d29439c3-272f-45b2-b238-42a78db6d27e.png?auto=format",
-        "https://ph-files.imgix.net/a4e9c217-0d80-4eeb-ad57-4b77d815fffb.png?auto=format",
-        "https://ph-files.imgix.net/c783968a-77c8-4a53-8346-dd4381c8f95f.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-02T08:01:00Z",
-      "votes": 237,
-      "websiteUrl": "https://www.producthunt.com/r/3WNUZE5QLV6YEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt!Ben here, co-founder of Cedric.Have you ever joined a one-hour meeting just to present three slides? Or missed a call because two clients booked the same slot?That’s what we built Cedric for.Brief him beforehand: what to present, what matters, and what he should avoid committing to. He joins your Zoom, Meet, or Teams call, presents your slides, and answers questions using the context and tools you’ve connected.We see this being useful for:Founders juggling customer demos, partner calls, and fundraising conversations.Sales teams repeating product presentations across time zones.Agencies and consultants handling overlapping client updates.Project leads sharing an update without attending the entire meeting.Join alongside him and let him handle the slides while you focus on the discussion, or send him when you cannot attend. Arrive late, and he catches you up.Afterwards, you get the notes, decisions, and proposed follow-ups. You review and approve; Cedric handles the actions.For us, the exciting part is helping people contribute to a meeting even when their calendar says they can’t.Use code PRODUCTHUNT2026 for free credits to try Cedric in your meetings."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good stuff Ben, installing now to use on meetings this week.Wow - tons of integrations too!Congratulations on the launch"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "i should probably use Cedric to handle those early morning meetings when i’m half awake. the idea of it running through slides with live numbers is tempting. might finally make those 7am calls productive, if i remember to set it up right."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a really compelling use case. Having an AI teammate that can join calls, present with live data, and turn decisions into approved follow-ups could save teams a huge amount of time—especially for recurring client meetings and internal reviews."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch benjamin. getting caught up when i join late is the feature i would pay for alone. one thing i am not sure, how do other people in the call know they talk to an agent? on sales calls with new clients i think it changes how they answer, do you show it in the name or say it at the start?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Real question from healthcare: a lot of our calls touch patient info, so an AI joining and recording is a no-go without HIPAA and a BAA. Is that on the roadmap?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I’d try this for recurring project updates. What happens if someone asks a question it doesn’t have enough context to answer?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "what happens if someone asks him something live that isn't in the connected tools? does he say so or just wing it?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -37368,6 +37485,69 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-11-03",
+      "rank": 3,
+      "name": "Testifly",
+      "slug": "testifly",
+      "tagline": "Autonomous AI QA. Zero prompting. Zero maintenance. ",
+      "description": "CTOs and founders with small teams and no time or resources to test and maintain. Connect your web app and Testifly does the rest. Discovers flows, writes tests, self-heals, explains failures with video. Zero prompting. Zero maintenance. 30-day free trial.",
+      "category": "Software Engineering • Development",
+      "categoryFa": "Software Engineering • Development",
+      "url": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3181d12a-fbcc-4643-95bd-0ee6ab099bf2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/178b177f-f0b5-42f8-a392-7c2a2eab05ee.jpeg?auto=format",
+        "https://ph-files.imgix.net/b20cd380-4add-4ec0-9312-f8cb3a75d814.png?auto=format",
+        "https://ph-files.imgix.net/dda2adf0-5f2e-450a-8fdb-9e8a90e5eaf8.png?auto=format",
+        "https://ph-files.imgix.net/5b4af8c3-9961-4f6a-b107-7311b428b290.png?auto=format",
+        "https://ph-files.imgix.net/3cbfb34e-d641-4534-8170-1fd763ca78ea.png?auto=format",
+        "https://ph-files.imgix.net/2d8b31f6-3cd1-4ab8-ae18-8c3f7f512ab0.png?auto=format",
+        "https://ph-files.imgix.net/c8b9496c-7fd3-427b-af8a-07ecdabf4830.png?auto=format",
+        "https://ph-files.imgix.net/dcbf9f2b-c499-4b0d-89bb-c261f471e35d.png?auto=format",
+        "https://ph-files.imgix.net/f78e4e8a-8233-4a88-9eb4-5c83d3b6f7f8.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 222,
+      "websiteUrl": "https://www.producthunt.com/r/673ETOS256IMRH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 I’m Amihay, founder and CEO of Testifly. Testifly is for CTOs, founders and small teams that ship a web app without a dedicated QA person, and want their time to go to building. It’s also for QA testers, developers and product managers who are tired of writing and fixing tests. If you’ve ever said “I hope this deploy didn’t break anything,” this is for you.The problemI’ve worked in software for 25 years. On almost every project, I saw the same thing: we never got a good return on our testing investment.We spent a lot of time writing test automation. Then the code changed and the tests broke. One test took a week to turn green again. In that week, another test turned red.Then AI came, and it was chaos in a different way. It wrote tests that were not relevant. When a test failed because of a real bug, the AI “fixed” the test to match the bug instead of reporting it. And it created about 2,000 tests that nobody could manage.The solutionSo we built Testifly 🚀 - an autonomous AI QA solution for web apps. You connect your web app, and that’s it. Testifly does the testing work for you.Before and afterBefore: testers wrote test cases by hand, fixed them after every change, and argued about who owns the red tests.After: Testifly does it all for you, and you don’t write or maintain anything.Why not just use your own AI coding agent?You can ask a coding agent to write tests. But you still own them afterwards: you prompt it, review what it wrote, and fix what breaks. The maintenance work comes back to you.With Testifly, that part is handled:No prompting, reviewing or babysitting. It does the whole cycle.When a test fails, it tells you something may be broken.You can stay focused on building. Your time goes to the product, not to a test suite.What you getIt finds your user flows on its ownIt creates the testsIt runs them on every deploy and on a scheduleIt keeps the tests up to date when your app changes - QA with zero maintenanceTestifly catches broken signups, failed forms and regressions, without adding work for you or your team.Try it - free to start, no credit card required 👉 https://testifly.dev/product-hunt🎁 PH special: upgrade to a paid plan today and get your 2nd month free.What I’d love from you 💬Please try Testifly on your own app and tell us what worked, what broke and what is missing.And one question: what is your single biggest challenge with testing today? The more detail the better. Your answers will directly shape what we build next!Thank you to our team, who worked hard to get here. Thank you to @rohanrecommends for hunting us. And thank you to the Product Hunt community for giving new products a chance.I’ll be here all day to read and answer every comment. We’re still early, and I’m excited about what comes next.AmihayFounder & CEO, Testifly"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The self-healing mechanism sounds great. How do you make sure it doesn't accidentally update a test to accept a real bug? 😅"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting. I would start with a group that already has a lot of shared docs."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Our biggest testing gap is mobile. A lot of what we ship is iOS, and that's where nobody has time to click through every flow after a release. Any plans beyond web?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch amihay. biggest pain for me is signup breaking after a small copy or pricing change, nobody tests it because nobody calls it a code change. if testifly catches those too it is already worth it"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "looks cool!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does Testifly know which user flows are important enough to test automatically?Congrats @amihay_schwarz1 & team.Thanks for sharing @rohanrecommends :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats. Say if a test fails due to temporary network issue, not because there is a bug in the product. In this case, does Testtifly retry before reporting the issue?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-09-21",
       "rank": 5,
@@ -38253,69 +38433,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-11-03",
-      "rank": 3,
-      "name": "Testifly",
-      "slug": "testifly",
-      "tagline": "Autonomous AI QA. Zero prompting. Zero maintenance. ",
-      "description": "CTOs and founders with small teams and no time or resources to test and maintain. Connect your web app and Testifly does the rest. Discovers flows, writes tests, self-heals, explains failures with video. Zero prompting. Zero maintenance. 30-day free trial.",
-      "category": "Software Engineering • Development",
-      "categoryFa": "Software Engineering • Development",
-      "url": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3181d12a-fbcc-4643-95bd-0ee6ab099bf2.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/178b177f-f0b5-42f8-a392-7c2a2eab05ee.jpeg?auto=format",
-        "https://ph-files.imgix.net/b20cd380-4add-4ec0-9312-f8cb3a75d814.png?auto=format",
-        "https://ph-files.imgix.net/dda2adf0-5f2e-450a-8fdb-9e8a90e5eaf8.png?auto=format",
-        "https://ph-files.imgix.net/5b4af8c3-9961-4f6a-b107-7311b428b290.png?auto=format",
-        "https://ph-files.imgix.net/3cbfb34e-d641-4534-8170-1fd763ca78ea.png?auto=format",
-        "https://ph-files.imgix.net/2d8b31f6-3cd1-4ab8-ae18-8c3f7f512ab0.png?auto=format",
-        "https://ph-files.imgix.net/c8b9496c-7fd3-427b-af8a-07ecdabf4830.png?auto=format",
-        "https://ph-files.imgix.net/dcbf9f2b-c499-4b0d-89bb-c261f471e35d.png?auto=format",
-        "https://ph-files.imgix.net/f78e4e8a-8233-4a88-9eb4-5c83d3b6f7f8.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 213,
-      "websiteUrl": "https://www.producthunt.com/r/673ETOS256IMRH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 I’m Amihay, founder and CEO of Testifly. Testifly is for CTOs, founders and small teams that ship a web app without a dedicated QA person, and want their time to go to building. It’s also for QA testers, developers and product managers who are tired of writing and fixing tests. If you’ve ever said “I hope this deploy didn’t break anything,” this is for you.The problemI’ve worked in software for 25 years. On almost every project, I saw the same thing: we never got a good return on our testing investment.We spent a lot of time writing test automation. Then the code changed and the tests broke. One test took a week to turn green again. In that week, another test turned red.Then AI came, and it was chaos in a different way. It wrote tests that were not relevant. When a test failed because of a real bug, the AI “fixed” the test to match the bug instead of reporting it. And it created about 2,000 tests that nobody could manage.The solutionSo we built Testifly 🚀 - an autonomous AI QA solution for web apps. You connect your web app, and that’s it. Testifly does the testing work for you.Before and afterBefore: testers wrote test cases by hand, fixed them after every change, and argued about who owns the red tests.After: Testifly does it all for you, and you don’t write or maintain anything.Why not just use your own AI coding agent?You can ask a coding agent to write tests. But you still own them afterwards: you prompt it, review what it wrote, and fix what breaks. The maintenance work comes back to you.With Testifly, that part is handled:No prompting, reviewing or babysitting. It does the whole cycle.When a test fails, it tells you something may be broken.You can stay focused on building. Your time goes to the product, not to a test suite.What you getIt finds your user flows on its ownIt creates the testsIt runs them on every deploy and on a scheduleIt keeps the tests up to date when your app changes - QA with zero maintenanceTestifly catches broken signups, failed forms and regressions, without adding work for you or your team.Try it - free to start, no credit card required 👉 https://testifly.dev/product-hunt🎁 PH special: upgrade to a paid plan today and get your 2nd month free.What I’d love from you 💬Please try Testifly on your own app and tell us what worked, what broke and what is missing.And one question: what is your single biggest challenge with testing today? The more detail the better. Your answers will directly shape what we build next!Thank you to our team, who worked hard to get here. Thank you to @rohanrecommends for hunting us. And thank you to the Product Hunt community for giving new products a chance.I’ll be here all day to read and answer every comment. We’re still early, and I’m excited about what comes next.AmihayFounder & CEO, Testifly"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Our biggest testing gap is mobile. A lot of what we ship is iOS, and that's where nobody has time to click through every flow after a release. Any plans beyond web?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch amihay. biggest pain for me is signup breaking after a small copy or pricing change, nobody tests it because nobody calls it a code change. if testifly catches those too it is already worth it"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks cool!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does Testifly know which user flows are important enough to test automatically?Congrats @amihay_schwarz1 & team.Thanks for sharing @rohanrecommends :)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats. Say if a test fails due to temporary network issue, not because there is a bug in the product. In this case, does Testtifly retry before reporting the issue?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Including a video with each test failure is a great touch. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could you tell me how Testifly handles apps with different user roles and permissions. Wouldn’t testing an admin flow versus regular user flow be very different?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -46973,7 +47090,62 @@
           "user": "[REDACTED]",
           "text": "Capturing intentions is the easy part. What’s the nudge that actually gets people to follow through?"
         }
-      ]
+      ],
+      "faDescription": "Savor یک لایهٔ هدف‌گذاری™ برای افکاری است که هرگز به فهرست کارهای شما نمی‌رسند. می‌توانید با گفتن، نوشتن یا عکاسی یک کارت واضح در دسته‌های «اکنون»، «به‌زودی» یا «بعداً» ایجاد کنید. یادآورها در زمان مناسب آن را دوباره به یاد شما می‌آورند. ویژگی Take Action (نسخهٔ بتا) به شما کمک می‌کند گزینه‌ها را بررسی کنید، برنامه یا فهرستی بسازید و متن‌های مورد نیاز را پیش‌نویس کنید. می‌توانید کارت یا یک گام را به دیگران واگذار کنید و با گفتگوی خصوصی زمینه را توضیح دهید. تصمیم نهایی با شماست. این برنامه به‌صورت رایگان برای iOS و Android در دسترس است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt. من لانا هستم و Savor را به دلیل افکاری که هرگز به جایی نمی‌رسند ساخته‌ام. در مصاحبه با کاربران اولیه متوجه شدیم که همه برای کارهای بزرگ یک سیستم دارند—تقویم، صندوق ورودی یا لیست کارها—اما برای ده درصد باقی‌مانده که شامل گفت‌وگوهای کوتاه، یادداشت‌های یخچالی یا پادکست‌های پیشنهادی می‌شود، جایی ندارند. این افکار در ذهن می‌مانند و نیمه‌شب دوباره ظاهر می‌شوند. با گفتن، نوشتن یا عکاسی یک قبض، نامه یا بروشور، Savor آن را به یک کارت واضح تبدیل می‌کند: چه چیزی است، چه زمانی مهم است و قدم بعدی چیست. کارت‌ها در حال حاضر، به‌زودی یا بعداً قرار می‌گیرند و با یادآورهای قابل تنظیم دوباره ظاهر می‌شوند. ویژگی متمایز ما این است که می‌توانید یک کارت یا یک گام را به شخص دیگری واگذار کنید و با چت خصوصی زمینه را توضیح دهید؛ پس از پذیرش، آن شخص ویرایشگر کارت می‌شود و یادآورها را دریافت می‌کند، در حالی که شما یک نسخهٔ فقط‑خواندنی دارید. می‌توانید از عکاسی قبض برای جلوگیری از گم شدن جزئیات، ضبط صدا یا شورتکات Siri استفاده کنید و حتی کارت را به تقویم خود اضافه کنید. ما این لایهٔ هدف‌گذاری™ را برای چیزهایی که هنوز در حال شکل‌گیری هستند، معرفی می‌کنیم. لطفاً اولین فکر خود را برای Savor بگویید؛ خوشحال می‌شوم نظرات مفید و نکات ضعف را بشنوم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "“افکاری که نیمه‌شب دوباره ظاهر می‌شوند” — خیلی قابل‌همدلی است"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا عکسی از صفحهٔ کتاب به‌عنوان یادداشت قابل بازخوانی باقی می‌ماند یا همیشه سعی می‌کند به یک کار تبدیل شود؟ برای من بسیاری از موارد «بعداً» شامل خطوطی است که از کتاب‌های در حال خواندن استخراج می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک به مناسبت راه‌اندازی! جزئیات شفاف سیاست حریم‌خصوصی‌تان، به‌ویژه نگهداری داده‌ها روی دستگاه و حذف اطلاعاتی که به مدل می‌روند، بسیار قابل‌تحسین است. دو سؤال سریع دارم: رمزنگاری در Firestore برای ذخیره‌سازی ایمن داده‌ها خوب است، اما وقتی داده‌ها از Firestore به بک‌اند و در نهایت به دستگاه کاربر می‌روند، آیا همچنان رمزنگاری می‌شوند؟ به عبارت دیگر، آیا رمزنگاری انتها‑به‑انتها وجود دارد به‌طوری که هم Savor و هم Google نتوانند کارت‌های همگام‌شده را بخوانند؟ همچنین بخش اندازه‌گیری تبلیغات برای من واضح نبود؛ آیا این ویژگی فقط برای بزرگسالان فعال است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تشکر فراوان از همه کسانی که امروز از راه‌اندازی Savor حمایت کردند! سوالات دقیق، بازخوردها و تشویق‌های شما برای ما ارزشمند بود. به سوالاتی که هنوز پاسخی دریافت نکرده‌اند، پاسخ خواهیم داد. از اینکه بخشی از روز ما بودید، سپاسگزاریم! ❤️"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من مفهوم Savor را دوست دارم؛ این امکان را می‌دهد که افراد هدف یا تصمیمی بگذارند بدون اینکه بلافاصله به یک کار دیگر تبدیل شود. کنجکاوم، اگر کسی تاریخ مشخصی ندهد، چگونه تعیین می‌کنید که یادآور کی دوباره ظاهر شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "واگذاری تنها یک گام با چت خصوصی مخصوص خود، جزئیاتی است که توجه من را جلب کرد. وقتی کسی آن گام را می‌پذیرد، آیا فقط آن گام و چت مربوطه را می‌بیند یا می‌تواند بقیهٔ کارت را هم مشاهده کند؟ مخصوصاً برای کارت‌های شخصی این مرزبندی برایم جالب است."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ضبط نیت‌ها کار آسانی است؛ نکتهٔ کلیدی این است که چه انگیزه‌ای مردم را به انجام کارها سوق می‌دهد."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "SavorApp_AI",
+        "description": "Savor یک برنامهٔ هوشمند برای ثبت نیت‌ها و ایده‌های لحظه‌ای است که به‌سرعت به لیست کارها تبدیل نمی‌شوند. کاربران می‌توانند با گفتن، نوشتن یا عکاسی یک کارت واضح در دسته‌های «اکنون»، «به‌زودی» یا «بعداً» ایجاد کنند و با یادآورهای قابل تنظیم دوباره به آن بازگردند. ویژگی واگذاری گام‌ها با چت خصوصی امکان همکاری ایمن و شخصی‌سازی شده را فراهم می‌کند.",
+        "marketOpportunity": "در ایران افراد زیادی با مشکل فراموشی ایده‌های ناگهانی و یادداشت‌های کوتاه مواجه‌اند و ابزارهای ساده‌ای برای ذخیره‌سازی این اطلاعات وجود ندارد. Savor می‌تواند با ارائهٔ یک لایهٔ هدف‌گذاری ساده و چندرسانه‌ای، این خلأ را پر کند و بازار بزرگی در بین دانشجویان، کارآفرینان و کاربران عمومی ایجاد کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "دانشجویان، کارآفرینان نوپا، افراد فعال در حوزهٔ خودیاری و کاربران عمومی که به دنبال ابزارهای دیجیتال برای مدیریت افکار و نیت‌های خود هستند",
+        "challenges": [
+          "اطمینان از حفظ حریم‌خصوصی داده‌ها در بسترهای ابری",
+          "جذب کاربران در بازار رقابتی اپلیکیشن‌های یادداشت‌برداری"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با ویژگی‌های پیشرفته مانند یادآورهای هوشمند و واگذاری گام‌ها",
+          "فروش بسته‌های سفارشی‌سازی رابط کاربری و ادغام با تقویم‌ها و ابزارهای سازمانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -50576,6 +50748,125 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-11-03",
+      "rank": 4,
+      "name": "Synter Canvas",
+      "slug": "synter-canvas-2",
+      "tagline": "Your AI agent runs ads across 30+ ad platforms",
+      "description": "Your AI agent builds, launches and optimizes campaigns across 30+ ad platforms, with safety gates and guardrails on every change. $0.25 per verified write, 0% of ad spend.",
+      "category": "Marketing • Advertising • Artificial Intelligence",
+      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/45822f14-e130-4330-a377-a2b1941ef738.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c944b0c4-0593-4974-8a59-79b470a8f8f7.jpeg?auto=format",
+        "https://ph-files.imgix.net/11ff7f2a-c10c-4569-bf20-895adace8d85.png?auto=format",
+        "https://ph-files.imgix.net/41b77e19-f907-4b2e-85c9-6645307fdfc5.png?auto=format",
+        "https://ph-files.imgix.net/1ff8859b-f5ec-4e4c-93d8-c83b6acc47f2.png?auto=format",
+        "https://ph-files.imgix.net/82292942-b986-4d6b-b3e5-fda968cd9a32.png?auto=format",
+        "https://ph-files.imgix.net/325bf6c7-d9ad-4d44-9d1a-cdf42f1ad847.png?auto=format"
+      ],
+      "maker": "Joel Horwitz",
+      "makerTitle": "Founder of Synter",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 160,
+      "websiteUrl": "https://www.producthunt.com/r/VWLUQCUJVICBLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I'm Joel, founder of Synter.AI agents can build software now, but advertising still means a separate dashboard, API and login for every platform. So we built Synter: one connection that lets your agent work across 30+ ad platforms.The easiest way to start is Claude plus the Synter MCP server. It also works with ChatGPT and other MCP clients, and it's built right into Amp.How it works:1. Add https://mcp.synterai.com to Claude.2. Connect your ad accounts.3. Ask it to build a campaign, shift budget or pull a cross-platform report.Changes run with safety gates and guardrails. Start by approving every change; turn on more autonomy when you're ready. Big or irreversible actions always ask first.Pricing: free to connect and read; $0.25 per verified write, 0% of ad spend.I'd like to hear what you build with your agent, and which workflows we should support next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice work Joel. I run ads for a couple of our own products and the scary part with an agent is a bad change going live on a Friday night. If a change goes wrong, can I roll it back in one step? And can I set a hard daily spend cap per platform that the agent can’t go over, even if it thinks a campaign is doing well?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "A bit of the backstory from the maker side.We started with the Synter MCP, a universal ads MCP, so any AI agent could connect to 30+ ad platforms through one connection instead of 30 separate integrations.From there we've kept building the intelligence layer on top of it, so your agent understands what's actually working across all your accounts, not just what each platform reports on its own.Synter Canvas is the application layer: one place where you and your agent plan, build and run campaigns together, with your approval on every change before anything goes live.We're not done. Tell us what you'd want the next layer to do."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like the idea of starting with approval for every change and gradually giving the agent more autonomy. Handing over ad budgets blindly would be pretty scary. Conratulations!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "approving each change first feels like the right starting point when real ad budgets are involvedthe per write pricing is easy to understand and i'd want the activity history to make those charges just as clear"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch joel. one mcp for 30+ ad platforms is a lot of power in one place. my question is the budget side, when the agent moves money from one platform to other, what number does it trust? every platform says the conversion was theirs, so the totals never match"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I'd want the old and new budgets side by side in the approval. Moving money between platforms is much easier to review when the exact change is visible."
+        }
+      ]
+    },
+    {
+      "id": "ph-yesterday-7",
+      "date": "2026-11-02",
+      "rank": 7,
+      "name": "Self-Growing Websites by Greta.sh",
+      "slug": "self-growing-websites-by-greta-sh",
+      "tagline": "Build a website that can do its own SEO & AEO automatically",
+      "description": "You built a website/app, so why is nobody visiting? Getting found on Google & AI tools like ChatGPT, Perplexity etc takes months of SEO & AEO. Self-Growing Websites fix that. Greta.sh finds what customers search for, writes pages that answer them, and gets you showing up on Google, ChatGPT & everywhere With the Greta.sh MCP, you can run it all from Claude, ChatGPT or Cursor: just ask it to build, grow, publish or report. Don't just build a website anymore, build a customer magnet with Greta.sh!",
+      "category": "Marketing • SEO",
+      "categoryFa": "بازاریابی • سئو",
+      "url": "https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/5f6397bc-5eef-465d-bcac-64cbe2eddaff.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/802a9ab1-93f4-42d5-b3e2-3d037aa623ad.jpeg?auto=format",
+        "https://ph-files.imgix.net/4ef859a6-6bf9-4e72-8986-72548f4c9bad.png?auto=format",
+        "https://ph-files.imgix.net/29a23d95-a418-43a2-979c-2ed97f5480e9.png?auto=format",
+        "https://ph-files.imgix.net/b7f64c1e-d5d7-493b-b079-12daa1d078d5.png?auto=format",
+        "https://ph-files.imgix.net/5a305a13-93a8-44b4-ad41-d004eae2aac7.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-02T08:01:00Z",
+      "votes": 160,
+      "websiteUrl": "https://www.producthunt.com/r/A4SAVBJLKDKRDV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "For the first time in the history of Vibe Coding, we have Self Growing websites that can take care of getting customers automatically by handling its SEO & AEO on its own. 3 Simple steps with Greta.shVibe code your website & app with amazing UIDeploy & Launch it in public with domain of your choiceTurn on Growth -> Now Greta.sh👀 - watches your competitors & relevant trends of reddit, youtube etc automatically!📝 - writes up new articles, pages, & even does AEO & SEO fixes automatically!💰 - gets you customers & revenue in the bank automatically!!!Btw You have the most imp decision next, where to go on a vacation after all that 💰💰💰"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I talk to a lot of founders, and the same thing keeps coming up: the website is live, it looks great, and basically nobody’s finding it.And you already know how much ranking on Google (and now ChatGPT, Perplexity, Claude, Google AI) matters for getting customers. The problem is most solo founders don’t have the time to do it themselves, the money for a big agency, or the patience to wait a year or two for it to pay off.Meanwhile you’re supposed to be building the actual product, talking to users, raising money so SEO, AEO keeps getting pushed to later. That’s basically why we built this.Self-Growing Websites on Greta.sh take SEO & AEO off your plate completely. You build your site in minutes, and from there it works like a tiny growth team of its own:It researches your market for you. It studies your competitors, follows trends on Reddit and YouTube, and finds what your customers are actually searching for: the real questions, keywords and long-tail phrases your buyers type into Google and ChatGPT.It writes and publishes for you. Using that research, it creates new pages and posts built to rank on Google and get picked up by AI answer engines.It keeps the site healthy. It handles the traditional SEO work, catching and fixing the quiet issues that hurt rankings before you’d ever notice them.It measures and improves. It tracks what’s working and keeps refining your pages and content so your rankings keep climbing.It brings in customers while you’re heads-down building. Every week, more of the people looking for what you sell find you.One more thing we’re excited about: Greta.sh also ships its own MCP server now, so you’re not limited to our chat interface, you can connect Greta.sh to Claude, Cursor, or any MCP-compatible AI tool and manage your site (content, growth tasks, deployments) right from the assistant you already work in. If you’re already living inside an AI coding tool all day, your site can live there too.🎁 LAUNCH DAY GIVEAWAY: we’re giving 10 founders from the Product Hunt community a free domain + a self-growing website on Greta.sh that publishes its own SEO content. Comment below with what you’re building and who your customers are, and we’ll pick 10 and reach out to set you up.Genuinely curious to hear from other founders here: How many hours a week are you actually spending on SEO right now?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "i like the idea, but at least for me personally it's too expensive"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Feature request: if it isn't there already, a way to track rankings on LLMs so that users can actually have the aha moment of using the product and knowing that their rankings are actually improving with the usage of the product."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can it work with our existing CMS which for us right now is Wordpress?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Sounds interesting. But i got little bit confused about what the product is about to be useful? Can i use the Greta for the existing website? OR i need create it using the Greta platform only? I can't see the clear direction from Greta website. A lots of pages but can't clear out what it is about? BTW congratulations for your launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "If I already have a site but still need some help in SEO can Greta help me?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do you handle health topics? We build medical and nutrition apps, and auto-publishing articles there scares me a bit. Wrong info hurts rankings and trust fast. Is there a review step before anything goes live?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-10-12",
       "rank": 5,
@@ -51643,65 +51934,6 @@
       }
     },
     {
-      "id": "ph-yesterday-7",
-      "date": "2026-11-02",
-      "rank": 7,
-      "name": "Self-Growing Websites by Greta.sh",
-      "slug": "self-growing-websites-by-greta-sh",
-      "tagline": "Build a website that can do its own SEO & AEO automatically",
-      "description": "You built a website/app, so why is nobody visiting? Getting found on Google & AI tools like ChatGPT, Perplexity etc takes months of SEO & AEO. Self-Growing Websites fix that. Greta.sh finds what customers search for, writes pages that answer them, and gets you showing up on Google, ChatGPT & everywhere With the Greta.sh MCP, you can run it all from Claude, ChatGPT or Cursor: just ask it to build, grow, publish or report. Don't just build a website anymore, build a customer magnet with Greta.sh!",
-      "category": "Marketing • SEO",
-      "categoryFa": "بازاریابی • سئو",
-      "url": "https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/5f6397bc-5eef-465d-bcac-64cbe2eddaff.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/802a9ab1-93f4-42d5-b3e2-3d037aa623ad.jpeg?auto=format",
-        "https://ph-files.imgix.net/4ef859a6-6bf9-4e72-8986-72548f4c9bad.png?auto=format",
-        "https://ph-files.imgix.net/29a23d95-a418-43a2-979c-2ed97f5480e9.png?auto=format",
-        "https://ph-files.imgix.net/b7f64c1e-d5d7-493b-b079-12daa1d078d5.png?auto=format",
-        "https://ph-files.imgix.net/5a305a13-93a8-44b4-ad41-d004eae2aac7.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-02T08:01:00Z",
-      "votes": 158,
-      "websiteUrl": "https://www.producthunt.com/r/A4SAVBJLKDKRDV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "For the first time in the history of Vibe Coding, we have Self Growing websites that can take care of getting customers automatically by handling its SEO & AEO on its own. 3 Simple steps with Greta.shVibe code your website & app with amazing UIDeploy & Launch it in public with domain of your choiceTurn on Growth -> Now Greta.sh👀 - watches your competitors & relevant trends of reddit, youtube etc automatically!📝 - writes up new articles, pages, & even does AEO & SEO fixes automatically!💰 - gets you customers & revenue in the bank automatically!!!Btw You have the most imp decision next, where to go on a vacation after all that 💰💰💰"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I talk to a lot of founders, and the same thing keeps coming up: the website is live, it looks great, and basically nobody’s finding it.And you already know how much ranking on Google (and now ChatGPT, Perplexity, Claude, Google AI) matters for getting customers. The problem is most solo founders don’t have the time to do it themselves, the money for a big agency, or the patience to wait a year or two for it to pay off.Meanwhile you’re supposed to be building the actual product, talking to users, raising money so SEO, AEO keeps getting pushed to later. That’s basically why we built this.Self-Growing Websites on Greta.sh take SEO & AEO off your plate completely. You build your site in minutes, and from there it works like a tiny growth team of its own:It researches your market for you. It studies your competitors, follows trends on Reddit and YouTube, and finds what your customers are actually searching for: the real questions, keywords and long-tail phrases your buyers type into Google and ChatGPT.It writes and publishes for you. Using that research, it creates new pages and posts built to rank on Google and get picked up by AI answer engines.It keeps the site healthy. It handles the traditional SEO work, catching and fixing the quiet issues that hurt rankings before you’d ever notice them.It measures and improves. It tracks what’s working and keeps refining your pages and content so your rankings keep climbing.It brings in customers while you’re heads-down building. Every week, more of the people looking for what you sell find you.One more thing we’re excited about: Greta.sh also ships its own MCP server now, so you’re not limited to our chat interface, you can connect Greta.sh to Claude, Cursor, or any MCP-compatible AI tool and manage your site (content, growth tasks, deployments) right from the assistant you already work in. If you’re already living inside an AI coding tool all day, your site can live there too.🎁 LAUNCH DAY GIVEAWAY: we’re giving 10 founders from the Product Hunt community a free domain + a self-growing website on Greta.sh that publishes its own SEO content. Comment below with what you’re building and who your customers are, and we’ll pick 10 and reach out to set you up.Genuinely curious to hear from other founders here: How many hours a week are you actually spending on SEO right now?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "i like the idea, but at least for me personally it's too expensive"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Feature request: if it isn't there already, a way to track rankings on LLMs so that users can actually have the aha moment of using the product and knowing that their rankings are actually improving with the usage of the product."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can it work with our existing CMS which for us right now is Wordpress?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Sounds interesting. But i got little bit confused about what the product is about to be useful? Can i use the Greta for the existing website? OR i need create it using the Greta platform only? I can't see the clear direction from Greta website. A lots of pages but can't clear out what it is about? BTW congratulations for your launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "If I already have a site but still need some help in SEO can Greta help me?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do you handle health topics? We build medical and nutrition apps, and auto-publishing articles there scares me a bit. Wrong info hurts rankings and trust fast. Is there a review step before anything goes live?"
-        }
-      ]
-    },
-    {
       "id": "ph-today-4",
       "date": "2026-09-26",
       "rank": 4,
@@ -52103,66 +52335,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-11-03",
-      "rank": 4,
-      "name": "Synter Canvas",
-      "slug": "synter-canvas-2",
-      "tagline": "Your AI agent runs ads across 30+ ad platforms",
-      "description": "Your AI agent builds, launches and optimizes campaigns across 30+ ad platforms, with safety gates and guardrails on every change. $0.25 per verified write, 0% of ad spend.",
-      "category": "Marketing • Advertising • Artificial Intelligence",
-      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/45822f14-e130-4330-a377-a2b1941ef738.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c944b0c4-0593-4974-8a59-79b470a8f8f7.jpeg?auto=format",
-        "https://ph-files.imgix.net/11ff7f2a-c10c-4569-bf20-895adace8d85.png?auto=format",
-        "https://ph-files.imgix.net/41b77e19-f907-4b2e-85c9-6645307fdfc5.png?auto=format",
-        "https://ph-files.imgix.net/1ff8859b-f5ec-4e4c-93d8-c83b6acc47f2.png?auto=format",
-        "https://ph-files.imgix.net/82292942-b986-4d6b-b3e5-fda968cd9a32.png?auto=format",
-        "https://ph-files.imgix.net/325bf6c7-d9ad-4d44-9d1a-cdf42f1ad847.png?auto=format"
-      ],
-      "maker": "Joel Horwitz",
-      "makerTitle": "Founder of Synter",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 156,
-      "websiteUrl": "https://www.producthunt.com/r/VWLUQCUJVICBLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, I'm Joel, founder of Synter.AI agents can build software now, but advertising still means a separate dashboard, API and login for every platform. So we built Synter: one connection that lets your agent work across 30+ ad platforms.The easiest way to start is Claude plus the Synter MCP server. It also works with ChatGPT and other MCP clients, and it's built right into Amp.How it works:1. Add https://mcp.synterai.com to Claude.2. Connect your ad accounts.3. Ask it to build a campaign, shift budget or pull a cross-platform report.Changes run with safety gates and guardrails. Start by approving every change; turn on more autonomy when you're ready. Big or irreversible actions always ask first.Pricing: free to connect and read; $0.25 per verified write, 0% of ad spend.I'd like to hear what you build with your agent, and which workflows we should support next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A bit of the backstory from the maker side.We started with the Synter MCP, a universal ads MCP, so any AI agent could connect to 30+ ad platforms through one connection instead of 30 separate integrations.From there we've kept building the intelligence layer on top of it, so your agent understands what's actually working across all your accounts, not just what each platform reports on its own.Synter Canvas is the application layer: one place where you and your agent plan, build and run campaigns together, with your approval on every change before anything goes live.We're not done. Tell us what you'd want the next layer to do."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like the idea of starting with approval for every change and gradually giving the agent more autonomy. Handing over ad budgets blindly would be pretty scary. Conratulations!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "approving each change first feels like the right starting point when real ad budgets are involvedthe per write pricing is easy to understand and i'd want the activity history to make those charges just as clear"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch joel. one mcp for 30+ ad platforms is a lot of power in one place. my question is the budget side, when the agent moves money from one platform to other, what number does it trust? every platform says the conversion was theirs, so the totals never match"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I'd want the old and new budgets side by side in the approval. Moving money between platforms is much easier to review when the exact change is visible."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Last week at Seattle AI Days I said people expect their agents to cook like a Michelin star chef, but what they got was a line cook at a local diner. A real chef has mise en place: the right tools, the right ingredients and the right prep cooks and staff refining every dish so it meets the highest standards. For advertising, that means your agent gets the right tools to connect every ad account, the right data on what's actually working, and autonomous agents that refine every campaign around the clock, with safety gates and guardrails on every change. Synter is the mise en place for growth marketing, and the ONLY platform to connect and EXECUTE campaigns across 30+ advertising platforms. We're now training Synter to be a Michelin star chef with fine-tuned models. DM me for early access, and if you try Synter, I'd love your honest feedback on what works and what's missing."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -54024,6 +54196,72 @@
       }
     },
     {
+      "id": "ph-yesterday-8",
+      "date": "2026-11-02",
+      "rank": 8,
+      "name": "Display 1.0",
+      "slug": "display-1-0",
+      "tagline": "Create docs and apps with any agent, in one workspace",
+      "description": "Create and collaborate on docs, prototypes and apps with your team. Store the files your agents make, organise knowledge work in Spaces and Folders, and turn it all into your internal knowledge base. Work with any agent and any plan, at a flat price.",
+      "category": "Productivity • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/display-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/60a5d6a6-9f42-4e6f-af98-1661fb3a8014.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/6518ad94-8774-4cb6-88a7-b4e47a87bb3f.jpeg?auto=format",
+        "https://ph-files.imgix.net/e0bcf085-48e3-4dc9-80ed-860662882011.png?auto=format",
+        "https://ph-files.imgix.net/1d6a025f-ab97-4036-a24b-c142ddfd7cc6.png?auto=format",
+        "https://ph-files.imgix.net/603c4ad8-82f2-4568-ae66-9c4ad21eb588.png?auto=format",
+        "https://ph-files.imgix.net/560f4b48-468b-451b-aae8-1628b34d206f.png?auto=format",
+        "https://ph-files.imgix.net/721e61e0-3529-47db-a5b5-99d5366c1b55.png?auto=format",
+        "https://ph-files.imgix.net/d192f384-24dd-4315-bdf4-a31cd62e8d68.png?auto=format",
+        "https://ph-files.imgix.net/389eb5af-56cd-447e-8c2b-4ed22238afe8.png?auto=format",
+        "https://ph-files.imgix.net/f7d79c20-5003-433c-816c-94785bb61984.png?auto=format",
+        "https://ph-files.imgix.net/f15c2523-f1c6-45d9-bf3b-617289129ee8.png?auto=format",
+        "https://ph-files.imgix.net/043877d3-bad6-4866-a9f6-d73e7f7654c5.png?auto=format",
+        "https://ph-files.imgix.net/8abaf05a-faba-41f7-a719-51ec00aa7c2d.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-02T08:01:00Z",
+      "votes": 152,
+      "websiteUrl": "https://www.producthunt.com/r/7NCNIIQEMH52HJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey, Product Hunters!I’m Ott, the co-founder of Display.Today we’re launching Display 1.0.Why we started DisplayAs developers and founders, we were using agents to create beautiful and useful HTML docs. We kept on hitting the same wall:How to collaborate, edit and comment on docs with our teams?How to organise the knowledge we created, so that it can be accessible and reviewable to our team and clients?How to turn all the knowledge into an internal knowledge base for all agents for all future work?What we wanted to build from the startThe collaboration workspace for your agents and your team, open to any agent.Before we could do that, we first had to build a simple way to create and publish agent-native HTML and Markdown docs, with simple access controls. Any agent could create and collaborate on the docs, humans could edit.Today, we’re finally ready open up the next phase of our vision.Here’s what you can do with Display todayCreate and collaborate on docs, prototypes, apps with your teamStore and access files made by your agentOrganise knowledge work in Spaces and FoldersTurn everything you create into your internal Knowledge BaseWork with any agent and any planSafeguard your work with access controls – give each team its own Space and decide who can see whatInvite clients and partners to any folder or document, like in Google DriveFull access for your whole team at a flat priceHere’s what’s nextWe have internal apps and data connectors working in private beta, available shortly to everyone.We’re here today and the whole week to respond to your questions and suggestions.Let’s build the workspace for your team and agents together.- Ott, Carl & the Display team"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love the idea and definitely worth exploring!!! But just something that i thought, how is information (knowledge base) is prevented from being obsolete or duplicate or prevent hallucinations?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The third problem in your list is the interesting one to me — turning what agents create into a knowledge base that other agents can use for future work, rather than each run starting from scattered chat threads. How do the per-Space access controls work for the agent in that case — if an agent is working inside one Space, can it only draw on that Space's knowledge, or does it see the whole workspace?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What's the most underrated use case you have for the tool internally that people don't talk about?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! The speed of the feedback loop when there’s zero deployments 🥵 Very nice. Exited to grt hands on the internal apps feature that’s coming soon 🤙"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "so, what's one clear use case? can I connect all media analytics including personal social?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Verification markers could become much more useful with an expiry rule. A document might be reviewed today but depend on a pricing table, API schema, or policy that changes tomorrow. I’d let teams attach dependencies and a review SLA, then visibly mark the document stale when either changes."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "tried the publish with your sample page, no account, and had a live link in a few seconds. the page came out clean. once a link is claimed it only opens for the org, is there a way to keep one public for a client?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-10-26",
       "rank": 6,
@@ -54241,72 +54479,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-yesterday-8",
-      "date": "2026-11-02",
-      "rank": 8,
-      "name": "Display 1.0",
-      "slug": "display-1-0",
-      "tagline": "Create docs and apps with any agent, in one workspace",
-      "description": "Create and collaborate on docs, prototypes and apps with your team. Store the files your agents make, organise knowledge work in Spaces and Folders, and turn it all into your internal knowledge base. Work with any agent and any plan, at a flat price.",
-      "category": "Productivity • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/display-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/60a5d6a6-9f42-4e6f-af98-1661fb3a8014.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/6518ad94-8774-4cb6-88a7-b4e47a87bb3f.jpeg?auto=format",
-        "https://ph-files.imgix.net/e0bcf085-48e3-4dc9-80ed-860662882011.png?auto=format",
-        "https://ph-files.imgix.net/1d6a025f-ab97-4036-a24b-c142ddfd7cc6.png?auto=format",
-        "https://ph-files.imgix.net/603c4ad8-82f2-4568-ae66-9c4ad21eb588.png?auto=format",
-        "https://ph-files.imgix.net/560f4b48-468b-451b-aae8-1628b34d206f.png?auto=format",
-        "https://ph-files.imgix.net/721e61e0-3529-47db-a5b5-99d5366c1b55.png?auto=format",
-        "https://ph-files.imgix.net/d192f384-24dd-4315-bdf4-a31cd62e8d68.png?auto=format",
-        "https://ph-files.imgix.net/389eb5af-56cd-447e-8c2b-4ed22238afe8.png?auto=format",
-        "https://ph-files.imgix.net/f7d79c20-5003-433c-816c-94785bb61984.png?auto=format",
-        "https://ph-files.imgix.net/f15c2523-f1c6-45d9-bf3b-617289129ee8.png?auto=format",
-        "https://ph-files.imgix.net/043877d3-bad6-4866-a9f6-d73e7f7654c5.png?auto=format",
-        "https://ph-files.imgix.net/8abaf05a-faba-41f7-a719-51ec00aa7c2d.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-02T08:01:00Z",
-      "votes": 151,
-      "websiteUrl": "https://www.producthunt.com/r/7NCNIIQEMH52HJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey, Product Hunters!I’m Ott, the co-founder of Display.Today we’re launching Display 1.0.Why we started DisplayAs developers and founders, we were using agents to create beautiful and useful HTML docs. We kept on hitting the same wall:How to collaborate, edit and comment on docs with our teams?How to organise the knowledge we created, so that it can be accessible and reviewable to our team and clients?How to turn all the knowledge into an internal knowledge base for all agents for all future work?What we wanted to build from the startThe collaboration workspace for your agents and your team, open to any agent.Before we could do that, we first had to build a simple way to create and publish agent-native HTML and Markdown docs, with simple access controls. Any agent could create and collaborate on the docs, humans could edit.Today, we’re finally ready open up the next phase of our vision.Here’s what you can do with Display todayCreate and collaborate on docs, prototypes, apps with your teamStore and access files made by your agentOrganise knowledge work in Spaces and FoldersTurn everything you create into your internal Knowledge BaseWork with any agent and any planSafeguard your work with access controls – give each team its own Space and decide who can see whatInvite clients and partners to any folder or document, like in Google DriveFull access for your whole team at a flat priceHere’s what’s nextWe have internal apps and data connectors working in private beta, available shortly to everyone.We’re here today and the whole week to respond to your questions and suggestions.Let’s build the workspace for your team and agents together.- Ott, Carl & the Display team"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love the idea and definitely worth exploring!!! But just something that i thought, how is information (knowledge base) is prevented from being obsolete or duplicate or prevent hallucinations?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The third problem in your list is the interesting one to me — turning what agents create into a knowledge base that other agents can use for future work, rather than each run starting from scattered chat threads. How do the per-Space access controls work for the agent in that case — if an agent is working inside one Space, can it only draw on that Space's knowledge, or does it see the whole workspace?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What's the most underrated use case you have for the tool internally that people don't talk about?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! The speed of the feedback loop when there’s zero deployments 🥵 Very nice. Exited to grt hands on the internal apps feature that’s coming soon 🤙"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "so, what's one clear use case? can I connect all media analytics including personal social?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Verification markers could become much more useful with an expiry rule. A document might be reviewed today but depend on a pricing table, API schema, or policy that changes tomorrow. I’d let teams attach dependencies and a review SLA, then visibly mark the document stale when either changes."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "tried the publish with your sample page, no account, and had a live link in a few seconds. the page came out clean. once a link is claimed it only opens for the org, is there a way to keep one public for a client?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -55307,7 +55479,65 @@
           "user": "[REDACTED]",
           "text": "@dominikkoch is such a great guy, and notra is not just genuinely useful but also has a beautiful UI. Congrats on the launch! :))"
         }
-      ]
+      ],
+      "faDescription": "نوترا یک ابزار بهینه‌سازی برای موتورهای جستجوی هوش مصنوعی (GEO) است که به شما کمک می‌کند در نتایج جستجوی AI رتبه‌بندی شوید. این پلتفرم سوالاتی که خریداران شما می‌پرسند را از چت‌جی‌پی‌تی، کلد و جمنی می‌پرسد تا وضعیت حضور برند شما را بررسی کند. نوترا نشان می‌دهد که آیا شما در پاسخ‌ها ذکر شده‌اید، چه رقبایی به جای شما معرفی شده‌اند و چگونه می‌توانید این خلأها را پر کنید. این ابزار با شبیه‌سازی رفتار خریداران واقعی، دیدگاه دقیقی از دیده‌شدن برند شما در دنیای هوش مصنوعی ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه در Product Hunt، من دومینیک، یکی از سازندگان نوترا هستم. روز به روز افراد بیشتری به جای جستجو در گوگل، از چت‌جی‌پی‌تی می‌پرسند که از چه ابزاری استفاده کنند و ما نوترا GEO را ساختیم تا تیم‌ها بتوانند ببینند آیا در آن پاسخ‌ها دیده می‌شوند یا خیر. مشکل اینجاست که موتورهای هوش مصنوعی معمولاً برای هر سوال فقط دو یا سه محصول را پیشنهاد می‌دهند و اگر محصول شما در آن لیست نباشد، مشتری را از دست می‌دهید بدون اینکه حتی متوجه شوید. این ابزار برای استارتاپ‌ها و تیم‌های ابزار توسعه‌دهنده طراحی شده که در تولید محتوا سرمایه‌گذاری می‌کنند و می‌خواهند موتورهای هوش مصنوعی آن‌ها را توصیه کنند. نوترا از چت‌جی‌پی‌تی، کلد، جمنی، پرپلیکسیتی و گروک می‌پرسد که مشتریان شما چه سوال‌هایی می‌پرسند و نشان می‌دهد کدام رقبای شما به جای شما نام برده می‌شوند. مکالمات و پرسوناهای کاربری یک خریدار واقعی را از طریق سوالات پیگیری‌کننده دنبال می‌کنند تا شما دیدی از دیده‌شدن برند خود داشته باشید که دقیقاً همان چیزی است که خریدار می‌بیند. این ابزار سوال‌ها و سایت‌های ارجاع‌داده‌شده‌ای را که در آن‌ها غایب هستید پیدا می‌کند و سپس مقالاتی را برای پر کردن این خلأها با لحن برند شما می‌نویسد. تحلیل خزش هوش مصنوعی (AI Crawl Analytics) نشان می‌دهد کدام صفحات سایت شما توسط ربات‌های هوش مصنوعی خوانده شده‌اند و این بخش تا یک میلیون رویداد در ماه رایگان است. دوست دارم بدانم موتورهای هوش مصنوعی چه می‌گویند و تمام روز اینجا هستم تا به سوالات شما پاسخ دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا می‌توانم یک سوال خریدار را چندین بار اجرا کنم و پاسخ‌ها را مقایسه کنم؟ می‌خواهم بدانم که یک ذکر ناقص یک الگوی تکرارشونده است قبل از اینکه محتوای سایت را تغییر دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بیایید شروع کنیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت لانچ، دومینیک! یک سوال از طرف کسی که به چندین کشور می‌فروشد: آیا پرسوناهای کاربری و سوال‌ها در زبان‌ها و مناطق دیگر نیز اجرا می‌شوند؟ انتظار دارم چت‌جی‌پی‌تی ابزارهای کاملاً متفاوتی را توصیه کند وقتی خریدار به زبان آلمانی یا لهستانی سوال می‌پرسد تا انگلیسی، بنابراین ممکن است دیده‌شدن شما در انگلیسی خوب باشد اما در بازار مورد نظرتان صفر باشد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من به صورت دستی صفحات پاسخ و یک فایل llms.txt برای سایت خودم ساخته‌ام و سخت‌ترین بخش این است که بدانم آیا هیچ‌کدام از این کارها چیزی را در آنچه مدل‌ها می‌گویند تغییر داده است یا نه. آیا نوترا دیده‌شدن را در طول زمان برای هر سوال ردیابی می‌کند تا بتوانید ببینید کدام صفحه تأثیرگذار بوده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "به عنوان کسی که از ابتدای راه نوترا را استفاده کرده‌ام، بسیار خوش‌بین هستم!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "تفاوت آن با ابزارهایی مانند https://www.tryprofound.com/ یا https://scribble.network/ چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "@dominikkoch فرد فوق‌العاده‌ای است و نوترا نه تنها واقعاً مفید است بلکه رابط کاربری زیبایی هم دارد. تبریک بابت لانچ! :))"
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که موتورهای جستجوی هوش مصنوعی برخلاف گوگل، فقط چند گزینه محدود را پیشنهاد می‌دهند و غفلت از این کانال یعنی از دست دادن مشتری بدون آگاهی. راه‌حل نوترا، پایش مداوم پرسش‌های کلیدی خریداران در چندین مدل زبانی بزرگ (LLM) و ارائه گزارش‌های عملیاتی برای پر کردن خلأهای محتوایی است. از نظر معماری، این سیستم به احتمال زیاد از یک لایه واسط برای مدیریت درخواست‌های APIهای مختلف هوش مصنوعی، یک پایگاه داده برای ذخیره‌سازی پاسخ‌ها و تحلیل‌های زمانی، و یک موتور تحلیل متن برای استخراج نام برندها و رقبای استفاده می‌کند. مدل درآمدی احتمالاً بر اساس SaaS (نرم‌افزار به عنوان سرویس) با اشتراک‌های ماهانه است که بر اساس تعداد پرسش‌های پایش‌شده و حجم داده‌های خزش (Crawl) قیمت‌گذاری می‌شوند. نقاط قوت شامل تمرکز بر یک نیاز نوظهور و حیاتی (GEO)، ارائه راهکار عملی (نوشتن مقاله) به جای صرفاً گزارش‌دهی، و رابط کاربری جذاب است. نقاط ضعف می‌تواند شامل وابستگی به APIهای خارجی که ممکن است ناپایدار یا گران باشند، و چالش‌های مربوط به تغییرات سریع الگوریتم‌های هوش مصنوعی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی مستقیم به APIهای خارجی، یک نسخه ایرانی می‌تواند با استفاده از مدل‌های زبانی داخلی یا پروکسی‌های امن، روی بازارهای خاورمیانه و آسیای میانه که به زبان فارسی یا انگلیسی محتوا تولید می‌کنند تمرکز کند و با ارائه گزارش‌های بومی‌شده، مزیت رقابتی ایجاد نماید.",
+      "iranEquivalent": {
+        "productName": "دیده‌بان هوش مصنوعی",
+        "description": "این پلتفرم ایرانی به کسب‌وکارها کمک می‌کند تا حضور خود را در پاسخ‌های موتورهای جستجوی مبتنی بر هوش مصنوعی (مانند نسخه‌های فارسی‌زبان یا بین‌المللی) پایش کنند. سیستم با شبیه‌سازی پرسش‌های واقعی مشتریان، مشخص می‌کند که آیا برند شما در نتایج ذکر شده است یا رقبای شما جایگزین شما معرفی می‌شوند. همچنین راهکارهای محتوایی برای بهبود دیده‌شدن در این موتورهای نوظهور ارائه می‌دهد.",
+        "marketOpportunity": "با رشد استفاده از ابزارهای هوش مصنوعی در ایران و جهان، نیاز به بهینه‌سازی برای این موتورهای جدید (GEO) به یک ضرورت تبدیل شده است. بسیاری از برندها هنوز نمی‌دانند چگونه در این فضای جدید دیده شوند و این خلأ یک فرصت بزرگ برای ورود است.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "استارتاپ‌های فناوری، شرکت‌های SaaS، و برندهای B۲B که مخاطبان بین‌المللی یا فارسی‌زبان دارند و در تولید محتوا سرمایه‌گذاری می‌کنند.",
+        "challenges": [
+          "دسترسی پایدار و قانونی به APIهای موتورهای هوش مصنوعی خارجی از داخل ایران به دلیل تحریم‌ها و محدودیت‌های شبکه.",
+          "تغییرات سریع الگوریتم‌های هوش مصنوعی که نیاز به به‌روزرسانی مداوم مدل‌های پایش را ایجاد می‌کند."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه با سطوح مختلف بر اساس تعداد پرسش‌های پایش‌شده و حجم ترافیک.",
+          "فروش بسته‌های مشاوره‌ای و تولید محتوای بهینه‌شده برای هوش مصنوعی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "LangChain",
+          "Redis"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -66281,7 +66511,50 @@
           "user": "[REDACTED]",
           "text": "Choosing the bank transaction before a payment gets matched is a good pause to have. Two similar amounts can still be two different payments."
         }
-      ]
+      ],
+      "faDescription": "Nuvio ۵.۰ با هدف ساده‌سازی امور مالی شرکت‌ها طراحی شده است. این نسخه جدید امکان صدور فاکتور، ثبت هزینه و تطبیق تراکنش‌ها را به صورت خودکار فراهم می‌کند. کاربر می‌تواند از دستیار هوش مصنوعی Nuvio برای انجام این کارها استفاده کند یا ChatGPT، Claude یا هر عامل هوش مصنوعی دیگری را متصل نماید. همچنین خدمات حسابداری و مالیاتی با حسابداران آشنا به Nuvio اضافه می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من علی، هم‌بنیان‌گذار Nuvio هستم. ما با Nuvio ۵.۰ بازگشتیم! هدف ما این بود که بنیان‌گذاران زمان کمتری برای بروزرسانی مالیات خود صرف کنند. با نسخه ۵، می‌توانید کارهای مالی را به دست دستیار هوش مصنوعی خود واگذار کنید. این نسخه امکان اتصال به ChatGPT، Claude و سایر عامل‌های هوش مصنوعی را فراهم کرده و کاربر را قادر می‌سازد تا عملیات مالی را به صورت هوشمندانه انجام دهد. همچنین خدمات حسابداری و مالیاتی با حسابداران متخصص در کنار این پلتفرم ارائه می‌شود. ما در این نسخه، امکان اتصال به حسابداران و ارائه خدمات حسابداری ماهانه و مالیاتی را اضافه کرده‌ایم. این پلتفرم با رابط کاربری ساده و امکانات پیشرفته، به شما کمک می‌کند تا زمان و هزینه‌های مالی خود را کاهش دهید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تأیید قبل از ذخیره تغییرات مالی یک لمس هوشمندانه است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تطبیق، چون این همان کاری است که در محل کار به عامل واگذار کرده‌ایم و هنوز می‌خواهم پرداخت‌های عجیب را خودم ببینم. آیا پیش‌نمایش نشان می‌دهد هر پرداخت به کدام فاکتور مطابقت داده شده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای راه‌اندازی! چقدر امن است که Claude یا ChatGPT تغییرات زنده در سوابق مالی ایجاد کنند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "انتخاب تراکنش بانکی قبل از مطابقت پرداخت یک وقفه خوب است. دو مبلغ مشابه ممکن است هنوز دو پرداخت متفاوت باشند."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "نوویو ۵.۰",
+        "description": "نوویو ۵.۰ یک پلتفرم هوشمند برای مدیریت مالی شرکت‌ها است که صدور فاکتور، ثبت هزینه و تطبیق تراکنش‌ها را به صورت خودکار انجام می‌دهد. این نسخه امکان اتصال به ChatGPT، Claude و سایر عامل‌های هوش مصنوعی را فراهم کرده و کاربر را قادر می‌سازد تا عملیات مالی را به صورت هوشمندانه انجام دهد. همچنین خدمات حسابداری و مالیاتی با حسابداران متخصص در کنار این پلتفرم ارائه می‌شود.",
+        "marketOpportunity": "بازار نرم‌افزارهای مالی برای شرکت‌های کوچک و متوسط در ایران در حال رشد است و نیاز به راه‌حل‌های ساده و هوشمند وجود دارد. نوویو با ترکیب هوش مصنوعی و رابط کاربری ساده می‌تواند سهم قابل توجهی از این بازار را به دست آورد.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "کارآفرینان، مدیران مالی و تیم‌های حسابداری شرکت‌های کوچک و متوسط",
+        "challenges": [
+          "یکپارچه‌سازی با بانک‌های ایرانی و رعایت مقررات مالیاتی",
+          "قابلیت اعتماد و امنیت داده‌های مالی در محیط‌های هوش مصنوعی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای دسترسی به امکانات پایه و پیشرفته",
+          "فاکتورهای خدمات حسابداری و مشاوره مالی توسط حسابداران متخصص"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -69051,6 +69324,62 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-11-03",
+      "rank": 6,
+      "name": "Calendarly ",
+      "slug": "calendarly-3",
+      "tagline": "Your calendar and tasks, right on your iPhone Lock Screen",
+      "description": "Calendarly draws your calendar, reminders, Todoist tasks, notes and countdowns onto the iPhone Lock Screen wallpaper, and redraws it automatically through a Shortcuts automation.",
+      "category": "Productivity • Task Management",
+      "categoryFa": "بهره‌وری • مدیریت وظایف",
+      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/64d3b7a3-004c-4556-84c3-113ccbde836a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/4fc8eade-53e6-4416-8fb4-789a32aa796b.jpeg?auto=format",
+        "https://ph-files.imgix.net/72d71b51-e1ca-4f2c-9000-11d68fa4914f.jpeg?auto=format",
+        "https://ph-files.imgix.net/90c995bd-b122-4831-b18b-df4429237577.jpeg?auto=format",
+        "https://ph-files.imgix.net/1d7d8210-acc7-429d-933d-f48a0db7e7dc.jpeg?auto=format",
+        "https://ph-files.imgix.net/00449771-f786-4d85-9906-a62322fbfb42.jpeg?auto=format",
+        "https://ph-files.imgix.net/34d248cc-666d-45bf-8238-d2b592e64fb0.jpeg?auto=format"
+      ],
+      "maker": "Dmytro Katyukha",
+      "makerTitle": "I make apps for Mac and iPhone",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 120,
+      "websiteUrl": "https://www.producthunt.com/r/326NNFAYMAN2FN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Dmytro here, the maker of Calendarly.I first launched here in February with a small idea: I wanted to check my calendar without unlocking my phone and getting distracted by everything else.Back then, Calendarly had been live for two days. Writing that first launch comment was a very nervous moment for me 🙂Months later, I’m back with a much more capable version of that same idea.Calendarly now brings your calendar, reminders, Todoist tasks, notes, and countdowns onto your iPhone Lock Screen. There are more layouts and more ways to make it feel like yours, whether you want your whole day in view or just the next thing you need to do.There are now widgets and Live Activities too, so you have more ways to keep your plans in view throughout the day.If you tried the first version, I’d really love to hear what you think of it now. And if you’re seeing Calendarly for the first time, welcome! I’m here to answer questions and help you get set up.Give it a try: https://apps.apple.com/us/app/calendarly-lockscreen-calendar/id6758898739"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the relaunch, Dmytro! Love the idea of seeing my day without unlocking the phone and getting distracted. Quick question: I split my time between two countries, Portugal and France, one hour apart. Does Calendarly handle time zones well when I travel, and can it show events in both local times? That would make it a daily tool for me."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "todoist task with no time on it. does it still show on the lock screen?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Do calendar colors carry over to the Lock Screen? With several calendars going at once, color is the only way to read a day at a glance."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@dim_kat I'm a huge fan of not having to use apps to get the value. This is huge.Will give it a test once the Google Calendar integration is direct, but well done, man. Very impressive!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does the lock screen redraw happen only when the shortcuts automation fires, or can it update when a calendar event changes mid-day?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Shortcuts redraw is a clever workaround. How often does iOS actually let it refresh - on a schedule, or can it trigger when a new event lands on the calendar?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-11-01",
       "rank": 9,
@@ -69434,7 +69763,67 @@
           "user": "[REDACTED]",
           "text": "I've been describing the same localhost bug to Claude three different ways this week. The click-to-fix loop here is exactly the shorthand I didn't know I needed."
         }
-      ]
+      ],
+      "faDescription": "توضیح دادن خطاهای رابط کاربری به ایجنت هوش مصنوعی خود را متوقف کنید. کافی است روی هر المانی در سایت لوکال‌باست خود کلیک کنید و مشکل را بگویید تا ابزارهایی مانند Claude Code، Codex، Gemini یا OpenCode فایل مربوطه را ادیت کنند. روند تغییرات را به‌صورت زنده تماشا کرده و سپس تفاوت‌های ایجادشده (Diff) را مستقیم درون همان صفحه تایید کنید. تا زمانی که شما تغییرات را تایید نکنید، هیچ کدی در فایل‌های پروژه نوشته نخواهد شد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی در پروداکت هانت! «دکمه زیر دومین کارت قیمت‌گذاری. نه، آن یکی دکمه!» وقتی با یک ایجنت کدنویسی در حال ساخت وب‌سایت هستید، می‌توانید ببینید چه چیزی نیاز به تغییر دارد: دکمه‌ای که تراز نیست، تیتر تدرسی که بد شکسته شده، یا فاصله‌ای که مناسب به نظر نمی‌رسد. اما اعمال آن تغییر یعنی تبدیل آنچه می‌بینید به یک پرامپت متنی. شما باید توضیح دهید المان کجا قرار دارد، ابزار توسعه‌دهندگان مرورگر را باز کنید، سکتور را کپی کنید یا اسکرین‌شات بگیرید، کامپوننت را پیدا کنید، به ترمینال بروید، همه چیز را پیست کنید و امیدوار باشید که زمینه (Context) کافی به ایجنت داده‌اید. سپس به مرورگر برگردید تا نتیجه را بررسی کنید. برای یک تغییر بصری کوچک، توضیح دادن کار می‌تواند بیشتر از خود تغییر وقت بگیرد. من دقیقاً داشتم به خود باگ نگاه می‌کردم و فقط می‌خواستم روی آن کلیک کنم! به همین دلیل PulseDev را ساختم: تا بافت و زمینه المانی را که به آن اشاره می‌کنید، همراه با دستوراتتان به ایجنت کدنویسی بدهد. از «کدام دکمه؟» تا «ارتفاع این دکمه را بیشتر کن». روی المان کلیک کنید، تغییر را بگوئید، به Claude Code یا Gemini بفرستید و تغییرات (Diff) را پیش از اعمال تایید کنید. خوشحال می‌شوم نظرتان را درباره جریان کاری‌تان بدانم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "اگر دکمه‌ای که روی آن کلیک می‌کنم در یک کامپوننت مشترک (Shared Component) باشد، آیا بررسی تغییرات (Diff) صفحه‌های دیگری را هم که تحت تاثیر قرار می‌گیرند نشان می‌دهد؟ من روی یک دکمه در صفحه قیمت‌گذاری کلیک می‌کنم، سریع تایید می‌کنم و احتمالاً متوجه نمی‌شوم که اندازه همه دکمه‌ها در کل سایت تغییر کرده است..."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "اینکه تا زمانی که تایید نکنی هیچ کدی نوشته نمی‌شود را خیلی دوست دارم. من هرگز اجازه نمی‌دهم یک ایجنت هوش مصنوعی بدون دیدن پیش‌نمایش تغییرات دست به فایل‌های پروژه‌ام بزند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ممنون از همه کسانی که اشاره کردند در صفحه دانلود ما نوشته شده بود PulseDev گواهی امضای کد ندارد. آن متن قدیمی زمان بتا بود و الان برطرف شده است. PulseDev البته با Apple Developer ID ما امضا و توسط اپل تایید شده است، بنابراین macOS آن را بدون هیچ هشدار یا روش‌های ترمینالی باز می‌کند. واقعاً از یادآوری شما متشکریم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "یک سوال سریع: آیا فعلاً فقط مخصوص مک است؟ من بیشتر روزها روی ویندوز هستم و پلن رایگان می‌گوید یک پروژه روی مک. کلیک روی المان به جای توضیح دادن آن به کلود، دقیقاً همان چیزی است که حاضرم بابتش پول بدهم."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "بخش بررسی تغییرات در مرورگر همان قسمتی است که باعث می‌شود واقعاً از این ابزار استفاده کنم؛ دوست ندارم ایجنت بر اساس توضیحات یک اسکرین‌شات فایل‌ها را ادیت کند. کنجکاوم بدانم وقتی سورس‌مپینگ Vite وجود ندارد ایجنت چه چیزی دریافت می‌کند: فقط سمی‌کالر و استایل‌های محاسباتی، یا باز هم تلاش می‌کند کامپوننت را پیدا کند؟ معمولاً همین‌جا جایی است که پرامپت «این را شبیه آن کن» برای من خراب می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "آیا با فریم‌ورک‌های دیگری غیر از Vite مثل Next.js هم کار می‌کند؟ یا آنجا بیشتر متکی به تگ اسکریپت است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من این هفته یک باگ لوکال‌باست را به سه روش مختلف برای کلود توضیح می‌دادم. چرخه کلیک برای رفع مشکل در اینجا دقیقاً همان میانبری است که نمی‌دانستم به آن نیاز دارم."
+        }
+      ],
+      "aiReview": "پروژه PulseDev دست روی یکی از اصطکاک‌های اصلی کار با ایجنت‌های کدنویسی هوش مصنوعی گذاشته است: «توضیح متنی تغییرات ظاهری (UI)». معماری ابزار بر پایه کلیک روی المان، استخراج مشخصات فنی (Selector و Computed Styles) و ارسال مستقیم به CLI ایجنت‌ها طراحی شده و امنیت آن با پیش‌نمایش تغییرات (Diff) پیش از اعمال متنی حفظ می‌شود. مدل درآمدی آن مبتنی بر فری‌میوم و اشتراک ۱۲ تا ۱۸ دلاری است. نقطه‌قوت اصلی، حذف زمان تلف‌شده برای دیباگ بصری است اما نقطه ضعف آن وابستگی بالا به سورس‌مپینگ Vite و محدودیت فعلی به مک است. برای بازار ایران، ارائه نسخه ویندوز و امکان اتصال به مدل‌های متن‌باز یا سرویس‌های واسط ایرانی، ترفند کلیدی موفقیت خواهد بود.",
+      "iranEquivalent": {
+        "productName": "دیوکلیک (DevClick)",
+        "description": "دیوکلیک یک ابزار هوشمند بومی برای توسعه‌دهندگان فرانت‌اند است که به آن‌ها اجازه می‌دهد با کلیک مستقیم روی المان‌های وب‌سایت در لوکال‌باست، باگ‌های visual را برطرف کنند. این دستیار با ارسال کدهای سورس‌مپ و استایل المان انتخابی به ایجنت‌های هوش مصنوعی، خطاهای طراحی را بدون نیاز به پرامپت‌نویسی طولانی اصلاح می‌کند. پیش‌نمایش دقیق کدهای تغییریافته پیش از ذخیره‌سازی، امنیت پروژه را تضمین می‌نماید.",
+        "marketOpportunity": "با استقبال گسترده برنامه‌نویسان ایرانی از ایجنت‌های کدنویسی و نیاز مبرم به افزایش سرعت توسعه پروژه‌ها، ساده‌سازی فرایند دیباگ visual پتانسیل بالایی دارد. این ابزار می‌تواند اصطکاک تعامل متنی با AI را حذف کرده و زمان تحویل پروژه‌های وب را تا ۳۰ درصد کاهش دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند، طراحان رابط و تجربه کاربری (UI/UX)، تیم‌های توسعه نرم‌افزار و فریلنسرها",
+        "challenges": [
+          "محدودیت‌ها و تحریم‌های مربوط به دسترسی مستقیم به API مدل‌های هوش مصنوعی پیشرفته مانند Claude و Gemini",
+          "پشتیبانی کامل از فریم‌ورک‌های پرکاربرد در ایران مانند Next.js و React بدون افت دقت سورس‌مپینگ"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه برای برنامه‌نویسان مستقل و تیم‌های توسعه",
+          "ارائه لایسنس سازمانی برای شرکتی با امکان اتصال به مدل‌های هوش مصنوعی داخلی یا خصوصی (Self-hosted)"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "Electron",
+          "Vite Plugin",
+          "Node.js",
+          "Tailwind CSS"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -70488,62 +70877,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-11-03",
-      "rank": 6,
-      "name": "Calendarly ",
-      "slug": "calendarly-3",
-      "tagline": "Your calendar and tasks, right on your iPhone Lock Screen",
-      "description": "Calendarly draws your calendar, reminders, Todoist tasks, notes and countdowns onto the iPhone Lock Screen wallpaper, and redraws it automatically through a Shortcuts automation.",
-      "category": "Productivity • Task Management",
-      "categoryFa": "بهره‌وری • مدیریت وظایف",
-      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/64d3b7a3-004c-4556-84c3-113ccbde836a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/4fc8eade-53e6-4416-8fb4-789a32aa796b.jpeg?auto=format",
-        "https://ph-files.imgix.net/72d71b51-e1ca-4f2c-9000-11d68fa4914f.jpeg?auto=format",
-        "https://ph-files.imgix.net/90c995bd-b122-4831-b18b-df4429237577.jpeg?auto=format",
-        "https://ph-files.imgix.net/1d7d8210-acc7-429d-933d-f48a0db7e7dc.jpeg?auto=format",
-        "https://ph-files.imgix.net/00449771-f786-4d85-9906-a62322fbfb42.jpeg?auto=format",
-        "https://ph-files.imgix.net/34d248cc-666d-45bf-8238-d2b592e64fb0.jpeg?auto=format"
-      ],
-      "maker": "Dmytro Katyukha",
-      "makerTitle": "I make apps for Mac and iPhone",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 117,
-      "websiteUrl": "https://www.producthunt.com/r/326NNFAYMAN2FN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Dmytro here, the maker of Calendarly.I first launched here in February with a small idea: I wanted to check my calendar without unlocking my phone and getting distracted by everything else.Back then, Calendarly had been live for two days. Writing that first launch comment was a very nervous moment for me 🙂Months later, I’m back with a much more capable version of that same idea.Calendarly now brings your calendar, reminders, Todoist tasks, notes, and countdowns onto your iPhone Lock Screen. There are more layouts and more ways to make it feel like yours, whether you want your whole day in view or just the next thing you need to do.There are now widgets and Live Activities too, so you have more ways to keep your plans in view throughout the day.If you tried the first version, I’d really love to hear what you think of it now. And if you’re seeing Calendarly for the first time, welcome! I’m here to answer questions and help you get set up.Give it a try: https://apps.apple.com/us/app/calendarly-lockscreen-calendar/id6758898739"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the relaunch, Dmytro! Love the idea of seeing my day without unlocking the phone and getting distracted. Quick question: I split my time between two countries, Portugal and France, one hour apart. Does Calendarly handle time zones well when I travel, and can it show events in both local times? That would make it a daily tool for me."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "todoist task with no time on it. does it still show on the lock screen?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Do calendar colors carry over to the Lock Screen? With several calendars going at once, color is the only way to read a day at a glance."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@dim_kat I'm a huge fan of not having to use apps to get the value. This is huge.Will give it a test once the Google Calendar integration is direct, but well done, man. Very impressive!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "does the lock screen redraw happen only when the shortcuts automation fires, or can it update when a calendar event changes mid-day?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Shortcuts redraw is a clever workaround. How often does iOS actually let it refresh - on a schedule, or can it trigger when a new event lands on the calendar?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -71775,7 +72108,45 @@
           "user": "[REDACTED]",
           "text": "Love the iPad mini and have used it for so many years in different versions, but skipping this generation and giving iPhone Duo a chance instead."
         }
-      ]
+      ],
+      "faDescription": "آی‌پد مینی کاملاً جدید با ویژگی‌ها و طراحی خیره‌کننده توسط اپل معرفی شده است. این تبلت به نمایشگر ۸.۵ اینچی Super Retina XDR مجهز به فناوری OLED داراست که کیفیت بصری بی‌نظیری را ارائه می‌دهد. قدرت پردازشی این دستگاه توسط تراشه پیشرفته A۲۰ Pro تأمین می‌شود و به طور کامل از هوش مصنوعی اپل (Apple Intelligence) و دستیار سیری پشتیبانی می‌کند. همچنین، این محصول امکان پشتیبانی از قلم اپل (Apple Pencil) را برای یادداشت‌برداری و طراحی حرفه‌ای فراهم ساخته است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی! اپل بالاخره آی‌پد مینی را به صفحه نمایش OLED مجهز کرد. این نمایشگر اکنون ۸.۵ اینچی است و با وجود ۲۴ درصد حاشیه باریک‌تر، ابعاد کلی دستگاه تقریباً ثابت مانده است. حداکثر روشنایی HDR آن به ۱۲۰۰ نیت می‌رسد و حتی گزینه شیشه نانو-تکستچر برای مدل‌های ۲۵۶ و ۵۱۲ گیگابایتی وجود دارد. مینی جدید تنها ۵.۴ میلی‌متر ضخامت و ۲۵۵ گرم وزن (در مدل وای‌فای) دارد و از گواهی مقاومت در برابر آب IP۶۷ بهره می‌برد. اپل همچنین بلندگوها را بازطراحی کرده و آن را نمایشگر آکوستیک نامیده است، به‌طوری که ووفرها از طریق صفحه نمایش متصل شده و توییترها بین شیشه و آلومینیوم پنهان شده‌اند؛ که برای تبلتی به این کوچکی بسیار جذاب است. تراشه A۲۰ Pro جهش بزرگی در گرافیک و هوش مصنوعی روی دستگاه ایجاد کرده است. یک نکته مهم که باید بدانید: فقط نسخه ۵۱۲ گیگابایتی دارای پردازنده ۶ هسته‌ای و موتور عصبی دوگانه ۱۶ هسته‌ای است. و بله، هنوز هم خبری از رفرش ریت پرو‌موشن (ProMotion) نیست! 🤷"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "نرخ نوسازی صفحه نمایش روی ۶۰ هرتز قفل شده و خبری از ۱۲۰ هرتز نیست؛ آن هم در سال ۲۰۲۶!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من عاشق آی‌پد مینی هستم و سال‌ها از نسخه‌های مختلف آن استفاده کرده‌ام، اما از این نسل صرف‌نظر می‌کنم و در عوض به آیفون دوئو (iPhone Duo) شانس می‌دهم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: کاربران تبلت‌های فشرده، خواستار پردازش سنگین هوش مصنوعی، کیفیت تصویر فوق‌العاده و قابلیت حمل بالا بودند. اپل با ترکیب نمایشگر OLED، تراشه A۲۰ Pro و استاندارد IP۶۷، ابزاری همه‌فن‌حریف و مقاوم ارائه کرده است.\n\nمعماری و تکنولوژی: استفاده از معماری A۲۰ Pro همراه با موتور عصبی دوگانه (در نسخه ۵۱۲ گیگابایت) و فناوری نوآورانه Acoustic Display که صدا را از طریق صفحه نمایش منتقل می‌کند، از نقاط برجسته تکنولوژیک این نسل است.\n\nمدل درآمدی: اپل با تفکیک امکانات سخت‌افزاری (ارائه شیشه نانو-تکستچر و پردازنده قوی‌تر صرفاً در نسخه‌های گران‌تر) کاربران را به خرید مدل‌های با ظرفیت بالاتر ترغیب کرده و سود بالایی ایجاد می‌کند.\n\nنقاط قوت: ضخامت بسیار کم (۵.۴ میلی‌متر)، نمایشگر OLED با روشنایی ۱۲۰ نیت، مقاومت در برابر آب IP۶۷ و پردازش هوش مصنوعی محلی.\n\nنقاط ضعف: محدود ماندن صفحه نمایش به ۶۰ هرتز (عدم وجود ProMotion) در سال ۲۰۲۶ و تفاوت قدرت پردازشی میان ظرفیت‌های مختلف.\n\nنکته طلایی برای ایران: در بازار ایران به دلیل محدودیت‌های مالی، توسعه یک تبلت اقتصادی مبتنی بر اندروید بومی‌سازی‌شده که خدمات ابری، یادداشت‌برداری هوشمند و کتاب‌خوان داخلی ارائه دهد، می‌تواند سهم بازار قابل‌توجهی از دانشجویان و طراحان را جذب کند.",
+      "iranEquivalent": {
+        "productName": "پلتفرم هوشمند مطالعه و طراحی «پارس‌تاب»",
+        "description": "این پلتفرم یک اکوسیستم سخت‌افزاری و نرم‌افزاری فشرده بومی برای طراحان، دانشجویان و پژوهشگران ایرانی است. دستگاه با بهره‌گیری از سیستم‌عامل بهینه‌شده، دسترسی سریع به کتابخانه‌های دیجیتال داخلی و ابزارهای هوشمند را فراهم می‌سازد. همچنین یکپارچه‌سازی کامل با سرویس‌های ابری بومی برای ذخیره‌سازی امن اطلاعات در این محصول گنجانده شده است.",
+        "marketOpportunity": "نیاز روزافزون متخصصان و دانشجویان ایرانی به یک ابزار فشرده، قدرتمند و هماهنگ با نرم‌افزارهای داخلی فرصت بسیار مناسبی ایجاد کرده است. همچنین قیمت بالای محصولات اپل در بازار ایران، تقاضا برای جایگزین‌های باکیفیت و اقتصادی‌تر را به شدت افزایش داده است.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "دانشجویان، طراحان گرافیک، فریلنسرها، اساتید دانشگاه و علاقه‌مندان به مطالعه کتاب‌های دیجیتال",
+        "challenges": [
+          "تأمین قطعات سخت‌افزاری باکیفیت (مانند پنل‌های OLED) در شرایط تحریم و نوسانات ارزی",
+          "رقابت سخت با برندهای مطرح جهانی و چالش جلب اعتماد کاربران ایرانی"
+        ],
+        "monetization": [
+          "فروش مستقیم دستگاه سخت‌افزاری و لوازم جانبی مانند قلم هوشمند و کیف‌های اختصاصی",
+          "فروش اشتراک‌های نرم‌افزاری پریمیوم برای دسترسی به ابزارهای هوش مصنوعی و کتابخانه‌های اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Android AOSP",
+          "Python"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -73604,6 +73975,56 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-11-03",
+      "rank": 7,
+      "name": "MachineMail",
+      "slug": "machinemail",
+      "tagline": "Email inboxes for humans and bots",
+      "description": "Give your AI agents real inboxes to receive and send emails. Connect them over MCP or API, use your own domain, and get a trust report on every inbound message. Free includes 3,000 messages/month; paid plans start at $9/month.",
+      "category": "Email • Developer Tools • Artificial Intelligence",
+      "categoryFa": "ایمیل • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/machinemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3122dc08-d778-43e5-9ab4-8546a8e2497f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b12b72ed-7d11-43f1-80d3-86059784b43f.jpeg?auto=format",
+        "https://ph-files.imgix.net/a79f3c9d-4eec-4228-8ca4-6909405ad33a.jpeg?auto=format",
+        "https://ph-files.imgix.net/2ecf64b9-b4f8-469c-8dc2-12e9b76f1c42.jpeg?auto=format",
+        "https://ph-files.imgix.net/2e5aab4f-aabb-4a83-a1b6-b165ac1d6d7b.jpeg?auto=format",
+        "https://ph-files.imgix.net/8a9f62fa-6eb5-4234-93cf-f4f42002f0cf.jpeg?auto=format",
+        "https://ph-files.imgix.net/154fac15-f05e-4372-a162-3c52d8986806.jpeg?auto=format",
+        "https://ph-files.imgix.net/9188a1a8-111b-42da-b90a-85673ba03c61.jpeg?auto=format",
+        "https://ph-files.imgix.net/3b1b6bbc-917a-47b0-a917-c9da052218f0.jpeg?auto=format"
+      ],
+      "maker": "Kyle",
+      "makerTitle": "",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 112,
+      "websiteUrl": "https://www.producthunt.com/r/YGFRQB5ECPT5EA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋I'm Kyle, MachineMail's founder and maker. I've spent 12+ years building and operating cloud infrastructure.MachineMail gives AI agents their own email addresses so they can complete workflows that depend on email: signing up for services, waiting for verification codes, and replying to messages.Connect from an MCP client or use the API. Create an inbox on demand, use a catch-all domain, and wait for incoming mail with wait_for_message.Email is untrusted input and MachineMail prepares agent-safe text and attaches a trust report and level to each inbound message, giving your agent context for deciding how to handle it.If you're building an AI assistant, bot platform, or another product that wants to offer email to its users, MachineMail is for you too. Pods give each customer a separate space with their own inboxes, domains, webhooks, and API keys scoped to that pod, all within one MachineMail organization. Here's the guide to building with pods.Every plan includes unlimited inboxes and a trust report on every message. The free plan includes 3,000 messages per month (up to 100 per day) and support for one custom domain you own. Paid plans start at $9/month.It's easy to get started. Point your agent at machinemail.dev/auth.md and ask it to get a sandbox inbox. No signup needed to try it. Send it an email and see what it can do. If you like it, sign up and claim the address within 24 hours to keep it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "finally an affordable alternative to agentmail, thanks!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "One thing I wanted to say while we’re launching… (thanks for all the upvotes so far 🙏) is that I’d be happy if most people using MachineMail never needed to pay us.I built it to be an app for everyday people as much as an API for developers. The free plan is meant to be enough for most people: 3,000 emails a month, capped at 100 a day, and support for one custom domain you already own.The paid plans are there for people who need more: power users running swarms of agents, teams running their company or support email on us, enterprises, and startups building email into their own multi-tenant apps. Giving your agent an inbox should be easy and free."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This looks really well done, congrats. As someone who’s been thinking through the security implications of agent email for a while, you’ve ticked a lot of boxes."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "If my agent sends the wrong email, can I blame the agent? 👀"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-10-26",
       "rank": 10,
@@ -74557,56 +74978,6 @@
       }
     },
     {
-      "id": "ph-today-7",
-      "date": "2026-11-03",
-      "rank": 7,
-      "name": "MachineMail",
-      "slug": "machinemail",
-      "tagline": "Email inboxes for humans and bots",
-      "description": "Give your AI agents real inboxes to receive and send emails. Connect them over MCP or API, use your own domain, and get a trust report on every inbound message. Free includes 3,000 messages/month; paid plans start at $9/month.",
-      "category": "Email • Developer Tools • Artificial Intelligence",
-      "categoryFa": "ایمیل • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/machinemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3122dc08-d778-43e5-9ab4-8546a8e2497f.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b12b72ed-7d11-43f1-80d3-86059784b43f.jpeg?auto=format",
-        "https://ph-files.imgix.net/a79f3c9d-4eec-4228-8ca4-6909405ad33a.jpeg?auto=format",
-        "https://ph-files.imgix.net/2ecf64b9-b4f8-469c-8dc2-12e9b76f1c42.jpeg?auto=format",
-        "https://ph-files.imgix.net/2e5aab4f-aabb-4a83-a1b6-b165ac1d6d7b.jpeg?auto=format",
-        "https://ph-files.imgix.net/8a9f62fa-6eb5-4234-93cf-f4f42002f0cf.jpeg?auto=format",
-        "https://ph-files.imgix.net/154fac15-f05e-4372-a162-3c52d8986806.jpeg?auto=format",
-        "https://ph-files.imgix.net/9188a1a8-111b-42da-b90a-85673ba03c61.jpeg?auto=format",
-        "https://ph-files.imgix.net/3b1b6bbc-917a-47b0-a917-c9da052218f0.jpeg?auto=format"
-      ],
-      "maker": "Kyle",
-      "makerTitle": "",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 111,
-      "websiteUrl": "https://www.producthunt.com/r/YGFRQB5ECPT5EA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋I'm Kyle, MachineMail's founder and maker. I've spent 12+ years building and operating cloud infrastructure.MachineMail gives AI agents their own email addresses so they can complete workflows that depend on email: signing up for services, waiting for verification codes, and replying to messages.Connect from an MCP client or use the API. Create an inbox on demand, use a catch-all domain, and wait for incoming mail with wait_for_message.Email is untrusted input and MachineMail prepares agent-safe text and attaches a trust report and level to each inbound message, giving your agent context for deciding how to handle it.If you're building an AI assistant, bot platform, or another product that wants to offer email to its users, MachineMail is for you too. Pods give each customer a separate space with their own inboxes, domains, webhooks, and API keys scoped to that pod, all within one MachineMail organization. Here's the guide to building with pods.Every plan includes unlimited inboxes and a trust report on every message. The free plan includes 3,000 messages per month (up to 100 per day) and support for one custom domain you own. Paid plans start at $9/month.It's easy to get started. Point your agent at machinemail.dev/auth.md and ask it to get a sandbox inbox. No signup needed to try it. Send it an email and see what it can do. If you like it, sign up and claim the address within 24 hours to keep it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "finally an affordable alternative to agentmail, thanks!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "One thing I wanted to say while we’re launching… (thanks for all the upvotes so far 🙏) is that I’d be happy if most people using MachineMail never needed to pay us.I built it to be an app for everyday people as much as an API for developers. The free plan is meant to be enough for most people: 3,000 emails a month, capped at 100 a day, and support for one custom domain you already own.The paid plans are there for people who need more: power users running swarms of agents, teams running their company or support email on us, enterprises, and startups building email into their own multi-tenant apps. Giving your agent an inbox should be easy and free."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks really well done, congrats. As someone who’s been thinking through the security implications of agent email for a while, you’ve ticked a lot of boxes."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "If my agent sends the wrong email, can I blame the agent? 👀"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-10",
       "date": "2026-10-29",
       "rank": 10,
@@ -74700,7 +75071,68 @@
           "user": "[REDACTED]",
           "text": "Can I deploy chat agent on my shopify website to help my users to shop better, basically give recommendations and if they drop-off or purchase, can a voice ai agent reach out to upsell/take feedback,etc.?"
         }
-      ]
+      ],
+      "faDescription": "پلتفرم NuPlay عامل‌های هوش مصنوعی را برای سازمان‌ها و کسب‌وکارهای بزرگ در محیط واقعی به اجرا درمی‌آورد که پس از هر بار اجرا به‌طور خودکار بهبود می‌یابند. شما می‌توانید این عامل‌های هوشمند را برای بخش‌های خرده‌فروشی، خدمات مشتریان، کالاهای مصرفی و سایر حوزه‌ها در بسترهای صوتی، چت و ایمیل مستقر کرده و به سیستم‌های نرم‌افزاری موجود خود متصل کنید. این محصول به‌صورت یک پلتفرم یکپارچه طراحی شده است که دارای ۵ لایه تخصصی برای ساخت، اجرا و بهینه‌سازی مستمر عامل‌ها است. این لایه‌ها شامل NuPro، NuStack، NuContext، NuPulse و NuLoop هستند که فرایندهای پیچیده سازمانی را به‌صورت هوشمند و خودکار هدایت می‌کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، امروز NuPlay را معرفی می‌کنم. اکثر پروژه‌های هوش مصنوعی سازمانی یک مسیر تکراری را طی می‌کنند: یک پایلوت نویدبخش، راه‌اندازی، و سپس افت تدریجی کارایی. قوانین تغییر می‌کنند، محصولات عوض می‌شوند، مشتریان سؤالات جدید می‌پرسند و عامل هوشمند دقیقاً در همان حالت اولیه باقی می‌ماند. NuPlay بر اساس ایده‌ای کاملاً مخالف ساخته شده است؛ این پلتفرم جریان‌های کاری سازمانی را در محیط عملیاتی اجرا کرده و پس از هر اجرا آن‌ها را ارتقا می‌دهد، در حالی که عامل‌ها، سیستم‌ها و کانتکستی که از آن استفاده می‌کنند همگی در یک پلتفرم یکپارچه قرار دارند. پلتفرم از پنج بخش تشکیل شده است: NuPro جایی است که عامل‌ها را می‌سازید، رفتار، شخصیت، گفتار، مدیریت تماس، حریم خصوصی و تحلیل‌های پس از تماس را تنظیم کرده و قبل از استقرار آن را شبیه‌سازی می‌کنید. عامل‌ها در بستر صوت، چت، ایمیل و پیام‌رسان در بخش‌های پشتیبانی، فروش، منابع انسانی، عملیات تامین‌کنندگان و بازاریابی کار می‌کنند. NuStack سیستم‌های شما را آماده‌پذیرش عامل‌ها می‌کند؛ می‌توانید Salesforce، SAP، Snowflake، Zendesk یا ServiceNow را متصل کرده، اشیای کسب‌وکار (مشتریان، سفارش‌ها، فاکتورها، محموله‌ها) را نگاشت نموده و جریان کاری کامل را روی بوم طراحی کنید. NuContext تصویری یکسان از کسب‌وکار به تمام عامل‌ها می‌دهد؛ منابع، پایپ‌لاین‌ها، جداول، متریک‌ها و قوانین شما را در یک گراف کانتکست کنترل‌شده نگاشت می‌کند تا پاسخ‌ها بر اساس داده‌ها و قوانین خودتان باشد. NuLoop جالب‌ترین بخش برای من است؛ هر اجرا را امتیازدهی کرده، مشکل واقعی را شناسایی می‌کند (مثلاً قطع تماس یک‌سوم تماس‌گیرندگان قبل از شنیدن پیشنهاد)، علت را تشخیص داده، اصلاحیه را پیش‌نویس کرده و آن را در برابر اجراهای قبلی تست می‌کند و هیچ چیز تا زمانی که تیم شما تایید نکند منتشر نمی‌شود. NuPulse وضعیت تمام عامل‌ها از جمله حجم تماس، نرخ اتصال و زمان پاسخگویی را نشان می‌دهد و می‌توانید از دستیار آن تحلیل علت مشکلات را بخواهید. اگر جریان‌های کاری پرحجم پشتیبانی یا فروش دارید و متوقف شدن پایلوت‌های هوش مصنوعی را دیده‌اید، این ابزار ارزش بررسی دارد. تیم NuPlay تمام روز برای پاسخ به سوالات اینجاست."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "قابلیت خود-بهینه‌سازی بسیار جالب به نظر می‌رسد! آیا می‌توانید بگویید که آیا این ابزار با سیستم‌های فعلی ما هم کار می‌کند یا خیر؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "عالی به نظر می‌رسد. این پلتفرم چه تفاوتی با سایر پلتفرم‌های عامل هوش مصنوعی دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "پلتفرم NuPlay پیش از این به عنوان یک پلتفرم مکالمه‌ای برای مدیریت عامل‌های صوتی/متنی/ایمیلی در مقیاس بالا شناخته شده بود؛ این محصول ورود به حوزه عامل‌های غیرمکالمه‌ای نیز هست و خودکارسازی کامل سازمانی را برای مشتریان ما تکمیل می‌کند. منتظر قابلیت‌های عمیق‌تر این پلتفرم باشید!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "چند ماه گذشته را روی NuLoop یعنی لایه خود-بهینه‌ساز عامل‌های هوش مصنوعی کار کردم. ساختن عامل‌ها دیگر بخش سخت کار نیست، چالش اصلی این است که چگونه آن‌ها را در مقیاس بزرگ نگهداری کرده و ارتقا دهیم؟ پرونده‌های جدید هر روز و اشتباهات تکراری که مداوم رخ می‌دهند را نمی‌توان به صورت دستی مدیریت کرد. این همان مشکلی است که NuLoop حل می‌کند؛ عامل‌هایی که از مکالمات خود می‌آموزند، شکست‌ها را ترمیم می‌کنند و به مرور زمان خود را به سمت اهداف کسب‌وکار بهینه‌سازی می‌نمایند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من عضو تیم NuPlay هستم و روی پروژه‌های تحول هوش مصنوعی سازمان‌ها کار می‌کنم. اکثر کارهای ما از یک نقطه شروع می‌شود: فرایندی که هنوز روی اکسل، ایمیل و انتقال دستی داده بین سیستم‌ها می‌چرخد. ما فقط یک چت‌بات روی آن نصب نمی‌کنیم، بلکه فرایند را از صفر بازطراحی کرده، بخش‌های قابل اتوماسیون کامل را مشخص می‌کنیم و تصمیمات نیازمند تحلیل را به انسان‌ها می‌سپاریم. هدف ما جهش ۱۰ برابری بهره‌وری است نه صرفه‌جویی ۱۰ درصدی. NuPlay این دستاورد را پایدار می‌کند: عامل‌ها داخل سیستم‌های واقعی اجرا می‌شوند و پس از هر اجرا بهتر می‌شوند تا نتایج با پایان پروژه افت نکند. فضولی نباشد، به نظر شما کدام فرایند دستی در شرکت شما بیشتر از همه نیازمند این تغییر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "در حال حاضر در NuPlay کار می‌کنم، جایی که عامل ما پشتیبانی مشتریان واقعی را برای رهگیری سفارش، مرجوعی، تعویض و بازگشت وجه به‌صورت یکپارچه و با فراخوانی دقیق جزئیات مشتری انجام می‌دهد بدون اینکه مشتری نیاز به توضیح مجدد داشته باشد! بسیار هیجان‌انگیز است که ببینیم لایه کانتکست و لایه خود-بهینه‌سازی چگونه در محیط واقعی تاثیر می‌گذارند!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "آیا می‌توانم یک عامل چت روی وب‌سایت شاپیفای خود مستقر کنم تا به خرید بهتر کاربران و پیشنهاد محصول کمک کند و اگر خرید را رها کردند یا خرید انجام دادند، یک عامل صوتی برای فروش مکمل یا دریافت بازخورد با آن‌ها تماس بگیرد؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nاکثر پروژه‌های هوش مصنوعی سازمانی پس از راه‌اندازی اولیه، به دلیل تغییر قوانین، محصولات و رفتار مشتریان دچار افتی تدریجی در کیفیت می‌شوند. پلتفرم NuPlay با ارائه یک معماری ۵ لایه‌ای، نه تنها عامل‌های هوشمند را به سیستم‌های عملیاتی متصل می‌کند، بلکه با لایه اختصاصی NuLoop امکان خود-بهینه‌سازی (Self-Healing) و یادگیری مداوم را پس از هر بار اجرا فراهم می‌سازد.\n\nمعماری و تکنولوژی:\nاین پلتفرم از ۵ لایه مکمل تشکیل شده است: NuPro برای ساخت و شبیه‌سازی رفتار عامل‌ها، NuStack برای اتصال سیستم‌ها و طراحی بوم جریان کاری، NuContext برای ایجاد گراف دانش یکپارچه سازمانی، NuPulse برای نظارت و تحلیل سنجه‌های عملکردی، و NuLoop برای تست، تشخیص خطا و پیشنهاد اصلاحات خودکار با تایید انسان (Human-in-the-loop).\n\nمدل درآمدی:\nمدل درآمدی مبتنی بر اشتراک سازمانی (Enterprise SaaS) بر اساس میزان مصرف و تعداد عامل‌های فعال، به همراه هزینه‌های مربوط به خدمات استقرار و اتوماسیون فرایندها است.\n\nنقاط قوت:\n- چرخه بازخورد و خود-بهینه‌سازی مستمر که مانع از ناکارآمدی هوش مصنوعی در طول زمان می‌شود.\n- معماری یکپارچه برای پشتیبانی از کانال‌های مختلف (صوتی، چت، ایمیل) در یک پلتفرم واحد.\n- حفظ نظارت انسانی برای تایید نهایی تغییرات اصلاحی پیش از انتشار.\n\nنقاط ضعف:\n- پیچیدگی زیاد در فاز پیکربندی و نگاشت اولیه داده‌های سازمانی.\n- وابستگی شدید کارایی سیستم به کیفیت و یکپارچگی داده‌های ورودی سازمان.\n\nنکته طلایی برای بازار ایران:\nدر ایران، چالش اصلی پلتفرم‌های هوش مصنوعی، افت کیفیت پس از اجرای اولیه و عدم تطابق با نرم‌افزارهای بومی است. توسعه پلتفرمی با لایه خود-بهینه‌ساز که به‌صورت پیش‌فرض دارای رابط‌های اتصالی (Connectors) به نرم‌افزارهای رایج ایرانی مثل همکاران سیستم، سپیدار و سیستم‌های بانکی باشد، می‌تواند سهم بازار تحول دیجیتال سازمان‌های بزرگ کشور را تصاحب کند.",
+      "iranEquivalent": {
+        "productName": "نوپلی ایران (خودکارساز هوشمند سازمانی)",
+        "description": "این محصول یک پلتفرم جامع برای پیاده‌سازی و اجرای عامل‌های هوش مصنوعی خود-بهینه‌ساز در سازمان‌های ایرانی است. سیستم به نرم‌افزارهای CRM و ERP بومی متصل شده و فرایندهای پشتیبانی، فروش و مرکز تماس را به‌صورت کاملاً هوشمند مدیریت می‌کند. مهم‌ترین ویژگی آن یادگیری مستمر از داده‌های تعاملی و اصلاح خودکار خطاهای عملیاتی پس از هر اجرا است.",
+        "marketOpportunity": "سازمان‌های بزرگ، بانک‌ها و فروشگاه‌های اینترنتی پرحجم در ایران به شدت نیازمند کاهش هزینه‌های عملیاتی مراکز پشتیبانی و افزایش سرعت فرایندها هستند. عدم وجود یک پلتفرم بومی یکپارچه که توانایی اتصال به نرم‌افزارهای داخلی و فهم دقیق زبان و فرهنگ فارسی را داشته باشد، فرصت بازار بسیار ارزشمندی را ایجاد کرده است.",
+        "estimatedBudget": "۴ تا ۷ میلیارد تومان",
+        "targetAudience": "سازمان‌های بزرگ، بانک‌ها، اپراتورهای مخابراتی، فروشگاه‌های آنلاین بزرگ و مراکز تماس پرحجم",
+        "challenges": [
+          "محدودیت‌های مربوط به زیرساخت پردازشی و میزبانی مدل‌های زبانی بزرگ بومی در داخل کشور",
+          "چالش‌های فنی پیاده‌سازی اتصالات مستحکم (Connectors) با سیستم‌های سنتی و متنوع ERP و CRM ایرانی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه یا سالانه سازمانی بر اساس تعداد عامل‌های فعال و حجم تراکنش‌ها",
+          "درآمد حاصل از پیاده‌سازی سفارشی، یکپارچه‌سازی با سیستم‌های داخلی و خدمات مشاوره تحول هوش مصنوعی"
+        ],
+        "techStack": [
+          "Python",
+          "FastAPI",
+          "React",
+          "PostgreSQL",
+          "LangGraph",
+          "Qdrant",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -75228,6 +75660,41 @@
       ]
     },
     {
+      "id": "ph-today-8",
+      "date": "2026-11-03",
+      "rank": 8,
+      "name": "LifeVal",
+      "slug": "lifeval",
+      "tagline": "OpenAI's benchmark for everyday life tasks with AI",
+      "description": "LifeVal is OpenAI's new eval for the everyday tasks people most want help with, like finding childcare, budgeting, ordering groceries and government services. OpenAI says it used LifeVal for a year to push ChatGPT toward real agent work.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/985f8044-9031-45e7-9127-097c2a5f8066.png?auto=format",
+        "https://ph-files.imgix.net/dc6672f4-b5c2-4e16-98c7-d34217ecb0f6.png?auto=format",
+        "https://ph-files.imgix.net/100ff1fb-3b3d-447d-b485-00c91cc5877d.png?auto=format",
+        "https://ph-files.imgix.net/ba141116-1590-428d-95c3-97cb8245150a.png?auto=format",
+        "https://ph-files.imgix.net/3d7439c9-0100-4da4-99bf-1c75ce837544.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 110,
+      "websiteUrl": "https://www.producthunt.com/r/LUAD4D36GSESMI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH community 👋Excited to hunt LifeVal today.OpenAI just introduced LifeVal, a new benchmark that measures how well AI handles the everyday tasks people actually want help with, like finding childcare, building a budget, ordering groceries and dealing with government services. They say they've used it for the past year to track and drive improvement in their models, and GPT 6 Astra posts best recorded scores of 100% on tasks like booking a car inspection and ordering groceries within a budget. OpenAI posted a short look at it on X here.Here's how the community is reacting:Krish Subramanian thinks enterprises should copy the method, not the scores, and build their own agent evals from ticket queues and process logs: https://x.com/krishnan/status/2117322998881648740Sarthak wants to see whether better scores turn into reliable help in real situations: https://x.com/sarthaksavvy/status/2117322351541129554The task list is the part I find most interesting. OpenAI started from the American Time Use Survey and the Multinational Time Use Study, then ran its own survey of 3,995 people to find where they'd most want a personal assistant, so the tasks come from real lives instead of exam questions.Taking action is the other big idea. LifeVal grades whether the model actually gets the job done through browser use, computer use and connectors, which is the gap between a chat answer and an assistant you'd trust with your errands.For builders working on agents, it's a useful map of the jobs everyday users care about most.You can read the full breakdown right now: https://openai.com/index/lifeval/Give it a read and let the team know which everyday task you'd hand to ChatGPT first 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Is there a paper or technical report, or do a blog post with a couple paragraphs and a video count as a research publication now?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-10-20",
       "rank": 10,
@@ -75736,41 +76203,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-11-03",
-      "rank": 8,
-      "name": "LifeVal",
-      "slug": "lifeval",
-      "tagline": "OpenAI's benchmark for everyday life tasks with AI",
-      "description": "LifeVal is OpenAI's new eval for the everyday tasks people most want help with, like finding childcare, budgeting, ordering groceries and government services. OpenAI says it used LifeVal for a year to push ChatGPT toward real agent work.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/985f8044-9031-45e7-9127-097c2a5f8066.png?auto=format",
-        "https://ph-files.imgix.net/dc6672f4-b5c2-4e16-98c7-d34217ecb0f6.png?auto=format",
-        "https://ph-files.imgix.net/100ff1fb-3b3d-447d-b485-00c91cc5877d.png?auto=format",
-        "https://ph-files.imgix.net/ba141116-1590-428d-95c3-97cb8245150a.png?auto=format",
-        "https://ph-files.imgix.net/3d7439c9-0100-4da4-99bf-1c75ce837544.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 109,
-      "websiteUrl": "https://www.producthunt.com/r/LUAD4D36GSESMI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH community 👋Excited to hunt LifeVal today.OpenAI just introduced LifeVal, a new benchmark that measures how well AI handles the everyday tasks people actually want help with, like finding childcare, building a budget, ordering groceries and dealing with government services. They say they've used it for the past year to track and drive improvement in their models, and GPT 6 Astra posts best recorded scores of 100% on tasks like booking a car inspection and ordering groceries within a budget. OpenAI posted a short look at it on X here.Here's how the community is reacting:Krish Subramanian thinks enterprises should copy the method, not the scores, and build their own agent evals from ticket queues and process logs: https://x.com/krishnan/status/2117322998881648740Sarthak wants to see whether better scores turn into reliable help in real situations: https://x.com/sarthaksavvy/status/2117322351541129554The task list is the part I find most interesting. OpenAI started from the American Time Use Survey and the Multinational Time Use Study, then ran its own survey of 3,995 people to find where they'd most want a personal assistant, so the tasks come from real lives instead of exam questions.Taking action is the other big idea. LifeVal grades whether the model actually gets the job done through browser use, computer use and connectors, which is the gap between a chat answer and an assistant you'd trust with your errands.For builders working on agents, it's a useful map of the jobs everyday users care about most.You can read the full breakdown right now: https://openai.com/index/lifeval/Give it a read and let the team know which everyday task you'd hand to ChatGPT first 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Is there a paper or technical report, or do a blog post with a couple paragraphs and a video count as a research publication now?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -76380,7 +76812,38 @@
           "user": "[REDACTED]",
           "text": "Hi everyone!8BitDo's Arcade Controller Pro is built for fighting games, with buttons instead of a joystick. It has a compact layout, five programmable buttons and a 1.47-inch screen. You can check inputs, remap buttons and change SOCD modes right on the controller.There's a metal lock to keep the USB-C cable in place, a rear release to lift off the glass faceplate and swap mechanical switches, and five flat lock caps tucked inside the magnetic wrist rest for buttons you keep hitting by accident. A side dial also turns on Tournament Lock.It's $119.99 and ships next month for Windows, Switch and Switch 2.All those buttons make me want to play Street Fighter again! 👊"
         }
-      ]
+      ],
+      "faDescription": "آرکید کنترلر پرو یک دسته بازی مبارزه‌ای تمام‌دکمه‌ای و قابل شخصی‌سازی است که بدون جوی‌استیک سنتی طراحی شده است. این محصول دارای چیدمانی فشرده و یک نمایشگر داخلی هوشمند برای اعمال تنظیمات سریع است. سوییچ‌های مکانیکی این کنترلر قابلیت تعویض سریع (Hot-swappable) دارند و به نورپردازی RGB مجهز شده‌اند. همچنین یک تکیه‌گاه مچ دست مغناطیسی برای افزایش راحتی کاربر در استفاده‌های طولانی‌مدت در آن گنجانده شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! کنترلر آرکید پرو برند ۸BitDo مخصوص بازی‌های مبارزه‌ای ساخته شده و به جای جوی‌استیک از دکمه استفاده می‌کند. این دستگاه دارای چیدمان فشرده، پنج دکمه قابل برنامه‌ریزی و یک صفحه نمایش ۱.۴۷ اینچی است. شما می‌توانید ورودی‌ها را بررسی کنید، دکمه‌ها را دوباره نگاشت (Remap) کنید و حالت‌های SOCD را مستقیماً روی خود کنترلر تغییر دهید. یک قفل فلزی برای محکم نگه داشتن کابل USB-C وجود دارد، یک شاسی رهاسازی در پشت برای برداشتن صفحه شیشه‌ای و تعویض سوییچ‌های مکانیکی تعبیه شده، و پنج کاپ قفل تخت داخل تکیه‌گاه مچ مغناطیسی پنهان شده‌اند تا دکمه‌هایی را که تصادفی فشار می‌دهید قفل کنید. یک کلید چرخشی جانبی نیز حالت قفل تورنمنت را فعال می‌کند. قیمت آن ۱۱۹.۹۹ دلار است و ماه آینده برای ویندوز، سوییچ و سوییچ ۲ عرضه می‌شود. دیدن این همه دکمه باعث می‌شود دوباره دلم بخواهد استریت فایتر بازی کنم! 👊"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nگیمرهای حرفه‌ای بازی‌های مبارزه‌ای به دقت و سرعت بالای ورودی‌ها نیاز دارند، اما جوی‌استیک‌های سنتی گاهی خطای حرکتی ایجاد می‌کنند. Arcade Controller Pro با حذف جوی‌استیک و جایگزینی آن با دکمه‌های مکانیکی (Hitbox style)، سرعت و دقت را به حداکثر می‌رساند. علاوه بر این، نمایشگر داخلی و قابلیت تغییر کلیدها بدون نیاز به کامپیوتر، مشکل تنظیمات پیچیده در هنگام مسابقات را حل کرده است.\n\n### معماری و تکنولوژی\nاین محصول ترکیب سخت‌افزار پیشرفته (میکروکنترلرهای سریع با زمان پاسخ‌دهی نزدیک به صفر، نمایشگر OLED/LCD کوچک و سوییچ‌های مکانیکی Hot-swappable) و نرم‌افزار مدیریت ورودی‌ها (برای کنترل SOCD و Remapping) است. در نمونه آنلاین یا پلاتفرم فروش، ترکیب Next.js و PostgreSQL برای مدیریت سفارشات، شخصی‌سازی‌ها و پشتیبانی کاربران بهترین گزینه است.\n\n### مدل درآمدی\nمدل درآمدی متکی بر فروش مستقیم سخت‌افزار (با حاشیه سود سخت‌افزاری)، فروش قطعات جانبی تعویضی (سوییچ‌ها، کاپ‌ها، صفحات شیشه‌ای سفارشی) و ارائه لوازم جانبی مکمل مانند کیف‌های حمل مخصوص تورنمنت است.\n\n### نقاط قوت\n- **نوآوری در UX:** وجود صفحه نمایش روی دسته برای تنظیمات آنی بدون نیاز به نرم‌افزار جانبی.\n- **طراحی ارگونومیک و کاربردی:** پد مغناطیسی مچ، جایگاه نگهداری کاپ‌های قفل و قفل تورنمنت جهت جلوگیری از فشردن اشتباهی دکمه‌ها.\n- **قیمت رقابتی:** قیمت ۱۱۹.۹۹ دلاری نسبت به رقبا (مانند Victrix یا Hitbox) بسیار اقتصادی است.\n\n### نقاط ضعف\n- **منحنی یادگیری بالا:** انتقال از جوی‌استیک به کنترلر تمام‌دکمه‌ای برای گیمرهای عادی زمان‌بر است.\n- **محدودیت به سبک خاص:** این محصول تقریباً فقط برای بازی‌های مبارزه‌ای و دو بعدی کاربرد دارد.\n\n### نکته طلایی برای ایران\nدر بازار ایران به دلیل قیمت فوق‌العاده بالای محصولات وارداتی مشابه، تولید یک کنترلر تمام‌دکمه‌ای (Leverless Controller) با استفاده از بردهای ارزان‌قیمت مانند RP۲۰۴۰ و فریم‌ورهای متن‌باز (مثل GP۲۰۴۰-CE) می‌تواند هزینه‌ها را به شدت کاهش دهد. اگر یک استارتاپ ایرانی بتواند بدنه‌ای باکیفیت به همراه قابلیت چاپ طرح‌های دلخواه گیمرها (Custom Art) ارائه دهد، سریعاً سهم بازار کنترلرهای حرفه‌ای را در مسابقات داخلی فتح خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "پرشین فایت‌پد (Persian FightPad Pro)",
+        "description": "این محصول یک دسته بازی مبارزه‌ای بومی‌سازی‌شده تمام‌دکمه‌ای است که برای گیمرهای حرفه‌ای و مسابقات E-sports طراحی شده است. دستگاه با پشتیبانی از نرم‌افزار شخصی‌سازی و نمایشگر داخلی، امکان تنظیم سریع کلیدها و حالت‌های مختلف بازی را فراهم می‌کند. قطعات مکانیکی قابل تعویض و بدنه مقاوم، این محصول را به انتخابی باکیفیت و اقتصادی در بازار داخلی تبدیل می‌سازد.",
+        "marketOpportunity": "با توجه به رشد چشمگیر جامعه گیمینگ ایران و هزینه‌های بالای واردات دسته‌های حرفه‌ای، خلاء بزرگی در بازار سخت‌افزار گیمینگ داخلی وجود دارد. تولید بومی این محصول می‌تواند پاسخگوی نیاز گیمرهای حرفه‌ای با قیمتی رقابتی و پشتیبانی نرم‌افزاری مناسب باشد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "گیمرهای حرفه‌ای بازی‌های مبارزه‌ای (مثل Tekken و Street Fighter)، برگزارکنندگان تورنمنت‌های گیمینگ و علاقه‌مندان به سخت‌افزارهای سفارشی‌سازی‌شده.",
+        "challenges": [
+          "تامین سوییچ‌های مکانیکی باکیفیت و قطعات الکترونیکی دقیق به دلیل نوسانات ارز",
+          "قالب‌گیری دقیق بدنه و طراحی سیستم‌های مکانیکی مثل قفل کابل و پد مغناطیسی در داخل کشور"
+        ],
+        "monetization": [
+          "فروش مستقیم کنترلر و پکیج‌های لوازم جانبی (سوییچ، دکمه و کاور)",
+          "ارائه خدمات شخصی‌سازی ظاهری (Custom Plate) برای گیمرها و تیم‌های ای‌پورت"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "C/C++ (Embedded Firmware)",
+          "Raspberry Pi RP۲۰۴۰",
+          "Tailwind CSS"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -80803,6 +81266,10 @@
         },
         {
           "user": "[REDACTED]",
+          "text": "Hookdeck is pretty awesome. TBH webhooks have always been a thorn in our sides, so any attempts to make the problem suck less is greatly appreciated!"
+        },
+        {
+          "user": "[REDACTED]",
           "text": "Every DM in StorkPlus reaches our agents as a Meta webhook, and the slow part is messaging our own test page just to see one payload again. Does the mock list cover WhatsApp, Messenger and Instagram events? And can an Inspect URL answer Meta's hub.challenge verification, so I can point a real test app at it too?"
         },
         {
@@ -81501,6 +81968,44 @@
       }
     },
     {
+      "id": "ph-today-10",
+      "date": "2026-11-03",
+      "rank": 10,
+      "name": "People Search by Context.dev",
+      "slug": "people-search-by-context-dev",
+      "tagline": "People Search API: Find People by Role, Company & Location",
+      "description": "Describe the people you need in plain English. Get up to 10 profiles per call with role, employer, location, experience, skills, and schools.",
+      "category": "Marketing • Developer Tools • Search",
+      "categoryFa": "بازاریابی • ابزار توسعه‌دهندگان • Search",
+      "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d9549d2d-d4fb-4887-82e2-6afcfd79af7a.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/5dd95c31-f7af-4b54-8537-1dc70fe4c82f.jpeg?auto=format",
+        "https://ph-files.imgix.net/77745799-715d-496d-9b60-d1dff8c80eeb.png?auto=format",
+        "https://ph-files.imgix.net/c3da17cc-b421-4792-8b63-fdf0a113c409.png?auto=format",
+        "https://ph-files.imgix.net/7b62053a-d0d3-43cd-8c32-6032f9989494.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-03T08:01:00Z",
+      "votes": 99,
+      "websiteUrl": "https://www.producthunt.com/r/3IKZZRN7VHAG4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "We built People Search to make finding the right people easier. Just describe who you're looking for, like \"VPs of Sales at solar companies in California,\" and search over 1 billion people.Combine this with our other API's and you can make something even more powerful!Happy building!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, Ely! Handing each employer domain straight to Retrieve Brand is a nice touch. What led you to people data now? Was it something customers kept asking for, or part of the plan from day one?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch ely. plain english search is nice, i always lose time on filters. but people change jobs every year -> how fresh are the titles? old data is what kills reply rates for me"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-19",
       "rank": 9,
@@ -81798,44 +82303,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-11-03",
-      "rank": 10,
-      "name": "People Search by Context.dev",
-      "slug": "people-search-by-context-dev",
-      "tagline": "People Search API: Find People by Role, Company & Location",
-      "description": "Describe the people you need in plain English. Get up to 10 profiles per call with role, employer, location, experience, skills, and schools.",
-      "category": "Marketing • Developer Tools • Search",
-      "categoryFa": "بازاریابی • ابزار توسعه‌دهندگان • Search",
-      "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d9549d2d-d4fb-4887-82e2-6afcfd79af7a.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/5dd95c31-f7af-4b54-8537-1dc70fe4c82f.jpeg?auto=format",
-        "https://ph-files.imgix.net/77745799-715d-496d-9b60-d1dff8c80eeb.png?auto=format",
-        "https://ph-files.imgix.net/c3da17cc-b421-4792-8b63-fdf0a113c409.png?auto=format",
-        "https://ph-files.imgix.net/7b62053a-d0d3-43cd-8c32-6032f9989494.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-03T08:01:00Z",
-      "votes": 98,
-      "websiteUrl": "https://www.producthunt.com/r/3IKZZRN7VHAG4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "We built People Search to make finding the right people easier. Just describe who you're looking for, like \"VPs of Sales at solar companies in California,\" and search over 1 billion people.Combine this with our other API's and you can make something even more powerful!Happy building!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Ely! Handing each employer domain straight to Retrieve Brand is a nice touch. What led you to people data now? Was it something customers kept asking for, or part of the plan from day one?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch ely. plain english search is nice, i always lose time on filters. but people change jobs every year -> how fresh are the titles? old data is what kills reply rates for me"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -86002,10 +86469,10 @@
   "audit": {
     "products": 866,
     "withRealComments": 866,
-    "withPersianComments": 784,
-    "withPersianDescription": 784,
-    "withAiReview": 762,
-    "withIranEquivalent": 784,
-    "totalRealComments": 5351
+    "withPersianComments": 793,
+    "withPersianDescription": 793,
+    "withAiReview": 769,
+    "withIranEquivalent": 793,
+    "totalRealComments": 5352
   }
 }

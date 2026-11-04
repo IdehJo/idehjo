@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "scrapedAt": "2026-11-04T00:48:36.522Z",
+  "scrapedAt": "2026-11-04T02:35:18.134Z",
   "periods": {
     "today": [
       {
@@ -28,12 +28,16 @@
         "maker": "Shrimithran",
         "makerTitle": "Building Scalekit",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 339,
+        "votes": 357,
         "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt,I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.Why now? Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.But the tool call is only the surface. Once an agent ships to real users, everything underneath it shows up:whose credentials each call executes withwhich tools each agent should have in contextthe internal systems no catalog coverswhat happens when an upstream API pushes backwho's accountable for every actionThat layer decides whether an agent makes it to production. It's what we built AgentKit for.Try it free: scalekit.com. The free tier includes 10,000 tool calls a month and all 600+ connectors. Make your first tool call from the dashboard, or start from your terminal with npx @ scalekit-inc/cli setup.Here's what it looks like in practice.Say you're shipping a sales agent inside your product. A rep types: \"Prep me for the Acme renewal. Pull the deal, the last three email threads, what the team said in Slack, when we last met them, and how much they've used the product this quarter.\"Four apps, one ask. Getting it working for one rep in a demo is easy. Here's what's underneath when it runs for every rep at every customer:Thousands of OAuth grants, not four. 40 customers × 30 reps × Salesforce, Gmail, Slack and Calendar = 4,800 connected accounts. Each needs its tokens stored, isolated per customer, and refreshed before they expire mid-run. → AgentKit manages connected accounts end to end. Users authorize through an auth link you surface in your app. Tokens live in a per-tenant AES-256 vault, refresh automatically, and are injected at execution time. They never touch your code, logs, or prompts.Every call has to execute as the right user. The agent should see what that rep can see at that customer, and nothing more. Not a shared service account with org-wide access to every inbox. → Every tool call executes with the end user's own credentials, within the scopes they granted.Every tool definition costs context. Gmail alone exposes ~30 tools; four apps put over a hundred on the table. At ~200 tokens per definition, 40 tools burn ~8,000 tokens before the agent does any work, and tool selection gets worse as the list grows. Your prep agent needs about ten tools. Your outbound agent needs a different ten. → Virtual MCP Servers let you compose a tool set per agent role, across connectors. Each role gets one static MCP URL; you mint a short-lived session token per user per run. Smaller context and least-privilege access: ten tool definitions (~2,000 tokens) instead of over a hundred (20,000+).The data you need has no connector. Usage lives in your customer's internal analytics service. No catalog covers it, so you'd build that integration yourself, auth included. → Define it as a custom connector (OAuth 2.0, API key, bearer token, RSA or basic auth), or point AgentKit at a remote MCP server. It runs on the same gateway with the same credential handling and logs as the 600+ built-in connectors.It has to hold up and be auditable. Rate limits, timeouts, upstream errors the model can't act on. Then a deal stage changes and someone asks whether the rep did it or the agent did. → Retries and rate limits are handled on every call. Every call is logged with agent, user, tool and response, and logs stream to Datadog or Splunk.None of this shows up in a demo. All of it shows up in production. AgentKit handles that layer: 30,000+ tools across 600+ apps behind one MCP gateway. And with Triggers, an agent can start on its own the moment an email lands.Python and Node SDKs. Works with the Anthropic and OpenAI SDKs, LangChain, Google ADK, Vercel AI SDK, Mastra, and Claude Code. You keep your framework and backend.Which of these five has slowed your agent down the most?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch @ravibits @satya_deva549. How is this different from connecting an MCP server directly to my agent?"
           },
           {
             "user": "[REDACTED]",
@@ -58,10 +62,6 @@
           {
             "user": "[REDACTED]",
             "text": "This is pretty cool - congratulations on the launch @satya_deva549 @ravibits @shrimithranr!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is great idea, and very necessary for any AI-native SaaS app. Maintaining integrations is challenging. Keeping it all secure is more than a full-time job."
           }
         ]
       },
@@ -92,9 +92,29 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 263,
+        "votes": 284,
         "websiteUrl": "https://www.producthunt.com/r/EKZU365TJG62XT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "It is hard to review AI work when everyone is looking at a different version."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "good ideas in group chat usually stop there. curious how well it turns them into something usable"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "what happens if two people @ mention different agents on the same message?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Interesting. I would start with a group that already has a lot of shared docs."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The concept of bringing humans and multiple AI agents together into a shared workspace is truly compelling. I particularly like the idea of ​​using a shared memory across various conversations. This could solve one of the major challenges in working with AI the need to repeatedly explain the context."
+          },
           {
             "user": "[REDACTED]",
             "text": "two agents finish the same chat. does each one post its own message?"
@@ -106,26 +126,6 @@
           {
             "user": "[REDACTED]",
             "text": "How much memory carries from one group to another? Congrats @aidenchaoyanghe"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Does the agent keep working if everyone closes the app?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the first place I would try this is a messy planning group😼"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats! Roxie's question about how proactive an agent should be in a group of ten got me thinking. What happens when two people give it conflicting instructions? Does it decide, or ask the group?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Great job team! May I ask how are permissions handled for Gmail and X actions?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Does it support voice messages from WhatsApp?"
           }
         ]
       },
@@ -155,12 +155,20 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 213,
+        "votes": 222,
         "websiteUrl": "https://www.producthunt.com/r/673ETOS256IMRH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! 👋 I’m Amihay, founder and CEO of Testifly. Testifly is for CTOs, founders and small teams that ship a web app without a dedicated QA person, and want their time to go to building. It’s also for QA testers, developers and product managers who are tired of writing and fixing tests. If you’ve ever said “I hope this deploy didn’t break anything,” this is for you.The problemI’ve worked in software for 25 years. On almost every project, I saw the same thing: we never got a good return on our testing investment.We spent a lot of time writing test automation. Then the code changed and the tests broke. One test took a week to turn green again. In that week, another test turned red.Then AI came, and it was chaos in a different way. It wrote tests that were not relevant. When a test failed because of a real bug, the AI “fixed” the test to match the bug instead of reporting it. And it created about 2,000 tests that nobody could manage.The solutionSo we built Testifly 🚀 - an autonomous AI QA solution for web apps. You connect your web app, and that’s it. Testifly does the testing work for you.Before and afterBefore: testers wrote test cases by hand, fixed them after every change, and argued about who owns the red tests.After: Testifly does it all for you, and you don’t write or maintain anything.Why not just use your own AI coding agent?You can ask a coding agent to write tests. But you still own them afterwards: you prompt it, review what it wrote, and fix what breaks. The maintenance work comes back to you.With Testifly, that part is handled:No prompting, reviewing or babysitting. It does the whole cycle.When a test fails, it tells you something may be broken.You can stay focused on building. Your time goes to the product, not to a test suite.What you getIt finds your user flows on its ownIt creates the testsIt runs them on every deploy and on a scheduleIt keeps the tests up to date when your app changes - QA with zero maintenanceTestifly catches broken signups, failed forms and regressions, without adding work for you or your team.Try it - free to start, no credit card required 👉 https://testifly.dev/product-hunt🎁 PH special: upgrade to a paid plan today and get your 2nd month free.What I’d love from you 💬Please try Testifly on your own app and tell us what worked, what broke and what is missing.And one question: what is your single biggest challenge with testing today? The more detail the better. Your answers will directly shape what we build next!Thank you to our team, who worked hard to get here. Thank you to @rohanrecommends for hunting us. And thank you to the Product Hunt community for giving new products a chance.I’ll be here all day to read and answer every comment. We’re still early, and I’m excited about what comes next.AmihayFounder & CEO, Testifly"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The self-healing mechanism sounds great. How do you make sure it doesn't accidentally update a test to accept a real bug? 😅"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Interesting. I would start with a group that already has a lot of shared docs."
           },
           {
             "user": "[REDACTED]",
@@ -181,14 +189,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats. Say if a test fails due to temporary network issue, not because there is a bug in the product. In this case, does Testtifly retry before reporting the issue?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Including a video with each test failure is a great touch. Congrats on the launch!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Could you tell me how Testifly handles apps with different user roles and permissions. Wouldn’t testing an admin flow versus regular user flow be very different?"
           }
         ]
       },
@@ -215,12 +215,16 @@
         "maker": "Joel Horwitz",
         "makerTitle": "Founder of Synter",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 156,
+        "votes": 160,
         "websiteUrl": "https://www.producthunt.com/r/VWLUQCUJVICBLP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt, I'm Joel, founder of Synter.AI agents can build software now, but advertising still means a separate dashboard, API and login for every platform. So we built Synter: one connection that lets your agent work across 30+ ad platforms.The easiest way to start is Claude plus the Synter MCP server. It also works with ChatGPT and other MCP clients, and it's built right into Amp.How it works:1. Add https://mcp.synterai.com to Claude.2. Connect your ad accounts.3. Ask it to build a campaign, shift budget or pull a cross-platform report.Changes run with safety gates and guardrails. Start by approving every change; turn on more autonomy when you're ready. Big or irreversible actions always ask first.Pricing: free to connect and read; $0.25 per verified write, 0% of ad spend.I'd like to hear what you build with your agent, and which workflows we should support next."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Nice work Joel. I run ads for a couple of our own products and the scary part with an agent is a bad change going live on a Friday night. If a change goes wrong, can I roll it back in one step? And can I set a hard daily spend cap per platform that the agent can’t go over, even if it thinks a campaign is doing well?"
           },
           {
             "user": "[REDACTED]",
@@ -245,10 +249,6 @@
           {
             "user": "[REDACTED]",
             "text": "I'd want the old and new budgets side by side in the approval. Moving money between platforms is much easier to review when the exact change is visible."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Last week at Seattle AI Days I said people expect their agents to cook like a Michelin star chef, but what they got was a line cook at a local diner. A real chef has mise en place: the right tools, the right ingredients and the right prep cooks and staff refining every dish so it meets the highest standards. For advertising, that means your agent gets the right tools to connect every ad account, the right data on what's actually working, and autonomous agents that refine every campaign around the clock, with safety gates and guardrails on every change. Synter is the mise en place for growth marketing, and the ONLY platform to connect and EXECUTE campaigns across 30+ advertising platforms. We're now training Synter to be a Michelin star chef with fine-tuned models. DM me for early access, and if you try Synter, I'd love your honest feedback on what works and what's missing."
           }
         ]
       },
@@ -335,7 +335,7 @@
         "maker": "Dmytro Katyukha",
         "makerTitle": "I make apps for Mac and iPhone",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 117,
+        "votes": 120,
         "websiteUrl": "https://www.producthunt.com/r/326NNFAYMAN2FN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -393,7 +393,7 @@
         "maker": "Kyle",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 111,
+        "votes": 112,
         "websiteUrl": "https://www.producthunt.com/r/YGFRQB5ECPT5EA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -440,7 +440,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 109,
+        "votes": 110,
         "websiteUrl": "https://www.producthunt.com/r/LUAD4D36GSESMI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -480,6 +480,10 @@
           {
             "user": "[REDACTED]",
             "text": "Request bins have been around for ages, but were built for humans. We thought it time to build something agent-native.Inspect is a webhook tester you can use with your agent. No skills, MCP, or server setup required.Get a URL and see requests arrive live, with payloads exactly as sent. Or paste the URL into Claude or Codex and it’ll tell you when a request lands, and use it to build your handler.What's included:Mock webhooks from 500+ providers, including Stripe, Shopify and GitHubA live request feed that you and your agent can useA path to production: forward to localhost with CLI, then move to Event Gateway for queues, retries and transforms.By Hookdeck, the makers of Event Gateway and Outpost, which processes billions of webhooks every week.Inspect is free to use, no account needed. Check it out and let us know what you think."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hookdeck is pretty awesome. TBH webhooks have always been a thorn in our sides, so any attempts to make the problem suck less is greatly appreciated!"
           },
           {
             "user": "[REDACTED]",
@@ -524,7 +528,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 98,
+        "votes": 99,
         "websiteUrl": "https://www.producthunt.com/r/3IKZZRN7VHAG4G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -568,7 +572,7 @@
         "maker": "Justin D'Souza",
         "makerTitle": "Co-founder & CEO at Asymptote Labs",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 435,
+        "votes": 437,
         "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -758,7 +762,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 237,
+        "votes": 238,
         "websiteUrl": "https://www.producthunt.com/r/3WNUZE5QLV6YEU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -940,7 +944,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 158,
+        "votes": 160,
         "websiteUrl": "https://www.producthunt.com/r/A4SAVBJLKDKRDV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1006,7 +1010,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 151,
+        "votes": 152,
         "websiteUrl": "https://www.producthunt.com/r/7NCNIIQEMH52HJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1310,7 +1314,7 @@
         "maker": "Justin D'Souza",
         "makerTitle": "Co-founder & CEO at Asymptote Labs",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 435,
+        "votes": 437,
         "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1410,8 +1414,70 @@
       },
       {
         "id": "ph-week-5",
-        "date": "2026-10-30",
+        "date": "2026-11-03",
         "rank": 5,
+        "name": "AgentKit by Scalekit",
+        "slug": "agentkit-by-scalekit",
+        "tagline": "MCP gateway for production agents that acts on your behalf",
+        "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
+        "category": "API • Developer Tools",
+        "categoryFa": "API • ابزار توسعه‌دهندگان",
+        "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format",
+          "https://ph-files.imgix.net/da2436be-53f8-47bf-a3c7-050f4d5997ae.png?auto=format",
+          "https://ph-files.imgix.net/8c1904ec-d17c-47d9-984c-dc6736295630.png?auto=format",
+          "https://ph-files.imgix.net/ab38075e-e0a2-4eac-95f1-c35763bcc8ea.png?auto=format",
+          "https://ph-files.imgix.net/c37a2ca5-a700-4085-ade6-36554fb488a8.png?auto=format",
+          "https://ph-files.imgix.net/59cd6b29-cf82-4b3d-8a59-887a7330c931.png?auto=format",
+          "https://ph-files.imgix.net/809c26af-a96c-443d-b1ae-4e798d99f4b7.png?auto=format",
+          "https://ph-files.imgix.net/851127f8-1a17-42d4-a618-0cc25dd3638f.jpeg?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-11-03T08:01:00Z",
+        "votes": 357,
+        "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt,I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.Why now? Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.But the tool call is only the surface. Once an agent ships to real users, everything underneath it shows up:whose credentials each call executes withwhich tools each agent should have in contextthe internal systems no catalog coverswhat happens when an upstream API pushes backwho's accountable for every actionThat layer decides whether an agent makes it to production. It's what we built AgentKit for.Try it free: scalekit.com. The free tier includes 10,000 tool calls a month and all 600+ connectors. Make your first tool call from the dashboard, or start from your terminal with npx @ scalekit-inc/cli setup.Here's what it looks like in practice.Say you're shipping a sales agent inside your product. A rep types: \"Prep me for the Acme renewal. Pull the deal, the last three email threads, what the team said in Slack, when we last met them, and how much they've used the product this quarter.\"Four apps, one ask. Getting it working for one rep in a demo is easy. Here's what's underneath when it runs for every rep at every customer:Thousands of OAuth grants, not four. 40 customers × 30 reps × Salesforce, Gmail, Slack and Calendar = 4,800 connected accounts. Each needs its tokens stored, isolated per customer, and refreshed before they expire mid-run. → AgentKit manages connected accounts end to end. Users authorize through an auth link you surface in your app. Tokens live in a per-tenant AES-256 vault, refresh automatically, and are injected at execution time. They never touch your code, logs, or prompts.Every call has to execute as the right user. The agent should see what that rep can see at that customer, and nothing more. Not a shared service account with org-wide access to every inbox. → Every tool call executes with the end user's own credentials, within the scopes they granted.Every tool definition costs context. Gmail alone exposes ~30 tools; four apps put over a hundred on the table. At ~200 tokens per definition, 40 tools burn ~8,000 tokens before the agent does any work, and tool selection gets worse as the list grows. Your prep agent needs about ten tools. Your outbound agent needs a different ten. → Virtual MCP Servers let you compose a tool set per agent role, across connectors. Each role gets one static MCP URL; you mint a short-lived session token per user per run. Smaller context and least-privilege access: ten tool definitions (~2,000 tokens) instead of over a hundred (20,000+).The data you need has no connector. Usage lives in your customer's internal analytics service. No catalog covers it, so you'd build that integration yourself, auth included. → Define it as a custom connector (OAuth 2.0, API key, bearer token, RSA or basic auth), or point AgentKit at a remote MCP server. It runs on the same gateway with the same credential handling and logs as the 600+ built-in connectors.It has to hold up and be auditable. Rate limits, timeouts, upstream errors the model can't act on. Then a deal stage changes and someone asks whether the rep did it or the agent did. → Retries and rate limits are handled on every call. Every call is logged with agent, user, tool and response, and logs stream to Datadog or Splunk.None of this shows up in a demo. All of it shows up in production. AgentKit handles that layer: 30,000+ tools across 600+ apps behind one MCP gateway. And with Triggers, an agent can start on its own the moment an email lands.Python and Node SDKs. Works with the Anthropic and OpenAI SDKs, LangChain, Google ADK, Vercel AI SDK, Mastra, and Claude Code. You keep your framework and backend.Which of these five has slowed your agent down the most?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch @ravibits @satya_deva549. How is this different from connecting an MCP server directly to my agent?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great product from Satya and Ravi. I've seen the story from the beginning, and this one just ups the game from what I know they've already been building."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch Ravi and Satya!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats folks on the launch. This is really exciting, are you planning to support browser agents too in the future?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Very cool, how does authentication work? Ill try it out."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The per-tenant token vault plus Virtual MCP Servers per role is a sensible split. One thing I'm curious about: when a user revokes a grant in Salesforce directly, how fast does AgentKit notice, and what does the agent see on its next call, a clean auth error or a silent failure?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This is pretty cool - congratulations on the launch @satya_deva549 @ravibits @shrimithranr!"
+          }
+        ]
+      },
+      {
+        "id": "ph-week-6",
+        "date": "2026-10-30",
+        "rank": 6,
         "name": "Knocket AI",
         "slug": "knocket-ai",
         "tagline": "Chat with visitors from your website or link",
@@ -1468,9 +1534,9 @@
         ]
       },
       {
-        "id": "ph-week-6",
+        "id": "ph-week-7",
         "date": "2026-11-02",
-        "rank": 6,
+        "rank": 7,
         "name": "UnleashX",
         "slug": "unleashx",
         "tagline": "The AI workforce that turns conversations into outcomes. ",
@@ -1520,68 +1586,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on the launch. Can you give me an example of an exception handling case? Like a scenario where the AI employees reliably handled the exceptions."
-          }
-        ]
-      },
-      {
-        "id": "ph-week-7",
-        "date": "2026-11-03",
-        "rank": 7,
-        "name": "AgentKit by Scalekit",
-        "slug": "agentkit-by-scalekit",
-        "tagline": "MCP gateway for production agents that acts on your behalf",
-        "description": "Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.",
-        "category": "API • Developer Tools",
-        "categoryFa": "API • ابزار توسعه‌دهندگان",
-        "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format",
-          "https://ph-files.imgix.net/da2436be-53f8-47bf-a3c7-050f4d5997ae.png?auto=format",
-          "https://ph-files.imgix.net/8c1904ec-d17c-47d9-984c-dc6736295630.png?auto=format",
-          "https://ph-files.imgix.net/ab38075e-e0a2-4eac-95f1-c35763bcc8ea.png?auto=format",
-          "https://ph-files.imgix.net/c37a2ca5-a700-4085-ade6-36554fb488a8.png?auto=format",
-          "https://ph-files.imgix.net/59cd6b29-cf82-4b3d-8a59-887a7330c931.png?auto=format",
-          "https://ph-files.imgix.net/809c26af-a96c-443d-b1ae-4e798d99f4b7.png?auto=format",
-          "https://ph-files.imgix.net/851127f8-1a17-42d4-a618-0cc25dd3638f.jpeg?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 339,
-        "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt,I'm Ravi, co-founder of Scalekit. Today we're launching AgentKit, an MCP gateway that handles auth and tool-calling for AI agents in production.Why now? Over the last year, wiring an agent to a tool got easy. MCP standardized the interface, and any agent can now call Gmail or Salesforce after an afternoon of work.But the tool call is only the surface. Once an agent ships to real users, everything underneath it shows up:whose credentials each call executes withwhich tools each agent should have in contextthe internal systems no catalog coverswhat happens when an upstream API pushes backwho's accountable for every actionThat layer decides whether an agent makes it to production. It's what we built AgentKit for.Try it free: scalekit.com. The free tier includes 10,000 tool calls a month and all 600+ connectors. Make your first tool call from the dashboard, or start from your terminal with npx @ scalekit-inc/cli setup.Here's what it looks like in practice.Say you're shipping a sales agent inside your product. A rep types: \"Prep me for the Acme renewal. Pull the deal, the last three email threads, what the team said in Slack, when we last met them, and how much they've used the product this quarter.\"Four apps, one ask. Getting it working for one rep in a demo is easy. Here's what's underneath when it runs for every rep at every customer:Thousands of OAuth grants, not four. 40 customers × 30 reps × Salesforce, Gmail, Slack and Calendar = 4,800 connected accounts. Each needs its tokens stored, isolated per customer, and refreshed before they expire mid-run. → AgentKit manages connected accounts end to end. Users authorize through an auth link you surface in your app. Tokens live in a per-tenant AES-256 vault, refresh automatically, and are injected at execution time. They never touch your code, logs, or prompts.Every call has to execute as the right user. The agent should see what that rep can see at that customer, and nothing more. Not a shared service account with org-wide access to every inbox. → Every tool call executes with the end user's own credentials, within the scopes they granted.Every tool definition costs context. Gmail alone exposes ~30 tools; four apps put over a hundred on the table. At ~200 tokens per definition, 40 tools burn ~8,000 tokens before the agent does any work, and tool selection gets worse as the list grows. Your prep agent needs about ten tools. Your outbound agent needs a different ten. → Virtual MCP Servers let you compose a tool set per agent role, across connectors. Each role gets one static MCP URL; you mint a short-lived session token per user per run. Smaller context and least-privilege access: ten tool definitions (~2,000 tokens) instead of over a hundred (20,000+).The data you need has no connector. Usage lives in your customer's internal analytics service. No catalog covers it, so you'd build that integration yourself, auth included. → Define it as a custom connector (OAuth 2.0, API key, bearer token, RSA or basic auth), or point AgentKit at a remote MCP server. It runs on the same gateway with the same credential handling and logs as the 600+ built-in connectors.It has to hold up and be auditable. Rate limits, timeouts, upstream errors the model can't act on. Then a deal stage changes and someone asks whether the rep did it or the agent did. → Retries and rate limits are handled on every call. Every call is logged with agent, user, tool and response, and logs stream to Datadog or Splunk.None of this shows up in a demo. All of it shows up in production. AgentKit handles that layer: 30,000+ tools across 600+ apps behind one MCP gateway. And with Triggers, an agent can start on its own the moment an email lands.Python and Node SDKs. Works with the Anthropic and OpenAI SDKs, LangChain, Google ADK, Vercel AI SDK, Mastra, and Claude Code. You keep your framework and backend.Which of these five has slowed your agent down the most?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Great product from Satya and Ravi. I've seen the story from the beginning, and this one just ups the game from what I know they've already been building."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch Ravi and Satya!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats folks on the launch. This is really exciting, are you planning to support browser agents too in the future?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Very cool, how does authentication work? Ill try it out."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The per-tenant token vault plus Virtual MCP Servers per role is a sensible split. One thing I'm curious about: when a user revokes a grant in Salesforce directly, how fast does AgentKit notice, and what does the agent see on its next call, a clean auth error or a silent failure?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is pretty cool - congratulations on the launch @satya_deva549 @ravibits @shrimithranr!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is great idea, and very necessary for any AI-native SaaS app. Maintaining integrations is challenging. Keeping it all secure is more than a full-time job."
           }
         ]
       },
@@ -2285,7 +2289,7 @@
         "maker": "Justin D'Souza",
         "makerTitle": "Co-founder & CEO at Asymptote Labs",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 435,
+        "votes": 437,
         "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2381,6 +2385,68 @@
           {
             "user": "[REDACTED]",
             "text": "Very innovative product, and it really defines the future of team collaboration. I am quite curious about how you handle company memory. If different teams have asymmetric information, how does the agent handle that problem?"
+          }
+        ]
+      },
+      {
+        "id": "ph-month-10",
+        "date": "2026-10-06",
+        "rank": 10,
+        "name": "Rill Browser",
+        "slug": "rill-browser",
+        "tagline": "The browser where Claude Code and Codex work beside you",
+        "description": "Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.",
+        "category": "Developer Tools • Artificial Intelligence",
+        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی",
+        "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format",
+          "https://ph-files.imgix.net/8793305e-7c92-4448-b2de-e751ddfce65a.png?auto=format",
+          "https://ph-files.imgix.net/f2df9508-620b-4899-8b58-af67883a0b25.png?auto=format",
+          "https://ph-files.imgix.net/6c39de27-5630-4eec-bda8-5249a2b56b4d.png?auto=format",
+          "https://ph-files.imgix.net/59a1fab9-96db-4569-b32e-4ec5f399e00c.png?auto=format",
+          "https://ph-files.imgix.net/60902f3b-d35e-4384-ba2b-2dd69c1a272c.png?auto=format",
+          "https://ph-files.imgix.net/30190a79-f888-431e-9776-9150b4eb156c.png?auto=format",
+          "https://ph-files.imgix.net/73cd1f7b-1f0f-427b-b75c-11336f1a2d08.png?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-10-06T07:01:00Z",
+        "votes": 435,
+        "websiteUrl": "https://www.producthunt.com/r/YZHJNNU36WBO6Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hi Product Hunt, I'm William! I made Rill because I want to always stay in the flow. As an ADHD, I never liked code-switching. My best ideas for work come when I'm supposedly not working at all: watching something for fun, reading things and following a rabbit hole, looking at how someone else solved a problem. Then when an idea hit me, I'd have to stop, switch to coding agents, find the project and explain it all, and most of the time I just didn't.Rill is my way of removing that code-switching. It's a browser with your Claude Code or Codex working alongside you. When something on a page gives you an idea, you say so right there, and an agent starts on it in the right project. You don't have to spend time looking for the right folder, rephrasing everything you just saw on the web, and you don't switch in and out of work mode. The work goes on with you in the flow.This matters now more than ever. Agents have shortened the distance between ideas to output near zero. So the bottleneck is capturing the idea at the moment you have it. That moment is nearly always while you're taking something in, and that is what a browser is for.Rill is a free AI-native browser. It's WebKit-based, which means it's native to Mac. And it runs on the Claude Code or Codex plan you already have, so you don't have to buy a new subscription for all of its agentic capabilities.cHow do you keep an idea today when it shows up at the wrong time?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Smart browser design. Questions: Does it handle multiple Claude projects simultaneously? Privacy model for context sharing? Keyboard shortcut customization for power users? API access for agent integration?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Guys, congrats on the launch! Love the idea of having everything in one place! I have a question: can I manage task priorities across multiple agents, or does ech agent work independently?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch!!quick question, does the console go across too? i'm usually just looking at my own localhost and the thing i actually need is whatevers in the console, plus the request that failed under it. right now thats me copy pasting it in every time and how does it know which project. i have the same app running on like three ports half the time."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey @williamgaoharvard Congrats on your launch and leading the chart. Is this mobile compatible, can we send tasks from mobile, we could do with Claude?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I opened History at the end of the day and it read like a diary. I’ve never looked at my Chrome history for fun.Congratulations on the launch"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I’d love to queue up a few tasks at night and wake up to them done. Is anyone already using it like that?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I use Codex for research too, so I can see this being useful beyond coding. Being able to trace a draft back to the pages that informed it would matter more to me than just handing over the tabs."
           }
         ]
       }
@@ -2981,7 +3047,65 @@
             "user": "[REDACTED]",
             "text": "The agent/workflow angle in Framer AI Agents is interesting. One thing I’d love to understand is how you handle handoff when the automation is not confident — do users get a clear review step before changes go live?"
           }
-        ]
+        ],
+        "faDescription": "آژنت‌ها هوش مصنوعی را مستقیماً به بوم طراحی می‌آورند تا در طراحی، نوشتن، تحلیل و سازماندهی سایت‌های شما کمک کنند. ما همچنین «شاخه‌بندی» (Branching) را معرفی می‌کنیم، روشی جدید برای تیم‌ها جهت آزمایش ایده‌ها قبل از انتشار عمومی. در کنار اینها، جامعه جدید Framer رونمایی شد که به خالقان اجازه می‌دهد آثار خود را به اشتراک بگذارند و از آن‌ها درآمد کسب کنند. این راه‌اندازی‌ها به طور همزمان نحوه ایجاد، نگهداری و مقیاس‌پذیری وب‌سایت‌ها برای تیم‌ها را دگرگون می‌کنند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "همه سلام، امروز سه به‌روزرسانی بزرگ Framer را منتشر می‌کنیم. ۱. استفاده از آژنت‌ها روی بوم برای طراحی، نوشتن، تحلیل و سازماندهی سایت شما. شامل راه‌هایی برای اتصال هوش مصنوعی‌های شخصی شما مانند Claude Code یا Codex به Framer. ۲. شاخه‌بندی (Branching) به تیم شما راهی ایمن‌تر برای آزمایش ایده‌ها قبل از انتشار می‌دهد. ۳. جامعه جدید Framer به خالقان مکانی برای به اشتراک‌گذاری کارها و کسب درآمد از آن‌ها می‌دهد. آن‌ها را امتحان کنید و نظرتان را بگویید!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "شاخه‌بندی بخشی است که بیشترین علاقه‌مندی من را جلب می‌کند. وقتی یک آژنت یک تغییر را در یک شاخه آزمایش می‌کند، آیا می‌توانید فقط بخشی از آن شاخه را به سایت اصلی ادغام کنید یا همه یا هیچ است؟ و آیا یک شاخه محتوای CMS و تعاملات را در حالی که در حال آزمایش هستید، سالم نگه می‌دارد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "واقعاً خوشحالم که آژنت‌ها می‌توانند به ابزارهای هوش مصنوعی خارجی مانند Claude Code متصل شوند به جای قفل شدن در یک دستیار جعبه سیاه. وقتی پیشنهاد یک آژنت با یک سیستم طراحی موجود یا محدودیت‌های کامپوننت در تضاد باشد، چگونه با آن برخورد می‌کنید — آیا تضاد را علامت‌گذاری می‌کنند یا آن را بازنویسی می‌کنند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "واقعاً از این مسیر خوشم می‌آید — انتشار مستقیم از طراحی تولیدشده با هوش مصنوعی شکافی را پر می‌کند که بسیاری از ابزارها آن را باز می‌گذارند. یک نکته‌ای هست که کنجکاوم بدانم: وقتی محتوای تولیدشده با هوش مصنوعی (طراحی یا ویدیو) عادی شود، آیا اصلاً به مسئله اصالت/منسوب‌سازی برای آنچه با هوش مصنوعی ساخته شده در مقابل آنچه توسط انسان ویرایش شده فکر می‌کنید؟ این چیزی است که ما از روز اول در بخش ویدیو مجبور به ساختن آن بودیم و تصور می‌کنم برای طراحی نیز اهمیت آن فزاینده خواهد بود."
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "استفاده آسان، قابل سفارشی‌سازی آسان. مشتریان عاشق آن هستند."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "شاخه‌بندی برای فایل‌های طراحی قهرمان بی‌نام و نشان اینجا است، نمی‌دانستم تا حالا به آن نیاز دارم."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "اتصال Claude Code / Codex بخشی است که می‌خواهم اول آن را تست کنم. یک سوال: وقتی یک آژنت یک سایت شبه‌زنده را تغییر می‌دهد، آیا شاخه‌بندی ویرایش‌های هوش مصنوعی را به عنوان یک دیف (diff) تمیز برای بررسی آسان نگه می‌دارد، یا بیشتر شبیه مقایسه بصری وضعیت صفحات است؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "زاویه آژنت/فلو در Framer AI Agents جالب است. یک چیزی که دوست دارم بفهمم این است که چگونه هنگامی که اتوماسیون اطمینان ندارد، تحویل (handoff) را مدیریت می‌کنید — آیا کاربران یک مرحله بررسی واضح قبل از زنده شدن تغییرات دریافت می‌کنند؟"
+          }
+        ],
+        "aiReview": "مسئله اصلی در بازار فعلی، پیچیدگی فرآیند طراحی تا انتشار و ریسک بالای تغییرات در محیط‌های زنده است. راه‌حل ارائه‌شده ترکیب هوش مصنوعی مولد برای تسریع تولید محتوا و طراحی با سیستم کنترل نسخه (Branching) برای کاهش ریسک است. از نظر معماری، این محصول نیازمند یک موتور رندر سبک‌وزن و سریع است که بتواند تغییرات هوش مصنوعی را به صورت بلادرنگ اعمال کند و در عین حال، لایه‌ای از مدیریت نسخه برای فایل‌های طراحی و کد ایجاد کند. مدل درآمدی ترکیبی از SaaS (اشتراک) و Marketplace (بازارچه) است که هم درآمد پایدار و هم شبکه‌ای اثر ایجاد می‌کند. نقاط قوت شامل کاهش زمان به بازار (Time-to-Market) و دموکراتیزه کردن طراحی حرفه‌ای است. نقاط ضعف شامل وابستگی به کیفیت مدل‌های هوش مصنوعی و پیچیدگی فنی در همگام‌سازی تغییرات هوش مصنوعی با سیستم‌های طراحی موجود است. نکته طلایی برای ایران: تمرکز بر «هوش مصنوعی فارسی‌زبان» برای تولید محتوا و طراحی رابط کاربری که با فرهنگ و زبان کاربران ایرانی همخوانی داشته باشد، می‌تواند مزیت رقابتی غیرقابل کپی‌شدنی ایجاد کند.",
+        "iranEquivalent": {
+          "productName": "فریم‌ایران (FramerIran)",
+          "description": "پلتفرمی یکپارچه برای طراحی و توسعه وب‌سایت‌های مدرن با تمرکز بر هوش مصنوعی بومی. این محصول امکان ایجاد شاخه‌های کاری برای تست امن ایده‌ها و مدیریت تیمی را فراهم می‌کند. همچنین یک بازار آنلاین برای خرید و فروش قالب‌ها و خدمات طراحی توسط خالقان ایرانی ایجاد می‌شود.",
+          "marketOpportunity": "بازار طراحی وب در ایران با رشد سریع استارتاپ‌ها و کسب‌وکارهای دیجیتال تشنه‌ی ابزارهای بومی و ارزان‌تر از رقبا است. وجود زیرساخت‌های هوش مصنوعی بومی و نیاز به شخصی‌سازی محتوا به زبان فارسی، فرصت بزرگی برای ورود است.",
+          "estimatedBudget": "۳.۵ میلیارد تومان",
+          "targetAudience": "استارتاپ‌ها، آژانس‌های دیجیتال مارکتینگ، فریلنسرها و کسب‌وکارهای کوچک و متوسط ایرانی",
+          "challenges": [
+            "محدودیت‌های دسترسی به مدل‌های هوش مصنوعی پیشرفته خارجی و نیاز به یکپارچه‌سازی با مدل‌های بومی",
+            "مقاومت در برابر تغییر از ابزارهای سنتی و نیاز به آموزش گسترده کاربران"
+          ],
+          "monetization": [
+            "مدل اشتراک ماهانه برای دسترسی به آژنت‌های هوش مصنوعی و قابلیت شاخه‌بندی",
+            "کمیسیون از فروش قالب‌ها و خدمات طراحی در بازار آنلاین خالقان"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Redis",
+            "Docker"
+          ],
+          "confidence": 72
+        }
       }
     ]
   }
