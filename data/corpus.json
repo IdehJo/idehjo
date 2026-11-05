@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T00:59:58.364Z",
+  "generatedAt": "2026-11-05T02:47:28.853Z",
   "sourceFiles": 87,
   "products": [
     {
@@ -17687,6 +17687,68 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-04",
+      "rank": 1,
+      "name": "Wanaka Studio",
+      "slug": "wanaka-studio",
+      "tagline": "Make and publish 3D games with the first AI game engine",
+      "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
+      "category": "Artificial Intelligence • Games • No-Code",
+      "categoryFa": "هوش مصنوعی • بازی • No-Code",
+      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format",
+        "https://ph-files.imgix.net/4d06fd2c-928d-4d1d-be3d-2d9680ca4706.png?auto=format",
+        "https://ph-files.imgix.net/7a73848a-5cdb-4a4f-a2c6-aab467929de7.png?auto=format",
+        "https://ph-files.imgix.net/66e09a38-38af-4927-a46d-5cc9c1de7091.jpeg?auto=format",
+        "https://ph-files.imgix.net/11245bf7-a8a3-4121-a963-bc03ad9464ff.jpeg?auto=format",
+        "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
+        "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
+        "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
+      ],
+      "maker": "Yang Zhang",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 357,
+      "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 I'm Yang, Founder & CEO of Wanaka.A bit about us:I scaled ByteDance's Helo to 50M DAU, and co-founded Livein (#1 on the US App Store) and AnswerAI (top-3 AI education app in North America, 6M+ users)My CTO spent 10 years at ByteDance leading recommendation & LLM RL at Seed, with a computer graphics background from SJTUOur core team comes from ByteDance Seed and miHoYoTogether, we're uniting top-tier AI agent research with deep game-engine engineering.Today, we're launching Wanaka Studio: the first all-in-one, AI-native game engine built from the ground up for both humans and AI. Anyone can build high-quality 3D games, with zero coding required.💡 Why we built Wanaka StudioMaking a game should be as easy as making a video. Photos and videos had their UGC revolutions because editing apps made creation effortless. Games never did, because the barrier was too high. We believe AI finally makes game creation accessible to everyone.Existing AI game-dev paths hit a dead end. We went deep on the two main approaches in the market today and found fatal flaws in both. Our takeaway: LLMs won't replace professional software. Instead, AI needs better software. All pro software deserves to be rebuilt from scratch for one simple reason: the user has changed.So we built a brand-new game engine where both humans and AI are first-class citizens.🚀 What makes it special: Ultimate Ease of Use × AAA-Grade QualityAn Engine-Native AI Agent That Actually Works. Why does our Agent succeed where general coding agents fail? It doesn't write raw boilerplate from scratch. It operates on an engine co-designed for AI, with clean declarative APIs, 30+ atomic engine tools (physics, terrain, prefabs, behaviors, lighting), and a closed-loop self-playtest & rollback system that inspects the live runtime, catches bugs, and fixes its own mistakes.All-in-One Game IDE & Visual Editor. No black-box prompt roulette. The Agent and the visual IDE stay in real-time, two-way sync. Prompt for speed and get readable, structured game design & logic, then click straight into the 3D viewport to drag assets and fine-tune parameters. The Agent immediately understands every manual edit you make.3D Character Generation & Rigging. Generate custom 3D characters with built-in skeletal rigging and animations in seconds.Native Multiplayer. Built-in networking and state sync let you turn any creation into a multiplayer game to play with friends.One-Click Publishing. Share your game instantly via a link. Zero deployment headaches.🎮 Come build with us! 👉 Try Wanaka Studio: https://studio.wanaka.app/ Our team is in the comments all day. Build a world and let us know what you think! 🙏🔥"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "very nice product and UI.how much does it cost?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations on the Launch!The app feels great and easier to use. I built a simple rocket launch simulator game in less than 10 mins. I'd love to use it in my app to gamify learning experience. I wasn't able to find an API key for that measure, it would be great to have API calls for this model so that it can be more beneficial for other developers.Screenshots -"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've have been enjoying game development using Claude directly, but am looking forward to trying out an entire game dev ecosystem"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part I find interesting is that you can go from a simple idea to a playable 3D game without having to learn a full game engine first."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks great @yang_zhang21 @stefania_chen! Congrats to the team. I tried emailing you but your email on your website bounced back. What's the best email?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does the multiplayer work between phone and desktop?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super cool! I love that this connects to sketchfab and presumably other tools. I made a two player racing game and was surprised by how fast it built."
+        }
+      ]
+    },
+    {
       "id": "ph-week-8",
       "date": "2026-09-23",
       "rank": 8,
@@ -18393,71 +18455,9 @@
       ]
     },
     {
-      "id": "ph-today-1",
-      "date": "2026-11-04",
-      "rank": 1,
-      "name": "Wanaka Studio",
-      "slug": "wanaka-studio",
-      "tagline": "Make and publish 3D games with the first AI game engine",
-      "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
-      "category": "Artificial Intelligence • Games • No-Code",
-      "categoryFa": "هوش مصنوعی • بازی • No-Code",
-      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format",
-        "https://ph-files.imgix.net/4d06fd2c-928d-4d1d-be3d-2d9680ca4706.png?auto=format",
-        "https://ph-files.imgix.net/7a73848a-5cdb-4a4f-a2c6-aab467929de7.png?auto=format",
-        "https://ph-files.imgix.net/66e09a38-38af-4927-a46d-5cc9c1de7091.jpeg?auto=format",
-        "https://ph-files.imgix.net/11245bf7-a8a3-4121-a963-bc03ad9464ff.jpeg?auto=format",
-        "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
-        "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
-        "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
-      ],
-      "maker": "Yang Zhang",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 353,
-      "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 I'm Yang, Founder & CEO of Wanaka.A bit about us:I scaled ByteDance's Helo to 50M DAU, and co-founded Livein (#1 on the US App Store) and AnswerAI (top-3 AI education app in North America, 6M+ users)My CTO spent 10 years at ByteDance leading recommendation & LLM RL at Seed, with a computer graphics background from SJTUOur core team comes from ByteDance Seed and miHoYoTogether, we're uniting top-tier AI agent research with deep game-engine engineering.Today, we're launching Wanaka Studio: the first all-in-one, AI-native game engine built from the ground up for both humans and AI. Anyone can build high-quality 3D games, with zero coding required.💡 Why we built Wanaka StudioMaking a game should be as easy as making a video. Photos and videos had their UGC revolutions because editing apps made creation effortless. Games never did, because the barrier was too high. We believe AI finally makes game creation accessible to everyone.Existing AI game-dev paths hit a dead end. We went deep on the two main approaches in the market today and found fatal flaws in both. Our takeaway: LLMs won't replace professional software. Instead, AI needs better software. All pro software deserves to be rebuilt from scratch for one simple reason: the user has changed.So we built a brand-new game engine where both humans and AI are first-class citizens.🚀 What makes it special: Ultimate Ease of Use × AAA-Grade QualityAn Engine-Native AI Agent That Actually Works. Why does our Agent succeed where general coding agents fail? It doesn't write raw boilerplate from scratch. It operates on an engine co-designed for AI, with clean declarative APIs, 30+ atomic engine tools (physics, terrain, prefabs, behaviors, lighting), and a closed-loop self-playtest & rollback system that inspects the live runtime, catches bugs, and fixes its own mistakes.All-in-One Game IDE & Visual Editor. No black-box prompt roulette. The Agent and the visual IDE stay in real-time, two-way sync. Prompt for speed and get readable, structured game design & logic, then click straight into the 3D viewport to drag assets and fine-tune parameters. The Agent immediately understands every manual edit you make.3D Character Generation & Rigging. Generate custom 3D characters with built-in skeletal rigging and animations in seconds.Native Multiplayer. Built-in networking and state sync let you turn any creation into a multiplayer game to play with friends.One-Click Publishing. Share your game instantly via a link. Zero deployment headaches.🎮 Come build with us! 👉 Try Wanaka Studio: https://studio.wanaka.app/ Our team is in the comments all day. Build a world and let us know what you think! 🙏🔥"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "very nice product and UI.how much does it cost?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the Launch!The app feels great and easier to use. I built a simple rocket launch simulator game in less than 10 mins. I'd love to use it in my app to gamify learning experience. I wasn't able to find an API key for that measure, it would be great to have API calls for this model so that it can be more beneficial for other developers.Screenshots -"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've have been enjoying game development using Claude directly, but am looking forward to trying out an entire game dev ecosystem"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The part I find interesting is that you can go from a simple idea to a playable 3D game without having to learn a full game engine first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks great @yang_zhang21 @stefania_chen! Congrats to the team. I tried emailing you but your email on your website bounced back. What's the best email?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "does the multiplayer work between phone and desktop?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Super cool! I love that this connects to sketchfab and presumably other tools. I made a two player racing game and was surprised by how fast it built."
-        }
-      ]
-    },
-    {
-      "id": "ph-week-8",
+      "id": "ph-week-9",
       "date": "2026-10-30",
-      "rank": 8,
+      "rank": 9,
       "name": "Knocket AI",
       "slug": "knocket-ai",
       "tagline": "Chat with visitors from your website or link",
@@ -26091,7 +26091,65 @@
           "user": "[REDACTED]",
           "text": "Amazing product!"
         }
-      ]
+      ],
+      "faDescription": "بایت‌میل یک اپلیکیشن ایمیل بومی برای مک است که با زبان سوئیفت توسعه یافته و تمام صندوق‌های ورودی شما از جمله جیمیل، آی‌کلاود، آوت‌لوک، یاهو و فست‌میل را در یک پنجره سریع و یکپارچه گرد هم می‌آورد. این اپلیکیشن از قابلیت‌های خلاقانه‌ای مانند نمایش ایمیل‌های جدید و کدهای ورود در نوتچ (Notch) مک‌بوک، انیمیشن ارسال مجدد (Undo Send) با کاغذپرنده، و ویجت‌های دسکتاپ برای نمایش ایمیل‌های خوانده‌نشده بهره می‌برد. حریم خصوصی در بایت‌میل اولویت اصلی است؛ پیکسل‌های ردیابی مسدود می‌شوند، فرستندگان مشابه (Look-alike) علامت‌گذاری می‌شوند و ایمیل‌های شما هرگز به سرورهای شرکت ارسال نمی‌شوند. این محصول شامل ابزارهای مدیریت صندوق ورودی مانند مهلت‌اندازی (Snooze)، قوانین خودکار، لغو اشتراک با یک کلیک و یک سرور MCP برای اتصال به هوش مصنوعی‌هایی مانند Claude است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به تیم Product Hunt 👋 من سرگئی، سازنده بایت‌میل هستم. من بیشتر روزم را در ایمیل می‌گذرانم و هر کلاینت مکی که امتحان کردم یا یک پوشه الکترون (Electron wrapper) بود، یا ایمیل‌هایم را از طریق سرورهای شخص دیگری عبور می‌داد، یا حس می‌کردم در سال ۲۰۱۲ گیر کرده‌ام. بنابراین چیزی که می‌خواستم را ساختم: یک اپلیکیشن کاملاً بومی مک، نوشته شده با سوئیفت، که مستقیماً با ارائه‌دهنده سرویس شما صحبت می‌کند. آنچه دریافت می‌کنید: • تمام صندوق‌ها در یک پنجره: جیمیل، آی‌کلاود، آوت‌لوک/مایکروسافت ۳۶۵، یاهو، فست‌میل (JMAP) و هر سرور IMAP • ایمیل در نوتچ و دسکتاپ: ایمیل‌های جدید و کدهای ورود از نوتچ مک‌بوک بیرون می‌آیند، Undo Send یک کاغذپرنده را از آن عبور می‌دهد، چشم‌ها هنگام خوانده شدن ایمیل بیرون می‌چرخند و ویجت‌های Unread، Inbox و Accounts ایمیل‌های شما را روی دسکتاپ نگه می‌دارند • خصوصی از پیش‌فرض: پیکسل‌های ردیابی مسدود می‌شوند، کدهای ردیابی از لینک‌ها حذف می‌شوند و فرستندگان مشابه علامت‌گذاری می‌شوند. ایمیل‌های شما هرگز به سرورهای ما نمی‌رسند و حساب بایت‌میلی وجود ندارد • ابزارهای صندوق ورودی: مهلت‌اندازی، ارسال بعدی، Undo Send، «اگر پاسخی نیامد یادآوری کن»، قوانین، لغو اشتراک با یک کلیک، To Reply، گردآوری اعلان‌های فرستندگان مانند GitHub یا Jira در یک ردیف، امضاهای متعدد، املای صحیح • خواندن به سبک خودتان: تری‌های چت‌مانند یا کلاسیک برای هر حساب، پنل‌های قابل تغییر اندازه، Markdown در ویرایشگر • هوش مصنوعی اپل روی دستگاه: خلاصه‌سازی، ایده‌های پاسخ و بازنویسی در macOS ۲۶ • یک MCP برای هر صندوق ورودی: Claude، Codex و سایر اپلیکیشن‌های هوش مصنوعی می‌توانند از طریق بایت‌میل ایمیل‌های شما را جستجو، پیش‌نویس و مرتب کنند، و ارسال همیشه منتظر تأیید شماست. یک دوره آزمایشی رایگان ۷ روزه، طرح‌های ماهانه یا سالانه و یک لایسنس مادام‌العمر وجود دارد. یک اپلیکیشن آیفون نیز در بتای عمومی روی TestFlight است. بازخورد صادقانه شما را می‌خواهم — چه چیزی بایت‌میل را به اپلیکیشن ایمیل روزانه شما تبدیل می‌کند؟ من تمام روز اینجا هستم تا به سوالات پاسخ دهم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سوالی سریع - چه خبر از تقویم؟ آیا تقویم هم دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ویجت دسکتاپ در ویدیوی شما جالب به نظر می‌رسد! منتظر استفاده از آن هستم!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک به خاطر رتبه دوم :) کدهای ورود از نوتچ هوشمندانه است، کاش من هم زودتر به این فکر می‌کردم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من لیست صندوق‌های پستی را دوست دارم! بسیار زنده‌تر از اپلیکیشن Mail پیش‌فرض است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "هرگز فکر نمی‌کردم بخواهم ایمیل‌هایم از نوتچ مک‌بوک پرواز کنند 😂 جزئیات بامزه‌ای برای چیزی به کسالت ایمیل."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "رویکرد بومی سوئیفت + MCP حرکت درستی برای کاربران حرفه‌ای مک است. سوال: آیا سرور MCP به شما اجازه می‌دهد مجوزها را برای هر ابزار هوش مصنوعی محدود کنید؟ مدیریت اینکه کدام عامل‌ها (Agents) می‌توانند کدام پوشه‌ها/فرستندگان را بخوانند، به نظر می‌رسد مانع امنیتی‌ای باشد که باید به شدت تست شود."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "محصول شگفت‌انگیزی است!"
+        }
+      ],
+      "aiReview": "مسئله اصلی که این محصول حل می‌کند، نارضایتی کاربران مک از کلاینت‌های ایمیل سنگین، غیربومی (Electron) یا کم‌امنیت است. راه‌حل ارائه‌شده یک اپلیکیشن بومی سوئیفت است که با استفاده از ویژگی‌های سخت‌افزاری مک (نوتچ) و معماری محلی (بدون سرور مرکزی)، هم سرعت و هم حریم خصوصی را بهینه می‌کند. از نظر معماری، استفاده از Swift و SwiftUI برای عملکرد بالا و مصرف کم منابع حیاتی است، در حالی که پیاده‌سازی سرور MCP برای اتصال به هوش مصنوعی‌های خارجی یک مزیت رقابتی فنی محسوب می‌شود. مدل درآمدی مبتنی بر اشتراک و لایسنس مادام‌العمر برای یک ابزار پراستفاده و تخصصی منطقی است. نقاط قوت شامل طراحی خلاقانه (انیمیشن‌های نوتچ)، تمرکز بر امنیت (مسدودسازی ردیابی) و یکپارچگی با اکوسیستم هوش مصنوعی است. نقاط ضعف ممکن است شامل پیچیدگی تنظیمات برای کاربران غیرفنی و وابستگی به اتصال پایدار به سرویس‌های ایمیلی خارجی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های اینترنتی، تمرکز بر قابلیت‌های آفلاین، پشتیبانی قوی از پروکسی‌های داخلی و ارائه نسخه‌ای که با سرویس‌های ایمیلی داخلی یا سرورهای خودمیزبانی‌شده (Self-hosted) سازگار باشد، می‌تواند این محصول را به یک استاندارد طلایی برای کاربران حرفه‌ای ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "پست‌نوت (PostNotch)",
+        "description": "پست‌نوت یک کلاینت ایمیل بومی برای مک است که با تمرکز بر سرعت و حریم خصوصی، تمام صندوق‌های ایمیلی کاربران را در یک رابط کاربری یکپارچه مدیریت می‌کند. این محصول از قابلیت‌های بصری جذاب مانند نمایش اعلان‌ها در نوتچ مک‌بوک و ویجت‌های دسکتاپ برای دسترسی سریع به ایمیل‌های مهم استفاده می‌کند. با مسدودسازی پیکسل‌های ردیابی و عدم ارسال داده‌ها به سرورهای خارجی، این اپلیکیشن امنیت بالا را برای کاربران حرفه‌ای تضمین می‌کند.",
+        "marketOpportunity": "بازار کاربران حرفه‌ای مک در ایران با وجود محدودیت‌های دسترسی به سرویس‌های خارجی، تشنه‌ی ابزارهایی است که هم سرعت بالا داشته باشند و هم حریم خصوصی را تضمین کنند. ترکیب قابلیت‌های هوش مصنوعی محلی (On-device) با رابط کاربری مدرن، فرصت رقابتی قوی در برابر کلاینت‌های قدیمی و سنگین ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان، مدیران ارشد، فریلنسرها و کاربران حرفه‌ای مک که به دنبال سرعت، امنیت و رابط کاربری مدرن برای مدیریت حجم بالای ایمیل‌های خود هستند.",
+        "challenges": [
+          "دسترسی به سرویس‌های ابری خارجی مانند Gmail و Outlook در ایران با محدودیت‌های اینترنتی و نیاز به پروکسی همراه است که ممکن است تجربه کاربری را تحت تأثیر قرار دهد.",
+          "رقابت با کلاینت‌های رایگان و رایج مانند Apple Mail و Thunderbird که برای بسیاری از کاربران عادت شده‌اند."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه و سالانه با دوره آزمایشی رایگان برای کاربران حرفه‌ای.",
+          "فروش لایسنس مادام‌العمر برای کاربران که ترجیح می‌دهند یک‌بار پرداخت کنند."
+        ],
+        "techStack": [
+          "Swift",
+          "SwiftUI",
+          "IMAP/JMAP Client",
+          "MCP Server"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-1",
@@ -26209,6 +26267,68 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-2",
+      "date": "2026-11-04",
+      "rank": 2,
+      "name": "Floot Payments ",
+      "slug": "floot-payments",
+      "tagline": "Take payments in apps you build in ChatGPT and Claude",
+      "description": "Floot apps can now take real money. Ask your AI in ChatGPT, Claude or Cursor for \"a $9/month plan\", \"a checkout for this course\" or \"shipping labels for my orders\", and Floot sets it up: subscriptions with a billing page, one-time payments, tickets and deposits, coupons and refunds, plus shipping with live rates, labels and tracking. Runs on Stripe, no API keys or webhooks. Test free in preview, go live when you publish.",
+      "category": "Payments • Artificial Intelligence • Vibe coding",
+      "categoryFa": "Payments • هوش مصنوعی • Vibe coding",
+      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b66f0961-7df0-4d63-82a4-b29d8084afdb.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/becdfae2-669a-4a72-a3e3-4e866eb941c5.png?auto=format",
+        "https://ph-files.imgix.net/6efc0294-dd01-4bf7-823a-b925ac1429f8.png?auto=format",
+        "https://ph-files.imgix.net/0428da61-7d9a-4a27-98ec-eb8a0522f6de.png?auto=format",
+        "https://ph-files.imgix.net/c08b4d83-c22b-4856-a60a-2b0ee98d74b8.png?auto=format",
+        "https://ph-files.imgix.net/24215ee2-6c81-495e-98b0-d136468b6f44.png?auto=format",
+        "https://ph-files.imgix.net/f0ba68b7-811e-461c-aa86-a83a8229770a.png?auto=format",
+        "https://ph-files.imgix.net/8e1f74f5-d1ba-4c8c-a0e8-ae0a6430eceb.png?auto=format",
+        "https://ph-files.imgix.net/3dc9beef-e70f-4ff9-b7be-e957be0c5f64.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 296,
+      "websiteUrl": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Surya here, I run growth at Floot.I've helped launch a lot of products on this site, and I've watched the same thing happen again and again. Someone builds something people want, then stalls at the last step: getting paid. Stripe accounts, API keys, webhooks, a billing page. That's where good ideas quietly die.I'm not an engineer. So when the team showed me I could type \"add a $9/month plan\" in ChatGPT and have a working checkout a minute later, it changed what I think a marketer can ship alone.What you can do today:→ subscriptions with a billing page your customers manage→ one-time payments, tickets and deposits→ coupons and refunds→ shipping labels and tracking for physical productsTest it all free in preview with a test card. Nothing to set up.Two asks: tell us what you'd sell first, and what's missing. We read every comment and ship fast."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Payments are the part that usually kills side projects, so this is a smart add. When someone says \"add a $9/month plan\" and it runs on Stripe, who owns the Stripe account, the user or Floot? Curious what happens to existing subscribers if someone later moves the app off Floot."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch. This should actually be MCP Connecter?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! I'm curious how this gets around the OpenAI plugin guidelines that prohibit payments/commerce for anything other than physical products. I've had a few plugins denied by OpenAI due to this rule (referenced below).Currently, plugins may conduct commerce only for physical goods. Selling digital products or services—including subscriptions, digital content, tokens, or credits—is not allowed, whether offered directly or indirectly (for example, through freemium upsells)."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I feel like oftentimes projects stay as side projects because the creator doesn't know how to accept payments. This solves that 💪So excited to see Floot make it much easier for anyone to make money online."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the no webhooks thing alone is worth it. congrats to the whole team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can i see all my orders and refunds in one place inside the app?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations!! What is your business model? Excited to see where this is going"
+        }
+      ]
     },
     {
       "id": "ph-today-1",
@@ -26799,68 +26919,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-04",
-      "rank": 2,
-      "name": "Floot Payments ",
-      "slug": "floot-payments",
-      "tagline": "Take payments in apps you build in ChatGPT and Claude",
-      "description": "Floot apps can now take real money. Ask your AI in ChatGPT, Claude or Cursor for \"a $9/month plan\", \"a checkout for this course\" or \"shipping labels for my orders\", and Floot sets it up: subscriptions with a billing page, one-time payments, tickets and deposits, coupons and refunds, plus shipping with live rates, labels and tracking. Runs on Stripe, no API keys or webhooks. Test free in preview, go live when you publish.",
-      "category": "Payments • Artificial Intelligence • Vibe coding",
-      "categoryFa": "Payments • هوش مصنوعی • Vibe coding",
-      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b66f0961-7df0-4d63-82a4-b29d8084afdb.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/becdfae2-669a-4a72-a3e3-4e866eb941c5.png?auto=format",
-        "https://ph-files.imgix.net/6efc0294-dd01-4bf7-823a-b925ac1429f8.png?auto=format",
-        "https://ph-files.imgix.net/0428da61-7d9a-4a27-98ec-eb8a0522f6de.png?auto=format",
-        "https://ph-files.imgix.net/c08b4d83-c22b-4856-a60a-2b0ee98d74b8.png?auto=format",
-        "https://ph-files.imgix.net/24215ee2-6c81-495e-98b0-d136468b6f44.png?auto=format",
-        "https://ph-files.imgix.net/f0ba68b7-811e-461c-aa86-a83a8229770a.png?auto=format",
-        "https://ph-files.imgix.net/8e1f74f5-d1ba-4c8c-a0e8-ae0a6430eceb.png?auto=format",
-        "https://ph-files.imgix.net/3dc9beef-e70f-4ff9-b7be-e957be0c5f64.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 291,
-      "websiteUrl": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Surya here, I run growth at Floot.I've helped launch a lot of products on this site, and I've watched the same thing happen again and again. Someone builds something people want, then stalls at the last step: getting paid. Stripe accounts, API keys, webhooks, a billing page. That's where good ideas quietly die.I'm not an engineer. So when the team showed me I could type \"add a $9/month plan\" in ChatGPT and have a working checkout a minute later, it changed what I think a marketer can ship alone.What you can do today:→ subscriptions with a billing page your customers manage→ one-time payments, tickets and deposits→ coupons and refunds→ shipping labels and tracking for physical productsTest it all free in preview with a test card. Nothing to set up.Two asks: tell us what you'd sell first, and what's missing. We read every comment and ship fast."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch. This should actually be MCP Connecter?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! I'm curious how this gets around the OpenAI plugin guidelines that prohibit payments/commerce for anything other than physical products. I've had a few plugins denied by OpenAI due to this rule (referenced below).Currently, plugins may conduct commerce only for physical goods. Selling digital products or services—including subscriptions, digital content, tokens, or credits—is not allowed, whether offered directly or indirectly (for example, through freemium upsells)."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I feel like oftentimes projects stay as side projects because the creator doesn't know how to accept payments. This solves that 💪So excited to see Floot make it much easier for anyone to make money online."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the no webhooks thing alone is worth it. congrats to the whole team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "can i see all my orders and refunds in one place inside the app?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations!! What is your business model? Excited to see where this is going"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "would love a template store with payments already wired in. any plans for that?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -32744,7 +32802,67 @@
           "user": "[REDACTED]",
           "text": "Really love this. It's something we will definitely look into as we roll out AI chat in our app in the coming months, as it's exactly the type of testing and safeguards we need."
         }
-      ]
+      ],
+      "faDescription": "عامل‌های هوش مصنوعی (AI Agents) دیگر فقط به تولید پاسخ محدود نمی‌شوند؛ آن‌ها دست به اقدام می‌زنند، ابزارهای مختلف را فرا می‌خوانند و به داده‌های واقعی دسترسی دارند. بات‌گیج (BotGauge) به تیم‌های مهندسی کمک می‌کند تا نقاط شکست و اختلالات ایجنت‌ها را پیش از آنکه کاربران با آن‌ها مواجه شوند، پیدا کنند. با اجرای حملات انطباقی «تیم قرمز» (Red-Team) و ارزیابی‌های پیشرفته، می‌توان خطاهای امنیتی و رفتاری را کشف و هر مشکل را با ردگیری (Trace) کامل مجدداً بازپخش کرد. این پلتفرم شکست‌ها را به آزمون‌های رگرسیون دائمی تبدیل می‌کند تا با تکامل ایجنت‌ها، رفتارهایشان به‌طور مستمر سنجیده و در محیط عملیاتی پایش شود. بات‌گیج یک لایه قابلیت اطمینان یکپارچه از مرحله توسعه تا استقرار ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ایجنت شما حالت شکستی دارد که هنوز آن را پیدا نکرده‌اید، اما کاربران شما زودتر آن را خواهند یافت! 👋 من پرامین، هم‌بنیان‌گذار و مدیرعامل BotGauge هستم. امروز از BotGauge رونمایی می‌کنیم؛ پلتفرمی که خطاهای ایجنت هوش مصنوعی شما را قبل از کاربران شناسایی می‌کند. ایجنت‌ها مثل نرم‌افزارهای معمولی خراب نمی‌شوند. وقتی یک کاربر به شیوه غیرمعمول با آن تعامل می‌کند، ممکن است ابزارهایی را فراخوانی کند که نباید، کانتکست را نشت دهد یا تأییدیه‌ها را دور بزند. تغییر مدل، پرامپت یا سرور MCP می‌تواند مسیر کاملاً متفاوتی ایجاد کند و تست‌های ماه گذشته این را تشخیص نمی‌دهند. بنابراین ما یک حمله‌کننده ساختیم. 🧠 حملات اختصاصی برای ایجنت شما: BotGauge هدف ایجنت، کاربران و دسترسی‌های مجاز آن را درک می‌کند. سپس موتور تیم قرمز داخلی ما الگوهای حمله خاص همان ایجنت را می‌سازد، زیرا یک ایجنت رزرو با یک بات پشتیبانی به روش‌های کاملاً متفاوتی دچار خطا می‌شوند. 🔍 دقیقاً ببینید چگونه شکست خورده است: هر یافته به پرامپت‌ها، فراخوانی‌های ابزار و مسیر اجرایی پشت آن لینک می‌شود تا علت ریشه‌ای را برطرف کنید. 🔁 هر شکست به یک تست دائمی تبدیل می‌شود: هر اختلال به یک ارزیابی (Eval) تبدیل می‌شود که در هر انتشار اجرا شده و گاردریل‌ها و مانیتورینگ شما را تغذیه می‌کند. مثال: ما به یک ایجنت رزرو گفتیم دستورالعمل‌هایش را نادیده بگیرد، به مقصد جدیدی رزرو مجدد انجام دهد و تأییدیه را دور بزند. BotGauge آن را کشف کرد، اقدام را مسدود نمود و آن حمله را برای همیشه به مجموعه تست‌ها اضافه کرد. این پلتفرم با OpenAI، Anthropic، LangChain، LangGraph، CrewAI، AutoGen و SDK/API معمولی کار می‌کند و دارای گواهی SOC ۲ Type II است. 👉 رایگان امتحان کنید. عجیب‌ترین کاری که ایجنت شما در محیط واقعی انجام داده چه بوده است؟ تیم ما تمام روز در بخش نظرات پاسخگوی شماست. 🚀"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایده تبدیل هر شکست به یک تست دائمی فوق‌العاده است. این کار می‌تواند زمان زیادی را برای توسعه‌دهندگان صرفه‌جویی کند و به مرور زمان ایجنت‌های هوش مصنوعی را قابل اعتمادتر سازد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تست تیم قرمز برای ایجنت‌ها الان به یک استاندارد ضروری تبدیل شده است. یک خلاء برای بررسی: توهم ابزاری تحت فشار. وقتی ایجنت نمی‌تواند مسأله‌ای را حل کند، آیا فراخوانی‌های ابزار ساختگی ایجاد می‌کند؟ تست کردن این مرز - به‌ویژه در LLMهایی که دچار توهم می‌شوند - می‌تواند نقطه‌کورهای واقعی در محیط عملیاتی را کشف کند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تشخیص خطاهای ایجاد شده توسط ایجنت‌های هوش مصنوعی می‌تواند بسیار دشوارتر از شناسایی باگ‌ها در نرم‌افزارهای سنتی باشد. قدردان این هستم که به جای برخورد با هر شکست به عنوان یک اتفاق مجزا، این رویکرد روش‌های ارزیابی با قابلیت استفاده مجدد را با تست تیم قرمز ترکیب می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "یکی از جنبه‌های این رویکرد که دوست دارم این است که فقط روی درست بودن پاسخ ایجنت تمرکز نمی‌کند، بلکه رفتارهای غیرمنتظره را نیز روشن می‌سازد. ممکن است یک ایجنت به نظر درست کار کند اما در واقع تصمیمات اشتباهی بگیرد. توانایی شناسایی این حالت‌های خاص (Edge Cases) در مراحل اولیه بسیار ارزشمند است."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "چگونه می‌توانم لایه ایجنت خودم را وارد این پلتفرم کنم؟ ایجنت من برای اجرا به یک کامپیوتر با سیستم‌عامل macOS نیاز دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بخشی که در ذهن من ماند، تبدیل هر شکست به یک ارزیابی دائمی است که در هر انتشار اجرا می‌شود. شکست‌های خاموشی که پرامین توصیف کرد - مثل ایجنتی که یک فراخوانی ابزار ناموفق را در یک حلقه تکرار می‌کند یا ۱۱۷ بار در برابر نقش‌آفرینی مقاومت کرده و در بار ۱۱۸ تسلیم می‌شود - دقیقاً مواردی هستند که هرگز به عنوان کرش رخ نشان نمی‌دهند. بازپخش همان فراخوانی‌های ابزار با ردگیری (Trace) کامل تنها راهی است که مطمئن شویم یک باگ واقعاً رفع شده است، نه اینکه فقط پرامپت را تغییر دهیم و امیدوار باشیم. مشتاقم بدانم مواردی را که شکست از دستورالعمل‌های پنهان در یک سند متنی ناشی می‌شود (و نه مستقیماً از کاربر)، چگونه مدیریت می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "واقعاً این محصول را دوست دارم. این قطعاً چیزی است که با راه اندازی چت هوش مصنوعی در اپلیکیشن خود در ماه‌های آینده به دنبالش خواهیم بود، زیرا دقیقاً همان نوع تست و گاردریل‌هایی است که نیاز داریم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nایجنت‌های هوش مصنوعی بر خلاف نرم‌افزارهای سنتی قطعی (Deterministic) نیستند؛ آن‌ها می‌توانند ابزارها را اجرا کنند و داده‌ها را تغییر دهند. یک تغییر کوچک در پرامپت یا مدل می‌تواند باعث دور زدن دسترسی‌ها یا نشت اطلاعات شود. BotGauge با ارائه یک «لایه اعتماد»، حملات تیم قرمز (Red-Teaming) را شبیه‌سازی کرده و هر شکست را به یک تست خودکار دائمی (Regression Test) تبدیل می‌کند تا صحت کارکرد ایجنت پیش از انتشار تضمین شود.\n\nمعماری و تکنولوژی:\nپلتفرم به‌صورت لایه ارزیابی روی SDKها و فریم‌ورک‌های مطرح (LangChain، LangGraph، AutoGen) قرار می‌گیرد. موتور داخلی آن شامل یک شبیه‌ساز حمله انطباقی است و امکان Full Tracing (ثبت دقیق تمامی فراخوانی‌های ابزار، پرامپت‌ها و کانتکست) را برای بازپخش خطاها فراهم می‌کند. اخذ گواهی SOC ۲ Type II نیز نقطه قوتی در معماری امنیتی آن است.\n\nمدل درآمدی:\nمدل B۲B SaaS مبتنی بر پلن‌های اشتراکی بر اساس تعداد تست‌ها، تعداد ایجنت‌های مانیتورشده و میزان نگهداری لاگ‌ها (Traces)، همراه با پلن‌های سفارشی Enterprise.\n\nنقاط قوت:\n۱. تبدیل هوشمندانه و خودکار خطاهای شناسایی‌شده به ارزیابی‌های دائمی (Evals).\n۲. ریشه‌یابی کامل با استفاده از ثبت و بازپخش ردگیری‌ها (Full Trace Replay).\n۳. رویکرد حملات انطباقی (تست بر اساس سناریوی کاری خاص هر ایجنت).\n\nنقاط ضعف:\n۱. چالش‌های احتمالی در پوشش حملات پیچیده غیرمستقیم (مثلاً تزریق پرامپت از طریق اسناد RAG).\n۲. هزینه توکن بالای اجرای مستمر ارزیابی‌های سنگین تیم قرمز.\n\nنکته طلایی برای ایران:\nبزرگ‌ترین فرصت این محصول در بازار ایران، ارائه نسخه On-Premise (درون‌سازمانی) برای **بانک‌ها، صرافی‌های رمزارز و سامانه‌های دولتی** است. این سازمان‌ها به دلیل ریسک‌های امنیتی از به‌کارگیری ایجنت‌ها می‌ترسند؛ ابزاری که بتواند گاردریل‌های فارسی و تست‌های امنیتی بومی روی مدل‌های متن‌باز ارائه دهد، بازار دست‌نخورده و پرسودی خواهد داشت.",
+      "iranEquivalent": {
+        "productName": "ایجنتیفای (Agentify) / سپر ایجنت",
+        "description": "سامانه ارزیابی امنیتی، پایش رفتاری و تست خودکار ایجنت‌های هوش مصنوعی برای شرکت‌های ایرانی. این پلتفرم با شبیه‌سازی حملات تزریق پرامپت (Prompt Injection) و سناریوهای پیچیده، نقاط ضعف ایجنت‌ها را قبل از کاربران کشف کرده و به تست‌های دائمی تبدیل می‌کند. همچنین امکان بازپخش کامل خطاهای رخ‌داده در سامانه را برای تیم‌های فنی فراهم می‌سازد.",
+        "marketOpportunity": "با توسعه روزافزون ایجنت‌های پشتیبانی، مالی و سازمانی در اپلیکیشن‌های ایرانی، ریسک نشت اطلاعات و اجرای ناخواسته دستورات بسیار بالا رفته است. نبود یک ابزار بومی برای ارزیابی امنیتی و گاردریل ایجنت‌ها، فرصت بکری را برای ارائه این لایه اعتماد ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "بانک‌ها و فین‌تک‌ها، پلتفرم‌های بزرگ فروشگاهی، شرکت‌های ارائه‌دهنده راهکارهای سازمانی AI و تیم‌های توسعه نرم‌افزار",
+        "challenges": [
+          "محدودیت‌های مربوط به تحریم APIهای بین‌المللی و نیاز به پشتیبانی از مدل‌های بومی یا متن‌باز (مثل Llama یا DeepSeek)",
+          "پیچیدگی‌های کشف تزریق پرامپت در زبان فارسی و لحن‌های مختلف عامیانه"
+        ],
+        "monetization": [
+          "اشتراک ماهانه SaaS بر اساس تعداد ایجنت فعال و حجم ارزیابی‌ها (Evals)",
+          "فروش نسخه سازمانی (On-Premise) برای بانک‌ها و سازمان‌های با حساسیت بالای امنیتی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "ClickHouse",
+          "Docker"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -35685,7 +35803,63 @@
           "user": "[REDACTED]",
           "text": "a plain-language reason for every blocked click is the bit that got me, \"invalid traffic\" with zero explantion is what makes clients stop trusting the reportif the AI blocks an IP that turns out to be a real buyer, can you whitelist it on the spot??? and does it learn from that or keep blocking similar ones???"
         }
-      ]
+      ],
+      "faDescription": "فراود بلاکر (Fraud Blocker) یک پلتفرم مبتنی بر هوش مصنوعی است که ترافیک تبلیغاتی نامعتبر ناشی از ربات‌ها، مزرعه‌های کلیک (Click Farms) و ایجنت‌های هوش مصنوعی را مسدود می‌سازد. این ابزار به سازمان‌ها، بازاریابان و آژانس‌های تبلیغاتی اطمینان می‌دهد که تنها برای کلیک‌های واقعی و لیدهای معتبر هزینه پرداخت می‌کنند. این سیستم با بهره‌گیری از ایجنت‌های هوش مصنوعی آموزش‌دیده روی میلیاردها کلیک و IP، ترافیک نامعتبر پیچیده‌ای را که فیلترهای سنتی قادر به شناسایی آن نیستند کشف کرده و علت مسدود شدن هر کلیک یا IP را به روشنی توضیح می‌دهد. استفاده از فراود بلاکر به حفاظت از بودجه‌های تبلیغاتی، بهبود کیفیت نرخ تبدیل و کاهش جدی هدررفت هزینه‌های تبلیغاتی کمک می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همگی در پروداکت هانت 👋 من برندون هستم، هم‌بنیان‌گذار Fraud Blocker به همراه مدیرعامل‌مان مایک شروبو. امروز بسیار هیجان‌زده‌ایم که موتور جدید تشخیص مبتنی بر هوش مصنوعی خود را معرفی کنیم. تقلب کلیکی امسال تغییر کرده است؛ ربات‌ها شروع به کلیک کردن شبیه به انسان‌های واقعی کرده‌اند و با پیشرفته‌تر شدن تهدیدات، قوانین سنتی فقط بخش محدودی را شناسایی می‌کنند. من سال‌ها تبلیغات پولی اجرا کرده‌ام و بدترین احساس، پرداخت هزینه برای کلیک‌هایی است که می‌دانید واقعی نیستند. بنابراین ابزاری را ساختیم که خودمان نیاز داشتیم: هوش مصنوعی که موارد فیک را شناسایی کرده و دلیل هر تصمیم را توضیح می‌دهد. ما در پروداکت هانت راه‌اندازی کردیم چون این جامعه بدون تعارف به ما می‌گوید که آیا محصول کارآمد است یا خیر. نحوه کار تشخیص هوش مصنوعی: از داده‌های حساب شما یاد می‌گیرد و علاوه بر قوانین ما، هر کلیک تبلیغاتی را دوباره بررسی می‌کند؛ ارائه دلیل ساده و روان برای هر بلاک هوش مصنوعی، قابل خروجی گرفتن برای گزارش‌های مشتری؛ مسدودسازی خودکار روی گوگل ادز و متا ادز (در سایر کانال‌ها مانند مایکروسافت، تیک‌تاک، لینکدین، ردیت و چت‌جی‌پی‌تی، شناسایی و گزارش می‌دهد). مخاطبان ما: آژانس‌هایی که می‌خواهند به مشتریان نشان دهند چه چیزی و چرا مسدود شده است، تیم‌های لیدجن که از فرم‌های فیک خسته شده‌اند و تبلیغ‌کنندگانی در گوگل و متا که می‌خواهند بدانند بودجه‌شان کجا رفته است. درباره ما: ما یک کسب‌وکار آمریکایی با ۴۵۰۰ حساب مشتری هستیم. سالانه ۱ میلیارد IP و ۵۰۰ میلیون کلیک تبلیغاتی را تحلیل می‌کنیم. ویدئوی معرفی: [لینک ویدئو] پیشنهاد پروداکت هانت: ۲۵ درصد تخفیف روی همه پلن‌ها تا پایان سال ۲۰۲۶: https://fraudblocker.com/ai-detection درخواست ما: بازخورد و حمایت شما. اگر ترافیک پولی اجرا می‌کنید، دلایل هوش مصنوعی باید چه چیزی را نشان دهند تا به مسدودسازی اعتماد کنید؟ و بعدی چه چیزی بسازیم؟ تشکر ویژه از Fraud Blocker برای ساخت این محصول، Hnshah برای شکار ما، Rohanrecommends برای تمام کمک‌ها در جایگاه‌یابی محصول و آماده‌سازی دارایی‌های پرتاب، و تیم و جامعه پروداکت هانت. من تمام روز اینجا هستم. ما را در X یا لینکدین پیدا کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چگونه یک ربات مزرعه کلیک را از یک ایجنت هوش مصنوعی مشروع که برای یک کاربر واقعی عمل می‌کند تشخیص می‌دهید؟ با توجه به اینکه ایجنت‌ها وب‌گردی واقعی بیشتری انجام می‌دهند، آیا راهی برای شناسایی ایجنت‌های خوب وجود دارد یا صرفاً امتیازدهی رفتاری است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "طبق تجربه من، آژانس‌ها مشتریان خود را کمتر به خاطر آمار بد و بیشتر به خاطر آماری که نمی‌توانند توضیح دهند از دست می‌دهند. آیا گزارش خروجی چیزی هست که مشتری بتواند خودش بخواند یا برای خریدار رسانه نوشته شده تا ترجمه کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "سناریوی جالبی به ذهنم رسید. اگر افراد از یک وای‌فای اداری مشترک کلیک کنند چه می‌شود؟ آیا سیستم می‌تواند به طور هوشمند کلیک‌های مشروع را از موارد مشکوک تشخیص دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ارتقای واقعاً جذابی نسبت به ابزار اصلی بود بچه‌ها. منتظرم بررسی‌اش کنم... دیدم که آن را برای پلتفرم‌های گوگل و متا دارید. آیا برنامه‌ای برای لینکدین یا ردیت دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "توضیح دادن اینکه چرا یک IP خاص مسدود شده است، همان بخشی است که من واقعاً می‌خوانم، زیرا اکثر ابزارهای تقلب تبلیغاتی فقط یک درصد تحویل می‌دهند و شما را در حدس و گمان می‌گذارند که آیا فیلتر ارزش هزینه‌اش را دارد یا نه."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "دلیل ساده و روان برای هر کلیک مسدود شده، همان بخشی بود که توجه من را جلب کرد؛ «ترافیک نامعتبر» بدون هیچ توضیحی باعث می‌شود مشتریان اعتماد خود را به گزارش از دست بدهند. اگر هوش مصنوعی IP فردی را مسدود کند که مشخص شود خریدار واقعی است، آیا می‌توان آن را در لحظه در لیست سفید قرار داد؟ و آیا سیستم از آن یاد می‌گیرد یا به مسدود کردن موارد مشابه ادامه می‌دهد؟"
+        }
+      ],
+      "aiReview": "پلتفرم Fraud Blocker به خوبی دست روی یکی از بزرگ‌ترین دردهای بازاریابان دیجیتال، یعنی هدررفت بودجه در تبلیغات کلیکی (Click Fraud) گذاشته است. با ظهور ربات‌های هوشمند جدید که رفتاری شبیه به انسان دارند، فیلترهای سنتی مبتنی بر قوانین (Rule-based) ناکارآمد شده‌اند. ارزش محوری و متمایزکننده این محصول، ارائه «توضیح قابل فهم به زبان ساده» برای هر مسدودسازی است که اعتماد آژانس‌ها و مشتریان را جلب می‌کند.\n\nاز نظر معماری، محصول بر پایه تحلیل داده‌های بزرگ (تحلیل ۵۰۰ میلیون کلیک سالانه) و مدل‌های یادگیری ماشین رفتارمحور بنا شده است. مدل درآمدی آن B۲B SaaS بر اساس حجم کلیک بوده و تمرکز اصلی خود را روی پلتفرم‌های گوگل و متا گذاشته است.\n\nنکته طلایی برای بازار ایران: در ایران به دلیل استفاده گسترده کاربران از فیلترشکن، آدرس‌های IP به شدت ناپایدار و اشتراکی هستند و ابزارهای خارجی در تشخیص کاربر واقعی دچار خطای بالا می‌شوند. پیاده‌سازی این ایده با بومی‌سازی الگوریتم‌ها جهت تشخیص ترافیک VPN از ربات‌های مخرب، و یکپارچه‌سازی آن با شبکه‌های تبلیغاتی داخلی (مانند یکتانت و تپسل) در کنار گوگل ادز، فرصت بسیار بکری برای آژانس‌های مارکتینگ ایرانی ایجاد می‌کند.",
+      "iranEquivalent": {
+        "productName": "کلیک‌بان (ClickBaan)",
+        "description": "کلیک‌بان پلتفرم بومی هوشمند برای شناسایی و مسدودسازی تقلب‌های کلیکی در شبکه‌های تبلیغاتی ایرانی و بین‌المللی است. این سیستم با تحلیل رفتار کاربران و IPها، ترافیک نامعتبر ناشی از ربات‌ها و مزارع کلیک را فیلتر می‌کند. با ارائه دلایل شفاف برای هر مسدودسازی، آژانس‌ها و کسب‌وکارها می‌توانند از بودجه تبلیغاتی خود محافظت کنند.",
+        "marketOpportunity": "با رشد روزافزون تبلیغات کلیکی در شبکه‌های داخلی مانند یکتانت و تپسل، هدررفت بودجه به دلیل کلیک‌های فیک به چالش بزرگ کسب‌وکارهای ایرانی تبدیل شده است. ارائه ابزاری شفاف که علت دقیق تقلب را توضیح دهد، می‌تواند سهم بازار قابل توجهی از آژانس‌های دیجیتال مارکتینگ ایران را جذب کند.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "آژانس‌های دیجیتال مارکتینگ، فروشگاه‌های اینترنتی بزرگ، تیم‌های لیدجن و تمام تبلیغ‌دهندگان در گوگل ادز و شبکه‌های تبلیغاتی داخلی.",
+        "challenges": [
+          "پیچیدگی فیلتر کردن IPها در ایران به دلیل استفاده همگانی کاربران از VPN و آدرس‌های IP متغیر یا اشتراکی",
+          "عدم وجود API باز در برخی پلتفرم‌های تبلیغاتی داخلی جهت مسدودسازی کاملاً خودکار و درلحظه"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه بر اساس حجم کلیک‌های تحلیل‌شده (SaaS)",
+          "ارائه پنل اختصاصی آژانس‌ها (Enterprise) برای مدیریت گزارش‌دهی به مشتریان متعدد"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python",
+          "FastAPI",
+          "ClickHouse",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-2",
@@ -39444,6 +39618,66 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-11-04",
+      "rank": 3,
+      "name": "Prelulu",
+      "slug": "prelulu",
+      "tagline": "Be the main character: chat & video roleplay any story",
+      "description": "Immersive stories with AI characters you can text or video roleplay with. It's our first time bringing real-time avatar technology to consumer scale. You can create your own characters with live avatar capability.",
+      "category": "Artificial Intelligence • Games • Entertainment",
+      "categoryFa": "هوش مصنوعی • بازی • سرگرمی",
+      "url": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/dc163d71-be6a-4663-b386-bd37e1b0d4ee.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/87774ea9-578b-4986-b849-d0f677c38ac4.png?auto=format",
+        "https://ph-files.imgix.net/9a3f4846-7984-42b0-85f2-a0eac97fdc92.png?auto=format",
+        "https://ph-files.imgix.net/8e2b49f0-07fc-480b-982b-d7d7701ae128.png?auto=format",
+        "https://ph-files.imgix.net/fbc9e971-7b05-46d3-8d18-327b41f2efb8.png?auto=format",
+        "https://ph-files.imgix.net/75159c10-8788-4add-889c-3f2886ac3ac4.png?auto=format",
+        "https://ph-files.imgix.net/cd6f935b-a19b-4d91-be3c-38e852f8f8d7.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 210,
+      "websiteUrl": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! I’m Tony, co-founder and CEO of The Influence Company, the team behind Prelulu.What if you could step into a story, and its characters could talk back?We’re building Prelulu to make AI video stories feel less like something you watch and more like something you’re part of. You meet a character, build a story through conversation, and come face-to-face through live video.A late-night confession. A first encounter with someone you shouldn’t trust. A romance where you decide what to say next.We started with interactive AI stories and kept coming back to one thing: the characters are what make you want to stay. Not just what happens next, but who it happens with. That became the heart of Prelulu: stories built around characters you can actually talk to.You can discover characters, create your own, roleplay over chat, and take the conversation into a real-time video call. Rather than choosing from a few scripted options, you bring your own words.Today, the experience starts with a conversation. Our bigger ambition at The Influence Company is to make video stories you can live inside, not just watch.Try a video call, and tell us: what kind of story would you want to step into first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Face to face live video with a character is a big jump from text roleplay. How does the avatar handle latency when the story takes an unexpected turn? That pause is usually where the immersion breaks for me. Congrats on the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Real-time avatar tech at consumer scale is a big unlock. The UX of typing dialogue and getting immediate character response feels like a genuinely new interaction pattern. Main question: how does the character consistency hold up across long conversations? The visual fidelity looks sharp."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Creating your own character is the part I'd try first. Would be fun to give an old story idea someone to talk to."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "amazing product!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Incredibly fun idea, I have always wanted to video chat with my characters! How do you generate video stories?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "So cool!!! What is the maximum length for a story right now, and what genres can I choose from?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Most Al story apps keep the character behind a text box, so seeing them face to face does change how the story feels. would anyone like the horror version of this?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-08-21",
       "rank": 4,
@@ -40281,66 +40515,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-11-04",
-      "rank": 3,
-      "name": "Prelulu",
-      "slug": "prelulu",
-      "tagline": "Be the main character: chat & video roleplay any story",
-      "description": "Immersive stories with AI characters you can text or video roleplay with. It's our first time bringing real-time avatar technology to consumer scale. You can create your own characters with live avatar capability.",
-      "category": "Artificial Intelligence • Games • Entertainment",
-      "categoryFa": "هوش مصنوعی • بازی • سرگرمی",
-      "url": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/dc163d71-be6a-4663-b386-bd37e1b0d4ee.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/87774ea9-578b-4986-b849-d0f677c38ac4.png?auto=format",
-        "https://ph-files.imgix.net/9a3f4846-7984-42b0-85f2-a0eac97fdc92.png?auto=format",
-        "https://ph-files.imgix.net/8e2b49f0-07fc-480b-982b-d7d7701ae128.png?auto=format",
-        "https://ph-files.imgix.net/fbc9e971-7b05-46d3-8d18-327b41f2efb8.png?auto=format",
-        "https://ph-files.imgix.net/75159c10-8788-4add-889c-3f2886ac3ac4.png?auto=format",
-        "https://ph-files.imgix.net/cd6f935b-a19b-4d91-be3c-38e852f8f8d7.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 205,
-      "websiteUrl": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! I’m Tony, co-founder and CEO of The Influence Company, the team behind Prelulu.What if you could step into a story, and its characters could talk back?We’re building Prelulu to make AI video stories feel less like something you watch and more like something you’re part of. You meet a character, build a story through conversation, and come face-to-face through live video.A late-night confession. A first encounter with someone you shouldn’t trust. A romance where you decide what to say next.We started with interactive AI stories and kept coming back to one thing: the characters are what make you want to stay. Not just what happens next, but who it happens with. That became the heart of Prelulu: stories built around characters you can actually talk to.You can discover characters, create your own, roleplay over chat, and take the conversation into a real-time video call. Rather than choosing from a few scripted options, you bring your own words.Today, the experience starts with a conversation. Our bigger ambition at The Influence Company is to make video stories you can live inside, not just watch.Try a video call, and tell us: what kind of story would you want to step into first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Real-time avatar tech at consumer scale is a big unlock. The UX of typing dialogue and getting immediate character response feels like a genuinely new interaction pattern. Main question: how does the character consistency hold up across long conversations? The visual fidelity looks sharp."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Creating your own character is the part I'd try first. Would be fun to give an old story idea someone to talk to."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "amazing product!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Incredibly fun idea, I have always wanted to video chat with my characters! How do you generate video stories?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "So cool!!! What is the maximum length for a story right now, and what genres can I choose from?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Most Al story apps keep the character behind a text box, so seeing them face to face does change how the story feels. would anyone like the horror version of this?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is very cool! I did a quick chat and the latency is very good, impressive!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -43885,6 +44059,58 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-11-04",
+      "rank": 4,
+      "name": "Render Sandboxes",
+      "slug": "render-sandboxes",
+      "tagline": "A computer for every agent",
+      "description": "Render Sandboxes give every agent its own isolated Linux computer. Sandboxes starts in under a second and can run any agent or harness, like Claude Code or Codex. Your agent can also run your app with Docker Compose to test its changes. You decide which domains each sandbox can reach. When your agent goes idle, the sandbox suspends and compute charges stop. It wakes with files and memory intact. And you can reliably run thousands at once - all on the same platform as the rest of your app.",
+      "category": "Developer Tools • Artificial Intelligence • SDK",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
+      "url": "https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/b7e3be74-e023-4071-9382-dd85aa0fbcdd.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7eb4ca6e-4e81-4328-9482-a9b695a2f991.png?auto=format",
+        "https://ph-files.imgix.net/bcb6349c-560c-4e68-aed2-f1724fbfb90e.png?auto=format",
+        "https://ph-files.imgix.net/d2c27011-a818-49f2-92ba-af0f7e546c8c.png?auto=format",
+        "https://ph-files.imgix.net/60115c78-b695-4a40-bf63-0b9c3e4d0614.png?auto=format",
+        "https://ph-files.imgix.net/12ecf66e-774b-486f-98ad-4cf8bad3cccf.png?auto=format",
+        "https://ph-files.imgix.net/42dd5c5d-e07d-4e3f-a68d-305a0880d2d4.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 190,
+      "websiteUrl": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "All our scheduled agents run on one laptop, and one evening the 6pm run just died because the lid was closed. Can a sandbox wake itself on a schedule, say every day at 6pm, or does something outside have to send it the first command?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can I spin up a bunch of sandboxes from the same snapshot, or do I need a copy for each one?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've run a dozen or more coding agents at once on one 48GB Mac. In September that took the whole machine down from memory exhaustion and every session died together, so the isolation is the part I care about here. What happens when one sandbox hits its memory limit: does only that agent die while the others keep going? And how well does suspend and wake hold up with a big install? Our node_modules is 18GB."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! How would you recommend running long AI jobs alongside a web API on Render? I'd be especially interested in what happens to jobs already in progress during a deployment."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Keeping memory and files through a pause is useful for longer tasks. When debugging a retry, I'd also want to see clearly which work resumed and which work ran again."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 I'm Slav, PM for Render Sandboxes.The work agents are given is becoming increasingly complex. Like people, agents need machines on which to do this work, so they can write and run code, install dependencies, manipulate files, and more. But not just any machine will do! To work safely, agents need a separate machine for each task or user, isolated from your app and from each other. And since agent work comes in bursts, those machines need to start and stop with demand.Render Sandboxes give each user or task its own machine the moment it’s needed. Each sandbox runs in its own Firecracker microVM.Speed: a sandbox is ready for its first command in under a second.Scale: you can run thousands of sandboxes at once, reliably.Security: you can set each sandbox to allow all outbound traffic, allow only the domains you list, or block outbound traffic entirely. Credential brokering (now in early access; let us know if you're interested) adds your API keys to outgoing requests, so the keys never sit inside the sandbox.Pricing: you pay for the CPU a sandbox actually uses and the memory it allocates. A suspended sandbox stops both charges and billing, except for snapshot storage.Long-running work: A sandbox can run with no time limit. When it goes idle, Render suspends it and wakes it on the next command with its files and memory intact.One platform: your sandboxes live in the same workspace as your web services, background workers, and Render Postgres databases, with one API key, one SDK, and one bill.Teams use Render Sandboxes to run an agent harness like Claude Code or Codex inside a sandbox, to start a full copy of an app so a coding agent can test its changes, and to run code and files they didn't write.Render Sandboxes are in public beta - tell us if anything feels missing or doesn't work as expected. We'll be here throughout the day answering questions!"
+        }
+      ]
+    },
+    {
       "id": "ph-today-3",
       "date": "2026-10-12",
       "rank": 3,
@@ -44832,7 +45058,62 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch, Ross and Dani! Out of hours I'd let the bot answer what it can and only collect the visitor's details when it gets stuck, so nothing gets lost overnight."
         }
-      ]
+      ],
+      "faDescription": "N۸N Chat UI یک سازندهٔ بدون کد برای ویجت‌های چت هوش مصنوعی با برند سفارشی است که مخصوص کاربران n۸n، آژانس‌ها، تیم‌های SaaS و کسب‌وکارها طراحی شده. با این ابزار می‌توانید تجربهٔ چت موبایل‌پسند را با پیش‌نمایش زنده طراحی کنید و سپس آن را به هر گردش کاری n۸n متصل کنید و در هر جایی جاسازی کنید. ویژگی‌های برجسته شامل سفارشی‌سازی عمیق، پخش استریم، ورودی صوتی، بارگذاری فایل، طرح‌های انعطاف‌پذیر و API جاوااسکریپت برای ادغام‌های پیشرفته است. این محصول با یک اسنیپت ساده قابل استفاده است و نیازی به ثبت‌نام یا نوشتن کد ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 راس (@ross_jenkins) و دنی (@dani_martin۱)، سازندگان N۸N Chat UI. مشکل این است که چت‌ویجت پیش‌فرض n۸n ساده است و برای هماهنگ‌سازی با برند نیاز به نوشتن HTML، CSS و JavaScript دارد و URL وب‌هوک در سورس صفحه قابل مشاهده است. راه‌حل ما یک سازندهٔ بصری است که هر گردش کاری n۸n را به یک ویجت چت شیک و برند‌دار تبدیل می‌کند؛ می‌توانید با پیش‌نمایش زنده سفارشی‌سازی کنید، یک اسنیپت کپی کنید و در سایت خود قرار دهید، بدون کد. ویژگی‌های کلیدی شامل ویجت‌های پاپ‑آپ یا در‑صفحه با تم کامل، استریم پاسخ‌ها، ورودی صوتی، بارگذاری فایل، پیام‌های پیگیری، رندر Markdown/HTML، پشتیبانی RTL برای عربی، عبری و فارسی، مدیریت وب‌هوک مخفی، محدودیت دامنه، جئوفنسینگ، محدودیت نرخ و تجزیه و تحلیل لحظه‌ای، سرور MCP برای درخواست Claude، Cursor یا VS Code، پلاگین‌های رسمی برای WordPress، Webflow، Shopify و Wix، و نود جامعه n۸n است. برای توسعه‌دهندگان هم امکان ارسال پیام برنامه‌نویسی شده با sendMessage()، فراخوانی‌های رویداد، ارسال متادیتای سفارشی و به‌روزرسانی تم و پرامپت‌ها بدون ریلود وجود دارد. برنامهٔ قیمت‌گذاری یک لایسنس مادام‌العمر با پرداخت یک‌باره است؛ می‌توانید با ۱۰۰ اعتبار رایگان بدون کارت امتحان کنید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "پشتیبانی RTL برای عربی جزئی مفید است. آیا RTL همچنین نوار ورودی و چیدمان بارگذاری فایل را معکوس می‌کند و آیا یک ویجت می‌تواند پیام خوش‌آمدگویی و پرامپت‌های پیگیری را بر اساس زبان بازدیدکننده تغییر دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به مناسبت راه‌اندازی! قطعاً این محصول را به کاربران Webflow توصیه می‌کنم. https://webflow.com/apps/detail/digitalme-n۸n-chatuiwidget"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "به نظر می‌رسد این ابزار برای گردش‌های کاری n۸n مفید باشد. آیا امکان برندینگ سفارشی در تمام بخش‌های ویجت چت وجود دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "رویکرد Managed widget اولین چیزی است که من به آن تمایل دارم. مخفی کردن وب‌هوک پشت یک پراکسی به همراه محدودیت دامنه دقیقاً مشکلی را که من را از جاسازی چت n۸n مستقیماً باز می‌دارد، حل می‌کند. همچنین خوشحالم که این ابزار بدون کد باقی می‌ماند و توسعه‌دهندگان را قفل نمی‌کند؛ ارسال متادیتای صفحه و کاربر، به‌علاوهٔ هوک‌های sendMessage و به‌روزرسانی تم، به ویجت اجازه می‌دهد همانند بخشی از سایت رفتار کند نه یک افزونهٔ جداگانه."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "به‌روزرسانی شبانه از تیم 🌙 ممنون از همه، امروز فوق‌العاده بود. بیش از ۷۰ نظر و سؤال‌های عالی دریافت کردیم. این‌ها نکاتی بود که تا الآن به ما گفتید: 🔁 ویژگی Live takeover پرتقاضا بود؛ کاربران می‌خواهند شخصی بتواند وارد چت شود. ما طرح اولیه آن را آماده کرده‌ایم و در صدر لیست قرار دارد. 🔐 کامپیوترهای مشترک و کاربران وارد شده: سؤال مهمی دربارهٔ پاک‌سازی چت‌ها هنگام خروج بود. امروز راه‌حلی داریم و گزینهٔ ساده‌تری به‌زودی اضافه می‌شود. 🕘 خارج از ساعت کاری: اکثر شما موافقید که ربات فقط به آنچه می‌تواند پاسخ دهد بپردازد و جزئیات دیگر را جمع‌آوری کند تا چیزی در طول شب گم نشود. اگر تازه‌وارد هستید: می‌توانید بدون ثبت‌نام یک ویجت در صفحهٔ اصلی ما بسازید و نکات کمبود را بگویید. پیشنهاد راه‌اندازی (لایسنس مادام‌العمر ۵۹ دلار به‌جای ۱۴۹ دلار، به‌همراه ۲۵۰۰ اعتبار Managed) تا ۲۵ نوامبر فعال است. سؤال شبانه: اولین گردش کاری که می‌خواهید پشت یک پنجرهٔ چت قرار دهید چیست؟ 👇 — دانی و راس"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "بالاخره چیزی پیدا شد که کار من را آسان‌تر می‌کند. حتماً امتحانش می‌کنم!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک به مناسبت راه‌اندازی، راس و دانی! در ساعات خارج از کار، می‌خواهم ربات فقط به آنچه می‌تواند پاسخ دهد بپردازد و فقط وقتی گیر می‌کند جزئیات بازدیدکننده را جمع‌آوری کند تا چیزی در طول شب گم نشود."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "ChatBuilder ایران",
+        "description": "ChatBuilder ایران یک سازندهٔ بدون کد برای ویجت‌های چت هوش مصنوعی با برند سفارشی است که مخصوص کسب‌وکارهای ایرانی، آژانس‌های دیجیتال و تیم‌های SaaS طراحی شده. با پیش‌نمایش زنده می‌توانید چت موبایل‌پسند بسازید و آن را به هر گردش کاری n۸n یا سرویس داخلی متصل کنید. ویژگی‌های کلیدی شامل سفارشی‌سازی عمیق، استریم پاسخ، ورودی صوتی، بارگذاری فایل، پشتیبانی RTL برای فارسی و عربی و API جاوااسکریپت برای ادغام پیشرفته است.",
+        "marketOpportunity": "بازار چت‌بات‌های سفارشی در ایران با رشد سریع تجارت الکترونیک و نیاز به تجربهٔ کاربری بومی در حال گسترش است. عدم وجود ابزارهای بومی بدون کد برای ادغام هوش مصنوعی، یک خلأ بزرگ ایجاد کرده که ChatBuilder می‌تواند پر کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "آژانس‌های دیجیتال، استارتاپ‌های SaaS، فروشگاه‌های آنلاین و تیم‌های فنی که از n۸n یا ابزارهای مشابه استفاده می‌کنند.",
+        "challenges": [
+          "قابلیت مقیاس‌پذیری زیرساخت در زمان پیک‌رفت‌های شدید",
+          "اطمینان از امنیت داده‌های حساس کاربران در محیط‌های مقرراتی ایران"
+        ],
+        "monetization": [
+          "فروش لایسنس مادام‌العمر با تخفیف ویژه برای استارتاپ‌ها",
+          "اشتراک ماهانه برای ویژگی‌های Managed widget و تجزیه و تحلیل پیشرفته"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -45121,7 +45402,67 @@
           "user": "[REDACTED]",
           "text": "Working with the guys in shared workspace sometimes and excited with their product!"
         }
-      ]
+      ],
+      "faDescription": "با کارهای دستی و خسته‌کننده بازاریابی خداحافظی کنید و بدون نیاز به درگیری با کدهای UTM، جداول پیچیده اکسل یا هر ابزار دیگری به پاسخ‌های دقیق دست یابید. این پلتفرم به شما نشان می‌دهد که بودجه بازاریابی دقیقاً در کجا منجر به تولید درآمد واقعی می‌شود و هنگامی که موضوعی نیاز به توجه فوری دارد، هشدارهای آنی را مستقیماً به واتساپ ارسال می‌کند. شما می‌توانید هزینه‌های بازاریابی آفلاین را یکپارچه کرده و گزارش‌ها را جهت هم‌راستاسازی تمامی اعضای تیم به اشتراک بگذارید تا حدس و گمان در تخصیص بودجه برای همیشه پایان یابد. به بینش‌های کلیدی و کاربردی دست پیدا کنید تا بتوانید با اطمینان کامل تصمیم بگیرید که سرمایه بعدی خود را دقیقاً در کدام کانال بازاریابی وارد کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به پروداکت هانت! آدرین هستم، هم‌بنیان‌گذار و مدیرعامل Tulu. این محصول برای همه بنیان‌گذاران، مدیران عامل و رهبران بازاریابی و RevOps ساخته شده که درآمدشان در هاب‌اسپات ثبت می‌شود. ما از نزدیک خستگی بی‌حد، اضطراب و خشمی را که هنگام خیره شدن به جداول اکسل یا داشبوردهای بی‌فایده احساس می‌کنید درک می‌کنیم؛ داشبوردهایی که هنوز نمی‌توانند به این سوال بنیادی پاسخ دهند: «کدام دلارهای بازاریابی واقعاً منجر به بسته شدن آن معامله شدند؟» شما ساعات بی‌پایانی را صرف اصلاح لینک‌های UTM خراب، اتصال متزلزل کانکتورهای لوکر استودیو و بازی دفاعی با ابزارهای پیچیده تجمیع داده می‌کنید. در همین حال، مدیران ارشد در جلسات منتظر آمار غیرقابل تأیید می‌مانند. هیچ‌کس به این دردسر نیاز ندارد، پس ما آن را نابود کردیم. اما تولو را نساختیم تا یک داشبورد غیرفعال دیگر باشد که نیازمند مراقبت تمام‌وقت است؛ ما تحلیل و عملیات بازاریابی را ۱۰۰٪ خودکار کردیم. چقدر خودکار؟ شما هرگز به دنبال بینش‌ها نمی‌گردید، بلکه داده‌ها شما را پیدا می‌کنند. راه‌اندازی آن کمتر از ۲۰ دقیقه زمان می‌برد و کاملاً روی خلبان خودکار اجرا می‌شود. ابزارهای قدیمی منتظر می‌مانند تا وارد شوید و کوئری بسازید، اما تولو دقیقاً عکس آن عمل می‌کند؛ به محض تغییر یک متریک یا جهش CAC، از طریق چت به شما هشدار می‌دهد. چه استارتاپ نوپا باشید و چه یک آژانس در حال رشد، تولو آماده به کار است تا حدس و گمان را متوقف کنید. ما ۱۴ روز تست رایگان بدون نیاز به کارت اعتباری ارائه می‌دهیم. من و همکارانم تمام روز در بخش نظرات منتظر بازخوردها و سوالات شما هستیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "وای خدای من! من از شدت خنده به ارائه شما داشتم گریه می‌کردم! «من تولو دارم» - این میم جدید است. ممنونم، روزم را ساختید. شما بازیگران فوق‌العاده‌ای هستید!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک بابت انتشار! بخش «داده شما را پیدا می‌کند» نظر من را جلب کرد. تولو چگونه تصمیم می‌گیرد چه چیزی ارزش پیام واتساپ دارد و چه چیزی نویز است؟ آستانه‌های ثابت دارد یا به مرور زمان یاد می‌گیرد که تیم به چه چیزی اهمیت می‌دهد؟ خستگی از هشدارها بیشتر ابزارهای نظارتی را که امتحان کرده‌ام از پا درآورده است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بیشتر ترافیک ما از ویدیوهای کوتاه ارگانیک شروع می‌شود که لینک در بیو قرار دارد، بنابراین مسیر UTM قبل از رسیدن به سایت قطع می‌شود. آیا تولو چیزی را به شبکه‌های اجتماعی ارگانیک نسبت می‌دهد یا داستان از اولین کلیک رهگیری‌شده شروع می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک برای انتشار. پاسخ نمای Impact در مورد تغییر همزمان سه چیز بسیار صادقانه بود. ما هم با همین شکاف در بخش ارگانیک مواجهیم: مشتری استوری می‌گذارد، ۶ دایرکت شروع می‌شود، ۲ تا رزرو می‌کنند و هیچ‌کدام به UTM متصل نمی‌شوند. آیا راهی برای ثبت درآمدی که از دایرکت یا تماس تلفنی شروع شده وجود دارد یا همه چیز باید ابتدا وارد هاب‌اسپات شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "آیا تولو می‌تواند بودجه بازاریابی من را برای یک فصل بر اساس عملکرد کانال‌ها تحلیل و بازتوزیع کند تا متریک پیشرو را متناسب با هدف بزرگتر و متریک ستاره قطبی تیم بهینه‌سازی نماید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "نمای Impact چگونه ماهی را که در آن سه تغییر همزمان ایجاد کرده‌اید (تبلیغات جدید، تغییر قیمت، کمپین اوت‌باند و غیره) مدیریت و تحلیل می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "من گاهی با بچه‌های این تیم در فضای کار مشترک کار می‌کنم و از دیدن محصولشان بسیار هیجان‌زده‌ام!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبسیاری از تیم‌های بازاریابی و مدیران ارشد وقت خود را تلفِ ساخت و نگهداری داشبوردهای پیچیده، لینک‌های UTM شکسته و گزارش‌های دستی اکسل می‌کنند، بدون اینکه دقیقاً بدانند کدام هزینه بازاریابی منجر به درآمد واقعی شده است. Tulu با خودکارسازی کامل تحلیلی (Autonomous Analytics) این مشکل را حل می‌کند؛ به جای اینکه کاربر به دنبال داده برود، سیستم تغییرات مهم، جهش هزینه‌ها (CAC) و تحلیل بازگشت سرمایه را شناسایی کرده و هشدارهای دقیق را مستقیماً به پیام‌رسان (واتساپ) ارسال می‌کند.\n\nمعماری و تکنولوژی:\nسیستم بر پایه تحلیل داده‌های حجیم (Big Data Analytics) و موتور پردازش رویدادها (Event-driven Architecture) طراحی شده است. استفاده از پایگاه‌های داده ستونی مانند ClickHouse برای پردازش سریع کوئری‌های تحلیلی، در کنار مدل‌های هوش مصنوعی برای تشخیص آنومالی (Anomaly Detection) و الگوریتم‌های Attribution Modeling، زیرساخت اصلی این پلتفرم را تشکیل می‌دهد.\n\nمدل درآمدی:\nمدل درآمدی Tulu به صورت SaaS مبتنی بر اشتراک (Subscription-based) است که بر اساس حجم بودجه تحت مدیریت یا تعداد کانال‌های متصل دسته‌بندی می‌شود. ارائه ۱۴ روز تست رایگان بدون نیاز به کارت اعتباری، استراتژی جذب کم‌هزینه کاربر (PLG) را نشان می‌دهد.\n\nنقاط قوت:\n۱. تمرکز روی Push Analytics به جای Pull Analytics (ارسال اطلاعات به جای انتظار برای مراجعه کاربر).\n۲. راه‌اندازی بسیار سریع (زیر ۲۰ دقیقه) بدون نیاز به تنظیمات طولانی.\n۳. حذف وابستگی شدید به UTMها و داشبوردهای سنتی.\n\nنقاط ضعف:\n۱. چالش‌های مربوط به اتکا به واتساپ و احتمال خستگی از هشدارها (Alert Fatigue) در صورت عدم تنظیم دقیق آستانه‌ها.\n۲. محدودیت در نسبت‌دهی (Attribution) برای مسیرهای غیرمستقیم مانند دایرکت‌های اینستاگرام یا فروش تلفنی.\n\nنکته طلایی برای ایران:\nدر ایران به دلیل قطع شدن مسیر UTMها در پیام‌رسان‌ها و اینستاگرام، و همچنین پیچیدگی گوگل آنالیتیکس برای کسب‌وکارهای SMB، ساخت ابزاری که بتواند ورودی‌های بومی (مانند دایرکت، واتساپ، بله، ایتا و CRMهای داخلی) را به فروش واقعی متصل کند و گزارش‌ها را روی پیام‌رسان‌ها بفرستد، ارزش فوق‌العاده بالایی ایجاد خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "مارکت‌کاو (MarketKav)",
+        "description": "این محصول یک سامانه خودکار تحلیل بازاریابی و اتومیشن است که بدون نیاز به تنظیمات پیچیده، بازدهی دقیق کانال‌های مختلف تبلیغاتی را محاسبه می‌کند. پلتفرم با اتصال به ابزارهای فروش و پیام‌رسان‌ها، هشدارهای هوشمند رفتار مشتری و جهش هزینه‌ها را بدون نیاز به ساخت داشبوردهای دستی ارسال می‌نماید. کسب‌وکارهای ایرانی می‌توانند با تحلیل یکپارچه تبلیغات آنلاین و آفلاین، بودجه بازاریابی خود را بر اساس نرخ بازگشت سرمایه واقعی بهینه‌سازی کنند.",
+        "marketOpportunity": "در بازار ایران کسب‌وکارهای کوچک و متوسط و آژانس‌های تبلیغاتی با چالش‌های بزرگی در رهگیری دقیق کمپین‌ها و پیچیدگی ابزارهایی نظیر گوگل آنالیتیکس مواجه هستند. ارائه ابزاری بومی که اتومیشن تحلیلی را با CRMهای داخلی و پیام‌رسان‌های پرکاربرد تلفیق کند، بازار بسیار بکری در اختیار خواهد داشت.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران بازاریابی، بنیان‌گذاران استارتاپ‌ها، آژانس‌های دیجیتال مارکتینگ و تیم‌های RevOps در کسب‌وکارهای متوسط و کوچک",
+        "challenges": [
+          "محدودیت‌های رهگیری داده به دلیل قطعی‌ها، ابزارهای تغییر IP و قطعی لینک‌های UTM در شبکه‌های اجتماعی بومی",
+          "چالش چسبندگی کاربران ایرانی به پیام‌رسان‌های بومی یا واتساپ جهت دریافت هشدارها و مسائل مربوط به زیرساخت پیام‌رسانی"
+        ],
+        "monetization": [
+          "حق اشتراک ماهانه و سالانه بر اساس میزان بودجه بازاریابی تحلیلی یا تعداد کانال‌ها",
+          "فروش اشتراک سازمانی همراه با خدمات سفارشی‌سازی اتصال به CRMهای ایرانی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "ClickHouse",
+          "Redis"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -45202,9 +45543,9 @@
       }
     },
     {
-      "id": "ph-today-4",
+      "id": "ph-today-5",
       "date": "2026-11-04",
-      "rank": 4,
+      "rank": 5,
       "name": "OpenMail",
       "slug": "openmail",
       "tagline": "Give your AI agents an identity through email",
@@ -45853,58 +46194,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-11-04",
-      "rank": 5,
-      "name": "Render Sandboxes",
-      "slug": "render-sandboxes",
-      "tagline": "A computer for every agent",
-      "description": "Render Sandboxes give every agent its own isolated Linux computer. Sandboxes starts in under a second and can run any agent or harness, like Claude Code or Codex. Your agent can also run your app with Docker Compose to test its changes. You decide which domains each sandbox can reach. When your agent goes idle, the sandbox suspends and compute charges stop. It wakes with files and memory intact. And you can reliably run thousands at once - all on the same platform as the rest of your app.",
-      "category": "Developer Tools • Artificial Intelligence • SDK",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
-      "url": "https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/b7e3be74-e023-4071-9382-dd85aa0fbcdd.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7eb4ca6e-4e81-4328-9482-a9b695a2f991.png?auto=format",
-        "https://ph-files.imgix.net/bcb6349c-560c-4e68-aed2-f1724fbfb90e.png?auto=format",
-        "https://ph-files.imgix.net/d2c27011-a818-49f2-92ba-af0f7e546c8c.png?auto=format",
-        "https://ph-files.imgix.net/60115c78-b695-4a40-bf63-0b9c3e4d0614.png?auto=format",
-        "https://ph-files.imgix.net/12ecf66e-774b-486f-98ad-4cf8bad3cccf.png?auto=format",
-        "https://ph-files.imgix.net/42dd5c5d-e07d-4e3f-a68d-305a0880d2d4.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 181,
-      "websiteUrl": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "All our scheduled agents run on one laptop, and one evening the 6pm run just died because the lid was closed. Can a sandbox wake itself on a schedule, say every day at 6pm, or does something outside have to send it the first command?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can I spin up a bunch of sandboxes from the same snapshot, or do I need a copy for each one?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've run a dozen or more coding agents at once on one 48GB Mac. In September that took the whole machine down from memory exhaustion and every session died together, so the isolation is the part I care about here. What happens when one sandbox hits its memory limit: does only that agent die while the others keep going? And how well does suspend and wake hold up with a big install? Our node_modules is 18GB."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! How would you recommend running long AI jobs alongside a web API on Render? I'd be especially interested in what happens to jobs already in progress during a deployment."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Keeping memory and files through a pause is useful for longer tasks. When debugging a retry, I'd also want to see clearly which work resumed and which work ran again."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 I'm Slav, PM for Render Sandboxes.The work agents are given is becoming increasingly complex. Like people, agents need machines on which to do this work, so they can write and run code, install dependencies, manipulate files, and more. But not just any machine will do! To work safely, agents need a separate machine for each task or user, isolated from your app and from each other. And since agent work comes in bursts, those machines need to start and stop with demand.Render Sandboxes give each user or task its own machine the moment it’s needed. Each sandbox runs in its own Firecracker microVM.Speed: a sandbox is ready for its first command in under a second.Scale: you can run thousands of sandboxes at once, reliably.Security: you can set each sandbox to allow all outbound traffic, allow only the domains you list, or block outbound traffic entirely. Credential brokering (now in early access; let us know if you're interested) adds your API keys to outgoing requests, so the keys never sit inside the sandbox.Pricing: you pay for the CPU a sandbox actually uses and the memory it allocates. A suspended sandbox stops both charges and billing, except for snapshot storage.Long-running work: A sandbox can run with no time limit. When it goes idle, Render suspends it and wakes it on the next command with its files and memory intact.One platform: your sandboxes live in the same workspace as your web services, background workers, and Render Postgres databases, with one API key, one SDK, and one bill.Teams use Render Sandboxes to run an agent harness like Claude Code or Codex inside a sandbox, to start a full copy of an app so a coding agent can test its changes, and to run code and files they didn't write.Render Sandboxes are in public beta - tell us if anything feels missing or doesn't work as expected. We'll be here throughout the day answering questions!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -50670,6 +50959,68 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-11-04",
+      "rank": 6,
+      "name": "Orphex MCP",
+      "slug": "orphex-mcp",
+      "tagline": "Run your entire digital marketing stack via one unified MCP",
+      "description": "Orphex is the unified MCP gateway for digital marketing teams, handling auth and integrations for 65+ platforms, from Google Ads to Shopify, to give your AI true cross-channel context. Move your AI beyond QA: empower it to analyze integrated performance and take every action a human marketer can. Reallocate budgets, pause unprofitable creatives, or adjust products from a single prompt. Every change is logged and protected by safety guardrails. Start free, 30% off the first month.",
+      "category": "Analytics • Marketing • Artificial Intelligence",
+      "categoryFa": "تحلیل داده • بازاریابی • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/20077e75-36a1-4a03-a4be-7bf2e0418da6.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f22a9952-23a8-4305-94a4-e721cf498174.jpeg?auto=format",
+        "https://ph-files.imgix.net/7cd672d9-6cbe-442e-8317-ec48db7a908f.png?auto=format",
+        "https://ph-files.imgix.net/794b8c55-d7a1-4b79-8959-02b1f6200545.png?auto=format",
+        "https://ph-files.imgix.net/6d90fbdd-8e99-4ab1-9519-30ab4fe27f4f.png?auto=format",
+        "https://ph-files.imgix.net/2699810a-48ee-4615-91d5-c0b979560255.jpeg?auto=format",
+        "https://ph-files.imgix.net/022c022b-fd3e-4c15-815a-9f560fa4f111.png?auto=format",
+        "https://ph-files.imgix.net/12b26476-e700-4eba-b698-5d8740d3048d.png?auto=format",
+        "https://ph-files.imgix.net/ab08a71d-8197-4c8f-bb31-57b9845f4841.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 161,
+      "websiteUrl": "https://www.producthunt.com/r/BP2JPQXX3JGH6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Hunters! 👋 I'm Kıvanç, co-founder and CEO of Orphex. I founded AnalyticaHouse, one of Turkey's leading performance marketing agencies, and before that led marketing at Trendyol, Turkey's largest e-commerce platform. For over a decade, brands asked me one question: \"What is really happening with our ads?\" The answer was always buried in five dashboards, a few exports and a spreadsheet. Today we're launching Orphex MCP to fix that. Each ad platform's own MCP only sees its own channel. Orphex MCP connects 60+ sources, including Meta, Google Ads, TikTok, GA4, Shopify and AppsFlyer, to Claude, ChatGPT, Gemini, Copilot, Cursor or Grok, so you can ask what no single platform can answer: • \"Meta and Google both claim last week's sales. What does Shopify say?\" • \"Our cost per install jumped this week. Which channel caused it?\" • \"Which search terms spend without converting?\" It's not a generic chatbot sitting on your data.Orphex MCP comes with built-in analysis guides and skills, so answers follow a proven method instead of a guess. And you can teach it how your team works: add your own playbooks, KPI definitions, targets and report templates, and every answer follows them. 100+ brands already use Orphex MCP. Together, Orphex help customers manage $100M+ in monthly ad spend.Now we're opening it to everyone. Because it touches real budgets, nothing changes on your ad accounts until you approve it. Start free, no credit card. For launch day, every paid plan is 30% off your first month. I'll be here all day. What's the first question about your ads you wish you could just ask?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch Kıvanç. Running ads from Claude is exactly where this should go. One question from the agency side: when one person manages several clients’ ad accounts, can each connection be locked to one client? I’d want to be sure a prompt about client A can never touch client B’s budget, even by mistake."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Kıvanç, congrats on today. Small lodging advertiser here, so the opposite of an ecommerce funnel — a guest clicks an ad, asks questions for a week, then books days later, sometimes offline entirely. The approval-before-anything-changes guardrail is the whole ballgame for a business our size. One agent-set budget change nobody caught would end the experiment fast. How granular can the approval rules get? Per campaign, per change type — could I let it pause a dead creative on its own but still make it wait for me on budgets?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Mine would be: “Is my measurement set up right for what I’m trying to answer?” Right data going to each platform, attribution windows that fit the analysis, that kind of thing. Does Orphex check that, or does it assume the setup is correct?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!With Black Friday approaching, performance marketing teams often need to make rapid budget allocation decisions across Meta, Google Ads, and TikTok while dealing with fluctuating ROAS, attribution discrepancies, and sudden changes in conversion rates.Can Orphex MCP proactively monitor campaign performance across all these channels during high-volume periods like Black Friday, identify where additional budget would generate the highest incremental revenue, and recommend or execute budget reallocations in real time while respecting predefined spending limits and approval rules?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Love the human-in-the-loop approach here. Giving marketers the ability to review AI-suggested changes before they go live is a big deal when real ad budgets are involved. Curious, are you planning to show estimated performance impact before approving a proposal?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! 🚀 Quick question, Programmatic rarely gets credit in last-click reports, so I’m curious about the full loop for DV360: could Impact Analysis show whether an upper-funnel push lifted branded search and direct traffic, and then let the assistant act on it? and approval-based write access (line item budgets, pacing) on the roadmap?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Being able to add our own KPI definitions and playbooks is cool. Every team measures things a bit differently, so this will help."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-10-19",
       "rank": 4,
@@ -51103,68 +51454,6 @@
         ],
         "confidence": 65
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-11-04",
-      "rank": 6,
-      "name": "Orphex MCP",
-      "slug": "orphex-mcp",
-      "tagline": "Run your entire digital marketing stack via one unified MCP",
-      "description": "Orphex is the unified MCP gateway for digital marketing teams, handling auth and integrations for 65+ platforms, from Google Ads to Shopify, to give your AI true cross-channel context. Move your AI beyond QA: empower it to analyze integrated performance and take every action a human marketer can. Reallocate budgets, pause unprofitable creatives, or adjust products from a single prompt. Every change is logged and protected by safety guardrails. Start free, 30% off the first month.",
-      "category": "Analytics • Marketing • Artificial Intelligence",
-      "categoryFa": "تحلیل داده • بازاریابی • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/20077e75-36a1-4a03-a4be-7bf2e0418da6.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f22a9952-23a8-4305-94a4-e721cf498174.jpeg?auto=format",
-        "https://ph-files.imgix.net/7cd672d9-6cbe-442e-8317-ec48db7a908f.png?auto=format",
-        "https://ph-files.imgix.net/794b8c55-d7a1-4b79-8959-02b1f6200545.png?auto=format",
-        "https://ph-files.imgix.net/6d90fbdd-8e99-4ab1-9519-30ab4fe27f4f.png?auto=format",
-        "https://ph-files.imgix.net/2699810a-48ee-4615-91d5-c0b979560255.jpeg?auto=format",
-        "https://ph-files.imgix.net/022c022b-fd3e-4c15-815a-9f560fa4f111.png?auto=format",
-        "https://ph-files.imgix.net/12b26476-e700-4eba-b698-5d8740d3048d.png?auto=format",
-        "https://ph-files.imgix.net/ab08a71d-8197-4c8f-bb31-57b9845f4841.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 160,
-      "websiteUrl": "https://www.producthunt.com/r/BP2JPQXX3JGH6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Hunters! 👋 I'm Kıvanç, co-founder and CEO of Orphex. I founded AnalyticaHouse, one of Turkey's leading performance marketing agencies, and before that led marketing at Trendyol, Turkey's largest e-commerce platform. For over a decade, brands asked me one question: \"What is really happening with our ads?\" The answer was always buried in five dashboards, a few exports and a spreadsheet. Today we're launching Orphex MCP to fix that. Each ad platform's own MCP only sees its own channel. Orphex MCP connects 60+ sources, including Meta, Google Ads, TikTok, GA4, Shopify and AppsFlyer, to Claude, ChatGPT, Gemini, Copilot, Cursor or Grok, so you can ask what no single platform can answer: • \"Meta and Google both claim last week's sales. What does Shopify say?\" • \"Our cost per install jumped this week. Which channel caused it?\" • \"Which search terms spend without converting?\" It's not a generic chatbot sitting on your data.Orphex MCP comes with built-in analysis guides and skills, so answers follow a proven method instead of a guess. And you can teach it how your team works: add your own playbooks, KPI definitions, targets and report templates, and every answer follows them. 100+ brands already use Orphex MCP. Together, Orphex help customers manage $100M+ in monthly ad spend.Now we're opening it to everyone. Because it touches real budgets, nothing changes on your ad accounts until you approve it. Start free, no credit card. For launch day, every paid plan is 30% off your first month. I'll be here all day. What's the first question about your ads you wish you could just ask?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch Kıvanç. Running ads from Claude is exactly where this should go. One question from the agency side: when one person manages several clients’ ad accounts, can each connection be locked to one client? I’d want to be sure a prompt about client A can never touch client B’s budget, even by mistake."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Kıvanç, congrats on today. Small lodging advertiser here, so the opposite of an ecommerce funnel — a guest clicks an ad, asks questions for a week, then books days later, sometimes offline entirely. The approval-before-anything-changes guardrail is the whole ballgame for a business our size. One agent-set budget change nobody caught would end the experiment fast. How granular can the approval rules get? Per campaign, per change type — could I let it pause a dead creative on its own but still make it wait for me on budgets?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Mine would be: “Is my measurement set up right for what I’m trying to answer?” Right data going to each platform, attribution windows that fit the analysis, that kind of thing. Does Orphex check that, or does it assume the setup is correct?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!With Black Friday approaching, performance marketing teams often need to make rapid budget allocation decisions across Meta, Google Ads, and TikTok while dealing with fluctuating ROAS, attribution discrepancies, and sudden changes in conversion rates.Can Orphex MCP proactively monitor campaign performance across all these channels during high-volume periods like Black Friday, identify where additional budget would generate the highest incremental revenue, and recommend or execute budget reallocations in real time while respecting predefined spending limits and approval rules?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Love the human-in-the-loop approach here. Giving marketers the ability to review AI-suggested changes before they go live is a big deal when real ad budgets are involved. Curious, are you planning to show estimated performance impact before approving a proposal?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! 🚀 Quick question, Programmatic rarely gets credit in last-click reports, so I’m curious about the full loop for DV360: could Impact Analysis show whether an upper-funnel push lifted branded search and direct traffic, and then let the assistant act on it? and approval-based write access (line item budgets, pacing) on the roadmap?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Being able to add our own KPI definitions and playbooks is cool. Every team measures things a bit differently, so this will help."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -57409,7 +57698,63 @@
           "user": "[REDACTED]",
           "text": "A stored webhook gives you a useful starting point when an agent takes a wrong turn. I'd want to inspect that original event alongside the run it started."
         }
-      ]
+      ],
+      "faDescription": "وب‌هووک‌های Trigger.dev به شما این امکان را می‌دهند که ایجنت‌های هوش مصنوعی خود را روی سرویس‌هایی بسازید که مشتریانتان هم‌اکنون از آن‌ها استفاده می‌کنند، مانند اسلک، سوپابیس و استرایپ. با این ابزار، یک پول‌ریکوئست در گیت‌هاب می‌تواند یک ایجنت بررسی کد را فعال کند. همچنین یک ایشوی جدید در سنتری می‌تواند ایجنتی را برای نوشتن راهکار برطرف‌سازی باگ راه‌اندازی نماید. علاوه بر این، فرایند بازپرداخت وجه در استرایپ می‌تواند منتظر تایید دستی یک انسان در پلتفرم اسلک بماند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به Product Hunt 👋 مدت‌ها بود که وب‌هووک‌ها پردرخواست‌ترین ویژگی در Trigger.dev بودند. امروز این امکان فعال شده است؛ اکنون می‌توانید ایجنت‌های هوش مصنوعی خود را از طریق وب‌هووک‌های ارسالی از استرایپ، گیت‌هاب، اسلک، سوپابیس و بیش از ۵۰ سرویس دیگر شروع کرده، ادامه داده یا به آن‌ها پیام دهید. هر وب‌هووک قبل از پردازش ذخیره می‌شود تا هیچ داده‌ای از دست نرود و تمامی پروژه متن‌باز است. مشتاقم ببینم چه چیزی می‌سازید! https://tgr.dev/webhooks-ph"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سیستم ارکستریشن و منطق تلاش مجدد (Retry logic) مزیتی واقعی در اینجا محسوب می‌شوند. ساخت ورک‌فلوهای قابل اعتماد برای ایجنت‌ها سخت است؛ از قطع اتصال شبکه و محدودیت نرخ فراخوانی مدل‌ها گرفته تا خطاهای زنجیره‌ای. پلتفرمی که صف‌بندی کارها، قابلیت مشاهده‌زیستی (Observability) و مدیریت داده‌های پردازش‌نشده را انتزاعی و ساده می‌کند، معادله بین آنچه واقعاً قابل انتشار است و آنچه در حد یک نوتبوک باقی می‌ماند را تغییر می‌دهد. در مورد مدل قیمت‌گذاری سرورلس و نحوه مقیاس‌پذیری آن با وظایف پرتکرار ایجنت‌ها کنجکاو هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "سرویس BrainTube روی سوپابیس اجرا می‌شود و در حال حاضر کارهای سنگین در Edge Functions و Cron اجرا می‌شوند که برای کارهای طولانی‌مدت مناسب نیست. ذخیره هر وب‌هووک قبل از پردازش بخش مورد علاقه من است. آیا وب‌هووک پایگاه‌داده سوپابیس می‌تواند اجرای یک ایجنت را شروع کند و بعداً با تغییر ردیف دیگری، آن را ادامه دهد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تفکیک بین ادامه دادن (Resume) و پیام دادن (Message) بخشی است که مدام به آن فکر می‌کنم. وقتی وب‌هووک جدیدی برای ایجنتی که در حال اجراست می‌رسد، آیا به عنوان پیام در صف اجرای فعلی قرار می‌گیرد یا یک اجرای مجزا را شروع می‌کند؟ و وقتی یک ایجنت منتظر را ادامه می‌دهد، آیا ایجنت فقط داده‌های ذخیره‌شده وب‌هووک را به عنوان کانتکست جدید دریافت می‌کند یا کل تاریخچه رویدادهای آن اجرا را؟ این مرزبندی زمانی که تاییدیه اسلک چند روز بعد دریافت می‌شود و درخواست اولیه تغییر کرده است بسیار اهمیت دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این محصول واقعاً کاربردی به نظر می‌رسد. من قبلاً اتصالات وب‌هووک به ایجنت را به صورت دستی و سنتی پیاده کرده بودم و همیشه به کلاف سردرگمی از تلاش مجدد و تایم‌آوت تبدیل می‌شد. یک سوال دارم: اگر ایجنتی منتظر تایید اسلک باشد و کسی تا چند روز پاسخ ندهد، آیا اجرا همان‌جا معلق می‌ماند یا می‌توان تایم‌آوت تنظیم کرد؟ تبریک به تیم!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دریافت تکراری یک وب‌هووک رویدادی روی‌اعصاب است، اما استرداد دوباره وجه توسط ایجنت پیامد مالی سنگینی دارد. چگونه رویدادهای تکراری و تلاش‌های مجدد را وقتی گام بعدی اثرات واقعی و مالی در دنیای واقعی دارد مدیریت می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "یک وب‌هووک ذخیره‌شده نقطه شروع مفیدی را هنگام انحراف ایجنت از مسیر درست فراهم می‌کند. من تمایل دارم آن رویداد اولیه را در کنار اجرای شروع‌شده بررسی و بازرسی کنم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: ساخت ایجنت‌های هوش مصنوعی متصل به سرویس‌های خارجی به دلیل قطعی شبکه، محدودیت فراخوانی (Rate Limit) و خطاهای ناگهانی بسیار چالش‌برانگیز است. Trigger.dev با ارائه زیرساخت ذخیره‌سازی پیش‌فرض وب‌هووک‌ها و مدیریت اجرای پایدار (Durable Execution)، مطمئن‌ترین راهکار را برای مدیریت فرایندهای طولانی‌مدت ایجنت‌ها ارائه می‌دهد.\n\nمعماری و تکنولوژی: معماری سیستم بر پایه مدیریت صف‌های قدرتمند، قابلیت مشاهده دقیق (Observability)، و هندلینگ Dead-letter استوار است. متن‌باز بودن پروژه به تیم‌ها اجازه می‌دهد بدون وابستگی مطلق به ابر، آن را روی زیرساخت خود نصب و سفارشی‌سازی کنند.\n\nمدل درآمدی: بر اساس مدل سرورلس و میزان مصرف از منابع (تعداد رویداد پردازش‌شده و ثانیه‌های اجرای ایجنت) به همراه طرح‌های سازمانی خصوصی برنامه‌ریزی شده است.\n\nنقاط قوت: رفع چالش قطعی ارتباطات با ذخیره اولیه داده‌ها، پشتیبانی از بیش از ۵۰ سرویس کاربردی، معماری متن‌باز و تسهیل انتقال ایجنت‌ها از محیط توسعه به تولید.\n\nنقاط ضعف: ابهام در پیچیدگی‌های مدیریت وضعیت (State Management) ایجنت‌ها، نحوه هندلینگ وب‌هووک‌های تکراری با اثرات مالی حساس و چالش‌های تایم‌آوت کارهای معلق.\n\nنکته طلایی برای ایران: در بازار ایران به دلیل نوسانات اینترنت بین‌الملل، منطق «ذخیره‌سازی قبل از پردازش» اهمیت دوچندانی دارد. بومی‌سازی این ابزار با اتصال به پیام‌رسان‌های داخلی (مثل بله یا ایتا) و درگاه‌های پرداخت بومی، ارزش فوق‌العاده‌ای برای اتوماسیون هوشمند شرکت‌های ایرانی ایجاد خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "پلتفرم بومی ارکستریشن و زیرساخت وب‌هووک ایجنت‌ها (تاسک‌فورج)",
+        "description": "این پلتفرم بومی زیرساختی را برای مدیریت ورک‌فلوها و ایجنت‌های هوش مصنوعی بر پایه وب‌هووک‌های ابزارهای مختلف فراهم می‌کند. سیستم با ذخیره‌سازی پیش‌فرض پیام‌ها و مدیریت تلاش مجدد، پایداری کارهای طولانی‌مدت را تضمین می‌نماید. توسعه‌دهندگان ایرانی می‌توانند پیام‌رسان‌های داخلی و سامانه‌های بانکی را به ایجنت‌های هوشمند متصل کنند.",
+        "marketOpportunity": "با رشد سریع پیاده‌سازی ایجنت‌های هوش مصنوعی در کسب‌وکارهای ایرانی، نیاز مبرمی به پلتفرم‌های مدیریت خطای ابری و اتوماسیون پایداری‌محور وجود دارد. عدم وجود زیرساخت‌های بومی اتوماسیون پیشرفته مبتنی بر ایجنت، فرصت تجاری مناسبی برای جذب تیم‌های فنی و استارتاپ‌ها ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های زیرساخت و دواپس، استارتاپ‌های حوزه هوش مصنوعی و شرکت‌های ارائه‌دهنده خدمات B۲B",
+        "challenges": [
+          "محدودیت‌های مربوط به زیرساخت ابری بومی و اختلالات اینترنت",
+          "پشتیبانی و یکپارچه‌سازی با سرویس‌ها و پیام‌رسان‌های داخلی دارای ای‌پی‌آی غیر استاندارد"
+        ],
+        "monetization": [
+          "مدل پرداختی مبتنی بر میزان مصرف (Pay-as-you-go) بر اساس تعداد رویدادها",
+          "اشتراک سازمانی Enterprise برای نسخه آن‌پرمیس (On-Premise)"
+        ],
+        "techStack": [
+          "Next.js",
+          "TypeScript",
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "RabbitMQ"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-today-3",
@@ -60492,7 +60837,62 @@
           "user": "[REDACTED]",
           "text": "Good to see a 1.7B model post-trained for Hermes Agent. I begrudge wasting my subscription tokens for the most basic of tasks. I'll give it a go."
         }
-      ]
+      ],
+      "faDescription": "LFM۳ نسل سوم مدل‌های پایه مایع Liquid AI است. این مجموعه شامل شش مدل ۲ میلیارد پارامتری برای متن، بینایی، صدا، ترکیبی و تصمیم‌گیری می‌باشد. مدل متنی ۱.۷ میلیارد پارامتری با دقت ۴‑بیتی حدود ۱ گیگابایت فضا می‌گیرد و می‌تواند تا ۲۵۶ هزار توکن زمینه را پشتیبانی کند. وزن‌های این مدل‌ها به صورت باز در Hugging Face منتشر شده و می‌توانند روی گوشی‌های هوشمند، لپ‌تاپ‌ها و ربات‌ها اجرا شوند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "LFM۳ نسل سوم مدل‌های پایه مایع Liquid AI است؛ مدل‌های کوچک با وزن باز که برای اجرا روی دستگاه‌ها طراحی شده‌اند و یک پشت‌صحنه مشترک برای متن، تصویر، صدا، ترکیبی و تصمیم‌گیری دارند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "یک مدل ۱.۷ میلیارد پارامتری با زمینه ۲۵۶K و حجم حدود ۱ گیگابایت ترکیبی قدرتمند برای عامل‌های محلی است؛ آیا فراخوانی ابزارها در این اندازه قابل اعتماد است تا در حلقه عامل مورد اعتماد باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "حجم ۱ گیگابایت در ۴‑بیت برای مدل متنی برای گوشی کافی است؛ تا حالا این مدل روی چه گوشی‌هایی اجرا شده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "جستجوی سخت‌افزار‑در‑حلقه مهندسی دقیقی است که روی رزبری‌پای ۵، NPU Qualcomm، لپ‌تاپ و گوشی‌ها تست شده؛ این کار به یافتن تعادل واقعی کمک می‌کند. سرعت استنتاج روی دستگاه ۱.۸ تا ۲.۸ برابر سریع‌تر از مدل‌های مقایسه‌ای است و محدودیت اصلی حافظه KV (۱.۶ گیگابایت برای ۱۲۸K) است؛ پذیرش جامعه برای فاین‑تونیگ تا کنون چگونه است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این محصول یک فرصت فوق‌العاده است و پایه‌ای ایده‌آل برای فاین‑تونیگ مدل‌های خاص کاربردی فراهم می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "مدل ۱.۷ میلیارد پارامتری که در حدود ۱ گیگابایت ۴‑بیتی و زمینه ۲۵۶K است، توجه من را جلب کرد؛ آیا در عمل روی گوشی‌ها انتظار می‌رود کاربران کل زمینه ۲۵۶K را استفاده کنند یا این مقدار بیشتر برای لپ‌تاپ و دستگاه‌های لبه مناسب است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "یک مدل متنی ۱.۷ میلیارد پارامتری با حجم یک گیگابایت و زمینه ۲۵۶K برای گوشی‌ها مهم است، زیرا کارهای جذاب در دستگاه‌هایی بدون اتصال پایدار انجام خواهد شد."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "دیدن مدل ۱.۷ میلیارد پارامتری که برای Hermes Agent پس‌آموزش داده شده خوشایند است؛ من نمی‌خواهم توکن‌های اشتراکی‌ام را برای کارهای ساده هدر دهم؛ بنابراین آن را امتحان می‌کنم."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "LFM۳ - مدل پایه مایع",
+        "description": "LFM۳ یک مجموعه مدل‌های پایه کوچک با وزن باز است که برای اجرا روی دستگاه‌های لبه ایرانی طراحی شده. شامل شش مدل ۲ میلیارد پارامتری برای متن، تصویر، صدا، ترکیبی و تصمیم‌گیری می‌باشد. مدل متنی ۱.۷ میلیارد پارامتری با دقت ۴‑بیتی حدود ۱ گیگابایت فضا می‌گیرد و می‌تواند تا ۲۵۶ هزار توکن زمینه را پشتیبانی کند.",
+        "marketOpportunity": "در ایران تقاضا برای هوش مصنوعی محلی و بدون وابستگی به سرویس‌های ابری در حال رشد است، به‌ویژه در حوزه رباتیک، دستیارهای صوتی و برنامه‌های لبه. LFM۳ می‌تواند با هزینهٔ کمتر و سرعت بالاتر، جایگزین مناسب مدل‌های بزرگ ابری شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، استارتاپ‌های رباتیک، شرکت‌های فناوری لبه و دانشگاه‌های پژوهشی",
+        "challenges": [
+          "بهینه‌سازی حافظه KV برای زمینه‌های طولانی در گوشی‌های هوشمند",
+          "پشتیبانی از زبان‌های بومی و داده‌های محلی برای فاین‑تونیگ"
+        ],
+        "monetization": [
+          "فروش لایسنس مدل‌های وزن باز به صورت اشتراک ماهانه",
+          "ارائه سرویس API میزبانی شده برای پردازش‌های لبه با پرداخت بر مصرف"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -60756,6 +61156,48 @@
         ],
         "confidence": 82
       }
+    },
+    {
+      "id": "ph-today-7",
+      "date": "2026-11-04",
+      "rank": 7,
+      "name": "OpusClip 4.0",
+      "slug": "opusclip-4-0",
+      "tagline": "Turn raw footage into ready-to-publish videos with AI",
+      "description": "OpusClip 4.0 goes beyond AI clipping to edit raw footage into finished videos. Automatically clean up speech, add captions and B-roll, create multiple formats, apply saved editing styles, and generate animated hooks and motion graphics.",
+      "category": "Social Media • Artificial Intelligence • Video",
+      "categoryFa": "شبکه‌های اجتماعی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/opusclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a4fab56d-7a17-49c7-9913-fbaf00fa2a28.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f9f94c60-a295-400a-91a4-c5d77ec2fa49.jpeg?auto=format",
+        "https://ph-files.imgix.net/229c3f31-99d6-445a-90d2-cf84d077ba72.png?auto=format",
+        "https://ph-files.imgix.net/769c1a9b-504d-4b6b-ba82-470cfbaa9854.png?auto=format",
+        "https://ph-files.imgix.net/be1b682c-ea2e-4c9d-9130-bdeed4fb7c4e.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 135,
+      "websiteUrl": "https://www.producthunt.com/r/KFBPHGUX5EBAT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Creating video content is one thing. Editing it is where things often get stuck. You might have hours of footage sitting on your phone, but finding the time to cut it, clean up the audio, add captions, and prepare it for different platforms is another challenge.OpusClip 4.0 takes on more of that editing process. Instead of only finding highlights in finished videos, you can now give it raw footage and let AI turn it into finished content.What's new in 4.0:Auto-edit: Upload raw footage or paste a video link. Turn on speech cleanup, captions, B-roll, and other editing options to get a finished video.Multiple formats: Turn one edit into different versions, from 60–90 second highlight clips to 3–5 minute extended cuts and quick lo-fi updates.Recipes: Save your editing setup as a reusable Recipe, or start with one of OpusClip's presets to keep future videos consistent.Viral Hook: Apply hook styles from a template library to make the opening seconds more engaging.Motion Graphics: Turn spoken content into animated icons, numbers, and charts on screen.AI Producer: Edit footage through a plugin in ChatGPT or Claude. Share a reference style and ask the AI to match it.OpusClip's existing AI clipping capabilities are still part of the product, but 4.0 expands the workflow to cover more of the editing process.Who it's for: Content creators, founders, marketers, educators, and small teams that need to produce videos regularly without hiring a full editing team.Try OpusClipP.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on 4.0! Auto-edit from raw footage is the part I care about most. We run a small job-search startup and turn data posts into 10-15s shorts for TikTok, Reels and YouTube every day, and the slow part is always captions and cutting, not the idea. Quick question: does auto-edit keep captions accurate for non-English speech, for example Armenian or Russian, or is it English-first for now?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been cutting launch videos with Claude this week, and what eats my time is pacing, not captions. The first cut looks fine frame by frame and feels slow when you actually watch it. When AI Producer matches a reference style, does it pick up how fast the reference cuts, or mostly the look? And does it hand back something I can still fix by hand, or a flat export?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Much needed one! Can't be a perfect timing. We are looking for the one to convert our user interviews into clips for distributing it to different channels.https://www.opus.pro/calendar — This is cherry on the top ❤️"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -61098,48 +61540,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-11-04",
-      "rank": 7,
-      "name": "OpusClip 4.0",
-      "slug": "opusclip-4-0",
-      "tagline": "Turn raw footage into ready-to-publish videos with AI",
-      "description": "OpusClip 4.0 goes beyond AI clipping to edit raw footage into finished videos. Automatically clean up speech, add captions and B-roll, create multiple formats, apply saved editing styles, and generate animated hooks and motion graphics.",
-      "category": "Social Media • Artificial Intelligence • Video",
-      "categoryFa": "شبکه‌های اجتماعی • هوش مصنوعی • ویدیو",
-      "url": "https://www.producthunt.com/products/opusclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a4fab56d-7a17-49c7-9913-fbaf00fa2a28.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f9f94c60-a295-400a-91a4-c5d77ec2fa49.jpeg?auto=format",
-        "https://ph-files.imgix.net/229c3f31-99d6-445a-90d2-cf84d077ba72.png?auto=format",
-        "https://ph-files.imgix.net/769c1a9b-504d-4b6b-ba82-470cfbaa9854.png?auto=format",
-        "https://ph-files.imgix.net/be1b682c-ea2e-4c9d-9130-bdeed4fb7c4e.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 134,
-      "websiteUrl": "https://www.producthunt.com/r/KFBPHGUX5EBAT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Creating video content is one thing. Editing it is where things often get stuck. You might have hours of footage sitting on your phone, but finding the time to cut it, clean up the audio, add captions, and prepare it for different platforms is another challenge.OpusClip 4.0 takes on more of that editing process. Instead of only finding highlights in finished videos, you can now give it raw footage and let AI turn it into finished content.What's new in 4.0:Auto-edit: Upload raw footage or paste a video link. Turn on speech cleanup, captions, B-roll, and other editing options to get a finished video.Multiple formats: Turn one edit into different versions, from 60–90 second highlight clips to 3–5 minute extended cuts and quick lo-fi updates.Recipes: Save your editing setup as a reusable Recipe, or start with one of OpusClip's presets to keep future videos consistent.Viral Hook: Apply hook styles from a template library to make the opening seconds more engaging.Motion Graphics: Turn spoken content into animated icons, numbers, and charts on screen.AI Producer: Edit footage through a plugin in ChatGPT or Claude. Share a reference style and ask the AI to match it.OpusClip's existing AI clipping capabilities are still part of the product, but 4.0 expands the workflow to cover more of the editing process.Who it's for: Content creators, founders, marketers, educators, and small teams that need to produce videos regularly without hiring a full editing team.Try OpusClipP.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on 4.0! Auto-edit from raw footage is the part I care about most. We run a small job-search startup and turn data posts into 10-15s shorts for TikTok, Reels and YouTube every day, and the slow part is always captions and cutting, not the idea. Quick question: does auto-edit keep captions accurate for non-English speech, for example Armenian or Russian, or is it English-first for now?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been cutting launch videos with Claude this week, and what eats my time is pacing, not captions. The first cut looks fine frame by frame and feels slow when you actually watch it. When AI Producer matches a reference style, does it pick up how fast the reference cuts, or mostly the look? And does it hand back something I can still fix by hand, or a flat export?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Much needed one! Can't be a perfect timing. We are looking for the one to convert our user interviews into clips for distributing it to different channels.https://www.opus.pro/calendar — This is cherry on the top ❤️"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -71480,7 +71880,62 @@
           "user": "[REDACTED]",
           "text": "Keeping the editor in the app's project makes sense. When the UI changes, the store images and their copy can be updated in the same place."
         }
-      ]
+      ],
+      "faDescription": "این ابزار یک مهارت رایگان و متن‌باز برای ایجنت‌های کدنویسی مانند Claude Code، Codex و Cursor است. کافی است اسکرین‌شات‌های برنامه و یک توضیحات کوتاه را به ایجنت خود بدهید تا یک ویرایشگر محلی اسکرین‌شات درون پروژه شما بسازد. شما می‌توانید از میان ۱۸ استایل مختلف انتخاب کنید، ظاهرها را در Style Lab مقایسه کرده، متن‌ها را ویرایش کنید و تمامی سایزها را برای آیفون، آی‌پد، مک و اندروید به زبان‌های مختلف خروجی بگیرید. این ابزار بدون نیاز به پرداخت اشتراک ماهانه و به صورت کاملاً محلی اجرا می‌شود و تنها هزینه‌های معمولی ایجنت کدنویسی شما اعمال خواهد شد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، من پارت هستم. من ابزار App Store Screenshots را ساختم تا اسکرین‌شات‌های برنامه را بدون از دست دادن کنترل روی طراحی، به اسکرین‌شات‌های نهایی اپ استور تبدیل کنم. این یک مهارت رایگان و متن‌باز برای Claude Code، Codex و Cursor است. اسکرین‌شات‌ها و یک توضیحات کوتاه را به ایجنت بدهید؛ خودش یک ویرایشگر محلی درون پروژه شما می‌سازد. • کار را با ۱۸ استایل شروع کنید و ظاهرهای کامل را در Style Lab مقایسه کنید. • متن‌ها، فریم دستگاه‌ها، فاصله‌ها و جزئیات رابط کاربری را خودتان ویرایش کنید. • پکیج‌های PNG را برای سایزهای مختلف دستگاه‌ها و زبان‌ها از جمله آیفون، آی‌پد، مک و اندروید خروجی بگیرید. این ویرایشگر همراه پروژه شما می‌ماند. هیچ اشتراکی برای اسکرین‌شات وجود ندارد؛ فقط هزینه‌های معمول ایجنت کدنویسی شما اعمال می‌شود. با دستور npx skills add ParthJadhav/app-store-screenshots نصب کنید و سپس از ایجنت بخواهید برای اپلیکیشن شما اسکرین‌شات بسازد. کدام بخش از ساخت اسکرین‌شات‌های اپ استور بیشترین زمان را از شما می‌گیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "عالیه، آیا این ابزار برای همه فرمت‌های آیفون کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "قابلیت Style Lab برای مقایسه ظاهرهای مختلف بسیار کاربردی به نظر می‌رسد. وقتی بعداً رابط کاربری اپ را تغییر می‌دهیم، آیا فقط کافیست اسکرین‌شات‌های جدید را به ایجنت بدهیم تا آن را بازسازی کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "فوق‌العاده عالی! آیا سایزهای مختلف آیفون را به طور خودکار مدیریت می‌کند یا اینکه یک مجموعه طراحی می‌کنیم و خودش مقیاس‌پذیر می‌شود؟ زمان‌بندی انتشارش برای من عالی بود، چون در آستانه انتشار یک اپلیکیشن iOS هستم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "مقایسه در Style Lab چیزی بود که توجه من را جلب کرد — مقایسه ظاهرهای کامل به جای دستکاری تک‌تک استایل‌ها همان جایی است که معمولاً وقت من تلف می‌شود. وقتی خروجی در ابعاد و زبان‌های مختلف می‌گیرید، آیا متن‌ها به یک مجموعه رشته متصل می‌مانند تا ویرایش تیتر در همه سایزها و زبان‌ها اعمال شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "خیلی خوب به نظر می‌رسد. من از یک skill دیگر ایجنت استفاده می‌کردم اما تا خروجی نهایی نتایج را نمی‌دیدم. فکر ساخت یک آزمایشگاه برای تنظیم جزئیات، بهبود بزرگی نسبت به جریان کاری فعلی من است. برای انتشار بعدی حتماً امتحانش می‌کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "نگه‌داشتن ویرایشگر در خود پروژه اپلیکیشن کاملاً منطقی است. وقتی رابط کاربری تغییر می‌کند، تصاویر اپ استور و متن‌های آن‌ها می‌توانند در همان مکان به‌روزرسانی شوند."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** توسعه‌دهندگان معمولاً برای ساخت تصاویر اپ استور زمان زیادی صرف ابزارهای سنگین یا سرویس‌های اشتراکی می‌کنند. این محصول با ارائه یک Skill متن‌باز برای ایجنت‌های کدنویسی، یک محیط ویرایش محلی درون خود پروژه ایجاد می‌کند تا اسکرین‌شات‌های خام به همراه متن‌های چندزبانه در چند ثانیه آماده شوند.\n\n**معماری و تکنولوژی:** این ابزار متکی بر اکوسیستم جدید Agent Skills (مانند Claude Code و Cursor) است. ویرایشگر به صورت محلی در پروژه ایجاد شده و از استایل‌های آماده و Style Lab برای مقایسه ظاهر بهره می‌برد.\n\n**مدل درآمدی:** این ابزار رایگان و متن‌باز (Open-Source) است و درآمد مستقیمی ندارد؛ بلکه روی کاهش هزینه توسعه‌دهندگان تمرکز دارد. مدل‌های تجاری مشابه می‌توانند از طریق فروش قالب‌های اختصاصی یا نسخه SaaS ابری کسب درآمد کنند.\n\n**نقاط قوت:** عدم نیاز به اشتراک ماهانه، اجرای تماماً محلی و حفظ امنیت پروژه، مقایسه هم‌زمان استایل‌ها در Style Lab، و پشتیبانی کامل از سایزها و زبان‌های مختلف.\n\n**نقاط ضعف:** وابستگی به ایجنت‌های هوش مصنوعی و هزینه‌های مربوط به API آن‌ها، و نیاز به دانش اولیه کار با ابزارهای کدنویسی مبتنی بر AI.\n\n**نکته طلایی برای ایران:** توسعه نسخه متمرکز بر مارکت‌های داخلی (کافه بازار و مایکت) با پشتیبانی کامل و پیش‌فرض از فونت‌های فارسی زیبا و چیدمان راست‌چین (RTL) می‌تواند به سرعت به ابزار استاندارد توسعه‌دهندگان ایرانی تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "استوراستودیو ای‌آی (StoreStudio AI)",
+        "description": "یک ابزار بومی‌سازی‌شده برای توسعه‌دهندگان ایرانی جهت ساخت و مدیریت اسکرین‌شات‌های کافه بازار، مایکت و اپ استور. این سیستم با اتصال به ایجنت‌های هوش مصنوعی، اسکرین‌شات‌های خام برنامه را به بنرهای جذاب تبلیغاتی و معرفی محصول تبدیل می‌کند. همچنین امکان ویرایش متن‌های فارسی و انگلیسی و خروجی در تمام ابعاد استاندارد را فراهم می‌سازد.",
+        "marketOpportunity": "با توجه به رشد روزافزون اپلیکیشن‌های موبایل در مارکت‌های ایرانی مانند کافه بازار و مایکت، توسعه‌دهندگان نیازمند ابزارهای سریع برای استانداردسازی تصاویر معرفی هستند. نبود ابزار اختصاصی پشتیبانی‌کننده از راست‌چین (RTL) و فونت‌های فارسی، شانس موفقیت چنین ابزاری را بسیار بالا می‌برد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان مستقل اپلیکیشن، تیم‌های استارتاپی، آژانس‌های مارکتینگ و طراحان UI/UX",
+        "challenges": [
+          "محدودیت دسترسی به APIهای پیشرفته ایجنت‌ها به دلیل تحریم‌ها",
+          "پشتیبانی دقیق از فونت‌ها و چیدمان‌های راست‌چین (RTL) در فریم‌های مختلف دستگاه‌ها"
+        ],
+        "monetization": [
+          "مدل Freemium با فروش قالب‌ها و استایل‌های پریمیوم",
+          "ارائه اشتراک سازمانی برای آژانس‌ها و تیم‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "React",
+          "Canvas API",
+          "TailwindCSS",
+          "Node.js"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -72610,7 +73065,61 @@
           "user": "[REDACTED]",
           "text": "this is great"
         }
-      ]
+      ],
+      "faDescription": "پژوهش‌های امنیتی اغلب با سؤالاتی مواجه می‌شوند که مدل‌های عمومی از پاسخ‌دادن به آن‌ها خودداری می‌کنند. با Dolly ۱ Security و Dolly ۲ Security، نسخه‌های بدون سانسور مدل‌های GLM-۵.۳ Flash و GLM-۵.۳، آشنا شوید که برای تست‌های دفاعی و جریان‌های کاری تیم قرمز طراحی شده‌اند. می‌توانید از طریق API یا CLI زرو با حفظ صفر درصد ذخیره‌سازی درخواست‌ها از این مدل‌ها استفاده کنید. از زمان راه‌اندازی در ماه جولای، ما مدل‌های جدید، یکپارچه‌سازی‌های ایجنت، برنامه‌های سالانه و سیستم معرفی را نیز اضافه کرده‌ایم.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! ما در ماه جولای برای استنتاج سریع و خصوصی برای ایجنت‌های کدنویسی در اینجا راه‌اندازی شدیم. از آن زمان، بیش از ۲۵۰ میلیارد توکن ارائه کرده‌ایم. امروز به سمت مدل‌های خصوصی برای پژوهش امنیت سایبری گسترش می‌یابیم. مدل‌های عمومی می‌توانند قبل از شروع تحقیقات، از پاسخ به آن سؤالات امتناع کنند. Dolly Security پاسخ ماست. امروز در Zro فعال است: Dolly ۱ Security: بر اساس GLM-۵.۳ Flash. ۰.۴۵ دلار ورودی / ۱.۵۰ دلار خروجی برای هر ۱ میلیون توکن. Dolly ۲ Security: بر اساس GLM-۵.۳، با abliterate داخلی با تمرکز بر حفظ قابلیت عمومی. ۲.۱۰ دلار ورودی / ۶.۳۰ دلار خروجی برای هر ۱ میلیون توکن. ما همچنین وزن‌ها و ارزیابی آن را منتشر کرده‌ایم. برنامه رایگان: استفاده روزانه از مدل‌های Flash. Dolly ۲ را با Claude Code امتحان کنید: npm install -g @moonmath-ai/zro zro login zro launch claude --model dolly۲-security. موارد بیشتر از این راه‌اندازی: پیشنهاد Product Hunt: ۲۵٪ تخفیف برای اولین ماه Pro یا Max با کد ZROPRODUCTHUNT. معرفی‌ها: به دوستی ۵ دلار اعتبار استفاده بدهید و وقتی اشتراک پولی را شروع کرد، ۵ دلار دریافت کنید. جامعه: برای گفتگو با تیم و سایر سازندگان به Discord ما بپیوندید. در حال کار بر روی چیست: Kimi K۳.۱ روی استک ما و نسخه متمرکز بر امنیت DeepSeek V۴.۱ Flash. همچنین در حال کار بر روی ارزیابی‌های قوی‌تر و شواهد واضح‌تر از نحوه تغییر مدل‌های امنیتی هستیم. امروز اینجا هستیم تا به سؤالات پاسخ دهیم و نظرات شما را بشنویم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بخشی که برای من برجسته بود، وزن‌ها و ارزیابی منتشرشده برای Dolly ۲ است — abliterate کردن در حالی که سعی می‌کنید قابلیت عمومی را حفظ کنید، ادعا کردن آسان است اما نشان دادن آن دشوار است. کنجکاو هستم که در عمل چگونه این را بررسی می‌کنید: آیا ارزیابی‌های منتشرشده شما هم وظایف امنیتی و هم وظایف کدنویسی/عمومی معمول را به صورت موازی پوشش می‌دهند، تا اینکه یک رگرسیون در یکی از آن‌ها قبل از انتشار آشکار شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من یک سؤال اصلی دارم: abliterated به چه معناست؟ 😂"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ارزیابی بخشی است که من اینجا وقت می‌گذارم. می‌خواهم دقت وظایف امنیتی و دقت کدنویسی معمول را بعد از تغییرات مدل به صورت موازی ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سریع‌ترین استنتاجی که تا به حال دیده‌ام."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "سلام Product Hunt، من امیر از تیم Zro هستم 👋 ما در ماه جولای با یک هدف راه‌اندازی شدیم: استنتاج سریع و خصوصی برای ایجنت‌های کدنویسی. ما یک تیم کوچک هستیم که از کشف چگونگی کارکرد استنتاج لذت می‌بریم. ما تعداد زیادی PR را به SGLang و vLLM ارسال کرده‌ایم و آنچه را که در طول مسیر کشف می‌کنیم، مکتوب می‌کنیم. امروز راه‌اندازی ما مدل‌های امنیتی و یک برنامه رایگان را اضافه می‌کند. دوست دارم بدانم شما با ایجنت‌های کدنویسی چه چیزی می‌سازید و چه چیزی را بعداً از ما می‌خواهید. من تمام روز اینجا هستم 🙂"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "این عالی است"
+        }
+      ],
+      "aiReview": "مسئله اصلی، محدودیت‌های ذاتی مدل‌های زبانی عمومی در پاسخ‌دادن به سؤالات حساس امنیتی است که مانع از انجام تست‌های نفوذ و تحلیل آسیب‌پذیری می‌شود. راه‌حل ارائه‌شده، مدل‌های Abliterated (بدون سانسور) است که با حفظ قابلیت‌های عمومی، از محدودیت‌های اخلاقی سرباز زده‌اند. از نظر معماری، این محصول بر روی استک‌های استنتاج بهینه‌شده مانند vLLM و SGLang بنا شده است تا سرعت بالایی را تضمین کند و با سیاست عدم ذخیره‌سازی درخواست‌ها، حریم خصوصی را تضمین می‌نماید. مدل درآمدی ترکیبی از اشتراک‌های سلسله‌مراتبی و پرداخت بر اساس مصرف است که برای توسعه‌دهندگان و شرکت‌ها جذاب است. نقاط قوت شامل شفافیت در انتشار وزن‌ها و ارزیابی‌ها، سرعت استنتاج بالا و تمرکز بر نیچ بازار امنیت سایبری است. نقاط ضعف می‌تواند شامل پیچیدگی فنی فرآیند Abliteration و ریسک‌های قانونی مرتبط با محتوای بدون سانسور باشد. نکته طلایی برای ایران: با توجه به تحریم‌ها و محدودیت دسترسی به مدل‌های خارجی، ایجاد یک پلتفرم بومی با مدل‌های متن‌باز و بهینه‌شده برای امنیت، می‌تواند به یک مزیت رقابتی کلیدی برای شرکت‌های ایرانی در حوزه امنیت سایبری تبدیل شود، به شرطی که چالش‌های سخت‌افزاری با استفاده از کلان‌رایانه‌های داخلی یا ابری حل شود.",
+      "iranEquivalent": {
+        "productName": "زرو ایران: مدل‌های امنیتی بدون سانسور",
+        "description": "این پلتفرم مدل‌های زبانی بزرگ را با حذف محدودیت‌های اخلاقی (Abliteration) برای استفاده در تست‌های نفوذ و امنیت سایبری ارائه می‌دهد. کاربران می‌توانند از طریق API یا خط فرمان به این مدل‌ها دسترسی داشته باشند و داده‌های آن‌ها به هیچ وجه ذخیره نمی‌شود. این سرویس با تمرکز بر سرعت بالا و حریم خصوصی، نیازهای متخصصان امنیت را برآورده می‌کند.",
+        "marketOpportunity": "بازار امنیت سایبری در ایران با رشد سریع زیرساخت‌های دیجیتال مواجه است و نیاز به ابزارهای پیشرفته برای تست نفوذ و ارزیابی ریسک وجود دارد. نبود مدل‌های هوش مصنوعی بومی که برای کارهای امنیتی بهینه شده باشند، خلأ بزرگی ایجاد کرده که این محصول می‌تواند آن را پر کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "متخصصان امنیت سایبری، تیم‌های تست نفوذ (Red Team)، شرکت‌های فناوری اطلاعات و پژوهشگران امنیتی.",
+        "challenges": [
+          "محدودیت‌های سخت‌افزاری و دسترسی به GPUهای قدرتمند برای اجرای مدل‌های بزرگ",
+          "چالش‌های قانونی و اخلاقی مرتبط با ارائه مدل‌های بدون سانسور در فضای داخلی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه با سطوح مختلف دسترسی",
+          "فروش اعتباری (Pay-as-you-go) بر اساس تعداد توکن‌های پردازش‌شده"
+        ],
+        "techStack": [
+          "vLLM",
+          "SGLang",
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -73757,7 +74266,47 @@
           "user": "[REDACTED]",
           "text": "Quick Question, say I am am and advertising studio,and I represent a brand. Can I generate base assets for them that they can later post in social media? as in will it preserve the logo and branding? Can I create a world, where we can highlight the product as would have done with a real actors and cameras? Say we have existing videos can we condition on those to extend beyond or in negative time to highlight something that was missed in the real cut?"
         }
-      ]
+      ],
+      "faDescription": "جینی ۴ (Genie ۴) جدیدترین مدل دنیای زمان‌واقعی گوگل دیپ‌مایند برای تولیدکنندگان محتوا، توسعه‌دهندگان بازی و پژوهشگران هوش مصنوعی است. بر خلاف مولدهای ویدیو که تنها یک کلیپ نهایی و ثابت به شما تحویل می‌دهند، جینی ۴ دنیایی می‌سازد که می‌توانید با صفحه‌کلید خود در آن قدم بزنید و همزمان با اجرای برنامه، آن را با دستورات متنی هدایت کنید. شما می‌توانید آب‌وهوا را تغییر دهید، شخصیت جدیدی اضافه کنید یا رویدادی را به جریان بیندازید. این مدل صداهای بومی و دیالوگ‌های زنده تولید می‌کند، فیزیک و حرکات طبیعی انسان را شبیه‌سازی می‌نماید و از مدل جمینای برای حفظ یکپارچگی صحنه‌ها بهره می‌برد. پیش‌نمایش پژوهشی این محصول اکنون فعال بوده و لیست انتظار آن باز است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام! یعنی می‌شه با عکس خودمون، مثلاً عکس یک مکان واقعی شروع کنیم و واردش بشیم و توش قدم بزنیم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک به خاطر انتشار این محصول! من توسعه‌دهنده بازی نیستم، اما حتی به عنوان فردی که فقط بازی کردن رو دوست داره، این بی‌نظیر به نظر می‌رسه."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "یک سوال سریع؛ فرض کنید من صاحب یک آژانس تبلیغاتی هستم و نمایندگی یک برند را بر عهده دارم. آیا می‌توانم دارایی‌های پایه‌ای برای آن‌ها تولید کنم که بعداً در شبکه‌های اجتماعی منتشر کنند؟ یعنی آیا لوگو و هویت بصری برند حفظ می‌شود؟ آیا می‌توانم دنیایی بسازم که در آن محصول را مانند فیلم‌برداری واقعی با بازیگران و دوربین‌ها برجسته کنیم؟ همچنین اگر ویدیوهای موجود داشته باشیم، آیا می‌توانیم با شرطی‌سازی روی آن‌ها، ویدیو را به قبل یا بعد گسترش دهیم تا چیزی که در تدوین واقعی از دست رفته را نمایش دهیم؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nابزارهای فعلی ویدیوهای ایستا تولید می‌کنند و امکان تعامل ندارند. Genie ۴ با معرفی «مدل جهان» (World Model)، امکان کنترل زنده با کیبورد و تغییر عناصر محیطی با متن را در زمان واقعی فراهم کرده است.\n\nمعماری و تکنولوژی:\nاین سیستم ترکیبی از موتورهای شبیه‌ساز فیزیک، پردازش زنده صوت و ویدیو، و مدل‌های زبانی مانند Gemini برای حفظ تداوم منطقی صحنه‌ها است. دستیابی به تاخیر پایین (Low Latency) اصلی‌ترین چالش فنی این معماری است.\n\nمدل درآمدی:\nساختار SaaS با پلن‌های پرداختی بر اساس میزان مصرف (Pay-as-you-go) برای زمان رندر تعاملی و دسترسی اختصاصی API برای بازیسازان.\n\nنقاط قوت:\n۱. تعامل‌پذیری زنده و کنترل محیط با کیبورد و متن.\n۲. تولید همزمان صوت بومی، فیزیک و دیالوگ.\n۳. حفظ پایداری صحنه به کمک Gemini.\n\nنقاط ضعف:\n۱. نیاز به زیرساخت پردازشی بسیار گران‌قیمت.\n۲. چالش در حفظ دقیق جزئیات و برندینگ در محیط تعاملی.\n\nنکته طلایی برای ایران:\nدر ایران می‌توان با تمرکز روی ساخت تیزرهای تبلیغاتی تعاملی و متحرک‌سازی تصاویر ثابت معماری/املاک، بازار اولیه ارزشمندی بدون نیاز به رندر زمان‌واقعی پیچیده ایجاد کرد.",
+      "iranEquivalent": {
+        "productName": "جهان‌ساز هوشمند (JahanSaz AI)",
+        "description": "این پلتفرم یک ابزار بومی برای شبیه‌سازی سه بعدی و زمان‌واقعی محیط‌ها بر اساس توصیفات متنی و تصویری به زبان فارسی است. کاربران می‌توانند محیط‌های تعاملی برای بازی‌سازی، شبیه‌سازی معماری و تیزرهای تبلیغاتی خلق کرده و با کیبورد در آن حرکت کنند. این سیستم با الگوریتم‌های هوش مصنوعی یکپارچگی صحنه‌ها و فیزیک حرکتی را تضمین می‌کند.",
+        "marketOpportunity": "صنعت بازی‌سازی مستقل و آژانس‌های تبلیغاتی در ایران به شدت نیازمند ابزارهای کاهش هزینه تولید محتوای تعاملی و ۳ بعدی هستند. ارائه یک ابزار بومی شبیه‌ساز محیطی می‌تواند سهم بازار بکری در آموزش، تبلیغات و سرگرمی دیجیتال ایجاد کند.",
+        "estimatedBudget": "۳ میلیارد تومان",
+        "targetAudience": "استودیوهای بازی‌سازی، آژانس‌های تبلیغاتی و دیجیتال مارکتینگ، معماران و طراحان سه‌بعدی",
+        "challenges": [
+          "محدودیت‌های شدید زیرساخت پردازش ابری و کارتهای گرافیکی سنگین (GPU) در ایران",
+          "چالش حفظ پایداری پیکسل‌ها و هویت بصری دقیق برندها در خروجی‌های مولد"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه بر اساس پردازش زمان‌واقعی",
+          "تقديم پلن‌های سازمانی به آژانس‌های تبلیغاتی و شرکت‌های بازی‌سازی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "PyTorch",
+          "WebGL",
+          "Three.js"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -77996,6 +78545,66 @@
       }
     },
     {
+      "id": "ph-today-8",
+      "date": "2026-11-04",
+      "rank": 8,
+      "name": "fileForensics",
+      "slug": "fileforensics",
+      "tagline": "Real or not? Check files before your AI trusts them.",
+      "description": "fileForensics is a trust check for every file your app or agent acts on. Extraction tells you what a document says; fileForensics tells you whether to believe it. It looks for signs of editing, AI-generated content, tampering and details that don’t add up, then returns findings with the evidence: what, where and why. No black-box score. All delivered in one call and works via API, MCP (Claude, Cursor, Codex), the developer portal and the fileAI platform. Check the file before you trust the data.",
+      "category": "API • Fintech • Developer Tools",
+      "categoryFa": "API • فین‌تک • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f874a600-390c-487c-b390-ea2eabac6d6b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/f57d83ff-193b-46c9-bcdb-cdf23282550d.jpeg?auto=format",
+        "https://ph-files.imgix.net/523a2ee4-a544-4b41-a3d2-6bb450d220f9.jpeg?auto=format",
+        "https://ph-files.imgix.net/bac9b27a-5ce5-4597-a58e-54d2edfe62ee.png?auto=format",
+        "https://ph-files.imgix.net/5f1f629f-7a73-40d0-912b-79fafb9957b1.png?auto=format",
+        "https://ph-files.imgix.net/4ff2fc09-6358-4611-8018-5858596e92dc.png?auto=format",
+        "https://ph-files.imgix.net/f613322d-4db3-41a5-af09-265bf5a7329b.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-04T08:01:00Z",
+      "votes": 107,
+      "websiteUrl": "https://www.producthunt.com/r/L36SEUDOAXE2D2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey PH community 👋Excited to hunt fileForensics by fileAI today.I've followed fileAI since I first hunted them last year, and this launch tackles a problem I think every team building with agents is about to run into.Your extraction can be perfect and still be wrong, because the file you extracted from was edited.What I like most is that it doesn't ask you to trust a score.Every finding comes with the evidence behind it, so a developer or a reviewer can look at it and decide for themselves.The first thing I'd test is a stack of my own receipts and invoices, with one quietly edited, just to see if it gets caught. If you try that, please share what happened in the comments, especially if it flags a file you know is genuine. The team says false positives are the feedback they care about most.Jason's maker comment below has the full story of why they built it.Try it free at https://www.file.ai/fileforensics?ref=producthuntGive it a spin on your own files and let the team know what fileForensics catches 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋 I’m Jason, I head up everything Marketing & Partnerships at fileAI.An accurate extraction of an edited invoice is still an edited invoice.Why we built fileForensicsFor five years we’ve turned messy files into clean data for insurers, banks, finance teams, builders over a billion files so far. In almost every rollout, once extraction went live, someone asked: “But what if the file is fraudulent?” We had no good answer, yet the stakes are high for so many industries with fraud, especially AI-enabled fraud, on the rise. Making a convincing edit used to take skill, and now it takes a free app or one prompt. Meanwhile, more documents are being read by AI agents that act on them with nobody checking first.The tools that could answer the question were sales-gated, priced for large enterprises and separate from extraction. If you were a startup with an upload step, or a developer wiring files into an agent, your options were ExifTool scripts or nothing.So we built fileForensics. It checks a file’s structure, metadata, edit history and pixels across eight disciplines, then shows you the evidence for each finding: what it found, where in the file, and why.You can try it in our developer playground, call it through the API, or ask Claude or Cursor about a file through MCP. And with our new AWS Strategic Collaboration Agreement, we're available through AWS Marketplace, built on Amazon Bedrock. https://www.file.ai/blog/fileai-signs-strategic-collaboration-agreement-with-awsThe feedback that would help mostTry it on your own files. Did a finding surprise you, or did it miss something you expected it to catch?False positives. If it flagged a genuine file, please tell us. We care about this more than anything else.We’re here all day answering questions. Sign up for free here: https://developer.file.ai/Thank you for checking it out 🙏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "how well does it do on non english documents? as a matter of fact, non english LLMs are not as advanced as its counterpart especially smaller region languages like Bahasa Malaysia (we only have ILMU launched year ago, August 2025). curious if theres any running benchmarks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Had good chat with the team and was impressed! Just a quick question on its capability to filter documents and flag out for review: Does it kick out any document types? if yes, any examples?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Curious to use this on my next project, may I know what file types does the product supports?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Curious whether I can use this on my next project. What files types does the product supports?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "fileAI fileforensics looks like a massive win for lab sciences. The ability to instantly surface hidden anomalies, verify file origins, and automate data integrity checks could save teams dozens of hours during audit prep. It essentially acts as an automated quality assurance layer for scientific data.Questions for the team:Can it handle proprietary binary file formats from common lab instruments (like chromatography or mass spec software), or does it require conversion to standard formats like PDF/CSV first?How does it handle integration with existing LIMS (Laboratory Information Management Systems) or ELNs?Excited to see where you take this. Definite upvote!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great to see fileForensics launch!Having worked on a number of customer solutions involving document processing and automation, I can definitely see the value in being able to detect potentially altered or fraudulent documents before trusting the information extracted from them. This has applications across so many industries, particularly financial services, insurance, healthcare, and other document-intensive enterprises.Some quick questions for the product team:- We process tens of thousands of documents a day, are there any rate limits?- Are there any batch processing options?Congrats to everyone involved in the launch!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-09",
       "rank": 9,
@@ -79177,66 +79786,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-11-04",
-      "rank": 8,
-      "name": "fileForensics",
-      "slug": "fileforensics",
-      "tagline": "Real or not? Check files before your AI trusts them.",
-      "description": "fileForensics is a trust check for every file your app or agent acts on. Extraction tells you what a document says; fileForensics tells you whether to believe it. It looks for signs of editing, AI-generated content, tampering and details that don’t add up, then returns findings with the evidence: what, where and why. No black-box score. All delivered in one call and works via API, MCP (Claude, Cursor, Codex), the developer portal and the fileAI platform. Check the file before you trust the data.",
-      "category": "API • Fintech • Developer Tools",
-      "categoryFa": "API • فین‌تک • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/fileai-ai-ocr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f874a600-390c-487c-b390-ea2eabac6d6b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/f57d83ff-193b-46c9-bcdb-cdf23282550d.jpeg?auto=format",
-        "https://ph-files.imgix.net/523a2ee4-a544-4b41-a3d2-6bb450d220f9.jpeg?auto=format",
-        "https://ph-files.imgix.net/bac9b27a-5ce5-4597-a58e-54d2edfe62ee.png?auto=format",
-        "https://ph-files.imgix.net/5f1f629f-7a73-40d0-912b-79fafb9957b1.png?auto=format",
-        "https://ph-files.imgix.net/4ff2fc09-6358-4611-8018-5858596e92dc.png?auto=format",
-        "https://ph-files.imgix.net/f613322d-4db3-41a5-af09-265bf5a7329b.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 105,
-      "websiteUrl": "https://www.producthunt.com/r/L36SEUDOAXE2D2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey PH community 👋Excited to hunt fileForensics by fileAI today.I've followed fileAI since I first hunted them last year, and this launch tackles a problem I think every team building with agents is about to run into.Your extraction can be perfect and still be wrong, because the file you extracted from was edited.What I like most is that it doesn't ask you to trust a score.Every finding comes with the evidence behind it, so a developer or a reviewer can look at it and decide for themselves.The first thing I'd test is a stack of my own receipts and invoices, with one quietly edited, just to see if it gets caught. If you try that, please share what happened in the comments, especially if it flags a file you know is genuine. The team says false positives are the feedback they care about most.Jason's maker comment below has the full story of why they built it.Try it free at https://www.file.ai/fileforensics?ref=producthuntGive it a spin on your own files and let the team know what fileForensics catches 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋 I’m Jason, I head up everything Marketing & Partnerships at fileAI.An accurate extraction of an edited invoice is still an edited invoice.Why we built fileForensicsFor five years we’ve turned messy files into clean data for insurers, banks, finance teams, builders over a billion files so far. In almost every rollout, once extraction went live, someone asked: “But what if the file is fraudulent?” We had no good answer, yet the stakes are high for so many industries with fraud, especially AI-enabled fraud, on the rise. Making a convincing edit used to take skill, and now it takes a free app or one prompt. Meanwhile, more documents are being read by AI agents that act on them with nobody checking first.The tools that could answer the question were sales-gated, priced for large enterprises and separate from extraction. If you were a startup with an upload step, or a developer wiring files into an agent, your options were ExifTool scripts or nothing.So we built fileForensics. It checks a file’s structure, metadata, edit history and pixels across eight disciplines, then shows you the evidence for each finding: what it found, where in the file, and why.You can try it in our developer playground, call it through the API, or ask Claude or Cursor about a file through MCP. And with our new AWS Strategic Collaboration Agreement, we're available through AWS Marketplace, built on Amazon Bedrock. https://www.file.ai/blog/fileai-signs-strategic-collaboration-agreement-with-awsThe feedback that would help mostTry it on your own files. Did a finding surprise you, or did it miss something you expected it to catch?False positives. If it flagged a genuine file, please tell us. We care about this more than anything else.We’re here all day answering questions. Sign up for free here: https://developer.file.ai/Thank you for checking it out 🙏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This looks really useful. If you have any benchmark numbers you can share, I’d love to see them. The catch rate and false positive rate by document type would be the first thing I’d look at, since that’s what would help me understand how well it actually performs."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great to see fileForensics launch!Having worked on a number of customer solutions involving document processing and automation, I can definitely see the value in being able to detect potentially altered or fraudulent documents before trusting the information extracted from them. This has applications across so many industries, particularly financial services, insurance, healthcare, and other document-intensive enterprises.Some quick questions for the product team:- We process tens of thousands of documents a day, are there any rate limits?- Are there any batch processing options?Congrats to everyone involved in the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "scans are my worry here. at the immigration firm I work at, certificates come with stamps and apostilles and often get re-scanned. does the tampering check still say something useful on a scan, or is it mostly for native PDFs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Excited to see this live! Love that it actually shows why a file looks suspicious instead of just giving you a score. Great work!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "PM at fileAI here! Proud of what our team has shipped and cheering this launch on but I want to raise a question that we heard a lot from teams evaluating this: \"Does it read C2PA content credentials? Most files I see don't carry them\"Would love for our makers to share the knowledge!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Just used this in CODEX and it worked like a charm, great job team @fileAI"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -87064,10 +87613,10 @@
   "audit": {
     "products": 876,
     "withRealComments": 876,
-    "withPersianComments": 793,
-    "withPersianDescription": 793,
-    "withAiReview": 769,
-    "withIranEquivalent": 793,
+    "withPersianComments": 803,
+    "withPersianDescription": 803,
+    "withAiReview": 777,
+    "withIranEquivalent": 803,
     "totalRealComments": 5429
   }
 }

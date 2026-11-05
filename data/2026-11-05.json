@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "scrapedAt": "2026-11-05T00:59:58.364Z",
+  "scrapedAt": "2026-11-05T02:41:03.990Z",
   "periods": {
     "today": [
       {
@@ -28,7 +28,7 @@
         "maker": "Yang Zhang",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 353,
+        "votes": 357,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -90,12 +90,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 291,
+        "votes": 296,
         "websiteUrl": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋 Surya here, I run growth at Floot.I've helped launch a lot of products on this site, and I've watched the same thing happen again and again. Someone builds something people want, then stalls at the last step: getting paid. Stripe accounts, API keys, webhooks, a billing page. That's where good ideas quietly die.I'm not an engineer. So when the team showed me I could type \"add a $9/month plan\" in ChatGPT and have a working checkout a minute later, it changed what I think a marketer can ship alone.What you can do today:→ subscriptions with a billing page your customers manage→ one-time payments, tickets and deposits→ coupons and refunds→ shipping labels and tracking for physical productsTest it all free in preview with a test card. Nothing to set up.Two asks: tell us what you'd sell first, and what's missing. We read every comment and ship fast."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Payments are the part that usually kills side projects, so this is a smart add. When someone says \"add a $9/month plan\" and it runs on Stripe, who owns the Stripe account, the user or Floot? Curious what happens to existing subscribers if someone later moves the app off Floot."
           },
           {
             "user": "[REDACTED]",
@@ -120,10 +124,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congratulations!! What is your business model? Excited to see where this is going"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "would love a template store with payments already wired in. any plans for that?"
           }
         ]
       },
@@ -150,12 +150,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 205,
+        "votes": 210,
         "websiteUrl": "https://www.producthunt.com/r/AS3PV7P3375YRL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! I’m Tony, co-founder and CEO of The Influence Company, the team behind Prelulu.What if you could step into a story, and its characters could talk back?We’re building Prelulu to make AI video stories feel less like something you watch and more like something you’re part of. You meet a character, build a story through conversation, and come face-to-face through live video.A late-night confession. A first encounter with someone you shouldn’t trust. A romance where you decide what to say next.We started with interactive AI stories and kept coming back to one thing: the characters are what make you want to stay. Not just what happens next, but who it happens with. That became the heart of Prelulu: stories built around characters you can actually talk to.You can discover characters, create your own, roleplay over chat, and take the conversation into a real-time video call. Rather than choosing from a few scripted options, you bring your own words.Today, the experience starts with a conversation. Our bigger ambition at The Influence Company is to make video stories you can live inside, not just watch.Try a video call, and tell us: what kind of story would you want to step into first?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Face to face live video with a character is a big jump from text roleplay. How does the avatar handle latency when the story takes an unexpected turn? That pause is usually where the immersion breaks for me. Congrats on the launch."
           },
           {
             "user": "[REDACTED]",
@@ -180,10 +184,6 @@
           {
             "user": "[REDACTED]",
             "text": "Most Al story apps keep the character behind a text box, so seeing them face to face does change how the story feels. would anyone like the horror version of this?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is very cool! I did a quick chat and the latency is very good, impressive!"
           }
         ]
       },
@@ -191,6 +191,58 @@
         "id": "ph-today-4",
         "date": "2026-11-04",
         "rank": 4,
+        "name": "Render Sandboxes",
+        "slug": "render-sandboxes",
+        "tagline": "A computer for every agent",
+        "description": "Render Sandboxes give every agent its own isolated Linux computer. Sandboxes starts in under a second and can run any agent or harness, like Claude Code or Codex. Your agent can also run your app with Docker Compose to test its changes. You decide which domains each sandbox can reach. When your agent goes idle, the sandbox suspends and compute charges stop. It wakes with files and memory intact. And you can reliably run thousands at once - all on the same platform as the rest of your app.",
+        "category": "Developer Tools • Artificial Intelligence • SDK",
+        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
+        "url": "https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/b7e3be74-e023-4071-9382-dd85aa0fbcdd.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/7eb4ca6e-4e81-4328-9482-a9b695a2f991.png?auto=format",
+          "https://ph-files.imgix.net/bcb6349c-560c-4e68-aed2-f1724fbfb90e.png?auto=format",
+          "https://ph-files.imgix.net/d2c27011-a818-49f2-92ba-af0f7e546c8c.png?auto=format",
+          "https://ph-files.imgix.net/60115c78-b695-4a40-bf63-0b9c3e4d0614.png?auto=format",
+          "https://ph-files.imgix.net/12ecf66e-774b-486f-98ad-4cf8bad3cccf.png?auto=format",
+          "https://ph-files.imgix.net/42dd5c5d-e07d-4e3f-a68d-305a0880d2d4.jpeg?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-11-04T08:01:00Z",
+        "votes": 190,
+        "websiteUrl": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "All our scheduled agents run on one laptop, and one evening the 6pm run just died because the lid was closed. Can a sandbox wake itself on a schedule, say every day at 6pm, or does something outside have to send it the first command?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Can I spin up a bunch of sandboxes from the same snapshot, or do I need a copy for each one?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I've run a dozen or more coding agents at once on one 48GB Mac. In September that took the whole machine down from memory exhaustion and every session died together, so the isolation is the part I care about here. What happens when one sandbox hits its memory limit: does only that agent die while the others keep going? And how well does suspend and wake hold up with a big install? Our node_modules is 18GB."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats on the launch! How would you recommend running long AI jobs alongside a web API on Render? I'd be especially interested in what happens to jobs already in progress during a deployment."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Keeping memory and files through a pause is useful for longer tasks. When debugging a retry, I'd also want to see clearly which work resumed and which work ran again."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋 I'm Slav, PM for Render Sandboxes.The work agents are given is becoming increasingly complex. Like people, agents need machines on which to do this work, so they can write and run code, install dependencies, manipulate files, and more. But not just any machine will do! To work safely, agents need a separate machine for each task or user, isolated from your app and from each other. And since agent work comes in bursts, those machines need to start and stop with demand.Render Sandboxes give each user or task its own machine the moment it’s needed. Each sandbox runs in its own Firecracker microVM.Speed: a sandbox is ready for its first command in under a second.Scale: you can run thousands of sandboxes at once, reliably.Security: you can set each sandbox to allow all outbound traffic, allow only the domains you list, or block outbound traffic entirely. Credential brokering (now in early access; let us know if you're interested) adds your API keys to outgoing requests, so the keys never sit inside the sandbox.Pricing: you pay for the CPU a sandbox actually uses and the memory it allocates. A suspended sandbox stops both charges and billing, except for snapshot storage.Long-running work: A sandbox can run with no time limit. When it goes idle, Render suspends it and wakes it on the next command with its files and memory intact.One platform: your sandboxes live in the same workspace as your web services, background workers, and Render Postgres databases, with one API key, one SDK, and one bill.Teams use Render Sandboxes to run an agent harness like Claude Code or Codex inside a sandbox, to start a full copy of an app so a coding agent can test its changes, and to run code and files they didn't write.Render Sandboxes are in public beta - tell us if anything feels missing or doesn't work as expected. We'll be here throughout the day answering questions!"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-5",
+        "date": "2026-11-04",
+        "rank": 5,
         "name": "OpenMail",
         "slug": "openmail",
         "tagline": "Give your AI agents an identity through email",
@@ -249,58 +301,6 @@
         ]
       },
       {
-        "id": "ph-today-5",
-        "date": "2026-11-04",
-        "rank": 5,
-        "name": "Render Sandboxes",
-        "slug": "render-sandboxes",
-        "tagline": "A computer for every agent",
-        "description": "Render Sandboxes give every agent its own isolated Linux computer. Sandboxes starts in under a second and can run any agent or harness, like Claude Code or Codex. Your agent can also run your app with Docker Compose to test its changes. You decide which domains each sandbox can reach. When your agent goes idle, the sandbox suspends and compute charges stop. It wakes with files and memory intact. And you can reliably run thousands at once - all on the same platform as the rest of your app.",
-        "category": "Developer Tools • Artificial Intelligence • SDK",
-        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • SDK",
-        "url": "https://www.producthunt.com/products/render?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/b7e3be74-e023-4071-9382-dd85aa0fbcdd.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/7eb4ca6e-4e81-4328-9482-a9b695a2f991.png?auto=format",
-          "https://ph-files.imgix.net/bcb6349c-560c-4e68-aed2-f1724fbfb90e.png?auto=format",
-          "https://ph-files.imgix.net/d2c27011-a818-49f2-92ba-af0f7e546c8c.png?auto=format",
-          "https://ph-files.imgix.net/60115c78-b695-4a40-bf63-0b9c3e4d0614.png?auto=format",
-          "https://ph-files.imgix.net/12ecf66e-774b-486f-98ad-4cf8bad3cccf.png?auto=format",
-          "https://ph-files.imgix.net/42dd5c5d-e07d-4e3f-a68d-305a0880d2d4.jpeg?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 181,
-        "websiteUrl": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "All our scheduled agents run on one laptop, and one evening the 6pm run just died because the lid was closed. Can a sandbox wake itself on a schedule, say every day at 6pm, or does something outside have to send it the first command?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Can I spin up a bunch of sandboxes from the same snapshot, or do I need a copy for each one?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I've run a dozen or more coding agents at once on one 48GB Mac. In September that took the whole machine down from memory exhaustion and every session died together, so the isolation is the part I care about here. What happens when one sandbox hits its memory limit: does only that agent die while the others keep going? And how well does suspend and wake hold up with a big install? Our node_modules is 18GB."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! How would you recommend running long AI jobs alongside a web API on Render? I'd be especially interested in what happens to jobs already in progress during a deployment."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Keeping memory and files through a pause is useful for longer tasks. When debugging a retry, I'd also want to see clearly which work resumed and which work ran again."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋 I'm Slav, PM for Render Sandboxes.The work agents are given is becoming increasingly complex. Like people, agents need machines on which to do this work, so they can write and run code, install dependencies, manipulate files, and more. But not just any machine will do! To work safely, agents need a separate machine for each task or user, isolated from your app and from each other. And since agent work comes in bursts, those machines need to start and stop with demand.Render Sandboxes give each user or task its own machine the moment it’s needed. Each sandbox runs in its own Firecracker microVM.Speed: a sandbox is ready for its first command in under a second.Scale: you can run thousands of sandboxes at once, reliably.Security: you can set each sandbox to allow all outbound traffic, allow only the domains you list, or block outbound traffic entirely. Credential brokering (now in early access; let us know if you're interested) adds your API keys to outgoing requests, so the keys never sit inside the sandbox.Pricing: you pay for the CPU a sandbox actually uses and the memory it allocates. A suspended sandbox stops both charges and billing, except for snapshot storage.Long-running work: A sandbox can run with no time limit. When it goes idle, Render suspends it and wakes it on the next command with its files and memory intact.One platform: your sandboxes live in the same workspace as your web services, background workers, and Render Postgres databases, with one API key, one SDK, and one bill.Teams use Render Sandboxes to run an agent harness like Claude Code or Codex inside a sandbox, to start a full copy of an app so a coding agent can test its changes, and to run code and files they didn't write.Render Sandboxes are in public beta - tell us if anything feels missing or doesn't work as expected. We'll be here throughout the day answering questions!"
-          }
-        ]
-      },
-      {
         "id": "ph-today-6",
         "date": "2026-11-04",
         "rank": 6,
@@ -325,7 +325,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 160,
+        "votes": 161,
         "websiteUrl": "https://www.producthunt.com/r/BP2JPQXX3JGH6X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -383,7 +383,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 134,
+        "votes": 135,
         "websiteUrl": "https://www.producthunt.com/r/KFBPHGUX5EBAT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -427,7 +427,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 105,
+        "votes": 107,
         "websiteUrl": "https://www.producthunt.com/r/L36SEUDOAXE2D2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -440,27 +440,27 @@
           },
           {
             "user": "[REDACTED]",
-            "text": "This looks really useful. If you have any benchmark numbers you can share, I’d love to see them. The catch rate and false positive rate by document type would be the first thing I’d look at, since that’s what would help me understand how well it actually performs."
+            "text": "how well does it do on non english documents? as a matter of fact, non english LLMs are not as advanced as its counterpart especially smaller region languages like Bahasa Malaysia (we only have ILMU launched year ago, August 2025). curious if theres any running benchmarks"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Had good chat with the team and was impressed! Just a quick question on its capability to filter documents and flag out for review: Does it kick out any document types? if yes, any examples?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Curious to use this on my next project, may I know what file types does the product supports?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Curious whether I can use this on my next project. What files types does the product supports?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "fileAI fileforensics looks like a massive win for lab sciences. The ability to instantly surface hidden anomalies, verify file origins, and automate data integrity checks could save teams dozens of hours during audit prep. It essentially acts as an automated quality assurance layer for scientific data.Questions for the team:Can it handle proprietary binary file formats from common lab instruments (like chromatography or mass spec software), or does it require conversion to standard formats like PDF/CSV first?How does it handle integration with existing LIMS (Laboratory Information Management Systems) or ELNs?Excited to see where you take this. Definite upvote!"
           },
           {
             "user": "[REDACTED]",
             "text": "Great to see fileForensics launch!Having worked on a number of customer solutions involving document processing and automation, I can definitely see the value in being able to detect potentially altered or fraudulent documents before trusting the information extracted from them. This has applications across so many industries, particularly financial services, insurance, healthcare, and other document-intensive enterprises.Some quick questions for the product team:- We process tens of thousands of documents a day, are there any rate limits?- Are there any batch processing options?Congrats to everyone involved in the launch!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "scans are my worry here. at the immigration firm I work at, certificates come with stamps and apostilles and often get re-scanned. does the tampering check still say something useful on a scan, or is it mostly for native PDFs?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Excited to see this live! Love that it actually shows why a file looks suspicious instead of just giving you a score. Great work!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "PM at fileAI here! Proud of what our team has shipped and cheering this launch on but I want to raise a question that we heard a lot from teams evaluating this: \"Does it read C2PA content credentials? Most files I see don't carry them\"Would love for our makers to share the knowledge!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Just used this in CODEX and it worked like a charm, great job team @fileAI"
           }
         ]
       },
@@ -1575,8 +1575,70 @@
       },
       {
         "id": "ph-week-8",
-        "date": "2026-10-30",
+        "date": "2026-11-04",
         "rank": 8,
+        "name": "Wanaka Studio",
+        "slug": "wanaka-studio",
+        "tagline": "Make and publish 3D games with the first AI game engine",
+        "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
+        "category": "Artificial Intelligence • Games • No-Code",
+        "categoryFa": "هوش مصنوعی • بازی • No-Code",
+        "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format",
+          "https://ph-files.imgix.net/4d06fd2c-928d-4d1d-be3d-2d9680ca4706.png?auto=format",
+          "https://ph-files.imgix.net/7a73848a-5cdb-4a4f-a2c6-aab467929de7.png?auto=format",
+          "https://ph-files.imgix.net/66e09a38-38af-4927-a46d-5cc9c1de7091.jpeg?auto=format",
+          "https://ph-files.imgix.net/11245bf7-a8a3-4121-a963-bc03ad9464ff.jpeg?auto=format",
+          "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
+          "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
+          "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-11-04T08:01:00Z",
+        "votes": 357,
+        "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt! 👋 I'm Yang, Founder & CEO of Wanaka.A bit about us:I scaled ByteDance's Helo to 50M DAU, and co-founded Livein (#1 on the US App Store) and AnswerAI (top-3 AI education app in North America, 6M+ users)My CTO spent 10 years at ByteDance leading recommendation & LLM RL at Seed, with a computer graphics background from SJTUOur core team comes from ByteDance Seed and miHoYoTogether, we're uniting top-tier AI agent research with deep game-engine engineering.Today, we're launching Wanaka Studio: the first all-in-one, AI-native game engine built from the ground up for both humans and AI. Anyone can build high-quality 3D games, with zero coding required.💡 Why we built Wanaka StudioMaking a game should be as easy as making a video. Photos and videos had their UGC revolutions because editing apps made creation effortless. Games never did, because the barrier was too high. We believe AI finally makes game creation accessible to everyone.Existing AI game-dev paths hit a dead end. We went deep on the two main approaches in the market today and found fatal flaws in both. Our takeaway: LLMs won't replace professional software. Instead, AI needs better software. All pro software deserves to be rebuilt from scratch for one simple reason: the user has changed.So we built a brand-new game engine where both humans and AI are first-class citizens.🚀 What makes it special: Ultimate Ease of Use × AAA-Grade QualityAn Engine-Native AI Agent That Actually Works. Why does our Agent succeed where general coding agents fail? It doesn't write raw boilerplate from scratch. It operates on an engine co-designed for AI, with clean declarative APIs, 30+ atomic engine tools (physics, terrain, prefabs, behaviors, lighting), and a closed-loop self-playtest & rollback system that inspects the live runtime, catches bugs, and fixes its own mistakes.All-in-One Game IDE & Visual Editor. No black-box prompt roulette. The Agent and the visual IDE stay in real-time, two-way sync. Prompt for speed and get readable, structured game design & logic, then click straight into the 3D viewport to drag assets and fine-tune parameters. The Agent immediately understands every manual edit you make.3D Character Generation & Rigging. Generate custom 3D characters with built-in skeletal rigging and animations in seconds.Native Multiplayer. Built-in networking and state sync let you turn any creation into a multiplayer game to play with friends.One-Click Publishing. Share your game instantly via a link. Zero deployment headaches.🎮 Come build with us! 👉 Try Wanaka Studio: https://studio.wanaka.app/ Our team is in the comments all day. Build a world and let us know what you think! 🙏🔥"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "very nice product and UI.how much does it cost?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congratulations on the Launch!The app feels great and easier to use. I built a simple rocket launch simulator game in less than 10 mins. I'd love to use it in my app to gamify learning experience. I wasn't able to find an API key for that measure, it would be great to have API calls for this model so that it can be more beneficial for other developers.Screenshots -"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I've have been enjoying game development using Claude directly, but am looking forward to trying out an entire game dev ecosystem"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The part I find interesting is that you can go from a simple idea to a playable 3D game without having to learn a full game engine first."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Looks great @yang_zhang21 @stefania_chen! Congrats to the team. I tried emailing you but your email on your website bounced back. What's the best email?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "does the multiplayer work between phone and desktop?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Super cool! I love that this connects to sketchfab and presumably other tools. I made a two player racing game and was surprised by how fast it built."
+          }
+        ]
+      },
+      {
+        "id": "ph-week-9",
+        "date": "2026-10-30",
+        "rank": 9,
         "name": "Knocket AI",
         "slug": "knocket-ai",
         "tagline": "Chat with visitors from your website or link",
@@ -1629,68 +1691,6 @@
           {
             "user": "[REDACTED]",
             "text": "Can the contact Page URL be changed without breaking the old link??"
-          }
-        ]
-      },
-      {
-        "id": "ph-week-9",
-        "date": "2026-11-04",
-        "rank": 9,
-        "name": "Wanaka Studio",
-        "slug": "wanaka-studio",
-        "tagline": "Make and publish 3D games with the first AI game engine",
-        "description": "The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.",
-        "category": "Artificial Intelligence • Games • No-Code",
-        "categoryFa": "هوش مصنوعی • بازی • No-Code",
-        "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format",
-          "https://ph-files.imgix.net/4d06fd2c-928d-4d1d-be3d-2d9680ca4706.png?auto=format",
-          "https://ph-files.imgix.net/7a73848a-5cdb-4a4f-a2c6-aab467929de7.png?auto=format",
-          "https://ph-files.imgix.net/66e09a38-38af-4927-a46d-5cc9c1de7091.jpeg?auto=format",
-          "https://ph-files.imgix.net/11245bf7-a8a3-4121-a963-bc03ad9464ff.jpeg?auto=format",
-          "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
-          "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
-          "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 353,
-        "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt! 👋 I'm Yang, Founder & CEO of Wanaka.A bit about us:I scaled ByteDance's Helo to 50M DAU, and co-founded Livein (#1 on the US App Store) and AnswerAI (top-3 AI education app in North America, 6M+ users)My CTO spent 10 years at ByteDance leading recommendation & LLM RL at Seed, with a computer graphics background from SJTUOur core team comes from ByteDance Seed and miHoYoTogether, we're uniting top-tier AI agent research with deep game-engine engineering.Today, we're launching Wanaka Studio: the first all-in-one, AI-native game engine built from the ground up for both humans and AI. Anyone can build high-quality 3D games, with zero coding required.💡 Why we built Wanaka StudioMaking a game should be as easy as making a video. Photos and videos had their UGC revolutions because editing apps made creation effortless. Games never did, because the barrier was too high. We believe AI finally makes game creation accessible to everyone.Existing AI game-dev paths hit a dead end. We went deep on the two main approaches in the market today and found fatal flaws in both. Our takeaway: LLMs won't replace professional software. Instead, AI needs better software. All pro software deserves to be rebuilt from scratch for one simple reason: the user has changed.So we built a brand-new game engine where both humans and AI are first-class citizens.🚀 What makes it special: Ultimate Ease of Use × AAA-Grade QualityAn Engine-Native AI Agent That Actually Works. Why does our Agent succeed where general coding agents fail? It doesn't write raw boilerplate from scratch. It operates on an engine co-designed for AI, with clean declarative APIs, 30+ atomic engine tools (physics, terrain, prefabs, behaviors, lighting), and a closed-loop self-playtest & rollback system that inspects the live runtime, catches bugs, and fixes its own mistakes.All-in-One Game IDE & Visual Editor. No black-box prompt roulette. The Agent and the visual IDE stay in real-time, two-way sync. Prompt for speed and get readable, structured game design & logic, then click straight into the 3D viewport to drag assets and fine-tune parameters. The Agent immediately understands every manual edit you make.3D Character Generation & Rigging. Generate custom 3D characters with built-in skeletal rigging and animations in seconds.Native Multiplayer. Built-in networking and state sync let you turn any creation into a multiplayer game to play with friends.One-Click Publishing. Share your game instantly via a link. Zero deployment headaches.🎮 Come build with us! 👉 Try Wanaka Studio: https://studio.wanaka.app/ Our team is in the comments all day. Build a world and let us know what you think! 🙏🔥"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "very nice product and UI.how much does it cost?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congratulations on the Launch!The app feels great and easier to use. I built a simple rocket launch simulator game in less than 10 mins. I'd love to use it in my app to gamify learning experience. I wasn't able to find an API key for that measure, it would be great to have API calls for this model so that it can be more beneficial for other developers.Screenshots -"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I've have been enjoying game development using Claude directly, but am looking forward to trying out an entire game dev ecosystem"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The part I find interesting is that you can go from a simple idea to a playable 3D game without having to learn a full game engine first."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Looks great @yang_zhang21 @stefania_chen! Congrats to the team. I tried emailing you but your email on your website bounced back. What's the best email?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "does the multiplayer work between phone and desktop?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Super cool! I love that this connects to sketchfab and presumably other tools. I made a two player racing game and was surprised by how fast it built."
           }
         ]
       },
