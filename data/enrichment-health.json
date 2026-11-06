@@ -1,16 +1,25 @@
 {
-  "checkedAt": "2026-11-05T02:47:28.890Z",
-  "latestDataset": "2026-11-05.json",
+  "checkedAt": "2026-11-06T02:50:04.754Z",
+  "latestDataset": "2026-11-06.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
-  "backlogBefore": 135,
-  "backlogAfter": 127,
-  "completedProducts": 749,
-  "missingFaDescription": 75,
-  "missingFaComments": 103,
-  "missingAiReview": 102,
-  "missingIranEquivalent": 76,
-  "failures": []
+  "succeeded": 8,
+  "failed": 2,
+  "backlogBefore": 139,
+  "backlogAfter": 132,
+  "completedProducts": 756,
+  "missingFaDescription": 79,
+  "missingFaComments": 107,
+  "missingAiReview": 107,
+  "missingIranEquivalent": 80,
+  "failures": [
+    {
+      "slug": "tonko",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"تونکو یک اپلیکیشن مدیریت پول جیبی برای خانواده‌ها است که به کودکان سواد مالی می‌آموزد. کودکان در این برنامه می‌توانند با انجام کارهای خانگی و وظایف محوله، پول"
+    },
+    {
+      "slug": "notch-metrics",
+      "reason": "JSON parse failed: {\n  \"faDescription\": \"ناچ متریکس ابزاری کاربردی است که داده‌های مالی و آماری شما را مستقیماً در ناچ مک‌بوک به نمایش می‌گذارد. با این محصول می‌توانید درآمد کل، درآمد ماهانه تکرارشون"
+    }
+  ]
 }

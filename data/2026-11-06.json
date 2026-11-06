@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "scrapedAt": "2026-11-06T01:04:12.330Z",
+  "scrapedAt": "2026-11-06T02:44:05.827Z",
   "periods": {
     "today": [
       {
@@ -29,7 +29,7 @@
         "maker": "Riley S",
         "makerTitle": "A Hacker",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 305,
+        "votes": 316,
         "websiteUrl": "https://www.producthunt.com/r/4HPTGSLZ23MFLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -38,31 +38,31 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "Real device control is huge for agents - but latency spikes on network hiccups could kill agentic workflows. How do you handle timeout recovery without breaking the session state? That's your real differentiator."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Real devices instead of emulators is a big deal. As a front-end dev, half my “works on my machine” bugs only show up in Safari on an actual iPhone. Could an agent use Glasshand to open a staging URL in mobile Safari, run through a flow, and report back with screenshots? That would be a huge time saver for mobile web QA. Congrats on the launch!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Using real devices makes sense here—iCloud authentication and SMS verification are often where agent workflows get stuck. When an agent signs into iCloud on a freshly reset iPhone, how do you manage Apple’s 2FA checks and approval prompts on trusted devices?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Real hardware instead of a simulator is the right call for anything touching iCloud sign-in or SMS codes, which is exactly where agent flows usually stall. How do you handle Apple's 2FA and trusted-device prompts when an agent signs into iCloud on a freshly reset phone?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "We had to open a TikTok account with a real phone number last week, so real devices make sense to me. Does a rented iPhone keep the same number between rentals?"
+          },
+          {
+            "user": "[REDACTED]",
             "text": "Real devices make sense for apps that fingerprint emulators, but I wonder about the other side. TikTok and Instagram are pretty aggressive about flagging automated behavior, so does an agent tapping around from a data center IP on a rented SE put the user's account at risk? Curious if you have seen bans or step-up verification during testing."
           },
           {
             "user": "[REDACTED]",
             "text": "@tkeith i love this. I'm currently piecing together a bunch of old machines, but this would be a much better solution. I look forward to checking it out."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Love this, giving it its own eSIM for verification codes is clever. How does the agent actually drive the phone? Screenshots and taps or the accessibility tree?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The eSIM part surprised me most. Which countries can the number be from? I'm asking because some services get picky when the number and the account are from different countries."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch!Can you share a photo of the devices set up in racks - very interesting business model for sure."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This is exactly what my AI employees need. Incredibly good price."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Curious how the agent actually sees the phone - does it get screenshots to reason over, or a structured view of the screen?"
           }
         ]
       },
@@ -89,12 +89,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 194,
+        "votes": 203,
         "websiteUrl": "https://www.producthunt.com/r/RMMH5HQHCIQO64?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋I'm Clément, and with Théo we build Rerun: AI coworkers that actually do the work. Each one gets its own tools, its own computer (a real browser you can watch and take over), a memory and a schedule. They chase invoices, qualify leads and sort your inbox, and they stop and ask before they send, pay or delete anything.Today Rerun goes open source under AGPL-3.0. I've been a developer for 15 years, and almost everything I've built stands on open source. Giving back felt obvious, and Rerun is the most complete product we've ever built, so it's the right one to share.Clone the repo, run docker compose up, and your coworkers run on your own server, on the Claude or ChatGPT plan you already pay for, or any model through OpenRouter. If you'd rather not run anything, Rerun Cloud is the same code, ready in 30 seconds."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Orchestrating across subscriptions requires robust state machines - one API timeout cascades the whole workflow. How do you handle partial failures and recovery without losing context? That's what separates reliable agents from brittle workflows."
           },
           {
             "user": "[REDACTED]",
@@ -149,7 +153,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 181,
+        "votes": 192,
         "websiteUrl": "https://www.producthunt.com/r/FLQZ3AXUUI5C2T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -174,7 +178,7 @@
           },
           {
             "user": "[REDACTED]",
-            "text": "My current workflow is a lot of jumping b/w references, random ideas, feedback, and last-minute changes. Because of Living Brain, I can come back to an idea later w/o losing the thought process that made the it click. I get to spend more time actually creating instead of retracing how I got there."
+            "text": "My current workflow is a lot of jumping b/w references, random ideas, feedback, and last-minute changes. Because of Living Brain, I can come back to an idea later w/o losing the thought process that made it click. I get to spend more time actually creating instead of retracing how I got there."
           },
           {
             "user": "[REDACTED]",
@@ -216,12 +220,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 165,
+        "votes": 167,
         "websiteUrl": "https://www.producthunt.com/r/LXZBKU4W5VMFPL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi hackers! I'm Maria, cofounder of Maritime (YC F26). Before Maritime, I researched AI agents at MIT.Agents need different computers for different jobs: a throwaway sandbox for generated code, a workspace that’s still there next week, hundreds of clean machines for an eval, or a desktop for an app with no API. Sometimes they need Windows or a phone.We built Maritime to put all of these behind one API, on one bill. You can host any kind of agent and customize its environment with the software and tools it needs.Sandboxes start at $0.011/hour for 1 vCPU and 2 GB of memory. Linux desktops are $0.12/hour, Windows desktops are $0.18/hour with the licence included, and Android phones are $0.15/hour. All are billed per second while running.There’s a 7-day free trial with up to $20 of usage.What are you building, and what kind of computer does your agent need?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Variable agent workloads make billing complex - pay-as-you-go is tempting but unpredictable costs kill budgeting. How do you handle reservation optimization vs overprovisioning risk? That's the infrastructure moat."
           },
           {
             "user": "[REDACTED]",
@@ -266,7 +274,7 @@
         "maker": "Aadil Ghani",
         "makerTitle": "Founder",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 159,
+        "votes": 160,
         "websiteUrl": "https://www.producthunt.com/r/FKYLG6Q6UE7GI2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -326,7 +334,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-05T08:01:00Z",
-        "votes": 138,
+        "votes": 139,
         "websiteUrl": "https://www.producthunt.com/r/7IUKMVZUC4C7ZY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -605,7 +613,7 @@
         "maker": "Yang Zhang",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 453,
+        "votes": 454,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -667,7 +675,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 324,
+        "votes": 325,
         "websiteUrl": "https://www.producthunt.com/r/DP7N4LLA6MSIQI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -787,7 +795,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 250,
+        "votes": 251,
         "websiteUrl": "https://www.producthunt.com/r/RD6Q6GMJFZIXDH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1266,7 +1274,7 @@
         "maker": "Justin D'Souza",
         "makerTitle": "Co-founder & CEO at Asymptote Labs",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 461,
+        "votes": 462,
         "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1328,7 +1336,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 453,
+        "votes": 454,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1390,7 +1398,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 420,
+        "votes": 421,
         "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1997,7 +2005,7 @@
           "https://ph-files.imgix.net/a1505ee2-c8de-4f69-a32f-a5f4325d924e.jpeg?auto=format"
         ],
         "maker": "[REDACTED]",
-        "makerTitle": "",
+        "makerTitle": "Founder & CEO at Empacer",
         "featuredAt": "2026-10-29T07:01:00Z",
         "votes": 470,
         "websiteUrl": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
@@ -2034,7 +2042,67 @@
             "user": "[REDACTED]",
             "text": "Can it help with posting on social media?"
           }
-        ]
+        ],
+        "faDescription": "اکثر صاحبان کسب‌وکارهای کوچک و متوسط هنگام استفاده از ابزارهای هوش مصنوعی با یک چالش مشترک روبرو هستند؛ آن‌ها زمان کافی برای توضیح مجدد زمینه کسب‌وکار خود در هر گفتگو را ندارند. دستیار امپیسر (Empacer) دقیقاً برای حذف این مرحله و صرفه‌جویی در زمان طراحی شده است. تنها با پاسخ به سه سوال در راه‌اندازی اولیه، دستورات صوتی شما به برنامه‌ای آماده و کارهای انجام‌شده مانند پاسخ به مشتریان، پست‌های شبکه‌های اجتماعی و صدور فاکتور تبدیل می‌شوند. مهم‌تر از همه، هیچ محتوا یا پیامی بدون تایید و نظارت مستقیم صاحب کسب‌وکار ارسال نخواهد شد.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام پروداکت هانت 👋 من یرکبولان، موسس و مدیرعامل امپیسر هستم. همه مدام به صاحبان کسب‌وکارهای کوچک می‌گویند 'از هوش مصنوعی استفاده کنید'. اما یک روز واقعی صاحب یک سالن زیبایی را ببینید: از صبح مشتریان روی صندلی نشسته‌اند، پیام‌های دایرکت انباشته شده‌اند، پست‌های این هفته هنوز نوشته نشده‌اند و با این حال از آن‌ها انتظار می‌رود بنشینند، پرامپت بنویسند و رشته‌گفتگوها را مدیریت کنند. ابزارها هوشمندتر شدند، اما استفاده از آن‌ها خودش به یک شغل دیگر تبدیل شد. قبل از ساخت هر چیزی، با دو جین از صاحبان کسب‌وکارهای کوچک در سراسر آمریکا صحبت کردیم: سالن‌های زیبایی، آرایشگاه‌ها، تعمیرگاه‌های خودرو و عکاسان. این الگوی تکراری در تقریباً تمام گفتگوها وجود داشت: آن‌ها واقعاً نمی‌خواهند یاد بگیرند چطور با هوش مصنوعی کار کنند. آن‌ها می‌خواهند وظیفه‌ای را محول کنند و انجام شدنش را ببینند - به همین سادگی. بنابراین ما امپیسر را ساختیم: یک دستیار مبتنی بر صوت برای صاحبانی که یک کسب‌وکار ۱ تا ۱۰ نفره را از طریق گوشی خود مدیریت می‌کنند. ایده ساده است: شما نیازمندی خود را با صدای بلند می‌گویید، امپیسر کار را انجام می‌دهد و هیچ چیزی بدون تایید شما بیرون نمی‌رود. و بخشی که بیش از همه به آن افتخار می‌کنم: امپیسر منتظر درخواست نمی‌ماند. این ابزار در طول راه‌اندازی اولیه کسب‌وکار شما را یاد می‌گیرد و هفته اول کاری‌تان را به صورت خودکار برنامه‌ریزی و آماده می‌کند. نحوه کارکرد: ۱) به سه سوال درباره کسب‌وکارتان پاسخ دهید. ۲) امپیسر هفته اول شما را پیش‌نویس می‌کند: پست‌های اینستاگرام، پیش‌نویس اسناد و موارد دیگر. ۳) شما بررسی، ویرایش و تایید می‌کنید و ابزارهای خود را متصل می‌نمایید. آنچه دریافت می‌کنید: 🔌 یکپارچه‌سازی: بیش از ۱۰۰۰ ابزار برای کسب‌وکار شما. 🧠 حافظه: پروفایل کسب‌وکاری که هر آنچه گفته‌اید را به خاطر می‌آورد. ✍️ محتوای بازاریابی: پیش‌نویس پست‌ها بر اساس مزیت رقابتی کسب‌وکار شما. 💬 ارتباطات: پاسخ به پیام‌های مشتریان درباره قیمت‌ها و ساعات کاری با لحن و صدای شما. کجا امپیسر را پیدا کنید: 🌐 وب: مستقیماً در مرورگر شما کار می‌کند. 🤖 اندروید: برنامه در گوگل پلی قرار دارد. 🍏 آیفون: برنامه به زودی عرضه می‌شود. 🎁 پیشنهاد ویژه برای جامعه پروداکت هانت: ما ۶۰٪ تخفیف برای اولین دوره اشتراک ارائه می‌دهیم. 📲 همچنین ۳ روز تست رایگان در صورت دانلود مستقیم از گوگل پلی وجود دارد. ما مشتاقانه منتظر بازخورد صادقانه شما به ویژه در یک مورد هستیم: رابط‌های صوتی مدت‌هاست که به عنوان 'اتفاق بزرگ بعدی' مطرح می‌شوند؛ چه چیزی تا کنون مانع استفاده موفق شما از آن‌ها شده است؟ کل تیم تمام روز اینجا هستند."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "رویکرد مبتنی بر صوت بسیار هوشمندانه است. چند سوال دارم: آیا برای درک بهتر داده‌ها با سیستم‌های CRM یکپارچه می‌شود؟ آیا تست دقت زبان و لهجه انجام شده است؟ مدل قیمت‌گذاری بر اساس کاربر است یا نرخ ثابت؟ آیا امکان سفارشی‌سازی صدای برند وجود دارد؟ در صورت قطعی اینترنت چه راهکار پشتیبان آفلاینی دارید؟"
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "رویکرد مبتنی بر صوت برای صاحبان کسب‌وکارهای کوچک هوشمندانه است، هیچ‌کس وقت تایپ کردن پرامپت را ندارد 🎙️ تبریک برای کسب رتبه ۱!"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "تبریک برای انتشار محصول! شروع کار با پاسخ به سه سوال و آماده‌سازی پیش‌نویس هفته اول، راهکاری هوشمندانه برای حل مشکل صفحه خالی چت است. شرط تایید صاحب کسب‌وکار قبل از ارسال هر پیام هم تصمیم کاملاً درستی است. رای مثبت دادم، موفق باشید!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "مرحله تایید همان چیزی است که این ابزار را برای یک فروشگاه واقعی قابل اعتماد می‌کند؛ اینکه هیچ‌چیزی بدون مشاهده صاحب کسب‌وکار ارسال نمی‌شود تعهد درستی است. موضوعی که برایم سوال است روند روزمره آن است: اگر صاحب کسب‌وکار یک مورد خاص را در چند پیش‌نویس متوالی ویرایش کند (مثلاً لحن پاسخ به مشتریان)، آیا امپیسر آن را به عنوان ترجیح جدید برای هفته بعد یاد می‌گیرد یا هر پیش‌نویس دوباره از همان سه سوال اولیه شروع می‌کند؟ همچنین اگر پیش‌نویس‌های یک هفته بدون تایید بمانند، منتظر می‌مانند یا روی برنامه هفته بعدی انباشته می‌شوند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "اینکه هفته اول را بر اساس سه سوال اولیه پیش‌نویس می‌کند، راهکاری عالی برای عبور از صفحه خالی است. آیا لحن صاحب کسب‌وکار را از روی درخواست‌های صوتی هم تشخیص می‌دهد و یاد می‌گیرد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "مرحله تایید اقدام هوشمندانه‌ای است. صاحبان کسب‌وکارهای کوچک کار کمتری می‌خواهند، نه کنترل کمتری بر امور. کنجکاوم بدانم آیا امپیسر از ویرایش‌هایی که مالکان قبل از تایید انجام می‌دهند یاد می‌گیرد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "آیا این ابزار می‌تواند به انتشار پست در شبکه‌های اجتماعی هم کمک کند؟"
+          }
+        ],
+        "aiReview": "### ۱. مسئله و راه‌حل\nبزرگ‌ترین مانع صاحبان کسب‌وکارهای کوچک (SMBs) در استفاده از ابزارهای هوش مصنوعی، نبود زمان برای تایپ پرامپت‌های طولانی و توضیح مجدد زمینه کاری در هر گفتگو است. امپیسر با اتخاذ رویکرد «صوت‌محور» (Voice-first) و ذخیره حافظه دائمی کسب‌وکار (Memory)، روند کار را به سه گام ساده تبدیل کرده است: پاسخ به ۳ سوال اولیه، ارائه دستورات صوتی، و تایید نهایی خروجی‌ها قبل از انتشار.\n\n### ۲. معماری و تکنولوژی\nمعماری ابزار بر پایه تبدیل گفتار به متن (STT)، پردازش زبان طبیعی (NLP) برای استخراج نیت کاربر، و موتور مولد محتوا استوار است. حافظه زمینه‌ای (Contextual Memory) اطلاعات کسب‌وکار را حفظ می‌کند و با اتصال به بیش از ۱۰۰۰ ابزار جانبی از طریق API، وظایف عملیاتی مانند پاسخ به پیام‌ها و ایجاد اسناد را انجام می‌دهد.\n\n### ۳. مدل درآمدی\nمدل درامد ابزار مبتنی بر اشتراک نرم‌افزار به عنوان خدمت (SaaS) با دوره تست رایگان ۳ روزه است. ارائه تخفیف‌های اولیه (مانند تخفیف ۶۰ درصدی) برای جذب کاربران اولیه و تبدیل آن‌ها به مشترکان وفادار اتخاذ شده است.\n\n### ۴. نقاط قوت\n- **حذف اصطکاک ورود:** آغاز کار تنها با پاسخ به ۳ سوال و عدم نیاز به تایپ پرامپت.\n- **حفظ کنترل صاحب کسب‌وکار:** گام تایید نهایی (Approval step) اعتماد کاربران را جلب می‌کند.\n- **رویکرد فعالانه (Proactive):** پیش‌نویس خودکار وظایف هفته اول بدون انتظار برای درخواست کاربر.\n\n### ۵. نقاط ضعف\n- **وابستگی به اتصال اینترنت:** عدم شفافیت در عملکرد آفلاین یا ضعیف بودن شبکه.\n- **چالش لهجه‌ها و کیفیت صدا:** محیط‌های شلوغ کاری ممکن است روی دقت تشخیص صوت تاثیر منفی بگذارند.\n- **نیاز به الگوریتم‌های یادگیری مستمر:** مشخص نیست ویرایش‌های دستی کاربر چقدر بهینه‌سازی لحن ابزار را سرعت می‌بخشد.\n\n### ۶. نکته طلایی برای ایران\nدر بازار ایران، فروشندگان اینستاگرامی و مشاغل محلی وقت کافی برای پاسخگویی به حجم بالای دایرکت‌ها و واتس‌اپ ندارند. نمونه ایرانی این محصول اگر بتواند تبدیل گفتار فارسی عامیانه را به خوبی انجام دهد و با سیستم‌های پیام‌رسانی بومی و پیامک یکپارچه شود، به دلیل حذف نیاز به پرامپت‌نویسی متنی، نرخ جذب (Adoption Rate) فوق‌العاده بالایی خواهد داشت.",
+        "iranEquivalent": {
+          "productName": "آواکار (دستیار صوتی کسب‌وکار)",
+          "description": "آواکار یک دستیار هوشمند مبتنی بر صوت برای صاحبان مشاغل کوچک و فروشگاه‌های ایرانی است که مدیریت پیام‌ها، تولید محتوای اینستاگرام و صدور فاکتور را ساده می‌کند. کارفرمایان تنها با بیان شفاهی دستورات خود، خروجی‌های آماده را دریافت کرده و پس از تایید نهایی ارسال می‌نمایند. این سیستم با ذخیره اطلاعات پایه کسب‌وکار، نیاز به نوشتن پرامپت‌های پیچیده و تکراری را کلاً برطرف می‌سازد.",
+          "marketOpportunity": "تعداد زیادی از فروشگاه‌های اینستاگرامی، سالن‌های زیبایی و خدمات محلی در ایران به دلیل عدم زمان کافی برای پاسخگویی به دایرکت‌ها و تولید محتوا، فرصت‌های فروش را از دست می‌دهند. ارائه یک دستیار صوتی فارسی که کار با آن نیاز به دانش فنی ندارد، بازار بکر و پرتقاضایی را پوشش خواهد داد.",
+          "estimatedBudget": "۲.۵ تا ۳.۵ میلیارد تومان",
+          "targetAudience": "صاحبان مشاغل خرد و متوسط (۱ تا ۱۰ نفر)، فروشگاه‌های اینستاگرامی، سالن‌های زیبایی، تعمیرگاه‌ها، عکاسان و مشاوران املاک",
+          "challenges": [
+            "چالش تبدیل دقیق گفتار به متن در زبان فارسی با وجود لهجه‌ها و اصطلاحات عامیانه بازاری",
+            "محدودیت‌های مربوط به یکپارچه‌سازی خودکار با پیام‌رسان‌های ایرانی و اینستاگرام به دلیل ابزارهای محدود API"
+          ],
+          "monetization": [
+            "اشتراک ماهانه و سالانه بر اساس تعداد خروجی‌ها و ابزارهای متصل شده",
+            "فروش بسته‌های افزودنی سفارشی‌سازی لحن برند و پشتیبانی ویژه"
+          ],
+          "techStack": [
+            "Next.js",
+            "PostgreSQL",
+            "Python",
+            "FastAPI",
+            "Whisper AI",
+            "Redis"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-month-5",
@@ -2246,7 +2314,7 @@
         "maker": "Justin D'Souza",
         "makerTitle": "Co-founder & CEO at Asymptote Labs",
         "featuredAt": "2026-11-02T08:01:00Z",
-        "votes": 461,
+        "votes": 462,
         "websiteUrl": "https://www.producthunt.com/r/WB3BWWZDEG2XEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2308,7 +2376,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 453,
+        "votes": 454,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2969,7 +3037,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-06-17T07:01:00Z",
-        "votes": 964,
+        "votes": 965,
         "websiteUrl": "https://www.producthunt.com/r/64HL7FCICRJ4CQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
