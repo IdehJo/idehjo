@@ -1,25 +1,33 @@
 {
-  "checkedAt": "2026-11-06T02:50:04.754Z",
-  "latestDataset": "2026-11-06.json",
+  "checkedAt": "2026-11-07T02:20:23.786Z",
+  "latestDataset": "2026-11-07.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 139,
-  "backlogAfter": 132,
-  "completedProducts": 756,
-  "missingFaDescription": 79,
-  "missingFaComments": 107,
-  "missingAiReview": 107,
-  "missingIranEquivalent": 80,
+  "succeeded": 6,
+  "failed": 4,
+  "backlogBefore": 144,
+  "backlogAfter": 139,
+  "completedProducts": 761,
+  "missingFaDescription": 85,
+  "missingFaComments": 113,
+  "missingAiReview": 114,
+  "missingIranEquivalent": 86,
   "failures": [
     {
-      "slug": "tonko",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"تونکو یک اپلیکیشن مدیریت پول جیبی برای خانواده‌ها است که به کودکان سواد مالی می‌آموزد. کودکان در این برنامه می‌توانند با انجام کارهای خانگی و وظایف محوله، پول"
+      "slug": "notch-metrics",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
     },
     {
-      "slug": "notch-metrics",
-      "reason": "JSON parse failed: {\n  \"faDescription\": \"ناچ متریکس ابزاری کاربردی است که داده‌های مالی و آماری شما را مستقیماً در ناچ مک‌بوک به نمایش می‌گذارد. با این محصول می‌توانید درآمد کل، درآمد ماهانه تکرارشون"
+      "slug": "confetti-5",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
+    {
+      "slug": "vaani-developer-platform",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
+    },
+    {
+      "slug": "fastbrowse-2",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your pro"
     }
   ]
 }
