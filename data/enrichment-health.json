@@ -1,33 +1,16 @@
 {
-  "checkedAt": "2026-11-07T02:20:23.786Z",
-  "latestDataset": "2026-11-07.json",
+  "checkedAt": "2026-11-08T01:49:22.979Z",
+  "latestDataset": "2026-11-08.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 6,
-  "failed": 4,
-  "backlogBefore": 144,
-  "backlogAfter": 139,
-  "completedProducts": 761,
-  "missingFaDescription": 85,
-  "missingFaComments": 113,
-  "missingAiReview": 114,
-  "missingIranEquivalent": 86,
-  "failures": [
-    {
-      "slug": "notch-metrics",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
-    },
-    {
-      "slug": "confetti-5",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "vaani-developer-platform",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
-    },
-    {
-      "slug": "fastbrowse-2",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your pro"
-    }
-  ]
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 150,
+  "backlogAfter": 140,
+  "completedProducts": 771,
+  "missingFaDescription": 86,
+  "missingFaComments": 114,
+  "missingAiReview": 115,
+  "missingIranEquivalent": 87,
+  "failures": []
 }
