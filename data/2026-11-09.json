@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "scrapedAt": "2026-11-08T23:56:07.674Z",
+  "scrapedAt": "2026-11-09T01:51:17.748Z",
   "periods": {
     "today": [
       {
@@ -30,7 +30,7 @@
         "maker": "Dan Musato",
         "makerTitle": "Co-founder of AXL and CTO",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 191,
+        "votes": 194,
         "websiteUrl": "https://www.producthunt.com/r/I2M2MPP6UQVT6W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -88,7 +88,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 176,
+        "votes": 181,
         "websiteUrl": "https://www.producthunt.com/r/ZVZ33J42Q2NP4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -167,9 +167,13 @@
         "maker": "David Smooke",
         "makerTitle": "HackerNoon Founder & CEO",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 130,
+        "votes": 138,
         "websiteUrl": "https://www.producthunt.com/r/R664WMF3WWTS65?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Thanks for hunting and taking a look!Every popular word eventually gets duplicated. Somebody names a product, a protocol or a meme after a word that already meant something, and now how has the meaning of the word changed? I wanted to visualize those battles of a term's meaning with data instead of opinion. Which meaning owns the word today? And how is its internet usage changing the meaning of the word over time? Starting with wikipedia page views, let’s see how we can estimate our collective digital understandings."
+          },
           {
             "user": "[REDACTED]",
             "text": "This is such an interesting problem, but what is the business sense here?"
@@ -254,51 +258,6 @@
         "id": "ph-today-6",
         "date": "2026-11-08",
         "rank": 6,
-        "name": "Archie",
-        "slug": "archie-5",
-        "tagline": "Mac Screenshot Manager & Notch Shelf",
-        "description": "Archie — a small Mac app that keeps screenshots in your notch, ready to edit and drag wherever you need them.",
-        "category": "Design Tools • Productivity • User Experience",
-        "categoryFa": "ابزار طراحی • بهره‌وری • User Experience",
-        "url": "https://www.producthunt.com/products/archie-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/5a342f30-6e25-486d-84a7-ae94dd91169c.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/ffb30c6b-8043-43ff-8b3f-11fe94369ed4.jpeg?auto=format",
-          "https://ph-files.imgix.net/572fc817-a4ce-4dad-a2a5-8b50a6db4fbb.png?auto=format",
-          "https://ph-files.imgix.net/32e5cfc2-d152-46c5-8c67-67b28ade9952.png?auto=format",
-          "https://ph-files.imgix.net/2b4897cd-0752-44b3-b4df-a3e10adbd6fb.png?auto=format",
-          "https://ph-files.imgix.net/1483ac8e-6746-41f5-84ac-93557e76af3b.png?auto=format",
-          "https://ph-files.imgix.net/e55e0921-35d2-4e08-ad0b-9f030574dd76.png?auto=format",
-          "https://ph-files.imgix.net/a9704e97-45a7-47b4-9151-a715a98f7f69.png?auto=format"
-        ],
-        "maker": "Artiom P.",
-        "makerTitle": "Designer & Builder",
-        "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 107,
-        "websiteUrl": "https://www.producthunt.com/r/W3WAASP4DI3V2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey Product Hunt 👋I’m Artiom, a product designer and builder.I take dozens of screenshots daily for work and AI chats. But the native macOS thumbnail always annoyed me: it vanishes after a few seconds, forcing me to switch to my Desktop, and hunt down recent screenshots. And if I take several screenshots in a row, it’s a total mess. On top of that, making quick edits in Preview always felt clunky.So I built Archie — native Mac app that turns your notch into an instant shelf for your captures.What Archie does:📸 Notch Shelf: Keep screenshots right in your notch, ready to drag-and-drop anytime.✏️ Quick Editor: Crop, draw, add arrows, text, and numbered steps.🔒 Smart Text Blur: Click any sensitive word or email to blur it instantly.📋 Instant OCR: Copy text from any screenshot (100% local processing via Apple VisionKit).📌 Auto-Cleanup & Pinning: Pin what you need; let Archie clean up the rest.Works with your usual Mac shortcuts (⌘⇧3, ⌘⇧4, ⌘⇧5) on Macs with or without a physical notch.I built Archie to fix my own daily frustrations. I’d love to hear your thoughts and feedback!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats! Love this idea. The quick editing is a great feature. Can you easily rename the files in your editor so they dont all say 'Screenshot?'"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "This solves the exact annoyance I have with the native thumbnail — it vanishes after a few seconds and then I'm hunting through Desktop for the shot. Keeping captures in a scrollable notch shelf you can drag straight from is a much better mental model. The click-to-blur on sensitive text is the feature I'd use most, I screenshot a lot of stuff with emails in it. The local OCR via VisionKit is a nice touch too, no round trip to a server just to copy text out of an image."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "What happens when we take 15-20 screenshots back to back? Does it become crowded or there's some way to manage them?"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-7",
-        "date": "2026-11-08",
-        "rank": 7,
         "name": "DocsAlot for customer support",
         "slug": "docsalot-for-customer-support",
         "tagline": "Slack and Discord bot that answers your customers questions",
@@ -320,12 +279,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 104,
+        "votes": 114,
         "websiteUrl": "https://www.producthunt.com/r/KH3KUD3PZ5P7SH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! 👋We built DocsAlot’s Slack and Discord bots so your community can ask questions about your product right where they’re already talking.To get started, just enter your website, and we figure out all the context, including your branding, and you get a proper bot answering questions for your community. For this, launch we are giving out one month free, unlimited AI responses. Just sign up, enter your site. Connect to slack, and try it out. We wanted to make those recurring “how do I…?” questions easier for everyone: the person asking, the teammate answering, and the next person with the same question.If the bot cannot find any relevant content, it simply says it can't and flag that query as undocumented. The team then has a change to create a draft page from it."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "What a great idea! Congrats on the launch. Your team is firing on all cylinders lately 🔥"
           },
           {
             "user": "[REDACTED]",
@@ -350,10 +313,55 @@
           {
             "user": "[REDACTED]",
             "text": "congrats on the launch faizan. answering inside slack is the part i would use, sending people to a help center usually means they never come back. my only worry is outdated docs, a confident wrong answer is worse than no bot at all"
+          }
+        ]
+      },
+      {
+        "id": "ph-today-7",
+        "date": "2026-11-08",
+        "rank": 7,
+        "name": "Archie",
+        "slug": "archie-5",
+        "tagline": "Mac Screenshot Manager & Notch Shelf",
+        "description": "Archie — a small Mac app that keeps screenshots in your notch, ready to edit and drag wherever you need them.",
+        "category": "Design Tools • Productivity • User Experience",
+        "categoryFa": "ابزار طراحی • بهره‌وری • User Experience",
+        "url": "https://www.producthunt.com/products/archie-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/5a342f30-6e25-486d-84a7-ae94dd91169c.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/ffb30c6b-8043-43ff-8b3f-11fe94369ed4.jpeg?auto=format",
+          "https://ph-files.imgix.net/572fc817-a4ce-4dad-a2a5-8b50a6db4fbb.png?auto=format",
+          "https://ph-files.imgix.net/32e5cfc2-d152-46c5-8c67-67b28ade9952.png?auto=format",
+          "https://ph-files.imgix.net/2b4897cd-0752-44b3-b4df-a3e10adbd6fb.png?auto=format",
+          "https://ph-files.imgix.net/1483ac8e-6746-41f5-84ac-93557e76af3b.png?auto=format",
+          "https://ph-files.imgix.net/e55e0921-35d2-4e08-ad0b-9f030574dd76.png?auto=format",
+          "https://ph-files.imgix.net/a9704e97-45a7-47b4-9151-a715a98f7f69.png?auto=format"
+        ],
+        "maker": "Artiom P.",
+        "makerTitle": "Designer & Builder",
+        "featuredAt": "2026-11-08T08:01:00Z",
+        "votes": 108,
+        "websiteUrl": "https://www.producthunt.com/r/W3WAASP4DI3V2G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋I’m Artiom, a product designer and builder.I take dozens of screenshots daily for work and AI chats. But the native macOS thumbnail always annoyed me: it vanishes after a few seconds, forcing me to switch to my Desktop, and hunt down recent screenshots. And if I take several screenshots in a row, it’s a total mess. On top of that, making quick edits in Preview always felt clunky.So I built Archie — native Mac app that turns your notch into an instant shelf for your captures.What Archie does:📸 Notch Shelf: Keep screenshots right in your notch, ready to drag-and-drop anytime.✏️ Quick Editor: Crop, draw, add arrows, text, and numbered steps.🔒 Smart Text Blur: Click any sensitive word or email to blur it instantly.📋 Instant OCR: Copy text from any screenshot (100% local processing via Apple VisionKit).📌 Auto-Cleanup & Pinning: Pin what you need; let Archie clean up the rest.Works with your usual Mac shortcuts (⌘⇧3, ⌘⇧4, ⌘⇧5) on Macs with or without a physical notch.I built Archie to fix my own daily frustrations. I’d love to hear your thoughts and feedback!"
           },
           {
             "user": "[REDACTED]",
-            "text": "most of our clients get support questions in telegram groups, way more than slack or discord honestly. any plans for telegram"
+            "text": "Interesting interaction design, and the polish is really nice. Keep it up."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats! Love this idea. The quick editing is a great feature. Can you easily rename the files in your editor so they dont all say 'Screenshot?'"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This solves the exact annoyance I have with the native thumbnail — it vanishes after a few seconds and then I'm hunting through Desktop for the shot. Keeping captures in a scrollable notch shelf you can drag straight from is a much better mental model. The click-to-blur on sensitive text is the feature I'd use most, I screenshot a lot of stuff with emails in it. The local OCR via VisionKit is a nice touch too, no round trip to a server just to copy text out of an image."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "What happens when we take 15-20 screenshots back to back? Does it become crowded or there's some way to manage them?"
           }
         ]
       },
@@ -436,12 +444,16 @@
         "maker": "Zigao Wang",
         "makerTitle": "Student developer and maker in Shanghai.",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 97,
+        "votes": 98,
         "websiteUrl": "https://www.producthunt.com/r/GUMMVH7DF5TXYG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋I'm Zigao, a high school student in Shanghai. I used Arc every day, and when it went into maintenance mode, nothing else felt right: the alternatives were Chromium wrappers or missing what made Arc great. So I built my own.Zigzag is a native Mac browser, written in Swift on the WebKit that ships with macOS. That's why it's only 18 MB (Arc is 871 MB on my Mac). No account, no telemetry, no server of mine it depends on, and it's fully open source (Apache 2.0), so nobody can ever switch your browser off.What you get:- Your tabs in a sidebar, grouped into colored spaces you swipe between- Split view (drag a tab onto the page), Peek (shift-click a link), a command bar- Import from Arc in one go: spaces, pinned tabs, folders, passwords, and even your sign-ins, so Google and GitHub are already logged in- Chrome extensions from the Web Store: 1Password, Dark Reader, uBlock Origin Lite, Tampermonkey…- Built-in ad blocking, YouTube included- Just shipped: a full Simplified Chinese versionIt's in beta and it's my daily browser. I'd love your feedback, especially the honest kind. What would make you switch?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Zigzag 0.7.0 is out, built almost entirely from your comments over the last two days. Thank you!- Mini window: ⌃⌘N opens a small window for one quick page, and one click moves it into your main window without reloading. You can also have links from other apps open there, like Arc's Little Arc (thanks Philip).- Space switcher: ⌥⌘S lists your spaces. Pick one with the arrow keys and press Return.- Control+Tab works properly now: it was being swallowed whenever a page had the focus.- Proxy extensions like FoxyProxy, and ChatGPT search as your search engine (thanks Harry).- New tabs open right next to the one you're on.- Clear keeps the tabs you're working with and closes the ones you've drifted away from.- Busy background tabs go to sleep on their own to save battery.Updates install automatically, or grab it at zigzagbrowser.com. Full notes: zigzagbrowser.com/release-notes"
           },
           {
             "user": "[REDACTED]",
@@ -466,10 +478,6 @@
           {
             "user": "[REDACTED]",
             "text": "Thank you all for trying Zigzag today, and for every comment and bug report. It's been a wild first day!A fairly big update is already in the works: Bitwarden's inline autofill, Violentmonkey, a smarter Clear that only closes the tabs you've drifted away from, ⌘-number hints, much faster History search, and background tabs that sleep when they burn energy.Heads up: I'm in China, so I'm on a different clock from most of you, and I have school and exams coming up. Replies might take a few hours instead of minutes, but please keep the feedback coming. I read every comment and I'll get to each one 🙏"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "one-step Arc import plus an 18 MB install is a pretty easy first try. does split view stay inside the same colored space, or can the two pages belong to different ones?"
           }
         ]
       },
@@ -477,51 +485,44 @@
         "id": "ph-today-10",
         "date": "2026-11-08",
         "rank": 10,
-        "name": "Agent Clan",
-        "slug": "agent-clan",
-        "tagline": "Command your Claude Code and Codex agents with gestures",
-        "description": "Agent Clan puts your Claude Code and Codex agents on your screen as a 3D team you run with your hands. Make a fist and they appear. Pinch and pull toward one to pick it, then just say what you need. When an agent asks for permission, pull right to allow or left to deny. Circle anything on your screen to hand it over, or ask a leader and its crew splits the work. Hand tracking and voice run on your computer, and everything also works with a mouse. Free on Mac and Windows.",
-        "category": "Productivity • Developer Tools • Artificial Intelligence",
-        "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-        "url": "https://www.producthunt.com/products/agent-clan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/34d5efb5-cf44-428a-a826-c23fb6dd2f01.png?auto=format",
+        "name": "Tilde ",
+        "slug": "tilde-3",
+        "tagline": "Finder replacement & file manager for mac",
+        "description": "Tilde is the native Finder replacement for Mac. Browse folders in custom split layouts, organise files by status or client with custom properties, restore tabs and layouts with saved workspaces, and too much more to list. Purchase once, no subscription.",
+        "category": "Mac • Productivity • User Experience",
+        "categoryFa": "مک • بهره‌وری • User Experience",
+        "url": "https://www.producthunt.com/products/tilde-for-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/dcd17592-9b0a-4ea5-a42e-c07d8a99c2a4.webp?auto=format",
         "screenshots": [
-          "https://ph-files.imgix.net/37fa1b59-ff9e-48e7-a7c2-b329bb5ad371.jpeg?auto=format",
-          "https://ph-files.imgix.net/a5423002-8aeb-4559-817a-0a04327b4b0f.jpeg?auto=format",
-          "https://ph-files.imgix.net/31d4e386-a49a-43ab-98ff-03f1a40e03a9.jpeg?auto=format",
-          "https://ph-files.imgix.net/1f51701c-427b-4154-9980-e6e31aa22548.jpeg?auto=format",
-          "https://ph-files.imgix.net/772587ab-af43-4160-aa56-d4be1e959f9c.jpeg?auto=format",
-          "https://ph-files.imgix.net/c601084a-c173-441e-baa4-d915d1c4fa81.jpeg?auto=format",
-          "https://ph-files.imgix.net/21dcee20-36bf-4cbd-a113-5b10ea2dbe21.jpeg?auto=format",
-          "https://ph-files.imgix.net/d654290d-490e-4697-85c2-77f80ae4a7cc.jpeg?auto=format",
-          "https://ph-files.imgix.net/f2efe216-471d-4c99-8b5d-1553af49927c.jpeg?auto=format",
-          "https://ph-files.imgix.net/28b09def-f975-4d24-937e-b99038d167ba.jpeg?auto=format"
+          "https://ph-files.imgix.net/67c39d61-88ab-4124-b139-bacbd02ca233.png?auto=format",
+          "https://ph-files.imgix.net/559d5084-736c-4d59-9205-e457d2a4217b.png?auto=format",
+          "https://ph-files.imgix.net/eee6e9ef-b733-454c-858c-30b8fcff3721.png?auto=format",
+          "https://ph-files.imgix.net/2cef0373-c1cc-495f-87dc-678fdb339e9d.png?auto=format",
+          "https://ph-files.imgix.net/0f19e510-0833-490b-b2ac-503a07cdf19f.png?auto=format",
+          "https://ph-files.imgix.net/398ebca1-b510-47d7-aad8-299e1b857314.png?auto=format",
+          "https://ph-files.imgix.net/c08250ea-4dd2-40bc-8ed9-20cb0cf4bf33.png?auto=format"
         ],
-        "maker": "鄭策（TSETSE）",
-        "makerTitle": "Building Agent Clan",
+        "maker": "Blaze Greenhalgh",
+        "makerTitle": "Building Tilde for Mac",
         "featuredAt": "2026-11-08T08:01:00Z",
-        "votes": 87,
-        "websiteUrl": "https://www.producthunt.com/r/FM5JX2VIU22Z3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "votes": 89,
+        "websiteUrl": "https://www.producthunt.com/r/EDUF7QWRY4NIX6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
-            "text": "Hi Product Hunt, I'm the developer of Agent Clan.I kept switching windows to check on my Claude Code sessions while I was watching or reading something else. So I turned each agent into a small 3D character I can run with my hands.How the gestures work:Open your hand, then make a fist: your agents appearPinch and pull toward one to pick it, then pull up and just talkWhen an agent needs your permission, its head pops up over your other apps. Pull right to allow, left to denyCircle anything on your screen and hand it to an agentHand tracking (MediaPipe) and speech-to-text (Whisper) run on your computer, and camera frames never leave it. Agent Clan runs your own Claude Code or Codex in your project folder, and everything also works with a mouse and keyboard.It's free on Mac and Windows. I'd love to know which gesture feels awkward, and what you'd want to do with your hands next.Agent Clan is an independent product, not affiliated with Anthropic or OpenAI."
+            "text": "Hey all! I'm Blaze, an Aussie developer-designer, and the maker of Tilde.Tilde started with my own frustrations with Finder. I wanted a sidebar I could organise around my projects, flexible split views, and better ways to find and organise files. So I built the file manager I wanted to use.Tilde is a native Mac app that lets you:- Browse folders in whatever split-pane layout you like, with tabs in every pane.- Create custom sidebars and groups for different contexts.- Save workspaces to return to your tabs and layouts.- Add custom properties like status or client, then filter, sort and group your files.- Jump to files, folders and actions with the command palette.It's for people who spend a lot of their day working with files and want more control over how they work.There's a 7-day free trial, then a one-time purchase. No subscription.I'd love to hear what you think!"
           },
           {
             "user": "[REDACTED]",
-            "text": "The permission gesture is the part that stuck with me — pull right to allow, left to deny, with the agent's head popping up over whatever I'm doing. That's the exact moment I usually lose track of a run, so keeping it in view instead of buried in a terminal tab feels right. My one worry is the autopilot problem Xavier raised: at five sessions I'd be pulling right without reading. If the popup showed the command and the files it touches together, I'd trust it a lot more."
+            "text": "The saved workspaces plus custom properties are what make this more than a Finder reskin for me. I juggle files across several apps I'm building, and grouping by project or status instead of just folder hierarchy is exactly how I think about my work — tabs in every pane is a nice touch too. One question: when you restore a workspace, does it bring back the sidebar groups as well as the tabs and layout, or just the tabs?"
           },
           {
             "user": "[REDACTED]",
-            "text": "Two sessions, I read every command. Five sessions, I'm pulling right on autopilot. When a leader splits the work across a team, can I see which files each agent touched before I approve?"
+            "text": "Interesting! How do you compare with @Bloom ?"
           },
           {
             "user": "[REDACTED]",
-            "text": "Does the head that pops up show which command it wants to run?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Pull right to allow and left to deny is a fun idea, and honestly the permission step is where I lose the most time babysitting agent sessions. How do you guard against an accidental approve when I'm just talking with my hands or reaching for coffee? Is there an extra confirm for riskier commands like a force push?"
+            "text": "the saved workspaces plus a command palette feel like the part that goes beyond a Finder reskin. can a workspace remember a specific split of folders, or only which sidebar items you pinned?"
           }
         ]
       }
@@ -2010,7 +2011,67 @@
             "user": "[REDACTED]",
             "text": "nice does it work with claude"
           }
-        ]
+        ],
+        "faDescription": "اسکرین استودیو یک نرم‌افزار حرفه‌ای ضبط صفحه نمایش برای سیستم‌عامل مک است که بخش‌های پیچیده و زمان‌بر تولید ویدیو مانند زوم‌های هوشمند، حرکات نرم دوربین، تنظیم صدا و کادربندی را به صورت خودکار انجام می‌دهد. با استفاده از این ابزار، تمامی ویدیوهای معرفی محصول و آموزش‌های شما کاملاً حرفه‌ای، صیقل‌خورده و جذاب به نظر خواهند رسید. در نسخه جدید ۴.۰ قابلیت‌های فوق‌العاده‌ای نظیر ذره‌بین شیشه‌ای برای بزرگ‌نمایی دقیق یک بخش بدون جابه‌جایی کل صفحه و امکان تقسیم صفحه حتی برای ویدیوهای عمودی اضافه شده است. علاوه بر این، کاربران می‌توانند ویدیو را دقیقاً مانند یک متن متنی ویرایش کرده، پس‌زمینه تصویر دوربین خود را بدون نیاز به پرده سبز حذف نمایند و اطلاعات حساس مانند شماره کارت یا ایمیل را به صورت خودکار تار کنند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام به پروداکت هانت! نسخه ۴.۰ اسکرین استودیو اینجاست و این بزرگ‌ترین به‌روزرسانی ما تا به امروز است. اسکرین استودیو مک شما را ضبط کرده و آن را به یک ویدیوی کاملاً صیقل‌خورده و حرفه‌ای تبدیل می‌کند. زوم‌ها، حرکت نرم نشانگر موس و کادربندی به صورت خودکار برای شما انجام می‌شوند. قابلیت‌های جدید عبارتند از: • ذره‌بین شیشه‌ای: بزرگ‌نمایی یک جزئیات زیر لنز شیشه‌ای، بدون حرکت دادن کل صفحه مانند زوم‌های کلاسیک. • کات‌اوت دوربین: حضور در جلوی صفحه بدون تصویر پس‌زمینه و بدون نیاز به پرده سبز. • ویرایش بر اساس متن (ترانسکریپت): حذف یک جمله از متن پیاده‌شده تا آن بخش از ویدیو قطع شود؛ کلمات اضافی و مکث‌های طولانی نیز به طور خودکار شناسایی می‌شوند. • تقسیم صفحه (Split screen): قرارگیری شما و صفحه‌نمایش در کنار هم یا روی هم برای ویدیوهای عمودی همراه با انیمیشن‌های خودکار. • مخفی‌سازی داده‌های حساس و چهره‌ها: ایمیل‌ها، شماره تلفن‌ها، شماره کارت‌ها و کلیدها پوشانده می‌شوند و چهره‌ها حتی هنگام اسکرول کردن تار می‌گردند. • زوم‌های شفاف‌تر: ما مدل هوش مصنوعی اختصاصی خود را روی اسکرین‌شات‌های macOS آموزش دادیم، بنابراین متون زوم‌شده شفاف می‌مانند و موس‌های کوچک سفارشی نیز باکیفیت‌تر می‌شوند. • خروجی تا ۴ برابر سریع‌تر: به همراه پشتیبانی از فرمت ProRes برای برنامه‌های Final Cut Pro، DaVinci Resolve و Premiere Pro. • موتور صوتی جدید: پیمایش ویدیو بدون صدای کلیک، همگام‌سازی کامل صدا با دوربین و تقویت صدای میکروفون‌های ضعیف با حالت جدید Loud. موارد دیگری هم هست: ردگیری چهره، اصلاح رنگ با LUT، سبک‌های جدید زیرنویس، منوهای نیتیو مک، کلیدهای میانبر J، K، L و میانبرهای کیبورد با ظاهر کلیدهای مک. و این پایان راه نیست؛ به‌روزرسانی‌های بیشتری در راه است. برای جشن گرفتن این انتشار، جامعه پروداکت هانت می‌توانند با کد HELLOHUNTERS تا ۸ نوامبر از ۲۰٪ تخفیف برای سال اول طرح سالانه استفاده کنند. دوست دارید در نسخه بعدی اسکرین استودیو چه چیزی ببینید؟ ما تک‌تک نظرات را می‌خوانیم."
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "ویرایش یک ویدیو ضبط‌شده از طریق ویرایش متن ترانسکریپت آن، به همراه ذره‌بین شیشه‌ای برای یک جزئیات خاص، دقیقاً کندترین بخش‌های ساخت دمو محصول را هدف قرار داده و سرعت می‌بخشد. آیا ویرایش متن به صورت غیرمخرب (Non-destructive) است تا بتوان بخش حذف‌شده را بعداً بازگرداند؟ - تیم بلووتا."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "مطلقاً بهترین برنامه‌ای که در مجموعه ابزارهایم دارم. هیچ حرف دیگری باقی نمی‌ماند! 💪"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "ما به چندین ماسک (Mask) هم‌زمان نیاز داریم!!!!! ماسک خودکار عالی است اما من می‌خواهم بتوانم در هر لحظه به صورت دستی هر تعداد ماسکی که می‌خواهم ایجاد کنم!!!!!"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "همه چیز برای نیازهای من کاملاً بی‌نقص است... به جز یک مورد: خیلی دوست دارم بتوانم موقعیت زیرنویس‌ها را تنظیم کنم. در حال حاضر روی نوار ابزار لینکدین و اینستاگرام می‌افتد. محصول فوق‌العاده‌ای است!"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "آدام عزیز، من یکی از کاربران قدیمی تو هستم و همیشه عاشق ابزارت بودم، اما در بسیاری از موارد روی مک‌بوک ایر M۳ خودم با مشکل مواجه می‌شدم، به‌خصوص در مورد عدم هماهنگی درست صدا و ویدیو. همچنین زمان زیادی را منتظر خروجی گرفتن ویدیوها می‌ماندم. اما پسر، نسخه ۴ در یک لول دیگر است! برنامه فوق‌العاده سریع و پاسخگو شده و من حتی نرسیدم یک قلپ از قهوه‌ام بخورم که خروجی آماده شد. تبریک می‌گویم و متشکرم! به لطف شما، SaaS ما حتی با یک تیم و بودجه کوچک بسیار حرفه‌ای‌تر به نظر می‌رسد."
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "این فوق‌العاده است! همیشه عاشق استفاده از اسکرین استودیو بودم. این به‌روزرسانی مثل یک نسخه جدید و بسیار جذاب به نظر می‌رسد. برای تست کردنش بسیار هیجان‌زده‌ام!"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "عالیه، آیا این ابزار با کلود (Claude) هم کار می‌کند؟"
+          }
+        ],
+        "aiReview": "### مسئله و راه‌حل\nساخت ویدیوهای دموی محصول و آموزش‌های نرم‌افزاری معمولاً نیازمند ساعت‌ها تدوین دستی برای افزودن زوم، تنظیم کادر، جداسازی پس‌زمینه و سانسور اطلاعات حساس است. Screen Studio ۴.۰ با اتوماسیون کامل این فرآیندها به کمک هوش مصنوعی و ارائه قابلیت‌های پیشرفته‌ای مانند ویرایش ویدیو از طریق متن (Edit by Transcript) و زوم‌های بدون افت کیفیت، زمان تولید ویدیوهای حرفه‌ای را از چند ساعت به چند دقیقه کاهش داده است.\n\n### معماری و تکنولوژی\nاین نرم‌افزار به صورت نیتیو برای macOS توسعه یافته و از موتورهای اختصاصی یادگیری ماشین برای مقیاس‌پذیری متون زوم‌شده و ردیابی چهره بهره می‌برد. استفاده از شتاب‌دهنده سخت‌افزاری مک و ارائه خروجی ProRes نشان‌دهنده معماری بهینه‌شده آن برای پردازش گرافیکی سنگین است. همچنین ادغام قابلیت Whisper یا مدل‌های مشابه برای تبدیل گفتار به متن، امکان ویرایش متن‌محور را فراهم کرده است.\n\n### مدل درآمدی\nمدل درآمدی این محصول بر پایه اشتراک سالانه/ماهانه (SaaS) یا لایسنس دائمی با به‌روزرسانی‌های محدود است. ارائه تخفیف‌های مناسبتی در پلتفرم‌هایی مانند Product Hunt به عنوان استراتژی اصلی جذب مشتری (CAC پایین) استفاده شده است.\n\n### نقاط قوت\n۱. بهینه‌سازی خیره‌کننده سرعت خروجی (Up to ۴x) و حل مشکل سینک صدا و تصویر در نسخه جدید.\n۲. تجربه کاربری فوق‌العاده و حذف نیاز به ابزارهای پیچیده تدوین مانند Premiere یا Final Cut برای کارهای روزمره.\n۳. قابلیت‌های امنیتی خودکار مانند تار کردن داده‌های حساس و چهره‌ها.\n\n### نقاط ضعف\n۱. انحصار نرم‌افزار به سیستم‌عامل مک (macOS) که بخش زیادی از کاربران ویندوز و لینوکس را محروم می‌کند.\n۲. محدودیت در سفارشی‌سازی دستی برخی المان‌ها (مانند عدم جابه‌جایی آزادانه زیرنویس یا محدودیت در تعداد ماسک‌های هم‌زمان که کاربران به آن اشاره کرده‌اند).\n\n### نکته طلایی برای بازار ایران\nیک نمونه بومی موفق از این محصول در ایران باید تمرکز ویژه‌ای بر روی **سانسور خودکار داده‌های بومی (مانند کارت‌های شتاب، شناسنامه و کد ملی)** و **ترانسکریپت و زیرنویس دقیق زبان فارسی** داشته باشد. اگر ابزاری بتواند بدون نیاز به دانش تدوین، به مدرسان پکیج‌های آموزشی ایرانی اجازه دهد ویدیوهایی با ظاهر استانداردهای بین‌المللی تولید کنند و پرداخت ریالی داشته باشد، به سرعت سهم بازار بالایی تسخیر خواهد کرد.",
+        "iranEquivalent": {
+          "productName": "سیما ضبط (SimaZabt)",
+          "description": "سیما ضبط یک ابزار بومی برای ویرایش و هوشمندسازی ویدیوهای ضبط‌شده از صفحه نمایش است که مخصوص مدرسان آنلاین و تیم‌های نرم‌افزاری طراحی شده است. این نرم‌افزار به صورت خودکار اطلاعات حساس مانند کدهای ملی، شماره کارت‌های بانکی ایرانی و ایمیل‌ها را در طول ویدیو تار می‌کند. همچنین امکان ایجاد زیرنویس فارسی خودکار و زوم‌های نرم روی بخش‌های کلیدی نرم‌افزار را بدون نیاز به دانش تدوین فراهم می‌سازد.",
+          "marketOpportunity": "با رشد چشمگیر تولید محتوای آموزشی، دوره‌های آنلاین و نرم‌افزارهای SaaS در ایران، تقاضا برای ساخت ویدیوهای دموی حرفه‌ای به شدت افزایش یافته است. عدم دسترسی ساده به پرداخت‌های ارزی برای خرید ابزارهایی مانند Screen Studio و نیاز شدید به سانسور خودکار داده‌های بانکی ایرانی، یک خلاء بزرگ در بازار داخلی ایجاد کرده است.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "تولیدکنندگان محتوای آموزشی، مدیران محصول، تیم‌های پشتیبانی SaaS و فریلنسرهای تولید ویدیو",
+          "challenges": [
+            "پیاده‌سازی پردازش و رندرینگ ویدیویی پرسرعت روی سیستم‌عامل‌های مختلف بدون افت فریم",
+            "توسعه مدل دقیق هوش مصنوعی برای تشخیص و تار کردن خودکار فرمت داده‌های حساس ایرانی (شماره کارت، کد ملی، شماره شبا)"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه به کاربران حقیقی و تیم‌ها",
+            "ارائه لایسنس سازمانی برای دانشگاه‌ها، آموزشگاه‌های آنلاین و شرکت‌های بزرگ نرم‌افزاری"
+          ],
+          "techStack": [
+            "Electron.js",
+            "React",
+            "Rust (برای پردازش سنگین ویدیو و فریم‌ها)",
+            "FFmpeg",
+            "Whisper AI (برای پیاده‌سازی ترانسکریپت فارسی)",
+            "PostgreSQL"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-month-8",
