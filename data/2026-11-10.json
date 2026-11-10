@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "scrapedAt": "2026-11-10T02:52:07.023Z",
+  "scrapedAt": "2026-11-10T04:16:00.972Z",
   "periods": {
     "today": [
       {
@@ -23,7 +23,7 @@
         "maker": "Mike Ciesielka",
         "makerTitle": "just dabblin'",
         "featuredAt": "2026-11-09T08:00:00Z",
-        "votes": 354,
+        "votes": 361,
         "websiteUrl": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -84,12 +84,24 @@
         "maker": "Tim Lin",
         "makerTitle": "Building an AI visibility platform",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 306,
+        "votes": 326,
         "websiteUrl": "https://www.producthunt.com/r/ZUTLEQZYV5KE47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm Tim from Dageno.More buyers now skip search and ask ChatGPT or Gemini what to buy. Yet most GEO/AEO tools start with one question: \"Does AI mention your website?\"We think that's backwards. Before deciding what to track, you should understand the market: who AI recommends, what buyers ask, and which sources AI cites.So Dageno now brings market research and AI visibility tracking into one workflow, so you can see exactly what to optimize:Start with any brand or product, no website connection neededSee how you and competitors show up together in AI answersSee which needs and selling points AI ties to each brandVerify every finding against the raw AI answers and cited pagesAfter you act, keep tracking key questions across models and markets. MCP and API are available to plug Dageno into your own workflow.Three things we care about:✅ Public market lookups are free forever✅ From Starter, use 10 AI models and 86 countries and regions, with no extra fees per model or region✅ Built for agencies: manage multiple clients and markets in one account, mix models, regions and prompts per client, and cover far more ground on the same budget than tools that charge per model or regionWe want every team to understand its market before spending budget.So, if you could look it up right now, what's the first question you'd ask about your market? 🙌"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Does the product data include prices and availability, or mainly mentions and recommendations?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "AI can give different recommendations for the same question. How do you account for that variation?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "can I import the prompts I already track in another GEO tool?"
           },
           {
             "user": "[REDACTED]",
@@ -106,18 +118,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on 2.0 — starting from the market instead of your own mentions is the right call. As a solo dev in a pretty niche category, my first question would be how useful the market view is when the smaller players barely have any footprint yet. Do the answers still surface anything actionable for them, or does it mostly click once there's already a fair amount written about the space?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "looks cool!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Are the answers collected from the consumer versions of AI tools, their APIs, or a mix of both?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "How do you distinguish a passing brand mention from an actual product recommendation?"
           }
         ]
       },
@@ -145,7 +145,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 273,
+        "votes": 276,
         "websiteUrl": "https://www.producthunt.com/r/BTKDEK3DQ7EK3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -207,7 +207,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 213,
+        "votes": 216,
         "websiteUrl": "https://www.producthunt.com/r/VT6JRMB2LSBNQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -267,7 +267,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 156,
+        "votes": 157,
         "websiteUrl": "https://www.producthunt.com/r/AK5JMQTTDBGMD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -369,12 +369,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 126,
+        "votes": 130,
         "websiteUrl": "https://www.producthunt.com/r/QC2MD2OS3ZT23L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "At Appwrite, we're always looking for ways to make our team more productive. As we started using AI agents across engineering, customer support, and daily operations, we ran into a problem. Connecting our agents to different tools meant managing multiple MCP servers, credentials, and permissions across different AI clients.We wanted a simpler way to manage everything, so we built MCP1 for ourselves.What started as an internal tool quickly became an essential part of how we work, boosting our team's productivity by 10x.Today, we're excited to introduce MCP1 by Appwrite and make it available to everyone!The idea behind MCP1 is simple: One URL for every MCP server.With MCP1, you can connect all your MCP servers to AI clients like Claude Code, Cursor, ChatGPT, and Codex through a single URL. You can create personal or shared gateways, manage permissions and credentials securely, and monitor usage, all from one place.Instead of configuring servers separately for every AI client, you can set things up once and give your agents access to the tools they need.We built MCP1 entirely on Appwrite, and it's also part of a new series of satellite products we're building around Appwrite to help development teams become even more productive.MCP1 is free for individuals, with dedicated plans for teams and enterprises.You can get started at https://mcp1.comWe're proud of what we've built and excited to finally share it with the community. As always, your feedback is incredibly valuable to us, and we'll be around throughout the day to answer questions and hear what you think.We'd love to know how you're currently using MCP servers and what you'd like to see us build next!Thanks for your support! ❤️"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "with a shared gateway, can each teammate get different permissions per server, or is it one set for everyone?"
           },
           {
             "user": "[REDACTED]",
@@ -419,7 +423,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 122,
+        "votes": 124,
         "websiteUrl": "https://www.producthunt.com/r/CNDTGBVSQ4JX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -468,7 +472,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 111,
+        "votes": 114,
         "websiteUrl": "https://www.producthunt.com/r/DECOX5K4UP7P3G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -497,57 +501,60 @@
         "id": "ph-today-10",
         "date": "2026-11-09",
         "rank": 10,
-        "name": "Pawse.ai",
-        "slug": "pawse-ai-2",
-        "tagline": "Sound engineered for dogs, not humans",
-        "description": "Pawse.ai writes sound for your dog while it plays. Every session is shaped to how dogs hear. Choose Sleep, Home Alone, Loud Noise, Travel or Vet Visit. Tell it what your dog did and the next session adjusts. The Apple TV app keeps playing after you leave.",
-        "category": "Android • iOS • Pets",
-        "categoryFa": "اندروید • آی‌او‌اس • حیوانات خانگی",
-        "url": "https://www.producthunt.com/products/pawse-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/172025cd-bf42-44f8-bceb-9e7948da516c.png?auto=format",
+        "name": "Cardboard AI",
+        "slug": "cardboard-ai",
+        "tagline": "Best way to edit videos with AI",
+        "description": "Cardboard is an AI video editor that turns your raw clips into stories. Think of it as a creative collaborator that understands your footage, has taste to know what makes a great edit, and brings your vision to life.",
+        "category": "Marketing • Artificial Intelligence • Video",
+        "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
+        "url": "https://www.producthunt.com/products/cardboard-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/52a253ba-d221-434c-a12d-0e9144012643.png?auto=format",
         "screenshots": [
-          "https://ph-files.imgix.net/04f8a51c-4fda-4c6a-af2e-83792e44055d.png?auto=format",
-          "https://ph-files.imgix.net/acda4eb0-b51a-4f6f-9447-115da8cb355e.png?auto=format",
-          "https://ph-files.imgix.net/af7a4e4e-7d39-4c7e-8090-f6a77b297cbd.png?auto=format",
-          "https://ph-files.imgix.net/abf8739e-f182-4a8e-ad0d-a4403157499e.png?auto=format"
+          "https://ph-files.imgix.net/3a48c809-c8ee-449b-8bfa-24575fe007d3.jpeg?auto=format",
+          "https://ph-files.imgix.net/78d4535c-aa5f-4461-a39f-077be9e3ea7d.png?auto=format",
+          "https://ph-files.imgix.net/c0b9e882-7732-4573-815a-f102f56ea9ee.png?auto=format",
+          "https://ph-files.imgix.net/83f60a69-8055-4869-b066-24c909f3af45.png?auto=format",
+          "https://ph-files.imgix.net/77a590d9-faae-477f-971a-2fb15aef8742.png?auto=format",
+          "https://ph-files.imgix.net/e34bfa20-fb8e-4291-b5af-6794e1804a0e.png?auto=format",
+          "https://ph-files.imgix.net/49f9c657-7bf5-45ce-9928-219d7542f0da.png?auto=format"
         ],
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 101,
-        "websiteUrl": "https://www.producthunt.com/r/OJSJK4CTR4K5RL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "votes": 104,
+        "websiteUrl": "https://www.producthunt.com/r/CUFL5L7KXTX4V4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
-            "text": "Hello again, Product Hunt.We were here in May with a beta and a promise that Pawse.ai was coming to the App Store. It arrived in October for iPhone, iPad and Apple TV, and Android followed on Google Play on 21 October.Pawse.ai plays no recordings. My co-founder, Luis Magalhães, is a concert pianist, and he built it with no music in it. It writes the sound while it plays, for a dog's hearing rather than ours. No two sessions are the same.You pick one of five situations. Sleep, Home Alone, Loud Noise, Travel or Vet Visit. Afterwards you answer one question about what your dog did. The next session starts from your answer.The part we are proudest of is the Apple TV app. Your phone leaves the house in your pocket. The Apple TV stays behind with your dog and plays until the session ends.Pawse.ai is a wellness product, not a treatment, and we make no promise about any one dog. We would like to hear what you notice with yours.A Pawse.ai subscription costs $9.99 a month or $69.99 a year in the US. In the eurozone it costs €9.99 or €69.99. Yearly starts with a free month."
+            "text": "Hey Product Hunt, I'm Saksham, Co-Founder & CEO of Cardboard (Backed by Y Combinator).A few months ago, we launched Cardboard to make video editing as simple as describing what you want.Today, we're excited to bring Cardboard to your desktop :)Introducing Cardboard for Mac!We've always believed that making a video shouldn't mean spending hours learning editing software or manually cutting clips on a timeline.You should be able to upload your footage, describe the video you have in mind, and get a great edit in minutes.And that's exactly what you can do with cardboard.aiWith the new desktop app, you can now:- Edit videos for free: Get started with a free Lite plan, no credit card needed.- Bring your own AI agents: Connect your existing Claude or ChatGPT subscription to edit videos.- Keep your footage local: Your clips stay on your Mac instead of being uploaded to the cloud.- Edit faster: Less uploading and waiting, with footage processed locally.- Do more with video: Generate visuals, create motion graphics, and recreate edits from references.Cardboard is for you if you're a creator, marketer, engineer, founder, designer, product manager, educator, a small business owner, or work in a team who need video without learning the complex timeline.Would love for you to try the Mac app and tell us what you think!We'll be here in the comments all day. Ask us anything :)"
           },
           {
             "user": "[REDACTED]",
-            "text": "this is such a fun use of applied AI ! would be curious to see some sort of physiologic benchmarking at some point once enough data is collected (-:shoutout to henry for paving the way haha"
+            "text": "As someone building Mac apps, the local-footage + bring-your-own-Claude angle is what caught me — no upload wait and no extra AI subscription to manage. Curious how it holds up on longer footage locally on Apple Silicon, that's usually where desktop editors either shine or choke."
           },
           {
             "user": "[REDACTED]",
-            "text": "What are the sounds, are these specific frequencies?"
+            "text": "Now like a super vivid user of cardboard and have also recommended to my fellow creators."
           },
           {
             "user": "[REDACTED]",
-            "text": "It's a really fun idea! I'm going to try it with my dog, Eighteen, and see how the sessions change after I tell the app what Eighteen did. Hoping for a calm, sleepy pup by the end of the week. @pawseai_luis congrats on the launch!"
+            "text": "Cardboard is one of the veryyy few delta 4 products I keep boasting about in my circle. Hardcore fan of the team and what they have achieved so far. If you haven't already, this is one of those gems thats bound to make your visual storytelling at least 10x better. Cant wait for whats next. Great launch!"
           },
           {
             "user": "[REDACTED]",
-            "text": "Does each dog get its own profile? Would be interesting to see how you handle two dogs reacting differently to the same session."
+            "text": "have been using for a month or so now, habitual to prompting it out and letting cardboard do the magic :)"
           },
           {
             "user": "[REDACTED]",
-            "text": "Can you choose how long a session runs? Especially curious about the Home Alone option"
+            "text": "AI agents combined with local processing is an interesting technical direction. Would love to know more about the architecture"
           },
           {
             "user": "[REDACTED]",
-            "text": "The Apple TV detail addresses a practical problem: the owner's phone leaves the house. Keeping the session at home, with a simple observation to carry into the next one, is a thoughtful product choice."
+            "text": "Local processing plus Ai powered editing is a combination worth exploring. Congrats on shipping!"
           },
           {
             "user": "[REDACTED]",
-            "text": "This is a brilliant idea. I wish people would be aware of this (especially during the NY when they use fireworks)."
+            "text": "keeping the footage on the mac removes a pretty annoying upload stepusing an existing ai subscription is a useful option too"
           }
         ]
       }
@@ -573,7 +580,7 @@
         "maker": "Mike Ciesielka",
         "makerTitle": "just dabblin'",
         "featuredAt": "2026-11-09T08:00:00Z",
-        "votes": 354,
+        "votes": 361,
         "websiteUrl": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1131,7 +1138,7 @@
         "maker": "Yang Zhang",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 488,
+        "votes": 489,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1439,7 +1446,7 @@
         "maker": "Mike Ciesielka",
         "makerTitle": "just dabblin'",
         "featuredAt": "2026-11-09T08:00:00Z",
-        "votes": 354,
+        "votes": 361,
         "websiteUrl": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1562,12 +1569,24 @@
         "maker": "Tim Lin",
         "makerTitle": "Building an AI visibility platform",
         "featuredAt": "2026-11-09T08:01:00Z",
-        "votes": 306,
+        "votes": 326,
         "websiteUrl": "https://www.producthunt.com/r/ZUTLEQZYV5KE47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm Tim from Dageno.More buyers now skip search and ask ChatGPT or Gemini what to buy. Yet most GEO/AEO tools start with one question: \"Does AI mention your website?\"We think that's backwards. Before deciding what to track, you should understand the market: who AI recommends, what buyers ask, and which sources AI cites.So Dageno now brings market research and AI visibility tracking into one workflow, so you can see exactly what to optimize:Start with any brand or product, no website connection neededSee how you and competitors show up together in AI answersSee which needs and selling points AI ties to each brandVerify every finding against the raw AI answers and cited pagesAfter you act, keep tracking key questions across models and markets. MCP and API are available to plug Dageno into your own workflow.Three things we care about:✅ Public market lookups are free forever✅ From Starter, use 10 AI models and 86 countries and regions, with no extra fees per model or region✅ Built for agencies: manage multiple clients and markets in one account, mix models, regions and prompts per client, and cover far more ground on the same budget than tools that charge per model or regionWe want every team to understand its market before spending budget.So, if you could look it up right now, what's the first question you'd ask about your market? 🙌"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Does the product data include prices and availability, or mainly mentions and recommendations?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "AI can give different recommendations for the same question. How do you account for that variation?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "can I import the prompts I already track in another GEO tool?"
           },
           {
             "user": "[REDACTED]",
@@ -1584,18 +1603,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on 2.0 — starting from the market instead of your own mentions is the right call. As a solo dev in a pretty niche category, my first question would be how useful the market view is when the smaller players barely have any footprint yet. Do the answers still surface anything actionable for them, or does it mostly click once there's already a fair amount written about the space?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "looks cool!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Are the answers collected from the consumer versions of AI tools, their APIs, or a mix of both?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "How do you distinguish a passing brand mention from an actual product recommendation?"
           }
         ]
       },
@@ -1922,7 +1929,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 488,
+        "votes": 489,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {

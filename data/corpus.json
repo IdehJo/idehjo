@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:52:07.023Z",
+  "generatedAt": "2026-11-10T04:22:06.537Z",
   "sourceFiles": 92,
   "products": [
     {
@@ -7551,7 +7551,7 @@
       "maker": "Yang Zhang",
       "makerTitle": "",
       "featuredAt": "2026-11-04T08:01:00Z",
-      "votes": 488,
+      "votes": 489,
       "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -17652,6 +17652,63 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-09",
+      "rank": 1,
+      "name": "Product Hunt MCP",
+      "slug": "product-hunt-mcp-2",
+      "tagline": "The community you trust in the assistant you use",
+      "description": "Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/7e8c0c91-51aa-4441-bcaa-dfad34787fb1/9dbc04d19f5195be11f9818e9d068cbcb267b7aae9854024ac330e8c57b70251.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/673a6a7f-1198-4515-ba8c-62130aea7996/2016dea2c64df34f065f06717673d0745d5ef518440fc9785b91c60fd3f97390.png?auto=format"
+      ],
+      "maker": "Mike Ciesielka",
+      "makerTitle": "just dabblin'",
+      "featuredAt": "2026-11-09T08:00:00Z",
+      "votes": 361,
+      "websiteUrl": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey folks,You already ask your AI assistant which tools to use. Now it can do that research using Product Hunt. Describe what you need, compare alternatives, and see what people like or dislike. Community reviews, ratings, and maker details give you more to go on than a product description alone.Try asking:Find tools for turning meeting notes into tasks.Find alternatives to Notion and compare their Product Hunt reviews.What were the top products on Product Hunt last month?Building something of your own? Ask your assistant to draft a launch from your README and website. It can help with copy, images, and missing details to craft the best version of your launch.We want Product Hunt to be useful wherever you're discovering and researching products. And we want sharing what you've built to be just as easy, so there's more for everyone to discover.Install instructions are here. Give it a try and tell us how it goes. What could we improve to make it more useful for you?(P.S. You can send feedback without leaving your chat. Ask your assistant to use the submit_feedback tool to tell us what worked, what didn't, or what you'd love to see next. We'd love to hear from you!)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Product Hunt helping you prepare for your Product Hunt launch. Very meta 😂 Love the idea of catching missing details before hitting submit."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Glad that @Manufact (mcp-use) helped you make sure that your MCP is high-quality!All the checks are here: https://manufact.com/leaderboard/product-hunt"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the use case I've actually been wanting — I already ask my assistant which tools to use, but it's been working from marketing copy. Comparing alternatives using real community reviews and ratings, and seeing what people liked or disliked, is a much better starting point. The launch-draft angle is interesting too — turning a README into a draft and flagging what's missing before submitting is something I'd try before my next launch. Curious how it handles 'what were the top products last month' — does it weight recent launches differently than older, well-reviewed ones?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I’m so excited to launch this. We’ve been using a version of this internally for a while, and it’s become a key way that I interact with Product Hunt. Whether you’re a builder, or an operator looking for the best new tools, or an early stage investor looking for startups to fund, or just looking for inspiration, give it a try and let us know what you think"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This works great, saved me multiple copy paste from my Agent as we gear up to launch. Are you also planning to add support for comments and replies via MCP?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How do this work for hunters who want to post products on other makers' behalves?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "just tested it out! really great and legit way to polish the launch, looove it!"
+        }
+      ]
+    },
+    {
       "id": "ph-week-9",
       "date": "2026-09-12",
       "rank": 9,
@@ -18580,63 +18637,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-11-09",
-      "rank": 1,
-      "name": "Product Hunt MCP",
-      "slug": "product-hunt-mcp-2",
-      "tagline": "The community you trust in the assistant you use",
-      "description": "Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/7e8c0c91-51aa-4441-bcaa-dfad34787fb1/9dbc04d19f5195be11f9818e9d068cbcb267b7aae9854024ac330e8c57b70251.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/673a6a7f-1198-4515-ba8c-62130aea7996/2016dea2c64df34f065f06717673d0745d5ef518440fc9785b91c60fd3f97390.png?auto=format"
-      ],
-      "maker": "Mike Ciesielka",
-      "makerTitle": "just dabblin'",
-      "featuredAt": "2026-11-09T08:00:00Z",
-      "votes": 354,
-      "websiteUrl": "https://www.producthunt.com/r/ERQDTXX2HLG67G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey folks,You already ask your AI assistant which tools to use. Now it can do that research using Product Hunt. Describe what you need, compare alternatives, and see what people like or dislike. Community reviews, ratings, and maker details give you more to go on than a product description alone.Try asking:Find tools for turning meeting notes into tasks.Find alternatives to Notion and compare their Product Hunt reviews.What were the top products on Product Hunt last month?Building something of your own? Ask your assistant to draft a launch from your README and website. It can help with copy, images, and missing details to craft the best version of your launch.We want Product Hunt to be useful wherever you're discovering and researching products. And we want sharing what you've built to be just as easy, so there's more for everyone to discover.Install instructions are here. Give it a try and tell us how it goes. What could we improve to make it more useful for you?(P.S. You can send feedback without leaving your chat. Ask your assistant to use the submit_feedback tool to tell us what worked, what didn't, or what you'd love to see next. We'd love to hear from you!)"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Product Hunt helping you prepare for your Product Hunt launch. Very meta 😂 Love the idea of catching missing details before hitting submit."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Glad that @Manufact (mcp-use) helped you make sure that your MCP is high-quality!All the checks are here: https://manufact.com/leaderboard/product-hunt"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the use case I've actually been wanting — I already ask my assistant which tools to use, but it's been working from marketing copy. Comparing alternatives using real community reviews and ratings, and seeing what people liked or disliked, is a much better starting point. The launch-draft angle is interesting too — turning a README into a draft and flagging what's missing before submitting is something I'd try before my next launch. Curious how it handles 'what were the top products last month' — does it weight recent launches differently than older, well-reviewed ones?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I’m so excited to launch this. We’ve been using a version of this internally for a while, and it’s become a key way that I interact with Product Hunt. Whether you’re a builder, or an operator looking for the best new tools, or an early stage investor looking for startups to fund, or just looking for inspiration, give it a try and let us know what you think"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This works great, saved me multiple copy paste from my Agent as we gear up to launch. Are you also planning to add support for comments and replies via MCP?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do this work for hunters who want to post products on other makers' behalves?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "just tested it out! really great and legit way to polish the launch, looove it!"
-        }
-      ]
     },
     {
       "id": "ph-week-4",
@@ -22215,6 +22215,67 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-11-09",
+      "rank": 2,
+      "name": "Dageno AI 2.0",
+      "slug": "dageno-ai-2-0",
+      "tagline": "See why AI recommends your competitors instead of you",
+      "description": "AI is now choosing brands for your customers. Dageno AI is an AEO/GEO platform that shows whether ChatGPT, Gemini, Perplexity and 7 more AI models recommend you or your competitors, and which sources drive those answers. Look up any market for free, forever: see top brands, buyer questions and cited sources across 12,000+ niche markets and 3M+ brands. Upgrade only when you need to track your own prompts. Built for brands and agencies.",
+      "category": "Marketing • SEO • Search",
+      "categoryFa": "بازاریابی • سئو • Search",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b13af53b-4eb5-452d-8528-2e2622c60a7e.png?auto=format",
+        "https://ph-files.imgix.net/7d278062-9bea-40b3-b043-90f3cfcb64ff.png?auto=format",
+        "https://ph-files.imgix.net/02e66f2a-f207-45b1-be52-2b289fde2c6b.png?auto=format",
+        "https://ph-files.imgix.net/056ad1b4-530b-435c-9315-7104d01f4371.png?auto=format",
+        "https://ph-files.imgix.net/a1f90599-0a88-48d5-b674-700cad3f180c.png?auto=format",
+        "https://ph-files.imgix.net/e8e4daa1-b9ed-419e-b96d-c1f049c1af15.png?auto=format",
+        "https://ph-files.imgix.net/3625a76d-bd76-4490-925c-b1cdf8752273.jpeg?auto=format"
+      ],
+      "maker": "Tim Lin",
+      "makerTitle": "Building an AI visibility platform",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 326,
+      "websiteUrl": "https://www.producthunt.com/r/ZUTLEQZYV5KE47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Tim from Dageno.More buyers now skip search and ask ChatGPT or Gemini what to buy. Yet most GEO/AEO tools start with one question: \"Does AI mention your website?\"We think that's backwards. Before deciding what to track, you should understand the market: who AI recommends, what buyers ask, and which sources AI cites.So Dageno now brings market research and AI visibility tracking into one workflow, so you can see exactly what to optimize:Start with any brand or product, no website connection neededSee how you and competitors show up together in AI answersSee which needs and selling points AI ties to each brandVerify every finding against the raw AI answers and cited pagesAfter you act, keep tracking key questions across models and markets. MCP and API are available to plug Dageno into your own workflow.Three things we care about:✅ Public market lookups are free forever✅ From Starter, use 10 AI models and 86 countries and regions, with no extra fees per model or region✅ Built for agencies: manage multiple clients and markets in one account, mix models, regions and prompts per client, and cover far more ground on the same budget than tools that charge per model or regionWe want every team to understand its market before spending budget.So, if you could look it up right now, what's the first question you'd ask about your market? 🙌"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the product data include prices and availability, or mainly mentions and recommendations?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "AI can give different recommendations for the same question. How do you account for that variation?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can I import the prompts I already track in another GEO tool?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What I find compelling here is the shift in AI role moving beyond mere observation toward taking actionable steps based on the insights gained. While it is certainly important to understand why ChatGPT recommends specific competitors, the real opportunity lies in leveraging those insights to drive tangible, visible improvements."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I really like this combination of market intelligence and actionable, agent driven steps. Most tools simply highlight what is happening, however, helping a team understand exactly what needs to be addressed and facilitating action accordingly is a far more effective approach. I look forward to seeing how this evolves further!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Getting error Invalid domain."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on 2.0 — starting from the market instead of your own mentions is the right call. As a solo dev in a pretty niche category, my first question would be how useful the market view is when the smaller players barely have any footprint yet. Do the answers still surface anything actionable for them, or does it mostly click once there's already a fair amount written about the space?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-9",
       "date": "2026-10-27",
       "rank": 9,
@@ -25452,67 +25513,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-09",
-      "rank": 2,
-      "name": "Dageno AI 2.0",
-      "slug": "dageno-ai-2-0",
-      "tagline": "See why AI recommends your competitors instead of you",
-      "description": "AI is now choosing brands for your customers. Dageno AI is an AEO/GEO platform that shows whether ChatGPT, Gemini, Perplexity and 7 more AI models recommend you or your competitors, and which sources drive those answers. Look up any market for free, forever: see top brands, buyer questions and cited sources across 12,000+ niche markets and 3M+ brands. Upgrade only when you need to track your own prompts. Built for brands and agencies.",
-      "category": "Marketing • SEO • Search",
-      "categoryFa": "بازاریابی • سئو • Search",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b13af53b-4eb5-452d-8528-2e2622c60a7e.png?auto=format",
-        "https://ph-files.imgix.net/7d278062-9bea-40b3-b043-90f3cfcb64ff.png?auto=format",
-        "https://ph-files.imgix.net/02e66f2a-f207-45b1-be52-2b289fde2c6b.png?auto=format",
-        "https://ph-files.imgix.net/056ad1b4-530b-435c-9315-7104d01f4371.png?auto=format",
-        "https://ph-files.imgix.net/a1f90599-0a88-48d5-b674-700cad3f180c.png?auto=format",
-        "https://ph-files.imgix.net/e8e4daa1-b9ed-419e-b96d-c1f049c1af15.png?auto=format",
-        "https://ph-files.imgix.net/3625a76d-bd76-4490-925c-b1cdf8752273.jpeg?auto=format"
-      ],
-      "maker": "Tim Lin",
-      "makerTitle": "Building an AI visibility platform",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 306,
-      "websiteUrl": "https://www.producthunt.com/r/ZUTLEQZYV5KE47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Tim from Dageno.More buyers now skip search and ask ChatGPT or Gemini what to buy. Yet most GEO/AEO tools start with one question: \"Does AI mention your website?\"We think that's backwards. Before deciding what to track, you should understand the market: who AI recommends, what buyers ask, and which sources AI cites.So Dageno now brings market research and AI visibility tracking into one workflow, so you can see exactly what to optimize:Start with any brand or product, no website connection neededSee how you and competitors show up together in AI answersSee which needs and selling points AI ties to each brandVerify every finding against the raw AI answers and cited pagesAfter you act, keep tracking key questions across models and markets. MCP and API are available to plug Dageno into your own workflow.Three things we care about:✅ Public market lookups are free forever✅ From Starter, use 10 AI models and 86 countries and regions, with no extra fees per model or region✅ Built for agencies: manage multiple clients and markets in one account, mix models, regions and prompts per client, and cover far more ground on the same budget than tools that charge per model or regionWe want every team to understand its market before spending budget.So, if you could look it up right now, what's the first question you'd ask about your market? 🙌"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What I find compelling here is the shift in AI role moving beyond mere observation toward taking actionable steps based on the insights gained. While it is certainly important to understand why ChatGPT recommends specific competitors, the real opportunity lies in leveraging those insights to drive tangible, visible improvements."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I really like this combination of market intelligence and actionable, agent driven steps. Most tools simply highlight what is happening, however, helping a team understand exactly what needs to be addressed and facilitating action accordingly is a far more effective approach. I look forward to seeing how this evolves further!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Getting error Invalid domain."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on 2.0 — starting from the market instead of your own mentions is the right call. As a solo dev in a pretty niche category, my first question would be how useful the market view is when the smaller players barely have any footprint yet. Do the answers still surface anything actionable for them, or does it mostly click once there's already a fair amount written about the space?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks cool!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Are the answers collected from the consumer versions of AI tools, their APIs, or a mix of both?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How do you distinguish a passing brand mention from an actual product recommendation?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -30468,6 +30468,67 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-11-09",
+      "rank": 3,
+      "name": "Databox CLI",
+      "slug": "databox-cli",
+      "tagline": "Your agentic analytics platform in the terminal",
+      "description": "Create data sources, load data, build metrics, and automate workflows directly from your terminal. Use 90+ commands yourself, or let AI coding agents like Claude Code, Cursor, and Codex do the work with 10 ready-to-use agent skills.",
+      "category": "Productivity • SaaS • Developer Tools • GitHub",
+      "categoryFa": "بهره‌وری • نرم‌افزار ابری • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c1874969-e8a2-4537-a44a-633e4f433722.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c12420a9-d710-49fd-8fe1-d4259b157cf9.png?auto=format",
+        "https://ph-files.imgix.net/cbce67ff-5770-4382-94f7-1763fafafcb8.png?auto=format",
+        "https://ph-files.imgix.net/050ec36e-1b8c-468c-b5bc-c9ae32c07db4.png?auto=format",
+        "https://ph-files.imgix.net/4a699b07-654c-4ddb-9711-4e6f92a68e5e.png?auto=format",
+        "https://ph-files.imgix.net/6821077b-c6de-4986-967b-846197561137.png?auto=format",
+        "https://ph-files.imgix.net/7e8a8b2e-c7a3-4cb4-95a5-70313a1fa467.png?auto=format",
+        "https://ph-files.imgix.net/c50d30d8-8c7a-4d11-b1a4-b31b9af4060a.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 276,
+      "websiteUrl": "https://www.producthunt.com/r/BTKDEK3DQ7EK3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! 👋I’m Tadej from Databox. Today we’re launching Databox CLI, bringing Databox directly into your terminal. For most people, Databox lives in a browser tab. You log in, check dashboards, and manage your analytics in the app. Meanwhile, teams increasingly use scripts, data pipelines, CI jobs, and AI coding agents to move data between systems, configure tools, and automate repetitive tasks.Until now, bringing Databox into those workflows meant working directly with our API, writing and maintaining custom code, handling authentication, retries, and errors, and checking that everything worked as expected.This is exactly the kind of friction we want to remove as part of our broader vision to open up the Databox platform, making it easier for people and AI agents to work with Databox through the tools they already use.That's why we built Databox CLI. It brings the capabilities of our public API directly into your terminal, so you can build dashboards and metrics, manage your data, and automate repetitive tasks in Databox using simple commands. Here’s what you can do with it:Create datasets with defined schemas: set column types and primary keys, and validate records before they’re ingested. Bring in data from anywhere: Load JSON data from files, scripts, or directly from pipelines. For example: curl -s https://api.internal/export | databox dataset ingest DATASET_IDVerify every ingestion: Confirm that your data arrived successfully and see exactly what went wrong if it didn't.Build metrics: Create metrics on top of your datasets and trace where the data comes from.Manage your Databox account: Work with users, permissions, databoards, and connections.That's 91 commands across 14 areas, with a 1:1 match to the Databox public API.And you can let AI coding agents do the work for you, too.Databox CLI comes with 10 ready-to-use agent skills for Claude Code, Cursor, Codex, and other compatible coding agents. You can ask your agent to set up a dataset, load data, verify the results, and build metrics, and it can execute those steps for you.We've also built in safeguards for reliable automation. Commands support structured JSON output with --json, clear exit codes, and errors that explain what went wrong. Idempotency keys make retries safe, and destructive actions require an explicit --force flag.Want to try it?Getting started takes three commands:npm install -g databox-clidatabox auth logindatabox account listTo add the agent skills: npx skills add databox/databox-cli --skill '*'Databox CLI is available on all Databox plans and is open source under the MIT license.: github.com/databox/databox-cli, available as a node npm package https://www.npmjs.com/package/databox-cli. I’ll be here in the comments all day. I'd love to hear what you'd build or automate with Databox CLI. Share your use case, and I'll help you figure out the commands to make it happen. 🙏"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This fits how I actually work — most of my data starts in a script, not a dashboard, so piping JSON straight into a dataset from a nightly job is the part that caught me. That's the first thing I'd hand over to it. With 91 commands mirroring the API, do the agent skills end up being how most people actually use it day to day, or do you still find yourself reaching for the commands directly?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I genuinely found this useful! I like how it makes tracking data and getting meaningful insights feel a lot less complicated. Definitely something I can see myself using to make better, more informed decisions. Great find! All the best @grega_cej"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When you envision the ultimate user for this product. What does he/he use it for, and how does he/she use it? What problem do they have, and how does this solve it and what does the outcome look like? Trying to understand it a bit more. Thanks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "gotta share this with my builder friends asap"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The question I get most on calls with technical buyers is 'can we automate this?' Until now the answer was 'yes, through the API, if you write the code.' Now it's one npm install. For teams that live in the terminal or already use AI coding agents, that's a much shorter path from demo to a working setup."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Worth flagging for anyone who tried the earlier version that 1.0 is a big jump. It now runs on the Databox V2 API, covers 91 commands instead of 18, and ships with 10 agent skills instead of 5. If you have scripts on the old version, the changelog lists every renamed command and flag."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "From a customer side, what matters is that it's safe to hand to an agent. Destructive commands like delete and purge need an explicit confirmation or a --force flag, and errors come back with clear messages. Teams can let an agent manage their setup without worrying it will wipe a dataset by accident."
+        }
+      ]
+    },
+    {
       "id": "ph-today-4",
       "date": "2026-08-11",
       "rank": 4,
@@ -30803,67 +30864,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-11-09",
-      "rank": 3,
-      "name": "Databox CLI",
-      "slug": "databox-cli",
-      "tagline": "Your agentic analytics platform in the terminal",
-      "description": "Create data sources, load data, build metrics, and automate workflows directly from your terminal. Use 90+ commands yourself, or let AI coding agents like Claude Code, Cursor, and Codex do the work with 10 ready-to-use agent skills.",
-      "category": "Productivity • SaaS • Developer Tools • GitHub",
-      "categoryFa": "بهره‌وری • نرم‌افزار ابری • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c1874969-e8a2-4537-a44a-633e4f433722.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c12420a9-d710-49fd-8fe1-d4259b157cf9.png?auto=format",
-        "https://ph-files.imgix.net/cbce67ff-5770-4382-94f7-1763fafafcb8.png?auto=format",
-        "https://ph-files.imgix.net/050ec36e-1b8c-468c-b5bc-c9ae32c07db4.png?auto=format",
-        "https://ph-files.imgix.net/4a699b07-654c-4ddb-9711-4e6f92a68e5e.png?auto=format",
-        "https://ph-files.imgix.net/6821077b-c6de-4986-967b-846197561137.png?auto=format",
-        "https://ph-files.imgix.net/7e8a8b2e-c7a3-4cb4-95a5-70313a1fa467.png?auto=format",
-        "https://ph-files.imgix.net/c50d30d8-8c7a-4d11-b1a4-b31b9af4060a.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 273,
-      "websiteUrl": "https://www.producthunt.com/r/BTKDEK3DQ7EK3M?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! 👋I’m Tadej from Databox. Today we’re launching Databox CLI, bringing Databox directly into your terminal. For most people, Databox lives in a browser tab. You log in, check dashboards, and manage your analytics in the app. Meanwhile, teams increasingly use scripts, data pipelines, CI jobs, and AI coding agents to move data between systems, configure tools, and automate repetitive tasks.Until now, bringing Databox into those workflows meant working directly with our API, writing and maintaining custom code, handling authentication, retries, and errors, and checking that everything worked as expected.This is exactly the kind of friction we want to remove as part of our broader vision to open up the Databox platform, making it easier for people and AI agents to work with Databox through the tools they already use.That's why we built Databox CLI. It brings the capabilities of our public API directly into your terminal, so you can build dashboards and metrics, manage your data, and automate repetitive tasks in Databox using simple commands. Here’s what you can do with it:Create datasets with defined schemas: set column types and primary keys, and validate records before they’re ingested. Bring in data from anywhere: Load JSON data from files, scripts, or directly from pipelines. For example: curl -s https://api.internal/export | databox dataset ingest DATASET_IDVerify every ingestion: Confirm that your data arrived successfully and see exactly what went wrong if it didn't.Build metrics: Create metrics on top of your datasets and trace where the data comes from.Manage your Databox account: Work with users, permissions, databoards, and connections.That's 91 commands across 14 areas, with a 1:1 match to the Databox public API.And you can let AI coding agents do the work for you, too.Databox CLI comes with 10 ready-to-use agent skills for Claude Code, Cursor, Codex, and other compatible coding agents. You can ask your agent to set up a dataset, load data, verify the results, and build metrics, and it can execute those steps for you.We've also built in safeguards for reliable automation. Commands support structured JSON output with --json, clear exit codes, and errors that explain what went wrong. Idempotency keys make retries safe, and destructive actions require an explicit --force flag.Want to try it?Getting started takes three commands:npm install -g databox-clidatabox auth logindatabox account listTo add the agent skills: npx skills add databox/databox-cli --skill '*'Databox CLI is available on all Databox plans and is open source under the MIT license.: github.com/databox/databox-cli, available as a node npm package https://www.npmjs.com/package/databox-cli. I’ll be here in the comments all day. I'd love to hear what you'd build or automate with Databox CLI. Share your use case, and I'll help you figure out the commands to make it happen. 🙏"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This fits how I actually work — most of my data starts in a script, not a dashboard, so piping JSON straight into a dataset from a nightly job is the part that caught me. That's the first thing I'd hand over to it. With 91 commands mirroring the API, do the agent skills end up being how most people actually use it day to day, or do you still find yourself reaching for the commands directly?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I genuinely found this useful! I like how it makes tracking data and getting meaningful insights feel a lot less complicated. Definitely something I can see myself using to make better, more informed decisions. Great find! All the best @grega_cej"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When you envision the ultimate user for this product. What does he/he use it for, and how does he/she use it? What problem do they have, and how does this solve it and what does the outcome look like? Trying to understand it a bit more. Thanks"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "gotta share this with my builder friends asap"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The question I get most on calls with technical buyers is 'can we automate this?' Until now the answer was 'yes, through the API, if you write the code.' Now it's one npm install. For teams that live in the terminal or already use AI coding agents, that's a much shorter path from demo to a working setup."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Worth flagging for anyone who tried the earlier version that 1.0 is a big jump. It now runs on the Databox V2 API, covers 91 commands instead of 18, and ships with 10 agent skills instead of 5. If you have scripts on the old version, the changelog lists every renamed command and flag."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "From a customer side, what matters is that it's safe to hand to an agent. Destructive commands like delete and purge need an explicit confirmation or a --force flag, and errors come back with clear messages. Teams can let an agent manage their setup without worrying it will wipe a dataset by accident."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -39503,7 +39503,67 @@
           "user": "[REDACTED]",
           "text": "Love that the agents live natively inside the recording workflow and nothing gets published until you approve it, a thoughtful take on keeping humans in control."
         }
-      ]
+      ],
+      "faDescription": "محصول «ایپجنت‌های ریورساید» تیمی از ایجنت‌های هوش مصنوعی است که به طور اختصاصی برای ساخت و مدیریت ویدیو طراحی شده‌اند. در این سیستم، یک ایجنت تهیه‌کننده جلسات ضبط شما را آماده می‌کند، ادیتور فایل‌های خام را به یک اپیزود نهایی و حرفه‌ای تبدیل می‌نماید، بخش برش‌دهنده (کلیپر) بهترین لحظات را برای شبکه‌های اجتماعی جدا می‌سازد و ایجنت بازاریاب کپشن‌ها را نوشته و زمان‌بندی انتشار را انجام می‌دهد. شما میزان اتوماسیون فرآیندها را تعیین می‌کنید و هیچ محتوایی بدون تأیید نهایی شما منتشر نخواهد شد. این قابلیت در تمام طرح‌های پرداختی ریورساید گنجانده شده و دارای ۱۴ روز مهلت تست رایگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ایجنت‌های ریورساید تیمی از ایجنت‌های هوش مصنوعی اختصاصی برای ویدیو هستند که داخل ابزارهای ریورساید برای ضبط ویدیوهای گفتگو محور و سخنگو کار می‌کنند. مسئله: ساخت ویدیو فراتر از ضبط نیازمند کارهای زیادی است: آماده‌سازی جلسه، ویرایش، برش، کپشن‌نویسی و انتشار. به گفته ریورساید، این کارها قبلاً بر عهده یک نفر بود و ابزارهای عمومی هوش مصنوعی برای آن ساخته نشده‌اند. راه‌حل: ریورساید این کار را بین چهار ایجنت تقسیم می‌کند: تهیه‌کننده که جلسه را آماده می‌کند (مثل پیشنهاد سوالات مهمان)، ادیتور که فایل خام را به اپیزود نهایی تبدیل کرده، ریتم را تنظیم، صدا را پاکسازی و گرافیک متحرک پیشنهاد می‌دهد، کلیپر که بهترین لحظات را جدا می‌کند و بازاریاب که کپشن می‌نویسد و پست‌ها را زمان‌بندی می‌کند. وجه تمایز: این ایجنت‌ها مستقیماً درون ریورساید کار می‌کنند نه در یک چت‌بات مجزا. پس از ضبط، آن‌ها به صورت فعال پیشنهاد می‌دهند و می‌توانید تغییرات را با زبان ساده بخواهید. شما میزان اتوماسیون را انتخاب می‌کنید و هیچ چیز بدون تأیید شما منتشر نمی‌شود. ویژگی‌های کلیدی: حذف مکث‌ها و کلمات اضافی، ساخت برش‌های اولیه، افزودن برندینگ و زیرنویس، ساخت کلیپ از بهترین لحظات، پیش‌نویس کپشن و خبرنامه، زمان‌بندی پست‌ها، ساخت صفحه وبینار و دعوت‌نامه، بررسی و ویرایش کلیپ‌ها از طریق گوشی و تأیید قبل از انتشار. مخاطبان: پادکست‌سازان، کریتورها و تیم‌هایی که ویدیوهای گفتگو محور می‌سازند. ارزش دانستن: در همه طرح‌ها موجود است (با ۱۴ روز تست رایگان) و ویژگی‌های نیازمند اعتبار هوش مصنوعی همچنان اعتبار مصرف می‌کنند. این ایجنت‌ها فقط مخصوص ویدیو هستند. امتحانش کنید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من از ریورساید استفاده می‌کردم و بی‌صبرانه منتظرم این قابلیت جدید را امتحان کنم. کارتان عالی بود بچه‌ها!"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بخش ایجنت تهیه‌کننده (Producer) برای من خیلی برجسته است؛ اکثر ابزارهای مشابه فقط بعد از زدن دکمه ضبط کمک می‌کنند، اما پیشنهاد سوالات مهمان و کمک به اجرای جلسه، کمک را به قبل از شروع ضبط می‌برد. این دقیقاً همان جایی است که برد یا باخت یک اپیزود خوب مشخص می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت عرضه محصول. وقتی ایجنت بازاریاب یک کلیپ را زمان‌بندی می‌کند، آیا آن را برای هر پلتفرم تطبیق می‌دهد؟ ما خودمان با این مشکل مواجه شدیم: لینکدین ویدیو را به عنوان شورتس نمی‌پذیرد و فقط پست معمولی می‌خواهد، و یوتیوب نیازمند عنوان و تگ است. آیا ایجنت این قوانین را می‌داند یا باید یک‌بار برای هر کانال تنظیم کنیم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "دروازه تأیید قبل از انتشار منطقی است، اما من بیشتر در مورد تشخیص «بهترین لحظه» توسط ایجنت کلیپر کنجکاوم. الگوریتم‌های ویروسی شدن کلیپ‌ها معمولاً به سمت بخش‌های پرانرژی عمومی تمایل دارند که ممکن است یک جمله را از کانتکست خارج کرده و معنای آن را تغییر دهد. آیا کلیپر از کلیپ‌های پیشنهادی که رد می‌کنید یاد می‌گیرد، یا هر جلسه از یک مدل پایه بدون حافظه از ادیت‌های قبلی شروع می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "از زمانی که این قابلیت را منتشر کردند، من تیم تولید پادکستم را اخراج کردم و همه چیز را صفر تا صد اتوماتیک کردم. این کار ماهانه ۱۴۰۰ دلار برایم صرفه‌جویی دارد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "فوق‌العاده چشمگیر و شگفت‌انگیز!!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "اینکه ایجنت‌ها به صورت نیتیو درون جریان کاری ضبط قرار دارند و هیچ چیز تا زمانی که تأیید نکنید منتشر نمی‌شود را دوست دارم؛ رویکردی هوشمندانه برای حفظ کنترل در دست انسان."
+        }
+      ],
+      "aiReview": "**مسئله و راه‌حل:** فرآیند ساخت ویدیو و پادکست فقط محدود به زمان ضبط نیست؛ مراحل آماده‌سازی، تدوین، استخراج کلیپ‌های کوتاه، زیرنویس و انتشار، وقت و هزینه بسیار زیادی از تولیدکنندگان می‌گیرد. Riverside Agents با ارائه ۴ ایجنت تخصصی (تهیه‌کننده، ادیتور، کلیپر و بازاریاب) تمام این چرخه را در یک محیط یکپارچه اتوماتیک کرده است.\n\n**معماری و تکنولوژی:** این محصول به صورت نیتیو روی پلتفرم ضبط Riverside پیاده‌سازی شده و برخلاف ابزارهای چت عمومی، عمیقاً با جریان کاری ویدیو ادغام شده است. استفاده از مدل‌های متعدد پردازش صوت و تصویر برای حذف کلمات اضافه، بهبود صدا و برش هوشمند مبتنی بر لحن، بخش فنی اصلی آن است.\n\n**مدل درآمدی:** این قابلیت درون تمام پلن‌های اشتراکی ریورساید گنجانده شده و با مدل اعتباری (AI Credits) برای پردازش‌های سنگین‌تر پشتیبانی می‌شود، همراه با ۱۴ روز تست رایگان برای جذب کاربر.\n\n**نقاط قوت:**\n- پوشش مرحله قبل از ضبط (سناریو و سوالات) که در کمتر ابزاری دیده می‌شود.\n- ساختار حفظ کنترل انسان (Human-in-the-loop) با شرط تأیید قبل از انتشار.\n- کاهش محسوس هزینه‌های مالی و زمانی تیم‌های تولید محتوا.\n\n**نقاط ضعف:**\n- عدم اطمینان از میزان حافظه و یادگیری مدل از ویرایش‌های قبلی کاربر.\n- چالش‌های احتمالی در تطبیق فرمت ابعادی و قوانین پلتفرم‌های مختلف در بخش بازاریاب.\n\n**نکته طلایی برای بازار ایران:** نمونه ایرانی این محصول می‌تواند با تمرکز ویژه روی مدل‌های تبدیل گفتار به متن فارسی (Speech-to-Text) و ساخت کلیپ‌های عمودی (Shorts/Reels) همراه با زیرنویس‌های جذاب فارسی، بازار بزرگ پادکسترها و مدرسان آنلاین ایرانی را که توان مالی استخدام تدوین‌گر ندارند کاملاً به دست آورد.",
+      "iranEquivalent": {
+        "productName": "استودیو هوشمند موج",
+        "description": "پلتفرم جامع تولید و ویرایش هوشمند ویدیو و پادکست‌های فارسی که از مرحله سناریونویسی تا انتشار همراه سازنده است. این سیستم با چهار دستیار هوش مصنوعی، عملیات آماده‌سازی مصاحبه، تدوین خودکار ویدیو، استخراج کات‌های داغ و کپشن‌نویسی را انجام می‌دهد. تمامی خروجی‌ها پیش از انتشار در شبکه‌های اجتماعی نیازمند تأیید کاربر هستند.",
+        "marketOpportunity": "با رشد چشمگیر پادکست‌ها و محتوای ویدیویی در ایران، نیاز شدیدی به کاهش هزینه‌های سنگین تیم‌های تولید محتوا وجود دارد. ارائه یک ابزار بومی‌سازی شده با پشتیبانی قوی از زبان فارسی می‌تواند سهم بازار قابل توجهی از کریتورها و کسب‌وکارها را جذب کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "پادکسترها، تولیدکنندگان محتوای آموزشی، یوتیوبرها و تیم‌های مارکتینگ کسب‌وکارهای ایرانی",
+        "challenges": [
+          "چالش‌های پردازش دقیق زبان فارسی و لحن در هوش مصنوعی برای استخراج لحظات کلیدی",
+          "محدودیت‌های اینترنت و پهنای باند برای آپلود و پردازش فایل‌های ویدیویی سنگین"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه SaaS در پلن‌های مختلف بر اساس میزان زمان ویدیو",
+          "پلن‌های سازمانی B۲B با قابلیت شخصی‌سازی برندینگ و اعتبارات هوش مصنوعی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python (FastAPI)",
+          "Whisper AI (Finetuned for Persian)",
+          "FFmpeg",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -39544,6 +39604,68 @@
         {
           "user": "[REDACTED]",
           "text": "we score buying intent from chat messages at our agency and the hardest case is always the guy who sounds ready, then asks for a discount and vanishes lol. does sage attach some kind of confidence to the ready signal"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-11-09",
+      "rank": 4,
+      "name": "Arcjet AI security models",
+      "slug": "arcjet-ai-security-models",
+      "tagline": "A family of custom-trained security models for coding agents",
+      "description": "Arcjet is launching a family of custom AI security models designed for analyzing AI agent activity: Arcjet Himalia 1, a general purpose prompt injection model, live today for every SDK call that uses prompt injection detection, and specialist versions designed for situations that general models handle badly, Arcjet Thebe 1 for coding agents, and Arcjet Carme 1, for autonomous security agents.",
+      "category": "Developer Tools • Artificial Intelligence • Security",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • امنیت",
+      "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/9f89ef3a-743d-4f6b-8ae7-146a3f0b637f.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/d75616fe-ab9a-4af7-a0eb-d79209b2d81c.jpeg?auto=format",
+        "https://ph-files.imgix.net/b8a4fa84-d544-42f9-ba90-f7c954dfde84.jpeg?auto=format",
+        "https://ph-files.imgix.net/0685c1b2-8a1b-4932-9b93-988da555d7fa.jpeg?auto=format",
+        "https://ph-files.imgix.net/8cb76bd1-0625-4b60-bdaa-080279c590b8.jpeg?auto=format",
+        "https://ph-files.imgix.net/ae4b273c-c0cd-4a29-9260-b5fe96e6d03a.jpeg?auto=format",
+        "https://ph-files.imgix.net/d67e6b44-a3ff-4942-8ce2-12fdb378714e.jpeg?auto=format",
+        "https://ph-files.imgix.net/04cdc576-63a2-460a-b8ff-001af4b3cbe7.jpeg?auto=format",
+        "https://ph-files.imgix.net/3cfb7770-147d-4605-bcca-ed088c789e36.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 216,
+      "websiteUrl": "https://www.producthunt.com/r/VT6JRMB2LSBNQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "@davidmytton put it simply: \"You can't detect prompt injections with a general-purpose model.\"First launched here 2 months ago and loved by the community (Top Product of the Week, featured in the newsletter), @Arcjet keeps the momentum by announcing a family of custom-trained security models designed for analyzing AI agent activity:Arcjet Himalia 1, a general-purpose prompt injection model (live now)Arcjet Thebe 1, for coding agents (in early preview)Arcjet Carme 1, for autonomous security agents (in early preview)The models are compact classifiers fine-tuned from @Qwen 3-0.6B, so they return a verdict in milliseconds at a fraction of the cost of asking a frontier model.More details about the benchmarkGet started at arcjet.comRepost on XWhat should @Arcjet build/improve/fix from your perspective?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Thebe 1 angle is the one that lands for me. I run coding agents against my own repos all day, and the stuff they read — docs, dependencies, random files — is exactly the kind of content that looks suspicious out of context. A general prompt-injection check would drive me nuts with false blocks, so a specialist model plus that second decision step looking at the whole session before blocking a risky action feels like the right trade-off. One thing I'm curious about: my agents mostly run locally, so does every check round-trip to Arcjet, or can the small classifier run close to the agent?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "yo arcjet, you're one of my favorite devtoolscongrats on the launch and bringing more goodness for agents security! 🔥"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When the small model flags a step and the big model is reading the whole session, does the agent pause and wait, or keep going while that check runs? If it keeps going, a couple of risky calls could land before the verdict comes back."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Arcjet an essential company in the space right now. Excited to try out these models! How did you post-train them out of interest?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "i'll share this with my builder friends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Using small classifiers that return a verdict in milliseconds, with a larger model only on suspicious hits, is a sensible split. How often does that second decision step end up running in a typical session?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Super clean approach to AI agent security! Stopping unauthorized actions right at the code level is definitely the way to goWishing you all the best with the project!"
         }
       ]
     },
@@ -40273,68 +40395,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-4",
-      "date": "2026-11-09",
-      "rank": 4,
-      "name": "Arcjet AI security models",
-      "slug": "arcjet-ai-security-models",
-      "tagline": "A family of custom-trained security models for coding agents",
-      "description": "Arcjet is launching a family of custom AI security models designed for analyzing AI agent activity: Arcjet Himalia 1, a general purpose prompt injection model, live today for every SDK call that uses prompt injection detection, and specialist versions designed for situations that general models handle badly, Arcjet Thebe 1 for coding agents, and Arcjet Carme 1, for autonomous security agents.",
-      "category": "Developer Tools • Artificial Intelligence • Security",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • امنیت",
-      "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/9f89ef3a-743d-4f6b-8ae7-146a3f0b637f.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/d75616fe-ab9a-4af7-a0eb-d79209b2d81c.jpeg?auto=format",
-        "https://ph-files.imgix.net/b8a4fa84-d544-42f9-ba90-f7c954dfde84.jpeg?auto=format",
-        "https://ph-files.imgix.net/0685c1b2-8a1b-4932-9b93-988da555d7fa.jpeg?auto=format",
-        "https://ph-files.imgix.net/8cb76bd1-0625-4b60-bdaa-080279c590b8.jpeg?auto=format",
-        "https://ph-files.imgix.net/ae4b273c-c0cd-4a29-9260-b5fe96e6d03a.jpeg?auto=format",
-        "https://ph-files.imgix.net/d67e6b44-a3ff-4942-8ce2-12fdb378714e.jpeg?auto=format",
-        "https://ph-files.imgix.net/04cdc576-63a2-460a-b8ff-001af4b3cbe7.jpeg?auto=format",
-        "https://ph-files.imgix.net/3cfb7770-147d-4605-bcca-ed088c789e36.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 213,
-      "websiteUrl": "https://www.producthunt.com/r/VT6JRMB2LSBNQT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "@davidmytton put it simply: \"You can't detect prompt injections with a general-purpose model.\"First launched here 2 months ago and loved by the community (Top Product of the Week, featured in the newsletter), @Arcjet keeps the momentum by announcing a family of custom-trained security models designed for analyzing AI agent activity:Arcjet Himalia 1, a general-purpose prompt injection model (live now)Arcjet Thebe 1, for coding agents (in early preview)Arcjet Carme 1, for autonomous security agents (in early preview)The models are compact classifiers fine-tuned from @Qwen 3-0.6B, so they return a verdict in milliseconds at a fraction of the cost of asking a frontier model.More details about the benchmarkGet started at arcjet.comRepost on XWhat should @Arcjet build/improve/fix from your perspective?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Thebe 1 angle is the one that lands for me. I run coding agents against my own repos all day, and the stuff they read — docs, dependencies, random files — is exactly the kind of content that looks suspicious out of context. A general prompt-injection check would drive me nuts with false blocks, so a specialist model plus that second decision step looking at the whole session before blocking a risky action feels like the right trade-off. One thing I'm curious about: my agents mostly run locally, so does every check round-trip to Arcjet, or can the small classifier run close to the agent?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "yo arcjet, you're one of my favorite devtoolscongrats on the launch and bringing more goodness for agents security! 🔥"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When the small model flags a step and the big model is reading the whole session, does the agent pause and wait, or keep going while that check runs? If it keeps going, a couple of risky calls could land before the verdict comes back."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Arcjet an essential company in the space right now. Excited to try out these models! How did you post-train them out of interest?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "i'll share this with my builder friends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Using small classifiers that return a verdict in milliseconds, with a larger model only on suspicious hits, is a sensible split. How often does that second decision step end up running in a typical session?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Super clean approach to AI agent security! Stopping unauthorized actions right at the code level is definitely the way to goWishing you all the best with the project!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -50505,7 +50565,61 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch Aradhya, you deserved it. All the best!"
         }
-      ]
+      ],
+      "faDescription": "ایجنت‌های چت و صوتی هوش مصنوعی چندکاناله را برای وب‌سایت، تلگرام و سایر بسترهای ارتباطی خود بسازید. زیر-ایجنت‌های تخصصی ایجاد کنید تا جریان‌های کاری را در پایگاه‌های دانش، ذخیره‌گاه‌های داده و صدها ابزار شخص ثالث به صورت آنی مدیریت و هماهنگ کنند. این پلتفرم به طور خودکار هر تعامل با مشتری را ارزیابی کرده و کیفیت سرنخ‌های فروش را امتیازدهی می‌کند. همچنین می‌توانید داده‌های ساختاریافته را به صورت مستقیم از متن گفت‌وگوها استخراج و تحلیل کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به اهالی پروداکت هانت! 👋 من آرادیا، سازنده Embage هستم. جهت شفافیت کامل: من در ابتدا Embage را برای راه‌اندازی یک شرکت تک‌نفره ساختم. پشتیبانی مشتریان را انتخاب کردم چون کارشناسان وقت بسیار زیادی را صرف کارهای تکراری، جستجو در اسناد، پردازش مرجوعی‌ها و ارسال ایمیل‌های استاندارد می‌کنند. با Embage، ایجنت‌های هوش مصنوعی همه این امور را به صورت مستقل انجام می‌دهند. اگر موضوع حیاتی پیش بیاید، تیم انسانی شما می‌تواند هر زمان که ایجنت درخواست ارجاع داد، وارد عمل شود. چشم‌انداز: هدف من ارائه قدرت اجرای عملیات چندمرحله‌ای و کاملاً خودکار به تیم‌های کوچک (از فروشگاه‌های اینترنتی گرفته تا ارائه‌دهندگان خدمات محلی) بدون نیاز به تیم فنی اختصاصی است. برای تحقق این امر، «ذخیره‌گاه‌های داده سفارشی» را ساختیم تا داده‌هایی مثل تیکت‌ها، لیدها یا بازخوردها را ذخیره کنید. ساده است: یک دیتastore بسازید، ایجنت اصلی را تعریف کنید، زیر-ایجنت متصل را تنظیم کرده و شروع کنید! در طرح رایگان می‌توانید کلید API شخصی خودتان را متصل کرده و بدون هزینه اضافی استفاده کنید. Embage هنوز در مراحل اولیه است؛ اگر با باگی مواجه شدید یا نیازمند ویژگی جدیدی بودید اطلاع دهید تا سریعاً آن را بسازم. با کد LAUNCH_FREE اعتبار رایگان بگیرید و اولین ایجنت خود را بسازید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بسیار عالی! با وجود این همه اتصالات و ابزارهای مختلف، Embage چگونه از حملات تزریق پرامپت (Prompt Injection) جلوگیری می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "اجازه دادن به کاربران طرح رایگان برای استفاده از کلیدهای API شخصی، روش هوشمندانه‌ای برای جذب تست‌کنندگان است. آیا ایجنت‌های تلگرام و وب‌سایت از یک ذخیره‌گاه داده مشترک استفاده می‌کنند یا هر کدام دیتastore مجزای خود را دارند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش ارجاع به اپراتور انسانی همان قسمتی است که قبل از اعتماد برای استفاده مشتریان واقعی، می‌خواهم آن را تست فشار کنم. اگر ایجنت درخواست ارجاع به انسان دهد اما هیچ اپراتوری آنلاین نباشد چه اتفاقی می‌افتد؛ آیا مشتری در صف می‌ماند، پیام شکیبایی دریافت می‌کند یا ایجنت خودش به تلاش برای حل مسئله ادامه می‌دهد؟ در ایجنت‌های صوتی که خودم اجرا می‌کنم، این شکاف دقیقاً جایی است که تجربه کاربر خراب می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سلام به همگی! یک نکته را باید به اشتراک بگذارم: اگر در طرح رایگان هستید، حتماً باید از کوپن LAUNCH_FREE برای دریافت اعتبارات هوش مصنوعی استفاده کنید، در غیر این صورت امکان ساخت ایجنت را نخواهید داشت چون طرح رایگان به صورت پیش‌فرض اعتباری ندارد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک برای انتشار این محصول آرادیا، شایسته‌اش بودی. با آرزوی بهترین‌ها!"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nکسب‌وکارهای کوچک و تیم‌های کم‌جمعیت وقت زیادی را صرف کارهای تکراری پشتیبانی مشتریان (پاسخ به سوالات متداول، پیگیری مرجوعی‌ها و ثبتی‌ها) می‌کنند. Embage با ارائه پلتفرم ساخت ایجنت‌های هوش مصنوعی چندکاناله (متنی و صوتی)، امکان تعریف زیر-ایجنت‌های تخصصی و اتصال آن‌ها به پایگاه‌های داده و ابزارهای مختلف را فراهم کرده تا فرایند پشتیبانی و جمع‌آوری داده‌ها به طور ۱۰۰٪ خودکار انجام شود.\n\n### معماری و تکنولوژی\nمحصول بر پایه معماری ایجنتی (Multi-Agent Architecture) و ابزارساز ارکستراسیون توسعه یافته است. امکان تعریف Datastoreهای اختصاصی برای ذخیره داده‌های ساختاریافته از میان متن گفت‌وگوها، نشان‌دهنده لایه ذخیره‌سازی انعطاف‌پذیر آن است. سیستم همچنین دارای مکانیزم ارجاع به اپراتور انسانی (Human Handoff) و قابلیت اتصال کلیدهای API اختصاصی کاربر است.\n\n### مدل درآمدی\nمدل فری‌میوم (Freemium) به همراه ارائه اعتبارات رایگان اولیه. کاربران در طرح رایگان می‌توانند API Key شخصی خود را وارد کنند تا بدون پرداخت markup به پلتفرم استفاده نمایند. درآمد اصلی از طریق طرح‌های پرمیوم با اعتبارات پیش‌فرض و خدمات سازمانی تأمین می‌شود.\n\n### نقاط قوت\n۱. قابلیت جذاب Bring Your Own Key (BYOK) در طرح رایگان که نرخ جذب کاربر را به شدت بالا می‌برد.\n۲. پشتیبانی همزمان از بسترهای متنی و صوتی.\n۳. قابلیت استخراج داده‌های ساختاریافته و ذخیره در جداول سفارشی بدون نیاز به کدنویسی.\n\n### نقاط ضعف\n۱. ابهام در مدیریت امنیت پرامپت‌ها (Prompt Injection).\n۲. عدم شفافیت سناریوهای شکست در ارجاع انسانی وقتی هیچ اپراتوری آنلاین نیست.\n\n### نکته طلایی برای ایران\nدر بازار ایران، بزرگ‌ترین برگ برنده چنین ابزاری، اتصالات بومی (Native Integrations) است. اگر محصولی مشابه بتواند ایجنت هوشمند را به پیام‌رسان‌های بومی (ایتا، بله) و درگاه‌ها/نرم‌افزارهای مالی ایرانی (سپیدار، هلو، دیدار) متصل کند و پردازش صوتی فارسی قوی ارائه دهد، به سرعت سهم بازار پشتیبانی فروشگاه‌های اینترنتی کشور را تسخیر خواهد کرد.",
+      "iranEquivalent": {
+        "productName": "پشتیبان‌ساز AI",
+        "description": "پلتفرم بومی ساخت ایجنت‌های هوشمند صوتی و متنی چندکاناله متصل به تلگرام، بله، ایتا و وب‌سایت. این سیستم به نرم‌افزارهای مالی و CRMهای ایرانی مانند سپیدار و دیدار متصل شده و فرایندهای پشتیبانی را خودکار می‌کند. همچنین استخراج اطلاعات مخاطبان و ارزیابی لیدها به زبان فارسی را به صورت آنی انجام می‌دهد.",
+        "marketOpportunity": "با توجه به رشد بالا و هزینه زیاد نیروی انسانی پشتیبانی در فروشگاه‌های اینترنتی و شرکت‌های خدماتی ایران، نیاز شدیدی به خودکارسازی پاسخ‌دهی وجود دارد. نبود ابزار جامع بومی که همزمان از پیام‌رسان‌های داخلی و سیستم‌های ERP ایرانی پشتیبانی کند، بستر رشد فوق‌العاده‌ای برای این محصول فراهم کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "فروشگاه‌های آنلاین، شرکت‌های نرم‌افزاری SaaS، آژانس‌های دیجیتال مارکتینگ و مراکز تماس",
+        "challenges": [
+          "محدودیت کیفیت مدل‌های زبانی در فهم دقیق لهجه‌ها و زبان فارسی عامیانه",
+          "چالش‌های پایداری اینترنت و ارتباط با APIهای بین‌المللی",
+          "مقاومت کسب‌وکارهای سنتی در سپردن پاسخ‌دهی مشتریان به هوش مصنوعی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه بر اساس تعداد مکالمات و ایجنت فعال",
+          "ارائه خدمات پیاده‌سازی و اتصال سفارشی به سیستم‌های CRM و ERP ایرانی",
+          "فروش بسته‌های اعتباری پردازش گفتار به متن و متن به گفتار فارسی"
+        ],
+        "techStack": [
+          "Next.js",
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "Redis",
+          "LangChain"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -54906,6 +55020,66 @@
       }
     },
     {
+      "id": "ph-today-5",
+      "date": "2026-11-09",
+      "rank": 5,
+      "name": "ProtoMap",
+      "slug": "protomap",
+      "tagline": "Stop wasting AI tokens rediscovering dependencies",
+      "description": "ProtoMap helps engineers and AI coding agents understand how services, APIs, and data fields depend on each other across large codebases. It builds a deterministic dependency map for gRPC and Protobuf systems, updated on every commit and accessible through a web app or MCP. Instead of wasting time and tokens searching code across repositories, agents query ProtoMap directly to understand change impact. One enterprise team reduced change-planning time and tokens by 8×.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d6a0506c-94e2-45e9-b627-6958e105063c.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/add69d5b-9aeb-43bb-889d-14926ec882fb.gif?auto=format",
+        "https://ph-files.imgix.net/7371d752-5111-4948-8759-1ebf6413ed8e.png?auto=format",
+        "https://ph-files.imgix.net/d0f82551-0d0b-4365-a0ee-a514ab5acb8a.png?auto=format",
+        "https://ph-files.imgix.net/ff8d7d3d-0fb5-4dfc-8ee9-9edaa6b4c17f.png?auto=format",
+        "https://ph-files.imgix.net/c35e08d3-51ae-41f3-a131-c607afd0b192.png?auto=format",
+        "https://ph-files.imgix.net/92d4e8ca-5774-464c-a232-00f299a3cb95.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 157,
+      "websiteUrl": "https://www.producthunt.com/r/AK5JMQTTDBGMD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! I'm Amjad, co-founder of HoundDog.ai. Today we're launching ProtoMap.The problemAI coding agents are writing more of our code every day, and every line adds services, calls and fields that the next agent has to rediscover. In a large gRPC + Protobuf codebase, a simple question like \"what breaks if I change this service, RPC or field?\" sends an agent off to grep, find and read files across repos, trying to piece together relationships in code that often isn't even checked out on the developer's machine. That's slow and expensive, the answer is often incomplete, and it changes from one run to the next.How ProtoMap is different 🚀ProtoMap doesn't replace your coding agent. It gives your agent the context it is missing. A deterministic static-analysis engine maps every service, API and field across your monorepos and microservices, refreshes the map on every commit, and serves it to engineers in a web platform and to coding agents over MCP.🔹 Multi-hop service dependencies: see the blast radius of a change up to five hops out.🔹 Method dependencies: find who calls an RPC, plus every call site with its file location.🔹 Field dependencies: see which services and repos send or receive a field like credit_card.🔹 Code owners: see every inbound service, plus the maintainers and dependents to notify.🔹 Unused RPCs: find dead RPCs, orphaned calls, and proto messages declared differently in two repos.Because agents query the graph instead of re-reading code, the cost of an answer depends on the question, not on the size of your codebase. For one enterprise customer with a monorepo of millions of lines and a complex web of gRPC services, ProtoMap reduced the time and tokens required for change planning by 8×.Who is it for?Engineering teams running gRPC + Protobuf at scale, and the AI coding agents working alongside them.BenchmarkIn the gallery video, you’ll see two live Claude Code sessions (Opus 5.5, high effort) running side by side, given the same prompt at the same moment and recorded on one screen.The prompt:\"We want to remove the RPC acme.documents.v1.DocumentQueryService/ResolveDocuments. Find every place in every repo that calls it, including indirect calls through helpers, method names built from strings, registries, or reflection, and give file:line and the calling service for each so we can migrate them.\"On this prompt, ProtoMap was 7× faster and 36× cheaper, and used 93× fewer tokens:■ Claude Code alone (no MCP): 6:01 · $14.44 · 24.5M tokens■ Claude Code + ProtoMap MCP: 0:50 · $0.40 · 262K tokensFor more detailed benchmarks across 20 prompts on 9 gRPC repositories, see our benchmark page: https://hounddog.ai/protomap-benchmark/Live DemoVisit https://hounddog.ai/videos/protomap-demo/ to see our live demo at MozFest, which includes querying the service graph in our web platform to track dependencies for services, APIs and fields across multiple hops, including callers, callees and call sites. The demo also walks through our detailed benchmarks.🔗 Get startedProtoMap is free to run on your machine: the self-hosted web platform and CLI scanner. When you're ready to roll it out org-wide, the Enterprise plan keeps the graph fresh across every repo, with CI scans on every pull request and GitHub, Bitbucket and GitLab integrations. Get started at https://github.com/hounddogai/protomap We'd love your feedback, especially from anyone managing a large gRPC codebase!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This hits a pain I feel in basically every coding-agent session — a huge share of the tokens goes to the agent re-reading code just to work out what a change touches, before it does anything useful. A deterministic dependency map it can query instead of grepping through repos feels like the right fix, and your side-by-side says it plainly: 24.5M tokens down to 262K for that RPC removal. Curious whether the payoff holds up on a smaller codebase that isn't a big gRPC estate, or if this is really a scale play?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When it says a change is safe, can I see which callers the agent actually opened and which ones it skipped? That list is what I'd check before trusting the verdict."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Showing the code owners next to each dependency is the part I would use most. Does the field-level view, like where credit_card flows, work across repos or only inside one monorepo?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "benchmark is kinda the best case for a graph tho. would be cool to see one where the agent has to actually ship the change after"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can ProtoMap detect what can break before I merge a PR?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "i like the idea of asking questions directly from the data map. Can non-technical privacy teams use it without developer help?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Returning actual caller locations alongside the dependency graph is a useful detail. It gives an engineer something concrete to inspect before deciding who needs to be involved in a change."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-5",
       "date": "2026-11-03",
       "rank": 5,
@@ -55248,66 +55422,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-11-09",
-      "rank": 5,
-      "name": "ProtoMap",
-      "slug": "protomap",
-      "tagline": "Stop wasting AI tokens rediscovering dependencies",
-      "description": "ProtoMap helps engineers and AI coding agents understand how services, APIs, and data fields depend on each other across large codebases. It builds a deterministic dependency map for gRPC and Protobuf systems, updated on every commit and accessible through a web app or MCP. Instead of wasting time and tokens searching code across repositories, agents query ProtoMap directly to understand change impact. One enterprise team reduced change-planning time and tokens by 8×.",
-      "category": "Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d6a0506c-94e2-45e9-b627-6958e105063c.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/add69d5b-9aeb-43bb-889d-14926ec882fb.gif?auto=format",
-        "https://ph-files.imgix.net/7371d752-5111-4948-8759-1ebf6413ed8e.png?auto=format",
-        "https://ph-files.imgix.net/d0f82551-0d0b-4365-a0ee-a514ab5acb8a.png?auto=format",
-        "https://ph-files.imgix.net/ff8d7d3d-0fb5-4dfc-8ee9-9edaa6b4c17f.png?auto=format",
-        "https://ph-files.imgix.net/c35e08d3-51ae-41f3-a131-c607afd0b192.png?auto=format",
-        "https://ph-files.imgix.net/92d4e8ca-5774-464c-a232-00f299a3cb95.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 156,
-      "websiteUrl": "https://www.producthunt.com/r/AK5JMQTTDBGMD4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! I'm Amjad, co-founder of HoundDog.ai. Today we're launching ProtoMap.The problemAI coding agents are writing more of our code every day, and every line adds services, calls and fields that the next agent has to rediscover. In a large gRPC + Protobuf codebase, a simple question like \"what breaks if I change this service, RPC or field?\" sends an agent off to grep, find and read files across repos, trying to piece together relationships in code that often isn't even checked out on the developer's machine. That's slow and expensive, the answer is often incomplete, and it changes from one run to the next.How ProtoMap is different 🚀ProtoMap doesn't replace your coding agent. It gives your agent the context it is missing. A deterministic static-analysis engine maps every service, API and field across your monorepos and microservices, refreshes the map on every commit, and serves it to engineers in a web platform and to coding agents over MCP.🔹 Multi-hop service dependencies: see the blast radius of a change up to five hops out.🔹 Method dependencies: find who calls an RPC, plus every call site with its file location.🔹 Field dependencies: see which services and repos send or receive a field like credit_card.🔹 Code owners: see every inbound service, plus the maintainers and dependents to notify.🔹 Unused RPCs: find dead RPCs, orphaned calls, and proto messages declared differently in two repos.Because agents query the graph instead of re-reading code, the cost of an answer depends on the question, not on the size of your codebase. For one enterprise customer with a monorepo of millions of lines and a complex web of gRPC services, ProtoMap reduced the time and tokens required for change planning by 8×.Who is it for?Engineering teams running gRPC + Protobuf at scale, and the AI coding agents working alongside them.BenchmarkIn the gallery video, you’ll see two live Claude Code sessions (Opus 5.5, high effort) running side by side, given the same prompt at the same moment and recorded on one screen.The prompt:\"We want to remove the RPC acme.documents.v1.DocumentQueryService/ResolveDocuments. Find every place in every repo that calls it, including indirect calls through helpers, method names built from strings, registries, or reflection, and give file:line and the calling service for each so we can migrate them.\"On this prompt, ProtoMap was 7× faster and 36× cheaper, and used 93× fewer tokens:■ Claude Code alone (no MCP): 6:01 · $14.44 · 24.5M tokens■ Claude Code + ProtoMap MCP: 0:50 · $0.40 · 262K tokensFor more detailed benchmarks across 20 prompts on 9 gRPC repositories, see our benchmark page: https://hounddog.ai/protomap-benchmark/Live DemoVisit https://hounddog.ai/videos/protomap-demo/ to see our live demo at MozFest, which includes querying the service graph in our web platform to track dependencies for services, APIs and fields across multiple hops, including callers, callees and call sites. The demo also walks through our detailed benchmarks.🔗 Get startedProtoMap is free to run on your machine: the self-hosted web platform and CLI scanner. When you're ready to roll it out org-wide, the Enterprise plan keeps the graph fresh across every repo, with CI scans on every pull request and GitHub, Bitbucket and GitLab integrations. Get started at https://github.com/hounddogai/protomap We'd love your feedback, especially from anyone managing a large gRPC codebase!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This hits a pain I feel in basically every coding-agent session — a huge share of the tokens goes to the agent re-reading code just to work out what a change touches, before it does anything useful. A deterministic dependency map it can query instead of grepping through repos feels like the right fix, and your side-by-side says it plainly: 24.5M tokens down to 262K for that RPC removal. Curious whether the payoff holds up on a smaller codebase that isn't a big gRPC estate, or if this is really a scale play?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When it says a change is safe, can I see which callers the agent actually opened and which ones it skipped? That list is what I'd check before trusting the verdict."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Showing the code owners next to each dependency is the part I would use most. Does the field-level view, like where credit_card flows, work across repos or only inside one monorepo?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "benchmark is kinda the best case for a graph tho. would be cool to see one where the agent has to actually ship the change after"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can ProtoMap detect what can break before I merge a PR?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "i like the idea of asking questions directly from the data map. Can non-technical privacy teams use it without developer help?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Returning actual caller locations alongside the dependency graph is a useful detail. It gives an engineer something concrete to inspect before deciding who needs to be involved in a change."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-4",
@@ -60670,7 +60784,56 @@
           "user": "[REDACTED]",
           "text": "Editing one region at 8K and getting everything outside it back untouched is the detail that matters, because a soft logo or a shifted background is what gives an edited image away immediately."
         }
-      ]
+      ],
+      "faDescription": "ابزار ارتقایافته Precise Edit توسط ایدئوگرام از ویژگی پنجره بافت (Context Window) پشتیبانی می‌کند. این قابلیت امکان ویرایش دقیق تصاویر را در هر رزولوشنی تا سقف ۸K و بر روی پیکسل‌های اصلی فراهم می‌سازد. به‌واسطه این فناوری، متن‌های کوچک، لوگوها و جزئیات ظریف با شفافیت و وضوح بسیار بیشتری رندر می‌شوند. این ابزار بدون دست‌کاری بخش‌های دیگر تصویر یا ایجاد خطوط ناخواسته، ادیت‌های حرفه‌ای و یک‌دست ارائه می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ویژگی Precise Edit در ایدئوگرام اکنون دارای پنجره بافت است، بنابراین می‌توانید تصاویر را تا کیفیت ۸K با پیکسل‌های اصلی ویرایش کنید. شما ناحیه‌ای که می‌خواهید تغییر کند را مشخص کرده و ادیت مورد نظر را توصیف می‌کنید. ایدئوگرام درون همان بخش کار می‌کند و آن را جای‌گذاری می‌نماید، بنابراین تمام بخش‌های بیرون ماسک دقیقاً همان‌طور که فرستاده بودید باقی می‌مانند؛ بدون افت رزولوشن، خط برش یا ناهماهنگی رنگی. همچنین متن‌های کوچک، لوگوها و جزئیات ظریف شفاف‌تر رندر می‌شوند. ویژگی‌های کلیدی: ویرایش تصاویر تا رزولوشن ۸K با کیفیت اصلی، تنظیم خودکار یا مختصاتی پنجره بافت، تغییر رنگ محصولات، ترمیم لوگو، جایگزینی یا حذف اشیاء. اجرا روی ایدئوگرام ۴.۵ در اپلیکیشن و API. قیمت API از ۰.۰۰۸ تا ۰.۲۲ دلار برای هر تصویر. مناسب برای: تیم‌های فروشگاهی، املاک، طراحی داخلی و معماری، و هر کسی که نیاز دارد بدون دست زدن به کل تصویر، فقط یک جزئیات را اصلاح کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بازه قیمت ۰.۰۰۸ تا ۰.۲۲ دلار برای هر تصویر بسیار گسترده است. چه چیزی باعث می‌شود هزینه یک ادیت در بالاترین حد قرار گیرد؛ ابعاد ۸K یا میزان بزرگی ماسک؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "عدم کاهش رزولوشن و نبود خط برش، وعده اصلی و واقعی این ابزار است؛ حالت شکست رایج در ویرایش‌های ماسک‌شده، مرز مرئی در محل تلاقی پچ با پیکسل‌های اصلی است. به‌ویژه برای عکاسی محصول، تغییر رنگ چیزی روی یک سطح بازتابنده یا براق به این معنی است که ویرایش باید انعکاس‌ها و هایلایت‌های هماهنگ را هم بازسازی کند، نه فقط رنگ پایه را. کنجکاوم بدانم آیا پنجره بافت ناحیه انعکاس را به صورت خودکار جذب می‌کند یا هنوز باید آن را جداگانه ماسک کرد."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش متن‌های کوچک و لوگو اولین چیزی است که من تست خواهم کرد — این‌ها معمولاً اول از همه زمانی که ادیت بیش از حد نیاز تصویر را بازسازی می‌کند، مات می‌شوند. تنظیم خودکار پنجره بافت اطراف ماسک برای این منظور منطقی است. اگر من فقط یک لوگوی کوچک را روی عکس محصول ۸K ماسک کنم، به طور پیش‌فرض چه مقدار از بافت اطراف را وارد می‌کند، و آیا می‌توانم موقعی که نورپردازی نیاز به تطبیق بیشتری دارد، آن را به صورت دستی عریض‌تر کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ویرایش یک ناحیه در کیفیت ۸K و دریافت بقیه تصویر بدون هیچ دست‌خوردگی، جزئیاتی است که اهمیت دارد، زیرا یک لوگوی مات یا پس‌زمینه جابه‌جا شده، همان چیزی است که بلافاصله ادیت‌شده بودن تصویر را لو می‌دهد."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nدر ویرایش تصاویر پایه (Inpainting)، یکی از مشکلات اصلی، افت کیفیت پیکسل‌های کل تصویر یا ایجاد خطوط برش (Seams) ناخوشایند در مرزهای ویرایش است. ابزار Precise Edit توسط Ideogram با معرفی مفهوم «پنجره بافت» (Context Window)، امکان ویرایش موضعی را تا رزولوشن ۸K بدون دست‌کاری پیکسل‌های خارج از ماسک فراهم کرده است. این راه‌حل چالش تار شدن لوگوها و جزئیات ظریف را به طور کامل حل می‌کند.\n\n### معماری و تکنولوژی\nاین ابزار بر پایه مدل Ideogram ۴.۵ توسعه یافته و از مکانیزم Context Window سفارشی برای تحلیل محیط اطراف ناحیه ماسک‌شده استفاده می‌کند. معماری به گونه‌ای طراحی شده که با دریافت مختصات ماسک، فقط بافت لازم برای هم‌پوشانی نور و رنگ را آنالیز کرده و باقی تصویر را بدون دست‌خوردگی بازمی‌گرداند. دسترسی از طریق API و Web App انعطاف‌پذیری بالایی برای یکپارچه‌سازی در خطوط تولید محتوا فراهم می‌سازد.\n\n### مدل درآمدی\nمدل درآمدی مبتنی بر API به صورت پله‌ای از ۰.۰۰۸ تا ۰.۲۲ دلار به ازای هر تصویر قیمت‌گذاری شده که وابسته به ابعاد ماسک و رزولوشن خروجی است. این مدل منعطف هم برای کسب‌وکارهای کوچک و هم برای پروژه‌های بزرگ صنعتی مقرون‌به‌صرفه است.\n\n### نقاط قوت\n۱. حفظ رزولوشن اصلی تا ۸K بدون داون‌اسکیل (Downscaling).\n۲. عدم وجود خطوط مرزی و ناهماهنگی رنگ در محل پیوند ویرایش.\n۳. وضوح بی‌نظیر در رندر متن‌های کوچک و لوگوهای پیچیده.\n\n### نقاط ضعف\n۱. ابهام در نحوه‌ی مدیریت بازتاب‌های نور و انعکاس‌ها روی سطوح بسیار براق بدون ماسک‌گذاری دستی.\n۲. بازه قیمتی عریض در API که ممکن است پیش‌بینی هزینه‌ها را برای کاربران پیچیده کند.\n\n### نکته طلایی برای بازار ایران\nدر بازار ایران، کسب‌وکارهای ای‌کامرس (مانند فروشندگان دیجی‌کالا و باسلام) هزینه بالایی بابت عکاسی آتلیه‌ای برای تنوع رنگی یک محصول می‌پردازند. توسعه یک ابزار بومی با الگوریتم مشابه که بتواند تغییر رنگ، تعویض لوگو یا حذف زوائد عکس را به صورت ریالی و با سرعت بالا انجام دهد، می‌تواند سهم بازار فوق‌العاده‌ای از آژانس‌های تبلیغاتی و فروشگاه‌های آنلاین جذب کند.",
+      "iranEquivalent": {
+        "productName": "پیکسل‌دقیق (PrecisePixel)",
+        "description": "سرویس بومی ویرایش هوشمند و موضعی عکس محصولات با کیفیت فوق‌العاده بالا تا رزولوشن ۸K. این پلتفرم به فروشگاه‌های اینترنتی و عکاسان اجازه می‌دهد تنها با تغییر بخش‌های دلخواه، رنگ محصول یا لوگو را بدون افت کیفیت بازسازی کنند. الگوریتم هوشمند سیستم، مرزهای ویرایش را بدون ایجاد هیچ‌گونه خط برش یا تغییر رنگ ناخواسته با تصویر اصلی ترکیب می‌کند.",
+        "marketOpportunity": "با رشد روزافزون ای‌کامرس و پلتفرم‌های آگهی آنلاین در ایران، نیاز به عکاسی و ویرایش سریع و ارزان محصولات به شدت احساس می‌شود. ارائه یک جایگزین بومی با پرداخت ریالی برای ابزارهای گران‌قیمت خارجی، فرصتی عالی برای جذب آژانس‌های تبلیغاتی و فروشگاه‌های آنلاین فراهم می‌کند.",
+        "estimatedBudget": "۲.۵ تا ۴ میلیارد تومان",
+        "targetAudience": "فروشگاه‌های اینترنتی، عکاسان صنعتی و تبلیغاتی، آژانس‌های دیجیتال مارکتینگ، فعالان حوزه املاک و دکوراسیون داخلی",
+        "challenges": [
+          "تأمین زیرساخت پردازشی سنگین (GPU) و هزینه‌های بالای سرورهای ابری برای رندر تصاویر ۸K",
+          "حفظ دقت در بازسازی سایه‌ها و انعکاس‌های نور روی سطوح براق پیچیده"
+        ],
+        "monetization": [
+          "فروش اشتراک سازمانی ماهانه بر اساس تعداد پردازش و حداکثر رزولوشن",
+          "مدل اعتباری پرداخت به ازای هر تصویر (Pay-per-Image) برای کاربران خرد و فریلنسرها"
+        ],
+        "techStack": [
+          "Python",
+          "PyTorch",
+          "FastAPI",
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "MinIO"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -60851,7 +61014,65 @@
           "user": "[REDACTED]",
           "text": "Hey, great project! One question - do I have to buy subscriptions separately (ex: directly from Claude) or it is already included in your plan?"
         }
-      ]
+      ],
+      "faDescription": "Agentmash یک پلتفرم هوش مصنوعی چندنفره با سورس باز است که به تیم‌های توسعه‌دهنده اجازه می‌دهد از ایجنت‌های کدنویسی به صورت همزمان استفاده کنند. این محصول یک لایه مشترک برای مدیریت زمینه (Context) فراهم می‌کند که به هر ایجنت اطلاع می‌دهد همکاران او در حال تغییر کدام فایل‌ها هستند. در نتیجه، ایجنت‌ها با یکدیگر ارتباط برقرار کرده و بدون اینکه روی کد یکدیگر بنویسند، به کار خود ادامه می‌دهند. شما می‌توانید بین وظایف اجرا شده روی مدل‌های مختلف جابجا شوید، مانند اسلک از همکاران یا ایجنت‌ها @mention کنید و مهارت‌ها، چت‌ها و اتوماسیون‌ها را همگام نگه دارید. این ابزار با اتصال به Claude Code، Codex، Antigravity یا مدل‌های متن‌باز شخصی شما، هماهنگی تیمی را بهینه می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه در Product Hunt، من Damir، CTO شرکت agentmash هستم. ما agentmash را طوری ساختیم که یک تیم بتواند همزمان ایجنت‌های کدنویسی را روی یک مخزن (repo) اجرا کند، به طوری که هر ایجنت بداند ایجنت همکارش چه تغییری ایجاد می‌کند و ایجنت‌ها مسائل را بین خودشان حل کنند. مهم‌ترین دغدغه ما جلوگیری از تداخل‌های ادغام (merge conflicts) است، حتی قبل از اینکه نوشتن تداخل‌آمیز روی فایل انجام شود، بنابراین چیزی برای حل‌وفصل در آینده باقی نمی‌ماند. در بنچمارک‌های ما روی همان تیم، مدل‌ها و وظایف، ایجنت‌ها ۹۸.۶ درصد از کارهای تداخل‌دار را قبل از لمس فایل شناسایی کردند (در حالی که بدون agentmash این عدد ۵۵ درصد بود) و سهم وظایفی که با تداخل ادغام به پایان رسید از ۱۷.۵ درصد به ۴.۷ درصد کاهش یافت. همچنین هر توسعه‌دهنده به جای ۱۲، ۱۷.۲ وظیفه پذیرفته‌شده در هفته دریافت کرد، در حالی که حدود یک‌سوم توکن کمتر برای هر وظیفه مصرف شد. مشتاق شنیدن این هستیم که ایجنت‌های شما هنوز در کجاها با یکدیگر تداخل دارند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من چندین جلسه ایجنت را همزمان روی یک مخزن اجرا می‌کنم و آن‌ها با یکدیگر صحبت نمی‌کنند؛ یک جلسه اصلی سؤالات آن‌ها را جمع‌آوری کرده و به عنوان یک لیست به من می‌رساند. وقتی ایجنت‌های agentmash یک تداخل را بین خودشان حل می‌کنند، آیا مالک (توسعه‌دهنده) می‌بیند که آن‌ها روی چه چیزی توافق کرده‌اند یا فقط نتیجه نهایی را می‌بیند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک به مناسبت راه‌اندازی! 🚀🚀 ایجنت‌های من در worktreeهای جداگانه هستند، هر کدام روی یک branch، بنابراین دو ایجنت هرگز در یک لحظه روی یک فایل یکسان نمی‌نویسند. برخورد فقط زمانی ظاهر می‌شود که branchها به هم برسند، که بدتر است چون در آن لحظه کسی ناظر نیست. آیا این ابزار بین branchها را می‌بیند یا فقط داخل یک checkout؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "من چندین جلسه ایجنت را همزمان روی یک مخزن اجرا می‌کنم و آن‌ها با یکدیگر صحبت نمی‌کنند؛ یک جلسه اصلی سؤالات آن‌ها را جمع‌آوری کرده و به عنوان یک لیست به من می‌رساند. وقتی ایجنت‌های agentmash یک تداخل را بین خودشان حل می‌کنند، آیا مالک (توسعه‌دهنده) می‌بیند که آن‌ها روی چه چیزی توافق کرده‌اند یا فقط نتیجه نهایی را می‌بیند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک به مناسبت راه‌اندازی damir. جهش از ۵۵ به ۹۸.۶ درصد بسیار بزرگ است. در مورد من، بیشتر دعواهای بین ایجنت‌ها نه روی فایل یکسان، بلکه روی ایده یکسان است؛ یعنی دو ایجنت در حال رفع یک باگ در مکان‌های مختلف هستند. آیا claims (ادعاهای مالکیت) می‌توانند در سطح وظیفه هم کار کنند، نه فقط روی نام فایل‌ها؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "بخش claim-before-you-edit (ادعای مالکیت قبل از ویرایش) چیزی است که این محصول را برای من جذاب می‌کند؛ اکثر تنظیمات فقط در زمان merge به شما هشدار می‌دهند که وقتی همه چیز به هم ریخته است. وقتی من دو ایجنت را روی یک مخزن اجرا می‌کنم، مورد دردناک این است که یک type مشترک زیر پای ایجنت دیگر تغییر کند، بنابراین هشدارهای سطح نام برای JS/TS درست به نظر می‌رسند. کنجکاو هستم بدانم اگر ایجنت در میانه کار بمیرد یا گم شود، چه اتفاقی برای claim می‌افتد؟ آیا به صورت خودکار منقضی می‌شود یا باید یک همکار آن را پاک کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "ایده را دوست دارم! داشتن چندین ایجنت هوش مصنوعی که با هم کار می‌کنند هیجان‌انگیز به نظر می‌رسد، تا زمانی که شروع به تداخل با تغییرات یکدیگر نکنند. حل این مسئله در سطح هماهنگی رویکرد بسیار هوشمندانه‌ای است. @iskakov"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام، پروژه عالی است! یک سؤال - آیا باید اشتراک‌ها را جداگانه بخرم (مثلاً مستقیماً از Claude) یا این هزینه در پلن شما گنجانده شده است؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی که agentmash حل می‌کند، تداخل‌های ناشی از اجرای همزمان چندین ایجنت هوش مصنوعی روی یک مخزن کد است. راه‌حل ارائه‌شده یک لایه هماهنگی (Coordination Layer) است که با ردیابی لحظه‌ای تغییرات فایل‌ها و ایجاد مکانیزم claim (ادعای مالکیت موقت)، از نوشتن همزمان روی یک بخش از کد جلوگیری می‌کند. از نظر معماری، این محصول به عنوان یک میانی‌اف (Middleware) عمل می‌کند که بین ایجنت‌های مختلف (مانند Claude Code یا Codex) و مخزن گیت قرار می‌گیرد و از طریق پروتکل‌های استاندارد ارتباط برقرار می‌کند. مدل درآمدی احتمالی بر اساس SaaS (نرم‌افزار به عنوان سرویس) با اشتراک‌های تیمی است، با توجه به اینکه محصول سورس باز است، احتمالاً از طریق سرویس‌های ابری مدیریت‌شده یا نسخه‌های سازمانی درآمدزایی می‌کند. نقاط قوت اصلی شامل کاهش چشمگیر تداخل‌های ادغام (از ۱۷.۵٪ به ۴.۷٪)، افزایش بهره‌وری توسعه‌دهندگان و سازگاری با مدل‌های مختلف هوش مصنوعی است. نقاط ضعف می‌تواند شامل پیچیدگی در مدیریت حالت‌های مرزی (مانند کرش کردن ایجنت در میانه کار) و وابستگی به کیفیت مدل‌های پایه باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های خارجی، توسعه یک نسخه بومی که با مدل‌های متن‌باز (مانند Llama یا Qwen) و زیرساخت‌های داخلی ابری سازگار باشد، می‌تواند مزیت رقابتی قوی ایجاد کند و نیاز فوری تیم‌های ایرانی برای مدیریت ایجنت‌های کدنویسی را برطرف سازد.",
+      "iranEquivalent": {
+        "productName": "هم‌کد (HamCode)",
+        "description": "هم‌کد یک پلتفرم هوش مصنوعی چندنفره است که به تیم‌های نرم‌افزاری اجازه می‌دهد ایجنت‌های کدنویسی خود را به صورت همزمان و بدون تداخل مدیریت کنند. این سیستم با ایجاد یک لایه مشترک برای ردیابی تغییرات فایل‌ها، ایجنت‌ها را قادر می‌سازد تا قبل از ویرایش، هماهنگی لازم را برقرار کنند. هدف اصلی کاهش خطاهای ادغام و افزایش سرعت توسعه نرم‌افزار در تیم‌های ایرانی است.",
+        "marketOpportunity": "بازار توسعه نرم‌افزار در ایران با رشد چشمگیری در استفاده از ابزارهای هوش مصنوعی مواجه است، اما چالش‌های هماهنگی تیمی همچنان پابرجاست. وجود یک ابزار بومی که با مدل‌های متن‌باز و زیرساخت‌های داخلی سازگار باشد، فرصت بزرگی برای پر کردن خلأ موجود ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه‌دهنده نرم‌افزار، استارتاپ‌های فناوری و شرکت‌های بزرگ IT که از ایجنت‌های کدنویسی استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های دسترسی به مدل‌های هوش مصنوعی پیشرفته خارجی و نیاز به بهینه‌سازی برای مدل‌های متن‌باز.",
+          "مقاومت فرهنگی توسعه‌دهندگان در برابر تغییر فرآیندهای کاری و اعتماد به سیستم‌های خودکار هماهنگی."
+        ],
+        "monetization": [
+          "مدل اشتراکی ماهانه برای تیم‌ها با سطوح مختلف دسترسی.",
+          "فروش لایسنس سازمانی و ارائه خدمات پشتیبانی و استقرار اختصاصی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "WebSocket"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -66929,6 +67150,62 @@
       "aiReview": "تحلیل جامع و حرفه‌ای:\n🔹 مسئله و راه‌حل:\nKitesurf یک مرورگر بدون سر است که برای اِیجنت‌ها و بر اساس Workers از Cloudflare طراحی شده است. این مرورگر می‌تواند برای اتوماسیون وظایف مختلف و همچنین برای تست و نظارت بر وب‌سایت‌ها استفاده شود.\n🔹 معماری و تکنولوژی احتمالی:\nKitesurf از Workers از Cloudflare و Browser Run برای گرفتن اسکرین‌شات، استخراج HTML و اتوماسیون استفاده می‌کند.\n🔹 مدل درآمدی:\nفروشسنس و پشتیبانی و خدمات پس از فروش.\n🔹 نقاط قوت:\n- توانایی اتوماسیون وظایف مختلف\n- توانایی تست و نظارت بر وب‌سایت‌ها\n🔹 نقاط ضعف و ریسک‌ها:\n- رقابت با محصولات مشابه خارجی\n- نیاز به آموزش و پشتیبانی مناسب\n🔹 نکته طلایی برای بازار ایران:\nبادبان می‌تواند یکی از ابزارهای مناسب برای اتوماسیون و نظارت بر وب‌سایت‌ها در ایران باشد."
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-11-09",
+      "rank": 7,
+      "name": "MCP1",
+      "slug": "mcp1",
+      "tagline": "One URL for every MCP server.",
+      "description": "Connect and manage all your MCP servers through a single gateway. Built by Appwrite, MCP1 lets you securely connect your AI tools, manage permissions, protect server credentials, and monitor tool usage. Works with Claude, Cursor, ChatGPT, Codex, and more. Free for individuals, with dedicated plans for teams and enterprises.",
+      "category": "API • Developer Tools • Artificial Intelligence",
+      "categoryFa": "API • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/3c9de4bf-5d30-46a8-8d3d-1d94f3ee2b8b.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/fd600c2e-e49e-42eb-a759-dccbc3200e31.png?auto=format",
+        "https://ph-files.imgix.net/134c77ea-7911-415a-8af8-a1934e74d78d.png?auto=format",
+        "https://ph-files.imgix.net/342d8407-09a8-4d62-954f-3d4cf067d801.png?auto=format",
+        "https://ph-files.imgix.net/6e646454-d8a8-479e-b17b-027a1748868b.png?auto=format",
+        "https://ph-files.imgix.net/279a6950-1ef5-45e9-a37c-d36a9a4fdfc5.jpeg?auto=format",
+        "https://ph-files.imgix.net/2eced779-16da-4b9b-89f7-2071b3b01593.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 130,
+      "websiteUrl": "https://www.producthunt.com/r/QC2MD2OS3ZT23L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "At Appwrite, we're always looking for ways to make our team more productive. As we started using AI agents across engineering, customer support, and daily operations, we ran into a problem. Connecting our agents to different tools meant managing multiple MCP servers, credentials, and permissions across different AI clients.We wanted a simpler way to manage everything, so we built MCP1 for ourselves.What started as an internal tool quickly became an essential part of how we work, boosting our team's productivity by 10x.Today, we're excited to introduce MCP1 by Appwrite and make it available to everyone!The idea behind MCP1 is simple: One URL for every MCP server.With MCP1, you can connect all your MCP servers to AI clients like Claude Code, Cursor, ChatGPT, and Codex through a single URL. You can create personal or shared gateways, manage permissions and credentials securely, and monitor usage, all from one place.Instead of configuring servers separately for every AI client, you can set things up once and give your agents access to the tools they need.We built MCP1 entirely on Appwrite, and it's also part of a new series of satellite products we're building around Appwrite to help development teams become even more productive.MCP1 is free for individuals, with dedicated plans for teams and enterprises.You can get started at https://mcp1.comWe're proud of what we've built and excited to finally share it with the community. As always, your feedback is incredibly valuable to us, and we'll be around throughout the day to answer questions and hear what you think.We'd love to know how you're currently using MCP servers and what you'd like to see us build next!Thanks for your support! ❤️"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "with a shared gateway, can each teammate get different permissions per server, or is it one set for everyone?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch — setting things up once instead of per client is the part that sold me, that's the exact friction that's kept me from wiring up more servers. Quick question for a solo dev: is the audit log and per-person usage still useful at that scale, or is that mostly a team thing? Knowing which agent is hammering which server is what I'd want first."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Picture five of us on one gateway, all hitting the same GitHub and Linear. At 2am somebody's agent blows the rate limit and everyone's stuck. Can I see usage per person, so I know whose agent it was without digging through logs?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I use Claude Code with a few MCP servers and the tool list alone already eats a lot of context. with 10 servers behind one URL, can I choose which tools each client sees? and who refreshes an OAuth token that expires in the middle of a run?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Keeping every server credential behind one gateway instead of pasting keys into five different agent configs is what I would actually pay for, since mine are scattered across files I am afraid to touch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Managing a gateway once for several clients addresses a very concrete setup problem. A clear view of which tools each client can use would be useful before turning a personal gateway into a shared one."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-9",
       "date": "2026-10-22",
       "rank": 9,
@@ -68113,7 +68390,59 @@
           "user": "[REDACTED]",
           "text": "Deferred tool discovery is the part I'd want to test. Every StorkPlus store has its own MCP server, so an agent working across several stores could see hundreds of tools with near-identical names like product search and create order. When I create a session, can I scope which MCP servers it gets, so an agent for one store can never call another store's tools?"
         }
-      ]
+      ],
+      "faDescription": "ای‌پی‌آی مدیریت ایجنت‌های هوش مصنوعی کلیک به شما این امکان را می‌دهد تا از هر مدل دلخواهی استفاده کنید. تنها کافی است وظیفه مورد نظر را از طریق یک فراخوانی API ارسال کنید تا کلیک ایجنت را اجرا کرده و نتایج را به‌صورت زنده و لحظه‌ای بازگرداند. کلیک تمام پشته (Stack) مورد نیاز برای اجرای ایجنت را بدون نیاز به مدیریت هیچ‌گونه زیرساختی در اختیارتان قرار می‌دهد. تمام نشست‌ها همراه با امکانات کامل مورد نیاز ایجنت شامل محیط ایزوله (Sandbox)، مرورگر و ابزار جستجوی وب ساخته می‌شوند. همچنین ایجنت‌ها روی بستری با جدیدترین نوآوری‌ها اجرا می‌شوند؛ قابلیت‌هایی مانند کشف به‌تعویق‌افتاده ابزارها برای پشتیبانی از هزاران ابزار و حالت کد (Code Mode) برای استفاده از ابزارها به کمک اسکریپت.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت، آدیتیام! بسیار خوشحالم که API مدیریت ایجنت‌ها را که با هر مدلی کار می‌کند معرفی می‌کنم - مدل‌ها و ابزارهای خودتان را بیاورید و ایجنت‌ها را از طریق API اجرا کنید. درباره useclick.ai از ایجنت کدنویسی خود سوال کنید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "پشتیبانی از هر مدلی همراه با محیط ایزوله (Sandbox) آماده بسیار کاربردی است 🙌 تبریک می‌گویم! توسعه‌دهندگان در قدم اول چه چیزهایی با آن می‌سازند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "یکی از ایجنت‌های زمان‌بندی‌شده ما بعد از تغییر تنظیمات روی پیام تایید دسترسی قفل کرده بود و ما تازه عصر روز بعد متوجه شدیم. اگر ایجنت کلیک در چنین وضعیتی منتظر بماند، آیا API این موضوع را اعلام می‌کند یا وضعیت اجرای آن فقط به‌صورت مشغول (Busy) نشان داده می‌شود؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "حالت کد (Code Mode) بخشی است که دوست دارم اول امتحان کنم — استفاده از ابزارها با اسکریپت به‌جای فراخوانی تک‌تک آن‌ها باید رفت‌وبرگشت‌های زیادی را در کارهای چندمرحله‌ای کاهش دهد. همراه بودن نشست با Sandbox، مرورگر و جستجوی وبِ آماده هم جذابیت دیگر آن است، چون معمولاً این زیرساخت‌ها را خودم بازنویسی می‌کنم. آیا Code Mode با ابزارهای خودمان هم کار می‌کند یا فقط با ابزارهای داخلی فعال است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "سومین لانچ با همین نام نشان‌دهنده تغییر مسیرهای زیاد در کمتر از یک سال است - اول کرسر، بعد کانتکست تحقیقاتی و حالا API عمومی ایجنت‌های مدیریت‌شده. کنجکاوم بدانم واقعاً چه بخشی از زیرساخت منتقل شده و چه بخشی هر بار از نو ساخته شده است. همچنین ادعای 'کار با هر مدلی' آسان است تا زمانی که یک نشست طولانی در میان راه متوقف شود؛ آیا در این حالت ردپای کامل اجرای کار بازگردانده می‌شود یا فقط همان وضعیتی که در لحظه توقف وجود داشته؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "کشف ابزار به تعویق افتاده (Deferred tool discovery) بخشی است که می‌خواهم تست کنم. هر فروشگاه StorkPlus سرور MCP خودش را دارد، بنابراین ایجنتی که روی چند فروشگاه کار می‌کند ممکن است صدها ابزار با نام‌های مشابه مانند جستجوی محصول یا ثبت سفارش ببیند. وقتی یک نشست می‌سازم، آیا می‌توانم دامنه سرورهای MCP آن را محدود کنم تا ایجنت یک فروشگاه هرگز ابزارهای فروشگاه دیگر را فراخوانی نکند؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: راه‌اندازی و مدیریت ایجنت‌های هوش مصنوعی نیازمند توسعه زیرساخت‌های سنگینی مانند مرورگر، محیط اجرای کد (Sandbox) و جستجوی وب است. کلیک با ارائه یک API مدیریت‌شده، کل پشته اجرای ایجنت را آماده کرده و ابزارهایی مانند Code Mode را برای کاهش هزینه‌های فراخوانی ارائه می‌دهد.\n\nمعماری و تکنولوژی: کلیک از معماری متکی بر محیط‌های ایزوله، تکنیک Deferred Tool Discovery برای مدیریت هزاران ابزار بدون اورهاد، و قابلیت Stream لحظه‌ای داده‌ها استفاده می‌کند.\n\nمدل درآمدی: مدل مبتنی بر میزان مصرف (APIs & Sandbox execution time) و برنامه‌های اشتراکی ماهانه برای توسعه‌دهندگان و کسب‌ورکارها است.\n\nنقاط قوت: انعطاف‌پذیری بالا در انتخاب مدل (BYO Model)، بی‌نیازی از مدیریت زیرساخت، و ارائه ابزارهای کلیدی (Sandbox، مرورگر، جستجو) به‌صورت پیش‌فرض.\n\nنقاط ضعف: تغییر مسیرهای مکرر محصول در مدت زمان کوتاه (چالش پایداری استراتژی)، و ابهامات فنی در مدیریت خطاهای حین اجرای نشست‌های طولانی.\n\nنکته طلایی برای ایران: بوم‌سازی این زیرساخت با قابلیت اتصال به مدل‌های متن‌باز و ارائه Sandbox امن داخل کشور، می‌تواند به شتاب‌دهنده اصلی استارتاپ‌های حوزه اتوماسیون و ایجنت‌های هوشمند در ایران تبدیل شود.",
+      "iranEquivalent": {
+        "productName": "عامل‌ساز (AgentFlow)",
+        "description": "عامل‌ساز یک پلتفرم بومی ارائه API برای اجرای ایجنت‌های هوش مصنوعی مدیریت‌شده است که پیچیدگی‌های زیرساختی را برای تیم‌های فنی حذف می‌کند. این محصول تمام ابزارهای پایه مانند مرورگر ایزوله، Sandbox اجرای کد و جستجوی وب را به‌صورت پیش‌فرض در اختیار ایجنت‌ها قرار می‌دهد. همچنین توسعه‌دهندگان می‌توانند مدل‌های هوش مصنوعی دلخواه یا ابزارهای اختصاصی خود را به این بستر متصل کنند.",
+        "marketOpportunity": "با موج جدید اتوماسیون مبتنی بر هوش مصنوعی در ایران، شرکت‌های نرم‌افزاری و استارتاپ‌ها نیازمند زیرساختی آماده برای مدیریت و اجرای ایمن ایجنت‌ها هستند. ارائه پلتفرمی که چالش‌های زیرساختی و ایزوله‌سازی کد را حل کند، پاسخگوی نیاز شدید بازار توسعه‌دهندگان و شرکت‌های مبتنی بر فناوری خواهد بود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های فنی استارتاپ‌ها، شرکت‌های ارائه زیرساخت هوش مصنوعی و سازمان‌های نیازمند اتوماسیون پیشرفته",
+        "challenges": [
+          "پیچیدگی فنی در ایزوله‌سازی کامل Sandbox و حفظ امنیت در برابر اجرای کدهای مخرب",
+          "چالش تامین سرورها و زیرساخت پردازشی پایدار و کم‌تاخیر در محیط شبکه ایران"
+        ],
+        "monetization": [
+          "مدل پرداخت به میزان مصرف (Pay-as-you-go) بر اساس زمان اجرای Sandbox و تعداد فراخوانی‌های API",
+          "فروش اشتراک ماهانه سازمانی با پشتیبانی اختصاصی و قابلیت نصب در سرورهای محلی (On-Premise)"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Docker",
+          "FastAPI",
+          "Python",
+          "Redis"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -68177,7 +68506,63 @@
           "user": "[REDACTED]",
           "text": "the \"about me\" written by the model through its own API is the detail that got me, especially \"weaknesses included, published unedited.\" but a model describing its own weaknesses is still the model deciding what counts as a weakness worth admitting. have you ever checked one of those self-written profiles against what actually shows up later in its incident history? curious if there's ever a real gap between what a model says about itself and what it actually does."
         }
-      ]
+      ],
+      "faDescription": "مدل‌پیرز (Modelpeers) شبیه به لینکدین برای مدل‌های هوش مصنوعی و ایجنت‌ها است. شما می‌توانید مانند دنبال کردن افراد، مدل‌هایی مانند Claude Code، GPT-۶ و Gemini و بیش از ۲۰۰ مدل دیگر را دنبال کنید. در فید خود، به‌روزرسانی‌های جدید، تغییرات قیمت و محدودیت‌ها، اختلالات و بازنشستگی مدل‌ها را مشاهده می‌کنید. این پلتفرم به شما کمک می‌کند تا بدون نیاز به چک کردن مداوم صفحات تغییرات، از آخرین وضعیت ابزارهای هوش مصنوعی خود باخبر شوید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt، من لیور، سازنده Modelpeers هستم. من هر روز با ایجنت‌های کدنویسی هوش مصنوعی کار می‌کنم و همیشه تغییرات را به سختی یاد می‌گرفتم. مدلی که به آن تکیه می‌کردم، تاریخ تعطیلی داشت که هرگز ندیدم. پلن یک ایجنت کدنویسی به‌صورت پنهان، استفاده کمتری به من داد. مدلی بهتر منتشر شد و من دو هفته بعد در X از آن باخبر شدم. همه این اطلاعات عمومی بودند، اما در میان صفحات تغییرات، وضعیت و قیمت پخش شده بودند که کسی وقت خواندن آن‌ها را نداشت. Modelpeers به شما اجازه می‌دهد ایجنت‌ها و مدل‌های هوش مصنوعی را مانند افراد دنبال کنید و وقتی تغییری رخ می‌دهد به شما اطلاع دهد. این سرویس رایگان است. ۱️⃣ ایجنت‌هایی مانند Claude Code، Cursor، Codex و Copilot و مدل‌هایی مانند GPT، Claude و Gemini را دنبال کنید. این محصول با ۱۶۳ مدل و ۳۱ ایجنت از ۱۳ شرکت راه‌اندازی شده و لیست آن همچنان در حال رشد است. ۲️⃣ Modelpeers صفحات تغییرات، اعلان‌های بازنشستگی، صفحات وضعیت و صفحات قیمت‌گذاری آن‌ها را زیر نظر دارد. ۳️⃣ هر یکشنبه یک ایمیل دریافت می‌کنید: چه چیزی تغییر کرده، چه کسی تحت تأثیر قرار گرفته و چه کاری باید انجام دهید. هفته‌های آرامی که تغییری نیست، ایمیلی ارسال نمی‌شود. هشدارهای فوری را فعال کنید تا اگر تعطیلی‌ای سه روز دیگر رخ می‌دهد، همان روز به شما برسد. لازم نیست تا یکشنبه صبر کنید. فید زنده هر تغییری را به محض انتشار نشان می‌دهد: انتشارات جدید، بازنشستگی‌ها، تغییرات قیمت و محدودیت‌ها، حوادث و نتایج بنچمارک، هر کدام با لینک به منبع اصلی. هر ایجنت و مدل نیز یک پروفایل دارد: 🗓️ انتشارات، تاریخ‌های بازنشستگی و اینکه به چه چیزی سوئیچ کنید 💵 پلن‌ها، قیمت‌ها و محدودیت‌های استفاده، همراه با مقایسه قبل و بعد 📊 رتبه‌های بنچمارک از لیبورد‌های عمومی 🚨 تاریخچه حوادث از صفحات وضعیت رسمی 💬 نقل‌قول‌های کوتاه از سازندگان، هر کدام با لینک به پست اصلی 🥚 یک «درباره من» که هر مدل از طریق API خودش درباره خود نوشته است، شامل نقاط ضعف، بدون ویرایش منتشر شده ✍️ عادات نوشتاری: چند خط تیره استفاده می‌کند و هر بار که از کلمه delve استفاده می‌کند. دوست دارم بدانم اولین ایجنت یا مدلی که دنبال می‌کنید چیست و چه چیزی کم است. من تمام روز اینجا هستم تا به سوالات پاسخ دهم. 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "من از Claude Code زیاد استفاده می‌کنم، بنابراین ردیابی تغییرات محدودیت‌های استفاده واقعاً مفید خواهد بود. اگر محدودیتی قبل از اینکه هر جا به‌طور رسمی مستند شود تغییر کند، چه اتفاقی می‌افتد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "مقایسه قبل و بعد پلن‌ها و محدودیت‌ها همان بخشی است که واقعاً بررسی می‌کنم. آیا این سرویس همچنین زمانی که یک مدل به‌صورت پنهان با همان نام تعویض می‌شود، علامت می‌زند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ایده‌ی عالی‌ای است لیور :) چند بار برای ما در SlideSpeak اتفاق افتاد!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "قاعده‌ی «هفته‌های آرام ایمیلی ارسال نمی‌شود» همان چیزی است که باعث می‌شود واقعاً مشترک هضم هفتگی یکشنبه بمانم — اکثر اعلان‌های تغییرات شما را عادت می‌دهند که آن‌ها را نادیده بگیرید. مقایسه قبل و بعد محدودیت‌های استفاده نیز بخشی است که اهمیت می‌دهم، زیرا تغییر محدودیت فقط زمانی اهمیت دارد که بتوانم ببینم قبلاً چه چیزی داشتم. وقتی یک مدل بازنشسته می‌شود، آیا پروفایل شما را به نزدیک‌ترین معادل موجودی که از قبل دنبال می‌کنید ارجاع می‌دهد، یا فقط به‌طور کلی لیست می‌کند که به چه چیزی سوئیچ کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک بابت راه‌اندازی لیور. تغییر پنهان پلن همان چیزی بود که بیشترین آسیب را به من زد، کسی اعلام نمی‌کند که استفاده کوچک‌تر شده، شما فقط متوجه می‌شوید که ایجنت زودتر متوقف می‌شود. چگونه تغییراتی را که فقط در جدول صفحه قیمت‌گذاری وجود دارند و هرگز در صفحه تغییرات نیستند، شناسایی می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "نمی‌دانم چرا هیچ‌کس دیگر قبلاً به این فکر نکرده، اما ایده‌ی خنکی است. تبریک بابت راه‌اندازی لیور"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "جزئیاتی که مدل از طریق API خودش درباره خود نوشته، به‌ویژه «شامل نقاط ضعف، بدون ویرایش منتشر شده»، آن چیزی بود که مرا جذب کرد. اما وقتی یک مدل نقاط ضعف خود را توصیف می‌کند، در واقع مدل است که تصمیم می‌گیرد چه چیزی به‌عنوان ضعفی شایسته اعتراف است. آیا هرگز یکی از این پروفایل‌های خودنویس را با آنچه بعداً در تاریخچه حوادث آن ظاهر می‌شود، بررسی کرده‌اید؟ کنجکاو هستم آیا شکاف واقعی بین آنچه یک مدل درباره خود می‌گوید و آنچه واقعاً انجام می‌دهد وجود دارد."
+        }
+      ],
+      "aiReview": "مسئله اصلی، پراکندگی اطلاعات تغییرات در اکوسیستم هوش مصنوعی و عدم وجود کانال رسمی و متمرکز برای اطلاع‌رسانی به توسعه‌دهندگان است. راه‌حل ارائه‌شده (Modelpeers) با استفاده از مفهوم «دنبال کردن» (Follow) از شبکه‌های اجتماعی، پیچیدگی پایش چندین منبع را به یک فید ساده تبدیل می‌کند. از نظر معماری، این محصول به یک موتور کراولینگ (Crawler) قدرتمند برای اسکن مداوم صفحات تغییرات (Changelogs)، صفحات وضعیت (Status Pages) و صفحات قیمت‌گذاری نیاز دارد که با الگوریتم‌های تطبیق‌دهنده (Diffing) تغییرات را استخراج و دسته‌بندی کند. مدل درآمدی احتمالاً بر پایه مدل Freemium استوار است، جایی که کاربران فردی رایگان استفاده می‌کنند و شرکت‌ها برای هشدارهای فوری و گزارش‌های تیمی پرداخت می‌کنند. نقاط قوت شامل تمایز قوی در UX (تجربه کاربری)، تمرکز بر کاهش ریسک عملیاتی و ویژگی خلاقانه «درباره من» مدل‌هاست. نقاط ضعف می‌تواند شامل وابستگی به تغییرات ساختاری صفحات وب (که باعث شکست کراولر شود) و چالش‌های حقوقی مربوط به اسکن داده‌های شرکت‌های بزرگ باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی مستقیم به برخی سرویس‌های خارجی، ایجاد یک لایه واسط که تغییرات را به زبان فارسی خلاصه کند و پیشنهادهای جایگزین داخلی یا قابل دسترسی را ارائه دهد، می‌تواند مزیت رقابتی بزرگی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "هم‌مدل (HamModel)",
+        "description": "پلتفرمی برای ردیابی و مدیریت تغییرات مدل‌های هوش مصنوعی و ایجنت‌های کدنویسی در بازار ایران و جهان. این سرویس به توسعه‌دهندگان اجازه می‌دهد تا مانند شبکه‌های اجتماعی، مدل‌های مورد علاقه خود را دنبال کرده و از تغییرات قیمت، محدودیت و بازنشستگی آن‌ها باخبر شوند. با ارائه گزارش‌های هفتگی خلاصه و هشدارهای فوری، ریسک قطع سرویس یا افزایش هزینه‌های پنهان را کاهش می‌دهد.",
+        "marketOpportunity": "با رشد سریع استفاده از ابزارهای هوش مصنوعی در استارتاپ‌های ایرانی، نیاز به ابزارهای مدیریت و پایش این زیرساخت‌ها بسیار بالاست. نبود یک مرجع متمرکز برای تغییرات API و قیمت‌گذاری، باعث از دست رفتن زمان و افزایش هزینه‌های غیرضروری برای تیم‌های فنی می‌شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند و بک‌اند، تیم‌های مهندسی داده، استارتاپ‌های فین‌تک و تک‌نولوژی که به‌شدت به APIهای هوش مصنوعی وابسته هستند.",
+        "challenges": [
+          "دسترسی پایدار به APIهای خارجی و صفحات وضعیت در شرایط تحریم و نوسانات اینترنت",
+          "اعتبارسنجی دقیق تغییرات قیمت و محدودیت‌ها که اغلب به‌صورت غیررسمی یا در صفحات پیچیده منتشر می‌شوند"
+        ],
+        "monetization": [
+          "مدل رایگان برای کاربران فردی و پلن‌های اشتراکی ماهانه برای تیم‌های شرکتی با دسترسی به هشدارهای فوری و گزارش‌های پیشرفته",
+          "فروش دسترسی API به پلتفرم‌های مدیریت زیرساخت (DevOps) برای یکپارچه‌سازی خودکار"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -69234,58 +69619,6 @@
         ],
         "confidence": 82
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-11-09",
-      "rank": 7,
-      "name": "MCP1",
-      "slug": "mcp1",
-      "tagline": "One URL for every MCP server.",
-      "description": "Connect and manage all your MCP servers through a single gateway. Built by Appwrite, MCP1 lets you securely connect your AI tools, manage permissions, protect server credentials, and monitor tool usage. Works with Claude, Cursor, ChatGPT, Codex, and more. Free for individuals, with dedicated plans for teams and enterprises.",
-      "category": "API • Developer Tools • Artificial Intelligence",
-      "categoryFa": "API • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/3c9de4bf-5d30-46a8-8d3d-1d94f3ee2b8b.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/fd600c2e-e49e-42eb-a759-dccbc3200e31.png?auto=format",
-        "https://ph-files.imgix.net/134c77ea-7911-415a-8af8-a1934e74d78d.png?auto=format",
-        "https://ph-files.imgix.net/342d8407-09a8-4d62-954f-3d4cf067d801.png?auto=format",
-        "https://ph-files.imgix.net/6e646454-d8a8-479e-b17b-027a1748868b.png?auto=format",
-        "https://ph-files.imgix.net/279a6950-1ef5-45e9-a37c-d36a9a4fdfc5.jpeg?auto=format",
-        "https://ph-files.imgix.net/2eced779-16da-4b9b-89f7-2071b3b01593.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 126,
-      "websiteUrl": "https://www.producthunt.com/r/QC2MD2OS3ZT23L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "At Appwrite, we're always looking for ways to make our team more productive. As we started using AI agents across engineering, customer support, and daily operations, we ran into a problem. Connecting our agents to different tools meant managing multiple MCP servers, credentials, and permissions across different AI clients.We wanted a simpler way to manage everything, so we built MCP1 for ourselves.What started as an internal tool quickly became an essential part of how we work, boosting our team's productivity by 10x.Today, we're excited to introduce MCP1 by Appwrite and make it available to everyone!The idea behind MCP1 is simple: One URL for every MCP server.With MCP1, you can connect all your MCP servers to AI clients like Claude Code, Cursor, ChatGPT, and Codex through a single URL. You can create personal or shared gateways, manage permissions and credentials securely, and monitor usage, all from one place.Instead of configuring servers separately for every AI client, you can set things up once and give your agents access to the tools they need.We built MCP1 entirely on Appwrite, and it's also part of a new series of satellite products we're building around Appwrite to help development teams become even more productive.MCP1 is free for individuals, with dedicated plans for teams and enterprises.You can get started at https://mcp1.comWe're proud of what we've built and excited to finally share it with the community. As always, your feedback is incredibly valuable to us, and we'll be around throughout the day to answer questions and hear what you think.We'd love to know how you're currently using MCP servers and what you'd like to see us build next!Thanks for your support! ❤️"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch — setting things up once instead of per client is the part that sold me, that's the exact friction that's kept me from wiring up more servers. Quick question for a solo dev: is the audit log and per-person usage still useful at that scale, or is that mostly a team thing? Knowing which agent is hammering which server is what I'd want first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Picture five of us on one gateway, all hitting the same GitHub and Linear. At 2am somebody's agent blows the rate limit and everyone's stuck. Can I see usage per person, so I know whose agent it was without digging through logs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I use Claude Code with a few MCP servers and the tool list alone already eats a lot of context. with 10 servers behind one URL, can I choose which tools each client sees? and who refreshes an OAuth token that expires in the middle of a run?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Keeping every server credential behind one gateway instead of pasting keys into five different agent configs is what I would actually pay for, since mine are scattered across files I am afraid to touch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Managing a gateway once for several clients addresses a very concrete setup problem. A clear view of which tools each client can use would be useful before turning a personal gateway into a shared one."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -70445,6 +70778,52 @@
         ],
         "confidence": 60
       }
+    },
+    {
+      "id": "ph-today-8",
+      "date": "2026-11-09",
+      "rank": 8,
+      "name": "GitHub New PR Overview",
+      "slug": "github-new-pr-overview",
+      "tagline": "See what's blocking a PR before you scroll",
+      "description": "GitHub's new pull request overview page moves merge status to the top, with checks, approvals, comments, and next actions in one compact summary. It also adds unresolved-comment filters, newest-first sorting, and an activity panel.",
+      "category": "Developer Tools • GitHub",
+      "categoryFa": "ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/github?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/58fb2cca-eb63-47c4-883b-4abdae2776f4.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/b941d602-b9a4-4bb8-bab5-b1760bbc32a1.jpeg?auto=format",
+        "https://ph-files.imgix.net/c0df22d8-1014-4001-9e21-54da16780424.png?auto=format",
+        "https://ph-files.imgix.net/b9d21c0c-2d33-4b3c-bd55-3fb892a3588f.png?auto=format",
+        "https://ph-files.imgix.net/e1defce2-02ac-4db3-90a8-c247497d7718.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 124,
+      "websiteUrl": "https://www.producthunt.com/r/CNDTGBVSQ4JX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone!The change is simple: @GitHub moved the merge box to the top of the pull request page. Checks, approvals and comments sit in one small summary, next to the buttons you'd press next, like updating the branch or merging.If you've ever opened a PR with 80 comments and a pile of bot messages just to find out why it won't merge, you know why this matters. You can also filter to unresolved threads or your own comments, and sort comments by newest or oldest.It isn't a hit with everyone yet. In the feedback thread, people miss the links to force-push diffs, find newest-first an odd default, and a few say the slow PR page is the bigger problem. It's opt-in and still rolling out, so you might not see the button yet. You can go back to the classic view from the same menu."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I usually come back to a PR a day later and have to re-read the whole thread to remember where it stood, so having the merge status and summary right at the top is the part that helps me most — I don't have to scroll through 80 comments and bot messages just to get back up to speed. Curious if the classic view sticks around long-term, or if Overview is meant to replace it once it rolls out fully?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does the summary also show who needs to act next? ‘Waiting for approval’ is more useful that way."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Where is the \"Try the Overview page\" button 😾 I can't find it. I so want to try this! :D"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "unresolved threads filter is the sleeper feature here. on a long PR the blocker is usually one buried thread nobody resolved"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -72154,52 +72533,6 @@
       }
     },
     {
-      "id": "ph-today-8",
-      "date": "2026-11-09",
-      "rank": 8,
-      "name": "GitHub New PR Overview",
-      "slug": "github-new-pr-overview",
-      "tagline": "See what's blocking a PR before you scroll",
-      "description": "GitHub's new pull request overview page moves merge status to the top, with checks, approvals, comments, and next actions in one compact summary. It also adds unresolved-comment filters, newest-first sorting, and an activity panel.",
-      "category": "Developer Tools • GitHub",
-      "categoryFa": "ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/github?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/58fb2cca-eb63-47c4-883b-4abdae2776f4.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/b941d602-b9a4-4bb8-bab5-b1760bbc32a1.jpeg?auto=format",
-        "https://ph-files.imgix.net/c0df22d8-1014-4001-9e21-54da16780424.png?auto=format",
-        "https://ph-files.imgix.net/b9d21c0c-2d33-4b3c-bd55-3fb892a3588f.png?auto=format",
-        "https://ph-files.imgix.net/e1defce2-02ac-4db3-90a8-c247497d7718.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 122,
-      "websiteUrl": "https://www.producthunt.com/r/CNDTGBVSQ4JX55?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone!The change is simple: @GitHub moved the merge box to the top of the pull request page. Checks, approvals and comments sit in one small summary, next to the buttons you'd press next, like updating the branch or merging.If you've ever opened a PR with 80 comments and a pile of bot messages just to find out why it won't merge, you know why this matters. You can also filter to unresolved threads or your own comments, and sort comments by newest or oldest.It isn't a hit with everyone yet. In the feedback thread, people miss the links to force-push diffs, find newest-first an odd default, and a few say the slow PR page is the bigger problem. It's opt-in and still rolling out, so you might not see the button yet. You can go back to the classic view from the same menu."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I usually come back to a PR a day later and have to re-read the whole thread to remember where it stood, so having the merge status and summary right at the top is the part that helps me most — I don't have to scroll through 80 comments and bot messages just to get back up to speed. Curious if the classic view sticks around long-term, or if Overview is meant to replace it once it rolls out fully?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does the summary also show who needs to act next? ‘Waiting for approval’ is more useful that way."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Where is the \"Try the Overview page\" button 😾 I can't find it. I so want to try this! :D"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "unresolved threads filter is the sleeper feature here. on a long PR the blocker is usually one buried thread nobody resolved"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-6",
       "date": "2026-11-06",
       "rank": 6,
@@ -73755,7 +74088,60 @@
           "user": "[REDACTED]",
           "text": "Saves scattered across ten different apps is a real problem. Does it also pick up what I saved before installing, or only new saves?"
         }
-      ]
+      ],
+      "faDescription": "مگ‌پای یک کتابخانه بصری یکپارچه برای تمام محتواهایی است که در اینستاگرام، ایکس (توییتر سابق)، تیک‌تاک، پینترست، یوتیوب، ردیت، دریبل، بهنس، آرنا و وب ذخیره می‌کنید. این ابزار به کمک هوش مصنوعی به‌طور خودکار روی تمام ذخیره‌ها برچسب‌گذاری انجام می‌دهد تا مدیریت آن‌ها راحت‌تر شود. شما می‌توانید محتواهای ذخیره‌شده را بر اساس مفهوم، معنی دقیق یا حتی رنگ غالب جستجو کنید. همچنین حتی اگر پست اصلی از پلتفرم مبدأ حذف شود، نسخه ذخیره‌شده در کتابخانه شخصی شما برای همیشه باقی خواهد ماند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام! من امیر هستم. من مگ‌پای را ساختم چون هر ماه صدها مورد را در اینستاگرام، پینترست، ایکس، آرنا و وب به عنوان منبع برای کارهای طراحی ذخیره می‌کردم، اما زمانی که به آن‌ها نیاز داشتم هرگز پیدا نمی‌شدند. مگ‌پای همه آن‌ها را وارد یک کتابخانه می‌کند و بر اساس محتوای واقعی‌شان قابل جستجو می‌سازد. بخشی که خودم بیشتر استفاده می‌کنم، جستجوی ذخیره‌ها با عباراتی مثل «عکس‌های آرامی از محصول با نور گرم» و دریافت دقیق همان پست‌ها است؛ همچنین پروژه‌هایی که خودبه‌خود با ذخیره‌های متناسب با دستورالعمل پر می‌شوند. این ابزار تا ۵۰۰ ذخیره رایگان است. خوشحال می‌شوم بدانم شما چه چیزهایی را در کجا ذخیره می‌کنید و چه چیزی مگ‌پای را برایتان کاربردی‌تر می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "جزییاتی که نظر من را جلب کرد این است که ذخیره‌ها حتی وقتی پست اصلی پاک می‌شود حفظ می‌شوند؛ لینک‌های خراب دقیقاً همان چیزی هستند که بردهای رفرنس من را خراب می‌کنند. همچنین جستجوی ذخیره‌ها بر اساس محتوای واقعی آن‌ها، مانند مثال «عکس‌های آرام محصول با نور گرم»، همان روشی است که من درباره رفرنس‌ها فکر می‌کنم، نه بر اساس این‌که در کدام یک از ۱۰ اپلیکیشن ذخیره‌اش کرده‌ام."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "محصول خوبی است! من ۲ سوال دارم: آیا نسخه windows هم می‌سازید؟ و هزینه‌اش چقدر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک بابت انتشار! جستجو بر اساس رنگ بخشی بود که من را جذب کرد. نصف ذخیره‌های من رفرنس‌های بصری برای پرزنت‌ها و سایت‌ها هستند و من هیچ‌وقت یادم نمی‌ماند چه کسی آن‌ها را پست کرده، فقط یادم می‌آید چه شکلی بودند. همچنین این را که پست را بعد از حذف شدنش هم نگه می‌دارید دوست دارم، این اتفاق بارها در اینستاگرام برای من افتاده است. یک سوال سریع: آیا می‌توانم هر آنچه را که قبلاً در اینستاگرام و ایکس ذخیره کرده‌ام وارد کنم، یا فقط از لحظه نصب افزونه شروع به جمع‌آوری می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "اینستاگرام و تیک‌تاک ذخیره‌ها را از طریق API عمومی ارائه نمی‌دهند، بنابراین حدس می‌زنم افزونه هنگام مرور صفحه، تب ذخیره‌شده‌های شما را مستقیماً می‌خواند. این روش کار می‌کند تا زمانی که یکی از آن سایت‌ها ساختار DOM را تغییر دهد یا آن را به عنوان فعالیت خودکار روی حساب شناسایی کند. آیا این موضوع هنوز برای کسی مشکل‌ساز شده است؟ و آیا وقتی پلتفرمی طرح‌بندی خود را تغییر می‌دهد روش جایگزینی وجود دارد، یا همگام‌سازی به آرامی متوقف می‌شود تا زمانی که شما یک به‌روزرسانی ارائه دهید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "پراکندگی ذخیره‌ها در ده اپلیکیشن مختلف یک مشکل واقعی است. آیا این ابزار مواردی را که قبل از نصب ذخیره کرده‌ام هم جمع‌آوری می‌کند یا فقط ذخیره‌های جدید را می‌گیرد؟"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nکاربران و به‌ویژه متخصصان حوزه دیزاین و محتوا، رفرنس‌ها و ایده‌های خود را در ده‌ها پلتفرم مختلف (اینستاگرام، پینترست، ایکس، یوتیوب و...) ذخیره می‌کنند. این پراکندگی باعث می‌شود یافتن دوباره یک فایل بر اساس نام یا پلتفرم بسیار سخت باشد. مگ‌پای (magpie) با ایجاد یک کتابخانه بصری متمرکز و استفاده از هوش مصنوعی برای برچسب‌گذاری خودکار، امکان جستجوی دلالتی (معنایی) و دیداری (رنگ و محتوا) را فراهم کرده و مشکل لینک‌های مرده را با ذخیره‌سازی دائمی حل می‌کند.\n\nمعماری و تکنولوژی:\nاین محصول معمولاً از یک افزونه مرورگر (Browser Extension) برای استخراج داده‌ها از صفحات (DOM Scraping) و یک سامانه بک‌اند مبتنی بر دیتابیس‌های برداری (Vector Databases) بهره می‌برد. مدل‌های هوش مصنوعی مانند OpenAI CLIP یا شبکه‌های عصبی مشابه، تصاویر را به بردار (Vector) تبدیل می‌کنند تا امکان جستجوی معنایی و رنگی فراهم شود. برای ذخیره‌سازی دائمی نیز از فضای ابری (Cloud Storage) استفاده می‌شود.\n\nمدل درآمدی:\nمدل درآمدی پیشنهادی Freemium است؛ ۵۰۰ ذخیره اول رایگان ارائه می‌شود و برای استفاده نامحدود، قابلیت‌های پیشرفته هوش مصنوعی و فضای ذخیره‌سازی بیشتر، پلن‌های اشتراک ماهانه یا سالانه اخذ می‌گردد.\n\nنقاط قوت:\n۱. حل چالش لینک‌های خراب و حذف پست‌ها با ذخیره‌سازی دائمی محتوا.\n۲. جستجوی بسیار پیشرفته معنایی و رنگی بر اساس محتوای تصویر نه فقط متن.\n۳. متمرکز کردن داده‌های ۱۰ پلتفرم مختلف در یک داشبورد ساده.\n\nنقاط ضعف:\n۱. وابستگی شدید به ساختار وب‌سایت‌ها و تغییرات DOM که ممکن است باعث اختلال در افزونه شود.\n۲. چالش‌های مربوط به قوانین حریم خصوصی و محدودیت‌های پلتفرم‌ها علیه اسکرپینگ خودکار.\n۳. هزینه‌های بالای پردازش و نگهداری داده‌های تصویر برای تعداد زیاد کاربران.\n\nنکته طلایی برای ایران:\nدر ایران، به دلیل فیلترینگ و احتمال قطع دسترسی به پلتفرم‌های خارجی یا حذف حساب‌ها، چالش «از دست رفتن رفرنس‌ها» بسیار جدی‌تر است. بومی‌سازی این ابزار با امکان دانلود خودکار و ذخیره روی سرورهای داخلی یا ذخیره‌سازی محلی (Local Cache)، همراه با پشتیبانی از جستجوی متنی و معنایی به زبان فارسی، می‌تواند آن را به ابزاری حیاتی برای طراحان و آژانس‌های تبلیغاتی ایرانی تبدیل کند.",
+      "iranEquivalent": {
+        "productName": "ذخیره‌بان (آرشیویا)",
+        "description": "یک پلتفرم یکپارچه برای هوشمندسازی و سازمان‌دهی تمام نشانک‌ها و پست‌های ذخیره‌شده کاربران در شبکه‌های اجتماعی مختلف است. این ابزار با استفاده از هوش مصنوعی، محتواهای بصری و متنی را برچسب‌گذاری کرده و امکان جستجوی مفهومی و رنگی را فراهم می‌کند. همچنین امکان پشتیبان‌گیری دائمی از فایل‌ها را جهت جلوگیری از دست رفتن آن‌ها ارائه می‌دهد.",
+        "marketOpportunity": "طراحان، طراحان وب، مدیران محتوا و پژوهشگران ایرانی روزانه صدها ایده بصری را در پلتفرم‌های مختلف ذخیره می‌کنند اما به دلیل پراکندگی برنامه‌ها دسترسی مجدد به آن‌ها دشوار است. ایجاد یک دستیار هوشمند آرشیو محتوا با پشتیبانی از پردازش تصویر و جستجوی مفهومی، پاسخگوی نیاز مبرم جامعه خلاق ایران خواهد بود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طراحان گرافیک، طراحان UI/UX، مدیران شبکه‌های اجتماعی، تولیدکنندگان محتوا و پژوهشگران بصری",
+        "challenges": [
+          "عدم ارائه API رسمی توسط پلتفرم‌هایی نظیر اینستاگرام و چالش‌های اسکرپینگ یا تغییرات DOM",
+          "هزینه‌های بالای پردازش هوش مصنوعی (Embedding و Vector Search) در حجم بالا",
+          "ریسک مسدودسازی اکانت کاربران توسط شبکه‌های اجتماعی به دلیل تشخیص فعالیت خودکار افزونه"
+        ],
+        "monetization": [
+          "اشتراک ماهانه/سالانه برای کاربران حرفه‌ای (مدل فری‌میوم بر اساس تعداد ذخیره)",
+          "فروش حجم ذخیره‌سازی ابری بیشتر و قابلیت‌های هوش مصنوعی پیشرفته‌تر"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python (FastAPI)",
+          "Qdrant / Pinecone (Vector Database)",
+          "Chrome Extension API",
+          "OpenAI CLIP / Vision Models"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -77375,6 +77761,55 @@
       }
     },
     {
+      "id": "ph-today-9",
+      "date": "2026-11-09",
+      "rank": 9,
+      "name": "Voyager",
+      "slug": "voyager-9",
+      "tagline": "✴️ An agentic file browser to navigate your work context",
+      "description": "Voyager brings AI agents into your everyday file work on macOS. Find the files you need and work with AI agents using them as context, all within a familiar file browser. Meet a file browser built for finding your files and putting them to work with AI.",
+      "category": "Productivity • Developer Tools • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/vygr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/d233496a-1628-4f65-a943-3b399b0b86e1.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e37fbd7c-a275-4e5b-8d28-6dbba9eddc8d.png?auto=format",
+        "https://ph-files.imgix.net/2b3d5a3a-4515-4215-b614-7bcea1be76e3.png?auto=format",
+        "https://ph-files.imgix.net/5944044e-ece2-4401-a000-de7a3f7665ac.png?auto=format",
+        "https://ph-files.imgix.net/4430710f-5557-4f81-878a-19e0166d9dca.png?auto=format",
+        "https://ph-files.imgix.net/2e9c6735-1132-4862-8387-1390efda209f.png?auto=format",
+        "https://ph-files.imgix.net/18ccbae3-04bf-435a-b046-adf3617e43a8.png?auto=format",
+        "https://ph-files.imgix.net/addde1ae-4aab-48c5-9db8-2b4171c3ad22.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 114,
+      "websiteUrl": "https://www.producthunt.com/r/DECOX5K4UP7P3G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt!I'm Jongmin, co-founder of Voyager. Voyager is an agentic file browser for knowledge workers on macOS.As we hand more work to AI agents, it becomes more important to keep track of what each task was based on and which results we chose to use. Files and outputs pile up, but when the context stays in chat threads and our heads, we end up explaining the same background again for the next task.We want people and AI to be able to build on the files, decisions, and results of previous work. That's why we're starting with a file browser, where the source files and outputs already are. We're building a way to work with agents there and preserve the context created along the way.✴️ Here's what you can do in Voyager today:File browsing: Browse and manage your files as you would in Finder.Agent chat: Bring the agent you already use into your file browser. Voyager currently supports Claude Code, Codex, and Hermes, and we're working on support for more agents.Tab workspace: Use Arc-like tabs to keep frequently used folders open, and organize your work and chats into tab groups.All current Voyager features are free. If you're looking for a better file browser, give it a try."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "claude code, codex, hermes. cursor too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This clicks for me — the part about keeping track of what each agent task was based on, and which results you chose to use. I hand a lot of work to agents now, and the hardest part isn't getting the output, it's coming back later and re-explaining the same background because the context stayed in a chat thread. Bringing Claude Code into the file browser itself, where the source files and outputs already live, feels like the right place for that context to live. Curious how the file-as-context works in practice — does the agent see just the selected files, or the surrounding folder too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can it read my notes folder on its own?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Starting with the file browser makes sense when the source files and outputs are already there. Keeping the files behind a result visible would help someone pick up the next task without reconstructing the chat."
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-10-17",
       "rank": 7,
@@ -79613,55 +80048,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-11-09",
-      "rank": 9,
-      "name": "Voyager",
-      "slug": "voyager-9",
-      "tagline": "✴️ An agentic file browser to navigate your work context",
-      "description": "Voyager brings AI agents into your everyday file work on macOS. Find the files you need and work with AI agents using them as context, all within a familiar file browser. Meet a file browser built for finding your files and putting them to work with AI.",
-      "category": "Productivity • Developer Tools • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/vygr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/d233496a-1628-4f65-a943-3b399b0b86e1.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e37fbd7c-a275-4e5b-8d28-6dbba9eddc8d.png?auto=format",
-        "https://ph-files.imgix.net/2b3d5a3a-4515-4215-b614-7bcea1be76e3.png?auto=format",
-        "https://ph-files.imgix.net/5944044e-ece2-4401-a000-de7a3f7665ac.png?auto=format",
-        "https://ph-files.imgix.net/4430710f-5557-4f81-878a-19e0166d9dca.png?auto=format",
-        "https://ph-files.imgix.net/2e9c6735-1132-4862-8387-1390efda209f.png?auto=format",
-        "https://ph-files.imgix.net/18ccbae3-04bf-435a-b046-adf3617e43a8.png?auto=format",
-        "https://ph-files.imgix.net/addde1ae-4aab-48c5-9db8-2b4171c3ad22.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-09T08:01:00Z",
-      "votes": 111,
-      "websiteUrl": "https://www.producthunt.com/r/DECOX5K4UP7P3G?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt!I'm Jongmin, co-founder of Voyager. Voyager is an agentic file browser for knowledge workers on macOS.As we hand more work to AI agents, it becomes more important to keep track of what each task was based on and which results we chose to use. Files and outputs pile up, but when the context stays in chat threads and our heads, we end up explaining the same background again for the next task.We want people and AI to be able to build on the files, decisions, and results of previous work. That's why we're starting with a file browser, where the source files and outputs already are. We're building a way to work with agents there and preserve the context created along the way.✴️ Here's what you can do in Voyager today:File browsing: Browse and manage your files as you would in Finder.Agent chat: Bring the agent you already use into your file browser. Voyager currently supports Claude Code, Codex, and Hermes, and we're working on support for more agents.Tab workspace: Use Arc-like tabs to keep frequently used folders open, and organize your work and chats into tab groups.All current Voyager features are free. If you're looking for a better file browser, give it a try."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "claude code, codex, hermes. cursor too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This clicks for me — the part about keeping track of what each agent task was based on, and which results you chose to use. I hand a lot of work to agents now, and the hardest part isn't getting the output, it's coming back later and re-explaining the same background because the context stayed in a chat thread. Bringing Claude Code into the file browser itself, where the source files and outputs already live, feels like the right place for that context to live. Curious how the file-as-context works in practice — does the agent see just the selected files, or the surrounding folder too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "can it read my notes folder on its own?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Starting with the file browser makes sense when the source files and outputs are already there. Keeping the files behind a result visible would help someone pick up the next task without reconstructing the chat."
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -84066,6 +84452,67 @@
       ]
     },
     {
+      "id": "ph-today-10",
+      "date": "2026-11-09",
+      "rank": 10,
+      "name": "Cardboard AI",
+      "slug": "cardboard-ai",
+      "tagline": "Best way to edit videos with AI",
+      "description": "Cardboard is an AI video editor that turns your raw clips into stories. Think of it as a creative collaborator that understands your footage, has taste to know what makes a great edit, and brings your vision to life.",
+      "category": "Marketing • Artificial Intelligence • Video",
+      "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/cardboard-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/52a253ba-d221-434c-a12d-0e9144012643.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3a48c809-c8ee-449b-8bfa-24575fe007d3.jpeg?auto=format",
+        "https://ph-files.imgix.net/78d4535c-aa5f-4461-a39f-077be9e3ea7d.png?auto=format",
+        "https://ph-files.imgix.net/c0b9e882-7732-4573-815a-f102f56ea9ee.png?auto=format",
+        "https://ph-files.imgix.net/83f60a69-8055-4869-b066-24c909f3af45.png?auto=format",
+        "https://ph-files.imgix.net/77a590d9-faae-477f-971a-2fb15aef8742.png?auto=format",
+        "https://ph-files.imgix.net/e34bfa20-fb8e-4291-b5af-6794e1804a0e.png?auto=format",
+        "https://ph-files.imgix.net/49f9c657-7bf5-45ce-9928-219d7542f0da.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-09T08:01:00Z",
+      "votes": 104,
+      "websiteUrl": "https://www.producthunt.com/r/CUFL5L7KXTX4V4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I'm Saksham, Co-Founder & CEO of Cardboard (Backed by Y Combinator).A few months ago, we launched Cardboard to make video editing as simple as describing what you want.Today, we're excited to bring Cardboard to your desktop :)Introducing Cardboard for Mac!We've always believed that making a video shouldn't mean spending hours learning editing software or manually cutting clips on a timeline.You should be able to upload your footage, describe the video you have in mind, and get a great edit in minutes.And that's exactly what you can do with cardboard.aiWith the new desktop app, you can now:- Edit videos for free: Get started with a free Lite plan, no credit card needed.- Bring your own AI agents: Connect your existing Claude or ChatGPT subscription to edit videos.- Keep your footage local: Your clips stay on your Mac instead of being uploaded to the cloud.- Edit faster: Less uploading and waiting, with footage processed locally.- Do more with video: Generate visuals, create motion graphics, and recreate edits from references.Cardboard is for you if you're a creator, marketer, engineer, founder, designer, product manager, educator, a small business owner, or work in a team who need video without learning the complex timeline.Would love for you to try the Mac app and tell us what you think!We'll be here in the comments all day. Ask us anything :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "As someone building Mac apps, the local-footage + bring-your-own-Claude angle is what caught me — no upload wait and no extra AI subscription to manage. Curious how it holds up on longer footage locally on Apple Silicon, that's usually where desktop editors either shine or choke."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Now like a super vivid user of cardboard and have also recommended to my fellow creators."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cardboard is one of the veryyy few delta 4 products I keep boasting about in my circle. Hardcore fan of the team and what they have achieved so far. If you haven't already, this is one of those gems thats bound to make your visual storytelling at least 10x better. Cant wait for whats next. Great launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "have been using for a month or so now, habitual to prompting it out and letting cardboard do the magic :)"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "AI agents combined with local processing is an interesting technical direction. Would love to know more about the architecture"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Local processing plus Ai powered editing is a combination worth exploring. Congrats on shipping!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "keeping the footage on the mac removes a pretty annoying upload stepusing an existing ai subscription is a useful option too"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-11-08",
       "rank": 10,
@@ -88273,7 +88720,58 @@
           "user": "[REDACTED]",
           "text": "i have been using Raah and i have now set it as my default for analytics, performance and I feel the insights it gives are absolutely amazing so i highly recommend anyone to use Raah"
         }
-      ]
+      ],
+      "faDescription": "محصول Raah.dev یک ابزار جامع و مدرن برای آنالیتیکس وب، ردیابی درآمد و پایش عملکرد کاربران واقعی در یک داشبورد یکپارچه است. این پلتفرم داده‌های مربوط به پرداخت‌ها و نرخ تبدیل را مستقیماً به شاخص‌های فنی مانند سرعت بارگذاری، تاخیر API، خطاهای سیستم و عملکرد سرویس‌دهندگان اینترنت (ISP) متصل می‌کند. راه علاوه بر ارائه تحلیل‌های کاربرمحور و حفظ حریم خصوصی، قابلیت اتصال به ایجنت‌های هوش مصنوعی و دستیارهای کدنویسی از طریق پروتکل MCP را فراهم کرده است. هدف اصلی این ابزار، تبدیل داده‌های فنی پیچیده نظیر کندی صفحات به معیارهای ملموس مالی مانند «درآمد در معرض خطر» است تا تیم‌ها بتوانند اولویت‌بندی دقیق‌تری برای رفع باگ‌ها داشته باشند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همراهان پروداکت هانت! 👋 ما مدتی است که در حال توسعه Raah هستیم و بسیار خوشحالم که بالاخره آن را در اینجا به اشتراک می‌گذارم. هنگام کار روی محصولات وب، همیشه با یک مشکل تکراری مواجه می‌شدیم: ابزارهای آنالیتیکس به ما می‌گفتند کاربران در کجا ریزش کرده‌اند، اما مشخص نمی‌کردند که آیا یک صفحه کند، یک API ناموفق یا تجربه شبکه‌ای ضعیف در این ریزش نقش داشته است یا خیر. عیب‌یابی معمولاً به معنای جابه‌جایی بین چندین ابزار مختلف بود. بنابراین ما Raah را ساختیم: آنالیتیکس وب با حفظ حریم خصوصی، ردیابی درآمد و پایش شبکه کاربران واقعی در یک داشبورد. امکاناتی که در اختیار دارید شامل: آنالیتیکس کاربر (ردیابی بازدیدکنندگان، مسیرها، قیف‌ها، نرخ بازگشت و کانال‌های جذب)، درآمد و نرخ تبدیل (ردیابی پرداخت‌ها، منابع درآمدی و تخمین درآمد در معرض خطر)، کیفیت کانال‌ها (مقایسه نرخ تبدیل، صفحات فرود و عملکرد در منابع ترافیکی مختلف)، پایش شبکه (مراقبت از تاخیر API، خطاها، Web Vitals و عملکرد در سطح ISP) و هوش مصنوعی/MCP (کاوش در آنالیتیکس با AI و اتصال Raah به ایجنت‌های کدنویسی مانند Claude Code و Cursor). ما همچنین هشدارهه‌ها، صفحات وضعیت عمومی و موارد دیگر را اضافه کرده‌ایم. ما تیم کوچکی هستیم و هنوز موارد زیادی برای بهبود وجود دارد. مشتاقانه منتظر بازخوردها و پیشنهادات شما هستم، این اولین انتشار ماست. ممنون از بررسی‌تان! 🙌"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "زاویه اتصال به MCP بخشی است که من اول از همه امتحان می‌کنم. امکان متصل کردن این ابزار به Claude Code یا Cursor و پرس‌وجو درباره آنالیتیکس مستقیماً در محیط کدنویسی، بسیار بهتر از جابه‌جایی بین داشبوردهای مختلف است؛ به‌خصوص زمانی که همان نمای گرافیکی تاخیر API و خطاها را به «درآمد در معرض خطر» ربط می‌دهد. این طرز نگاه باعث می‌شود یک صفحه کند مانند یک مشکل مالی واقعی به نظر برسد، نه فقط یک امتیاز ساده در Web Vitals."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ترکیب ویژگی‌ها در اینجا چیزی است که بیشتر از هر قابلیت تنهایی جلب توجه می‌کند؛ قرارگیری درآمد، مسیر حرکت کاربر و داده‌های شبکه در سطح ISP همگی در یک داشبورد، سیگنال‌های زیادی درباره هر بازدیدکننده در یک جا ارائه می‌دهد. وقتی این سیستم از طریق MCP به یک ایجنت کدنویسی متصل شود، سوال این است که ایجنت دقیقاً مجاز به پرس‌وجوی چه داده‌هایی است؟ آمار کلان یا امکان بررسی جزئیات یک سشن خاص و ISP آن هم وجود دارد؟ به نظر من مسئله واقعی حریم خصوصی در این بخش نهفته است، نه فقط بخش آنالیتیکس به تنهایی."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای انتشار، آناند. بخش «درآمد در معرض خطر» قسمتی است که من هر روز صبح اول از همه آن را باز خواهم کرد. شما چگونه آن را تخمین می‌زنید؟ آیا بر اساس سشن‌های واقعی از دست رفته در صفحات کند محاسبه می‌شود یا بیشتر یک حدس مبتنی بر مدل‌سازی است؟ اگر این عدد حتی یک بار خیلی بالا و غیرواقعی به نظر برسد، افراد اعتماد خود را به کل داشبورد از دست می‌دهند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "آریندام هستم، هم‌سازنده Raah 👋 بخش مورد علاقه من در ساخت این محصول، نمای «درآمد در معرض خطر» بود. اکثر ابزارها فقط به شما می‌گویند یک صفحه کند است، اما Raah به شما می‌گوید که آن صفحه کند تقریباً چند دلار در این هفته برای شما هزینه داشته است. تبدیل ارزش عملکرد فنی به متریک‌های مالی، نحوه اولویت‌بندی رفع باگ‌ها را در تیم خود ما تغییر داد. اگر آن را امتحان کنید، پلن رایگان برای یک پروژه واقعی کافی است. به ما بگویید چه چیزی خراب می‌شود یا چه چیزی کم است؛ ما با سرعت بالا در حال توسعه هستیم و همه نظرات را می‌خوانیم. 🙏"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من از Raah استفاده می‌کنم و اکنون آن را به عنوان ابزار پیش‌فرض خود برای آنالیتیکس و عملکرد قرار داده‌ام. احساس می‌کنم تحلیل‌هایی که ارائه می‌دهد فوق‌العاده شگفت‌انگیز است، بنابراین شدیداً استفاده از Raah را به همه پیشنهاد می‌کنم."
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nابزارهای سنتی آنالیتیکس (مانند گوگل آنالیتیکس) و ابزارهای پایش عملکرد (مانند Datadog یا Sentry) همواره در دو دنیای مجزا کار کرده‌اند؛ اولی ریزش کاربر را نشان می‌دهد و دومی کندی سرور یا خطاهای شبکه را. Raah.dev با تلفیق این دو جبهه، مسئله عدم ارتباط بین «مشکلات فنی» و «زیان مالی» را حل کرده است. راه‌حل این محصول ارائه شاخص منحصر‌به‌فرد Revenue at Risk است که کندی صفحات یا خطای API را به مبلغ دلاری تبدیل می‌کند تا اولویت‌بندی باگ‌ها ساده‌تر شود.\n\n### معماری و تکنولوژی\nمعماری سیستم بر پایه پردازش حجم بالای داده‌های سنگین لحظه‌ای (Real-time Stream Processing) طراحی شده است. استفاده از دیتابیس‌های تحلیلی مانند ClickHouse برای تحلیل سناریوهای پیچیده کاربر به همراه پروتکل نوظهور MCP (Model Context Protocol) نقطه‌عطف فنی آن است. این پروتکل به ایجنت‌های هوش مصنوعی (مثل Claude Code و Cursor) اجازه می‌دهد مستقیماً از داخل محیط کدنویسی درباره وضعیت آنالیتیکس و خطاهای سیستم سوال بپرسند.\n\n### مدل درآمدی\nمدل درآمدی شامل ساختار فری‌میوم (Freemium) با پلن رایگان قدرتمند برای جذب توسعه‌دهندگان و پلن‌های پرمیوم ماهانه/سالانه بر اساس تعداد بازدیدکننده (MAU) و میزان کال‌های API است. همچنین ارزش افزوده اصلی محصول در لایه سازمانی با ارائه گزارش‌های پیشرفته شبکه و هشدارهای پیشگیرانه نقد می‌شود.\n\n### نقاط قوت\n۱. **ترکیب خلاقانه متریک‌ها:** متصل کردن داده‌های ISP و API Latency به میزان درآمد و نرخ تبدیل.\n۲. **پیشگامی در ادغام با AI:** پشتیبانی از پروتکل MCP جهت استفاده مستقیم ایجنت‌های هوش مصنوعی در توسعه و خطایابی.\n۳. **طراحی کاربرمحور:** تبدیل متغیرهای پیچیده فنی به زبان ساده مالی (Dollarizing Web Vitals).\n\n### نقاط ضعف\n۱. **چالش الگوریتم تخمین:** حساسیت بالای کاربران به نحوه محاسبه «درآمد در معرض خطر»؛ اگر تخمین‌ها نادقیق یا اغراق‌آمیز باشند، اعتماد کاربر به کل داشبورد سلب می‌شود.\n۲. **دغدغه‌های حریم خصوصی:** جمع‌آوری همزمان داده‌های ISP، مسیر کاربر و اطلاعات مالی، چالش‌های سخت‌گیرانه‌ای در سطح قوانین حریم خصوصی (مانند GDPR) ایجاد می‌کند.\n\n### نکته طلایی برای بازار ایران\nدر بازار ایران به دلیل نوسانات شدید کیفیت اینترنت اپراتورها (ایرانسل، همراه اول، مخابرات) و اختلالات مداوم درگاه‌های پرداخت، توسعه ابزاری که بتواند به مدیر استارتاپ نشان دهد «کدام اپراتور اینترنتی بیشترین ریزش خرید را برای شما ایجاد کرده است» یا «قطعی درگاه پرداخت چقدر به فروش امروز ضربه زده»، ارزش پیشنهادی بی‌نظیری دارد که مشتریان حاضrand بابت آن هزینه‌های سنگینی بپردازند.",
+      "iranEquivalent": {
+        "productName": "راه‌بین (Rahbin)",
+        "description": "راه‌بین یک پلتفرم بومی پایش عملکرد وب‌سایت و آنالیتیکس مالی است که کندی شبکه و خطاهای درگاه پرداخت را مستقیماً به افت فروش متصل می‌کند. این سیستم با تحلیل کیفیت شبکه‌های اینترنت کشور (همراه اول، ایرانسل، مخابرات)، تأثیر اختلالات شبکه بر ریزش مشتریان را محاسبه می‌نماید. همچنین با ارائه گزارش‌های دقیق، به تیم‌های فنی و محصول کمک می‌کند تا قطعیت‌های زیرساخت را به زبان ارزش مالی درک و رفع کنند.",
+        "marketOpportunity": "با توجه به اختلالات پرتکرار شبکه و عدم پایداری درگاه‌های پرداخت در ایران، ابزاری که بتواند میزان خسارت مالی ناشی از کندی یا قطعی شبکه ISPها را به تومان نشان دهد بازار فوق‌العاده تشنه‌ای دارد. کسب‌وکارهای E-commerce و پروژه‌های SaaS ایرانی شدیداً نیازمند یک ابزار یکپارچه برای تشخیص هوشمند ریزش مشتری به دلیل مشکلات زیرساختی شبکه داخلی هستند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "مدیران فنی (CTO)، توسعه‌دهندگان فرانت‌اند و بک‌اند، مدیران محصول و تیم‌های پشتیبانی زیرساخت در استارتاپ‌ها و فروشگاه‌های اینترنتی بزرگ و متوسط ایرانی.",
+        "challenges": [
+          "پیچیدگی در تشخیص و تفکیک اختلالات لحظه‌ای اپراتورهای مختلف اینترنت ایران (همراه اول، ایرانسل، مخابرات) و الگوریتم‌های فیلترینگ",
+          "یکپارچه‌سازی امن با درگاه‌های مختلف پرداخت ایرانی (شاپرک، زرین‌پال، سامان‌کیش) جهت دریافت دقیق داده‌های درآمدی بدون نقض حریم خصوصی"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهیانه و سالیانه بر اساس حجم بازدیدکنندگان و میزان درخواست‌های API (Monthly Active Users / API Calls)",
+          "ارائه پلن‌های سازمانی (Enterprise) به همراه قابلیت نصب در زیرساخت اختصاصی (On-Premise) برای بانک‌ها و سازمان‌های بزرگ مالی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "ClickHouse",
+          "Go",
+          "Python"
+        ],
+        "confidence": 88
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -90896,7 +91394,44 @@
           "user": "[REDACTED]",
           "text": "The explicit undo/redo is the detail that would make me trust this with a messy rebase — building it only on operations Git can actually reverse, plus a crash-recovery journal, is a much more honest model than a generic undo button. The 200k-commit virtualized graph is the other real test. When a rebase stops mid-way, does the journal surface that exact intermediate state on relaunch, or do you have to go looking for it?"
         }
-      ]
+      ],
+      "faDescription": "بی‌برنچ یک جایگزین متن‌باز برای کلاینت‌های تجاری گیت است که به‌طور اختصاصی برای تیم‌هایی طراحی شده که با گیت‌لب و گیت‌هاب کار می‌کنند. این نرم‌افزار با رویکرد اولویت‌دادن به داده‌های محلی (Local-First) توسعه یافته است و هیچ وابستگی‌ای به فضای ابری اختصاصی ندارد. کاربران نیازی به ایجاد حساب کاربری در پلتفرم‌های واسط ندارند و هیچ داده‌ای برای تحلیل رفتار (Telemetry) جمع‌آوری نمی‌شود. همچنین، این ابزار فاقد هرگونه قابلیت هوش مصنوعی است و تمرکز آن صرفاً بر ارائه یک محیط امن و شفاف برای مدیریت نسخه‌هاست.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت 👋 من یوهان، سازنده بی‌برنچ هستم: یک کلاینت گیت متن‌باز و محلی‌محور برای دسکتاپ. من آن را ساختم چون هر روز با گیت‌لب خودمیزبان (Self-hosted) کار می‌کنم و هر کلاینت گیت گرافیکی که امتحان کردم، ابتدا چیزی از من می‌خواست — یک حساب کاربری، یک فضای کاری ابری، تله‌متری، یا یک قابلیت هوش مصنوعی که هرگز نمی‌خواستم. بی‌برنچ هیچ‌کدام از این‌ها را نمی‌خواهد. مخازن شما تنها منبع حقیقت باقی می‌مانند و اپلیکیشن هیچ ایده‌ای ندارد که شما کیستید. چه چیزهایی در آن وجود دارد: • یک گردش کار محلی کامل: وضعیت، مرحله‌بندی (Staging) بر اساس فایل / هانک / خط، کامیت و اصلاح (Amend)، استیش (Stash)، تگ‌ها، درخت‌های کاری (Worktrees)، ساب‌ماژول‌ها و چسب‌ها (Patches). • یک تاریخچه تعاملی با گراف بوم مجازی‌سازی‌شده (Virtualized Canvas Graph) — ۲۰۰ هزار کامیت هموار باقی می‌ماند. بنچمارک‌ها در مخزن نسخه‌بندی شده‌اند، نه بر اساس حس و حال. • ادغام (Merge) و بازپایه‌سازی (Rebase) با حالت‌های میانی واقعی، لغو/بازگردانی (Undo/Redo) صریح که فقط بر روی عملیات‌هایی ساخته شده که گیت می‌تواند آن‌ها را معکوس کند، و یک ژورنال بازیابی از کرش. • گیت‌لب بومی (درخواست‌های ادغام، پایپ‌لاین‌ها، نشان‌های CI) و گیت‌هاب (درخواست‌های کشیدن، بازبینی‌ها، چک‌ها، لاگ‌های اکشن‌ها)، از جمله گیت‌لب خودمیزبان و گیت‌هاب سازمانی. احراز هویت یک توکن دسترسی شخصی (PAT) در کلیدزنجیر سیستم عامل است، یا استفاده مجدد از اعتبارنامه‌های گیت موجود شما — راز هرگز در اپلیکیشن کپی نمی‌شود. • صفر تله‌متری. صفر هوش مصنوعی. شبکه فقط برای گیت، APIهای گیت‌لب/گیت‌هاب و به‌روزرسانی‌های تأییدشده با مینی‌ساین (minisign) استفاده می‌شود. macOS (Apple Silicon)، ویندوز و لینوکس. نیاز به گیت ≥ ۲.۳۴ دارد. AGPL-۳.۰، رایگان، منبع شامل است: https://github.com/Methamorphe/beebranch این انتشار ۱.۰.۰ است، بنابراین صادق خواهم بود: این اولین نسخه عمومی است. بازخوردی که بیش از همه اهمیت می‌دهم این است: آیا موقعیت‌یابی «بدون حساب، بدون ابر، اولویت به گیت‌لب خودمیزبان» واقعاً با نحوه کار تیم شما مطابقت دارد، یا یک گردش کاری وجود دارد که قبل از جایگزینی کلاینت فعلی خود به آن نیاز دارید؟ من تمام روز در بخش نظرات حضور خواهم داشت. ممنون که امتحانش کردید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "نداشتن تله‌متری و حساب کاربری فروشنده، پیشنهادی نادر برای یک کلاینت گیت است؛ بیشتر آن‌ها به‌طور خاموش فرض می‌کنند که شما جایی وارد سیستم می‌شوید. چیزی که واقعاً در روز اول با گیت‌لب خودمیزبان تست می‌کنم، یک CA سفارشی است؛ بسیاری از نمونه‌های سازمانی پشت تفسیر TLS یا یک پروکسی داخلی قرار دارند. آیا بی‌برنچ برای این کار از انبار اعتماد سیستم عامل (OS trust store) استفاده می‌کند، یا باید خودتان یک گواهی به آن بدهید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "لغو/بازگردانی صریح، جزئیاتی است که باعث می‌شود من به این ابزار برای یک بازپایه‌سازی (Rebase) شلوغ اعتماد کنم — ساختن آن فقط بر روی عملیات‌هایی که گیت واقعاً می‌تواند معکوس کند، به علاوه یک ژورنال بازیابی از کرش، مدلی بسیار صادقانه‌تر از یک دکمه لغو عمومی است. گراف مجازی‌سازی‌شده ۲۰۰ هزار کامیت، تست دیگر واقعی است. وقتی یک بازپایه‌سازی در میانه متوقف می‌شود، آیا ژورنال آن حالت میانی دقیق را هنگام راه‌اندازی مجدد نشان می‌دهد، یا باید برای پیدا کردن آن بگردید؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که کلاینت‌های گرافیکی گیت موجود در بازار، اغلب کاربران را به سمت ایجاد حساب کاربری، استفاده از فضای ابری یا ارسال داده‌های تله‌متری سوق می‌دهند که برای تیم‌های سازمانی و پروژه‌های حساس از نظر امنیتی غیرقابل قبول است. راه‌حل ارائه‌شده (بی‌برنچ) یک کلاینت محلی‌محور (Local-First) است که بدون نیاز به احراز هویت در سرورهای خارجی کار می‌کند و تمرکز آن بر روی عملکرد خالص گیت و اتصال مستقیم به گیت‌لب/گیت‌هاب (از جمله نسخه‌های خودمیزبان) است. از نظر معماری، این محصول احتمالاً از تکنولوژی‌های سبک‌وزن برای رندر گراف‌های سنگین (مانند ۲۰۰ هزار کامیت) استفاده می‌کند و با استفاده از کلیدزنجیر سیستم عامل برای ذخیره توکن‌ها، امنیت را در سطح سیستم عامل تضمین می‌کند. مدل درآمدی این محصول بر پایه متن‌باز بودن (Open Source) است که اعتماد اولیه را جلب می‌کند و می‌تواند از طریق فروش پشتیبانی سازمانی یا ویژگی‌های پیشرفته تجاری درآمدزایی کند. نقاط قوت اصلی شامل شفافیت کامل، عدم وجود تله‌متری، پشتیبانی قوی از گیت‌لب خودمیزبان و عملکرد بالا در گراف‌های بزرگ است. نقاط ضعف ممکن است شامل پیچیدگی نصب برای کاربران غیرفنی و نیاز به دانش فنی گیت باشد. نکته طلایی برای ایران: با توجه به قطع دسترسی به سرویس‌های ابری خارجی و افزایش استفاده از گیت‌لب خودمیزبان در شرکت‌های ایرانی، این محصول می‌تواند به عنوان یک ابزار «ملی و امن» با برندی فارسی‌شده (مانند شعبه‌بان) بازاری بسیار بزرگ و وفادار پیدا کند، به‌ویژه اگر قابلیت‌های اتصال به گیت‌لب‌های داخلی و پشتیبانی فنی به زبان فارسی ارائه شود.",
+      "iranEquivalent": {
+        "productName": "شعبه‌بان",
+        "description": "شعبه‌بان یک کلاینت گیت دسکتاپی متن‌باز است که با تمرکز بر امنیت داده‌ها و استقلال از سرویس‌های ابری خارجی طراحی شده است. این ابزار به‌طور اختصاصی برای تیم‌های توسعه‌دهنده‌ای ساخته شده که از گیت‌لب خودمیزبان (Self-hosted) در محیط‌های سازمانی استفاده می‌کنند. با حذف نیاز به حساب کاربری و تله‌متری، این محصول تضمین می‌کند که داده‌های کد تیم‌ها کاملاً در اختیار خودشان باقی بماند.",
+        "marketOpportunity": "بازار ایران به دلیل تحریم‌ها و محدودیت‌های دسترسی به سرویس‌های ابری خارجی، تشنه‌ی ابزارهای محلی و امن است. بسیاری از شرکت‌های فناوری اطلاعات از گیت‌لب خودمیزبان استفاده می‌کنند و به دنبال جایگزینی برای کلاینت‌های سنگین یا وابسته به ابر هستند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "تیم‌های توسعه‌دهنده نرم‌افزار، شرکت‌های فناوری اطلاعات، و توسعه‌دهندگان فریلنسر که بر روی پروژه‌های سازمانی با گیت‌لب خودمیزبان کار می‌کنند.",
+        "challenges": [
+          "رقابت با ابزارهای رایگان و شناخته‌شده مانند Sourcetree یا Fork که اگرچه وابسته به ابر هستند اما کاربرپسند می‌باشند.",
+          "نیاز به آموزش کاربران برای درک مفاهیم پیشرفته گیت مانند Worktrees و Submodules در محیط‌های سازمانی."
+        ],
+        "monetization": [
+          "مدل متن‌باز با ارائه نسخه سازمانی (Enterprise) شامل پشتیبانی اختصاصی و ویژگی‌های مدیریت دسترسی.",
+          "فروش لایسنس‌های تجاری برای شرکت‌هایی که نیاز به پشتیبانی فنی ۲۴/۷ و به‌روزرسانی‌های امنیتی تضمین‌شده دارند."
+        ],
+        "techStack": [
+          "Electron",
+          "Rust",
+          "SQLite"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -92379,12 +92914,12 @@
     }
   ],
   "audit": {
-    "products": 932,
-    "withRealComments": 932,
-    "withPersianComments": 837,
-    "withPersianDescription": 837,
-    "withAiReview": 808,
-    "withIranEquivalent": 837,
-    "totalRealComments": 5777
+    "products": 933,
+    "withRealComments": 933,
+    "withPersianComments": 846,
+    "withPersianDescription": 846,
+    "withAiReview": 817,
+    "withIranEquivalent": 846,
+    "totalRealComments": 5786
   }
 }
