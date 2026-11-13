@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:23:46.582Z",
+  "generatedAt": "2026-11-13T02:54:59.385Z",
   "sourceFiles": 95,
   "products": [
     {
@@ -7734,7 +7734,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "Founder & CEO at Empacer",
       "featuredAt": "2026-10-29T07:01:00Z",
-      "votes": 486,
+      "votes": 487,
       "websiteUrl": "https://www.producthunt.com/r/RXY756OTRKZOLG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -8094,7 +8094,7 @@
       "maker": "[REDACTED]",
       "makerTitle": "",
       "featuredAt": "2026-11-01T07:01:00Z",
-      "votes": 474,
+      "votes": 475,
       "websiteUrl": "https://www.producthunt.com/r/MXBY2KB22GHVHB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
       "comments": [
         {
@@ -17584,6 +17584,72 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-12",
+      "rank": 1,
+      "name": "Plurai Simulation",
+      "slug": "plurai-simulation",
+      "tagline": "A simulated world that makes your agent improve on every run",
+      "description": "Find your agent’s worst bugs before your users do. One command in Claude Code, Codex or GitHub Copilot builds a digital twin of your agent’s world: synthetic personas and documents, plus mocked tools, APIs and databases, in sandboxes that never touch production.",
+      "category": "API • Developer Tools • Artificial Intelligence",
+      "categoryFa": "API • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/88985531-f5a2-4565-bc25-85d438eba883.png?auto=format",
+        "https://ph-files.imgix.net/831d9fac-bd79-45cb-8024-1b225186a1eb.png?auto=format",
+        "https://ph-files.imgix.net/965bcd44-76f4-468b-96eb-ccb1613424ad.png?auto=format",
+        "https://ph-files.imgix.net/4c948dd5-9bfc-42eb-a472-1cfa4ed007da.png?auto=format",
+        "https://ph-files.imgix.net/6226d60a-8ea0-47b8-a660-017ef2c60f39.png?auto=format",
+        "https://ph-files.imgix.net/0b50a589-5fa6-47fb-822b-13177da0400e.png?auto=format",
+        "https://ph-files.imgix.net/5e271e23-9850-4c59-bab1-813acc3cc991.png?auto=format",
+        "https://ph-files.imgix.net/87921701-60ae-44fb-83b8-93c41f692abb.png?auto=format",
+        "https://ph-files.imgix.net/36a16698-688e-4c9e-99d1-109f6cf577cb.png?auto=format",
+        "https://ph-files.imgix.net/c06e7b0f-4293-4d33-b99b-647c9037ad2c.png?auto=format",
+        "https://ph-files.imgix.net/635e2931-d2b4-4ab4-8050-8e5beed0fbfe.png?auto=format",
+        "https://ph-files.imgix.net/8e98a757-2d8a-479f-bcf5-f224ee8b6581.jpeg?auto=format"
+      ],
+      "maker": "Maria Anosova 🔥 ",
+      "makerTitle": "AI no-code platform",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 365,
+      "websiteUrl": "https://www.producthunt.com/r/ZBKQ4BKXEJCORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Ilan from Plurai here.Before Plurai, I built simulation for autonomous driving. Self-driving cars earned trust in millions of simulated miles before real roads. AI agents still skip that step.Most agent testing puts a fake user in front of your agent and grades the chat. The transcript says \"refund issued.\" Did the refund actually happen?Plurai runs inside the coding agent you already use. Point it at your repo and your real, unchanged agent gets a digital twin: its tools, records and documents, rebuilt from your code, with one consistent world state. We mock what should be mocked and keep what matters live, like your RAG.Personas that push back walk every flow, simple to brutal. Auto evals check what the agent did to the world, not what it said. Production failures replay from the exact step they broke, even after your agent changed. Every bug arrives with the conversation that proves it and a fix, re-run three times. Teams cut failure rates by 82%.Connect your agent and start free: https://simulation.plurai.ai/connect. Tell us what breaks first."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Ilan! That’s amazing. Making better our agents can help us to scale faster than ever. Congrats on the launch"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! How long does it take to run my first simulation ?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really interesting approach. Testing what agents actually do in realistic scenarios feels like a missing piece in AI development, and I’m excited to see this developme!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the direction evals needed to go — a static benchmark tells you how an agent did once, but a simulated world shows you where it breaks repeatedly. The part I'm most curious about is the loop back: when the sim finds a failure, does it feed straight into a new task the agent has to pass on the next run, or is that triage still on the developer? Either way, catching the worst bugs before users do is the right pitch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How realistic do the simulated users get when you’re trying to catch weird edge cases before production?Looks interesting! Congrats team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulations! \"Find your agent’s worst bugs before your users do\" - that’s really useful."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Guys, how long does it take to get from description to a deployed model?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-7",
       "date": "2026-11-02",
       "rank": 7,
@@ -19604,72 +19670,6 @@
         ],
         "confidence": 70
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-11-12",
-      "rank": 1,
-      "name": "Plurai Simulation",
-      "slug": "plurai-simulation",
-      "tagline": "A simulated world that makes your agent improve on every run",
-      "description": "Find your agent’s worst bugs before your users do. One command in Claude Code, Codex or GitHub Copilot builds a digital twin of your agent’s world: synthetic personas and documents, plus mocked tools, APIs and databases, in sandboxes that never touch production.",
-      "category": "API • Developer Tools • Artificial Intelligence",
-      "categoryFa": "API • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/88985531-f5a2-4565-bc25-85d438eba883.png?auto=format",
-        "https://ph-files.imgix.net/831d9fac-bd79-45cb-8024-1b225186a1eb.png?auto=format",
-        "https://ph-files.imgix.net/965bcd44-76f4-468b-96eb-ccb1613424ad.png?auto=format",
-        "https://ph-files.imgix.net/4c948dd5-9bfc-42eb-a472-1cfa4ed007da.png?auto=format",
-        "https://ph-files.imgix.net/6226d60a-8ea0-47b8-a660-017ef2c60f39.png?auto=format",
-        "https://ph-files.imgix.net/0b50a589-5fa6-47fb-822b-13177da0400e.png?auto=format",
-        "https://ph-files.imgix.net/5e271e23-9850-4c59-bab1-813acc3cc991.png?auto=format",
-        "https://ph-files.imgix.net/87921701-60ae-44fb-83b8-93c41f692abb.png?auto=format",
-        "https://ph-files.imgix.net/36a16698-688e-4c9e-99d1-109f6cf577cb.png?auto=format",
-        "https://ph-files.imgix.net/c06e7b0f-4293-4d33-b99b-647c9037ad2c.png?auto=format",
-        "https://ph-files.imgix.net/635e2931-d2b4-4ab4-8050-8e5beed0fbfe.png?auto=format",
-        "https://ph-files.imgix.net/8e98a757-2d8a-479f-bcf5-f224ee8b6581.jpeg?auto=format"
-      ],
-      "maker": "Maria Anosova 🔥 ",
-      "makerTitle": "AI no-code platform",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 350,
-      "websiteUrl": "https://www.producthunt.com/r/ZBKQ4BKXEJCORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Ilan from Plurai here.Before Plurai, I built simulation for autonomous driving. Self-driving cars earned trust in millions of simulated miles before real roads. AI agents still skip that step.Most agent testing puts a fake user in front of your agent and grades the chat. The transcript says \"refund issued.\" Did the refund actually happen?Plurai runs inside the coding agent you already use. Point it at your repo and your real, unchanged agent gets a digital twin: its tools, records and documents, rebuilt from your code, with one consistent world state. We mock what should be mocked and keep what matters live, like your RAG.Personas that push back walk every flow, simple to brutal. Auto evals check what the agent did to the world, not what it said. Production failures replay from the exact step they broke, even after your agent changed. Every bug arrives with the conversation that proves it and a fix, re-run three times. Teams cut failure rates by 82%.Connect your agent and start free: https://simulation.plurai.ai/connect. Tell us what breaks first."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! How long does it take to run my first simulation ?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really interesting approach. Testing what agents actually do in realistic scenarios feels like a missing piece in AI development, and I’m excited to see this developme!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the direction evals needed to go — a static benchmark tells you how an agent did once, but a simulated world shows you where it breaks repeatedly. The part I'm most curious about is the loop back: when the sim finds a failure, does it feed straight into a new task the agent has to pass on the next run, or is that triage still on the developer? Either way, catching the worst bugs before users do is the right pitch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How realistic do the simulated users get when you’re trying to catch weird edge cases before production?Looks interesting! Congrats team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations! \"Find your agent’s worst bugs before your users do\" - that’s really useful."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Guys, how long does it take to get from description to a deployed model?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Awesome launch guys! Been following Plurai for a while now. Their team is top class"
-        }
-      ]
     },
     {
       "id": "ph-week-9",
@@ -22171,6 +22171,68 @@
       }
     },
     {
+      "id": "ph-week-6",
+      "date": "2026-11-10",
+      "rank": 6,
+      "name": "Maxma",
+      "slug": "maxma-2",
+      "tagline": "The 24/7 AI teammate that scales your paid ad performance",
+      "description": "Maxma is the AI platform that 10Xs your human marketers. It does the end-to-end work of paid advertising, from analyzing performance, creating ads and landing pages, and launching and optimizing campaigns across channels, to managing tracking and reporting. Working like a teammate in Slack, on demand or proactively 24/7, it proposes changes for approval and drives measurable, incremental growth across Google, Meta, TikTok, LinkedIn, ChatGPT Ads, and more. So lean teams can grow without limits.",
+      "category": "Marketing • Advertising • Artificial Intelligence",
+      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/c7cc6bff-c0ff-4ade-8cec-58570496b7df.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/2685ae33-68b0-442b-868c-e5497f482278.png?auto=format",
+        "https://ph-files.imgix.net/55525bc3-9238-491c-b5ac-a088e1c0be4d.png?auto=format",
+        "https://ph-files.imgix.net/a49013a2-5143-4dcf-8f3e-586372e503cb.png?auto=format",
+        "https://ph-files.imgix.net/bb64e378-f988-4a25-a37a-c6301db2d6ef.png?auto=format",
+        "https://ph-files.imgix.net/75d650b7-bf90-4fe1-a954-5f3f792d3ece.png?auto=format",
+        "https://ph-files.imgix.net/19d20c40-8f41-47f0-a19b-1d63de13a12f.png?auto=format",
+        "https://ph-files.imgix.net/bb5d821c-67e9-42ab-be21-647a4bc5451c.png?auto=format",
+        "https://ph-files.imgix.net/1ccf6f59-5ada-462f-9af6-e9800d04094c.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-10T08:01:00Z",
+      "votes": 330,
+      "websiteUrl": "https://www.producthunt.com/r/GQHET4C6E2F2ZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi everyone, I'm Yurong, founder of Maxma.I spent over a decade in paid media inside enterprise marketing teams at companies like P&G and Asana — first as a marketer, then as a marketing scientist. I saw how much of their growth came from paid media. But it's much harder for everyone else to make it work, and it isn't about budget — you can start with $100. It's that doing it well takes media buyers, creatives, analysts, ops, and someone technical. A whole team. Most teams never have that.I founded Maxma to make enterprise-grade paid growth infrastructure accessible to every team. With AI, it's finally possible.Think of Maxma as your AI paid ads team, handling the work end to end that otherwise needs a bench of specialists — from setting up tracking and launching across 10+ ad platforms, to tagging and analyzing creative, to measuring true incrementality and deciding where the next dollar goes.We're not trying to build an AI CMO to replace marketers. Great marketers are still worth every dollar — the strategy, the judgment, the taste. What Maxma unlocks is everything that's otherwise waiting on one more hire.Lean professional team → run like a team of a hundredOne marketer wearing every hat → the supporting team around youFounder doing it yourself → start experimenting with paid before you hire a specialist or an agencyWould really like to hear how this lands. If you're running paid ads today — which part would you hand off first? And if you're not, what's holding you back?Thanks for spending a bit of time with Maxma."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I can see a lot of ways to use Maxma. Some demo videos or example use cases would help people get the most out of the platform."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Which ad channels does Maxma support? Can I get suggestions on where to test first?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How does Maxma do the targeting? If, many of my potential customers are only present in a specific region how does Maxma figure it out."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cool product. I might try it for my Shopify store ads. Thanks to the makers for such a nice implementation of the idea."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch!I'm intrigued about one thing. What's the average ROAS that Maxma has been able to achieve on ad campaigns?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on the launch yurong. to your question, i would hand off creative rotation first, fatigue is easy to miss when you check once a week. the part i would keep is the landing page, a lot of paid traffic dies after the click and the ad gets the blame )"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats Yurong! Treating creative fatigue and rotation as ongoing work, not something that stops at launch, is the part most tools skip. When the agent proposes moving budget between channels, does the Slack approval show the evidence behind it (say, the geo incrementality result), or just the recommendation? Seeing the \"why\" is what would make me comfortable approving from Slack."
+        }
+      ]
+    },
+    {
       "id": "ph-week-7",
       "date": "2026-11-04",
       "rank": 7,
@@ -22348,68 +22410,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-week-6",
-      "date": "2026-11-10",
-      "rank": 6,
-      "name": "Maxma",
-      "slug": "maxma-2",
-      "tagline": "The 24/7 AI teammate that scales your paid ad performance",
-      "description": "Maxma is the AI platform that 10Xs your human marketers. It does the end-to-end work of paid advertising, from analyzing performance, creating ads and landing pages, and launching and optimizing campaigns across channels, to managing tracking and reporting. Working like a teammate in Slack, on demand or proactively 24/7, it proposes changes for approval and drives measurable, incremental growth across Google, Meta, TikTok, LinkedIn, ChatGPT Ads, and more. So lean teams can grow without limits.",
-      "category": "Marketing • Advertising • Artificial Intelligence",
-      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/c7cc6bff-c0ff-4ade-8cec-58570496b7df.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/2685ae33-68b0-442b-868c-e5497f482278.png?auto=format",
-        "https://ph-files.imgix.net/55525bc3-9238-491c-b5ac-a088e1c0be4d.png?auto=format",
-        "https://ph-files.imgix.net/a49013a2-5143-4dcf-8f3e-586372e503cb.png?auto=format",
-        "https://ph-files.imgix.net/bb64e378-f988-4a25-a37a-c6301db2d6ef.png?auto=format",
-        "https://ph-files.imgix.net/75d650b7-bf90-4fe1-a954-5f3f792d3ece.png?auto=format",
-        "https://ph-files.imgix.net/19d20c40-8f41-47f0-a19b-1d63de13a12f.png?auto=format",
-        "https://ph-files.imgix.net/bb5d821c-67e9-42ab-be21-647a4bc5451c.png?auto=format",
-        "https://ph-files.imgix.net/1ccf6f59-5ada-462f-9af6-e9800d04094c.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-10T08:01:00Z",
-      "votes": 329,
-      "websiteUrl": "https://www.producthunt.com/r/GQHET4C6E2F2ZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi everyone, I'm Yurong, founder of Maxma.I spent over a decade in paid media inside enterprise marketing teams at companies like P&G and Asana — first as a marketer, then as a marketing scientist. I saw how much of their growth came from paid media. But it's much harder for everyone else to make it work, and it isn't about budget — you can start with $100. It's that doing it well takes media buyers, creatives, analysts, ops, and someone technical. A whole team. Most teams never have that.I founded Maxma to make enterprise-grade paid growth infrastructure accessible to every team. With AI, it's finally possible.Think of Maxma as your AI paid ads team, handling the work end to end that otherwise needs a bench of specialists — from setting up tracking and launching across 10+ ad platforms, to tagging and analyzing creative, to measuring true incrementality and deciding where the next dollar goes.We're not trying to build an AI CMO to replace marketers. Great marketers are still worth every dollar — the strategy, the judgment, the taste. What Maxma unlocks is everything that's otherwise waiting on one more hire.Lean professional team → run like a team of a hundredOne marketer wearing every hat → the supporting team around youFounder doing it yourself → start experimenting with paid before you hire a specialist or an agencyWould really like to hear how this lands. If you're running paid ads today — which part would you hand off first? And if you're not, what's holding you back?Thanks for spending a bit of time with Maxma."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I can see a lot of ways to use Maxma. Some demo videos or example use cases would help people get the most out of the platform."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Which ad channels does Maxma support? Can I get suggestions on where to test first?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How does Maxma do the targeting? If, many of my potential customers are only present in a specific region how does Maxma figure it out."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Cool product. I might try it for my Shopify store ads. Thanks to the makers for such a nice implementation of the idea."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch!I'm intrigued about one thing. What's the average ROAS that Maxma has been able to achieve on ad campaigns?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on the launch yurong. to your question, i would hand off creative rotation first, fatigue is easy to miss when you check once a week. the part i would keep is the landing page, a lot of paid traffic dies after the click and the ad gets the blame )"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Yurong! Treating creative fatigue and rotation as ongoing work, not something that stops at launch, is the part most tools skip. When the agent proposes moving budget between channels, does the Slack approval show the evidence behind it (say, the geo incrementality result), or just the recommendation? Seeing the \"why\" is what would make me comfortable approving from Slack."
-        }
-      ]
     },
     {
       "id": "ph-week-10",
@@ -27828,6 +27828,68 @@
       }
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-11-12",
+      "rank": 2,
+      "name": "YouArt Desktop App",
+      "slug": "youart-desktop-app",
+      "tagline": "Codex for creative team",
+      "description": "Meet YouArt Desktop App: AI creative teammate that lives on your computer. Agent-first video production is here. Pull your local files and context from Slack, Gmail and GitHub onto one canvas, and with computer use it operates After Effects, CapCut and Blender directly. From feature launch videos to viral remakes and clips from your long videos, it takes the whole job end to end. Bring your own API keys, and smart routing sends every shot to the cheapest provider.",
+      "category": "Marketing • Artificial Intelligence • Video",
+      "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f47c5780-5a8a-4458-90ed-2700c2f4d548.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3c287c09-dd24-499d-9b87-8d4fd547cffa.jpeg?auto=format",
+        "https://ph-files.imgix.net/fe3851f1-ce9b-4584-9047-1d6f998d58c9.png?auto=format",
+        "https://ph-files.imgix.net/bddbf455-14ae-4bb8-9a15-e45fc198053d.png?auto=format",
+        "https://ph-files.imgix.net/ce9f6a0d-6b84-43ac-a378-6068525bbc7d.png?auto=format",
+        "https://ph-files.imgix.net/cf778ad9-337f-4645-80a6-e51251e73f87.png?auto=format",
+        "https://ph-files.imgix.net/f8e61fa8-c255-4cb1-88ae-8b62137b1e14.png?auto=format",
+        "https://ph-files.imgix.net/de3e4c9a-8c77-4669-a186-cada2f0e06be.png?auto=format",
+        "https://ph-files.imgix.net/c6a400d9-01f6-47f1-bd6b-dedb5f1ddbc6.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 296,
+      "websiteUrl": "https://www.producthunt.com/r/5TX6YWUYYRHQUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "We're so excited to bring you YouArt Desktop App.A little over a year ago, we launched the first version of YouArt right here on Product Hunt. It was one of the first products to let an agent run a creative workflow. Back then, that was hard to imagine: most agents still couldn't reliably orchestrate a node-based system.A year later, intelligence has leaped forward. Seedance 2.0 is an impressive video model. Opus 5.5 is to video editing and motion graphics, what Sonnet 3.7 was to coding. And Astra's computer use finally connects agents to traditional creative workflows.But a smart agent in a browser tab can only do so much. Real creative work lives on your computer: your project folders, your After Effects and CapCut files, your client feedback in Slack and Gmail. Web tools make you upload, download and switch apps at every step, and the context gets lost along the way. So we brought the agent to where the work actually happens. On desktop, it can read your local files, work alongside your team's conversations and operate the creative tools you already use.All of this made us believe that agentic first video production is finally possible. YouArt Desktop is our take on AI-native creative production. We hope you love it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting to see agents meet traditional creative tools instead of trying to replace them. That's probably the adoption path pros will actually accept."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Running AE and CapCut locally is a huge step up from web-only tools. Being able to jump in and fix the timeline manually before export makes this actually usable for real client work. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part that caught my eye is the agent actually operating After Effects and Blender directly instead of just generating clips to drop in by hand — that's the piece most AI video tools skip. I'm curious how it treats a timeline that already has a bunch of manual edits in it: does it work around what's there, or does it take over the whole project?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can beginners create professional quality designs without having any experience with workflow editors?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does YouArt support collaboration when multiple designers are working on the same project?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "How well does it handle switching between tools like after effects, capcut and blender during one project?Interesting. Congrats!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats for the launch @harry_zheng @edward_maze ! Super bullish"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-2",
       "date": "2026-11-11",
       "rank": 2,
@@ -29815,68 +29877,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-12",
-      "rank": 2,
-      "name": "YouArt Desktop App",
-      "slug": "youart-desktop-app",
-      "tagline": "Codex for creative team",
-      "description": "Meet YouArt Desktop App: AI creative teammate that lives on your computer. Agent-first video production is here. Pull your local files and context from Slack, Gmail and GitHub onto one canvas, and with computer use it operates After Effects, CapCut and Blender directly. From feature launch videos to viral remakes and clips from your long videos, it takes the whole job end to end. Bring your own API keys, and smart routing sends every shot to the cheapest provider.",
-      "category": "Marketing • Artificial Intelligence • Video",
-      "categoryFa": "بازاریابی • هوش مصنوعی • ویدیو",
-      "url": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f47c5780-5a8a-4458-90ed-2700c2f4d548.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/3c287c09-dd24-499d-9b87-8d4fd547cffa.jpeg?auto=format",
-        "https://ph-files.imgix.net/fe3851f1-ce9b-4584-9047-1d6f998d58c9.png?auto=format",
-        "https://ph-files.imgix.net/bddbf455-14ae-4bb8-9a15-e45fc198053d.png?auto=format",
-        "https://ph-files.imgix.net/ce9f6a0d-6b84-43ac-a378-6068525bbc7d.png?auto=format",
-        "https://ph-files.imgix.net/cf778ad9-337f-4645-80a6-e51251e73f87.png?auto=format",
-        "https://ph-files.imgix.net/f8e61fa8-c255-4cb1-88ae-8b62137b1e14.png?auto=format",
-        "https://ph-files.imgix.net/de3e4c9a-8c77-4669-a186-cada2f0e06be.png?auto=format",
-        "https://ph-files.imgix.net/c6a400d9-01f6-47f1-bd6b-dedb5f1ddbc6.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 284,
-      "websiteUrl": "https://www.producthunt.com/r/5TX6YWUYYRHQUE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "We're so excited to bring you YouArt Desktop App.A little over a year ago, we launched the first version of YouArt right here on Product Hunt. It was one of the first products to let an agent run a creative workflow. Back then, that was hard to imagine: most agents still couldn't reliably orchestrate a node-based system.A year later, intelligence has leaped forward. Seedance 2.0 is an impressive video model. Opus 5.5 is to video editing and motion graphics, what Sonnet 3.7 was to coding. And Astra's computer use finally connects agents to traditional creative workflows.But a smart agent in a browser tab can only do so much. Real creative work lives on your computer: your project folders, your After Effects and CapCut files, your client feedback in Slack and Gmail. Web tools make you upload, download and switch apps at every step, and the context gets lost along the way. So we brought the agent to where the work actually happens. On desktop, it can read your local files, work alongside your team's conversations and operate the creative tools you already use.All of this made us believe that agentic first video production is finally possible. YouArt Desktop is our take on AI-native creative production. We hope you love it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The part that caught my eye is the agent actually operating After Effects and Blender directly instead of just generating clips to drop in by hand — that's the piece most AI video tools skip. I'm curious how it treats a timeline that already has a bunch of manual edits in it: does it work around what's there, or does it take over the whole project?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "can beginners create professional quality designs without having any experience with workflow editors?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does YouArt support collaboration when multiple designers are working on the same project?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "How well does it handle switching between tools like after effects, capcut and blender during one project?Interesting. Congrats!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats for the launch @harry_zheng @edward_maze ! Super bullish"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When I opened the site, I noticed a very pleasing design and user-friendly navigation. However, regarding the left-hand column: when I tried to view the content further down, the background scrolled instead of the column itself—please fix this, and everything will be great."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! The part that caught my eye in the demo was the team leaving notes right on the cut. Quick question: when YouArt makes a change in After Effects, can I compare it with the previous version before accepting it?"
-        }
-      ]
     },
     {
       "id": "ph-week-10",
@@ -32306,7 +32306,66 @@
           "user": "[REDACTED]",
           "text": "Incredibly fun idea, I have always wanted to video chat with my characters! How do you generate video stories?"
         }
-      ]
+      ],
+      "faDescription": "پریلولو داستانات را با شخصیت‌های هوش مصنوعی غوطه‌ور می‌کند که می‌توانید با آن‌ها چت کنید یا از طریق ویدیو نقش‌آفرینی نمایید. این محصول اولین بار است که فناوری آواتار بلادرنگ را به مقیاس مصرف‌کننده‌ای می‌آورد. شما می‌توانید شخصیت‌های خود را با قابلیت آواتار زنده ایجاد کنید. این پلتفرم تجربه‌ای تعاملی و پویا را فراهم می‌کند که در آن شما بازیگر اصلی داستان هستید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت! من تونی، هم‌بنیان‌گذار و مدیرعامل شرکت تأثیر (The Influence Company)، تیمی پشت پریلولو هستم. اگر می‌توانستید وارد یک داستان شوید و شخصیت‌های آن به شما پاسخ دهند، چه می‌شد؟ ما در حال ساخت پریلولو هستیم تا داستان‌های ویدیویی هوش مصنوعی کمتر شبیه چیزی باشند که تماشا می‌کنید و بیشتر شبیه چیزی که بخشی از آن هستید. شما با یک شخصیت آشنا می‌شوید، داستان را از طریق مکالمه می‌سازید و از طریق ویدیوی زنده روبه‌روی هم قرار می‌گیرید. یک اعتراف در نیمه‌شب. اولین برخورد با کسی که نباید به او اعتماد کنید. یک رمانسی که شما تصمیم می‌گیرید بعداً چه بگویید. ما با داستان‌های تعاملی هوش مصنوعی شروع کردیم و مدام به یک نکته برمی‌گشتیم: شخصیت‌ها هستند که شما را وادار می‌کنند بمانید. نه فقط اینکه چه اتفاقی بعداً می‌افتد، بلکه اینکه با چه کسی می‌افتد. این قلب پریلولو شد: داستان‌هایی که حول شخصیت‌هایی ساخته شده‌اند که واقعاً می‌توانید با آن‌ها صحبت کنید. شما می‌توانید شخصیت‌ها را کشف کنید، شخصیت خود را بسازید، از طریق چت نقش‌آفرینی کنید و مکالمه را به یک تماس ویدیویی بلادرنگ ببرید. به جای انتخاب از چند گزینه از پیش نوشته‌شده، شما کلمات خود را به همراه می‌آورید. امروز، تجربه با یک مکالمه شروع می‌شود. هدف بزرگ‌تر ما در شرکت تأثیر، ساخت داستان‌های ویدیویی است که می‌توانید در آن‌ها زندگی کنید، نه فقط تماشا کنید. یک تماس ویدیویی را امتحان کنید و به ما بگویید: چه نوع داستانی را می‌خواهید اولین بار وارد آن شوید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "بسیار جالب است. حداکثر طول داستان چقدر می‌تواند باشد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "نحوه شروع پریلولو با شخصیت به جای طرح داستان، چیزی است که من آن را تحسین می‌کنم. برای من، این همان چیزی است که مردم را برمی‌گرداند. تبریک بابت راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ویدیوی زنده روبه‌رو با یک شخصیت جهشی بزرگ از چت نقش‌آفرینی است. آواتار چگونه تأخیر را مدیریت می‌کند وقتی داستان به سمت غیرمنتظره‌ای می‌رود؟ آن مکث معمولاً جایی است که غوطه‌وری برای من شکسته می‌شود. تبریک بابت راه‌اندازی."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "فناوری آواتار بلادرنگ در مقیاس مصرف‌کننده یک بازگشایی بزرگ است. تجربه کاربری تایپ دیالوگ و دریافت پاسخ فوری شخصیت مانند یک الگوی تعاملی واقعاً جدید به نظر می‌رسد. سؤال اصلی: ثبات شخصیت در مکالمات طولانی چگونه حفظ می‌شود؟ وفاداری بصری تیز به نظر می‌رسد."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ایجاد شخصیت خودم بخشی است که من اولین بار آن را امتحان می‌کنم. جالب خواهد بود که به یک ایده داستان قدیمی کسی بدهم که با او صحبت کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "محصولی شگفت‌انگیز!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ایده‌ای باورنکردنی و سرگرم‌کننده، من همیشه خواسته‌ام که با شخصیت‌هایم ویدیو چت کنم! شما داستان‌های ویدیویی را چگونه تولید می‌کنید؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که کاربران از تماشای پسیو خسته شده‌اند و به دنبال مشارکت فعال در داستان‌ها هستند؛ راه‌حل پریلولو ترکیب چت متنی با ویدیوی زنده آواتار است که حس حضور واقعی ایجاد می‌کند. از نظر معماری، این سیستم به ترکیبی از مدل‌های زبانی بزرگ (LLM) برای تولید دیالوگ، موتورهای تولید ویدیو (Video Generation) و پروتکل‌های ویدیوی بلادرنگ (مانند WebRTC) نیاز دارد که چالش فنی بالایی برای مدیریت تأخیر و ثبات بصری شخصیت ایجاد می‌کند. مدل درآمدی احتمالی بر اساس اشتراک‌های تدریجی و فروش اعتبار برای تولیدات سنگین‌تر ویدیویی است. نقاط قوت شامل تمایز قوی در بازار (اولین بار ویدیوی زنده در مقیاس مصرف‌کننده) و تمرکز بر شخصیت‌محوری است. نقاط ضعف شامل هزینه‌های بالای سرور و پیچیدگی فنی در حفظ ثبات آواتار در طول مکالمات طولانی است. نکته طلایی برای ایران: با توجه به محدودیت‌های اینترنت و هزینه‌های ابری، ابتدا روی بخش چت متنی و آواتارهای نیمه‌زنده (Lip-sync روی ویدیوهای از پیش تولیدشده) تمرکز کنید تا بار سرور کاهش یابد و سپس به تدریج به ویدیوی کاملاً بلادرنگ برسید.",
+      "iranEquivalent": {
+        "productName": "پریلولو ایران",
+        "description": "پلتفرمی برای ساخت داستان‌های تعاملی با شخصیت‌های هوش مصنوعی که قابلیت چت متنی و ویدیوی زنده را دارند. کاربران می‌توانند شخصیت‌های دلخواه خود را با ظاهر و رفتار اختصاصی طراحی کنند. این محصول تجربه‌ای غوطه‌ورکننده از نقش‌آفرینی در دنیاهای داستانی را ارائه می‌دهد.",
+        "marketOpportunity": "بازار سرگرمی و داستان‌سرایی در ایران با وجود محدودیت‌های دسترسی به پلتفرم‌های خارجی، تشنه‌ی محتوای تعاملی و شخصی‌سازی‌شده است. تقاضا برای تجربه‌های غنی‌تر از چت‌بات‌های ساده و حرکت به سمت ویدیو و تعامل بلادرنگ، فرصت بزرگی برای نوآوری محسوب می‌شود.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "جوانان علاقه‌مند به داستان‌های تعاملی، گیمرها، نویسندگان خلاق و کاربران شبکه‌های اجتماعی که به دنبال سرگرمی‌های شخصی‌سازی‌شده و تعاملی هستند.",
+        "challenges": [
+          "نیاز به زیرساخت‌های قدرتمند برای پردازش ویدیوی بلادرنگ و مدیریت تأخیر (Latency) در شبکه‌های ایران.",
+          "هزینه‌های بالای محاسباتی برای تولید ویدیو و حفظ ثبات شخصیت در مکالمات طولانی."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه برای دسترسی نامحدود به چت و ویدیو.",
+          "فروش بسته‌های اعتباری برای ساخت شخصیت‌های پیچیده‌تر یا افزایش زمان مکالمه ویدیویی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "WebRTC",
+          "Stable Diffusion",
+          "LLM API"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -38741,6 +38800,66 @@
       }
     },
     {
+      "id": "ph-today-3",
+      "date": "2026-11-12",
+      "rank": 3,
+      "name": "Omnigraph",
+      "slug": "omnigraph",
+      "tagline": "Open source graph database for your AI agents",
+      "description": "Omnigraph is an open-source object-storage native graph database with branching and typed ontology. It allows AI agents safely collaborate on shared knowledge. Give agents one typed graph with Git-like branching, review, and merge for every write, so changes can be validated before becoming shared context. Run it on your own S3-compatible storage, with semantic, keyword, and hybrid search plus graph traversal in one query. No hosted memory API or proprietary storage required.",
+      "category": "Open Source • Developer Tools • Database",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • Database",
+      "url": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7dc98c53-4374-466e-97f8-388ca136aad3.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/26cd1f18-9476-4fc4-aad0-8e335db7feff.jpeg?auto=format",
+        "https://ph-files.imgix.net/5be2f62e-216d-4391-8ef5-5a94068550a0.png?auto=format",
+        "https://ph-files.imgix.net/302bd8df-cf4b-48e5-9017-a104b1c0d7eb.png?auto=format",
+        "https://ph-files.imgix.net/705870bc-d968-43cb-b8e1-0dca748658b5.png?auto=format",
+        "https://ph-files.imgix.net/60fcd1ff-75f6-4538-affe-7747745511ab.png?auto=format",
+        "https://ph-files.imgix.net/a628b03e-69cd-419f-9452-58ec5a5dbf1e.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 231,
+      "websiteUrl": "https://www.producthunt.com/r/FZKF5GOW432WWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt 👋 Omnigraph is an open source graph database where agents can safely collaborate and write to the same graph.It has a typed ontology, branches and time travel, and hybrid search with graph traversal in the same query. Your graph lives in your own object storage in an open format.⭐ GitHub (MIT): github.com/ModernRelay/omnigraphWhat can you use it forMore and more work inside a company is done by agents. They read the same data, write to it, make decisions on it, act on it. Without one shared world model they can trust, every agent ends up with its own version of the truth.Omnigraph is a foundation for that shared world model. You can use it to build:a company brain: people, projects, decisions, how they connect, all kept current by agentscontext graphs for agents that work together on the same jobresearch graphs: papers, claims and the evidence behind themYou can check template ready-to-run graphs with real seed data (company brain, VC operating system, industry intel, beads): https://github.com/ModernRelay/omnigraph-cookbooksWhat you getAgents don't overwrite each other. Each one writes on its own branch, and you can review the changes before they reach main.You always know who changed what and when, and you can see the graph as it was last week.You define granular permissions to agents and humans in code.Your schema says what can exist, and writes that don't fit are refused.Agents find things by meaning or by keyword, then follow the connections over graph, in one query.The graph lives in your own S3 bucket as open files you can take anywhere.Every company needs a context layer, and we built Omnigraph to be the foundation for it.Try itThe fastest way is to let your agent do it. Paste this into Claude Code, Codex or any coding agent:Read https://github.com/ModernRelay/omnigraph/blob/main/skills/omnigraph/references/onboarding.md and follow it to set up Omnigraph for me.Thanks @benln for hunting us! The whole team is here all day: @ragnor, @altshuler, @pronskiy, @azim_afroozeh. Ask us anything!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, @ragnor and team! We’ve rebuilt our entire internal operating system on Omnigraph as the retrieval substrate our agents run on. The improvement in retrieval quality and speed we've seen across many use cases is insane. We’re still in the very early stages of what’s possible to build on top of Omnigraph, so we’re really excited to keep working with it 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, Ragnor from Modern Relay here!Before starting Omnigraph, I built infrastructure in biotech companies to automate the drug discovery process. The big learning was that every company runs on a \"world model\": what it believes about the world, the market and itself, the rules it works under, and how it turns all of that into actions. |Today that model is implicit and lives in scattered tools and people's heads. And any company that seriously wants to automate work in the background and leverage AI beyond chat bots needs to make that world model explicit. With Omnigraph, we built the infrastructure for companies to build and own their world model as a machine-readable interconnected graph of a company's knowledge - designed to be continuously maintained and improved by agents."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The Git-like branching for agent writes is the part that sold me — most agent memory tools let agents write freeform and just hope nothing conflicts, so having each run on its own branch with review and merge is a real answer to that mess. I'm curious about the typed ontology side though: when an agent runs into something that doesn't fit the schema, does it propose a schema change for review, or does it fail closed? That edge seems like where the design either stays clean or gets messy over time."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Whats the first use case where it feels clearly better than just keeping everything in a normal database?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I used Omnigraph to build a second brain and it works like magic. Really great product!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch, @altshuler and team!I’ve known Andrew for a long time. Many people are only now asking how graphs fit with agents. Andrew and his team have understood this for years, and it shows in every part of Omnigraph.I’ve used it since nanograph, its predecessor, in two ways. First for product management. For years we broke complex products down into epics and features, using tools that only know hierarchies. But real products aren’t trees. A graph can hold that complexity, and agents can work with it.Second, with that process we build software for the German construction industry, and it runs on Omnigraph too. Every industry dreams of a digital twin, whether for machines, patients or buildings. Agents finally make it possible. The open question is how to store knowledge about complex domains, and Omnigraph is the key to that."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really interesting approach to the shared context problem for agent. What caught my attention was the branching + time travel piece. Congratulations!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-3",
       "date": "2026-10-14",
       "rank": 3,
@@ -39623,66 +39742,6 @@
         {
           "user": "کاربر ProductHunt 8",
           "text": "به‌طور اتفاقی این پست را پیدا کردم چون Claude Code من ۳۰ سال طول می‌کشید. چه به‌موقع!"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-11-12",
-      "rank": 3,
-      "name": "Omnigraph",
-      "slug": "omnigraph",
-      "tagline": "Open source graph database for your AI agents",
-      "description": "Omnigraph is an open-source object-storage native graph database with branching and typed ontology. It allows AI agents safely collaborate on shared knowledge. Give agents one typed graph with Git-like branching, review, and merge for every write, so changes can be validated before becoming shared context. Run it on your own S3-compatible storage, with semantic, keyword, and hybrid search plus graph traversal in one query. No hosted memory API or proprietary storage required.",
-      "category": "Open Source • Developer Tools • Database",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • Database",
-      "url": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7dc98c53-4374-466e-97f8-388ca136aad3.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/26cd1f18-9476-4fc4-aad0-8e335db7feff.jpeg?auto=format",
-        "https://ph-files.imgix.net/5be2f62e-216d-4391-8ef5-5a94068550a0.png?auto=format",
-        "https://ph-files.imgix.net/302bd8df-cf4b-48e5-9017-a104b1c0d7eb.png?auto=format",
-        "https://ph-files.imgix.net/705870bc-d968-43cb-b8e1-0dca748658b5.png?auto=format",
-        "https://ph-files.imgix.net/60fcd1ff-75f6-4538-affe-7747745511ab.png?auto=format",
-        "https://ph-files.imgix.net/a628b03e-69cd-419f-9452-58ec5a5dbf1e.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 225,
-      "websiteUrl": "https://www.producthunt.com/r/FZKF5GOW432WWF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt 👋 Omnigraph is an open source graph database where agents can safely collaborate and write to the same graph.It has a typed ontology, branches and time travel, and hybrid search with graph traversal in the same query. Your graph lives in your own object storage in an open format.⭐ GitHub (MIT): github.com/ModernRelay/omnigraphWhat can you use it forMore and more work inside a company is done by agents. They read the same data, write to it, make decisions on it, act on it. Without one shared world model they can trust, every agent ends up with its own version of the truth.Omnigraph is a foundation for that shared world model. You can use it to build:a company brain: people, projects, decisions, how they connect, all kept current by agentscontext graphs for agents that work together on the same jobresearch graphs: papers, claims and the evidence behind themYou can check template ready-to-run graphs with real seed data (company brain, VC operating system, industry intel, beads): https://github.com/ModernRelay/omnigraph-cookbooksWhat you getAgents don't overwrite each other. Each one writes on its own branch, and you can review the changes before they reach main.You always know who changed what and when, and you can see the graph as it was last week.You define granular permissions to agents and humans in code.Your schema says what can exist, and writes that don't fit are refused.Agents find things by meaning or by keyword, then follow the connections over graph, in one query.The graph lives in your own S3 bucket as open files you can take anywhere.Every company needs a context layer, and we built Omnigraph to be the foundation for it.Try itThe fastest way is to let your agent do it. Paste this into Claude Code, Codex or any coding agent:Read https://github.com/ModernRelay/omnigraph/blob/main/skills/omnigraph/references/onboarding.md and follow it to set up Omnigraph for me.Thanks @benln for hunting us! The whole team is here all day: @ragnor, @altshuler, @pronskiy, @azim_afroozeh. Ask us anything!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, @ragnor and team! We’ve rebuilt our entire internal operating system on Omnigraph as the retrieval substrate our agents run on. The improvement in retrieval quality and speed we've seen across many use cases is insane. We’re still in the very early stages of what’s possible to build on top of Omnigraph, so we’re really excited to keep working with it 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, Ragnor from Modern Relay here!Before starting Omnigraph, I built infrastructure in biotech companies to automate the drug discovery process. The big learning was that every company runs on a \"world model\": what it believes about the world, the market and itself, the rules it works under, and how it turns all of that into actions. |Today that model is implicit and lives in scattered tools and people's heads. And any company that seriously wants to automate work in the background and leverage AI beyond chat bots needs to make that world model explicit. With Omnigraph, we built the infrastructure for companies to build and own their world model as a machine-readable interconnected graph of a company's knowledge - designed to be continuously maintained and improved by agents."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The Git-like branching for agent writes is the part that sold me — most agent memory tools let agents write freeform and just hope nothing conflicts, so having each run on its own branch with review and merge is a real answer to that mess. I'm curious about the typed ontology side though: when an agent runs into something that doesn't fit the schema, does it propose a schema change for review, or does it fail closed? That edge seems like where the design either stays clean or gets messy over time."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Whats the first use case where it feels clearly better than just keeping everything in a normal database?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I used Omnigraph to build a second brain and it works like magic. Really great product!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, @altshuler and team!I’ve known Andrew for a long time. Many people are only now asking how graphs fit with agents. Andrew and his team have understood this for years, and it shows in every part of Omnigraph.I’ve used it since nanograph, its predecessor, in two ways. First for product management. For years we broke complex products down into epics and features, using tools that only know hierarchies. But real products aren’t trees. A graph can hold that complexity, and agents can work with it.Second, with that process we build software for the German construction industry, and it runs on Omnigraph too. Every industry dreams of a digital twin, whether for machines, patients or buildings. Agents finally make it possible. The open question is how to store knowledge about complex domains, and Omnigraph is the key to that."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really interesting approach to the shared context problem for agent. What caught my attention was the branching + time travel piece. Congratulations!"
         }
       ]
     },
@@ -40708,6 +40767,66 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-4",
+      "date": "2026-11-12",
+      "rank": 4,
+      "name": "⌘+L",
+      "slug": "l-3db3f332-bfc0-4c05-a7b9-3cda7e7608e3",
+      "tagline": "Edit your website like Figma! ",
+      "description": "Command L (⌘+L) is a magical script tag so you can edit your website like a Figma file. In the background, Claude Code, Codex, or Letterpress-1 will automatically turn the change into the perfect pull request.",
+      "category": "Design Tools • Productivity • Developer Tools",
+      "categoryFa": "ابزار طراحی • بهره‌وری • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7afdfaf6-038f-411e-ae40-484f9355f96a.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/02464a1f-75e1-4cb7-a8ef-aa56856f0203.png?auto=format",
+        "https://ph-files.imgix.net/7119424f-3738-4085-a7ce-b73a07d0a9f7.png?auto=format",
+        "https://ph-files.imgix.net/e55dfbf5-afd0-4fbf-b49c-f19938c62a1e.png?auto=format",
+        "https://ph-files.imgix.net/3400dea7-e6e0-4c1b-8ae3-cfec6b231c2d.png?auto=format",
+        "https://ph-files.imgix.net/92ab0836-a4df-4438-904b-827dc097bcfe.png?auto=format",
+        "https://ph-files.imgix.net/c3a6ee79-8ca5-4b73-bbf1-abe0c7243c03.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 219,
+      "websiteUrl": "https://www.producthunt.com/r/KCTM2ZI233ZMBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi!Mathew here, maker of ⌘+L. Coding agents have changed programming forever. However, we kept noticing a trend: the most common adjustment for a website is a text change. It felt quite backwards that to change copy, we need to live in a terminal. The great thing about agents is that they're able to accept a diversity of inputs. We make that easy with ⌘+L: install hit, open it, and just make changes as if your website is a Figma file. When done, it'll silently launch a coding agent to make the same change.⌘+L has some other super-powers. These include:Native support for A/B testingFont sizing, font families, bold and italicSupport for adjusting margins and paddingIncredible tools for visualizing human and agentic trafficIf you'd like to extended free credits to try out ⌘+L, please feel free to reach out to me on X."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "LOVE what you guys are doing. You can really tell you care about your craft!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love the concept, i think it makes the data on what is working SO much more visible, will definitely try it out!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great product idea and love the uniqueness of the name!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Can it handle responsive layout changes too or is it mainly meant for quick visual edits?Looks interesting!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the workflow I've wanted for my own landing pages — tweak the copy and spacing visually instead of guessing in code, then get a clean PR out of it. Curious how you handle the script tag in production — does it stay on the live site, or do you strip it before deploy?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can a designer on the team use it without repo access?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Cant wait for this - im so sick of wysiwyg suddenly being a requirement as soon as i would like my marketing team to contribute!"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -42257,66 +42376,6 @@
       }
     },
     {
-      "id": "ph-today-4",
-      "date": "2026-11-12",
-      "rank": 4,
-      "name": "⌘+L",
-      "slug": "l-3db3f332-bfc0-4c05-a7b9-3cda7e7608e3",
-      "tagline": "Edit your website like Figma! ",
-      "description": "Command L (⌘+L) is a magical script tag so you can edit your website like a Figma file. In the background, Claude Code, Codex, or Letterpress-1 will automatically turn the change into the perfect pull request.",
-      "category": "Design Tools • Productivity • Developer Tools",
-      "categoryFa": "ابزار طراحی • بهره‌وری • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7afdfaf6-038f-411e-ae40-484f9355f96a.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/02464a1f-75e1-4cb7-a8ef-aa56856f0203.png?auto=format",
-        "https://ph-files.imgix.net/7119424f-3738-4085-a7ce-b73a07d0a9f7.png?auto=format",
-        "https://ph-files.imgix.net/e55dfbf5-afd0-4fbf-b49c-f19938c62a1e.png?auto=format",
-        "https://ph-files.imgix.net/3400dea7-e6e0-4c1b-8ae3-cfec6b231c2d.png?auto=format",
-        "https://ph-files.imgix.net/92ab0836-a4df-4438-904b-827dc097bcfe.png?auto=format",
-        "https://ph-files.imgix.net/c3a6ee79-8ca5-4b73-bbf1-abe0c7243c03.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 211,
-      "websiteUrl": "https://www.producthunt.com/r/KCTM2ZI233ZMBS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi!Mathew here, maker of ⌘+L. Coding agents have changed programming forever. However, we kept noticing a trend: the most common adjustment for a website is a text change. It felt quite backwards that to change copy, we need to live in a terminal. The great thing about agents is that they're able to accept a diversity of inputs. We make that easy with ⌘+L: install hit, open it, and just make changes as if your website is a Figma file. When done, it'll silently launch a coding agent to make the same change.⌘+L has some other super-powers. These include:Native support for A/B testingFont sizing, font families, bold and italicSupport for adjusting margins and paddingIncredible tools for visualizing human and agentic trafficIf you'd like to extended free credits to try out ⌘+L, please feel free to reach out to me on X."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "LOVE what you guys are doing. You can really tell you care about your craft!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love the concept, i think it makes the data on what is working SO much more visible, will definitely try it out!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great product idea and love the uniqueness of the name!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Can it handle responsive layout changes too or is it mainly meant for quick visual edits?Looks interesting!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the workflow I've wanted for my own landing pages — tweak the copy and spacing visually instead of guessing in code, then get a clean PR out of it. Curious how you handle the script tag in production — does it stay on the live site, or do you strip it before deploy?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "can a designer on the team use it without repo access?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Cant wait for this - im so sick of wysiwyg suddenly being a requirement as soon as i would like my marketing team to contribute!"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-3",
       "date": "2026-09-12",
       "rank": 3,
@@ -43726,7 +43785,65 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch! This looks like exactly what we need right now. We're doing an outreach campaign, but warming up inboxes takes a lot of time and we don't want to use random inboxes from Explee. We want to use our own domain lookalikes. Will OpenMail help with that?"
         }
-      ]
+      ],
+      "faDescription": "OpenMail به هوش مصنوعی‌های خودکار شما هویت مستقلی از طریق ایمیل می‌بخشد. به جای استفاده از جعبه‌های ورودی مشترک یا حساب‌های Gmail شخصی که ریسک مسدود شدن را بالا می‌برند، هر ایجنت یک صندوق ورودی اختصاصی روی دامنه خود شما دریافت می‌کند. این محصول با یک فراخوانی API ساده، اعتبار ارسال (Sending Reputation) را برای هر ایجنت جداگانه مدیریت می‌کند تا رفتار بد یک ایجنت، سایرین را تحت تأثیر قرار ندهد. ایمیل‌های دریافتی از طریق وب‌هوک یا WebSocket به کد شما می‌رسند، پیوست‌ها به متن قابل خواندن برای مدل تبدیل می‌شوند و سرور MCP میزبانی شده نیز در دسترس است. این سرویس در اتحادیه اروپا ساخته و میزبانی شده و برای سه صندوق ورودی رایگان است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به محصول هانت، جوکوباس هستم، هم‌بنیان‌گذار OpenMail همراه با @efemeralizacija. ما در ماه مارس شروع کردیم چون هر ایجنتی که می‌دیدیم از یک آدرس ایمیل قرضی استفاده می‌کرد. آن‌ها از Gmail شخصی کسی ثبت‌نام می‌کردند یا از یک دامنه ارسال مشترک پاسخ می‌دادند که اگر یک مستأجر بدرفتار می‌شد، ایمیل همه مسدود می‌شد. این سیستم وقتی بیش از چند ایجنت دارید یا وقتی ایجنت‌ها متعلق به مشتریان شما هستند، سریع فرو می‌ریزد. OpenMail به هر ایجنت یک صندوق ورودی اختصاصی می‌دهد: یک آدرس واقعی روی دامنه شما، تحویل ایمیل‌های ورودی به کد شما از طریق وب‌هوک یا WebSocket، تبدیل پیوست‌ها به متن قابل خواندن برای مدل، و اعتبار ارسال متعلق به همان صندوق، بنابراین بدرفتاری یک ایجنت بقیه را با خود پایین نمی‌کشد. یک سرور MCP میزبانی شده و یک پلاگین Hermes Agent وجود دارد و همه چیز در اتحادیه اروپا اجرا می‌شود. بیشتر امسال را صرف دریافت و جدا نگه داشتن مستأجران کردیم: عایق‌بندی و مهار سوءاستفاده، بخشی که هرگز در ویدیوی دمو ظاهر نمی‌شود اما از مشتری دوم به بعد به آن نیاز دارید. پیشنهاد روز راه‌اندازی: امروز حساب بسازید و قبل از پنجشنبه ۶ نوامبر در بخش صورتحساب Launch۲۰۲۶ را وارد کنید تا سه ماه Pro رایگان بگیرید. لایه رایگان در هر صورت شامل ۳ صندوق ورودی و ۳۰۰۰ ایمیل در ماه است. اگر چیزی ساخته‌اید که به ایمیل نیاز دارد، بگویید چه چیزی در تنظیمات فعلی شما خراب شد؛ این چیزی است که بعداً می‌سازیم. و سؤالات سخت درباره تحویل‌پذیری، سوءاستفاده و قیمت‌گذاری بپرسید. آرمونداس و من تمام روز اینجا هستیم و به همه پاسخ می‌دهیم، جایی که اعداد داریم. مستندات: docs.openmail.sh. ممنون که نگاهی انداختید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام، کنجکاو هستم: این محصول چه تفاوتی با agentmail دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "هر فردی در CRM ما ماه گذشته یک فیلد «تماس نگیر» با تاریخچه دریافت کرد و ایجنت‌های ما قبل از نوشتن به هر کسی آن را بررسی می‌کنند. اگر کسی به صندوق ورودی یک ایجنت «توقف» پاسخ دهد، آیا OpenMail آن آدرس را برای سایر ایجنت‌ها نیز پرچم می‌زند یا این کار به عهده ماست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "رایج‌ترین مورد استفاده‌ای که از این محصول می‌بینید چیست @jokubas_vaiciulis_؟ من مدت طولانی به دنبال چیزی شبیه به این بودم. در حال حاضر بسیار دشوار است که هویت به ایجنت‌ها بدهیم. آیا برنامه دارید در نهایت از شماره تلفن برای ۲FA، گذرواژه‌های یک‌بار مصرف یا کارت‌های اعتباری پشتیبانی کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "هویت ایمیلی برای ایجنت‌های هوش مصنوعی یک قفل هوشمند است - یک کانال ارتباطی واقعی ایجاد می‌کند که کمتر از چت‌ها موقتی به نظر می‌رسد. موقعیت‌یابی «نشان بده، نگو» عالی است. درباره نرخ‌های تحویل‌پذیری کنجکاو هستم - چگونه اعتبار ISP برای فرستندگان برنامه‌ای را مدیریت می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک بابت راه‌اندازی جوکوباس. اعتبار اختصاصی برای هر ایجنت منطقی است، دامنه‌های مشترک وقتی یک مستأجر بدرفتار می‌شود ترسناک هستند. DNS چگونه کار می‌کند وقتی صندوق ورودی روی دامنه من است، آیا SPF و DKIM یک بار تنظیم می‌شوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عایق‌بندی اعتبار برای هر صندوق ورودی بخشی است که بیشترین اهمیت را برای من دارد. چه اتفاقی می‌افتد وقتی یک صندوق ورودی از آستانه بازنگشت یا شکایت عبور می‌کند، آیا به طور خودکار فقط همان صندوق را متوقف می‌کنید یا ابتدا نیاز به یک تماس دستی از سمت شما دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک بابت راه‌اندازی! این دقیقاً چیزی است که الان به آن نیاز داریم. ما یک کمپین بازاریابی خروجی انجام می‌دهیم، اما گرم کردن صندوق‌های ورودی زمان زیادی می‌برد و نمی‌خواهیم از صندوق‌های ورودی تصادفی Explee استفاده کنیم. ما می‌خواهیم از دامنه‌های مشابه خودمان استفاده کنیم. آیا OpenMail به ما در این زمینه کمک می‌کند؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که ایجنت‌های هوش مصنوعی معمولاً از هویت‌های مشترک یا قرضی (مانند Gmail شخصی یا دامنه‌های اشتراکی) استفاده می‌کنند که ریسک مسدود شدن (Flagging) را به شدت افزایش می‌دهد؛ راه‌حل OpenMail ارائه صندوق ورودی اختصاصی با اعتبار ارسال مستقل برای هر ایجنت است. معماری محصول بر پایه API ساده، وب‌هوک‌ها و سرور MCP میزبانی شده است که امکان یکپارچه‌سازی سریع با اکوسیستم‌های هوش مصنوعی را فراهم می‌کند. مدل درآمدی بر اساس تعداد صندوق‌های ورودی و حجم ترافیک ایمیل است که برای توسعه‌دهندگان مقرون‌به‌صرفه و برای سازمان‌ها مقیاس‌پذیر است. نقاط قوت شامل عایق‌بندی کامل اعتبار ارسال، میزبانی در اروپا (برای رعایت GDPR) و تبدیل خودکار پیوست‌ها به متن است. نقاط ضعف می‌تواند شامل پیچیدگی تنظیمات DNS اولیه برای کاربران غیرفنی و وابستگی به زیرساخت‌های ایمیل جهانی باشد. نکته طلایی برای ایران: با توجه به محدودیت‌های دسترسی به سرویس‌های خارجی، ایجاد یک لایه واسط (Proxy) یا استفاده از زیرساخت‌های ابری در کشورهای همسایه برای مدیریت اعتبار ارسال می‌تواند کلید موفقیت باشد، به شرطی که تمرکز بر اتوماسیون‌های داخلی و تعامل با مشتریان ایرانی باشد.",
+      "iranEquivalent": {
+        "productName": "هویت‌پست (HovitatPost)",
+        "description": "سرویسی که به ربات‌های هوش مصنوعی ایرانی هویت ایمیلی مستقل و قابل اعتماد می‌بخشد تا از مسدود شدن‌های ناشی از اشتراک‌گذاری دامنه جلوگیری شود. این پلتفرم با ارائه صندوق‌های ورودی مجازی روی دامنه سازمانی، اعتبار ارسال را برای هر ربات جداگانه مدیریت می‌کند. همچنین امکان دریافت خودکار ایمیل‌ها و تبدیل پیوست‌ها به متن برای پردازش توسط مدل‌های زبانی را فراهم می‌آورد.",
+        "marketOpportunity": "با رشد سریع استفاده از ربات‌های چت و اتوماسیون در کسب‌وکارهای ایرانی، نیاز به کانال‌های ارتباطی رسمی و غیرموقتی مانند ایمیل برای تعامل با مشتریان و سرویس‌های خارجی فزاینده است. این محصول می‌تواند شکاف موجود بین زیرساخت‌های ایمیلی سنتی و نیازهای پویای هوش مصنوعی را پر کند.",
+        "estimatedBudget": "۳.۵ میلیارد تومان",
+        "targetAudience": "شرکت‌های استارتاپی، تیم‌های توسعه‌دهنده هوش مصنوعی و کسب‌وکارهای متوسطی که از ربات‌های چت برای پشتیبانی مشتری یا بازاریابی استفاده می‌کنند.",
+        "challenges": [
+          "محدودیت‌های فنی در دسترسی به زیرساخت‌های DNS و اعتبارسنجی ایمیل در ایران به دلیل تحریم‌ها و مشکلات اتصال به اینترنت جهانی.",
+          "رقابت با سرویس‌های رایگان یا ارزان‌قیمت‌تر که ممکن است اعتبار ارسال پایدارتری در بازارهای هدف داشته باشند."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر اساس تعداد صندوق‌های ورودی فعال و حجم ایمیل‌های ارسال‌شده.",
+          "فروش پلن‌های سازمانی با امکانات پیشرفته مانند گزارش‌دهی دقیق، SLA و پشتیبانی اختصاصی."
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js",
+          "Redis"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -56736,7 +56853,67 @@
           "user": "[REDACTED]",
           "text": "congrats on the launch malith. one video into a whole campaign is how small teams already work, just by hand and slow. the part i would check is after posting, can i see which clip brought clicks so next time i cut more like that one"
         }
-      ]
+      ],
+      "faDescription": "ویدکو یک استودیوی محتوایی مبتنی بر هوش مصنوعی و فضای کاری میزبانی ویدیو برای تیم‌های بازاریابی است. این پلتفرم لحظات برجسته و جذاب را در ویدیوهای دموی محصول و وبینارها شناسایی می‌کند. کاربران می‌توانند کلیپ‌های کوتاه و نشان‌دار (برندشده) تولید کرده و آن‌ها را در یک جا میزبانی، جاسازی (Embed) و تحلیل نمایند. این ابزار روند تبدیل یک ویدیوی طولانی به یک کمپین محتوایی کامل و چندجانبه را ساده و بهینه می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام پروداکت هانت! من بنیان‌گذار تک‌نفره Videco هستم. من این محصول را ساختم چون می‌خواستم کار با ویدیو را برای کسب‌وکارها و آژانس‌ها ساده‌تر کنم، بدون اینکه کنترل بر برند یا تجربه کاربری از دست برود. اما Videco فراتر از یک میزبانی ساده ویدیو است؛ شما می‌توانید یک ویدیو را به یک کمپین محتوایی کامل تبدیل کنید و از هر ویدیویی که می‌سازید ارزش بیشتری استخراج کنید. من تلاش زیادی برای ساختش کردم و خوشحالم که بالاخره آن را اینجا به اشتراک می‌گذارم. اگر با ویدیو کار می‌کنید، خوشحال می‌شوم آن را امتحان کنید. من تمام روز اینجا هستم، پس راحت باشید و هر سوالی دارید بپرسید یا نظرتان را بگویید. واقعاً مشتاقم نظرتان را بشنوم! تشکر ویژه از fmerian@ بابت معرفی و حمایت همیشگی‌اش. ممنون از همه بابت بررسی این محصول."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تفاوت‌های میان پلتفرم‌ها چیزی است که مرا درگیر کرده است. من انتشار محصولمان را این هفته در ردیت پست کردم و فیلتر آن ظرف یک دقیقه پست را به دلیل جدید بودن حساب حذف کرد، در حالی که لینکدین فرمت متفاوتی می‌خواهد. وقتی Videco نسخه ردیت یک وبینار را می‌نویسد، آیا واقعاً برای یک ساب‌ردیت و قوانین آن نوشته می‌شود یا همان پست لینکدین است که فقط فرمتش تغییر کرده؟ و آیا شما برای من منتشر می‌کنید یا خودم باید متن را کپی کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "حداکثر طول ویدیو چقدر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک به malithmcrdev@ بابت انتشار در پروداکت هانت! به نظر محصول فوق‌العاده‌ای می‌رسد، اگر شبیه ZapDigits باشد مطمئنم عالی عمل خواهد کرد. با آرزوی بهترین‌ها برای تو دوست من."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک بابت انتشار! من عاشق روند کاری (Workflow) این ابزار شدم. ما معمولاً مشتریانی داریم که مقالات وبلاگ را به ویدیو تبدیل می‌کنیم، اما سازندگان محتوای زیادی را می‌شناسم که ابتدا ویدیو می‌سازند و سپس آن را در همه جا بازآفرینی می‌کنند. قیمت‌گذاری هم بسیار خوب است!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "قرار گرفتن ویدیوی اصلی در کنار کلیپ‌ها بخش بسیار مفیدی برای من است؛ من هنوز هم می‌خواهم دقیقه قبل و بعد از یک نقل‌قول از وبینار طولانی را قبل از انتشار بررسی کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "آیا از خروجی‌های کاربران به عنوان محتوای تبلیغاتی (مانند بنرهای تبلیغاتی) هم استفاده می‌کنید؟ عملکرد آن‌ها چگونه است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک بابت انتشار ماليث. تبدیل یک ویدیو به یک کمپین کامل همان روشی است که تیم‌های کوچک در حال حاضر دستی و به‌آرامی انجام می‌دهند. بخشی که من بررسی می‌کنم این است که آیا بعد از پست کردن، می‌توانم ببینم کدام کلیپ باعث جذب کلیک شده تا دفعه بعد کلیپ‌های بیشتری شبیه آن برش بزنم؟"
+        }
+      ],
+      "aiReview": "### مسئله و راه‌حل\nتولیدکنندگان محتوا و تیم‌های بازاریابی زمان زیادی را صرف ویرایش، بازآفرینی (Repurposing) و انتشار ویدیوهای طولانی مثل وبینارها در شبکه‌های اجتماعی مختلف می‌کنند. Videco با تلفیق میزبانی ویدیو و استودیوی هوش مصنوعی، این مسئله را حل کرده است؛ به طوری که لحظات برجسته ویدیو را شناسایی، کلیپ‌های کوتاه با هویت بصری برند ایجاد و آن‌ها را یکپارچه میزبانی و تحلیل می‌کند.\n\n### معماری و تکنولوژی\nمعماری ابزارهایی مانند Videco نیازمند یک فرانت‌اند سریع (مانند Next.js)، خط لوله پردازش ویدیویی قوی (با FFmpeg و Python) و مدل‌های پردازش زبان طبیعی و تبدیل گفتار به متن (مانند Whisper) برای تحلیل محتوای متنی و صوتی ویدیو است. همچنین بخش میزبانی و Embed نیازمند شبکه توزیع محتوای (CDN) بهینه‌شده برای پخش بدون وقفه ویدیو است.\n\n### مدل درآمدی\nمدل درآمدی این ابزار SaaS (اشتراکی) است که بر اساس محدودیت‌های پردازش هوش مصنوعی، حجم میزبانی ویدیو و تعداد کاربران تیم قیمت‌گذاری می‌شود. این مدل پایداری مالی مناسبی را برای حفظ زیرساخت‌های ابری فراهم می‌کند.\n\n### نقاط قوت\n۱. تمرکز بر جریان کاری یکپارچه (تولید، میزبانی، ویرایش و تحلیل در یک جا).\n۲. قابلیت برندسازی کلیپ‌های کوتاه به صورت خودکار.\n۳. صرفه‌جویی شدید در زمان تیم‌های بازاریابی و آژانس‌ها.\n\n### نقاط ضعف\n۱. وابستگی کیفیت خروجی متن‌ها به قوانین پلتفرم‌های مختلف (همان‌طور که در نظرات کاربران اشاره شده، تنظیم محتوا طبق قوانین محیط‌هایی مثل ردیت چالش‌برانگیز است).\n۲. فقدان ابزارهای پیشرفته تحلیل نرخ تبدیل کلیک‌ها در نسخه‌های اولیه.\n\n### نکته طلایی برای ایران\nدر بازار ایران، ابزار مشابهی که بتواند زبان فارسی را به دقت متوجه شده و وبینارهای آپارات، ایسمینار یا ایوند را به کلیپ‌های کوتاه اینستاگرام و آپارات تبدیل کند، وجود ندارد. با بومی‌سازی مدل‌های تبدیل گفتار به متن فارسی (STT) و اتصال مستقیم به پلتفرم‌های ایرانی، می‌توان بازار آژانس‌های بازاریابی و مدرسان آنلاین در ایران را به راحتی فتح کرد.",
+      "iranEquivalent": {
+        "productName": "ویدیوکمپین (VidioCampaign)",
+        "description": "ویدیوکمپین یک پلتفرم هوشمند بومی برای مدیریت، میزبانی و بازآفرینی محتوای ویدیویی است. این ابزار به تیم‌های بازاریابی ایرانی کمک می‌کند تا وبینارها و ویدیوهای طولانی را به کلیپ‌های کوتاه جذاب برای شبکه‌های اجتماعی تبدیل کنند. همچنین امکان تحلیل رفتار مخاطبان و میزبانی امن ویدیوها را در یک محیط یکپارچه فراهم می‌سازد.",
+        "marketOpportunity": "با رشد روزافزون بازاریابی ویدیویی و وبینارهای آموزشی در ایران، نیاز شدیدی به ابزارهای خودکارسازی محتوا احساس می‌شود. محدودیت‌های مربوط به تحریم و پرداختی‌های دلاری ابزارهای خارجی، فرصت طلایی برای تصاحب بازار توسط یک جایگزین قدرتمند بومی ایجاد کرده است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های بازاریابی دیجیتال، آژانس‌های تبلیغاتی، برگزارکنندگان وبینار و دوره‌های آموزشی، کرئیتورها و تولیدکنندگان محتوا",
+        "challenges": [
+          "هزینه‌های بالا و چالش‌های زیرساختی پردازش ویدیو و پردازنده گرافیکی (GPU)",
+          "چالش‌های تبدیل گفتار به متن فارسی (STT) با دقت بالا برای تشخیص لحظات کلیدی ویدیو"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه و سالانه بر اساس حجم ذخیره‌سازی و پردازش ویدیو",
+          "ارائه پلن‌های سازمانی برای میزبانی اختصاصی و سفارشی‌سازی برند"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python (FastAPI)",
+          "FFmpeg",
+          "Whisper AI",
+          "Tailwind CSS"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -57929,6 +58106,67 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-5",
+      "date": "2026-11-12",
+      "rank": 5,
+      "name": "Spacefast by Automattic",
+      "slug": "spacefast-by-automattic",
+      "tagline": "Give your AI agents a place to build, run, and ship",
+      "description": "Spacefast is a new way to ship websites and apps with the AI you already use. Connect ChatGPT, Claude, Codex, Cursor, or your favorite agent, and publish your project with a simple request. Spacefast handles hosting, databases, domains, file uploads, and version history. Share private links, collect feedback directly on your pages, and let your agent make updates. Built by Automattic, the company behind WordPress.com. Free to start, with no extra AI subscription.",
+      "category": "Developer Tools • Artificial Intelligence • GitHub • Development",
+      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب • Development",
+      "url": "https://www.producthunt.com/products/spacefast-by-automattic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/74983efe-60a0-4e2f-b04f-bbf40437df85.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/a079c372-2373-4715-ad6e-311036e49255.jpeg?auto=format",
+        "https://ph-files.imgix.net/126a396d-b253-4146-86e7-0f55a533a6d8.png?auto=format",
+        "https://ph-files.imgix.net/97d1359d-e039-47bb-9762-4ddf452aea6b.png?auto=format",
+        "https://ph-files.imgix.net/d737e9a2-70ac-462f-878d-249bcc660a34.png?auto=format",
+        "https://ph-files.imgix.net/9a632191-a7a2-4d6a-b07f-a92eb9eb9b9b.png?auto=format",
+        "https://ph-files.imgix.net/ce71e031-e222-4287-b0ce-321a8e47bbbe.png?auto=format",
+        "https://ph-files.imgix.net/f9e19a6d-f9af-4fc0-9124-e912c45a297f.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 154,
+      "websiteUrl": "https://www.producthunt.com/r/O2SFBIBKNXJMBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Automattic, the company behind WordPress.com, just launched Spacefast.The idea is pretty simple: your AI can already build websites and apps, but getting them online still involves hosting, databases, domains, and a bunch of setup.Spacefast handles that part.You can keep using ChatGPT, Claude, Codex, Cursor, or whatever agent you prefer. Just ask it to publish your project, and Spacefast gives you a live link.It also handles the backend infrastructure, version history, and private sharing, so you can get feedback and keep improving things with your AI.I especially like that you don't need to switch to another AI builder or pay for AI credits twice.Free to start, and backed by Automattic's infrastructure."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Spacefast makes sharing all of your random things easy and fun. Sounds simple but there's some secret sauce here that actually adds something to the process."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The GitHub link is the part that sold me — my agent works in my own repo and Spacefast just hosts the result, instead of the code living in a separate sandbox I can't get at. Curious how it handles a repo with an existing build setup: does it respect what's already there, or start from a template?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Honest feedback here:We have moved @DIKTATORIAL Suite (SoundBoost) to Spacefast. Everything is as smooth as it could ever get.Perfect product and execution.Best of luck with your launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Spacefast is by far the easiest way to spin up a project — website, app, doc, anything — using an agent. Just paste the instructions to your favorite AI and it's set up in seconds. Easy collaboration with your team built in, and lots of extras around hosting, domains, privacy, and more. Congrats on the team for launching!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "It took me 15 minutes and one prompt to move all of my sites from Netlify to Spacefast about 2 weeks ago. I;ve been loving it. Fast pace of development, extremely generous hosting plans, deep integration with my agents and way easier to find your way around. 10/10"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "👋 Spacefast team member here! We at Automattic (okay, mostly @batuhan 😅) worked really hard to make this product agent-agnostic, so it works with every agent out there.That's the whole idea behind Spacefast: great agentic experience, no matter which agent you use.Use any agent: Claude, ChatGPT, Grok Bot (you can even use with your Tesla), a personal assistant, or a coding harness on your machine, with or without MCP.Switch anytime: start in Claude and continue in ChatGPT, or start on desktop and pick it up on the web. Your memory moves with you.Compose your connectors: combine the tools you already use to build a page in your space.Vibe-code it or own it: just say \"manage the code\" and you get a workspace with full version control, with git right from a bunch of useful MCP apps.We're not trying to invent yet another agent. We want the one you already love to work better. And if you run into any issues setting up a space, just let me know! Thanks for hunting us, @justin2025! 🔥"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is a very very nice idea @justin2025 . My concern is that what are the moats? Because we may see AI providers starting this service soon."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -59875,67 +60113,6 @@
       }
     },
     {
-      "id": "ph-today-5",
-      "date": "2026-11-12",
-      "rank": 5,
-      "name": "Spacefast by Automattic",
-      "slug": "spacefast-by-automattic",
-      "tagline": "Give your AI agents a place to build, run, and ship",
-      "description": "Spacefast is a new way to ship websites and apps with the AI you already use. Connect ChatGPT, Claude, Codex, Cursor, or your favorite agent, and publish your project with a simple request. Spacefast handles hosting, databases, domains, file uploads, and version history. Share private links, collect feedback directly on your pages, and let your agent make updates. Built by Automattic, the company behind WordPress.com. Free to start, with no extra AI subscription.",
-      "category": "Developer Tools • Artificial Intelligence • GitHub • Development",
-      "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب • Development",
-      "url": "https://www.producthunt.com/products/spacefast-by-automattic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/74983efe-60a0-4e2f-b04f-bbf40437df85.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/a079c372-2373-4715-ad6e-311036e49255.jpeg?auto=format",
-        "https://ph-files.imgix.net/126a396d-b253-4146-86e7-0f55a533a6d8.png?auto=format",
-        "https://ph-files.imgix.net/97d1359d-e039-47bb-9762-4ddf452aea6b.png?auto=format",
-        "https://ph-files.imgix.net/d737e9a2-70ac-462f-878d-249bcc660a34.png?auto=format",
-        "https://ph-files.imgix.net/9a632191-a7a2-4d6a-b07f-a92eb9eb9b9b.png?auto=format",
-        "https://ph-files.imgix.net/ce71e031-e222-4287-b0ce-321a8e47bbbe.png?auto=format",
-        "https://ph-files.imgix.net/f9e19a6d-f9af-4fc0-9124-e912c45a297f.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 150,
-      "websiteUrl": "https://www.producthunt.com/r/O2SFBIBKNXJMBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Automattic, the company behind WordPress.com, just launched Spacefast.The idea is pretty simple: your AI can already build websites and apps, but getting them online still involves hosting, databases, domains, and a bunch of setup.Spacefast handles that part.You can keep using ChatGPT, Claude, Codex, Cursor, or whatever agent you prefer. Just ask it to publish your project, and Spacefast gives you a live link.It also handles the backend infrastructure, version history, and private sharing, so you can get feedback and keep improving things with your AI.I especially like that you don't need to switch to another AI builder or pay for AI credits twice.Free to start, and backed by Automattic's infrastructure."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Spacefast makes sharing all of your random things easy and fun. Sounds simple but there's some secret sauce here that actually adds something to the process."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The GitHub link is the part that sold me — my agent works in my own repo and Spacefast just hosts the result, instead of the code living in a separate sandbox I can't get at. Curious how it handles a repo with an existing build setup: does it respect what's already there, or start from a template?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Honest feedback here:We have moved @DIKTATORIAL Suite (SoundBoost) to Spacefast. Everything is as smooth as it could ever get.Perfect product and execution.Best of luck with your launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Spacefast is by far the easiest way to spin up a project — website, app, doc, anything — using an agent. Just paste the instructions to your favorite AI and it's set up in seconds. Easy collaboration with your team built in, and lots of extras around hosting, domains, privacy, and more. Congrats on the team for launching!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "It took me 15 minutes and one prompt to move all of my sites from Netlify to Spacefast about 2 weeks ago. I;ve been loving it. Fast pace of development, extremely generous hosting plans, deep integration with my agents and way easier to find your way around. 10/10"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "👋 Spacefast team member here! We at Automattic (okay, mostly @batuhan 😅) worked really hard to make this product agent-agnostic, so it works with every agent out there.That's the whole idea behind Spacefast: great agentic experience, no matter which agent you use.Use any agent: Claude, ChatGPT, Grok Bot (you can even use with your Tesla), a personal assistant, or a coding harness on your machine, with or without MCP.Switch anytime: start in Claude and continue in ChatGPT, or start on desktop and pick it up on the web. Your memory moves with you.Compose your connectors: combine the tools you already use to build a page in your space.Vibe-code it or own it: just say \"manage the code\" and you get a workspace with full version control, with git right from a bunch of useful MCP apps.We're not trying to invent yet another agent. We want the one you already love to work better. And if you run into any issues setting up a space, just let me know! Thanks for hunting us, @justin2025! 🔥"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is a very very nice idea @justin2025 . My concern is that what are the moats? Because we may see AI providers starting this service soon."
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-7",
       "date": "2026-10-11",
       "rank": 7,
@@ -61810,7 +61987,50 @@
           "user": "[REDACTED]",
           "text": "Much needed one! Can't be a perfect timing. We are looking for the one to convert our user interviews into clips for distributing it to different channels.https://www.opus.pro/calendar — This is cherry on the top ❤️"
         }
-      ]
+      ],
+      "faDescription": "OpusClip ۴.۰ فراتر از برش خودکار ویدیو با هوش مصنوعی می‌رود و کلیپ‌های خام را به ویدیوهای آماده انتشار تبدیل می‌کند. این ابزار به‌صورت خودکار صدای ضبط‌شده را تمیز می‌کند، زیرنویس اضافه می‌کند و صحنه‌های B‑roll مناسب را می‌گنجاند. همچنین می‌توانید یک ویدیو را به چندین فرمت مختلف تبدیل کنید، از کلیپ‌های کوتاه ۶۰ تا ۹۰ ثانیه‌ای تا نسخه‌های طولانی ۳ تا ۵ دقیقه‌ای. با ذخیره‌سازی استایل‌های ویرایش به‌صورت «دستور غذا» و استفاده از کتابخانهٔ هوک‌های ویروسی و گرافیک‌های حرکتی، تولید محتوای جذاب برای شبکه‌های اجتماعی به‌صورت یک‑کلیک امکان‌پذیر می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ایجاد محتوای ویدئویی یک کار است، اما ویرایش آن معمولاً مانع می‌شود. ممکن است ساعت‌ها فیلم خام روی گوشی داشته باشید، اما پیدا کردن زمان برای برش، تمیز کردن صدا، افزودن زیرنویس و آماده‌سازی برای پلتفرم‌های مختلف چالش‌برانگیز است. OpusClip ۴.۰ این بخش از ویرایش را بر عهده می‌گیرد؛ به‌جای فقط یافتن نکات برجسته در ویدیوهای نهایی، می‌توانید فیلم خام را بدهید و هوش مصنوعی آن را به محتوای نهایی تبدیل کند. ویژگی‌های جدید شامل ویرایش خودکار، خروجی در فرمت‌های متعدد، ذخیره‌سازی «دستور غذا»، هوک‌های ویروسی، گرافیک‌های حرکتی و ادغام با ChatGPT یا Claude است. این محصول برای تولیدکنندگان محتوا، بنیان‌گذاران، بازاریابان، مدرسین و تیم‌های کوچک مناسب است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تبریک برای نسخه ۴.۰. جهش از برش ویدیوهای نهایی به تمیز کردن فیلم خام دقیقاً همان چیزی است که سازندگان مستقل نیاز دارند. یک سؤال عملی: برای یک بنیان‌گذار تنها که ضبط‌های خام به سبک Loom را بارگذاری می‌کند، پس از ویرایش خودکار چقدر کار دستی هنوز لازم است تا ویدیو قابل انتشار باشد؟ معمولاً زیرنویس‌ها و سرعت‌پذیری زمان‌برترین بخش‌ها هستند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "تبریک برای ۴.۰! ویرایش خودکار از فیلم خام مهم‌ترین ویژگی برای من است. ما در یک استارتاپ جستجوی شغلی کوچک، روزانه پست‌های داده‌ای را به کلیپ‌های ۱۰‑۱۵ ثانیه‌ای برای TikTok، Reels و YouTube تبدیل می‌کنیم و بخش کند همیشه زیرنویس و برش است، نه ایده. سؤال سریع: آیا ویرایش خودکار زیرنویس‌های دقیق برای زبان‌های غیر انگلیسی مثل ارمنی یا روسی تولید می‌کند یا در حال حاضر فقط برای انگلیسی بهینه شده است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "این هفته با Claude ویدیوهای لانچ را برش می‌دادم و زمان‌برترین بخش برایم تنظیم سرعت بود، نه زیرنویس. اولین برش فریم به فریم خوب است اما هنگام پخش احساس کندی می‌کند. وقتی AI Producer سبک مرجع را می‌گیرد، آیا سرعت برش‌های مرجع را نیز درک می‌کند یا فقط ظاهر را؟ و آیا خروجی قابل ویرایش دستی است یا یک فایل نهایی ثابت؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "خیلی لازم بود! زمان‌بندی کامل نیست اما ما به ابزاری نیاز داریم که مصاحبه‌های کاربران را به کلیپ‌های کوتاه برای توزیع در کانال‌های مختلف تبدیل کند. https://www.opus.pro/calendar — این یک نقطهٔ عالی است ❤️"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "OpusClip ۴.۰",
+        "description": "OpusClip ۴.۰ یک پلتفرم هوش مصنوعی برای تبدیل فیلم‌های خام به ویدیوهای آماده انتشار است. این ابزار به‌صورت خودکار صدا را تمیز می‌کند، زیرنویس می‌گذارد، صحنه‌های B‑roll اضافه می‌کند و خروجی را در فرمت‌های مختلف تولید می‌کند. همچنین امکان ذخیره‌سازی استایل‌های ویرایش و استفاده از هوک‌های ویروسی و گرافیک‌های حرکتی را فراهم می‌کند.",
+        "marketOpportunity": "در ایران تقاضا برای تولید محتوای ویدئویی کوتاه در شبکه‌های اجتماعی به‌سرعت در حال رشد است و بسیاری از کسب‌وکارهای کوچک و استارتاپ‌ها نیروی ویرایش حرفه‌ای ندارند. OpusClip می‌تواند با کاهش هزینه و زمان ویرایش، این خلأ بازار را پر کند.",
+        "estimatedBudget": "۲ تا ۳ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوا، بنیان‌گذاران استارتاپ، بازاریابان دیجیتال، مدرسین آنلاین و تیم‌های کوچک تولید محتوا در ایران",
+        "challenges": [
+          "دقت زیرنویس برای زبان‌های غیر انگلیسی مانند فارسی",
+          "یکپارچه‌سازی با پلتفرم‌های محلی و سرویس‌های ذخیره‌سازی ویدیو"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با سطوح مختلف بر پایه تعداد دقیقه پردازش",
+          "فروش افزونه‌های پیشرفته مثل گرافیک حرکتی و کتابخانه هوک‌های ویروسی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -64181,6 +64401,47 @@
       }
     },
     {
+      "id": "ph-today-6",
+      "date": "2026-11-12",
+      "rank": 6,
+      "name": "Adobe AI Assistant",
+      "slug": "adobe-ai-assistant",
+      "tagline": "Create and edit faster with AI across Adobe apps",
+      "description": "Adobe AI Assistant brings conversational AI into Creative Cloud. Describe what you want to accomplish, and let it handle multi-step creative tasks across Photoshop, Premiere, Illustrator, InDesign, After Effects, and Firefly.",
+      "category": "Design Tools • Artificial Intelligence • Graphic Design",
+      "categoryFa": "ابزار طراحی • هوش مصنوعی • Graphic Design",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/a5c5c624-3bdc-4d2a-998e-20e4f8ef8f4d.jpeg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/97ea1cfc-cdc7-4ee8-889e-ad3fc5852ae5.png?auto=format",
+        "https://ph-files.imgix.net/18ea67af-1782-409e-8058-bb1df81bb4ce.png?auto=format",
+        "https://ph-files.imgix.net/008ee163-0934-4cf3-8a4c-361d960ae5e1.png?auto=format",
+        "https://ph-files.imgix.net/3134205e-c440-4b62-b22b-a8768de539de.png?auto=format",
+        "https://ph-files.imgix.net/c22673db-79b0-4bc2-9f57-a307580e2c2f.png?auto=format",
+        "https://ph-files.imgix.net/596cde3e-1364-4d88-b822-160ebcf1b1cf.png?auto=format",
+        "https://ph-files.imgix.net/b4807f07-c637-4bed-af72-221ed9c893bf.png?auto=format"
+      ],
+      "maker": "",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 140,
+      "websiteUrl": "https://www.producthunt.com/r/JNEKEVQ6BLFATT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Adobe AI Assistant helps creators complete complex creative tasks using simple natural-language instructions. Instead of manually navigating tools and repeating actions, describe what you want and let the assistant handle the work.Key features:Firefly AI Assistant: Create mood boards, mockups, and social media variations using tools across Adobe applications.Photoshop: Describe edits, apply changes, and make adjustments on non-destructive layers.Premiere: Detect slates, check text in lower thirds, reframe clips for social media, and batch-export sequences.After Effects: Organize complex projects, create motion graphics from descriptions, and repair existing animations.Illustrator: Batch-edit files, recolor artwork, translate text, organize layers, and check brand guidelines.InDesign: Apply bulk edits across pages, create layout variations, and check print readiness.Frame.io: Organize footage, label assets, summarize client feedback, and generate placeholder shots.Human control: Review proposed plans, approve changes, refine results, and reverse edits.Who it's for: Designers, video editors, marketers, creative teams, and professionals who use Adobe Creative Cloud.Explore Adobe AI Assistant P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The cross-app part is what caught me. A Photoshop edit on non-destructive layers, then batch exports in Premiere, is exactly the kind of multi-step job where I'd want to see the plan before it runs. How does reversing work when a plan touches two apps — can you roll back just the Premiere step, or does the whole plan unwind?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Interesting timing. Every big tool now has its own AI assistant, Canva, Figma, now Adobe :D Curious if designers will actually use it for the boring parts or for the creative parts too?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-7",
       "date": "2026-09-22",
       "rank": 7,
@@ -66273,47 +66534,6 @@
         ],
         "confidence": 82
       }
-    },
-    {
-      "id": "ph-today-6",
-      "date": "2026-11-12",
-      "rank": 6,
-      "name": "Adobe AI Assistant",
-      "slug": "adobe-ai-assistant",
-      "tagline": "Create and edit faster with AI across Adobe apps",
-      "description": "Adobe AI Assistant brings conversational AI into Creative Cloud. Describe what you want to accomplish, and let it handle multi-step creative tasks across Photoshop, Premiere, Illustrator, InDesign, After Effects, and Firefly.",
-      "category": "Design Tools • Artificial Intelligence • Graphic Design",
-      "categoryFa": "ابزار طراحی • هوش مصنوعی • Graphic Design",
-      "url": "https://www.producthunt.com/products/adobe-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/a5c5c624-3bdc-4d2a-998e-20e4f8ef8f4d.jpeg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/97ea1cfc-cdc7-4ee8-889e-ad3fc5852ae5.png?auto=format",
-        "https://ph-files.imgix.net/18ea67af-1782-409e-8058-bb1df81bb4ce.png?auto=format",
-        "https://ph-files.imgix.net/008ee163-0934-4cf3-8a4c-361d960ae5e1.png?auto=format",
-        "https://ph-files.imgix.net/3134205e-c440-4b62-b22b-a8768de539de.png?auto=format",
-        "https://ph-files.imgix.net/c22673db-79b0-4bc2-9f57-a307580e2c2f.png?auto=format",
-        "https://ph-files.imgix.net/596cde3e-1364-4d88-b822-160ebcf1b1cf.png?auto=format",
-        "https://ph-files.imgix.net/b4807f07-c637-4bed-af72-221ed9c893bf.png?auto=format"
-      ],
-      "maker": "",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 135,
-      "websiteUrl": "https://www.producthunt.com/r/JNEKEVQ6BLFATT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Adobe AI Assistant helps creators complete complex creative tasks using simple natural-language instructions. Instead of manually navigating tools and repeating actions, describe what you want and let the assistant handle the work.Key features:Firefly AI Assistant: Create mood boards, mockups, and social media variations using tools across Adobe applications.Photoshop: Describe edits, apply changes, and make adjustments on non-destructive layers.Premiere: Detect slates, check text in lower thirds, reframe clips for social media, and batch-export sequences.After Effects: Organize complex projects, create motion graphics from descriptions, and repair existing animations.Illustrator: Batch-edit files, recolor artwork, translate text, organize layers, and check brand guidelines.InDesign: Apply bulk edits across pages, create layout variations, and check print readiness.Frame.io: Organize footage, label assets, summarize client feedback, and generate placeholder shots.Human control: Review proposed plans, approve changes, refine results, and reverse edits.Who it's for: Designers, video editors, marketers, creative teams, and professionals who use Adobe Creative Cloud.Explore Adobe AI Assistant P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified → @rohanrecommends"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The cross-app part is what caught me. A Photoshop edit on non-destructive layers, then batch exports in Premiere, is exactly the kind of multi-step job where I'd want to see the plan before it runs. How does reversing work when a plan touches two apps — can you roll back just the Premiere step, or does the whole plan unwind?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Interesting timing. Every big tool now has its own AI assistant, Canva, Figma, now Adobe :D Curious if designers will actually use it for the boring parts or for the creative parts too?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -72325,6 +72545,55 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-11-12",
+      "rank": 7,
+      "name": "Harness Memory",
+      "slug": "harness-memory",
+      "tagline": "Long-term memory for agents, across every harness",
+      "description": "Harness Memory gives every harness agent its own long-term memory. Pick a memory engine (Mem0, Graphiti, Hindsight, ReMe, or your own) and plug it into different agent harnesses, like Claude Code, Codex and Hermes. Memory can be shared across agent harnesses, with fine-grained access control. Open source in Community Edition and available on HarnessRouter Cloud.",
+      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
+      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/201b4f9a-044d-4f3c-820a-68b83fd3f965.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/launch-image-uploads/597f2038-8c5b-458f-b73f-a749be31bc69/6bee3448a5df7fd4a3f77d473b98ee8dbacc568015ea070f2973a42dcd283bfc.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/163abdc9-50e4-4fc5-bc30-41df0f5d8d56/3486b2703567b103720f59a16399096ce13c745f1877af38622f841668d32140.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/a686cc3c-86f3-406e-9f74-149bd7ba789f/1b82c681deaeac80b2c723a67f79291c5fa4746dcf8e2fa55c33ef0d9f065192.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/5eab6e6b-30c5-4bcb-bdb9-05bf87bb0ddc/1993b17cd7c0baadeb06124a2a42b1b0c61d6d4a83494423d086b76624345336.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/d0ff4b6a-c5ac-4895-9950-c6085cf8d312/d01a4789ce55936a6ff7f9127b7e0b7821e344682bb07cbeedadcc7740a6a067.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/acfe8cb9-15ec-4396-9710-d9c4da0c4664/5b058a6cf6a3a751e05c61baf08713439b10e69d548ce3565107c11f8ecb115e.png?auto=format",
+        "https://ph-files.imgix.net/mcp-draft-media/fa2571ff-028c-483d-9da9-b0f17a901221.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 125,
+      "websiteUrl": "https://www.producthunt.com/r/UBLUY4WRXJJWPR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Richard, co-founder of HarnessRouter. Today we're launching Harness Memory, which gives agents built on HarnessRouter a long-term memory.Here's why we built it. Every agent we built kept forgetting things, like what a user told it yesterday or what it figured out last session. It was worse whenever we switched harnesses, say from Claude Code to Hermes, or from Pi to Codex, because we had to wire memory up all over again each time. We kept thinking memory should be part of the agent instead of something you glue on afterwards.So that's what Harness Memory does:It's built in. When you build an agent, HarnessRouter picks a memory engine that fits the agent's job and tells you why. The options are Mem0, Graphiti, Hindsight and ReMe, or you can bring your own. Some agents shouldn't remember anything, like a translator that only transforms input, and those get no memory at all.It works in every session. The agent recalls memory when each turn starts, uses it through tools during the turn, and records what it learned when the turn ends. You don't write any glue code.It works across harnesses. A Claude Code agent, a Hermes agent, and a Codex agent can share one memory. In our demo, Codex saves a weekend plan, and Claude Code recalls that plan in a completely new session.We built it for agents that serve lots of people, so we were strict about a few things:Every user of the agent gets their own piece of memory, kept apart from everyone else's. Each memory needs its own access grant. Without a grant there's no access, and a model can't widen its own access.Agents can forget, but only people can erase. We never give an agent erase memory via a tool. When a fact changes, Harness Memory saves a new version, so the history stays.Memory informs the agent, but never instructs it. Recalled memory reaches the agent fenced off from its instructions, and each record is labeled with who wrote it. On the Memory page, people can see, edit or delete what's stored.We also made it open. The memory layer is an open spec, the Harness Memory Protocol, which is the Memories chapter of the Unified Harness Protocol. Any memory service can plug in as a provider. If a provider doesn't support something, we report the gap rather than skip it silently.Harness Memory is available today in the open-source Community Edition, and on HarnessRouter Cloud.We'd love to hear from you:What's the one thing you most wish your agent remembered?Which memory engine should we support next?We're around all day, so ask us anything 🙌"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The cross-harness part is what sold me — I run Claude Code and Codex side by side, and right now each one starts from zero on whatever the other figured out. Memory living outside the harness so a fact saved in one shows up in the other is the piece I'd actually use every day. The per-user separation with access grants matters a lot too, and only people being able to erase memory is the right call. One thing I'm curious about: when two harnesses write conflicting versions of the same fact, how does it decide which one wins?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on shipping this, the cross-harness demo is slick. We have a handful of team rules every agent should follow, like \"use pnpm, not npm\" and our commit message format. Can I pin those so every agent gets them every time, instead of hoping recall happens to surface them?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "shared memory across claude code and codex with access control, really neat. congrats Kuanze"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that it's open source. How do you keep memory from going stale or bloated over time? Is there pruning or summarization, and can I scope memories per project?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-8",
       "date": "2026-10-29",
       "rank": 8,
@@ -76261,7 +76530,65 @@
           "user": "[REDACTED]",
           "text": "Mock payloads for 500 plus providers is the part that saves real time, because most of my webhook debugging is spent getting a provider to fire the one event I actually need to see."
         }
-      ]
+      ],
+      "faDescription": "با Hookdeck Inspect، وب‌هوک‌های خود را به‌راحتی تست و دیباگ کنید. این ابزار یک URL زنده به شما و ایجنت هوش مصنوعی‌تان می‌دهد تا درخواست‌ها را در لحظه مشاهده کنید. همچنین از وب‌هوک‌های شبیه‌سازی‌شده برای بیش از ۵۰۰ ارائه‌دهنده مختلف پشتیبانی می‌کند. استفاده از این سرویس کاملاً رایگان است و نیازی به ثبت‌نام یا پیکربندی پیچیده ندارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "بکس‌های درخواست (Request bins) از زمان‌های قدیمی وجود داشته‌اند، اما برای انسان‌ها ساخته شده بودند. ما فکر کردیم زمان آن رسیده است که چیزی بومی برای ایجنت‌ها بسازیم. Inspect یک تستر وب‌هوک است که می‌توانید با ایجنت خود استفاده کنید. نیازی به مهارت‌های خاص، MCP یا پیکربندی سرور نیست. یک URL دریافت کنید و ببینید درخواست‌ها با پیکربندی دقیق همان‌طور که ارسال شده‌اند، به‌صورت زنده می‌رسند. یا URL را در Claude یا Codex بچسبانید تا به شما بگوید چه زمانی درخواستی دریافت شده و از آن برای ساخت هندلر استفاده کنید. موارد شامل: وب‌هوک‌های شبیه‌سازی‌شده از ۵۰۰+ ارائه‌دهنده از جمله Stripe، Shopify و GitHub؛ یک فید زنده درخواست که شما و ایجنت‌تان می‌توانید از آن استفاده کنید؛ و مسیر به سمت تولید: فوروارد به localhost با CLI و سپس انتقال به Event Gateway برای صف‌ها، تلاش مجدد و تبدیل‌ها. از طرف Hookdeck، سازندگان Event Gateway و Outpost که هفته‌ها میلیاردها وب‌هوک را پردازش می‌کنند. Inspect رایگان است و نیازی به حساب کاربری ندارد. آن را بررسی کنید و نظرتان را بگویید."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این هوشمندانه است و خوشحالم که چیزی می‌بینم که کاملاً درگیر AI نباشد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "Hookdeck واقعاً عالی است. صادقانه بگویم، وب‌هوک‌ها همیشه یک مشکل آزاردهنده برای ما بوده‌اند، بنابراین هر تلاشی برای کاهش این مشکل بسیار قدردانی می‌شود!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "هر DM در StorkPlus به‌عنوان یک وب‌هوک Meta به ایجنت‌های ما می‌رسد و بخش کند، پیام‌رسانی به صفحه تست خودمان فقط برای دیدن یک بار دیگر پیکربندی است. آیا لیست شبیه‌سازی‌شده رویدادهای WhatsApp، Messenger و Instagram را پوشش می‌دهد؟ و آیا یک URL Inspect می‌تواند به تأیید hub.challenge پاسخ دهد تا بتوانم یک اپ تست واقعی را به آن اشاره کنم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ایده خوبی است که یک بکس درخواستی بسازید که ایجنت هم بتواند آن را بخواند. آیا وب‌هوک‌های شبیه‌سازی‌شده از ۵۰۰+ ارائه‌دهنده شامل امضاهای معتبر هستند تا بتوانم تأیید امضا را در هندلر خود تست کنم، یا فقط شکل پیکربندی را؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "نقطه‌ای که برای من برجسته است، مسیر به سمت تولید است - اکثر بکس‌های تست یک بن‌بست هستند، اما اینجا می‌توانید با CLI به localhost فوروارد کنید و سپس همان جریان را به Event Gateway برای صف‌ها و تلاش مجدد ارتقا دهید. همچنین دوست دارم که می‌توانم URL را در Claude یا Codex بچسبانم و ایجنت به من بگوید چه زمانی درخواستی واقعاً رسیده است، به جای اینکه من روی دکمه رفرش چرت بزنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "یک URL زنده که می‌توانم بدون پیکربندی سرور به ایجنت بدهم، کاربردی است. نمونه‌های ارائه‌دهنده باید آن مرحله آزاردهنده‌ای را که منتظر یک رویداد واقعی هستید فقط برای بررسی شکل پیکربندی، نیز ذخیره کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "پیکربندی‌های شبیه‌سازی‌شده برای ۵۰۰+ ارائه‌دهنده بخشی است که زمان واقعی را صرفه‌جویی می‌کند، زیرا بیشتر دیباگ وب‌هوک من صرف این می‌شود که ارائه‌دهنده را مجبور کنم آن یک رویدادی را که واقعاً نیاز دارم ببینم، شلیک کند."
+        }
+      ],
+      "aiReview": "مسئله اصلی این است که تست و دیباگ وب‌هوک‌ها برای توسعه‌دهندگان زمان‌بر و پیچیده است، به‌ویژه زمانی که نیاز به شبیه‌سازی رویدادهای خاص ارائه‌دهندگان مختلف دارند. راه‌حل ارائه‌شده یک ابزار زنده و بومی برای ایجنت‌ها است که امکان مشاهده درخواست‌ها در لحظه و استفاده از پیکربندی‌های شبیه‌سازی‌شده را فراهم می‌کند. از نظر معماری، این سیستم احتمالاً از یک لایه API برای دریافت درخواست‌ها، یک دیتابیس برای ذخیره‌سازی موقت داده‌ها و یک رابط کاربری زنده برای نمایش داده‌ها استفاده می‌کند. مدل درآمدی می‌تواند بر اساس مدل رایگان با امکانات محدود و اشتراک‌های پولی برای تیم‌ها و سازمان‌ها باشد. نقاط قوت شامل رایگان بودن، عدم نیاز به ثبت‌نام، و سازگاری با ایجنت‌های هوش مصنوعی است. نقاط ضعف ممکن است شامل محدودیت‌های مقیاس‌پذیری در ترافیک بالا و وابستگی به زیرساخت ابری باشد. نکته طلایی برای ایران: ایجاد یک نسخه بومی با پشتیبانی از ارائه‌دهندگان محلی و ادغام با پلتفرم‌های هوش مصنوعی ایرانی می‌تواند مزیت رقابتی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "تست‌ر وب‌هوک هوشمند",
+        "description": "این پلتفرم یک ابزار رایگان برای تست و دیباگ وب‌هوک‌ها است که به‌طور خاص برای کار با ایجنت‌های هوش مصنوعی طراحی شده است. کاربران می‌توانند یک URL زنده دریافت کنند تا درخواست‌ها را به‌صورت لحظه‌ای مشاهده کنند و از وب‌هوک‌های شبیه‌سازی‌شده برای صدها ارائه‌دهنده استفاده کنند. این ابزار بدون نیاز به ثبت‌نام و پیکربندی پیچیده، فرآیند توسعه و تست را تسهیل می‌کند.",
+        "marketOpportunity": "بازار ایران با رشد سریع توسعه‌دهندگان و استفاده از APIها، نیاز مبرمی به ابزارهای ساده و ارزان برای تست وب‌هوک‌ها دارد. وجود ایجنت‌های هوش مصنوعی در اکوسیستم توسعه‌دهندگان ایرانی، فرصت ایجاد یک ابزار بومی و سازگار با نیازهای محلی را فراهم می‌کند.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان فرانت‌اند و بک‌اند، تیم‌های محصول استارتاپی، و متخصصان هوش مصنوعی که با ایجنت‌ها کار می‌کنند.",
+        "challenges": [
+          "رقابت با ابزارهای رایگان بین‌المللی مانند RequestBin و Postman",
+          "نیاز به زیرساخت ابری پایدار و مقیاس‌پذیر برای مدیریت ترافیک بالا"
+        ],
+        "monetization": [
+          "مدل رایگان برای کاربران فردی و نسخه پولی برای تیم‌ها با امکانات پیشرفته",
+          "فروش اشتراک سازمانی با گزارش‌دهی پیشرفته و پشتیبانی اختصاصی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Redis",
+          "Docker"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -76641,55 +76968,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-11-12",
-      "rank": 7,
-      "name": "Harness Memory",
-      "slug": "harness-memory",
-      "tagline": "Long-term memory for agents, across every harness",
-      "description": "Harness Memory gives every harness agent its own long-term memory. Pick a memory engine (Mem0, Graphiti, Hindsight, ReMe, or your own) and plug it into different agent harnesses, like Claude Code, Codex and Hermes. Memory can be shared across agent harnesses, with fine-grained access control. Open source in Community Edition and available on HarnessRouter Cloud.",
-      "category": "Open Source • Developer Tools • Artificial Intelligence • GitHub",
-      "categoryFa": "متن‌باز • ابزار توسعه‌دهندگان • هوش مصنوعی • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/201b4f9a-044d-4f3c-820a-68b83fd3f965.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/launch-image-uploads/597f2038-8c5b-458f-b73f-a749be31bc69/6bee3448a5df7fd4a3f77d473b98ee8dbacc568015ea070f2973a42dcd283bfc.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/163abdc9-50e4-4fc5-bc30-41df0f5d8d56/3486b2703567b103720f59a16399096ce13c745f1877af38622f841668d32140.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/a686cc3c-86f3-406e-9f74-149bd7ba789f/1b82c681deaeac80b2c723a67f79291c5fa4746dcf8e2fa55c33ef0d9f065192.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/5eab6e6b-30c5-4bcb-bdb9-05bf87bb0ddc/1993b17cd7c0baadeb06124a2a42b1b0c61d6d4a83494423d086b76624345336.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/d0ff4b6a-c5ac-4895-9950-c6085cf8d312/d01a4789ce55936a6ff7f9127b7e0b7821e344682bb07cbeedadcc7740a6a067.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/acfe8cb9-15ec-4396-9710-d9c4da0c4664/5b058a6cf6a3a751e05c61baf08713439b10e69d548ce3565107c11f8ecb115e.png?auto=format",
-        "https://ph-files.imgix.net/mcp-draft-media/fa2571ff-028c-483d-9da9-b0f17a901221.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 119,
-      "websiteUrl": "https://www.producthunt.com/r/UBLUY4WRXJJWPR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm Richard, co-founder of HarnessRouter. Today we're launching Harness Memory, which gives agents built on HarnessRouter a long-term memory.Here's why we built it. Every agent we built kept forgetting things, like what a user told it yesterday or what it figured out last session. It was worse whenever we switched harnesses, say from Claude Code to Hermes, or from Pi to Codex, because we had to wire memory up all over again each time. We kept thinking memory should be part of the agent instead of something you glue on afterwards.So that's what Harness Memory does:It's built in. When you build an agent, HarnessRouter picks a memory engine that fits the agent's job and tells you why. The options are Mem0, Graphiti, Hindsight and ReMe, or you can bring your own. Some agents shouldn't remember anything, like a translator that only transforms input, and those get no memory at all.It works in every session. The agent recalls memory when each turn starts, uses it through tools during the turn, and records what it learned when the turn ends. You don't write any glue code.It works across harnesses. A Claude Code agent, a Hermes agent, and a Codex agent can share one memory. In our demo, Codex saves a weekend plan, and Claude Code recalls that plan in a completely new session.We built it for agents that serve lots of people, so we were strict about a few things:Every user of the agent gets their own piece of memory, kept apart from everyone else's. Each memory needs its own access grant. Without a grant there's no access, and a model can't widen its own access.Agents can forget, but only people can erase. We never give an agent erase memory via a tool. When a fact changes, Harness Memory saves a new version, so the history stays.Memory informs the agent, but never instructs it. Recalled memory reaches the agent fenced off from its instructions, and each record is labeled with who wrote it. On the Memory page, people can see, edit or delete what's stored.We also made it open. The memory layer is an open spec, the Harness Memory Protocol, which is the Memories chapter of the Unified Harness Protocol. Any memory service can plug in as a provider. If a provider doesn't support something, we report the gap rather than skip it silently.Harness Memory is available today in the open-source Community Edition, and on HarnessRouter Cloud.We'd love to hear from you:What's the one thing you most wish your agent remembered?Which memory engine should we support next?We're around all day, so ask us anything 🙌"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The cross-harness part is what sold me — I run Claude Code and Codex side by side, and right now each one starts from zero on whatever the other figured out. Memory living outside the harness so a fact saved in one shows up in the other is the piece I'd actually use every day. The per-user separation with access grants matters a lot too, and only people being able to erase memory is the right call. One thing I'm curious about: when two harnesses write conflicting versions of the same fact, how does it decide which one wins?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on shipping this, the cross-harness demo is slick. We have a handful of team rules every agent should follow, like \"use pnpm, not npm\" and our commit message format. Can I pin those so every agent gets them every time, instead of hoping recall happens to surface them?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "shared memory across claude code and codex with access control, really neat. congrats Kuanze"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that it's open source. How do you keep memory from going stale or bloated over time? Is there pruning or summarization, and can I scope memories per project?"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -77262,6 +77540,103 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-8",
+      "date": "2026-11-12",
+      "rank": 8,
+      "name": "Grok Bot 1.0",
+      "slug": "grok-bot-1-0",
+      "tagline": "Bots work together alongside your team",
+      "description": "Bots now work with your whole team, take on work without being asked, and get more done, faster.",
+      "category": "Artificial Intelligence • Bots",
+      "categoryFa": "هوش مصنوعی • Bots",
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/93e79024-3637-430d-aa1e-763c0bb2202c.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/219bd9c8-23af-474b-8008-fcac86940627.webp?auto=format",
+        "https://ph-files.imgix.net/f5e82fcc-676f-402a-b6d8-1a4cf56a9a19.jpeg?auto=format",
+        "https://ph-files.imgix.net/287f1b31-74fc-4367-ad8e-329953b81115.jpeg?auto=format",
+        "https://ph-files.imgix.net/0a396bf9-9653-4061-8c5e-66e385a50dc0.jpeg?auto=format",
+        "https://ph-files.imgix.net/3b2dd2f4-3481-41a1-a203-4796f592b487.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 118,
+      "websiteUrl": "https://www.producthunt.com/r/NWK5UR5IABTBCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Excited to see Grok Bot 1.0 launch!It brings AI teammates that can do much more than answer questions. You can share Bots with your team, collaborate through Slack and Teams, invite them to meetings, and let them handle tasks proactively.They can also work together, create documents and presentations, connect with your apps, and learn from team interactions to become more helpful over time.AI teammates are becoming a reality!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! What capabilities grok bot would have in terms of integrations with 3rd party systems? Can 3rd party drive grok bot's work and get completion statuses?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "bots that pick up work without being asked is a cool direction. congrats on 1.0!"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-9",
+      "date": "2026-11-12",
+      "rank": 9,
+      "name": "Nameshot",
+      "slug": "nameshot-2",
+      "tagline": "Your screenshots named automatically",
+      "description": "A tiny app that solves a big problem: naming your messy stash of \"Screenshot 2025-12-15 at 06.59.24\" nonsense entirely on device via Apple Intelligence.",
+      "category": "Mac • Design Tools • Productivity",
+      "categoryFa": "مک • ابزار طراحی • بهره‌وری",
+      "url": "https://www.producthunt.com/products/nameshot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/8e354bfd-8006-4d76-88fa-3ea0c03917d4.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/7016984a-8f2b-4528-bc6b-5ae8b629aad6.jpeg?auto=format",
+        "https://ph-files.imgix.net/23c3245a-88b8-47c2-bcac-4227bf4763fa.jpeg?auto=format",
+        "https://ph-files.imgix.net/7776da9f-0bfd-472a-8c2f-1830d49ca352.png?auto=format",
+        "https://ph-files.imgix.net/8d47bbee-8c2c-42f1-855b-ab53ec465681.png?auto=format",
+        "https://ph-files.imgix.net/2cfcb8bc-0889-438d-bdf1-edc6efb3bc70.png?auto=format",
+        "https://ph-files.imgix.net/12b8b21d-c53a-457d-83fa-6f603b112ed7.png?auto=format",
+        "https://ph-files.imgix.net/875db6be-511b-4115-9900-98e2a2b536a6.png?auto=format",
+        "https://ph-files.imgix.net/27e794e9-853c-4eb2-9b68-dd94c42443b6.png?auto=format"
+      ],
+      "maker": "Ryan McLeod",
+      "makerTitle": "⬛️📲 blackboxpuzzles.com",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 118,
+      "websiteUrl": "https://www.producthunt.com/r/OHQD6DOWBSPVPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Big fan of @warpling @Blackbox game back in the day — and excited to see the care and detail he put into this one. Excited to unload it on my 1500 screenshots on my desktop! 🥴"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This one hits home — I take screenshots constantly while building apps, and my desktop is a graveyard of \"Screenshot 2026-11-12 at...\" files. Love that it renames in place and runs on-device with Apple Intelligence. Curious how the naming templates handle screenshots of code or UI — do they pick up the app or window the shot came from, or is it purely what's visible in the image?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I've been looking for something like this"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Hey, nice tool. Does it pick the name by reading the text inside the image, and does that work when the text is in Italian/other languages?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that the renaming happens fully on device with Apple Intelligence, so your screenshots stay private while the mess finally gets organized."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "My desktop has around 200 “Screenshot at...” files right now, so this one is personal :D Does it also rename the old ones or only new screenshots?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Finally someone thought of it, How do i find the screenshots later? how the naming formate works?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -77965,6 +78340,64 @@
         ],
         "confidence": 85
       }
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-11-12",
+      "rank": 10,
+      "name": "three.dev",
+      "slug": "three-dev",
+      "tagline": "Find out how your AI agent fails. Before your users do.",
+      "description": "Almost every team now runs AI in production, but few know how it behaves once real users show up. The failures are quiet: a wrong refund policy, a made-up order status. Nothing crashes, so you hear about it from your users. three.dev finds those failures in your live traffic on its own and ranks them by severity. Setup is one prompt to Claude Code, Cursor, or Codex. Then your coding agent gets what it needs to write the fix.",
+      "category": "Analytics • Developer Tools • Artificial Intelligence",
+      "categoryFa": "تحلیل داده • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/three-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/24917cc4-1dec-4a9e-8a08-c3c815026636.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c493470c-10fe-456e-8d7a-2c0f64e4fb5e.png?auto=format",
+        "https://ph-files.imgix.net/fa18295c-8a83-4e81-a230-744329c21cec.png?auto=format",
+        "https://ph-files.imgix.net/1d951359-4710-4a45-a58f-273fe15d6fa8.png?auto=format",
+        "https://ph-files.imgix.net/c6feeb64-4bec-42a6-a482-8449bb932c9c.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-12T08:01:00Z",
+      "votes": 117,
+      "websiteUrl": "https://www.producthunt.com/r/RV5447RLDSTXAS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Bryan, product lead at three.dev.AI features can fail quietly. A support assistant tells a customer the refund window is 60 days when the policy says 30. Nothing crashes and no alert fires. You only find out when a customer complains, or when you happen to open the right request at the right time.Most teams we've talked to have no way to see this. They read a few conversations by hand after a complaint. Evals don't close the gap, because you can only write an eval for a failure you already know about.So three.dev starts from your live traffic:Get started by pasting one setup prompt into your coding agent.We score your live requests in the background, with no added latency.Issues are found automatically and grouped into failure modes, ranked by severity, each with the real conversations and evidence behind it.Hand the top one to your coding agent over MCP. It reads the examples and proposes a targeted fix.I'd love to hear from anyone running AI in production:How do you find out today when your AI gets something wrong?What's the worst quiet failure you've caught, and how long did it run before you saw it?For the Product Hunt community: sign up by Nov 22, send traffic within a week, and the Starter plan is free for six months. That's $474 off ($79 a month).I'm here all day to answer questions. Try it on your own traffic and tell us what you find!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "yeah, this.user-facing agents have enough speed and scope to do the job... that said, there is still softness around accuracy and MTTR for accuracy-related issues. I like that this is drop-in and does that one thing very well... much better in the long run than bringing in another \"platform\" or trying to whitelabel the entire agent from soup to nuts."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the failure mode I actually worry about. My agents don't crash — they confidently give a wrong answer and I only find out when a user tells me. The proxy setup is what makes it realistic for me to try: no SDK, just point the base URL at gate.three.dev and add a few headers. And failure modes ranked by severity with real examples, then handing the top one to a coding agent over MCP for a fix — that's a tight loop. Curious how noisy the severity ranking gets in the first week, before it has enough traffic to know what's actually common versus a one-off?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Really useful to catch AI mistakes in real conversations before customers start reporting them"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Verifying that your agent is doing what it’s supposed to be doing it’s still an unsolved problem. Exciting to see y’all tackle this!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I love this idea and they've implemented it great. Evals are hard, each time I've built evals for a production app they've ended up abandoned and sadly end up spending my time being reactive when the model is acting strangely or different in prod. Love what the team here has built to solve this!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch three.dev team! How much work is the setup? How much would I have to change the code of an existing project? Also, which languages or SDKs do you support?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I went through our website agent's chats and nothing looked broken. the miss was quieter: right answers, but it never offered the next step, so people just left. could three.dev flag a chat that's correct but goes nowhere?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-8",
@@ -81420,122 +81853,6 @@
       }
     },
     {
-      "id": "ph-today-9",
-      "date": "2026-11-12",
-      "rank": 9,
-      "name": "Nameshot",
-      "slug": "nameshot-2",
-      "tagline": "Your screenshots named automatically",
-      "description": "A tiny app that solves a big problem: naming your messy stash of \"Screenshot 2025-12-15 at 06.59.24\" nonsense entirely on device via Apple Intelligence.",
-      "category": "Mac • Design Tools • Productivity",
-      "categoryFa": "مک • ابزار طراحی • بهره‌وری",
-      "url": "https://www.producthunt.com/products/nameshot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/8e354bfd-8006-4d76-88fa-3ea0c03917d4.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/7016984a-8f2b-4528-bc6b-5ae8b629aad6.jpeg?auto=format",
-        "https://ph-files.imgix.net/23c3245a-88b8-47c2-bcac-4227bf4763fa.jpeg?auto=format",
-        "https://ph-files.imgix.net/7776da9f-0bfd-472a-8c2f-1830d49ca352.png?auto=format",
-        "https://ph-files.imgix.net/8d47bbee-8c2c-42f1-855b-ab53ec465681.png?auto=format",
-        "https://ph-files.imgix.net/2cfcb8bc-0889-438d-bdf1-edc6efb3bc70.png?auto=format",
-        "https://ph-files.imgix.net/12b8b21d-c53a-457d-83fa-6f603b112ed7.png?auto=format",
-        "https://ph-files.imgix.net/875db6be-511b-4115-9900-98e2a2b536a6.png?auto=format",
-        "https://ph-files.imgix.net/27e794e9-853c-4eb2-9b68-dd94c42443b6.png?auto=format"
-      ],
-      "maker": "Ryan McLeod",
-      "makerTitle": "⬛️📲 blackboxpuzzles.com",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 112,
-      "websiteUrl": "https://www.producthunt.com/r/OHQD6DOWBSPVPX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Big fan of @warpling @Blackbox game back in the day — and excited to see the care and detail he put into this one. Excited to unload it on my 1500 screenshots on my desktop! 🥴"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This one hits home — I take screenshots constantly while building apps, and my desktop is a graveyard of \"Screenshot 2026-11-12 at...\" files. Love that it renames in place and runs on-device with Apple Intelligence. Curious how the naming templates handle screenshots of code or UI — do they pick up the app or window the shot came from, or is it purely what's visible in the image?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I've been looking for something like this"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Hey, nice tool. Does it pick the name by reading the text inside the image, and does that work when the text is in Italian/other languages?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that the renaming happens fully on device with Apple Intelligence, so your screenshots stay private while the mess finally gets organized."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "My desktop has around 200 “Screenshot at...” files right now, so this one is personal :D Does it also rename the old ones or only new screenshots?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Finally someone thought of it, How do i find the screenshots later? how the naming formate works?"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-8",
-      "date": "2026-11-12",
-      "rank": 8,
-      "name": "three.dev",
-      "slug": "three-dev",
-      "tagline": "Find out how your AI agent fails. Before your users do.",
-      "description": "Almost every team now runs AI in production, but few know how it behaves once real users show up. The failures are quiet: a wrong refund policy, a made-up order status. Nothing crashes, so you hear about it from your users. three.dev finds those failures in your live traffic on its own and ranks them by severity. Setup is one prompt to Claude Code, Cursor, or Codex. Then your coding agent gets what it needs to write the fix.",
-      "category": "Analytics • Developer Tools • Artificial Intelligence",
-      "categoryFa": "تحلیل داده • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/three-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/24917cc4-1dec-4a9e-8a08-c3c815026636.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c493470c-10fe-456e-8d7a-2c0f64e4fb5e.png?auto=format",
-        "https://ph-files.imgix.net/fa18295c-8a83-4e81-a230-744329c21cec.png?auto=format",
-        "https://ph-files.imgix.net/1d951359-4710-4a45-a58f-273fe15d6fa8.png?auto=format",
-        "https://ph-files.imgix.net/c6feeb64-4bec-42a6-a482-8449bb932c9c.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 112,
-      "websiteUrl": "https://www.producthunt.com/r/RV5447RLDSTXAS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Bryan, product lead at three.dev.AI features can fail quietly. A support assistant tells a customer the refund window is 60 days when the policy says 30. Nothing crashes and no alert fires. You only find out when a customer complains, or when you happen to open the right request at the right time.Most teams we've talked to have no way to see this. They read a few conversations by hand after a complaint. Evals don't close the gap, because you can only write an eval for a failure you already know about.So three.dev starts from your live traffic:Get started by pasting one setup prompt into your coding agent.We score your live requests in the background, with no added latency.Issues are found automatically and grouped into failure modes, ranked by severity, each with the real conversations and evidence behind it.Hand the top one to your coding agent over MCP. It reads the examples and proposes a targeted fix.I'd love to hear from anyone running AI in production:How do you find out today when your AI gets something wrong?What's the worst quiet failure you've caught, and how long did it run before you saw it?For the Product Hunt community: sign up by Nov 22, send traffic within a week, and the Starter plan is free for six months. That's $474 off ($79 a month).I'm here all day to answer questions. Try it on your own traffic and tell us what you find!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "yeah, this.user-facing agents have enough speed and scope to do the job... that said, there is still softness around accuracy and MTTR for accuracy-related issues. I like that this is drop-in and does that one thing very well... much better in the long run than bringing in another \"platform\" or trying to whitelabel the entire agent from soup to nuts."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the failure mode I actually worry about. My agents don't crash — they confidently give a wrong answer and I only find out when a user tells me. The proxy setup is what makes it realistic for me to try: no SDK, just point the base URL at gate.three.dev and add a few headers. And failure modes ranked by severity with real examples, then handing the top one to a coding agent over MCP for a fix — that's a tight loop. Curious how noisy the severity ranking gets in the first week, before it has enough traffic to know what's actually common versus a one-off?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Really useful to catch AI mistakes in real conversations before customers start reporting them"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Verifying that your agent is doing what it’s supposed to be doing it’s still an unsolved problem. Exciting to see y’all tackle this!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I love this idea and they've implemented it great. Evals are hard, each time I've built evals for a production app they've ended up abandoned and sadly end up spending my time being reactive when the model is acting strangely or different in prod. Love what the team here has built to solve this!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch three.dev team! How much work is the setup? How much would I have to change the code of an existing project? Also, which languages or SDKs do you support?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I went through our website agent's chats and nothing looked broken. the miss was quieter: right answers, but it never offered the next step, so people just left. could three.dev flag a chat that's correct but goes nowhere?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-9",
       "date": "2026-11-05",
       "rank": 9,
@@ -81635,7 +81952,51 @@
           "user": "[REDACTED]",
           "text": "congrats on the launch ely. plain english search is nice, i always lose time on filters. but people change jobs every year -> how fresh are the titles? old data is what kills reply rates for me"
         }
-      ]
+      ],
+      "faDescription": "این سرویس API به شما امکان می‌دهد افراد مورد نظر خود را با استفاده از زبان ساده و توصیفی پیدا کنید. تنها با یک درخواست API می‌توانید تا ۱۰ پروفایل منطبق با جستجوی خود را دریافت کنید. اطلاعات خروجی شامل نقش شغلی، کارفرما، موقعیت جغرافیایی، سابقه کاری، مهارت‌ها و دانشگاه‌های محل تحصیل است. این ابزار روند جستجوی متخصصان را بدون نیاز به تنظیم فیلترهای پیچیده بسیار سریع و هوشمند می‌سازد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ما سرویس جستجوی افراد را ساختیم تا پیدا کردن افراد مناسب را آسان‌تر کنیم. کافی است فرد مورد نظرتان را توصیف کنید، مثلاً «معاونین فروش در شرکت‌های انرژی خورشیدی کالیفرنیا»، و در میان بیش از ۱ میلیارد پروفایل جستجو کنید. ترکیب این ابزار با سایر APIهای ما، امکانات به مراتب قدرتمندتری ایجاد می‌کند! از ساخت آن لذت ببرید!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "جستجوی افراد بر اساس نقش + شرکت برای بازاریابی برون‌گرا (Outbound) بسیار کاربردی است 🙌 تازه بودن داده‌ها چقدر است؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "جستجوی افراد در بین بیش از ۱ میلیارد پروفایل بسیار بزرگ به نظر می‌رسد. چگونه داده‌ها را به‌روز نگه می‌دارید و اگر کسی از زمان آخرین خزیدن (Crawl) شغل خود را تغییر داده باشد چه اتفاقی می‌افتد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای انتشار ایلی. جستجو با زبان ساده عالی است، من همیشه وقتم را روی فیلترها تلف می‌کنم. اما مردم هر سال شغل عوض می‌کنند -> عناوین شغلی چقدر تازه هستند؟ داده‌های قدیمی نرخ پاسخگویی من را نابود می‌کنند."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: مسئله اصلی تلف شدن زمان زیادی از تیم‌های فروش و HR در فیلتر کردن دستی دیتابیس‌ها است. راه‌حل این محصول استفاده از هوش مصنوعی و پردازش زبان طبیعی (NLP) است که به کاربر اجازه می‌دهد تنها با یک جمله توصیفی، لیست متخصصان مورد نظر خود را دریافت کند.\n\nمعماری و تکنولوژی: استفاده از جستجوی معنایی (Semantic Search) و ترکیب آن با دیتابیس‌های گراف و برداری (Vector Databases) برای فهم منظور کاربر از متن ساده و تطبیق آن با بیش از ۱ میلیارد داده پروفایل.\n\nمدل درآمدی: بر پایه مصرف API (Pay-per-use) و فروش اعتبار فراخوانی مجزا برای توسعه‌دهندگان و ابزارهای فروش.\n\nنقاط قوت: رابط کاربری بی‌نهایت ساده (No-code / Plain English)، قابلیت ترکیب با سایر APIها و سرعت بالا در ساخت ابزارهای جانبی.\n\nنقاط ضعف: طبق نظر کاربران، چالش اصلی «تازگی داده‌ها» (Data Freshness) است. تغییر شغل مداوم افراد می‌تواند منجر به داده‌های منقضی شده و کاهش نرخ پاسخگویی در کمپین‌های بازاریابی شود.\n\nنکته طلایی برای ایران: در ایران به دلیل عدم وجود یک بانک اطلاعاتی واحد، ساخت ابزاری که بتواند داده‌های عمومی پروفایل‌های کاری (مانند لینکدین، کوئرا، جابینجا و...) را جمع‌آوری کرده و با هوش مصنوعی فارسی پرامپت‌های ترکیبی مانند «مدیران فنی شرکت‌های فین‌تک در تهران» را پردازش کند، به شدت توسط تیم‌های فروش B۲B و HR خریداری خواهد شد.",
+      "iranEquivalent": {
+        "productName": "موتور هوشمند جستجوی متخصصان و تصمیم‌گیرندگان B۲B",
+        "description": "این پلتفرم یک API هوشمند مبتنی بر زبان طبیعی برای جستجوی متخصصان، مدیران و نیروهای کاری در ایران ارائه می‌دهد. توسعه‌دهندگان و تیم‌های فروش می‌توانند با نوشتن جملات عادی فارسی، لیست افراد منطبق در شرکت‌های مختلف را دریافت کنند. داده‌های رزومه، سوابق کاری و تحصیلات با الگوریتم‌های هوش مصنوعی تحلیل شده و در اختیار کاربران قرار می‌گیرد.",
+        "marketOpportunity": "تیم‌های بازاریابی B۲B، منابع انسانی و جذب سرمایه در ایران نیاز مبرمی به ابزارهای دقیق برای یافتن تصمیم‌گیرندگان شرکت‌ها دارند. با گسترش کسب‌وکارهای تکنولوژی‌محور، چنین موتور جستجوی هوشمندی می‌تواند جایگزین روش‌های سنتی و زمان‌بر فیلتر رزومه‌ها شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تیم‌های فروش B۲B، آژانس‌های جذب استعداد (Headhunting)، دپارتمان‌های منابع انسانی و توسعه‌دهندگان نرم‌افزار",
+        "challenges": [
+          "چالش به‌روزرسانی مداوم پروفایل‌ها و تغییرات شغلی سریع افراد در ایران",
+          "محدودیت دسترسی به داده‌های ساختاریافته متخصصان ایرانی در شبکه‌های اجتماعی بومی و غیربومی"
+        ],
+        "monetization": [
+          "مدل اشتراکی بر اساس تعداد فراخوانی‌های API (Credit-based)",
+          "فروش پکیج‌های اختصاصی اطلاعاتی و سفارشی‌سازی‌شده به سازمان‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Elasticsearch",
+          "Python",
+          "FastAPI",
+          "OpenAI API"
+        ],
+        "confidence": 80
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -84474,45 +84835,6 @@
         {
           "user": "کاربر ProductHunt 3",
           "text": "سلام Product Hunt! 👋 من الکس، بنیان‌گذار و مدیرعامل Kubit هستم. وقتی یک ویژگی هوش مصنوعی شکست می‌خورد، ابزارهای مشاهده‌پذیری موجود به شما می‌گویند عامل چه کاری انجام داده و تحلیل‌های سنتی به شما می‌گویند آیا کاربر رفته است یا نه. هیچ‌کدام به شما نمی‌گویند چرا، زیرا با هم صحبت نمی‌کنند. شما مجبور می‌شوید بین تب‌ها جابه‌جا شوید و به صورت دستی لاگ‌های اجرای هوش مصنوعی را با جلسات کاربری فرانت‌اند تطبیق دهید تا بفهمید چه چیزی تجربه را خراب کرده است. ما این کلافگی را هنگام ساخت ویژگی‌های هوش مصنوعی خودمان از نزدیک تجربه کردیم. بنابراین Kubit را برای پل زدن دقیقاً روی این شکاف ساختیم: یک پلتفرم یکپارچه تحلیل محصول طراحی شده برای هر دو عامل و کاربر. با Kubit می‌توانید: ردیابی عامل را به رفتار کاربر متصل کنید: ردیابی‌های بک‌اند عامل را مستقیماً به اقدامات کاربر پیوند بزنید تا ببینید چرا کاربران دوباره پرامپت می‌دهند، یک جریان را رها می‌کنند یا تبدیل می‌شوند. عملکرد عامل را به نتایج کاربری مرتبط کنید: تأخیر P۹۵، مصرف توکن و هزینه‌های مدل را مستقیماً با شاخص‌های کلیدی مانند DAU، حفظ کاربر و LTV همبسته کنید. قیف‌های کاربر-عامل را ردیابی کنید: مرحله دقیق جایی که توهم عامل یا فراخوانی ابزار ناموفق یک قیف تبدیل را مختل می‌کند را شناسایی کنید. سفرهای کاربری هوش مصنوعی را نقشه‌برداری کنید: پرامپت‌های مجدد، کلیک‌های خشمگین، نیت کاربر و احساسات را ردیابی کنید تا بن‌بست‌های پنهان UX را کشف کنید که APMهای استاندارد آن‌ها را از دست می‌دهند. کوهورت‌های ریزبینانه بین‌دومانی بسازید: کاربران را با استفاده از شرایط پیچیده‌ای که هم تعاملات بک‌اند عامل و هم رفتار کاربری فرانت‌اند را ترکیب می‌کنند، بخش‌بندی کنید. بدون سر برای عامل‌های کدنویسی: از MCP و مهارت‌های سفارشی برای تحلیل‌های بدون سر طراحی شده برای ابزارهای هوش مصنوعی توسعه‌دهنده‌محور استفاده کنید. یکپارچه‌سازی آسان و معماری داده انعطاف‌پذیر راه‌اندازی سریع: Kubit را مستقیماً به زیرساخت OpenTelemetry (OTel) موجود یا CDP خود در چند دقیقه متصل کنید. بدون کپی / BYOW: ترجیح می‌دهید داده‌ها را در استک خودتان نگه دارید؟ معماری Bring Your Own Warehouse (BYOW) ما اطمینان می‌دهد که امنیت، انطباق و کنترل در بالاترین سطح باشد. ما Kubit را برای کمک به مهندسان محصول و هوش مصنوعی برای بهینه‌سازی عملکرد عامل در کنار رفتار کاربر برای ایجاد محصولات هوش مصنوعی که واقعاً ماندگار باشند، ساختیم. امروز رایگان آن را امتحان کنید در kubit.ai. بازخورد شما را دوست داریم! شما در حال حاضر چگونه با مشاهده‌پذیری عامل و تحلیل‌های کاربری مقابله می‌کنید؟ افکار، سؤالات یا درخواست‌های ویژگی خود را در بخش نظرات بنویسید، به تبدیل بپیوندید، یا مستقیماً با alex@kubit.ai تماس بگیرید. ساختن شاد! 🚀"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-10",
-      "date": "2026-11-12",
-      "rank": 10,
-      "name": "Grok Bot 1.0",
-      "slug": "grok-bot-1-0",
-      "tagline": "Bots work together alongside your team",
-      "description": "Bots now work with your whole team, take on work without being asked, and get more done, faster.",
-      "category": "Artificial Intelligence • Bots",
-      "categoryFa": "هوش مصنوعی • Bots",
-      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/93e79024-3637-430d-aa1e-763c0bb2202c.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/219bd9c8-23af-474b-8008-fcac86940627.webp?auto=format",
-        "https://ph-files.imgix.net/f5e82fcc-676f-402a-b6d8-1a4cf56a9a19.jpeg?auto=format",
-        "https://ph-files.imgix.net/287f1b31-74fc-4367-ad8e-329953b81115.jpeg?auto=format",
-        "https://ph-files.imgix.net/0a396bf9-9653-4061-8c5e-66e385a50dc0.jpeg?auto=format",
-        "https://ph-files.imgix.net/3b2dd2f4-3481-41a1-a203-4796f592b487.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-12T08:01:00Z",
-      "votes": 108,
-      "websiteUrl": "https://www.producthunt.com/r/NWK5UR5IABTBCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Excited to see Grok Bot 1.0 launch!It brings AI teammates that can do much more than answer questions. You can share Bots with your team, collaborate through Slack and Teams, invite them to meetings, and let them handle tasks proactively.They can also work together, create documents and presentations, connect with your apps, and learn from team interactions to become more helpful over time.AI teammates are becoming a reality!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! What capabilities grok bot would have in terms of integrations with 3rd party systems? Can 3rd party drive grok bot's work and get completion statuses?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "bots that pick up work without being asked is a cool direction. congrats on 1.0!"
         }
       ]
     },
@@ -95623,10 +95945,10 @@
   "audit": {
     "products": 964,
     "withRealComments": 964,
-    "withPersianComments": 864,
-    "withPersianDescription": 864,
-    "withAiReview": 833,
-    "withIranEquivalent": 864,
+    "withPersianComments": 870,
+    "withPersianDescription": 870,
+    "withAiReview": 838,
+    "withIranEquivalent": 870,
     "totalRealComments": 5990
   }
 }

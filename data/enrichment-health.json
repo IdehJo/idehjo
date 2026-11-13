@@ -1,20 +1,32 @@
 {
-  "checkedAt": "2026-11-12T03:22:30.246Z",
-  "latestDataset": "2026-11-12.json",
+  "checkedAt": "2026-11-13T02:54:59.430Z",
+  "latestDataset": "2026-11-13.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 159,
-  "backlogAfter": 151,
-  "completedProducts": 803,
-  "missingFaDescription": 92,
-  "missingFaComments": 122,
-  "missingAiReview": 124,
-  "missingIranEquivalent": 94,
+  "succeeded": 6,
+  "failed": 4,
+  "backlogBefore": 161,
+  "backlogAfter": 156,
+  "completedProducts": 808,
+  "missingFaDescription": 96,
+  "missingFaComments": 126,
+  "missingAiReview": 129,
+  "missingIranEquivalent": 98,
   "failures": [
     {
-      "slug": "videco-3",
+      "slug": "wanaka-studio",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
+    {
+      "slug": "floot-payments",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your pro"
+    },
+    {
+      "slug": "render-sandboxes",
+      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
+    },
+    {
+      "slug": "orphex-mcp",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
     }
   ]
