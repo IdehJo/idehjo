@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-11-14T02:43:35.564Z",
-  "latestDataset": "2026-11-14.json",
+  "checkedAt": "2026-11-15T02:09:50.676Z",
+  "latestDataset": "2026-11-15.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 166,
-  "backlogAfter": 157,
-  "completedProducts": 817,
-  "missingFaDescription": 97,
-  "missingFaComments": 127,
-  "missingAiReview": 130,
-  "missingIranEquivalent": 99,
-  "failures": [
-    {
-      "slug": "wanaka-studio",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
-    }
-  ]
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 168,
+  "backlogAfter": 159,
+  "completedProducts": 826,
+  "missingFaDescription": 98,
+  "missingFaComments": 128,
+  "missingAiReview": 132,
+  "missingIranEquivalent": 100,
+  "failures": []
 }
