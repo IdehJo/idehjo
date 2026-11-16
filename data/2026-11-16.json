@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "scrapedAt": "2026-11-16T00:13:25.422Z",
+  "scrapedAt": "2026-11-16T02:20:25.073Z",
   "periods": {
     "today": [
       {
@@ -28,12 +28,16 @@
         "maker": "Elie Steinbock",
         "makerTitle": "Building Inbox Zero AI",
         "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 304,
+        "votes": 321,
         "websiteUrl": "https://www.producthunt.com/r/JJD4SYA4D3EAB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Hunters 👋I’m excited to launch Rakazo, the best open-source Grok Bot alternative with 8,400 GitHub stars.We let you bring any model or sandbox provider and it supports ChatGPT and Claude subscriptions.It's free to self-host, or you can use our cloud platform starting at $15/mo.💻 Bots get their own computer🧠 Memory that carries over between tasks⏰ Routines on a schedule, from an email or a webhook🔌 Gmail, Slack, GitHub, Notion, Linear and thousands more, plus any MCP server👥 Group chats📱 Web, desktop, iPhone and Android🆓 Self-hosting is free. Hosted is $15/month.🎁 Code PHNOV26 gets 25% off for 12 months.🚀 Try it today: https://rakazo.com⭐️ Give us a star on GitHub: https://github.com/elie222/rakazoWhat features would you love to see us add next?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Easy to try, since you can bring your own model and self-host for free. Great launch, congrats! 🚀"
           },
           {
             "user": "[REDACTED]",
@@ -58,10 +62,6 @@
           {
             "user": "[REDACTED]",
             "text": "congrats on the launch elie. what i would want next is a short daily report per agent, what it did, what it skipped and why. most agent tools show raw run logs and honestly nobody reads them. is something like that on the roadmap?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Love the idea!And cool like you positioning it: grok alternative.Congrats on the launch, Elie"
           }
         ]
       },
@@ -87,7 +87,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 204,
+        "votes": 231,
         "websiteUrl": "https://www.producthunt.com/r/FT7MX33UAAVCZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -152,7 +152,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 181,
+        "votes": 187,
         "websiteUrl": "https://www.producthunt.com/r/YYVWZN3VGDME5C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -212,7 +212,7 @@
         "maker": "KP",
         "makerTitle": "GTM Specialist & Top Hunter 🏆",
         "featuredAt": "2026-11-15T08:00:00Z",
-        "votes": 133,
+        "votes": 140,
         "websiteUrl": "https://www.producthunt.com/r/QPB2D4QRGA3BW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -274,12 +274,20 @@
         "maker": "Tom Owers",
         "makerTitle": "Software Engineer",
         "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 132,
+        "votes": 137,
         "websiteUrl": "https://www.producthunt.com/r/ANYQ2DRTK2VS3T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey everyone, Tom here. I made Talyn.These days Claude writes most of my code, and my job had turned into babysitting it. Several Claude windows open, laptop lid up all day, and the minute I walked away a PR would fail CI and sit there red until I got back.So Talyn moves all of that to the cloud. Every task gets its own sandbox with its own branch, agent and terminal. You can start a bunch of them, shut the laptop, and come back to diffs. (A mobile app is coming soon too.)It runs Claude Code and Codex on your own Claude or ChatGPT plan. I didn't want to pay for tokens twice, so Talyn only charges for the machines.The part I use most is what happens after the PR opens. Talyn fixes failing checks, conflicts and review comments, and if you queue the PR, it merges once it's green. It won't merge anything you didn't ask it to.I also didn't want an agent holding my keys. Tokens stay outside the sandbox and get added on the way out, so there's nothing in there to leak.A few things you should know: it's GitHub only for now and it's a beta built by one person, so expect rough edges, and please tell me when you hit one. Curious what you'd hand off to an agent first!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Running Claude Code and Codex in parallel cloud sandboxes while automatically fixing CI failures is useful. Can Talyn enforce a maximum number of repair attempts and notify developers when a PR keeps failing instead of repeatedly consuming compute?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "github only is the one thing stopping me tbh, we're on gitlab. is that on the list or way later?"
           },
           {
             "user": "[REDACTED]",
@@ -300,14 +308,6 @@
           {
             "user": "[REDACTED]",
             "text": "does it ever run out of github api budget? all of it rides on my user token now if i read the architecture doc right"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Coming back to a pull request that already passed instead of a wall of failing checks is the part I would actually feel, since the babysitting happens while I am away from the desk anyway. Does it keep the box warm between runs so the next one does not pay for setup again?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "tokens staying outside the sandbox and only added on the way out is the detail that makes me ok leaving it running overnigthwhen it fixes a failing check on its own, do i see the diff before it pushes??? or does it just push and let the next CI run decide???"
           }
         ]
       },
@@ -315,67 +315,6 @@
         "id": "ph-today-6",
         "date": "2026-11-15",
         "rank": 6,
-        "name": "TwoBucket",
-        "slug": "twobucket",
-        "tagline": "Beginner-friendly mobile detailing software for bookings",
-        "description": "TwoBucket is beginner-friendly mobile detailing software for solo detailers and small teams. Customers send their vehicle, its condition and photos from your booking page or website. You send a quote they approve online, then an invoice they pay by card, Apple Pay or Google Pay into your own Stripe or Square account, with deposits and tips. Visits sync to Google Calendar or iCloud. iPhone, Android and web, or ask ChatGPT, Claude, Gemini, Grok or Muse. $20/month, 7-day free trial.",
-        "category": "Android • Cars • SaaS • CRM",
-        "categoryFa": "اندروید • Cars • نرم‌افزار ابری • مدیریت ارتباط با مشتری",
-        "url": "https://www.producthunt.com/products/twobucket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/749a307f-5fb9-4fef-9800-80ad104bf219.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/3a917755-5bdf-4821-b3e8-37bed81a7d59.png?auto=format",
-          "https://ph-files.imgix.net/b9dd5a0a-82a7-4a72-af41-cc74904288d7.png?auto=format",
-          "https://ph-files.imgix.net/f3051c76-59b4-4edf-a290-1e63562bda8e.png?auto=format",
-          "https://ph-files.imgix.net/413c21fc-e00a-4388-826d-f741a54481e6.png?auto=format",
-          "https://ph-files.imgix.net/c36d8472-52d2-45e0-88e3-35a25f8ec91b.png?auto=format",
-          "https://ph-files.imgix.net/971c87f2-173d-4ac0-94a8-675f4b25b7ea.png?auto=format",
-          "https://ph-files.imgix.net/f8bbbd2d-6f43-41c5-ba8c-ddfc04e04ba1.png?auto=format",
-          "https://ph-files.imgix.net/33a8e30f-fd1c-4beb-82c1-6ee434a65c8f.png?auto=format",
-          "https://ph-files.imgix.net/d1c12788-a59e-42d7-9621-6a01a896dff5.png?auto=format",
-          "https://ph-files.imgix.net/21eca498-cff6-411d-9ba9-b4f490b7937c.png?auto=format",
-          "https://ph-files.imgix.net/0a7430e0-69dd-421c-9c67-d589c4836433.jpeg?auto=format"
-        ],
-        "maker": "Javokhir Sh.",
-        "makerTitle": "Founder of TwoBucket",
-        "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 108,
-        "websiteUrl": "https://www.producthunt.com/r/66Z4N5DIRAO47A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hi Product Hunt 👋I built TwoBucket for mobile detailers: people who wash, detail and coat cars in their customers' driveways, on their own or with a small team. If you're starting a detailing business, your booking page is ready in a minute or two, with common services and add-ons already set up. You run everything else from your phone, without learning a big field-service tool.The name comes from the two-bucket wash: soap in one bucket, clean rinse water in the other, so the dirt never goes back on the paint.How a job runs in TwoBucketThe request. Customers open your booking page (bookr.page/your-business) or the form on your own website, pick services and add-ons, mark the car's condition (pet hair, stains, odor, sand and more), add photos and choose a preferred day. You see the car before you price it. Customers don't need an app or an account.The price. Send an estimate (a price range is fine), a quote they approve online, then the invoice. Prices on your page can be fixed, \"from\", a range or hidden, and each service can have its own price for sedans, SUVs, pickups and other vehicle types.Getting paid. Connect your own Stripe or Square account and every invoice gets a Pay button: card, Apple Pay or Google Pay, in the countries Stripe or Square serve. You can let customers add a tip. Ask for a deposit when customers book, approve a quote or get their visit confirmed. The money goes to your account, and TwoBucket takes no fee. Invoices can also list Zelle, Venmo, Cash App, PayPal, bank transfer, Pix or UPI, with QR codes for SEPA, UPI and Pix.The day. Schedule the visit and the customer gets a reminder the day before, where they can confirm or ask to change. Visits sync to Google Calendar or iCloud, and Outlook can subscribe with a private link. Block out your days off, text \"On my way\", run the job timer, and add up to 50 before and 50 after photos.The next job. Put your best photos in your page's gallery, ask for a review, and let rebooking emails go out 1, 2, 3 or 6 months after a visit. Make 24 kinds of marketing, from business cards and loyalty cards to yard signs and before-and-after posts, each with your QR code, and see the visits they bring in.Your look. Pick one of seven designs for your booking page, website form, quotes and invoices.Your numbers. Earnings by week, month or year, per hour on the job, tips and what's still owed.Run it by asking. Connect ChatGPT, Claude, Gemini, Grok or Muse to your account and type \"make Maria a quote for an exterior detail, $140\" or \"what did I earn this week?\". Before anything goes to a customer or an invoice is marked paid, TwoBucket tells the assistant to check with you. TwoBucket is the only software built just for mobile detailers that you can connect to ChatGPT, Claude, Gemini, Grok and Muse. (For builders: it's an MCP server at usetwobucket.com/mcp.)Yours to take with you. Download your customers, jobs, quotes and invoices as CSV files, one click each, even after your plan ends. Card payments go to your own Stripe or Square account, which stays yours.It's an app for iPhone and Android and a web app, in 15 languages and 36 currencies. One plan has every feature: $20/month in the US ($15.97/month billed yearly), with a 7-day free trial and no card. For comparison, the plans with online requests, quotes, invoices and automated reminders cost $139/month on Jobber and $120/month on Urable (list prices, November 2026).We're a team of three and self-funded. Every change we ship is dated at usetwobucket.com/whats-new.See what your customers see on a sample page (nothing gets sent): https://bookr.page/sample-detailer-quoteTwoBucket was called Bookr until the end of October, and booking pages still live at bookr.page.If you detail cars, or you're thinking about starting: what was the hardest part of the business side in your first months?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Frequently answered questions on legitimacy of TwoBucket: https://usetwobucket.com/blog/is-twobucket-legit"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Love the idea and execution. Most difficult part will be user acquisition though. Mobile detailers most likely don't research the web for solutions, it'll all be about proactively catching their attention to build momentum. Good luck!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I like that this is built for one specific kind of solo operator instead of \"any small business\". I build for a non-technical group too, and the hardest part has been the first ten minutes: they will not read a setup guide. How does a detailer who has never used booking software get to their first booking with you?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Wow thank you so much to ya'll, didn't expect this much support!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Not onw, but two buckets! congrats on the launch. Wish you all the best here"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "A similar system could be applied to bicycles. Some enthusiasts who take that sport seriously are able to throw hundreds or thousands of euros on it. :D"
-          }
-        ]
-      },
-      {
-        "id": "ph-today-7",
-        "date": "2026-11-15",
-        "rank": 7,
         "name": "Canvas by AgentGrid.io",
         "slug": "canvas-by-agentgrid-io",
         "tagline": "Agentic Design Canvas - A visual way to collaborate with AI",
@@ -397,7 +336,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-15T08:01:00Z",
-        "votes": 108,
+        "votes": 113,
         "websiteUrl": "https://www.producthunt.com/r/OI335FP7TS27LE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -435,6 +374,71 @@
         ]
       },
       {
+        "id": "ph-today-7",
+        "date": "2026-11-15",
+        "rank": 7,
+        "name": "TwoBucket",
+        "slug": "twobucket",
+        "tagline": "Beginner-friendly mobile detailing software for bookings",
+        "description": "TwoBucket is beginner-friendly mobile detailing software for solo detailers and small teams. Customers send their vehicle, its condition and photos from your booking page or website. You send a quote they approve online, then an invoice they pay by card, Apple Pay or Google Pay into your own Stripe or Square account, with deposits and tips. Visits sync to Google Calendar or iCloud. iPhone, Android and web, or ask ChatGPT, Claude, Gemini, Grok or Muse. $20/month, 7-day free trial.",
+        "category": "Android • Cars • SaaS • CRM",
+        "categoryFa": "اندروید • Cars • نرم‌افزار ابری • مدیریت ارتباط با مشتری",
+        "url": "https://www.producthunt.com/products/twobucket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/749a307f-5fb9-4fef-9800-80ad104bf219.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/3a917755-5bdf-4821-b3e8-37bed81a7d59.png?auto=format",
+          "https://ph-files.imgix.net/b9dd5a0a-82a7-4a72-af41-cc74904288d7.png?auto=format",
+          "https://ph-files.imgix.net/f3051c76-59b4-4edf-a290-1e63562bda8e.png?auto=format",
+          "https://ph-files.imgix.net/413c21fc-e00a-4388-826d-f741a54481e6.png?auto=format",
+          "https://ph-files.imgix.net/c36d8472-52d2-45e0-88e3-35a25f8ec91b.png?auto=format",
+          "https://ph-files.imgix.net/971c87f2-173d-4ac0-94a8-675f4b25b7ea.png?auto=format",
+          "https://ph-files.imgix.net/f8bbbd2d-6f43-41c5-ba8c-ddfc04e04ba1.png?auto=format",
+          "https://ph-files.imgix.net/33a8e30f-fd1c-4beb-82c1-6ee434a65c8f.png?auto=format",
+          "https://ph-files.imgix.net/d1c12788-a59e-42d7-9621-6a01a896dff5.png?auto=format",
+          "https://ph-files.imgix.net/21eca498-cff6-411d-9ba9-b4f490b7937c.png?auto=format",
+          "https://ph-files.imgix.net/0a7430e0-69dd-421c-9c67-d589c4836433.jpeg?auto=format"
+        ],
+        "maker": "Javokhir Sh.",
+        "makerTitle": "Founder of TwoBucket",
+        "featuredAt": "2026-11-15T08:01:00Z",
+        "votes": 108,
+        "websiteUrl": "https://www.producthunt.com/r/66Z4N5DIRAO47A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hi Product Hunt 👋I built TwoBucket for mobile detailers: people who wash, detail and coat cars in their customers' driveways, on their own or with a small team. If you're starting a detailing business, your booking page is ready in a minute or two, with common services and add-ons already set up. You run everything else from your phone, without learning a big field-service tool.The name comes from the two-bucket wash: soap in one bucket, clean rinse water in the other, so the dirt never goes back on the paint.How a job runs in TwoBucketThe request. Customers open your booking page (bookr.page/your-business) or the form on your own website, pick services and add-ons, mark the car's condition (pet hair, stains, odor, sand and more), add photos and choose a preferred day. You see the car before you price it. Customers don't need an app or an account.The price. Send an estimate (a price range is fine), a quote they approve online, then the invoice. Prices on your page can be fixed, \"from\", a range or hidden, and each service can have its own price for sedans, SUVs, pickups and other vehicle types.Getting paid. Connect your own Stripe or Square account and every invoice gets a Pay button: card, Apple Pay or Google Pay, in the countries Stripe or Square serve. You can let customers add a tip. Ask for a deposit when customers book, approve a quote or get their visit confirmed. The money goes to your account, and TwoBucket takes no fee. Invoices can also list Zelle, Venmo, Cash App, PayPal, bank transfer, Pix or UPI, with QR codes for SEPA, UPI and Pix.The day. Schedule the visit and the customer gets a reminder the day before, where they can confirm or ask to change. Visits sync to Google Calendar or iCloud, and Outlook can subscribe with a private link. Block out your days off, text \"On my way\", run the job timer, and add up to 50 before and 50 after photos.The next job. Put your best photos in your page's gallery, ask for a review, and let rebooking emails go out 1, 2, 3 or 6 months after a visit. Make 24 kinds of marketing, from business cards and loyalty cards to yard signs and before-and-after posts, each with your QR code, and see the visits they bring in.Your look. Pick one of seven designs for your booking page, website form, quotes and invoices.Your numbers. Earnings by week, month or year, per hour on the job, tips and what's still owed.Run it by asking. Connect ChatGPT, Claude, Gemini, Grok or Muse to your account and type \"make Maria a quote for an exterior detail, $140\" or \"what did I earn this week?\". Before anything goes to a customer or an invoice is marked paid, TwoBucket tells the assistant to check with you. TwoBucket is the only software built just for mobile detailers that you can connect to ChatGPT, Claude, Gemini, Grok and Muse. (For builders: it's an MCP server at usetwobucket.com/mcp.)Yours to take with you. Download your customers, jobs, quotes and invoices as CSV files, one click each, even after your plan ends. Card payments go to your own Stripe or Square account, which stays yours.It's an app for iPhone and Android and a web app, in 15 languages and 36 currencies. One plan has every feature: $20/month in the US ($15.97/month billed yearly), with a 7-day free trial and no card. For comparison, the plans with online requests, quotes, invoices and automated reminders cost $139/month on Jobber and $120/month on Urable (list prices, November 2026).We're a team of three and self-funded. Every change we ship is dated at usetwobucket.com/whats-new.See what your customers see on a sample page (nothing gets sent): https://bookr.page/sample-detailer-quoteTwoBucket was called Bookr until the end of October, and booking pages still live at bookr.page.If you detail cars, or you're thinking about starting: what was the hardest part of the business side in your first months?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "ha I'd never heard of the two bucket wash, good name. pet hair being its own checkbox is very real lol"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Comparing tools? Who we are, what happens to your data, and what's coming before December: https://usetwobucket.com/blog/is-twobucket-legit"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Love the idea and execution. Most difficult part will be user acquisition though. Mobile detailers most likely don't research the web for solutions, it'll all be about proactively catching their attention to build momentum. Good luck!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I like that this is built for one specific kind of solo operator instead of \"any small business\". I build for a non-technical group too, and the hardest part has been the first ten minutes: they will not read a setup guide. How does a detailer who has never used booking software get to their first booking with you?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Wow thank you so much to ya'll, didn't expect this much support!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Not onw, but two buckets! congrats on the launch. Wish you all the best here"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "A similar system could be applied to bicycles. Some enthusiasts who take that sport seriously are able to throw hundreds or thousands of euros on it. :D"
+          }
+        ]
+      },
+      {
         "id": "ph-today-8",
         "date": "2026-11-15",
         "rank": 8,
@@ -458,12 +462,16 @@
         "maker": "Dylan Roy",
         "makerTitle": "Engineer & Side Project Junkie",
         "featuredAt": "2026-11-15T08:00:00Z",
-        "votes": 97,
+        "votes": 103,
         "websiteUrl": "https://www.producthunt.com/r/74WWDRRLYFAEJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi Product Hunt, I'm Dylan, and I built Remindly on my own.I use it every day, including in the kitchen. I work out my sourdough recipes with Claude, and Claude saves each version straight into Remindly with reminders for the folds and the bake. The recipe and the timer end up in the same place, which is the whole point of the app.The idea is simple: a note and a reminder shouldn't live in two apps. In Remindly any note can remind you once, on a repeat, all day, or when you arrive at a place, and the note is right there when it does.What's in it today:Quick capture on Mac and iPhone: type, dictate, or scan paper into a noteA web clipper for Chrome and Firefox that can also keep your bookmarks bar in sync with a notebook (Pro)Native apps for iPhone, iPad and Mac, plus a web app, all in syncConnects to Claude, so it can save notes and set reminders for youEvernote import, so you can bring your library with youShare a note with a link, and let others edit itIt's free to use. Pro adds things like Read Aloud, note history and location reminders. For launch, the code FOUNDING makes Pro $29/year for as long as you stay subscribed, for the first few people (yearly plan, on the web).I'd love to know one thing: what made you give up on the last notes app you tried? I'm here all day and will answer everything."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Here from X. Remindly seems like a neat idea."
           },
           {
             "user": "[REDACTED]",
@@ -506,7 +514,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-15T08:00:00Z",
-        "votes": 96,
+        "votes": 100,
         "websiteUrl": "https://www.producthunt.com/r/KPIYGDOPJZWXWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -607,7 +615,7 @@
         "maker": "Hareesh Vemasani",
         "makerTitle": "Building HiringNow",
         "featuredAt": "2026-11-14T08:01:00Z",
-        "votes": 302,
+        "votes": 303,
         "websiteUrl": "https://www.producthunt.com/r/WSO7S2YHKPGAXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -789,8 +797,68 @@
       },
       {
         "id": "ph-yesterday-5",
-        "date": "2026-11-14",
+        "date": "2026-11-15",
         "rank": 5,
+        "name": "HuntMonitor",
+        "slug": "huntmonitor",
+        "tagline": "Watch today's hunt live: points, speed, rank moves",
+        "description": "HuntMonitor is a live dashboard for today's Product Hunt race. Sort by points, comments, upvote speed, or hunter. Keep one tab open to see if a launch is climbing or slipping. Open any row for the day's points chart. Updates live, snapshots every 15 minutes.",
+        "category": "Productivity • Analytics • Tech",
+        "categoryFa": "بهره‌وری • تحلیل داده • Tech",
+        "url": "https://www.producthunt.com/products/huntmonitor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/f5b41999-3ee1-41d7-9081-806d3c18bc8f/6faebf36d9fbfcf5dc981ddbe5919988987199a977b11118aa2a357cf4d8fe90.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/launch-image-uploads/8013614c-3ce1-47fa-91df-384549d5375c/54a0b1cf1809f6e215b740f8bc723fe0994e0b01b5cff3b9c1a2fd46eb8bd0f5.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/93f00b4e-c7bd-4d11-9af1-2393cbf73819/475f3927312114cce9c4e5d6ac694a441ec563129facbce295c4bd700a8e0028.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/c7e58dee-fa44-43e1-bbc6-1ef67e44b4eb/4fd92cb6943014786bd4809a6072fc0c7eeaf87d67448dbce525eb2cdc37cc05.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/26f63cf9-c993-4c30-940d-90ced0d7e7ee/0e1007b3af7ccb2345420b786e31ac020b264ea57dd70dbb42554d3e0b810633.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/850e4e77-f8ab-43a8-9eab-77bfdab9dd5d/3a3dc11860c1d8a44ea7a4e44076cfbc15292f0f8ecaca01564961db7bcc067c.png?auto=format",
+          "https://ph-files.imgix.net/mcp-draft-media/bb2ceb00-c95a-415f-b307-a734cea01f91.jpeg?auto=format"
+        ],
+        "maker": "KP",
+        "makerTitle": "GTM Specialist & Top Hunter 🏆",
+        "featuredAt": "2026-11-15T08:00:00Z",
+        "votes": 140,
+        "websiteUrl": "https://www.producthunt.com/r/QPB2D4QRGA3BW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey PH community 👋Excited to launch HuntMonitor today.I'm a huge Product Hunt nerd, and I wanted to build a PH tool using Netlify’s latest features and PH API. HuntMonitor is a live dashboard for today's race: points, speed, and rank moves, so you can keep one tab open and see if a launch is climbing or slipping. I posted a short look at it on X here.Points is the default board. Featured launches sit in one column and the ranking updates as the points move, with snapshots every 15 minutes and a live push to every open tab.Speed is the one I'd leave open on launch day. It sorts the sheet by upvote speed per hour, so you can spot who is surging even if they are not at the top of the points list yet.The points chart is what I'd open when a launch starts moving. Tap any row for the day's points line, then step back through earlier days or sort by comments or hunter if you want a different cut of the same race.Try it here:https://huntmonitor.netlify.appI'd love feedback and feature requests. Give it a spin and tell me what you'd want next 🚀"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "As someone who launches here pretty often, the Speed view is the one I'd actually leave open on launch day — refreshing the homepage to check where I stand gets old fast. Being able to tap a row and see that launch's points chart through the day is the part I'd use most. Nice work shipping this on Netlify too."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Good timing for me, I'm launching later this week for the first time. Honest question: for a first-time launcher, which number is worth watching during the day, and which ones just make you anxious? I can see myself refreshing this every five minutes."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Does this tool get around Product Hunt's four-hour upvote visibility restriction? Because it seems like everything is showing zero votes right now, so I'm wondering how useful the tool actually is if it can't bypass that limitation. Unless you're thinking more about long-term tracking, where you can see how quickly products gained traction over time?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Really liking the interface It’s clean simple and not complicated at all I checked today’s launch data and yesterday’s launch which I also hunted and the rankings look quite accurate"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "You're just logging the ever changing data from PH right? Or do you have access to some insider intel? Regardless, I useful tool. Much better than trying to keep refreshing PH."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Does it also cover products that are featured?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "That's sneaky. :D Finally, someone found a workaround to \"cheat\" the system with hidden upvotes :D"
+          }
+        ]
+      },
+      {
+        "id": "ph-yesterday-6",
+        "date": "2026-11-14",
+        "rank": 6,
         "name": "Blender 5.3",
         "slug": "blender-5-3",
         "tagline": "3D Gaussian splats, now native to Blender",
@@ -837,66 +905,6 @@
           {
             "user": "[REDACTED]",
             "text": "Native Gaussian splats across Geometry Nodes, EEVEE, and Cycles is the part that stands out to me — captured scenes finally living in the same pipeline as the rest of the work instead of as a separate import step. And honestly, being able to arrange objects in whatever order I want in the Outliner might be the change I notice every day. Congrats on the release."
-          }
-        ]
-      },
-      {
-        "id": "ph-yesterday-6",
-        "date": "2026-11-15",
-        "rank": 6,
-        "name": "HuntMonitor",
-        "slug": "huntmonitor",
-        "tagline": "Watch today's hunt live: points, speed, rank moves",
-        "description": "HuntMonitor is a live dashboard for today's Product Hunt race. Sort by points, comments, upvote speed, or hunter. Keep one tab open to see if a launch is climbing or slipping. Open any row for the day's points chart. Updates live, snapshots every 15 minutes.",
-        "category": "Productivity • Analytics • Tech",
-        "categoryFa": "بهره‌وری • تحلیل داده • Tech",
-        "url": "https://www.producthunt.com/products/huntmonitor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/f5b41999-3ee1-41d7-9081-806d3c18bc8f/6faebf36d9fbfcf5dc981ddbe5919988987199a977b11118aa2a357cf4d8fe90.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/launch-image-uploads/8013614c-3ce1-47fa-91df-384549d5375c/54a0b1cf1809f6e215b740f8bc723fe0994e0b01b5cff3b9c1a2fd46eb8bd0f5.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/93f00b4e-c7bd-4d11-9af1-2393cbf73819/475f3927312114cce9c4e5d6ac694a441ec563129facbce295c4bd700a8e0028.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/c7e58dee-fa44-43e1-bbc6-1ef67e44b4eb/4fd92cb6943014786bd4809a6072fc0c7eeaf87d67448dbce525eb2cdc37cc05.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/26f63cf9-c993-4c30-940d-90ced0d7e7ee/0e1007b3af7ccb2345420b786e31ac020b264ea57dd70dbb42554d3e0b810633.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/850e4e77-f8ab-43a8-9eab-77bfdab9dd5d/3a3dc11860c1d8a44ea7a4e44076cfbc15292f0f8ecaca01564961db7bcc067c.png?auto=format",
-          "https://ph-files.imgix.net/mcp-draft-media/bb2ceb00-c95a-415f-b307-a734cea01f91.jpeg?auto=format"
-        ],
-        "maker": "KP",
-        "makerTitle": "GTM Specialist & Top Hunter 🏆",
-        "featuredAt": "2026-11-15T08:00:00Z",
-        "votes": 133,
-        "websiteUrl": "https://www.producthunt.com/r/QPB2D4QRGA3BW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hey PH community 👋Excited to launch HuntMonitor today.I'm a huge Product Hunt nerd, and I wanted to build a PH tool using Netlify’s latest features and PH API. HuntMonitor is a live dashboard for today's race: points, speed, and rank moves, so you can keep one tab open and see if a launch is climbing or slipping. I posted a short look at it on X here.Points is the default board. Featured launches sit in one column and the ranking updates as the points move, with snapshots every 15 minutes and a live push to every open tab.Speed is the one I'd leave open on launch day. It sorts the sheet by upvote speed per hour, so you can spot who is surging even if they are not at the top of the points list yet.The points chart is what I'd open when a launch starts moving. Tap any row for the day's points line, then step back through earlier days or sort by comments or hunter if you want a different cut of the same race.Try it here:https://huntmonitor.netlify.appI'd love feedback and feature requests. Give it a spin and tell me what you'd want next 🚀"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "As someone who launches here pretty often, the Speed view is the one I'd actually leave open on launch day — refreshing the homepage to check where I stand gets old fast. Being able to tap a row and see that launch's points chart through the day is the part I'd use most. Nice work shipping this on Netlify too."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Good timing for me, I'm launching later this week for the first time. Honest question: for a first-time launcher, which number is worth watching during the day, and which ones just make you anxious? I can see myself refreshing this every five minutes."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Does this tool get around Product Hunt's four-hour upvote visibility restriction? Because it seems like everything is showing zero votes right now, so I'm wondering how useful the tool actually is if it can't bypass that limitation. Unless you're thinking more about long-term tracking, where you can see how quickly products gained traction over time?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Really liking the interface It’s clean simple and not complicated at all I checked today’s launch data and yesterday’s launch which I also hunted and the rankings look quite accurate"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "You're just logging the ever changing data from PH right? Or do you have access to some insider intel? Regardless, I useful tool. Much better than trying to keep refreshing PH."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Does it also cover products that are featured?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "That's sneaky. :D Finally, someone found a workaround to \"cheat\" the system with hidden upvotes :D"
           }
         ]
       },
@@ -958,8 +966,61 @@
       },
       {
         "id": "ph-yesterday-8",
-        "date": "2026-11-14",
+        "date": "2026-11-15",
         "rank": 8,
+        "name": "Remindly",
+        "slug": "remindly-6",
+        "tagline": "Notes that remind you, on iPhone, iPad, Mac and web",
+        "description": "Remindly is a fast notes app where any note can carry a reminder: one-time, repeating, all-day, or when you arrive somewhere. Capture by typing, voice, scan, or the web clipper. Syncs across iPhone, iPad, Mac and web. Imports your Evernote library.",
+        "category": "Mac • Productivity • Notes",
+        "categoryFa": "مک • بهره‌وری • یادداشت",
+        "url": "https://www.producthunt.com/products/remindly-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/0de2e00b-741f-4c1a-b994-c26452292532/9c019a5dcc9d44d21a74d21eb7d68bfbe291e3d533c51f3cf84e481544c3462e.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/mcp-draft-media/af12dabf-55f8-4ffd-8122-5ce1b7cff8ee.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/bbf15b54-b868-4fa5-b458-18347f73f7b9/956258ebf866fc8464202a4fb391d04f3a6b041eee65d26019edb1e59462f735.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/c2e831d3-906c-40e4-8000-30bf50255750/d01ed04e483ff8291bacc6053a4471fe509e7b8cb3c1e37cb8e5473134d02a25.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/539babe6-1cde-41f8-84a1-8167f8433890/459caa4cff012476edf6e8d121270caa63dd4815cf525683d652c6502c94b99d.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/7f9b61c5-ebb5-48e9-adc5-a25c7ca020bd/ebcef3fb4b64d16529e8ee6f4e0bbcd6167d99492bf17cf30874ad0e44c158e2.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/6c409f99-1a1a-44af-b669-140a35391071/014664810cb49a224af8a5ea3c9faef9d260eda4b10c9ef8c77fa4fc91c5168f.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/704c2e65-fba6-4322-a880-8b551955d242/8d7be530ce8c85383bc4f4b0f80c88bf3c5a584e81fc833aae2fff29362fe343.png?auto=format"
+        ],
+        "maker": "Dylan Roy",
+        "makerTitle": "Engineer & Side Project Junkie",
+        "featuredAt": "2026-11-15T08:00:00Z",
+        "votes": 103,
+        "websiteUrl": "https://www.producthunt.com/r/74WWDRRLYFAEJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hi Product Hunt, I'm Dylan, and I built Remindly on my own.I use it every day, including in the kitchen. I work out my sourdough recipes with Claude, and Claude saves each version straight into Remindly with reminders for the folds and the bake. The recipe and the timer end up in the same place, which is the whole point of the app.The idea is simple: a note and a reminder shouldn't live in two apps. In Remindly any note can remind you once, on a repeat, all day, or when you arrive at a place, and the note is right there when it does.What's in it today:Quick capture on Mac and iPhone: type, dictate, or scan paper into a noteA web clipper for Chrome and Firefox that can also keep your bookmarks bar in sync with a notebook (Pro)Native apps for iPhone, iPad and Mac, plus a web app, all in syncConnects to Claude, so it can save notes and set reminders for youEvernote import, so you can bring your library with youShare a note with a link, and let others edit itIt's free to use. Pro adds things like Read Aloud, note history and location reminders. For launch, the code FOUNDING makes Pro $29/year for as long as you stay subscribed, for the first few people (yearly plan, on the web).I'd love to know one thing: what made you give up on the last notes app you tried? I'm here all day and will answer everything."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Here from X. Remindly seems like a neat idea."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I gave up on my last notes app for exactly this reason — the note lived in one place and the reminder lived in another, so I'd write something down, never get nudged, and forget the note even existed. Having the reminder attached to the note itself is the part that would actually get me to stick with it, especially that they're scheduled on-device and still fire with no signal. Setting one on the Mac and getting nudged on my phone is a nice touch too."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "the location reminder that fires when you arrive somewhere is a nice touch for plain notes. do the repeating reminders still go off if the phone has no signal?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "left evernote bc reminders lived in a diff app and i'd just forget the note existed lol. does the evernote import bring over the reminders already set on notes or only text and tags?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "recipe plus fold timers living in the same note is such a specific use case, I get it tbh. does the arrive somewhere reminder work on iPad too or is that iPhone only?"
+          }
+        ]
+      },
+      {
+        "id": "ph-yesterday-9",
+        "date": "2026-11-14",
+        "rank": 9,
         "name": "Kokonut UI",
         "slug": "kokonut-ui-2",
         "tagline": "Open-source UI components for your AI agent",
@@ -1002,6 +1063,66 @@
         ]
       },
       {
+        "id": "ph-yesterday-10",
+        "date": "2026-11-15",
+        "rank": 10,
+        "name": "Perit Marketplace",
+        "slug": "perit-marketplace",
+        "tagline": "Sell your data and RL tasks to frontier AI labs",
+        "description": "Perit Marketplace turns your data and expertise into training work for frontier AI labs. Two ways in: submit data you own (audio, video, code, docs, CAD and more; 29 datasets listed so far), or build RL tasks and benchmarks on our platform using our VMs and model credits. We pitch them to labs, and approved experts scale to hundreds of tasks a week. Built by Perit (YC F26), now past $11M in revenue in 4.5 months.",
+        "category": "Developer Tools • Artificial Intelligence • Data",
+        "categoryFa": "ابزار توسعه‌دهندگان • هوش مصنوعی • داده",
+        "url": "https://www.producthunt.com/products/perit-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/3cc375cf-dede-4808-9d43-6a3d59aba779/e5b9575d336bbe42828d6dcbf5b5912e102883bbf8584e303c9281888bd6acaf.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/mcp-draft-media/3f5fd36c-ee6d-4512-998b-4ad003d346dc.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/074771a9-8d84-4c1f-881c-08a0e6053e38/32d5ad3b788d09a6919d645db31f156abf462ca6dfb6195b73301844e17b2d14.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/5a01d641-0b73-47a0-ba38-1c56212d3dd7/9c12e74780857d05129cde27e85e8a2f9422f6800f4f9fe8d4b8274254c7f91f.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/85388b57-b322-4078-b639-04f9777ad78a/66dac507e2b71b4df042e64d001bfec7368f158dd7e08d74df6aab5d6750cf02.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/fbc21512-c4b7-476f-ae67-2d2042b91fc9/ea4743ec39df450f4186e1a9a95cab8b0a7a3a614c42c2589327c806a5908181.png?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/005f0ca2-8c28-445d-a2e3-92e389744e0f/e120cdd2c70c7872b364d37c0c7e99d2d8a4671839413af43d8a8a474432eaed.png?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-11-15T08:00:00Z",
+        "votes": 100,
+        "websiteUrl": "https://www.producthunt.com/r/KPIYGDOPJZWXWT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Product Hunt 👋I'm Kshitij, cofounder of Perit with my sister Poorva. We're both IIT Kharagpur alumni and second-time YC founders, now in YC F26.Frontier AI labs have already trained on most of the public internet. What they need now is the data the internet doesn't have: real calls, real codebases, real work captured by the people who do it, and hard tasks written by people who know a domain inside out. A lot of that sits with startups, studios, agencies and domain experts who have no idea it's valuable.So we opened up our marketplace. There are two ways in.1. Own data? Submit it. Today the marketplace lists 29 datasets across 9 modalities, including 2.89M+ hours of audio, 4.74M+ hours of video and 21.1M+ lines of code. Audio, video, code, documents, images, CAD, clinical, enterprise workflows, anything.Tell us the shape and the volume. A rough description is enough to start.We come back with what it's worth and what clearing it would take.We package it for the labs we work with.2. Expert in a domain? Build RL tasks with Perit Expert Tasks. Experts write agentic tasks and benchmarks on our hosted workbench. Every task is stress-tested before we pitch it to frontier AI labs.Simple upload. You add a task bundle and a weighted rubric, and it stays in a private workspace.Seven quality gates. A task has to pass Build, Oracle, Do Nothing, New Seed, Difficulty Probe, Human Review and Publish before it goes live.Calibrated difficulty. It only counts if frontier models pass it between 10% and 60% of the time.Sandboxed and auditable. Every run is isolated, and every score traces back to the exact run that produced it.Get paid. Experts are paid when a lab picks their task, and the best ones scale to hundreds of tasks.To submit data, head to perit.ai/marketplace and click Submit your data. To build tasks, go to perit.ai/expert-tasks. Or drop a comment below with the data you have or the domain you know best, and our team will reach out.Perit is a YC-backed company in the current F26 batch, and we're already working with multiple frontier AI labs. We've passed $11M in revenue. Poorva and I are both 2x YC founders, and Poorva previously worked at Google training their models. YC shared our launch here: our launch on LinkedInI'll be here all day answering questions and replying to every comment personally."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Only counting tasks that frontier models pass 10 to 60 percent of the time is a sharp filter, since tasks that are too easy or impossible both teach a model nothing. That band also moves every time a new model ships. When a new model starts passing a task 90 percent of the time, does the task get retired, and does the expert who built it still get paid for past use?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Are you planning to expand the marketplace with more categories of specialized training data?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "is the platform also suitable for people who want to contribute domain expertise rather than just raw datasets?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "How do you make sure sensitive or private information is protected throughout the data sharing process?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Can smaller AI startups use Perit to find affordable, high quality training data for their projects?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "How does Perit make it easier for independent data contributors to connect with AI labs looking for quality training data?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The seven quality gates are the part I keep coming back to — especially 'Do Nothing' and the 10–60% pass band. A task a model can pass by doing nothing, or that every frontier model already aces, tells you nothing, and most benchmarks I've seen don't filter those out. Curious how often tasks actually fail the Difficulty Probe in practice — is that the gate that kills the most submissions, or is it Human Review?"
+          }
+        ]
+      },
+      {
         "id": "ph-yesterday-9",
         "date": "2026-11-14",
         "rank": 9,
@@ -1027,55 +1148,6 @@
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt!Uber Parking is now live inside the Uber app. You can find, compare and reserve parking without switching to a separate app.It runs on the network of SpotHero, which Uber acquired: 13,000+ garages, lots and valets across 400 cities in the US and Canada.To book, you set a destination, date and time, add your car details and pay with Uber Wallet. Entry works by QR code or license plate recognition, depending on the lot.Reservations can be extended in the app. Uber One members get 10% back in Uber One credits on eligible bookings, usable on rides and Uber Eats.With this update, one app covers rides, food delivery and parking for the days you drive yourself.Available now in the US and Canada. Update the Uber app and look for the Parking icon on the home screen. More about the update here https://www.uber.com/us/en/newsroom/uber-parking-has-arrived/"
-          }
-        ]
-      },
-      {
-        "id": "ph-yesterday-10",
-        "date": "2026-11-15",
-        "rank": 10,
-        "name": "Remindly",
-        "slug": "remindly-6",
-        "tagline": "Notes that remind you, on iPhone, iPad, Mac and web",
-        "description": "Remindly is a fast notes app where any note can carry a reminder: one-time, repeating, all-day, or when you arrive somewhere. Capture by typing, voice, scan, or the web clipper. Syncs across iPhone, iPad, Mac and web. Imports your Evernote library.",
-        "category": "Mac • Productivity • Notes",
-        "categoryFa": "مک • بهره‌وری • یادداشت",
-        "url": "https://www.producthunt.com/products/remindly-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/0de2e00b-741f-4c1a-b994-c26452292532/9c019a5dcc9d44d21a74d21eb7d68bfbe291e3d533c51f3cf84e481544c3462e.png?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/mcp-draft-media/af12dabf-55f8-4ffd-8122-5ce1b7cff8ee.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/bbf15b54-b868-4fa5-b458-18347f73f7b9/956258ebf866fc8464202a4fb391d04f3a6b041eee65d26019edb1e59462f735.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/c2e831d3-906c-40e4-8000-30bf50255750/d01ed04e483ff8291bacc6053a4471fe509e7b8cb3c1e37cb8e5473134d02a25.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/539babe6-1cde-41f8-84a1-8167f8433890/459caa4cff012476edf6e8d121270caa63dd4815cf525683d652c6502c94b99d.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/7f9b61c5-ebb5-48e9-adc5-a25c7ca020bd/ebcef3fb4b64d16529e8ee6f4e0bbcd6167d99492bf17cf30874ad0e44c158e2.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/6c409f99-1a1a-44af-b669-140a35391071/014664810cb49a224af8a5ea3c9faef9d260eda4b10c9ef8c77fa4fc91c5168f.png?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/704c2e65-fba6-4322-a880-8b551955d242/8d7be530ce8c85383bc4f4b0f80c88bf3c5a584e81fc833aae2fff29362fe343.png?auto=format"
-        ],
-        "maker": "Dylan Roy",
-        "makerTitle": "Engineer & Side Project Junkie",
-        "featuredAt": "2026-11-15T08:00:00Z",
-        "votes": 97,
-        "websiteUrl": "https://www.producthunt.com/r/74WWDRRLYFAEJU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "Hi Product Hunt, I'm Dylan, and I built Remindly on my own.I use it every day, including in the kitchen. I work out my sourdough recipes with Claude, and Claude saves each version straight into Remindly with reminders for the folds and the bake. The recipe and the timer end up in the same place, which is the whole point of the app.The idea is simple: a note and a reminder shouldn't live in two apps. In Remindly any note can remind you once, on a repeat, all day, or when you arrive at a place, and the note is right there when it does.What's in it today:Quick capture on Mac and iPhone: type, dictate, or scan paper into a noteA web clipper for Chrome and Firefox that can also keep your bookmarks bar in sync with a notebook (Pro)Native apps for iPhone, iPad and Mac, plus a web app, all in syncConnects to Claude, so it can save notes and set reminders for youEvernote import, so you can bring your library with youShare a note with a link, and let others edit itIt's free to use. Pro adds things like Read Aloud, note history and location reminders. For launch, the code FOUNDING makes Pro $29/year for as long as you stay subscribed, for the first few people (yearly plan, on the web).I'd love to know one thing: what made you give up on the last notes app you tried? I'm here all day and will answer everything."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "I gave up on my last notes app for exactly this reason — the note lived in one place and the reminder lived in another, so I'd write something down, never get nudged, and forget the note even existed. Having the reminder attached to the note itself is the part that would actually get me to stick with it, especially that they're scheduled on-device and still fire with no signal. Setting one on the Mac and getting nudged on my phone is a nice touch too."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "the location reminder that fires when you arrive somewhere is a nice touch for plain notes. do the repeating reminders still go off if the phone has no signal?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "left evernote bc reminders lived in a diff app and i'd just forget the note existed lol. does the evernote import bring over the reminders already set on notes or only text and tags?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "recipe plus fold timers living in the same note is such a specific use case, I get it tbh. does the arrive somewhere reminder work on iPad too or is that iPhone only?"
           }
         ]
       }
@@ -1515,8 +1587,70 @@
       },
       {
         "id": "ph-week-8",
-        "date": "2026-11-13",
+        "date": "2026-11-15",
         "rank": 8,
+        "name": "Rakazo",
+        "slug": "rakazo-2",
+        "tagline": "The open source Grok Bot alternative you actually own",
+        "description": "Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own memory, routines and computer, with a browser you can watch and take over. Open source and self-hosted: any model, your keys, your machine. Web, desktop and mobile.",
+        "category": "Android • Productivity • Open Source • Artificial Intelligence • GitHub",
+        "categoryFa": "اندروید • بهره‌وری • متن‌باز • هوش مصنوعی • گیت‌هاب",
+        "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/e55287d1-9b0f-4ac1-999b-f88b64bd0f28.png?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format",
+          "https://ph-files.imgix.net/0c4a95bf-8b92-47d0-a0d5-dd9556ace6f6.png?auto=format",
+          "https://ph-files.imgix.net/e3c11dd2-c0fd-4b1b-b341-ec40bf4f2e3b.png?auto=format",
+          "https://ph-files.imgix.net/c4f6929c-98cb-4aa6-aef1-df43ff6a2047.png?auto=format",
+          "https://ph-files.imgix.net/03fec691-531b-4823-9f90-de3e69146fb5.png?auto=format",
+          "https://ph-files.imgix.net/eb3b1085-beef-425c-a9f5-422768290616.png?auto=format",
+          "https://ph-files.imgix.net/c0345593-1e24-4827-9166-eca99b15c3fd.png?auto=format",
+          "https://ph-files.imgix.net/71a75eb3-6787-427e-be5e-decc19ff47d5.jpeg?auto=format"
+        ],
+        "maker": "Elie Steinbock",
+        "makerTitle": "Building Inbox Zero AI",
+        "featuredAt": "2026-11-15T08:01:00Z",
+        "votes": 321,
+        "websiteUrl": "https://www.producthunt.com/r/JJD4SYA4D3EAB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Hunters 👋I’m excited to launch Rakazo, the best open-source Grok Bot alternative with 8,400 GitHub stars.We let you bring any model or sandbox provider and it supports ChatGPT and Claude subscriptions.It's free to self-host, or you can use our cloud platform starting at $15/mo.💻 Bots get their own computer🧠 Memory that carries over between tasks⏰ Routines on a schedule, from an email or a webhook🔌 Gmail, Slack, GitHub, Notion, Linear and thousands more, plus any MCP server👥 Group chats📱 Web, desktop, iPhone and Android🆓 Self-hosting is free. Hosted is $15/month.🎁 Code PHNOV26 gets 25% off for 12 months.🚀 Try it today: https://rakazo.com⭐️ Give us a star on GitHub: https://github.com/elie222/rakazoWhat features would you love to see us add next?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Easy to try, since you can bring your own model and self-host for free. Great launch, congrats! 🚀"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great product! Are you using Pi as your core engine?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Looks nice, whats like server spec requirement for self hosting?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Open Source Grok Bots ??? sign me up Elie! 🔥"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The approval rules plus the audit log are what sold me — I've had agents quietly do things I only discovered days later, so a teammate I can actually see and gate feels like a different proposition. BYO Claude subscription makes it an easy try too. Do routines check in while long-running work is going, or do they just run until an approval stops them?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Hey Elie, congrats on the launch. You've done an excellent job! Am I able to bring my own models into Rakazo?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "congrats on the launch elie. what i would want next is a short daily report per agent, what it did, what it skipped and why. most agent tools show raw run logs and honestly nobody reads them. is something like that on the roadmap?"
+          }
+        ]
+      },
+      {
+        "id": "ph-week-9",
+        "date": "2026-11-13",
+        "rank": 9,
         "name": "Filament by Galaxy",
         "slug": "filament-by-galaxy",
         "tagline": "Move data using your terminal or agent. Fast & open source.",
@@ -1574,9 +1708,9 @@
         ]
       },
       {
-        "id": "ph-week-9",
+        "id": "ph-week-10",
         "date": "2026-11-09",
-        "rank": 9,
+        "rank": 10,
         "name": "Databox CLI",
         "slug": "databox-cli",
         "tagline": "Your agentic analytics platform in the terminal",
@@ -1910,7 +2044,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-04T08:01:00Z",
-        "votes": 496,
+        "votes": 497,
         "websiteUrl": "https://www.producthunt.com/r/72C3HN2ZVH7J6Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
