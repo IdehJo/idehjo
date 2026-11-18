@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:32:35.834Z",
+  "generatedAt": "2026-11-18T03:55:23.570Z",
   "sourceFiles": 100,
   "products": [
     {
@@ -18277,6 +18277,68 @@
       "aiReview": "مسئله اصلی که این محصول حل می‌کند، «فراموشی زمینه» (Context Loss) در مکالمات با هوش مصنوعی است؛ کاربر مجبور است بارها و بارها اطلاعات تکراری را به مدل تزریق کند. راه‌حل لوسی، ایجاد یک لایه حافظه بصری و متنی محلی است که به عنوان منبع حقیقت (Source of Truth) برای Agentها عمل می‌کند. از نظر معماری، این محصول روی پردازش محلی (On-device) تمرکز دارد تا حریم خصوصی را حفظ کند و از مدل‌های سبک‌تر برای ترنسکریپشن و خلاصه‌سازی استفاده می‌کند. مدل درآمدی فعلی رایگان است که احتمالاً برای جذب کاربر و جمع‌آوری بازخورد طراحی شده، اما در مقیاس بزرگ‌تر می‌تواند به سمت SaaS یا فروش لایسنس سازمانی برود. نقاط قوت شامل حفظ حریم خصوصی، عدم نیاز به کانکتورهای پیچیده و یکپارچه‌سازی با اکوسیستم‌های محبوب کدنویسی است. نقاط ضعف عبارتند از مصرف بالای منابع سیستم (CPU/RAM) برای ضبط و پردازش مداوم، و چالش‌های فنی در مدیریت حجم بالای داده‌های بصری. نکته طلایی برای ایران: با توجه به محدودیت‌های اینترنت و نگرانی‌های امنیتی، ارائه یک نسخه کاملاً آفلاین و محلی که نیاز به اتصال دائم به اینترنت ندارد، می‌تواند مزیت رقابتی بزرگی در بازار ایران باشد، به ویژه برای شرکت‌هایی که داده‌های حساس دارند و نمی‌توانند از سرویس‌های ابری خارجی استفاده کنند."
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-17",
+      "rank": 1,
+      "name": "RankSpot",
+      "slug": "rankspot-2",
+      "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
+      "description": "RankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.",
+      "category": "Productivity • Marketing • SEO",
+      "categoryFa": "بهره‌وری • بازاریابی • سئو",
+      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7debbc6a-20c7-4604-b33a-2da89b48ba2f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format",
+        "https://ph-files.imgix.net/01db85fc-2b73-4735-bdce-681ce99032eb.png?auto=format",
+        "https://ph-files.imgix.net/cf84c367-f93b-4361-be32-62f9d7307c5a.png?auto=format",
+        "https://ph-files.imgix.net/c2978bb3-ee73-441e-9e86-fbf816f30028.png?auto=format",
+        "https://ph-files.imgix.net/4189f173-7523-4c98-b63e-9d7dd2bea119.png?auto=format",
+        "https://ph-files.imgix.net/cc5903f6-6b67-483a-962f-2c02f19b7911.png?auto=format",
+        "https://ph-files.imgix.net/c0d3a1ce-1926-4a92-b9a3-70f6df58746a.png?auto=format",
+        "https://ph-files.imgix.net/65675104-def5-49fd-94a4-a2d7ba1176eb.png?auto=format"
+      ],
+      "maker": "Daniil Poletaev",
+      "makerTitle": "Founder @BlogBowl",
+      "featuredAt": "2026-11-17T08:01:00Z",
+      "votes": 364,
+      "websiteUrl": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Dan here, co-founder of RankSpot.Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:1️⃣ Execution → Most SEO tools stop at the data. RankSpot reads Google's top 5 for your keyword and writes the page that beats them, in 100+ languages, then publishes and indexes it. It also finds the editors of pages already ranking and pitches them from your own mailbox, then tracks every link and your Domain Rating.2️⃣ Agent first → We run the infrastructure: rank and AI answer tracking, competitor share of voice, writing, publishing, email finding and outreach for backlinks. You control it all from Claude or ChatGPT through our MCP. Setup takes 2 minutes, no API key. Ask \"Where are we missing in Google and AI search?\" and your agent pulls the gaps and starts on the fixes.3️⃣ Pay as you go → No subscription. Per output pricing at $3 an article, $0.004 a prompt check, $0.09 a pitch, and reading your data is free. You start with $1 of credit (that's 250 prompt checks) and one free article to see the quality. Set a spend cap and put tasks on a schedule.4️⃣ Everything under one roof → Agencies and people running several businesses keep every client in one chat. Type \"Run this week's fixes for every client\" and approve what goes out.🎁 Launch deal: we'll match your first top-up up to $50 until Thursday 19 November, 08:00 UK (midnight PT).What SEO task would you start on first? I'll answer every comment below so feel free to be upfront with your feedback!👉 https://rankspot.ai"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The memory piece is what caught my eye — most SEO tools give an agent data, but it forgets everything between sessions, so every run starts from scratch. If this actually keeps per-client state across chats, that changes how much you can hand off. Curious how you handle that when the same agent is running multiple clients at once — is the memory scoped per client, or does it all live in one shared context?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "does it uses DataForSEO API !?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "With the 21 day mailbox warm-up, can outreach start on day one, or does the first pitch wait until it's done?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The execution layer is the interesting part. I’d make every SEO action leave a compact receipt: target query, source pages inspected, page or outreach diff, expected metric, and rollback path. That would help agencies separate “the agent ran” from “the change was attributable and safe to repeat,” especially across multiple client properties."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Does it can match the ability to perform AI Visibility capabilities"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Pay as you go sounds great. Roughly what does a typical site end up spending per month?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Great tool! How is this different from tools like Semrush or Ahrefs?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-9",
       "date": "2026-10-05",
       "rank": 9,
@@ -19070,68 +19132,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-11-17",
-      "rank": 1,
-      "name": "RankSpot",
-      "slug": "rankspot-2",
-      "tagline": "Pay-as-you-go SEO and AI Search execution layer for agents",
-      "description": "RankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.",
-      "category": "Productivity • Marketing • SEO",
-      "categoryFa": "بهره‌وری • بازاریابی • سئو",
-      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7debbc6a-20c7-4604-b33a-2da89b48ba2f.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format",
-        "https://ph-files.imgix.net/01db85fc-2b73-4735-bdce-681ce99032eb.png?auto=format",
-        "https://ph-files.imgix.net/cf84c367-f93b-4361-be32-62f9d7307c5a.png?auto=format",
-        "https://ph-files.imgix.net/c2978bb3-ee73-441e-9e86-fbf816f30028.png?auto=format",
-        "https://ph-files.imgix.net/4189f173-7523-4c98-b63e-9d7dd2bea119.png?auto=format",
-        "https://ph-files.imgix.net/cc5903f6-6b67-483a-962f-2c02f19b7911.png?auto=format",
-        "https://ph-files.imgix.net/c0d3a1ce-1926-4a92-b9a3-70f6df58746a.png?auto=format",
-        "https://ph-files.imgix.net/65675104-def5-49fd-94a4-a2d7ba1176eb.png?auto=format"
-      ],
-      "maker": "Daniil Poletaev",
-      "makerTitle": "Founder @BlogBowl",
-      "featuredAt": "2026-11-17T08:01:00Z",
-      "votes": 356,
-      "websiteUrl": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Dan here, co-founder of RankSpot.Last time we launched, RankSpot only generated content on autopilot. Since then we've onboarded 1,000+ customers, and their feedback shaped our improved product. So we set out to build something no other SEO tool could do, and focused on these things:1️⃣ Execution → Most SEO tools stop at the data. RankSpot reads Google's top 5 for your keyword and writes the page that beats them, in 100+ languages, then publishes and indexes it. It also finds the editors of pages already ranking and pitches them from your own mailbox, then tracks every link and your Domain Rating.2️⃣ Agent first → We run the infrastructure: rank and AI answer tracking, competitor share of voice, writing, publishing, email finding and outreach for backlinks. You control it all from Claude or ChatGPT through our MCP. Setup takes 2 minutes, no API key. Ask \"Where are we missing in Google and AI search?\" and your agent pulls the gaps and starts on the fixes.3️⃣ Pay as you go → No subscription. Per output pricing at $3 an article, $0.004 a prompt check, $0.09 a pitch, and reading your data is free. You start with $1 of credit (that's 250 prompt checks) and one free article to see the quality. Set a spend cap and put tasks on a schedule.4️⃣ Everything under one roof → Agencies and people running several businesses keep every client in one chat. Type \"Run this week's fixes for every client\" and approve what goes out.🎁 Launch deal: we'll match your first top-up up to $50 until Thursday 19 November, 08:00 UK (midnight PT).What SEO task would you start on first? I'll answer every comment below so feel free to be upfront with your feedback!👉 https://rankspot.ai"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The memory piece is what caught my eye — most SEO tools give an agent data, but it forgets everything between sessions, so every run starts from scratch. If this actually keeps per-client state across chats, that changes how much you can hand off. Curious how you handle that when the same agent is running multiple clients at once — is the memory scoped per client, or does it all live in one shared context?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "does it uses DataForSEO API !?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "With the 21 day mailbox warm-up, can outreach start on day one, or does the first pitch wait until it's done?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The execution layer is the interesting part. I’d make every SEO action leave a compact receipt: target query, source pages inspected, page or outreach diff, expected metric, and rollback path. That would help agencies separate “the agent ran” from “the change was attributable and safe to repeat,” especially across multiple client properties."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Does it can match the ability to perform AI Visibility capabilities"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Pay as you go sounds great. Roughly what does a typical site end up spending per month?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Great tool! How is this different from tools like Semrush or Ahrefs?"
-        }
-      ]
     },
     {
       "id": "ph-week-8",
@@ -20448,6 +20448,70 @@
       "aiReview": "مسئله اصلی این است که فروشگاه‌های اپلیکیشن سنتی محدود به اپلیکیشن‌هایی هستند که توسعه‌دهندگان بزرگ تصمیم به ساخت آن‌ها گرفته‌اند، در حالی که نیازهای واقعی کاربران اغلب بسیار شخصی، کوچک و خاص هستند که هیچ‌کس انگیزه‌ای برای ساختن آن‌ها ندارد. راه‌حل VoiceOS یک فروشگاه اپلیکیشن بومی صوتی است که در نوتچ (Notch) گوشی زندگی می‌کند و با یک جمله ساده، اپلیکیشن مورد نیاز را به صورت خودکار می‌سازد و امکان اشتراک‌گذاری آن را با یک کلیک برای دیگران فراهم می‌کند. از نظر معماری، این پلتفرم بر پایه هوش مصنوعی زبانی برای تفسیر دستورات صوتی و تولید کد یا منطق اپلیکیشن بدون نیاز به دانش فنی کاربر استوار است؛ همچنین دارای یک لایه دیکته قوی و قابلیت اتصال به اپلیکیشن‌های سفارشی است که آن را از یک دستیار صوتی ساده به یک سیستم عامل منسجم تبدیل می‌کند. مدل درآمدی شامل اشتراک Pro با دوره آزمایشی رایگان ۷ روزه است که نشان‌دهنده رویکرد B۲C با قابلیت ارتقا به کاربران حرفه‌ای دارد. نقاط قوت شامل کاهش اصطکاک در ساخت اپلیکیشن (از صفر تا صد با یک جمله)، تمرکز بر تجربه کاربری روان و بدون نیاز به کدنویسی، بومی‌سازی کامل از روز اول (به ویژه برای بازار ژاپن) و ایجاد حس آینده‌نگرانه و جادویی در تعامل با دستگاه است. نقاط ضعف احتمالی شامل دقت در تفسیر دستورات پیچیده، وابستگی به اتصال اینترنت برای پردازش هوش مصنوعی و احتمالاً محدودیت‌های امنیتی یا حریم خصوصی در پردازش داده‌های صوتی شخصی است. نکته طلایی برای ایران: با توجه به محبوبیت بالای ابزارهای صوتی و نیاز به دسترسی آسان به خدمات دیجیتال بدون نیاز به مهارت‌های فنی، این محصول می‌تواند پلی برای ایجاد اپلیکیشن‌های میکرو-سرویس شخصی برای کاربران فارسی‌زبان باشد، به ویژه اگر قابلیت پشتیبانی از زبان فارسی و بومی‌سازی فرهنگی در نسخه‌های آینده اضافه شود، می‌تواند بازار بکر و پرتقاضایی را هدف قرار دهد."
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-11-17",
+      "rank": 2,
+      "name": "Creatify Max",
+      "slug": "creatify-max",
+      "tagline": "Your ad teammate, from strategy to creation to launch",
+      "description": "Max is your teammate for paid ads. Share a product URL or brief and Max makes video ads, sets up campaigns on Meta and TikTok, and watches results 24/7, flagging what to fix next. You make the calls: nothing goes live without your approval.",
+      "category": "Social Media • Marketing • Advertising",
+      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • Advertising",
+      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f9452cac-f193-46bb-847a-91f1fd650628.vnd.microsoft.icon?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/73ee2cdb-87d6-4b3a-adcc-4976061cbccb.jpeg?auto=format",
+        "https://ph-files.imgix.net/439f1750-4fcd-4c59-b43a-397989d12db3.jpeg?auto=format",
+        "https://ph-files.imgix.net/7905f509-f34f-4018-b15c-91589bd42893.jpeg?auto=format",
+        "https://ph-files.imgix.net/fbd11090-9e8e-42a4-ab2d-b2d20e2e3c49.jpeg?auto=format",
+        "https://ph-files.imgix.net/100099e4-01b4-4922-b750-88ad02617c5f.jpeg?auto=format",
+        "https://ph-files.imgix.net/1a7433b1-9954-4fd9-8cee-3fd490b322ff.jpeg?auto=format",
+        "https://ph-files.imgix.net/9dad88ac-0868-4e26-81b6-18e8f86d46d4.jpeg?auto=format",
+        "https://ph-files.imgix.net/f511e68c-ba59-4f9b-b97a-eed5e589b90c.jpeg?auto=format",
+        "https://ph-files.imgix.net/95a8e2d5-5a4c-4b85-8b14-913648f810a3.jpeg?auto=format",
+        "https://ph-files.imgix.net/eb1b2e03-1d6d-4391-9b64-3ea03efba8c9.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-17T08:01:00Z",
+      "votes": 344,
+      "websiteUrl": "https://www.producthunt.com/r/NWW6YNL6LTJ6TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hello, Product Hunters! 👋I’m Yinan, CEO of Creatify. Some of you may remember us from our URL to video ads launch. Thanks to this community, we became the #1 Product of the Day.Today, we’re launching the biggest product we’ve built so far: Creatify Max. Creating an ad is only one part of the job. Paid media teams still spend hours checking dashboards, moving data between tools, repeating campaign setup, and trying to understand why one creative performs better than another.I know this problem firsthand. Before starting Creatify, I built Meta’s first video ad CTR prediction model. Even with great tools, much of the repetitive work remained.That’s why we built Max. It’s an AI teammate that helps across the entire paid advertising workflow.🎬 Create ads: Turn a product URL or creative brief into video ads using Creatify’s own video models.🚀 Launch campaigns: Set up campaigns on Meta and TikTok using your preferred naming conventions, budgets, and targeting.📈 Learn and improve: Monitor performance around the clock, generate reports based on the KPIs you care about, and turn winning ads into briefs for the next creative round. Max remembers your playbook and learns from your feedback, so it becomes more useful over time.🔒 You stay in control: Max never launches anything without your approval. You make the decisions. Max takes care of the repetitive clicks.I’d especially love to hear from marketers and paid media teams:Which part of your advertising workflow would you most want Max to take off your plate?I’ll be here all day to answer questions and hear your feedback.Thanks for stopping by! You can try Max here: https://creatify.ai/ad-agent 🙌"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Wow, the product is great and helps develop strategies for working together in a group."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congratulation !!! 🥁Love how simple this is I don't know anything about video editing and I still got something usable !Super easy to use 💘"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on launch! Great product for marketing team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "this sounds useful for teams that live in Meta Ads Manager all day"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could be handy after launch when everyone starts asking why one ad is winning."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "can I ask for a report on only one product?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "paid ads have way too many tiny repetitive clicks. happy to hand those off"
+        }
+      ]
+    },
+    {
       "id": "ph-week-6",
       "date": "2026-10-08",
       "rank": 6,
@@ -20796,9 +20860,9 @@
       }
     },
     {
-      "id": "ph-week-6",
+      "id": "ph-week-7",
       "date": "2026-11-14",
-      "rank": 6,
+      "rank": 7,
       "name": "HiringNow",
       "slug": "hiringnow-3",
       "tagline": "AI job agent that finds & apply for jobs before anyone else.",
@@ -20852,6 +20916,62 @@
         {
           "user": "[REDACTED]",
           "text": "Watching 250k career pages and applying with a tailored resume is the part people hate doing by hand. Curious how you keep match quality high so it doesn't turn into spray and pray. Good luck today!"
+        }
+      ]
+    },
+    {
+      "id": "ph-today-3",
+      "date": "2026-11-17",
+      "rank": 3,
+      "name": "TheBold",
+      "slug": "thebold",
+      "tagline": "Turn execution into meetings with investors",
+      "description": "TheBold turns startup execution into direct investor access. 🎉 Launch Fast Track (Nov 17–27): pass one AI investor-readiness interview, land in the deal flow of investors who match your startup, and unlock direct meeting access. TheBold helps founders understand investor criteria, track and verify execution and traction, practice investor-specific AI simulations, and book meetings once qualified.",
+      "category": "Venture Capital • Social Networking • Fundraising",
+      "categoryFa": "Venture Capital • Social Networking • Fundraising",
+      "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/6b79eba9-0b76-4326-8bd8-5465bca28056.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/980611e0-917c-453e-9a6e-71b23a769ff7.jpeg?auto=format",
+        "https://ph-files.imgix.net/4b921f65-1bb3-41d4-9c67-3d1b8f9a15c8.png?auto=format",
+        "https://ph-files.imgix.net/e7895e50-ceba-419c-b8a6-7492cfa70640.png?auto=format",
+        "https://ph-files.imgix.net/eea4650d-d545-4e65-ae54-096b864e45ea.png?auto=format",
+        "https://ph-files.imgix.net/9224f8fd-0a18-4efc-a848-42dda8f6a08a.png?auto=format",
+        "https://ph-files.imgix.net/d9c04fdb-b930-4629-9f33-f24fd4ede222.jpeg?auto=format"
+      ],
+      "maker": "Julia Yu",
+      "makerTitle": "Love Design and Startups 🦄",
+      "featuredAt": "2026-11-17T08:01:00Z",
+      "votes": 339,
+      "websiteUrl": "https://www.producthunt.com/r/C7KPFSSB5AHOYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Do you plan on later sharing success stories of startups that got funded?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "INteresting but as a busy founder, finding time to be on this platform is difficult."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "AMAZING timing, thank you for shipping this."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats, team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Having a person check the traction numbers before the first call makes sense. What do founders share for that check, read access to Stripe or just exported reports?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Aside from revenue, investors look at a lot of other things eg. the team, niche understanding, etc. Having a tool that takes this out of the guesswork /crystal ball territory and makes it clear and measurable is a huge win"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "congrats on release! if we are into saas - then by Any chance do you conduct any automated dd related to traffic quality and quantity?"
         }
       ]
     },
@@ -21337,62 +21457,6 @@
         ],
         "confidence": 75
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-17",
-      "rank": 2,
-      "name": "TheBold",
-      "slug": "thebold",
-      "tagline": "Turn execution into meetings with investors",
-      "description": "TheBold turns startup execution into direct investor access. 🎉 Launch Fast Track (Nov 17–27): pass one AI investor-readiness interview, land in the deal flow of investors who match your startup, and unlock direct meeting access. TheBold helps founders understand investor criteria, track and verify execution and traction, practice investor-specific AI simulations, and book meetings once qualified.",
-      "category": "Venture Capital • Social Networking • Fundraising",
-      "categoryFa": "Venture Capital • Social Networking • Fundraising",
-      "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/6b79eba9-0b76-4326-8bd8-5465bca28056.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/980611e0-917c-453e-9a6e-71b23a769ff7.jpeg?auto=format",
-        "https://ph-files.imgix.net/4b921f65-1bb3-41d4-9c67-3d1b8f9a15c8.png?auto=format",
-        "https://ph-files.imgix.net/e7895e50-ceba-419c-b8a6-7492cfa70640.png?auto=format",
-        "https://ph-files.imgix.net/eea4650d-d545-4e65-ae54-096b864e45ea.png?auto=format",
-        "https://ph-files.imgix.net/9224f8fd-0a18-4efc-a848-42dda8f6a08a.png?auto=format",
-        "https://ph-files.imgix.net/d9c04fdb-b930-4629-9f33-f24fd4ede222.jpeg?auto=format"
-      ],
-      "maker": "Julia Yu",
-      "makerTitle": "Love Design and Startups 🦄",
-      "featuredAt": "2026-11-17T08:01:00Z",
-      "votes": 336,
-      "websiteUrl": "https://www.producthunt.com/r/C7KPFSSB5AHOYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "INteresting but as a busy founder, finding time to be on this platform is difficult."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "AMAZING timing, thank you for shipping this."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats, team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Having a person check the traction numbers before the first call makes sense. What do founders share for that check, read access to Stripe or just exported reports?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Aside from revenue, investors look at a lot of other things eg. the team, niche understanding, etc. Having a tool that takes this out of the guesswork /crystal ball territory and makes it clear and measurable is a huge win"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on release! if we are into saas - then by Any chance do you conduct any automated dd related to traffic quality and quantity?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congratulations on the launch! 🎉 @juliayugo How much do you think consistent progress and achieving set milestones can serve as a compelling signal to investors?"
-        }
-      ]
     },
     {
       "id": "ph-week-10",
@@ -23005,70 +23069,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-3",
-      "date": "2026-11-17",
-      "rank": 3,
-      "name": "Creatify Max",
-      "slug": "creatify-max",
-      "tagline": "Your ad teammate, from strategy to creation to launch",
-      "description": "Max is your teammate for paid ads. Share a product URL or brief and Max makes video ads, sets up campaigns on Meta and TikTok, and watches results 24/7, flagging what to fix next. You make the calls: nothing goes live without your approval.",
-      "category": "Social Media • Marketing • Advertising",
-      "categoryFa": "شبکه‌های اجتماعی • بازاریابی • Advertising",
-      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f9452cac-f193-46bb-847a-91f1fd650628.vnd.microsoft.icon?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/73ee2cdb-87d6-4b3a-adcc-4976061cbccb.jpeg?auto=format",
-        "https://ph-files.imgix.net/439f1750-4fcd-4c59-b43a-397989d12db3.jpeg?auto=format",
-        "https://ph-files.imgix.net/7905f509-f34f-4018-b15c-91589bd42893.jpeg?auto=format",
-        "https://ph-files.imgix.net/fbd11090-9e8e-42a4-ab2d-b2d20e2e3c49.jpeg?auto=format",
-        "https://ph-files.imgix.net/100099e4-01b4-4922-b750-88ad02617c5f.jpeg?auto=format",
-        "https://ph-files.imgix.net/1a7433b1-9954-4fd9-8cee-3fd490b322ff.jpeg?auto=format",
-        "https://ph-files.imgix.net/9dad88ac-0868-4e26-81b6-18e8f86d46d4.jpeg?auto=format",
-        "https://ph-files.imgix.net/f511e68c-ba59-4f9b-b97a-eed5e589b90c.jpeg?auto=format",
-        "https://ph-files.imgix.net/95a8e2d5-5a4c-4b85-8b14-913648f810a3.jpeg?auto=format",
-        "https://ph-files.imgix.net/eb1b2e03-1d6d-4391-9b64-3ea03efba8c9.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-17T08:01:00Z",
-      "votes": 329,
-      "websiteUrl": "https://www.producthunt.com/r/NWW6YNL6LTJ6TX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hello, Product Hunters! 👋I’m Yinan, CEO of Creatify. Some of you may remember us from our URL to video ads launch. Thanks to this community, we became the #1 Product of the Day.Today, we’re launching the biggest product we’ve built so far: Creatify Max. Creating an ad is only one part of the job. Paid media teams still spend hours checking dashboards, moving data between tools, repeating campaign setup, and trying to understand why one creative performs better than another.I know this problem firsthand. Before starting Creatify, I built Meta’s first video ad CTR prediction model. Even with great tools, much of the repetitive work remained.That’s why we built Max. It’s an AI teammate that helps across the entire paid advertising workflow.🎬 Create ads: Turn a product URL or creative brief into video ads using Creatify’s own video models.🚀 Launch campaigns: Set up campaigns on Meta and TikTok using your preferred naming conventions, budgets, and targeting.📈 Learn and improve: Monitor performance around the clock, generate reports based on the KPIs you care about, and turn winning ads into briefs for the next creative round. Max remembers your playbook and learns from your feedback, so it becomes more useful over time.🔒 You stay in control: Max never launches anything without your approval. You make the decisions. Max takes care of the repetitive clicks.I’d especially love to hear from marketers and paid media teams:Which part of your advertising workflow would you most want Max to take off your plate?I’ll be here all day to answer questions and hear your feedback.Thanks for stopping by! You can try Max here: https://creatify.ai/ad-agent 🙌"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "congrats on launch! Great product for marketing team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "this sounds useful for teams that live in Meta Ads Manager all day"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could be handy after launch when everyone starts asking why one ad is winning."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "can I ask for a report on only one product?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "paid ads have way too many tiny repetitive clicks. happy to hand those off"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "One thing I really like is that Max keeps humans in control while taking care of the repetitive work. Automation is great, but having the final say before campaigns go live makes a big difference. Curious to see how this works in practice! 👀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@nyn531 congratulations to Creatify for winning big on this one. The easiest tool to use and it's very smart too."
-        }
-      ]
     },
     {
       "id": "ph-week-10",
@@ -26113,6 +26113,67 @@
       }
     },
     {
+      "id": "ph-week-10",
+      "date": "2026-11-11",
+      "rank": 10,
+      "name": "ScroogeFrog AI ",
+      "slug": "scroogefrog-ai",
+      "tagline": "AI ad fraud detection that protects your marketing budget ",
+      "description": "ScroogeFrog AI helps advertisers find out where their ad budget is going to waste. It audits website traffic and Google Ads campaigns to uncover suspicious clicks, bot activity, and underperforming spend, then turns complex data into clear recommendations on what to fix. For agencies and larger advertisers, it also offers custom AI fraud detection models trained on their own traffic data. Less guesswork, more control over every advertising dollar.",
+      "category": "Marketing • Advertising • Artificial Intelligence",
+      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/7dd39baf-e0c9-4819-84d6-8e118d869ae5.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format",
+        "https://ph-files.imgix.net/22466460-0c7d-4e53-8590-26ea423e449a.png?auto=format",
+        "https://ph-files.imgix.net/09523c9d-85da-4a6f-977f-b914a28cf833.png?auto=format",
+        "https://ph-files.imgix.net/80dc5466-859b-4662-86d7-f28ba65b9551.png?auto=format",
+        "https://ph-files.imgix.net/a851454f-3746-44b6-81cf-5f9f273bf6bc.png?auto=format",
+        "https://ph-files.imgix.net/39c8336a-f09c-44b2-b029-ab175b750766.png?auto=format",
+        "https://ph-files.imgix.net/b4b1c007-96b4-4a51-b548-9e79011fc804.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "CEO of ScroogeFrog",
+      "featuredAt": "2026-11-11T08:01:00Z",
+      "votes": 310,
+      "websiteUrl": "https://www.producthunt.com/r/XOB5A3DWYCGOGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt! 👋 I'm Kostia, founder of ScroogeFrog. 🐸 We've spent over 15 years in digital advertising, and there's one problem we keep running into: advertisers paying for clicks that look legitimate but never turn into real customers. Traditional fraud filters don't always catch these. So we built ScroogeFrog AI Antifraud. Instead of relying only on generic bot rules and blacklists, we train custom AI models using your trusted traffic sources - the ones that actually bring conversions and quality leads. This helps us identify suspicious traffic based on what real customers look like for your business. We originally built it for our own advertising clients, and now we're opening it up to more advertisers. We're still actively testing and improving the models, and we'd love feedback from anyone running paid campaigns. 🎁 PH launch offer: 75% off your first year with code LAUNCH75. One question for the community: Have you ever suspected you were paying for fake clicks but couldn't prove it?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I ran an agency for 6 years and this is so needed. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "bot clicks eating google ads budget is so real 🐸 does it handle meta ads too?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "auditing google ads traffic for bot clicks before the budget burns, much needed. congrats team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Any upcoming integration with shopify maybe?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@deepaksingh09 @maria_mashkina @kostfast finally a tool that actually shows WHICH utm sources bring fake clicks"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "looks super solid, will test it asap. congrats to the whole team on the Product Hunt launch! 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "A whole year of cooking and it actually shows. Solid release, guys💪💪💪"
+        }
+      ]
+    },
+    {
       "id": "ph-today-2",
       "date": "2026-09-03",
       "rank": 2,
@@ -26352,67 +26413,6 @@
         ],
         "confidence": 72
       }
-    },
-    {
-      "id": "ph-week-10",
-      "date": "2026-11-11",
-      "rank": 10,
-      "name": "ScroogeFrog AI ",
-      "slug": "scroogefrog-ai",
-      "tagline": "AI ad fraud detection that protects your marketing budget ",
-      "description": "ScroogeFrog AI helps advertisers find out where their ad budget is going to waste. It audits website traffic and Google Ads campaigns to uncover suspicious clicks, bot activity, and underperforming spend, then turns complex data into clear recommendations on what to fix. For agencies and larger advertisers, it also offers custom AI fraud detection models trained on their own traffic data. Less guesswork, more control over every advertising dollar.",
-      "category": "Marketing • Advertising • Artificial Intelligence",
-      "categoryFa": "بازاریابی • Advertising • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/7dd39baf-e0c9-4819-84d6-8e118d869ae5.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format",
-        "https://ph-files.imgix.net/22466460-0c7d-4e53-8590-26ea423e449a.png?auto=format",
-        "https://ph-files.imgix.net/09523c9d-85da-4a6f-977f-b914a28cf833.png?auto=format",
-        "https://ph-files.imgix.net/80dc5466-859b-4662-86d7-f28ba65b9551.png?auto=format",
-        "https://ph-files.imgix.net/a851454f-3746-44b6-81cf-5f9f273bf6bc.png?auto=format",
-        "https://ph-files.imgix.net/39c8336a-f09c-44b2-b029-ab175b750766.png?auto=format",
-        "https://ph-files.imgix.net/b4b1c007-96b4-4a51-b548-9e79011fc804.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "CEO of ScroogeFrog",
-      "featuredAt": "2026-11-11T08:01:00Z",
-      "votes": 309,
-      "websiteUrl": "https://www.producthunt.com/r/XOB5A3DWYCGOGG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt! 👋 I'm Kostia, founder of ScroogeFrog. 🐸 We've spent over 15 years in digital advertising, and there's one problem we keep running into: advertisers paying for clicks that look legitimate but never turn into real customers. Traditional fraud filters don't always catch these. So we built ScroogeFrog AI Antifraud. Instead of relying only on generic bot rules and blacklists, we train custom AI models using your trusted traffic sources - the ones that actually bring conversions and quality leads. This helps us identify suspicious traffic based on what real customers look like for your business. We originally built it for our own advertising clients, and now we're opening it up to more advertisers. We're still actively testing and improving the models, and we'd love feedback from anyone running paid campaigns. 🎁 PH launch offer: 75% off your first year with code LAUNCH75. One question for the community: Have you ever suspected you were paying for fake clicks but couldn't prove it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I ran an agency for 6 years and this is so needed. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "bot clicks eating google ads budget is so real 🐸 does it handle meta ads too?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "auditing google ads traffic for bot clicks before the budget burns, much needed. congrats team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Any upcoming integration with shopify maybe?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@deepaksingh09 @maria_mashkina @kostfast finally a tool that actually shows WHICH utm sources bring fake clicks"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks super solid, will test it asap. congrats to the whole team on the Product Hunt launch! 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "A whole year of cooking and it actually shows. Solid release, guys💪💪💪"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-6",
@@ -39318,6 +39318,65 @@
       }
     },
     {
+      "id": "ph-today-4",
+      "date": "2026-11-17",
+      "rank": 4,
+      "name": "Appxiom",
+      "slug": "appxiom",
+      "tagline": "Context layer for AI coding agents to detect & fix bugs",
+      "description": "Appxiom gives your coding agent the production context it lacks: crashes, freezes, memory leaks, failed network calls and broken user journeys in mobile and web applications. Goal Friction Impact lets agents prioritise bugs by the goals they cost you. Supports Android (Kotlin, Jetpack Compose, Java), iOS (Swift, SwiftUI, Objective-C), Flutter, Kotlin Multiplatform and Web (all JavaScript / TypeScript frameworks, with special support for React).",
+      "category": "SaaS • Developer Tools • Artificial Intelligence",
+      "categoryFa": "نرم‌افزار ابری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/bfd480d0-4122-4529-9b0b-27c80926323f.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/afdb99af-f558-490b-be02-ff46f7bb4545.png?auto=format",
+        "https://ph-files.imgix.net/2d4a6d6f-a5ad-4023-bf92-b1e912cf168a.png?auto=format",
+        "https://ph-files.imgix.net/c9e32961-df38-4818-8ae9-e922d7cf3ce8.png?auto=format",
+        "https://ph-files.imgix.net/53340ba8-4505-4156-b051-6cdc49722f50.png?auto=format",
+        "https://ph-files.imgix.net/6efa402a-4a89-4ee3-b028-f4fac8cf17ad.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-17T08:00:00Z",
+      "votes": 238,
+      "websiteUrl": "https://www.producthunt.com/r/4U3S4XIEYDOCDN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt,I’m Robin, co-founder of Appxiom.Your coding agents can read the whole repo, but they cannot see what breaks in production. So they guess, or they fix whatever a human points them at.Appxiom is built to close that gap. It detects crashes, freezes, memory leaks, failed network calls and broken user journeys in mobile and web apps, and hands that context to your coding agent through an MCP connector and Skills.We started with Goal Friction Impact (GFI). You mark a goal, like signup or checkout. When users fail to finish it, Appxiom links the failure to the bug behind it and shows how many completions it cost you.BTW our agent skills enable coding agents to do the integration and wiring required. It even identifies the critical goals that need to be tracked.Then we asked the obvious next question: what if the agent that writes your code could see this too?To be clear about the split: Appxiom supplies the bug and the failed-goal context. Your agent and you decide the root cause and the fix.What works today:SDKs for iOS, Android, Flutter, Kotlin Multiplatform and Web. Web covers all JavaScript and TypeScript frameworks, with extra React support.Goal Friction Impact works the same way on mobile and web.MCP connector and Skills, both live.Setup in two steps.Coming soon:React NativeShopifyI’ll be here all day. Tell us what you’d want your agent to see about your app in production."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I was just trying out Sentry, and honestly, reproducing the errors behind an alert always takes forever. That's why \"Device Data\" and \"Device Runtime State\" are my favorite parts of the demo.Congrats on the launch! 🎉"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Giving coding agents production context through MCP is a useful way to improve debugging. Can Appxiom correlate a failed user journey with the exact backend API error across multiple services, rather than only showing the frontend symptoms?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice one, Robin. When Shopify support arrives, will checkout show up as a goal automatically, or will you still mark it yourself?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is an interesting direction. Coding agents need production context to go beyond writing code and actually help fix what breaks. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the missing piece for me — my coding agent can read the whole repo but knows nothing about what actually breaks in production, so it ends up guessing from a stack trace alone. What I'd want it to see first is the exact steps a user took right before the crash — the taps and screens that led there — because that's usually what decides whether a fix is even reproducible. And I like that GFI ranks by the goal a bug blocks rather than raw crash count; as a solo dev I can't chase every crash, just the ones stopping people. Congrats on the launch!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "@robin_a_p congrats on the launch!When the agent pulls raw user journey data over MCP, is any PII masked before it reaches the agent? My guess is a lot of teams wont want user emails or IDs going into an LLM context.Also where does the context data live, in short where is it deployed and what data is used for model training?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Looks interesting! Huge congrats to the team! Can the agent see which app version an issue started in?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-11-09",
       "rank": 4,
@@ -39884,65 +39943,6 @@
       }
     },
     {
-      "id": "ph-today-4",
-      "date": "2026-11-17",
-      "rank": 4,
-      "name": "Appxiom",
-      "slug": "appxiom",
-      "tagline": "Context layer for AI coding agents to detect & fix bugs",
-      "description": "Appxiom gives your coding agent the production context it lacks: crashes, freezes, memory leaks, failed network calls and broken user journeys in mobile and web applications. Goal Friction Impact lets agents prioritise bugs by the goals they cost you. Supports Android (Kotlin, Jetpack Compose, Java), iOS (Swift, SwiftUI, Objective-C), Flutter, Kotlin Multiplatform and Web (all JavaScript / TypeScript frameworks, with special support for React).",
-      "category": "SaaS • Developer Tools • Artificial Intelligence",
-      "categoryFa": "نرم‌افزار ابری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/bfd480d0-4122-4529-9b0b-27c80926323f.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/afdb99af-f558-490b-be02-ff46f7bb4545.png?auto=format",
-        "https://ph-files.imgix.net/2d4a6d6f-a5ad-4023-bf92-b1e912cf168a.png?auto=format",
-        "https://ph-files.imgix.net/c9e32961-df38-4818-8ae9-e922d7cf3ce8.png?auto=format",
-        "https://ph-files.imgix.net/53340ba8-4505-4156-b051-6cdc49722f50.png?auto=format",
-        "https://ph-files.imgix.net/6efa402a-4a89-4ee3-b028-f4fac8cf17ad.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-17T08:00:00Z",
-      "votes": 235,
-      "websiteUrl": "https://www.producthunt.com/r/4U3S4XIEYDOCDN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt,I’m Robin, co-founder of Appxiom.Your coding agents can read the whole repo, but they cannot see what breaks in production. So they guess, or they fix whatever a human points them at.Appxiom is built to close that gap. It detects crashes, freezes, memory leaks, failed network calls and broken user journeys in mobile and web apps, and hands that context to your coding agent through an MCP connector and Skills.We started with Goal Friction Impact (GFI). You mark a goal, like signup or checkout. When users fail to finish it, Appxiom links the failure to the bug behind it and shows how many completions it cost you.BTW our agent skills enable coding agents to do the integration and wiring required. It even identifies the critical goals that need to be tracked.Then we asked the obvious next question: what if the agent that writes your code could see this too?To be clear about the split: Appxiom supplies the bug and the failed-goal context. Your agent and you decide the root cause and the fix.What works today:SDKs for iOS, Android, Flutter, Kotlin Multiplatform and Web. Web covers all JavaScript and TypeScript frameworks, with extra React support.Goal Friction Impact works the same way on mobile and web.MCP connector and Skills, both live.Setup in two steps.Coming soon:React NativeShopifyI’ll be here all day. Tell us what you’d want your agent to see about your app in production."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice one, Robin. When Shopify support arrives, will checkout show up as a goal automatically, or will you still mark it yourself?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is an interesting direction. Coding agents need production context to go beyond writing code and actually help fix what breaks. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the missing piece for me — my coding agent can read the whole repo but knows nothing about what actually breaks in production, so it ends up guessing from a stack trace alone. What I'd want it to see first is the exact steps a user took right before the crash — the taps and screens that led there — because that's usually what decides whether a fix is even reproducible. And I like that GFI ranks by the goal a bug blocks rather than raw crash count; as a solo dev I can't chase every crash, just the ones stopping people. Congrats on the launch!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "@robin_a_p congrats on the launch!When the agent pulls raw user journey data over MCP, is any PII masked before it reaches the agent? My guess is a lot of teams wont want user emails or IDs going into an LLM context.Also where does the context data live, in short where is it deployed and what data is used for model training?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Looks interesting! Huge congrats to the team! Can the agent see which app version an issue started in?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The GFI part is interesting. App bugs can quietly cost conversion, and leaving marketers wondering why users are dropping off. Connecting those bugs with drop-offs is very cool."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Right gap to solve for and the decision to stop at providing context and not providing the actual fix is the right thing to do. Let coding agent take control of that with this additional context."
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-3",
       "date": "2026-10-04",
       "rank": 3,
@@ -40174,6 +40174,71 @@
         ],
         "confidence": 80
       }
+    },
+    {
+      "id": "ph-today-5",
+      "date": "2026-11-17",
+      "rank": 5,
+      "name": "EkLine",
+      "slug": "ekline",
+      "tagline": "AI SEO for Developer Tools and API first companies! ",
+      "description": "Your buyers ask ChatGPT which tool to use, then ask Cursor to build with it. EkLine helps your API or developer tool succeed at both. Its AI agents audit your website, docs, GitHub, and community content to find what AI misunderstands or can't implement. Then they prioritize gaps, write code-grounded fixes as pull requests your team approves, and retest AI responses to measure what improved.",
+      "category": "SEO • Developer Tools • Artificial Intelligence",
+      "categoryFa": "سئو • ابزار توسعه‌دهندگان • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/ekline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/fd23932c-0e87-4ff1-ada0-0b753a60f0ba.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/c4ee4673-9f37-4caa-92de-756c0be36f88.jpeg?auto=format",
+        "https://ph-files.imgix.net/f79cb4ea-3e7b-4f24-84db-5c1293cf9e4e.png?auto=format",
+        "https://ph-files.imgix.net/f81949b7-8b6e-4319-a7d2-929443f41ee9.png?auto=format",
+        "https://ph-files.imgix.net/f45f10dc-2fda-4c2a-bc31-d1e90d962d86.png?auto=format",
+        "https://ph-files.imgix.net/5ffce473-3c7c-4762-9507-c495ae654bf8.png?auto=format",
+        "https://ph-files.imgix.net/77c5604e-4d5c-453c-948e-829646e85729.png?auto=format",
+        "https://ph-files.imgix.net/dde7304d-1858-408d-9eca-bca324df844d.png?auto=format",
+        "https://ph-files.imgix.net/ccc8b4e4-3852-4638-9162-438cf942bc8b.png?auto=format",
+        "https://ph-files.imgix.net/c829f97f-9ed3-4cfa-a1e2-ea4ef300cbca.png?auto=format",
+        "https://ph-files.imgix.net/5229c82c-97ea-46ac-8655-043bed7bfe11.png?auto=format",
+        "https://ph-files.imgix.net/fe7f565a-f858-4a01-bf31-3be0ec03ce61.png?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-17T08:01:00Z",
+      "votes": 232,
+      "websiteUrl": "https://www.producthunt.com/r/RX3ZWI6MXJWW7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt, I'm Puneet, cofounder of EkLine.A few weeks ago, an SEO and GEO leader told me why their competitor is winning. It isn't a better product. When buyers ask AI which tool to use, AI recommends the competitor, and the sources it cites are the competitor's docs.That's the part that stuck with me. AI doesn't read your pitch. It reads your website, your blog, your docs, your GitHub repos and every community thread about you, and your buyer gets one answer.It's the problem I've worked on my whole career. I spent eight years at Atlassian, working on one idea: people should get the right information at the right time. I started EkLine to do the same for the people using your product. The idea hasn't changed. The reader has.Two things I've come to believe:Marketing owns the website. Engineering owns the docs. Support owns the help center. Nobody owns the answer AI gives your buyer.Doing the work isn't the hard part anymore. Knowing what to do, and why, is.So EkLine looks at your whole surface area, and it starts with data, not guesses. It asks AI the questions your buyers ask and shows every source behind each answer, including the ones you don't own. It finds the gaps and ranks what to fix first. Then our agents make the fix, whether it's a marketing page, a doc or a help center article, using your code, Jira and Notion. Your team approves every change, and we measure again. Socure went from an agent experience score of 80 to about 95 this way.For the Product Hunt community: sign up today and you get $50 in credits, no code needed. Use your work email and your report runs right away.One ask: run it on your own product and tell me the most surprising thing AI said about you. @arun_bhalla, @lucas_suarez2 and I are reading every comment today.Puneet"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats. Sounds interesting and very timely!. What would a POC look like for a growth stage company with multiple products and buyer personas?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! We're a small team just starting our own docs, and I hadn't thought about what ChatGPT or Cursor say about our product until now. Curious: how do you check what the models actually say about a product, and how quickly does a docs fix show up in their answers?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The coding-agent test is the bit that caught my eye. I usually only find out my docs are wrong when Claude Code gets stuck on an install step I thought was clear. Does that test work for Swift packages too, or is it mainly built around REST APIs? Curious how it handles a repo where the docs are mostly a README."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "hitting the nail on the head, GEO/AEO is super critical now. Majority of users are now discovering products from these searches. Great job team."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Nice job here. I think we def could have used this at my last startup!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Love that this goes beyond showing what’s wrong and actually opens PRs to fix it. Makes the reports much more useful. Congrats, team!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Tried EkLine last week for our website. The results were eye opening and our entire content roadmap for this month is based off of the report EkLine gave us."
+        }
+      ]
     },
     {
       "id": "ph-yesterday-2",
@@ -40780,71 +40845,6 @@
         {
           "user": "کاربر ProductHunt 1",
           "text": "سلام به همه! همیشه طرفدار بزرگ @Unsloth هستم — از کدبیس اصلی تا نسخه وب، استفاده از آن همیشه ساده‌تر می‌شود. نسخه دسکتاپ کامل‌ترین نسخه‌ای است که در حال ساخت هستند. همه چیز را در یک برنامه native برای Mac، Windows و Linux بسته‌بندی می‌کند. می‌توانید LLMها، مدل‌های انتشار تصویر/ویدیو و صدا را کاملاً آفلاین اجرا و آموزش دهید بدون اینکه به ترمینال دست بزنید. احتمالاً اولین نسخه Unsloth است که می‌توانم به کسی که مدل‌های محلی را دوست دارد اما نمی‌خواهد AI محلی تبدیل به پروژه‌ای برای آخر هفته شود، توصیه کنم. یک مدل و کوانتیزیشن را انتخاب کنید، دانلود کنید و شروع کنید. همچنین این مدل‌های محلی را خارج از برنامه مفید می‌کند. دستور unsloth start اجازه می‌دهد ابزارهای عامل که قبلاً استفاده می‌کنید، مستقیماً به آن‌ها صدا بزنند. رایگان، متن‌باز و در نهایت یک برنامه دسکتاپ مناسب 🦥"
-        }
-      ]
-    },
-    {
-      "id": "ph-today-5",
-      "date": "2026-11-17",
-      "rank": 5,
-      "name": "EkLine",
-      "slug": "ekline",
-      "tagline": "AI SEO for Developer Tools and API first companies! ",
-      "description": "Your buyers ask ChatGPT which tool to use, then ask Cursor to build with it. EkLine helps your API or developer tool succeed at both. Its AI agents audit your website, docs, GitHub, and community content to find what AI misunderstands or can't implement. Then they prioritize gaps, write code-grounded fixes as pull requests your team approves, and retest AI responses to measure what improved.",
-      "category": "SEO • Developer Tools • Artificial Intelligence",
-      "categoryFa": "سئو • ابزار توسعه‌دهندگان • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/ekline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/fd23932c-0e87-4ff1-ada0-0b753a60f0ba.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/c4ee4673-9f37-4caa-92de-756c0be36f88.jpeg?auto=format",
-        "https://ph-files.imgix.net/f79cb4ea-3e7b-4f24-84db-5c1293cf9e4e.png?auto=format",
-        "https://ph-files.imgix.net/f81949b7-8b6e-4319-a7d2-929443f41ee9.png?auto=format",
-        "https://ph-files.imgix.net/f45f10dc-2fda-4c2a-bc31-d1e90d962d86.png?auto=format",
-        "https://ph-files.imgix.net/5ffce473-3c7c-4762-9507-c495ae654bf8.png?auto=format",
-        "https://ph-files.imgix.net/77c5604e-4d5c-453c-948e-829646e85729.png?auto=format",
-        "https://ph-files.imgix.net/dde7304d-1858-408d-9eca-bca324df844d.png?auto=format",
-        "https://ph-files.imgix.net/ccc8b4e4-3852-4638-9162-438cf942bc8b.png?auto=format",
-        "https://ph-files.imgix.net/c829f97f-9ed3-4cfa-a1e2-ea4ef300cbca.png?auto=format",
-        "https://ph-files.imgix.net/5229c82c-97ea-46ac-8655-043bed7bfe11.png?auto=format",
-        "https://ph-files.imgix.net/fe7f565a-f858-4a01-bf31-3be0ec03ce61.png?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-17T08:01:00Z",
-      "votes": 228,
-      "websiteUrl": "https://www.producthunt.com/r/RX3ZWI6MXJWW7K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt, I'm Puneet, cofounder of EkLine.A few weeks ago, an SEO and GEO leader told me why their competitor is winning. It isn't a better product. When buyers ask AI which tool to use, AI recommends the competitor, and the sources it cites are the competitor's docs.That's the part that stuck with me. AI doesn't read your pitch. It reads your website, your blog, your docs, your GitHub repos and every community thread about you, and your buyer gets one answer.It's the problem I've worked on my whole career. I spent eight years at Atlassian, working on one idea: people should get the right information at the right time. I started EkLine to do the same for the people using your product. The idea hasn't changed. The reader has.Two things I've come to believe:Marketing owns the website. Engineering owns the docs. Support owns the help center. Nobody owns the answer AI gives your buyer.Doing the work isn't the hard part anymore. Knowing what to do, and why, is.So EkLine looks at your whole surface area, and it starts with data, not guesses. It asks AI the questions your buyers ask and shows every source behind each answer, including the ones you don't own. It finds the gaps and ranks what to fix first. Then our agents make the fix, whether it's a marketing page, a doc or a help center article, using your code, Jira and Notion. Your team approves every change, and we measure again. Socure went from an agent experience score of 80 to about 95 this way.For the Product Hunt community: sign up today and you get $50 in credits, no code needed. Use your work email and your report runs right away.One ask: run it on your own product and tell me the most surprising thing AI said about you. @arun_bhalla, @lucas_suarez2 and I are reading every comment today.Puneet"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The coding-agent test is the bit that caught my eye. I usually only find out my docs are wrong when Claude Code gets stuck on an install step I thought was clear. Does that test work for Swift packages too, or is it mainly built around REST APIs? Curious how it handles a repo where the docs are mostly a README."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "hitting the nail on the head, GEO/AEO is super critical now. Majority of users are now discovering products from these searches. Great job team."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Nice job here. I think we def could have used this at my last startup!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Love that this goes beyond showing what’s wrong and actually opens PRs to fix it. Makes the reports much more useful. Congrats, team!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Tried EkLine last week for our website. The results were eye opening and our entire content roadmap for this month is based off of the report EkLine gave us."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch, Puneet and Arun.We use EkLine at Consequential. We ship features weekly, so our docs drift fast, and EkLine opens PRs that close the gaps against what actually shipped. The surprise for us was that the bottleneck stopped being writing docs and became reviewing and merging them. We now treat a feature as done only once its docs PR is merged.The coding-agent test is the part I'm most curious about. Our customers increasingly hit our docs through Claude and Cursor, not a browser. Is there a way to tie a failed agent task straight back to the specific doc PR that fixes it?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats Puneet and Arun! Two ex-Atlassian founders going after \"nobody owns the answer AI gives your buyer\" makes sense. You've seen first-hand how docs, support and marketing each own a slice and nobody owns the whole.As a dev-tool company, we feel this directly. The first evaluation of our product often happens inside someone's coding agent, before they ever reach our website or product. Rooting for you !"
         }
       ]
     },
@@ -42649,7 +42649,46 @@
           "user": "[REDACTED]",
           "text": "we score buying intent from chat messages at our agency and the hardest case is always the guy who sounds ready, then asks for a discount and vanishes lol. does sage attach some kind of confidence to the ready signal"
         }
-      ]
+      ],
+      "faDescription": "Sage۲ توسط Levanto Labs به توسعه‌دهندگان این امکان را می‌دهد که از گفت‌و‌گوهای زنده داده‌های ساختاری استخراج کنند و تصمیمات لحظه‌ای بگیرند. این سرویس می‌تواند مقادیر مانند تاریخ‌ها، مبلغ‌ها و بازه‌های زمانی را شناسایی کرده و با پیشرفت مکالمه به‌روز شود. ویژگی منبع‌پیوندی به کاربران نشان می‌دهد هر مقدار استخراج شده از کدام بخش متن اصلی آمده است. همچنین می‌توان تا ۳۲ سؤال را در یک جلسه استریمینگ ردیابی کرد و قابلیت‌های استدلال، grounding وب و بینایی را در نسخه بتا استفاده کرد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "Sage۲ توسط Levanto به توسعه‌دهندگان کمک می‌کند تا گفت‌و‌گوهای زبان طبیعی را به داده‌های ساختاری و تصمیمات زمان واقعی تبدیل کنند. ویژگی‌های کلیدی شامل استخراج داده‌های ساختاری مانند تاریخ‌ها، مبلغ‌ها، زمان‌ها و بازه‌های زمانی، نتایج منبع‌پیوندی که نشان می‌دهد هر مقدار از کدام بخش متن آمده است، تصمیم‌گیری استریمینگ که بدون نیاز به ارسال مجدد کل مکالمه، تصمیمات به‌روز می‌شود، پشتیبانی از حداکثر ۳۲ سؤال در یک جلسه استریمینگ و قابلیت‌های استدلال، grounding وب و بینایی در نسخه بتا. این ابزار برای توسعه‌دهندگانی که هوش مصنوعی عامل، برنامه‌های مکالمه‌ای، خودکارسازی فروش و پشتیبانی، سیستم‌های پردازش اسناد و سایر گردش‌کارهایی که نیاز به عمل بر پایه زبان طبیعی دارند، مناسب است."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام، به نظر محصول عالی می‌آید! آیا می‌توانید تفاوت‌ها و موارد استفاده برتر نسبت به Jev را نشان دهید و بگویید در چه زمینه‌ای Sage۲ بهتر از Jev عمل می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بخش نتایج منبع‌پیوندی برای من جالب بود — اکثر ابزارهای استخراج فقط یک مقدار با اطمینان می‌دهند بدون اینکه امکان بررسی آن وجود داشته باشد. کنجکاوم که این سرویس اصلاحات در میانه مکالمه را چگونه مدیریت می‌کند: اگر کسی در یک چت دو بار سفارش خود را تغییر دهد، آیا مقدار استخراج‌شده با لینک منبع جدید به‌روز می‌شود یا استخراج اولیه ثابت می‌ماند؟ این مسأله همیشه هنگام ساختن روی داده‌های چت برای من مشکل‌ساز بوده."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "ما در آژانس خود نیت خرید را از پیام‌های چت ارزیابی می‌کنیم و سخت‌ترین مورد همیشه همان فردی است که آماده به نظر می‌رسد، سپس درخواست تخفیف می‌کند و ناپدید می‌شود. آیا Sage۲ به سیگنال آماده بودن یک درجه اطمینان می‌چسباند؟"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "Sage۲",
+        "description": "Sage۲ پلتفرمی است که به توسعه‌دهندگان امکان استخراج داده‌های ساختاری از گفت‌و‌گوهای زنده را می‌دهد. این سرویس با ارائه نتایج منبع‌پیوندی و تصمیم‌گیری استریمینگ، به‌روزرسانی‌های لحظه‌ای را بدون نیاز به ارسال مجدد کل مکالمه فراهم می‌کند. همچنین قابلیت پشتیبانی از چندین سؤال همزمان و امکانات استدلال و grounding وب را در نسخه بتا ارائه می‌دهد.",
+        "marketOpportunity": "در بازار ایران، نیاز به ابزارهای هوش مصنوعی برای خودکارسازی فروش، پشتیبانی و پردازش اسناد به‌سرعت در حال رشد است. Sage۲ می‌تواند با تبدیل گفت‌و‌گوهای فارسی به داده‌های قابل‌استفاده، این خلأ را پر کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان هوش مصنوعی، شرکت‌های فین‌تک، استارتاپ‌های فروش و پشتیبانی آنلاین، و سازمان‌های دولتی که به پردازش خودکار مکالمات متنی نیاز دارند.",
+        "challenges": [
+          "دقت استخراج داده‌ها در زبان فارسی با ساختارهای پیچیده",
+          "یکپارچه‌سازی سریع با سیستم‌های موجود در بازار ایران"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه بر پایه تعداد درخواست‌های استخراج",
+          "فروش لایسنس سفارشی برای شرکت‌های بزرگ با نیازهای خاص"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -48958,7 +48997,46 @@
           "user": "[REDACTED]",
           "text": "If it's building a UI for me, does it look at screenshots of the running app to refine it, or only at code and error logs?"
         }
-      ]
+      ],
+      "faDescription": "Inkling ۲ Small مدل جدید آزمایشگاه Thinking Machines Lab است که با ۵۹۴ میلیارد پارامتر کل و ۱۷ میلیارد پارامتر فعال، برای کدنویسی بلندمدت، وظایف بصری و عامل‌ها طراحی شده است. این مدل با معماری MoE قادر است در طول زمان بهینه‌سازی کند و در طول آموزش خود را بهبود بخشد. قابلیت‌های آن شامل پیش‌بینی سری‌های زمانی، تولید کد و اصلاح خودکار است. در حال حاضر در Tinker برای اجرای پیش‌بینی و تنظیم دقیق در دسترس است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همه! Thinking Machines Lab با Inkling ۲ Small بازگشته است! این یک جهت بزرگ نسبت به نسل قبلی است، به ویژه در کدنویسی، وظایف بصری و کارهای عامل طولانی مدت. در یک نمایش، بیش از چهار ساعت صرف آموزش مدل دیگری برای پیش‌بینی سری‌های زمانی می‌کند. آن خود ارزیاب خود را می‌نویسد، رویکردهای مختلف آموزش را امتحان می‌کند، خطاها را اصلاح می‌کند و بهترین نقطه‌کشی را انتخاب می‌کند. می‌توانید اکنون آن را امتحان کنید و در Tinker تنظیم دقیق کنید، وزن‌های کامل به زودی در دسترس خواهد بود! و درباره آن نام… ۵۹۴B پارامتر کل، ۱۷B فعال. من ریاضیات MoE را می‌فهمم، اما ۵۹۴B تعریف جالبی از «کوچک» است. حالا منتظر نسخه‌ی کمتر کوچک هستم :)"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "۵۹۴B پارامتر، اما فقط ۱۷B در هر لحظه کار سنگین را انجام می‌دهند. این یک راه برای کار هوشمندانه‌تر، نه سخت‌تر است."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "بخش «دیدن و اصلاح آنچه می‌سازد» همان چیزی است که در روزمره احساس می‌کنم. اکثر زمان، مدل کد SwiftUI را می‌دهد و من آن را اجرا می‌کنم، اسکرین‌شات می‌گیرم و مشکلات را به مدل بازگو می‌کنم — حلقه من است. اگر بتواند نتیجه‌ی رندر شده را خودش ببینید و تکرار کنید، جریان کار کاملاً تغییر می‌کند. نمایش چهار ساعته آموزش شگفت‌انگیز است، اما من کنجکاو هستم که در طولانی‌مدت مانند آن چگونه عمل می‌کند — آیا به هدف اصلی می‌ماند یا در میانه مسیر بهینه‌سازی اشتباه را شروع می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "اگر برای من UI می‌سازد، آیا از اسکرین‌شات‌های برنامه در حال اجرا برای اصلاح آن نگاه می‌کند یا فقط به کد و گزارش خطا نگاه می‌کند؟"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "اینکلینگ ۲ سمال",
+        "description": "اینکلینگ ۲ سمال مدل جدیدی از آزمایشگاه Thinking Machines Lab است که با ۵۹۴ میلیارد پارامتر کل و ۱۷ میلیارد پارامتر فعال، برای برنامه‌نویسی بلندمدت، وظایف بصری و عامل‌ها طراحی شده است. این مدل با معماری MoE می‌تواند خود را در طول زمان بهبود بخشد و بهینه‌سازی کند. در حال حاضر در پلتفرم Tinker برای اجرای پیش‌بینی و تنظیم دقیق در دسترس است.",
+        "marketOpportunity": "در بازار ایران، نیاز به مدل‌های هوش مصنوعی قدرتمند برای توسعه نرم‌افزار و طراحی UI در حال رشد است. اینکلینگ ۲ سمال می‌تواند به عنوان ابزار اصلی برای تیم‌های توسعه و شرکت‌های فناوری عمل کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "توسعه‌دهندگان نرم‌افزار، تیم‌های تحقیق و توسعه، شرکت‌های فناوری و استارتاپ‌های مبتنی بر هوش مصنوعی",
+        "challenges": [
+          "پشتیبانی از زیرساخت محاسباتی بالا در ایران",
+          "یکپارچه‌سازی با ابزارهای توسعه موجود در بازار ایران"
+        ],
+        "monetization": [
+          "فروش لایسنس مدل و سرویس‌های API",
+          "پیشنهاد خدمات سفارشی و آموزش برای شرکت‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-3",
@@ -52883,6 +52961,65 @@
       }
     },
     {
+      "id": "ph-today-7",
+      "date": "2026-11-17",
+      "rank": 7,
+      "name": "superlog",
+      "slug": "superlog-5e098e1a-1343-46e2-a678-06cc4c16cbf3",
+      "tagline": "Finds the production bugs your monitoring never sees",
+      "description": "Your monitoring only alerts on what you told it to watch, so customers still report bugs. Superlog finds the errors nobody set an alert for, investigates them 24/7 and hands you a fix. 100+ startups use it; 87% of our fixes get merged.",
+      "category": "Developer Tools",
+      "categoryFa": "ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/f08d4e1c-1cdb-4a12-a7d9-f931dc770cef.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/46cbb98f-32cb-480f-8a03-754289e0abad.png?auto=format",
+        "https://ph-files.imgix.net/e000c5e8-b122-48fd-bf2a-edf8c25b49e5.png?auto=format",
+        "https://ph-files.imgix.net/afe9c7ef-56bc-4789-80d0-56c48d3569b1.png?auto=format",
+        "https://ph-files.imgix.net/258f0db2-aecb-44a9-ac11-a0f5611adec7.png?auto=format",
+        "https://ph-files.imgix.net/a5a8d2fe-9a6a-434d-a7f2-a076adc7ebef.jpeg?auto=format"
+      ],
+      "maker": "Nicolo Magnante",
+      "makerTitle": "Cofounder",
+      "featuredAt": "2026-11-17T08:01:00Z",
+      "votes": 178,
+      "websiteUrl": "https://www.producthunt.com/r/QPAYF22JVBNIOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Nicolò here, co-founder of Superlog (YC) with Arseniy (ex-Datadog).Every team we meet already has Datadog, Sentry or Grafana. They still hear about bugs from customers first. Monitoring only alerts on what someone expected to break.Superlog doesn't replace your monitoring. It works on top of it and finds everything else:Finds what your stack misses. Our algorithms scan every log line and spot new error patterns no other tool catches.Investigates 24/7, on its own. It finds the root cause in your code and skips what you already track.Proposes the fix. You fix it your way, with your own agent and the full context, or we open the PR.100+ startups use it today, including Plato, Alara, Nautilus and Trellis. They merge 87% of the fixes we suggest. We're backed by people from Google, Datadog, OpenAI and Slack.Connect one service and see what you've been missing. Code PRODUCTHUNT gives 50% off Pro for 3 months. What's the worst bug a customer found before you did?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Quite interesting product. What evidence accompanies a proposed fix so an engineer can distinguish a likely cause from something that's just correlated with the error?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Big fan and heavy user at Hexa !"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "When it suggests new logs or metrics to add, does that come through as a PR too, or just as a note in Slack?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part that stuck with me is handing the bug's context to my own coding agent instead of a black-box fixer — that's how I actually work, I want the fix to happen in my repo with the full context attached. As a solo dev I don't run Datadog or Sentry at all though, so I'm curious: does it need a full observability stack to plug into, or can it work off plain server logs?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Like the findings based pricing - very clear cost -> value mapping. However, curious aboutHow do you benchmark yourself against claude/codex loop raising error patterns? Is there any limit on amount of logs one can send? Isn't work involved on your end to find error patterns proportional to amount of logs being sent?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "what happens to the fingerprints when a deploy just rewords a log message, does all of it show up as new"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "With all the recent vulnerabilities, is there a feature to shutdown the server when there is a 0day ? 😂"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-6",
       "date": "2026-09-21",
       "rank": 6,
@@ -53001,65 +53138,6 @@
         ],
         "confidence": 80
       }
-    },
-    {
-      "id": "ph-today-7",
-      "date": "2026-11-17",
-      "rank": 7,
-      "name": "superlog",
-      "slug": "superlog-5e098e1a-1343-46e2-a678-06cc4c16cbf3",
-      "tagline": "Finds the production bugs your monitoring never sees",
-      "description": "Your monitoring only alerts on what you told it to watch, so customers still report bugs. Superlog finds the errors nobody set an alert for, investigates them 24/7 and hands you a fix. 100+ startups use it; 87% of our fixes get merged.",
-      "category": "Developer Tools",
-      "categoryFa": "ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/f08d4e1c-1cdb-4a12-a7d9-f931dc770cef.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/46cbb98f-32cb-480f-8a03-754289e0abad.png?auto=format",
-        "https://ph-files.imgix.net/e000c5e8-b122-48fd-bf2a-edf8c25b49e5.png?auto=format",
-        "https://ph-files.imgix.net/afe9c7ef-56bc-4789-80d0-56c48d3569b1.png?auto=format",
-        "https://ph-files.imgix.net/258f0db2-aecb-44a9-ac11-a0f5611adec7.png?auto=format",
-        "https://ph-files.imgix.net/a5a8d2fe-9a6a-434d-a7f2-a076adc7ebef.jpeg?auto=format"
-      ],
-      "maker": "Nicolo Magnante",
-      "makerTitle": "Cofounder",
-      "featuredAt": "2026-11-17T08:01:00Z",
-      "votes": 177,
-      "websiteUrl": "https://www.producthunt.com/r/QPAYF22JVBNIOY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Nicolò here, co-founder of Superlog (YC) with Arseniy (ex-Datadog).Every team we meet already has Datadog, Sentry or Grafana. They still hear about bugs from customers first. Monitoring only alerts on what someone expected to break.Superlog doesn't replace your monitoring. It works on top of it and finds everything else:Finds what your stack misses. Our algorithms scan every log line and spot new error patterns no other tool catches.Investigates 24/7, on its own. It finds the root cause in your code and skips what you already track.Proposes the fix. You fix it your way, with your own agent and the full context, or we open the PR.100+ startups use it today, including Plato, Alara, Nautilus and Trellis. They merge 87% of the fixes we suggest. We're backed by people from Google, Datadog, OpenAI and Slack.Connect one service and see what you've been missing. Code PRODUCTHUNT gives 50% off Pro for 3 months. What's the worst bug a customer found before you did?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Quite interesting product. What evidence accompanies a proposed fix so an engineer can distinguish a likely cause from something that's just correlated with the error?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Big fan and heavy user at Hexa !"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "When it suggests new logs or metrics to add, does that come through as a PR too, or just as a note in Slack?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The part that stuck with me is handing the bug's context to my own coding agent instead of a black-box fixer — that's how I actually work, I want the fix to happen in my repo with the full context attached. As a solo dev I don't run Datadog or Sentry at all though, so I'm curious: does it need a full observability stack to plug into, or can it work off plain server logs?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Like the findings based pricing - very clear cost -> value mapping. However, curious aboutHow do you benchmark yourself against claude/codex loop raising error patterns? Is there any limit on amount of logs one can send? Isn't work involved on your end to find error patterns proportional to amount of logs being sent?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "what happens to the fingerprints when a deploy just rewords a log message, does all of it show up as new"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "With all the recent vulnerabilities, is there a feature to shutdown the server when there is a 0day ? 😂"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-5",
@@ -56309,7 +56387,62 @@
           "user": "[REDACTED]",
           "text": "Congrats on the launch! It would be cool to be able to connect it to github so it keeps the documentation up to date when the code changes."
         }
-      ]
+      ],
+      "faDescription": "DocsAlot یک ربات هوشمند برای Slack و Discord است که می‌تواند به سوالات متداول مشتریان پاسخ دهد. این ربات با استفاده از دانش‌پایه موجود شما، اطلاعات مرتبط را استخراج می‌کند. برای شروع کافی است آدرس وب‌سایت خود را وارد کنید تا ربات به‌صورت خودکار محتوا، برندینگ و ساختار مستندات شما را درک کند. در زمان راه‌اندازی، یک ماه استفاده رایگان با پاسخ‌های نامحدود هوش مصنوعی ارائه می‌شود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt! 👋 ما ربات‌های Slack و Discord DocsAlot را ساختیم تا جامعه شما بتواند مستقیماً در مکانی که در حال گفتگو هستند، سوالات محصول را بپرسد. برای شروع فقط وب‌سایت خود را وارد کنید؛ ما تمام زمینه‌ها از جمله برندینگ را استخراج می‌کنیم و رباتی مناسب برای پاسخ به سوالات جامعه شما فراهم می‌شود. در این راه‌اندازی یک ماه استفاده رایگان با پاسخ‌های نامحدود هوش مصنوعی ارائه می‌شود. اگر ربات محتوای مرتبطی نیابد، به سادگی می‌گوید نمی‌تواند پاسخ دهد و پرسش را به‌عنوان \"ندارد مستند\" علامت‌گذاری می‌کند تا تیم بتواند صفحه پیش‌نویس ایجاد کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "پاسخ‌گویی به مشتریان در Slack/Discord برای تیم‌های کوچک توسعه‌دهنده بسیار مفید است 🙌 تبریک! این ربات چطور با مستندات قدیمی یا منسوخ برخورد می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "همگام‌سازی مستندات با GitHub برای افراد و عوامل هوش مصنوعی ایده خوبی است. به‌روزرسانی‌ها چقدر سریع در سیستم جریان می‌یابند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "چه ایده‌ی فوق‌العاده‌ای! تبریک به مناسبت راه‌اندازی. تیم شما اخیراً به‌خوبی در حال پیشرفت است 🔥"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "بخشی که من را جذب کرد این بود که ربات می‌گوید \"این هنوز مستند نشده\" به‌جای حدس زدن. به‌عنوان یک توسعه‌دهنده تک‌نفره، سوالات \"چگونه …؟\" در Slack زمان زیادی می‌گیرد؛ پس پاسخ‌گویی در همان مکان و تبدیل پرسش‌های بدون پاسخ به پیش‌نویس مستند که توسط انسان تأیید می‌شود، حلقه‌ی درستی است. تبریک به راه‌اندازی!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "@new_user_۲۷۹۰a۵۷d۴d آیا ربات می‌تواند به سوالات به بیش از یک زبان پاسخ دهد، حتی اگر مستندات فقط به انگلیسی باشند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "فازیان یک بنیان‌گذار عالی است. مشتاق دیدن راه‌اندازی‌های جدید هستم!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "تبریک به راه‌اندازی! امکان اتصال به GitHub برای به‌روز نگه داشتن مستندات هنگام تغییر کدها بسیار جالب خواهد بود."
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "DocsAlot",
+        "description": "DocsAlot رباتی هوشمند برای Slack و Discord است که به‌صورت خودکار به سوالات مشتریان پاسخ می‌دهد. این ربات با تجزیه و تحلیل دانش‌پایه موجود، پاسخ‌های دقیق و مرتبط ارائه می‌کند. قابلیت یک ماه استفاده رایگان با پاسخ‌های نامحدود هوش مصنوعی، پذیرش اولیه را تسهیل می‌کند.",
+        "marketOpportunity": "بازار پشتیبانی مشتری در پلتفرم‌های ارتباطی مانند Slack و Discord در حال رشد سریع است و شرکت‌های کوچک و متوسط به ابزارهای خودکار برای کاهش بار پشتیبانی نیاز دارند. ارائه رباتی که مستندات را به‌روز نگه می‌دارد و پرسش‌های نامستند را شناسایی می‌کند، می‌تواند نیازهای این بازار را به‌طور مؤثری پوشش دهد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "استارتاپ‌ها و تیم‌های توسعه‌دهنده کوچک تا متوسط که از Slack یا Discord برای ارتباط با مشتریان استفاده می‌کنند.",
+        "challenges": [
+          "یکپارچه‌سازی دقیق با مستندات موجود",
+          "اطمینان از به‌روز بودن اطلاعات در زمان تغییر کد"
+        ],
+        "monetization": [
+          "اشتراک ماهانه با سطوح مختلف پاسخ‌های AI",
+          "پرداخت به‌ازای هر پرسش مستند نشده"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -57531,7 +57664,55 @@
           "user": "[REDACTED]",
           "text": "What led you to create this?"
         }
-      ]
+      ],
+      "faDescription": "Deduplication.tech یک پلتفرم است که به بررسی رقابت معنایی کلمات می‌پردازد. با استفاده از بازدیدهای صفحهٔ ویکی‌پدیا، تعیین می‌کند کدام معنی بر دیگران غالب است. این سرویس ۷۱۹ اصطلاح تکراری در ۱۴ حوزه مختلف را تحلیل می‌کند. کاربران می‌توانند درخت کلمات، لیست برتر و صفحات اصطلاح را مشاهده کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "ممنون از اینکه این را پیدا کردید و بررسی کردید! هر کلمهٔ محبوب در نهایت دوتایی می‌شود. کسی یک محصول، پروتکل یا میم را با کلمه‌ای که قبلاً معنی داشت، نام‌گذاری می‌کند و حالا چگونه معنی آن تغییر کرده است؟ می‌خواستم این نبردهای معنایی را با داده و نه با نظر شخصی نمایش دهم. کدام معنی امروز بر کلمه حاکم است؟ و چگونه استفادهٔ اینترنتی آن کلمه در طول زمان تغییر می‌کند؟ با شروع از بازدیدهای صفحهٔ ویکی‌پدیا، ببینیم چگونه می‌توانیم درک دیجیتال جمعی‌مان را برآورد کنیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "واو، محصول خیلی خوبه! آیا تعریف‌های شما را دوباره بررسی می‌کنید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این یک مشکل جالب است، اما چه ارزشی تجاری دارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "استفاده از بازدیدهای زندهٔ ویکی‌پدیا به عنوان قضاوت، حرکت هوشمندانه‌ای است — این همان امتیازی است که هیچ‌کس نمی‌تواند با آن اختلاف نظر داشته باشد، چون نشان می‌دهد چه کسی در واقع جستجو می‌کند. 'توکن' مثال عالی برای من است: قبلاً به معنی سکه بود، و حالا در روزمرگی‌ام تقریباً همیشه به معنی واحد LLM است. کنجکاو هستم ببینم کدام اصطلاحات هوش مصنوعی در وسط منازعه قرار دارند — فکر می‌کنم 'عامل' یکی از آن‌هاست، چون نیمه نرم‌افزار و نیمه همه چیز دیگر است. راه خوبی است که ابرکلمه واقعی چیزی بگوید."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ارزیابی هر کلمهٔ قرض گرفته شده بر اساس صفحهٔ ویکی‌پدیا واقعی، آزمایشی بهتر از نظر هر کسی است، و دوست دارم ببینم توکن در آن لیست باشد فقط به کنجکاوی."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "چه چیزی باعث شد این را ایجاد کنید؟"
+        }
+      ],
+      "aiReview": "مشکل: در دنیای فناوری، کلمات به سرعت چندین معنی می‌گیرند و این باعث سردرگمی در ارتباطات و تحلیل داده‌ها می‌شود. راه‌حل: Deduplication.tech با استفاده از بازدیدهای واقعی ویکی‌پدیا، به‌صورت داده‌محور تعیین می‌کند کدام معنی بر دیگری غالب است. معماری: Frontend با Next.js، Backend با Node.js و PostgreSQL برای ذخیره‌سازی داده‌های صفحهٔ ویکی‌پدیا، و سرویس‌های میکروسرویس برای پردازش و تحلیل. تکنولوژی: استفاده از API ویکی‌پدیا، پردازش زمان واقعی، و نمایش گرافیکی با D۳.js. مدل درآمدی: اشتراک‌های ماهیانه، فروش API، و تبلیغات هدفمند. نقاط قوت: داده‌های واقعی، تحلیل زمان واقعی، رابط کاربری ساده. نقاط ضعف: وابستگی به ویکی‌پدیا، نیاز به به‌روزرسانی مداوم داده‌ها. نکته طلایی برای ایران: تمرکز بر بازارهای آموزشی و پژوهشی، ایجاد نسخهٔ فارسی و ادغام با سرویس‌های دانشگاهی و شرکت‌های فناوری برای گسترش پذیرش.",
+      "iranEquivalent": {
+        "productName": "دِی‌دِپلیکیشن.tech",
+        "description": "این محصول به تحلیل رقابت معنایی کلمات در حوزه‌های مختلف می‌پردازد. با استفاده از داده‌های بازدید ویکی‌پدیا، می‌تواند نشان دهد کدام معنی بر دیگری غالب است. برای کاربران، این ابزار امکان مشاهدهٔ رقابت‌های معنایی و تحلیل روندهای زبانی را فراهم می‌کند.",
+        "marketOpportunity": "بازار زبان‌شناسی دیجیتال در ایران در حال رشد است. ابزارهای تحلیل معنایی می‌توانند در آموزش، بازاریابی و توسعهٔ محصولات فناوری کاربرد داشته باشند.",
+        "estimatedBudget": "۳ میلیارد تومان",
+        "targetAudience": "کارشناسان زبان، توسعه‌دهندگان، پژوهشگران و علاقه‌مندان به زبان‌شناسی و فناوری",
+        "challenges": [
+          "دستگاه‌سازی داده‌های دقیق و به‌روز ویکی‌پدیا",
+          "پذیرش و اعتماد کاربران ایرانی به مدل مبتنی بر ویکی‌پدیا"
+        ],
+        "monetization": [
+          "اشتراک ماهیانه برای دسترسی به گزارش‌های پیشرفته",
+          "فروش API برای شرکت‌های بزرگ و پژوهشگران"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -74560,6 +74741,64 @@
       "aiReview": "مسئله و راه‌حل: در عصر کار از راه دور و جلسات ویدیویی، نشت اطلاعات حساس مانند ایمیل‌ها، کلیدهای API و شماره کارت‌ها از طریق اسکرین‌شیر یک ریسک امنیتی جدی است. DataBlur با محو کردن خودکار و بلادرنگ این داده‌ها روی صفحه، این ریسک را بدون نیاز به مداخله کاربر خنثی می‌کند. معماری و تکنولوژی: این محصول بر پایه پردازش کاملاً محلی (Local-first) بنا شده است؛ یعنی هیچ داده‌ای به ابر ارسال نمی‌شود و از هوش مصنوعی ابری یا نیاز به ثبت‌نام استفاده نمی‌کند. الگوریتم تشخیص‌دهنده، داده‌های حساس را شناسایی کرده و در صورت شکست در تشخیص، به‌صورت پیش‌فرض سطح محو را افزایش می‌دهد (Fail-safe). مدل درآمدی: با توجه به ماهیت B۲B و B۲C این ابزار، مدل درآمدی احتمالاً بر اساس اشتراک ماهانه/سالانه برای کاربران سازمانی و افراد حرفه‌ای، یا فروش یک‌بار برای نسخه شخصی است. نقاط قوت: حریم خصوصی مطلق (بدون ابر)، سرعت بالا به دلیل پردازش محلی، عدم نیاز به ثبت‌نام، و رویکرد امنیتی محافظه‌کارانه (Blur more, not less). نقاط ضعف: احتمال خطای مثبت (False Positive) که ممکن است داده‌های غیرحساس را نیز محو کند و تمرکز کاربر را برهم بزند؛ همچنین محدودیت در تشخیص داده‌های بسیار پیچیده یا سفارشی بدون تنظیمات دستی. نکته طلایی برای ایران: با توجه به حساسیت بالای داده‌های مالی و بانکی در ایران و محدودیت‌های دسترسی به سرویس‌های ابری خارجی، DataBlur می‌تواند به‌عنوان یک لایه امنیتی مکمل برای جلسات آنلاین با مشتریان خارجی یا همکاران بین‌المللی بسیار ارزشمند باشد. همچنین، نبود نیاز به ثبت‌نام و پردازش محلی، آن را برای شرکت‌هایی که به دلیل تحریم‌ها یا سیاست‌های داخلی نمی‌توانند داده‌ها را به ابرهای خارجی بسپارند، به یک گزینه جذاب و قابل اعتماد تبدیل می‌کند."
     },
     {
+      "id": "ph-today-9",
+      "date": "2026-11-17",
+      "rank": 9,
+      "name": "seshka",
+      "slug": "seshka",
+      "tagline": "Kill what Claude Code left behind",
+      "description": "Claude Code sessions end. The dev servers, watchers and scripts they started don't. seshka shows them in your menu bar, grouped by session, with memory and ports. Kill them in one click. End idle sessions too, by hand or automatically. Free and open source.",
+      "category": "Mac • Open Source • Developer Tools • GitHub",
+      "categoryFa": "مک • متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
+      "url": "https://www.producthunt.com/products/seshka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/5f1673df-5b02-4def-85d7-91d157603d29/479fabd8126e59feb9b2472ab02794ed6a011ce499a4bdf2e1eb442ca17fc62d.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/mcp-draft-media/870852e8-270a-43c0-88d5-40e73b586cdc.jpeg?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/fc86d7e3-ab2a-4151-a2d9-279c1a406107/2df314ce14cfa2d852f37b13ed2df01bcad54b1ed7e30c07dafa4f567bf98aec.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/638296fe-abb6-4720-9cef-b7de784363a4/7b8fd87e804440551f4ef899c6d00c659e7b295980bf5834f4d5ff0f7b86a7d6.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/dd964acd-73a1-491f-983f-299cc4bf9859/d21a0afdcd24e6dff4539496c5a1ffac749160eb770d1550644e60049b7edcb9.png?auto=format"
+      ],
+      "maker": "Miodrag Todorovic",
+      "makerTitle": "Co-founder @ JigJoy",
+      "featuredAt": "2026-11-17T08:00:00Z",
+      "votes": 127,
+      "websiteUrl": "https://www.producthunt.com/r/IPCIDIB7EGGJHC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt, I'm Miodrag from the JigJoy team.I run a lot of Claude Code sessions. When I close one, the dev servers, watchers and scripts it started often keep running. The day I looked, I had 27 processes from 7 closed sessions holding 5.6 GB of memory, and a handful of ports I kept bumping into.seshka is the small menu bar app I built to deal with that:It lists leftover processes grouped by the session that started them, with memory and ports.One click ends a process, a whole session's leftovers, or everything.It shows your open sessions with how long each has been idle, and can end idle ones automatically if you turn that on.It is free, open source (MIT), native Swift, and it only reads what is already on your Mac. Nothing is sent anywhere.It is not affiliated with Anthropic. I'd love to hear what it finds on your machine, and what you'd want it to do next."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the ones that get us are flutter_tester processes from test runs that got cut off. the mac sat at load ~30 on 8 cores one afternoon before we figured out why lol. how do you map a process back to its session once it's double-forked and reparented to launchd?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "the ones that get us are flutter_tester processes from test runs that got cut off. the mac sat at load ~30 on 8 cores one afternoon before we figured out why lol. how do you map a process back to its session once it's double-forked and reparented to launchd?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Old dev servers from closed sessions holding onto ports is a weekly thing for me. Any chance of a Windows version?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This is the exact tax I pay for running a lot of Claude Code sessions — I usually only find the orphaned dev server when something else tries to grab its port. Grouping leftovers by session, with memory and ports, is the part that makes this usable for me; killing by port alone is always guesswork. The auto-end for idle sessions is what I'd turn on first. Congrats on the launch — native Swift and MIT is a great combo for a tool like this."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! Frankly I was getting tired of copy-pasting the same prompt at the end of merging a PR 😅"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I never notice these dead servers and ports until i go to start something and it picks the most random port number because apparently all the other usual ones are still running something. Excited to try this!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! This app is a great example of the saying \"Do one thing and do it well\""
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-10",
       "date": "2026-11-12",
       "rank": 10,
@@ -75066,64 +75305,6 @@
         ],
         "confidence": 82
       }
-    },
-    {
-      "id": "ph-today-9",
-      "date": "2026-11-17",
-      "rank": 9,
-      "name": "seshka",
-      "slug": "seshka",
-      "tagline": "Kill what Claude Code left behind",
-      "description": "Claude Code sessions end. The dev servers, watchers and scripts they started don't. seshka shows them in your menu bar, grouped by session, with memory and ports. Kill them in one click. End idle sessions too, by hand or automatically. Free and open source.",
-      "category": "Mac • Open Source • Developer Tools • GitHub",
-      "categoryFa": "مک • متن‌باز • ابزار توسعه‌دهندگان • گیت‌هاب",
-      "url": "https://www.producthunt.com/products/seshka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/5f1673df-5b02-4def-85d7-91d157603d29/479fabd8126e59feb9b2472ab02794ed6a011ce499a4bdf2e1eb442ca17fc62d.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/mcp-draft-media/870852e8-270a-43c0-88d5-40e73b586cdc.jpeg?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/fc86d7e3-ab2a-4151-a2d9-279c1a406107/2df314ce14cfa2d852f37b13ed2df01bcad54b1ed7e30c07dafa4f567bf98aec.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/638296fe-abb6-4720-9cef-b7de784363a4/7b8fd87e804440551f4ef899c6d00c659e7b295980bf5834f4d5ff0f7b86a7d6.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/dd964acd-73a1-491f-983f-299cc4bf9859/d21a0afdcd24e6dff4539496c5a1ffac749160eb770d1550644e60049b7edcb9.png?auto=format"
-      ],
-      "maker": "Miodrag Todorovic",
-      "makerTitle": "Co-founder @ JigJoy",
-      "featuredAt": "2026-11-17T08:00:00Z",
-      "votes": 126,
-      "websiteUrl": "https://www.producthunt.com/r/IPCIDIB7EGGJHC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt, I'm Miodrag from the JigJoy team.I run a lot of Claude Code sessions. When I close one, the dev servers, watchers and scripts it started often keep running. The day I looked, I had 27 processes from 7 closed sessions holding 5.6 GB of memory, and a handful of ports I kept bumping into.seshka is the small menu bar app I built to deal with that:It lists leftover processes grouped by the session that started them, with memory and ports.One click ends a process, a whole session's leftovers, or everything.It shows your open sessions with how long each has been idle, and can end idle ones automatically if you turn that on.It is free, open source (MIT), native Swift, and it only reads what is already on your Mac. Nothing is sent anywhere.It is not affiliated with Anthropic. I'd love to hear what it finds on your machine, and what you'd want it to do next."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the ones that get us are flutter_tester processes from test runs that got cut off. the mac sat at load ~30 on 8 cores one afternoon before we figured out why lol. how do you map a process back to its session once it's double-forked and reparented to launchd?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the ones that get us are flutter_tester processes from test runs that got cut off. the mac sat at load ~30 on 8 cores one afternoon before we figured out why lol. how do you map a process back to its session once it's double-forked and reparented to launchd?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Old dev servers from closed sessions holding onto ports is a weekly thing for me. Any chance of a Windows version?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This is the exact tax I pay for running a lot of Claude Code sessions — I usually only find the orphaned dev server when something else tries to grab its port. Grouping leftovers by session, with memory and ports, is the part that makes this usable for me; killing by port alone is always guesswork. The auto-end for idle sessions is what I'd turn on first. Congrats on the launch — native Swift and MIT is a great combo for a tool like this."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! Frankly I was getting tired of copy-pasting the same prompt at the end of merging a PR 😅"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I never notice these dead servers and ports until i go to start something and it picks the most random port number because apparently all the other usual ones are still running something. Excited to try this!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! This app is a great example of the saying \"Do one thing and do it well\""
-        }
-      ]
     },
     {
       "id": "ph-yesterday-7",
@@ -79335,7 +79516,56 @@
           "user": "[REDACTED]",
           "text": "What happens when we take 15-20 screenshots back to back? Does it become crowded or there's some way to manage them?"
         }
-      ]
+      ],
+      "faDescription": "آرچی یک اپلیکیشن کوچک و بومی برای مک است که اسکرین‌شات‌های شما را در ناحیه نوتچ (Notch) نگهداری می‌کند تا همیشه آماده ویرایش و کشیدن به هر جایی که نیاز دارید باشند. این ابزار مشکل ناپدید شدن سریع پیش‌نمایش‌های اسکرین‌شات در سیستم‌عامل مک را حل می‌کند و یک قفسه مجازی در دسترس ایجاد می‌نماید. کاربران می‌توانند با استفاده از ویرایشگر سریع، برش، رسم فلش و متن اضافه کنند و همچنین از قابلیت محو هوشمند متن‌های حساس بهره ببرند. پردازش OCR به صورت کاملاً محلی انجام می‌شود تا حریم خصوصی داده‌ها حفظ شود و سرعت عمل بالا برود.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت 👋 من آرتیوم، طراح محصول و سازنده هستم. من روزانه ده‌ها اسکرین‌شات برای کار و چت‌های هوش مصنوعی می‌گیرم. اما همیشه پیش‌نمایش کوچک بومی مک اذیت‌کننده بود: بعد از چند ثانیه ناپدید می‌شد و مجبور می‌شدم به دسکتاپ بروم و اسکرین‌شات‌های اخیر را پیدا کنم. و اگر چند اسکرین‌شات پشت سر هم بگیرم، همه‌چیز به هم می‌ریزد. علاوه بر این، ویرایش سریع در Preview همیشه حس سنگینی داشت. بنابراین آرچی را ساختم — یک اپلیکیشن بومی مک که نوتچ شما را به یک قفسه فوری برای اسکرین‌شات‌ها تبدیل می‌کند. آرچی چه کارهایی انجام می‌دهد؟ 📸 قفسه نوتچ: اسکرین‌شات‌ها را درست در نوتچ نگه دارید تا هر زمان که خواستید بکشید و رها کنید. ✏️ ویرایشگر سریع: برش، رسم، اضافه کردن فلش، متن و مراحل شماره‌گذاری شده. 🔒 محو هوشمند متن: روی هر کلمه یا ایمیل حساس کلیک کنید تا فوراً محو شود. 📋 OCR فوری: کپی متن از هر اسکرین‌شات (۱۰۰٪ پردازش محلی از طریق Apple VisionKit). 📌 پاک‌سازی خودکار و سنجاق کردن: چیزهایی که نیاز دارید را سنجاق کنید؛ بگذارید آرچی بقیه را پاک کند. با میان‌برهای معمولی مک (⌘⇧۳, ⌘⇧۴, ⌘⇧۵) روی مک‌هایی با یا بدون نوتچ فیزیکی کار می‌کند. آرچی را برای رفع ناراحتی‌های روزانه خودم ساختم. خوشحال می‌شوم نظرات و بازخوردهای شما را بشنوم!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "اگر مک نوتچ نداشته باشد، قفسه کجا قرار می‌گیرد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "طراحی تعامل جالبی دارد و پرداخت‌های ظریف واقعاً عالی است. ادامه دهید."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک! عاشق این ایده هستم. ویرایش سریع یک ویژگی عالی است. آیا می‌توانید به راحتی نام فایل‌ها را در ویرایشگر تغییر دهید تا همه آن‌ها 'Screenshot' نامیده نشوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "این دقیقاً همان آزار و اذیت را حل می‌کند که من با پیش‌نمایش بومی دارم — بعد از چند ثانیه ناپدید می‌شود و سپس برای پیدا کردن عکس در دسکتاپ گشت‌وگذار می‌کنم. نگه داشتن اسکرین‌شات‌ها در یک قفسه نوتچ قابل اسکرول که می‌توان مستقیماً از آن کشید، مدل ذهنی بسیار بهتری است. محو با کلیک روی متن‌های حساس ویژگی‌ای است که بیشترین استفاده را از آن خواهم داشت، چون من زیاد چیزهایی با ایمیل اسکرین‌شات می‌گیرم. OCR محلی از طریق VisionKit هم یک لمسه خوب است، بدون رفت‌وآمد به سرور فقط برای کپی متن از یک تصویر."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "چه اتفاقی می‌افتد وقتی ۱۵ تا ۲۰ اسکرین‌شات پشت سر هم می‌گیریم؟ آیا شلوغ می‌شود یا راهی برای مدیریت آن‌ها وجود دارد؟"
+        }
+      ],
+      "aiReview": "مسئله اصلی، ناپدید شدن سریع پیش‌نمایش اسکرین‌شات در مک و دشواری دسترسی مجدد به آن‌هاست؛ آرچی با تبدیل نوتچ به یک قفسه ذخیره‌سازی موقت، این چرخه کار را ساده و سریع می‌کند. از نظر معماری، استفاده از Swift و APIهای بومی اپل مانند VisionKit برای پردازش محلی، تضمین‌کننده سرعت بالا و حفظ حریم خصوصی است. مدل درآمدی احتمالی بر اساس اشتراک‌های سبک‌وزن (Micro-SaaS) است که برای کاربران حرفه‌ای جذابیت دارد. نقاط قوت شامل طراحی UX خلاقانه، پردازش آفلاین و یکپارچگی عمیق با سیستم‌عامل مک است. نقاط ضعف می‌تواند محدودیت سخت‌افزاری (وابستگی به نوتچ یا شبیه‌سازی آن) و رقابت با ابزارهای رایگان باشد. نکته طلایی برای ایران: تمرکز بر کاربران فارسی‌زبان که با مک کار می‌کنند و ارائه پشتیبانی از زبان فارسی در رابط کاربری و OCR می‌تواند مزیت رقابتی منحصربه‌فردی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "نوتچ‌شات (NotchShot)",
+        "description": "نوتچ‌شات یک ابزار سبک‌وزن برای مک است که اسکرین‌شات‌ها را در ناحیه بالای صفحه نمایش ذخیره می‌کند تا دسترسی سریع‌تری داشته باشید. این اپلیکیشن امکان ویرایش سریع، محو اطلاعات محرمانه و استخراج متن از تصاویر را به صورت آفلاین فراهم می‌کند. هدف اصلی، حذف نیاز به ذخیره‌سازی مکرر در دسکتاپ و مدیریت آسان‌تر تصاویر موقت است.",
+        "marketOpportunity": "بازار توسعه‌دهندگان و طراحان گرافیک در ایران به دلیل افزایش استفاده از مک و ابزارهای هوش مصنوعی، پتانسیل رشد بالایی دارد. نیاز به ابزارهای بومی و سبک که سرعت کار را افزایش دهند، فرصت خوبی برای ورود است.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "طراحان گرافیک، توسعه‌دهندگان نرم‌افزار، تولیدکنندگان محتوا و کاربران حرفه‌ای مک که روزانه با اسکرین‌شات‌های متعدد سروکار دارند.",
+        "challenges": [
+          "رقابت با ابزارهای رایگان و پیش‌فرض سیستم‌عامل مک که کاربران به آن‌ها عادت کرده‌اند.",
+          "نیاز به بهینه‌سازی دقیق برای مک‌های مختلف با و بدون نوتچ فیزیکی."
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه یا سالانه برای دسترسی به ویژگی‌های پیشرفته مانند OCR و ویرایشگر گسترده.",
+          "فروش لایسنس دائمی با قیمت مناسب برای کاربران سازمانی."
+        ],
+        "techStack": [
+          "Swift",
+          "AppKit",
+          "VisionKit"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -86794,7 +87024,18 @@
           "user": "[REDACTED]",
           "text": "Thats really bold of you to present here Arc alternative with dozens of clones out already. Especially with Nook, Search and a bunch of other WebKit altson the market.I appreciate the move, very confident.Is there any Roadmap published to keep an eye of the progress to become 100% Arc alternative? Or the goal is to became even better with some more features from Dia or your own?"
         }
-      ]
+      ],
+      "iranEquivalent": {
+        "productName": "",
+        "description": "",
+        "marketOpportunity": "",
+        "estimatedBudget": "",
+        "targetAudience": "",
+        "challenges": [],
+        "monetization": [],
+        "techStack": [],
+        "confidence": 0
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -96355,7 +96596,39 @@
           "user": "[REDACTED]",
           "text": "The MCP part is what caught me — I cut a lot of Mac app demo clips, so having an agent put together a rough cut through MCP and then opening the project in Edits to finish it myself sounds like a useful first pass. What I'm curious about is what comes back: is it still a proper editable project, with the multi-track timeline and keyframes intact, or does it hand back something flatter? Free 4K exports without a watermark makes it easy to try either way."
         }
-      ]
+      ],
+      "faDescription": "Instagram Edits اکنون برای macOS عرضه شده و ترکیبی از ویرایش حرفه‌ای ویدیو و هوش مصنوعی را فراهم می‌کند. کاربران می‌توانند از طریق MCP به دستیارهای هوشمند متصل شوند تا برش‌های اولیه را بسازند و سپس با استفاده از تایم‌لاین چند‌مسیره، کی‌فریم‌ها، رنگ‌درمانی و کنترل دقیق صدا، ویدیو را تکمیل کنند. خروجی‌های ۴K بدون واترمارک و دسترسی به کتابخانه موسیقی اینستاگرام امکان انتشار مستقیم در پلتفرم را می‌دهد. این ابزار به‌صورت رایگان ارائه می‌شود و نیازی به اشتراک برای استفاده از ویرایشگر اصلی نیست.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "اینستاگرام به تازگی Edits را برای مک عرضه کرده و ویژگی جالبی فراتر از ابزارهای معمول ویرایش دسکتاپ اضافه کرده است. حالا می‌توانید از طریق MCP دستیارهای هوش مصنوعی را متصل کنید تا به شما در ویرایش ویدیوها کمک کنند؛ برای مثال، از یک دستیار بخواهید یک برش خام بسازد و سپس پروژه را در Edits باز کنید و خودتان تکمیل کنید. این برنامه دارای تایم‌لاین چند‌مسیره، کی‌فریم‌ها، رنگ‌درمانی و خروجی ۴K بدون واترمارک است و می‌توانید مستقیماً پس از اتمام، ویدیو را در اینستاگرام منتشر کنید. به نظر می‌رسد متا جدی‌تر از CapCut رقابت می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "جالب‌ترین بخش برای من بخش MCP بود؛ من کلی کلیپ‌های دموی برنامه‌های مک می‌گیرم، بنابراین داشتن یک دستیار که یک برش خام را از طریق MCP بسازد و سپس پروژه را در Edits برای تکمیل باز کنم، می‌تواند یک پاس اولیه مفید باشد. سؤال من این است که پس از بازگشت، آیا پروژه همچنان به‌صورت یک پروژه ویرایشی کامل با تایم‌لاین چند‌مسیره و کی‌فریم‌ها باقی می‌ماند یا به‌صورت مسطح‌تر تحویل می‌شود؟ خروجی ۴K رایگان بدون واترمارک، آزمایش این گزینه را آسان می‌کند."
+        }
+      ],
+      "aiReview": "مسئله: تولیدکنندگان محتوا در ایران به ابزارهای ویرایش ویدیو با قابلیت‌های پیشرفته نیاز دارند اما اکثر ابزارهای حرفه‌ای هزینه‌بر یا محدود به پلتفرم‌های خاص هستند. راه‌حل: ارائه Instagram Edits به‌صورت رایگان برای macOS با ترکیب ویرایش چند‌مسیره، کی‌فریم، رنگ‌درمانی و هوش مصنوعی که می‌تواند برش اولیه را خودکار انجام دهد. معماری و تکنولوژی: بک‌اند مبتنی بر سرویس‌های ابری Meta با APIهای MCP، فرانت‌اند با Next.js و ذخیره‌سازی داده‌ها در PostgreSQL؛ می‌توان برای بازار ایران از سرورهای محلی یا CDNهای داخلی استفاده کرد. مدل درآمدی: در ابتدا رایگان نگه داشته می‌شود، سپس از طریق فروش بسته‌های پریمیوم (مانند کتابخانه موسیقی بومی، فیلترهای پیشرفته) و تبلیغات هدفمند داخل برنامه درآمدزایی می‌شود. نقاط قوت: هزینه صفر برای کاربر نهایی، قابلیت هوش مصنوعی برای تسریع ویرایش، خروجی ۴K بدون واترمارک و انتشار مستقیم در اینستاگرام. نقاط ضعف: وابستگی به زیرساخت‌های Meta، محدودیت‌های قانونی برای محتوای تولیدی و نیاز به اتصال اینترنت پایدار. نکته طلایی برای ایران: ترکیب این ابزار با سرویس‌های هوش مصنوعی بومی (مانند سامانه‌های پردازش زبان فارسی) و ارائه پل‌های یکپارچه برای انتشار در پلتفرم‌های داخلی می‌تواند پذیرش سریع و مزیت رقابتی ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "Instagram Edits برای دسکتاپ (macOS)",
+        "description": "این محصول ویرایش ویدیو با قابلیت‌های پیشرفته مانند تایم‌لاین چند‌مسیره، کی‌فریم‌ها و رنگ‌درمانی را به صورت رایگان ارائه می‌دهد. کاربران می‌توانند از هوش مصنوعی برای ساخت برش‌های اولیه استفاده کنند و سپس به‌صورت دستی ویرایش نهایی را انجام دهند. خروجی‌های ۴K بدون واترمارک و امکان انتشار مستقیم در اینستاگرام از ویژگی‌های کلیدی آن است.",
+        "marketOpportunity": "بازار تولید محتوا در ایران با رشد سریع اینفلوئنسرها و برندهای کوچک در حال گسترش است و نیاز به ابزارهای حرفه‌ای اما مقرون‌به‌صرفه احساس می‌شود. ارائه یک ویرایشگر رایگان با قابلیت‌های پیشرفته می‌تواند جایگاه مناسبی در این اکوسیستم پیدا کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "تولیدکنندگان محتوا، اینفلوئنسرها، برندهای کوچک و استودیوهای تبلیغاتی",
+        "challenges": [
+          "قابلیت اتصال به سرویس‌های هوش مصنوعی داخلی محدود است",
+          "محدودیت‌های قانونی و سانسور محتوا در پلتفرم‌های ایرانی"
+        ],
+        "monetization": [
+          "فروش بسته‌های پریمیوم با ویژگی‌های پیشرفته",
+          "کسب درآمد از تبلیغات داخل برنامه یا فروش کتابخانه موسیقی"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-today-10",
@@ -97660,7 +97933,47 @@
           "user": "[REDACTED]",
           "text": "congratulations"
         }
-      ]
+      ],
+      "faDescription": "سلام دنیا. ما در حال ساخت یک چندکاره‌گر ترمینال هستیم و فکر می‌کنیم که شما آن را دوست خواهید داشت. برنامه‌های بومی (مثلاً macOS/iOS)، از طریق وب قابل دسترسی، چند نفره. از طرف سازندگان Ghostty و Echo.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "این همان تنظیمی است که می‌خواستم — من اجرای طولانی کد Claude را ادامه می‌دهم و از دست دادن جلسه وقتی لپ‌تاپ را می‌بندم یا دستگاه را تغییر می‌دهم، بزرگ‌ترین مزاحمت است. یک چندکاره‌گر بومی macOS/iOS که جلسات را زنده نگه می‌دارد و اجازه می‌دهد از طریق گوشی‌ام وارد شوید، بخش tmux بر روی SSH بود که هرگز به خوبی انجام نمی‌شد. همان سؤال که در Raphaël مطرح شد: اگر در حین اجرا درب لپ‌تاپ را ببندم، آیا جلسه همچنان ادامه می‌یابد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "این حالا ترمینال/چندکاره‌گر پیش‌فرض من است، بسیار خوب ساخته شده."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "من اجرای طولانی کد Claude را در tmux روی یک سرور راه دور می‌گذارم. با Rex، اگر لپ‌تاپم را ببندم، آیا جلسه روی سرور زنده می‌ماند یا برنامه‌های iOS و وب فقط یک پنجره روی Mac من هستند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک می‌گویم"
+        }
+      ],
+      "aiReview": "مسئله: برنامه‌نویسان ایرانی به ابزار چندکاره‌گر قدرتمندی نیاز دارند که جلسات را بدون قطع ادامه دهد. راه‌حل: Rex با بومی‌سازی در macOS/iOS و دسترسی وب، این نیاز را برطرف می‌کند. معماری: ترکیبی از سرورهای Node.js، پایگاه داده PostgreSQL و رابط کاربری Next.js برای وب و Swift برای iOS. مدل درآمدی: اشتراک‌های ماهانه و لایسنس‌های سازمانی. نقاط قوت: پایداری جلسات، دسترسی چندپلتفرمی، تجربه کاربری ساده. نقاط ضعف: رقابت شدید، نیاز به بازاریابی قوی. نکته طلایی برای ایران: تمرکز بر جامعه توسعه‌دهندگان ایرانی و ارائه آموزش‌های محلی برای تسهیل پذیرش.",
+      "iranEquivalent": {
+        "productName": "Rex (Beta)",
+        "description": "Rex یک چندکاره‌گر ترمینال است که به صورت بومی در macOS و iOS اجرا می‌شود و از طریق وب قابل دسترسی است. این ابزار امکان اجرای طولانی کد را بدون از دست دادن جلسه در هنگام بستن لپ‌تاپ یا تغییر دستگاه فراهم می‌کند. از طرف سازندگان Ghostty و Echo، Rex تجربه‌ای چند نفره و همزمان را ارائه می‌دهد.",
+        "marketOpportunity": "بازار ایران برای ابزارهای توسعه‌دهنده و برنامه‌نویسی در حال رشد است و نیاز به چندکاره‌گرهای قدرتمند و دسترسی از موبایل وجود دارد. Rex می‌تواند جایگاه خود را در این بازار پیدا کند و به برنامه‌نویسان ایرانی امکان مدیریت جلسات را بدهد.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "برنامه‌نویسان حرفه‌ای، تیم‌های توسعه، و شرکت‌های فناوری که به مدیریت جلسات چندکاره‌گر نیاز دارند",
+        "challenges": [
+          "پذیرش بازار و رقابت با ابزارهای مشابه",
+          "پشتیبانی از چند پلتفرم و سازگاری با سیستم‌های مختلف"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای دسترسی به ویژگی‌های پیشرفته",
+          "فروش لایسنس برای شرکت‌های بزرگ"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-10",
@@ -100931,10 +101244,10 @@
   "audit": {
     "products": 1016,
     "withRealComments": 1016,
-    "withPersianComments": 909,
-    "withPersianDescription": 909,
-    "withAiReview": 876,
-    "withIranEquivalent": 909,
+    "withPersianComments": 916,
+    "withPersianDescription": 916,
+    "withAiReview": 880,
+    "withIranEquivalent": 917,
     "totalRealComments": 6341
   }
 }
