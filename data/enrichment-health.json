@@ -1,25 +1,21 @@
 {
-  "checkedAt": "2026-11-18T03:55:23.606Z",
-  "latestDataset": "2026-11-18.json",
+  "checkedAt": "2026-11-19T03:52:28.452Z",
+  "latestDataset": "2026-11-19.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 170,
-  "backlogAfter": 166,
-  "completedProducts": 850,
-  "missingFaDescription": 102,
-  "missingFaComments": 132,
-  "missingAiReview": 139,
-  "missingIranEquivalent": 104,
+  "succeeded": 9,
+  "failed": 1,
+  "backlogBefore": 176,
+  "backlogAfter": 170,
+  "completedProducts": 856,
+  "missingFaDescription": 103,
+  "missingFaComments": 134,
+  "missingAiReview": 142,
+  "missingIranEquivalent": 105,
   "failures": [
     {
-      "slug": "axl-27e6ef30-42b0-46a6-a379-a3fcb659e6dd",
+      "slug": "product-hunt-mcp-2",
       "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "nomac-2",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
     }
   ]
 }

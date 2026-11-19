@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "scrapedAt": "2026-11-19T01:58:23.651Z",
+  "scrapedAt": "2026-11-19T03:45:43.649Z",
   "periods": {
     "today": [
       {
@@ -29,9 +29,29 @@
         "maker": "Bassil Khilo",
         "makerTitle": "AI Engineer",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 315,
+        "votes": 336,
         "websiteUrl": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Great product. Congrats on the launch!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Is there a desktop app only, or can I use it from the browser and my phone too?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats! Agents that remember you and live on your own machine feels a lot more trustworthy than another hosted chatbot."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Can I export a room's pages and databases if I decide to move my work elsewhere?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great idea! Will try within my team!"
+          },
           {
             "user": "[REDACTED]",
             "text": "I like that the output lives in the room as a real doc, page or sheet instead of getting buried in a chat scroll. That is where most agent tools lose me."
@@ -43,26 +63,6 @@
           {
             "user": "[REDACTED]",
             "text": "Nice work. Collaboration software never really made room for agents as teammates, and this looks like a real attempt at it."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! Anyone who has juggled a chat app, a docs app and three AI will get why this exists. Once place for all of it makes sense."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! Re-explaining the same context to three different agents is a real daily pain, and shared memory across vendors is a smart fix. Good luck today! 🚀"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "As a solo dev I'm usually the copy-paste bridge between my own agents, so the shared memory part is what caught me — explaining things once instead of re-briefing every agent. How does the approval step work when one agent hands work to another — do I approve each handoff, or just the finished result? That's the part I'd want to trust before letting agents pass work around on their own."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Watching our agents interact has been fascinating. But mostly I am appreciating that I am not stuck with one agent but each one can talk tot he other and get things done. And knowing my agent is answering my team mates agents in real time allows us to move forward faster and better aligned. Loving it."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "It seems like I can set the history visibility to after invite. Does this also apply to new agents added? How do they get room context if they are added later?"
           }
         ]
       },
@@ -88,7 +88,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 276,
+        "votes": 282,
         "websiteUrl": "https://www.producthunt.com/r/ULWYTTAYG5XTLI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -149,7 +149,7 @@
         "maker": "",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 233,
+        "votes": 240,
         "websiteUrl": "https://www.producthunt.com/r/46Q2MJEJGU72E3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -216,12 +216,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 201,
+        "votes": 210,
         "websiteUrl": "https://www.producthunt.com/r/7GHVBKIFOJ7ABR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt, and happy GIS Day! 🌎 I'm Jia, co-founder of Wherobots and one of the original creators of Apache Sedona.Today we're launching Waldo in public preview, and for once, Waldo is easy to find 🔍Waldo is the AI agent that accelerates development with physical world data: the spatial data expert your data team always wished it had. It takes spatial data engineering and analytics work from backlog to shipped, in hours instead of weeks.😩 The problemSpatial data grows by petabytes every day, and the experts who can use it are scarce. A head of data with one spatial engineer and twenty open requests ends up declining eighteen.General AI coding agents get spatial relationships wrong and stop at the code.Legacy GIS and general cloud data platforms struggle at regional to planetary scale, and imagery work gets skipped.🌍 How Waldo worksAsk in plain EnglishWaldo finds the right open and private datasets and checks them for fitIt writes and runs the analysis and imagery inference, and builds maps so you can inspect each stepYou stay in the loop the whole wayIt ships a pipeline, dataset or map to the Iceberg-compatible platform you already run (Databricks, Snowflake, AWS Glue), on a schedule if you need one💬 Try a question like\"Which homes in El Dorado County sit on high wildfire-risk terrain and are more than a 10-minute drive from the nearest fire station?\"🔎 Why \"Waldo\"?Named for geographer Waldo Tobler and his First Law of Geography: \"Everything is related to everything else, but near things are more related than distant things.\" That's the work Waldo does, so launching on GIS Day felt right.🎁 Try it todayWaldo tokens are included at no extra cost during the preview; you pay only for compute. Sign up at wherobots.comYou found Waldo! Claim $250 in extra credits with this form (mention Product Hunt)What spatial data project is stuck in your backlog? Drop it below, and we'll build it with Waldo and share what we get 👇"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Super cool. Was doing a side project for my local neighborhood trying to answer questions off the https://gis.data.mass.gov/ and it was a pain. This would have saved me a ton of time. Like the low-end tier for smaller projects and then can move into the proper biz tier. Obviously a bit of a jump in pricing but for proper users 3k a month is pretty easy to chew through."
           },
           {
             "user": "[REDACTED]",
@@ -246,10 +250,6 @@
           {
             "user": "[REDACTED]",
             "text": "@drjiayu making spatial data accessible without heavy coding is a big step. What kind of tasks can Waldo handle best right now?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the Launch! How does Waldo fit into an existing data engineering workflow?"
           }
         ]
       },
@@ -275,7 +275,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 189,
+        "votes": 191,
         "websiteUrl": "https://www.producthunt.com/r/FOOJ7X4LAUBRQ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -336,7 +336,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 162,
+        "votes": 163,
         "websiteUrl": "https://www.producthunt.com/r/LAAO4P46MHJORU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -457,12 +457,16 @@
         "maker": "Siddharth Meena",
         "makerTitle": "i like creating cool apps",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 133,
+        "votes": 134,
         "websiteUrl": "https://www.producthunt.com/r/U6XX5FHY4UCNF3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋Most AI tools are still a single chat window. You ask, it answers, and then you go do the work. dusk bot flips that: you get a crew of AI helpers, and each one has its own computer, its own memory and one clear job.What I like about it:Bring the AI you already pay for: sign in with ChatGPT, Claude, Gemini or Grok, or use your own API key. A different model per bot if you want.Each bot gets its own browser and desktop: watch it work live and take the mouse back anytime.Ask once, it becomes a routine: \"summarise my inbox every weekday at 8\" just keeps running.Memory you can read and edit: it learns how you like things done, and every note is yours.Bots work together: put a few in a group and they hand work to each other, asking you before anything risky.It's free forever on Mac, Windows and Linux, and open source. Add dusk cloud if you want your bots working with the laptop shut.Curious: what's the first job you'd hand to a bot? 👇"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "This is the part that caught my eye: bringing the plan I already pay for instead of paying for another seat, and each bot getting its own computer with memory I can actually read and edit. I like that it asks before risky steps too — that's the bit I'd want to trust before handing it a real routine. Curious how the scheduled routines hold up over a few weeks once the memory starts accumulating — does it stay tidy, or do you end up pruning it by hand?"
           },
           {
             "user": "[REDACTED]",
@@ -614,7 +618,7 @@
         "maker": "Daniil Poletaev",
         "makerTitle": "Founder @BlogBowl",
         "featuredAt": "2026-11-17T08:01:00Z",
-        "votes": 444,
+        "votes": 449,
         "websiteUrl": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1204,7 +1208,7 @@
         "maker": "Daniil Poletaev",
         "makerTitle": "Founder @BlogBowl",
         "featuredAt": "2026-11-17T08:01:00Z",
-        "votes": 444,
+        "votes": 449,
         "websiteUrl": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1451,12 +1455,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-13T08:01:00Z",
-        "votes": 415,
+        "votes": 417,
         "websiteUrl": "https://www.producthunt.com/r/T53GXHFXDGAANJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! I'm Yana, co-founder of Templify.We first launched here in 2022 as an 8-person team in Ukraine, building through incredibly difficult circumstances with just 30 templates and 5 features. Today, Templify has 1M+ downloads, a 4.8 App Store rating, and 3M+ videos created. We're still bootstrapped.Our mission hasn't changed: to give everyone the opportunity to grow in the creator economy, regardless of their skills or experience.People want content that stands out, but most tools assume you already know how to edit: learn a timeline, navigate complicated panels, or switch between apps. We wanted anyone to be able to create, build an audience, and grow their business or personal brand without professional editing skills.Now AI is changing how we create content. We believe the future isn't just about editing faster. It's about understanding who you are, what you're building, and helping you create content that works for you.That's the vision behind Creator Brain, the intelligence we're building into Templify.Here's what's new since our first launch:• Brand Kit: Set up your colors, fonts, and logo once, then apply them to any template in seconds.• Templify for Mac: Create and edit on desktop, too.• Complete editing suite: Video, photo, and carousel editing in one app, with auto captions, background removal, voice enhancement, dual camera, and curated presets.• 1,300+ templates: Inspiration to turn ideas into finished content.• AI tools: AI templates, image and video generation.• BeatSync: Automatically sync photos and videos to music.And this is just the beginning.Brand Kit is our first step toward Creator Brain, our vision for a personal AI Head of Content that understands your brand, helps you decide what to post, and turns ideas into ready-to-share content.Because the future isn't just about creating more content. It's about standing out, growing your audience, and creating opportunities.Templify is free to try on iPhone and Mac.🎁 Special for the Product Hunt community: use code PRODUCTHUNT to get 50% off a 6-month Pro plan.What's your biggest content creation challenge: finding ideas, editing, or staying consistent?We'll be in the comments all day!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "@yana_abazher this is a dream for a marketing exec (also a fellow Ukrainian) running 8000 workflows and focusing on growth with organic content being SO important. My big question when creating content with AI no matter how good it looks is, how do we program real, culturally accurate humor? The first tool that does this well will win. I'm rooting for you and will certainly give it a try. Congrats!"
           },
           {
             "user": "[REDACTED]",
@@ -1481,10 +1489,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on your launch and being in the top spot! 🥳 I'm just getting started in making online social media content, and I'm not super impressed by generic AI, so I'll be sure to check this out."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "congrats on the launch yana. to your question, staying consistent is the hard one for me. ideas i have, but after week two the posting just stops. 1m downloads as a bootstrapped team is impressive. curious how creator brain will decide what to post, from what worked for me before or from general trends?"
           }
         ]
       },
@@ -1644,6 +1648,10 @@
           },
           {
             "user": "[REDACTED]",
+            "text": "Nice product! Applying to jobs is like a full time job itself, having something like this to not only simplify but also get in early on new postings is awesome 👏"
+          },
+          {
+            "user": "[REDACTED]",
             "text": "It seems to be not working for Australia Region."
           },
           {
@@ -1665,17 +1673,76 @@
           {
             "user": "[REDACTED]",
             "text": "Looks really useful!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Watching 250k career pages and applying with a tailored resume is the part people hate doing by hand. Curious how you keep match quality high so it doesn't turn into spray and pray. Good luck today!"
           }
         ]
       },
       {
         "id": "ph-week-9",
-        "date": "2026-11-13",
+        "date": "2026-11-18",
         "rank": 9,
+        "name": "S.Space",
+        "slug": "s-space",
+        "tagline": "Your team and everyone's AI agents, in one workspace",
+        "description": "Everyone on your team has an AI agent, and none of them work together, so you copy, paste and re-explain all day. S.Space is one workspace for your team and everyone's agents. Bring the ones you already use, like Claude Code and Codex, from any vendor. Agents reach out, hand work to each other and bring you finished results, with shared memory so you explain things once. Agents act, you approve what matters. Free to start. Built by the team behind AutoGen.",
+        "category": "Productivity • Developer Tools • Artificial Intelligence",
+        "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
+        "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "thumbnail": "https://ph-files.imgix.net/2862be57-c51b-45fc-8618-6e62c9ca35cb.jpeg?auto=format",
+        "screenshots": [
+          "https://ph-files.imgix.net/launch-image-uploads/cce1b5a7-16b7-4782-82b8-b8e7da6970b8/f144d846b5ab511a8e073598343a6ea3efa28621e445131e8b0b4b42ea8136a1.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/a7fd6d4f-674c-4565-ab7a-7a261fa4206d/8953997221c919bb6cc215a8a36a0c93140b0dd2246d17b131f47f80bc4df377.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/eb98e265-c614-4790-b069-e7a51cecf3a8/2b5eeaaa3d65f851048bc8d111ff59d912b1666b717a5a4f7eb228aac866102b.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/7729b1f0-6581-4fdf-83dc-95674c60d511/c796f094da28e13604b448350d893707457822fafc3329215efa657549372342.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/af604a68-3e1c-40e5-8fce-7ed343241a9b/36b72f048097b4b6d901902d4bd2a7e8efb9d1ee8eb94719593b054604c55a10.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/87fc410a-3039-4e7b-9351-7817eb9aa971/b7ede302ca510077d39f15284d780a2e3929b1a5ac791dab1b50627982530a3f.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/d2f1a99f-d3c5-4015-aa26-e617b74182e3/7b19b89e89ff02d149114694091dfd6c337bfcba1ec44001f141f4f9aa7707e7.jpeg?auto=format",
+          "https://ph-files.imgix.net/launch-image-uploads/0365939d-098d-442c-b295-c6833b25c832/c17dfc96b8ed08e8656329e52fea2b552a6234b3b0fda484d62b0827054bf96b.jpeg?auto=format",
+          "https://ph-files.imgix.net/mcp-draft-media/852ef24f-e531-4487-adfb-aaffeb538c75.jpeg?auto=format"
+        ],
+        "maker": "[REDACTED]",
+        "makerTitle": "",
+        "featuredAt": "2026-11-18T08:01:00Z",
+        "votes": 336,
+        "websiteUrl": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+        "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "Great product. Congrats on the launch!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Is there a desktop app only, or can I use it from the browser and my phone too?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Congrats! Agents that remember you and live on your own machine feels a lot more trustworthy than another hosted chatbot."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Can I export a room's pages and databases if I decide to move my work elsewhere?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Great idea! Will try within my team!"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "I like that the output lives in the room as a real doc, page or sheet instead of getting buried in a chat scroll. That is where most agent tools lose me."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Which model do the agents run on, and can I switch?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Nice work. Collaboration software never really made room for agents as teammates, and this looks like a real attempt at it."
+          }
+        ]
+      },
+      {
+        "id": "ph-week-10",
+        "date": "2026-11-13",
+        "rank": 10,
         "name": "Filament by Galaxy",
         "slug": "filament-by-galaxy",
         "tagline": "Move data using your terminal or agent. Fast & open source.",
@@ -1729,69 +1796,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats on the launch!I know today is only day 1, but what is your medium to long term vision for filament? (1-3yr)"
-          }
-        ]
-      },
-      {
-        "id": "ph-week-10",
-        "date": "2026-11-18",
-        "rank": 10,
-        "name": "S.Space",
-        "slug": "s-space",
-        "tagline": "Your team and everyone's AI agents, in one workspace",
-        "description": "Everyone on your team has an AI agent, and none of them work together, so you copy, paste and re-explain all day. S.Space is one workspace for your team and everyone's agents. Bring the ones you already use, like Claude Code and Codex, from any vendor. Agents reach out, hand work to each other and bring you finished results, with shared memory so you explain things once. Agents act, you approve what matters. Free to start. Built by the team behind AutoGen.",
-        "category": "Productivity • Developer Tools • Artificial Intelligence",
-        "categoryFa": "بهره‌وری • ابزار توسعه‌دهندگان • هوش مصنوعی",
-        "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "thumbnail": "https://ph-files.imgix.net/2862be57-c51b-45fc-8618-6e62c9ca35cb.jpeg?auto=format",
-        "screenshots": [
-          "https://ph-files.imgix.net/launch-image-uploads/cce1b5a7-16b7-4782-82b8-b8e7da6970b8/f144d846b5ab511a8e073598343a6ea3efa28621e445131e8b0b4b42ea8136a1.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/a7fd6d4f-674c-4565-ab7a-7a261fa4206d/8953997221c919bb6cc215a8a36a0c93140b0dd2246d17b131f47f80bc4df377.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/eb98e265-c614-4790-b069-e7a51cecf3a8/2b5eeaaa3d65f851048bc8d111ff59d912b1666b717a5a4f7eb228aac866102b.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/7729b1f0-6581-4fdf-83dc-95674c60d511/c796f094da28e13604b448350d893707457822fafc3329215efa657549372342.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/af604a68-3e1c-40e5-8fce-7ed343241a9b/36b72f048097b4b6d901902d4bd2a7e8efb9d1ee8eb94719593b054604c55a10.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/87fc410a-3039-4e7b-9351-7817eb9aa971/b7ede302ca510077d39f15284d780a2e3929b1a5ac791dab1b50627982530a3f.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/d2f1a99f-d3c5-4015-aa26-e617b74182e3/7b19b89e89ff02d149114694091dfd6c337bfcba1ec44001f141f4f9aa7707e7.jpeg?auto=format",
-          "https://ph-files.imgix.net/launch-image-uploads/0365939d-098d-442c-b295-c6833b25c832/c17dfc96b8ed08e8656329e52fea2b552a6234b3b0fda484d62b0827054bf96b.jpeg?auto=format",
-          "https://ph-files.imgix.net/mcp-draft-media/852ef24f-e531-4487-adfb-aaffeb538c75.jpeg?auto=format"
-        ],
-        "maker": "[REDACTED]",
-        "makerTitle": "",
-        "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 315,
-        "websiteUrl": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-        "comments": [
-          {
-            "user": "[REDACTED]",
-            "text": "I like that the output lives in the room as a real doc, page or sheet instead of getting buried in a chat scroll. That is where most agent tools lose me."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Which model do the agents run on, and can I switch?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Nice work. Collaboration software never really made room for agents as teammates, and this looks like a real attempt at it."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! Anyone who has juggled a chat app, a docs app and three AI will get why this exists. Once place for all of it makes sense."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congrats on the launch! Re-explaining the same context to three different agents is a real daily pain, and shared memory across vendors is a smart fix. Good luck today! 🚀"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "As a solo dev I'm usually the copy-paste bridge between my own agents, so the shared memory part is what caught me — explaining things once instead of re-briefing every agent. How does the approval step work when one agent hands work to another — do I approve each handoff, or just the finished result? That's the part I'd want to trust before letting agents pass work around on their own."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Watching our agents interact has been fascinating. But mostly I am appreciating that I am not stuck with one agent but each one can talk tot he other and get things done. And knowing my agent is answering my team mates agents in real time allows us to move forward faster and better aligned. Loving it."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "It seems like I can set the history visibility to after invite. Does this also apply to new agents added? How do they get room context if they are added later?"
           }
         ]
       }
@@ -2313,7 +2317,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-17T08:01:00Z",
-        "votes": 444,
+        "votes": 449,
         "websiteUrl": "https://www.producthunt.com/r/ZXC3TLTUHNL3JP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -2375,7 +2379,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-03T08:01:00Z",
-        "votes": 438,
+        "votes": 439,
         "websiteUrl": "https://www.producthunt.com/r/K2KQXD7ILBCL6E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
