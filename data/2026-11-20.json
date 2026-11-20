@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "scrapedAt": "2026-11-20T01:51:40.210Z",
+  "scrapedAt": "2026-11-20T03:40:09.395Z",
   "periods": {
     "today": [
       {
@@ -31,12 +31,20 @@
         "maker": "Mia Wang",
         "makerTitle": "UX Designer",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 285,
+        "votes": 298,
         "websiteUrl": "https://www.producthunt.com/r/7TKIXW445YMK2C?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt 👋I'm Yunhao, co-founder and CEO of TestSprite. More than 150,000 developers have built with TestSprite over the past three years.Your coding agent fixes one thing and breaks another. This year we met team after team that shipped with a coding agent and an AI reviewer while nobody really clicked through the product, and the bugs piled up until they went off together. So we built TestSprite 4.0, a brand-new testing agent that remembers what your app should do and checks all of it, every time.✍️ How it worksTell it what your app should do. Plain words are enough; a PRD, a Jira or Linear ticket, or your repo makes it sharper. When something is unclear, it asks instead of guessing.It explores your running app first. It maps the flows and plans coverage, then writes and runs end-to-end UI and API tests in real browsers, 100+ at once. It signs itself in (one-time codes included) and remembers your app between runs.It tells real bugs from noise. Every failure is sorted into a real bug, a test problem or an environment problem, with what should have happened, what happened, and a recording of each step.It keeps checking every change. Tests you approve become your regression suite. It maintains them as your UI changes, and what a test expects only changes with your approval. Run it from the web app, from your terminal with our open-source CLI (Claude Code, Codex, Cursor or any coding agent can drive it), or on every pull request.📊 The numbers94% bug-finding accuracy on our benchmark, where Claude Code (Opus 5.5) and Codex (GPT-6.1 Sol) score 86%.~100× cheaper. Generating and running 200 UI integration tests costs $4.60 on TestSprite and $428 on GPT-6 Astra, at similar execution accuracy (96.5% vs 95.3%).🐛 What it caught in our own productWe test TestSprite with TestSprite. Before this launch it caught a delete dialog that never said which list it was about to delete, a search that told people \"No test list created\" while they had 11 lists, and a \"Back to Home\" button that sent signed-in users to our marketing site. Of the issues it raised that we've checked, 16 of 19 were important, and the other 3 were minor.🎉 Launch-day offer: sign up today and get your first month of the Starter plan free.What would you want an agent like this to catch before your next release? We're reading every comment today."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Does it run end-to-end tests against local dev servers or only preview URLs on PRs?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Huge congrats on 4.0! Keeping testing up with the speed of AI coding is so needed right now."
           },
           {
             "user": "[REDACTED]",
@@ -57,14 +65,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congratulations on such a great product! Apologies if this is already answered somewhere, but does this test native iOS (SwiftUI) apps, or only on the web? I have had so many flaky tests and bugs that I have wasted hours on, something like this would be very useful. I wonder how it also can tell a deliberate behavior change from a regression? Nice stuff!"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Congratulations for TestSprite 4.0! Coding agents made writing code cheap, but checking it still eats an afternoon and a testing agent in the same loop is the missing half."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "Good to see a tool that treats QA as a partner, not a cost to cut ! :)"
           }
         ]
       },
@@ -92,7 +92,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 249,
+        "votes": 270,
         "websiteUrl": "https://www.producthunt.com/r/CBNSNOACCLEF75?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -152,7 +152,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 237,
+        "votes": 262,
         "websiteUrl": "https://www.producthunt.com/r/VOJHOAWTB6DIXE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -215,7 +215,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 224,
+        "votes": 232,
         "websiteUrl": "https://www.producthunt.com/r/Q2V6HYMV6Q7K4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -279,7 +279,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 201,
+        "votes": 204,
         "websiteUrl": "https://www.producthunt.com/r/32JCPUC6N6DHBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -341,7 +341,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 185,
+        "votes": 187,
         "websiteUrl": "https://www.producthunt.com/r/Z7H2A7X3VNOPOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -401,7 +401,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 182,
+        "votes": 184,
         "websiteUrl": "https://www.producthunt.com/r/UI6BJYW7WUUNYS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -461,12 +461,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 179,
+        "votes": 180,
         "websiteUrl": "https://www.producthunt.com/r/FM63R7JHAJZXNE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "new messaging, new positioning. curious what the community thinks about the new @Tabstack by Mozilla"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "How many credits does a multi-step browser task use out of the 10,000 free credits?"
           },
           {
             "user": "[REDACTED]",
@@ -491,10 +495,6 @@
           {
             "user": "[REDACTED]",
             "text": "Combining live web research, structured extraction, and browser automation in one API is compelling. How does Tabstack handle partial failures in multi-step browser tasks, and can developers resume from the last successful step without repeating earlier actions?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "what happens with pages behind cookie walls or paywalls, does the cited answer just skip them or tell you it couldnt read them? knowing what it didnt see matters as much as the citations tbh"
           }
         ]
       },
@@ -525,7 +525,7 @@
         "maker": "Ragav Sachdeva",
         "makerTitle": "Founder @ Teaflask (YC) | PhD @ Oxford",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 155,
+        "votes": 157,
         "websiteUrl": "https://www.producthunt.com/r/P7M5XVDZPLYNNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -584,12 +584,16 @@
         "maker": "Logan Kilpatrick",
         "makerTitle": "Lead product for Google AI Studio",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 137,
+        "votes": 140,
         "websiteUrl": "https://www.producthunt.com/r/VNQ2C436QNLPO3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi everyone!Is it time to get back to @Google Antigravity?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The frontier reasoning but faster combo is the interesting part for me — most fast models I've tried lose the thread on longer, multi-step agent work, so speed alone hasn't been enough. Curious how Neon actually holds up against Carbon on those longer tool-calling runs, and whether the 1M-token context stays useful in practice or just looks good on paper."
           }
         ]
       }
@@ -621,7 +625,7 @@
         "maker": "Bassil Khilo",
         "makerTitle": "AI Engineer",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 379,
+        "votes": 380,
         "websiteUrl": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1274,7 +1278,7 @@
         "maker": "Julia Yu",
         "makerTitle": "Love Design and Startups 🦄",
         "featuredAt": "2026-11-17T08:01:00Z",
-        "votes": 432,
+        "votes": 433,
         "websiteUrl": "https://www.producthunt.com/r/C7KPFSSB5AHOYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1520,7 +1524,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-18T08:01:00Z",
-        "votes": 379,
+        "votes": 380,
         "websiteUrl": "https://www.producthunt.com/r/3NGQFAYB2FLK2V?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1580,7 +1584,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-14T08:01:00Z",
-        "votes": 347,
+        "votes": 348,
         "websiteUrl": "https://www.producthunt.com/r/WSO7S2YHKPGAXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1858,7 +1862,67 @@
             "user": "[REDACTED]",
             "text": "Just came across Alsona and I really liked the lead scoring feature. Can users customise which buying signals matters the most for their business, if so the how? Btw congrats on your successful launch."
           }
-        ]
+        ],
+        "faDescription": "حدود ۹۵ درصد از مشتریان احتمالی هنگام برقراری ارتباط اولیه، آمادگی لازم برای خرید را ندارند. پلتفرم Alsona دقیقاً شرکت‌هایی را شناسایی می‌کند که در حال حاضر سیگنال‌های تمایل به خرید نشان می‌دهند. این ابزار بیش از ۳۲ سیگنال مختلف از جمله استخدام، جذب سرمایه، تغییرات فناوری، نظرات کاربران و بودجه تبلیغاتی را رصد کرده و شرکت‌ها را بر اساس پروفایل مشتری ایده‌آل (ICP) شما امتیازدهی می‌کند. در نهایت، ایجنت‌های هوش مصنوعی این سیگنال‌ها را به پیام‌های شخصی‌سازی‌شده در لینکدین و ایمیل تبدیل می‌کنند تا پیش از بسته شدن پنجره فرصت، جلسات فروش با ۵ درصد آماده به خرید تنظیم شوند.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام پروداکت هانت! من جکلین، هم‌بنیان‌گذار و مدیرعامل Alsona هستم. Alsona شرکت‌هایی را پیدا می‌کند که همین حالا در بازار به دنبال خرید هستند تا بتوانید پیش از آنکه رقبایتان متوجه شوند، با آن‌ها ارتباط برقرار کنید. ما این ابزار را برای کسانی ساختیم که بازاریابی برون‌گرا را خودشان انجام می‌دهند اما در نهان از آن متنفرند! اگر استراتژی فعلی شما خرید یک لیست مخاطب و امید بستن به این است که کسی در این هفته به شما نیاز داشته باشد، این ابزار مخصوص شماست. یک اعتراف کوچک: تیم ما اولین پلتفرم اتوماسیون لینکدین مبتنی بر ابری را ساخت و در سال ۲۰۲۱ فروخت؛ پس بابت شلوغی اینباکس‌هایتان تا حدی ما مقصریم و عذرخواهی می‌کنیم! ما سال‌ها شاهد تلاش افراد برای اسپم فرستادن جهت ساخت پایپ‌لاین فروش بودیم و پس از تحلیل هزاران کمپین متوجه شدیم که عامل اصلی موفقیت در رزرو جلسه، «نیاز» و «زمان‌بندی دقیق» است. وقتی دوباره دور هم جمع شدیم، می‌دانستیم این همان مسئله‌ای است که این بار باید حلش کنیم. نحوه کار به این صورت است: وب‌سایت خود را وارد کنید؛ Alsona آن را می‌خواند و در حدود ۳۰ ثانیه ICP و پیام فروش شما را می‌سازد. سیگنال‌های نیتی که برایتان مهم است را انتخاب کنید (بیش از ۳۲ منبع در ۹ دسته‌بندی مانند استخدام، جذب سرمایه، تغییرات فناوری، فعالیت در شبکه‌های اجتماعی و هزینه تبلیغات). Alsona همه‌چیز را زیر نظر می‌گیرد و به محض فعال شدن سیگنال، شرکت‌ها را بر اساس ICP شما امتیازدهی و دلایل آن را ارائه می‌کند. لیست حاصل را وارد استک خود کنید یا ایجنت هوش مصنوعی را فعال کنید تا پیام‌ها را بنویسد و ارسال کند و حتی با لحن خودتان جلسه تنظیم کند. چرا این موضوع مهم است؟ پنجره خرید خیلی سریع و معمولاً طی چند روز بسته می‌شود. ابزارهای ما همچنین سیگنال‌هایی را جمع‌آوری می‌کنند که بقیه نادیده می‌گیرند مانند آگهی‌های مناقصه، تغییرات سایت و ذکر نام در پادکست‌ها. پیشنهاد زمان عرضه: ۳۰ درصد تخفیف برای ۳ ماه با کد PH۳۰FOR۳. تمام روز در بخش نظرات پاسخگوی شما هستم!"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "من از عملکرد این شرکت بسیار راضی هستم."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "انتشار محصول جدید را تبریک می‌گویم! من در زمینه لیدسازی شرکت‌های SaaS فعال هستم و پیدا کردن مخاطبان مناسب در زمان درست همیشه یک چالش است. علاقه‌مند شدم که چگونه Alsona از سیگنال‌های خرید برای شناسایی مشتریان بالقوه استفاده می‌کند. این سیستم چگونه لیدهایی را که از چند منبع مختلف ابراز علاقه می‌کنند مدیریت می‌کند؟ آیا این امر باعث افزایش امتیاز تمایل خرید آن‌ها می‌شود؟"
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "بخش تشخیص سیگنال بسیار جذاب است، به خصوص زمانی که داده‌ها را از منابع متعدد استخراج می‌کنید. Alsona چگونه سیگنال‌های قدیمی یا متناقض را مدیریت می‌کند؟ به عنوان مثال، اگر یک شرکت فعالیت‌های استخدامی زیادی داشته باشد اما تمایل واقعی برای خرید نداشته باشد، سیستم چگونه تفاوت آن‌ها را تشخیص می‌دهد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "تفاوت نرخ پاسخ‌دهی بین لیست‌های سرد و پیام‌رسانی مبتنی بر سیگنال خرید واقعاً جالب بود. آیا بررسی کرده‌اید که چه میزان از این بهبود ناشی از هدف‌گیری دقیق‌تر است و چه میزان مربوط به شخصی‌سازی پیام؟ دیدن جداگانه این نتایج می‌تواند بسیار جذاب باشد."
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "رویکرد Alsona در فروش برون‌گرا را دوست دارم! Alsona چند وقت یک‌بار سیگنال‌های خرید خود را به‌روزرسانی می‌کند تا مطمئن شود لیدها همچنان مرتبط و معتبر هستند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "تمرکز شما روی سیگنال‌های خرید به جای ساخت لیست‌های بزرگتر لید عالی است. Alsona با چه دقتی سیگنال‌های تمایل خرید را از کامنت‌های لینکدین و پادکست‌ها شناسایی می‌کند؟"
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "تازه با Alsona آشنا شدم و ویژگی امتیازدهی به لیدها را بسیار دوست داشتم. آیا کاربران می‌توانند اولویت سیگنال‌های خرید مهم برای کسب‌وکار خود را سفارشی‌سازی کنند و اگر بله، چگونه؟ ضمناً موفقیت در عرضه محصول را تبریک می‌گویم."
+          }
+        ],
+        "aiReview": "**مسئله و راه‌حل:**\nاکثر شرکت‌ها در بازاریابی برون‌گرا (Outbound) وقت خود را روی لیست‌های انبوهی تلف می‌کنند که ۹۵٪ آن‌ها در آن لحظه نیازی به خرید ندارند. Alsona با پایش لحظه‌ای بیش از ۳۲ سیگنال عملیاتی (استخدام، جذب سرمایه، تغییرات تکنولوژی و...) دقیقاً ۵ درصدی را که آماده خرید هستند هدف گرفته و با ایجنت‌های هوش مصنوعی جلسه فروش رزرو می‌کند.\n\n**معماری و تکنولوژی:**\nاستفاده از ایجنت‌های هوشمند AI برای متن‌نویسی و پیگیری، سیستم‌های Crawler برای استخراج سیگنال از پادکست‌ها، اخبار و شبکه‌های اجتماعی، و استفاده از معماری API و MCP جهت یکپارچه‌سازی با ابزارهای مدیریت ارتباط با مشتری (CRM).\n\n**مدل درآمدی:**\nحق اشتراک ماهانه/سالانه SaaS، به همراه ارائه اکانت‌های White-Label و دسترسی API برای آژانس‌های مارکتینگ و توسعه‌دهندگان.\n\n**نقاط قوت:**\nتمرکز بر «زمان‌بندی» (Timing) به جای «حجم لید»، رصد سیگنال‌های نایاب (مانند آگهی مناقصات و تغییرات سایت)، و تجربه قبلی بنیان‌گذاران در ساخت و فروش موفق پلتفرم اتوماسیون لینکدین.\n\n**نقاط ضعف:**\nچالش در تفکیک سیگنال‌های کاذب یا قدیمی از تمایل واقعی خرید، و ریسک مسدودی اکانت‌های کاربر در پلتفرم‌های سوم‌شخص مثل لینکدین.\n\n**نکته طلایی برای ایران:**\nدر ایران به دلیل نبود کرانچ‌بیس یا دیتابیس‌های آماده، ترکیب داده‌های سامانه مناقصات کشور، آگهی‌های جابینجا/ایران‌استخدام و تغییرات روزنامه رسمی، سیگنال‌های بی‌نظیری برای فروش B۲B ایجاد می‌کند که هنوز هیچ ابزاری آن را تجاری‌سازی نکرده است.",
+        "iranEquivalent": {
+          "productName": "سیگنال‌جو (SignalJoo)",
+          "description": "سیگنال‌جو یک بستر هوشمند شناسایی مشتریان سازمانی آماده خرید در بازار ایران است. این پلتفرم با رصد مناقصات رسمی، آگهی‌های استخدامی، تغییرات روزنامه رسمی و بودجه‌های تبلیغاتی، شرکت‌های نیازمند خدمات B۲B را شناسایی می‌کند. در نهایت با کمک ایجنت‌های هوشمند، پیام‌های شخصی‌سازی‌شده برای تصمیم‌گیرندگان ارسال کرده و فرایند رزرو جلسات فروش را تسهیل می‌نماید.",
+          "marketOpportunity": "بازار فروش B۲B در ایران به دلیل اتلاف منابع روی لیست‌های سرد و اتکای محض به بازاریابی سنتی، تشنه ابزارهای هوشمند زمان‌بندی فروش است. شناسایی لحظه‌ای نیاز شرکت‌ها می‌تواند نرخ تبدیل کمپین‌های برون‌گرا را در ایران به شدت افزایش دهد.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "تیم‌های فروش B۲B، شرکت‌های نرم‌افزاری و SaaS، آژانس‌های دیجیتال مارکتینگ و شرکتهای مشاوره‌ای در ایران",
+          "challenges": [
+            "عدم وجود دیتابیس یکپارچه و ساختاریافته از اطلاعات شرکت‌های ایرانی",
+            "محدودیت‌های زیرساختی و فیلترینگ در شبکه لینکدین و ابزارهای ایمیل مارکتینگ"
+          ],
+          "monetization": [
+            "فروش اشتراک ماهانه و سالانه (SaaS)",
+            "مدل قیمت‌گذاری مبتنی بر تعداد جلسات موفق رزرو شده (Pay-per-booked-call)"
+          ],
+          "techStack": [
+            "Next.js",
+            "Python",
+            "PostgreSQL",
+            "Redis",
+            "OpenAI API",
+            "Celery"
+          ],
+          "confidence": 80
+        }
       },
       {
         "id": "ph-month-2",
@@ -2285,7 +2349,66 @@
             "user": "[REDACTED]",
             "text": "Product Hunt helping you prepare for your Product Hunt launch. Very meta 😂 Love the idea of catching missing details before hitting submit."
           }
-        ]
+        ],
+        "faDescription": "از دستیار هوش مصنوعی خود بخواهید تا محصول محبوب بعدی شما را پیدا کند. جدیدترین محصولات عرضه شده را کاوش کنید، ابزارهای جایگزین را مقایسه نمایید و نظر جامعه کاربران پروداکت هانت را مشاهده کنید. آیا خودتان در حال ساخت محصولی هستید؟ فایل README و وب‌سایت خود را به یک پیش‌نویس انتشار تبدیل کنید، تصاویر لازم را بیفزایید و قبل از ارسال نهایی، نواقص را بررسی کنید. برای اتصال کافی است با حساب پروداکت هانت خود وارد شوید و به هیچ کلید API نیازی ندارید.",
+        "faComments": [
+          {
+            "user": "کاربر ProductHunt 1",
+            "text": "سلام همگی، شما همین حالا هم از دستیار هوش مصنوعی خود می‌پرسید از چه ابزارهایی استفاده کنید؛ حالا هوش مصنوعی می‌تواند با استفاده از داده‌های پروداکت هانت این تحقیقات را انجام دهد. نیاز خود را توصیف کنید، جایگزین‌ها را مقایسه نمایید و ببینید مردم چه چیزی را دوست دارند یا ندارند. نظرات جامعه، امتیازها و جزییات سازندگان اطلاعات بسیار بیشتری نسبت به یک توصیف ساده ارائه می‌دهند. امتحان کنید: ابزارهایی برای تبدیل یادداشت‌های جلسه به وظایف پیدا کن؛ جایگزین‌های نوشن را پیدا کرده و نظرات پروداکت هانت آن‌ها را مقایسه کن؛ برترین محصولات ماه گذشته پروداکت هانت چه بودند؟ محصولی ساخته‌اید؟ از دستیار خود بخواهید بر اساس README و وب‌سایت شما یک پیش‌نویس بنویسد. این ابزار به متن‌ها، تصاویر و جزییات جامانده کمک می‌کند تا بهترین نسخه انتشار را بسازید. ما می‌خواهیم پروداکت هانت هر کجا که محصولی را کشف می‌کنید مفید باشد و به اشتراک‌گذاری ساخته‌هایتان نیز ساده گردد. راهنمای نصب اینجاست، امتحان کنید و بازخورد دهید. (پ.ن: می‌توانید بدون خروج از چت و با ابزار submit_feedback بازخورد بفرستید!)"
+          },
+          {
+            "user": "کاربر ProductHunt 2",
+            "text": "امروز از این ابزار برای آماده‌سازی انتشار مجدد از طریق Claude Code استفاده کردم و بسیار روان‌تر از حد انتظاراتم پیش رفت. پیش‌نویس را نوشت، گالری تصاویر را آپلود کرد و آن را برای هفته آینده زمان‌بندی نمود. دو مشکلی که برخوردم: دسته‌بندی‌هایی که انتخاب کردم روی محصول قبلی‌ام اعمال نشد و صفحه هنوز دسته‌بندی سال ۲۰۲۳ را نشان می‌دهد؛ آیا راهی برای اصلاح دسته‌بندی قدیمی هست؟ همچنین نتوانستم از داخل آن در انجمن‌ها تاپیک بزنم یا پاسخ دهم، در حالی که نصف فرآیند آماده‌سازی انتشار آنجا می‌گذرد."
+          },
+          {
+            "user": "کاربر ProductHunt 3",
+            "text": "تبریک برای کسب رتبه اول! ابزار submit_feedback واقعاً ایده و ویژگی فوق‌العاده‌ای است."
+          },
+          {
+            "user": "کاربر ProductHunt 4",
+            "text": "انتشار محصول جدید مبارک! 🎉 کل صبح داشتم با آن در Claude Code کار می‌کردم و فوق‌العاده روان است، بدون هیچ دردسر راه‌اندازی. یک نکته: get_leaderboard و search_launches نتایج را به ۸ مورد بدون صفحه‌بندی محدود می‌کنند. آیا برنامه‌ای برای افزودن offset یا cursor دارید تا بتوانیم به مواردی فراتر از ۸ تای برتر روز دسترسی داشته باشیم؟"
+          },
+          {
+            "user": "کاربر ProductHunt 5",
+            "text": "از آنجایی که برای هر کار چند ابزار وجود دارد، پروداکت هانت چگونه تصمیم می‌گیرد کدام ابزار برای من بهترین است و معیار این انتخاب چیست؟"
+          },
+          {
+            "user": "کاربر ProductHunt 6",
+            "text": "عالی است که دسترسی به داده‌های پروداکت هانت از داخل دستیار ممکن شده است. حالا که می‌تواند README را به پیش‌نویس تبدیل کند، آیا پاسخ به نظرات روی محصول خودمان هم در نقشه راه وجود دارد؟"
+          },
+          {
+            "user": "کاربر ProductHunt 7",
+            "text": "بالاخره! همین دیروز داشتم دنبال چنین چیزی می‌گشتم."
+          },
+          {
+            "user": "کاربر ProductHunt 8",
+            "text": "پروداکت هانت به شما کمک می‌کند برای انتشار در پروداکت هانت آماده شوید؛ خیلی جالب و خودارجاع است! 😂 ایده پیدا کردن جزییات جامانده قبل از زدن دکمه ارسال را دوست دارم."
+          }
+        ],
+        "aiReview": "مسئله و راه‌حل: کاربران برای کشف ابزارهای جدید معمولاً از دستیار هوش مصنوعی سوال می‌پرسند، اما هوش مصنوعی به داده‌های به‌روز و نظرات واقعی جامعه کاربران دسترسی ندارد. Product Hunt MCP با استفاده از پروتکل MCP، داده‌های زنده، نظرات و بنچمارک‌های پروداکت هانت را مستقیماً وارد محیط چت دستیارهایی مثل Claude می‌کند. همچنین با تحلیل README و وب‌سایت، ساخت پیش‌نویس لانچ محصول را خودکار می‌سازد.\n\nمعماری و تکنولوژی: این ابزار بر پایه Model Context Protocol (MCP) توسعه یافته که نقش واسط میان مدل‌های زبانی (LLM) و APIهای پروداکت هانت را ایفا می‌کند. احراز هویت آن بدون نیاز به API Key و از طریق ورود مستقیم با حساب پروداکت هانت انجام می‌شود و توابع اکستنشن مانند search_launches و submit_feedback را به هوش مصنوعی تزریق می‌کند.\n\nمدل درآمدی: این سرویس به عنوان ابزار مکمل مکمل برای پلتفرم اصلی پروداکت هانت عمل می‌کند تا نرخ تعامل (Engagement) و تعداد لانچ‌های باکیفیت را افزایش دهد و ارزش کل شبکه را بالا ببرد.\n\nنقاط قوت: عدم نیاز به API Key و نصب بسیار آسان، فرآیند روان آماده‌سازی لانچ بر پایه README، و ابزار خلاقانه ثبت بازخورد از داخل محیط چت.\n\nنقاط ضعف: محدودیت نتایج جستجو به ۸ مورد و عدم پشتیبانی فعلی از Pagination، و همچنین عدم امکان تعامل کامل با فروم‌ها و ارسال نظر مستقیم از داخل چت.\n\nنکته طلایی برای ایران: ساخت یک MCP Server برای دیتابیس‌های بومی (مانند کافه‌بازار، بازارچه‌های SaaS یا راست‌چین) به برنامه‌نویسان ایرانی اجازه می‌دهد بدون خروج از محیط توسعه (مثل VS Code یا Claude Code)، ابزارهای ایرانی را کشف کرده یا مستندات فنی خود را خودکار به صفحات معرفی محصول تبدیل کنند.",
+        "iranEquivalent": {
+          "productName": "پروداکت MCP ایرانی (دستیار هوش مصنوعی کشف و انتشار محصول)",
+          "description": "این سرویس بسترهای بومی معرفی محصول مانند راست‌چین، ژاکت یا دایرکتوری‌های استارتاپی ایران را به دستیارهای هوش مصنوعی متصل می‌کند. کاربران و توسعه‌دهندگان ایرانی می‌توانند ابزارهای بومی را از طریق چت هوش مصنوعی جستجو، مقایسه و ارزیابی کنند. همچنین سازندگان نرم‌افزار می‌توانند فایل README پروژه خود را به فرم‌های ثبت محصول بومی تبدیل کرده و نواقص آن را برطرف سازند.",
+          "marketOpportunity": "با رشد چشمگیر استفاده از کلود (Claude) و IDEهای مبتنی بر هوش مصنوعی در میان برنامه‌نویسان ایرانی، نیاز مبرمی به اتصال ابزارهای بومی به پروتکل MCP وجود دارد. ایجاد دیتابیس متمرکز و هوشمند از محصولات نرم‌افزاری ایرانی، فرصت بکری برای بنچمارک و معرفی ابزارهای بومی ایجاد می‌کند.",
+          "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+          "targetAudience": "برنامه‌نویسان، مدیران محصول، بنیان‌گذاران استارتاپ‌ها و تمام کاربران حرفه‌ای نرم‌افزار در ایران.",
+          "challenges": [
+            "عدم وجود یک دیتابیس یکپارچه، به‌روز و ساختاریافته از محصولات نرم‌افزاری و استارتاپ‌های ایرانی",
+            "محدودیت‌های دسترسی مستقیم دستیارهای بین‌المللی هوش مصنوعی به سرویس‌ها و زیرساخت‌های بومی"
+          ],
+          "monetization": [
+            "ارائه اشتراک ویژه به شرکت‌ها برای آنالیز هوشمند بازخوردهای مشتریان و بنچمارک رقبا",
+            "دریافت کارمزد تبلیغات و پروموشن ویژه محصولات SaaS بومی در پاسخ‌های دستیار هوش مصنوعی"
+          ],
+          "techStack": [
+            "TypeScript",
+            "Model Context Protocol (MCP)",
+            "Node.js",
+            "PostgreSQL",
+            "Vector Database (Qdrant)"
+          ],
+          "confidence": 85
+        }
       },
       {
         "id": "ph-month-9",
@@ -2372,7 +2495,7 @@
         "maker": "Julia Yu",
         "makerTitle": "Love Design and Startups 🦄",
         "featuredAt": "2026-11-17T08:01:00Z",
-        "votes": 432,
+        "votes": 433,
         "websiteUrl": "https://www.producthunt.com/r/C7KPFSSB5AHOYX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
