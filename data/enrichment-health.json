@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-11-20T03:46:41.984Z",
-  "latestDataset": "2026-11-20.json",
+  "checkedAt": "2026-11-21T03:29:43.599Z",
+  "latestDataset": "2026-11-21.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 180,
-  "backlogAfter": 171,
-  "completedProducts": 865,
-  "missingFaDescription": 104,
-  "missingFaComments": 135,
-  "missingAiReview": 143,
-  "missingIranEquivalent": 106,
-  "failures": [
-    {
-      "slug": "protomap",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your pro"
-    }
-  ]
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 182,
+  "backlogAfter": 172,
+  "completedProducts": 875,
+  "missingFaDescription": 105,
+  "missingFaComments": 136,
+  "missingAiReview": 144,
+  "missingIranEquivalent": 107,
+  "failures": []
 }
