@@ -1,21 +1,16 @@
 {
-  "checkedAt": "2026-11-24T06:21:02.669Z",
-  "latestDataset": "2026-11-24.json",
+  "checkedAt": "2026-11-25T05:05:58.440Z",
+  "latestDataset": "2026-11-25.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 9,
-  "failed": 1,
-  "backlogBefore": 182,
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 187,
   "backlogAfter": 177,
-  "completedProducts": 900,
+  "completedProducts": 910,
   "missingFaDescription": 106,
   "missingFaComments": 137,
   "missingAiReview": 149,
   "missingIranEquivalent": 109,
-  "failures": [
-    {
-      "slug": "paxper",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    }
-  ]
+  "failures": []
 }

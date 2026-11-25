@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "scrapedAt": "2026-11-25T03:41:16.630Z",
+  "scrapedAt": "2026-11-25T04:59:22.190Z",
   "periods": {
     "today": [
       {
@@ -30,7 +30,7 @@
         "maker": "fmerian",
         "makerTitle": "hunting devtools - kilo.ai, mastra.ai",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 256,
+        "votes": 266,
         "websiteUrl": "https://www.producthunt.com/r/FLP2CUVR6YHJZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -93,7 +93,7 @@
         "maker": "Omar Farook",
         "makerTitle": "CEO, Founder @ Glorify & Blitzit",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 200,
+        "votes": 205,
         "websiteUrl": "https://www.producthunt.com/r/WWPJRVRNRSEYXS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -156,7 +156,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:00:00Z",
-        "votes": 168,
+        "votes": 172,
         "websiteUrl": "https://www.producthunt.com/r/Y4C2MX2E5DS3E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -209,12 +209,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 166,
+        "votes": 169,
         "websiteUrl": "https://www.producthunt.com/r/PN7G3CJSNEP2H7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hi everyone 👋Coding agents know your repo. Viktor knows your company: your customers, your metrics and the decisions behind the work. Today he writes the code too.Give him a business outcome and he splits it up. The migration and the pricing page. The pull request and the note to customers. Anything that needs your call comes back to you.How it works1. Connect your repo: GitHub, GitLab or Bitbucket2. Connect Slack, Teams or Discord, plus support, analytics and billing (what he can't see, he has to guess)3. Ask in a thread or in the app. He opens the PR and brings it back for your review4. The project belongs to the team. Anyone can see what's being built and why, and pick it upWe ran it on ourselves first. One of our engineers gave him real work: 228 PRs merged from 2h10m of coding, over two days. Our hiring, people and sales systems are built on Viktor too, and he keeps them running.Fair warning: he's made for work that takes hours or days. For a quick edit he'll feel slow, so give him the big thing.Free to start, with up to $100 in credits: https://viktor.com/codeWhat's the first goal you'd hand him?#everyoneships"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "can i see how he split the goal up before any PR gets opened?"
           },
           {
             "user": "[REDACTED]",
@@ -239,10 +243,6 @@
           {
             "user": "[REDACTED]",
             "text": "How do teams decide which repos Viktor can open PRs on at first? Pulling company context from Slack into the coding agent saves a lot of re-explaining."
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "how does he know what is my call and what isnt? do you set that per type of work or he learns it?"
           }
         ]
       },
@@ -268,12 +268,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 143,
+        "votes": 147,
         "websiteUrl": "https://www.producthunt.com/r/5EBF7WFUTOT75F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey Product Hunt! 👋 Back again after launching Zoona AI in June, this time bringing phone calls into SparrowDesk.Support teams that take calls almost always run them on a separate phone system.Calls live in one tool, tickets in another, and the history gets lost somewhere in between.Agents switch tabs all day, and nobody has the full picture.So we brought voice into SparrowDesk.Calls now land in the same inbox as email, chat and WhatsApp. One place for every conversation, no matter how the customer reaches out.What makes SparrowDesk Phone Calls different:📞 A number in minutesBuy local, toll-free or mobile numbers in 51 countries, right inside SparrowDesk. No telephony provider to sign up with. Already have a number? Port it over.🔀 IVR flows on a visual canvasBuild call routing with keypad menus, business hours, queues and team routing. Add an AI agent step to talk to callers first and transfer them when needed. Callers can choose from 12 languages.💻 Calls straight from the browserAgents make and take calls in the SparrowDesk web app. No desk phone, nothing to install. Mute, hold, add a teammate or transfer, all from one softphone.📝 Every call becomes a conversationRecording and transcript attached, with the same assignment, tags and automations as any other channel. Supervisors can listen in, whisper to agents or barge into live calls.💳 Pay only for what you useNo per-seat voice fee. Calls are paid from a prepaid Voice Wallet, and number rental is charged at the carrier’s price with no markup.🎁 Launch offer: 30% off annual plans with code BFSD30, until 29 Nov.We built this for teams that want phone support without running a separate phone system. We’d love your honest feedback, the good and the brutal.If your team takes support calls today, what do you use, and what’s most annoying about it?"
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "Phone support living in the same inbox as email and chat is a bigger deal than it sounds — as a solo dev, the worst part of a support call is losing the thread afterwards. Having the call, the AI summary, and the transcript sit right next to the email history for that person means I don't have to reconstruct what was promised. Curious how it handles a caller who already emailed in — does the agent see that history before picking up?"
           },
           {
             "user": "[REDACTED]",
@@ -298,10 +302,6 @@
           {
             "user": "[REDACTED]",
             "text": "Congrats @georgejustin22 Quick Question: Does the AI agent see a caller's past tickets before it picks up or only the human after the transfer?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "congrats on the launch justin. most teams i worked with take calls on someones personal phone and then write a short note in slack, if they remember. so whoever picks the ticket next knows nothing about the call. transcript in the same thread as the email is the part i like most )"
           }
         ]
       },
@@ -331,7 +331,7 @@
         "maker": "Addy Osmani",
         "makerTitle": "Director, Google Cloud - Gemini + Vertex",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 137,
+        "votes": 138,
         "websiteUrl": "https://www.producthunt.com/r/3ENQV4OYKF2LDA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -370,12 +370,16 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 132,
+        "votes": 133,
         "websiteUrl": "https://www.producthunt.com/r/WXNOFU2KUUJDSV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
             "user": "[REDACTED]",
             "text": "Hey PH, Maggie here 👋I work at Swat.io, and at first we just wanted to cut our internal costs for link shortening. But then I looked at our own link in bio, and things took a turn.I found 49 buttons, some in English, some in German, and links going back to 2024. The thing is, almost every brand on social media has a link in bio, but almost nobody looks after it.So we built frwrd.to: a link in bio your AI assistant looks after for you. It works with Claude on every plan, and with ChatGPT, Perplexity and Gemini on plans that can add connectors.Ask it to remove links older than 2025, put the most-clicked buttons on top, or have your page in another language. It can also move you off Linktree in one prompt. And you can still edit anything by hand if you want.What I also love are campaigns. Set the dates once, and your buttons show up just for that period, then disappear without you having to lift a finger.It’s free to start, and the Business plan is 5 EUR a month.I’d love to hear what your link in bio looks like today, and what you’d ask your assistant to change first."
+          },
+          {
+            "user": "[REDACTED]",
+            "text": "The part that clicked for me is asking the assistant to sort by clicks and prune the dead links — my own link page turns into a graveyard of old launch links, and I never get around to cleaning it by hand. Having it work through the MCP in Claude instead of me editing buttons one by one feels like the right job for an AI assistant. Congrats on the launch!"
           },
           {
             "user": "[REDACTED]",
@@ -493,7 +497,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:01:00Z",
-        "votes": 116,
+        "votes": 118,
         "websiteUrl": "https://www.producthunt.com/r/XR4BWOLUZFCM5O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -544,7 +548,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:00:00Z",
-        "votes": 112,
+        "votes": 113,
         "websiteUrl": "https://www.producthunt.com/r/BRD7ISDGYKEIV4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -608,9 +612,13 @@
         "maker": "Mathew Pregasen",
         "makerTitle": "Founder of the Letter Company",
         "featuredAt": "2026-11-23T08:01:00Z",
-        "votes": 406,
+        "votes": 408,
         "websiteUrl": "https://www.producthunt.com/r/D6BRBNLRH7WD47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "This will help many businesses follow up properly on warm leads. As a CSM, I have observed that many drop offs start during onboarding. If customers are stuck during onboarding,they won't adopt the product, they won't even get to experience the value of the product. So, they churn even before they become real business. But this software will definitely make a difference. Serving as an eye to help know where visitors are stuck. But one question though? Won't this be like spying on visitors?"
+          },
           {
             "user": "[REDACTED]",
             "text": "does the session replay run off the same snippet as the visitor id, or is it a separate install?"
@@ -638,10 +646,6 @@
           {
             "user": "[REDACTED]",
             "text": "It is very interisting for B2B company. My question is how company suppose to use AI agent? For AIO/LLMO purposes?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The AI agents bit is what caught my eye — most analytics lumps bots and real visitors together, so seeing agents reading my pages separately would actually tell me something useful. As a solo dev I rarely open another dashboard, so showing visitors right on my own site makes sense to me. Curious how you tell an agent browsing for a real buyer apart from a plain scraper, though — that distinction seems like the whole thing."
           }
         ]
       },
@@ -918,7 +922,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-24T08:00:00Z",
-        "votes": 168,
+        "votes": 172,
         "websiteUrl": "https://www.producthunt.com/r/Y4C2MX2E5DS3E5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1014,7 +1018,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-23T08:00:00Z",
-        "votes": 138,
+        "votes": 139,
         "websiteUrl": "https://www.producthunt.com/r/32EVX2QO6UY7TY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
@@ -1190,9 +1194,13 @@
         "maker": "Mathew Pregasen",
         "makerTitle": "Founder of the Letter Company",
         "featuredAt": "2026-11-23T08:01:00Z",
-        "votes": 406,
+        "votes": 408,
         "websiteUrl": "https://www.producthunt.com/r/D6BRBNLRH7WD47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
+          {
+            "user": "[REDACTED]",
+            "text": "This will help many businesses follow up properly on warm leads. As a CSM, I have observed that many drop offs start during onboarding. If customers are stuck during onboarding,they won't adopt the product, they won't even get to experience the value of the product. So, they churn even before they become real business. But this software will definitely make a difference. Serving as an eye to help know where visitors are stuck. But one question though? Won't this be like spying on visitors?"
+          },
           {
             "user": "[REDACTED]",
             "text": "does the session replay run off the same snippet as the visitor id, or is it a separate install?"
@@ -1220,10 +1228,6 @@
           {
             "user": "[REDACTED]",
             "text": "It is very interisting for B2B company. My question is how company suppose to use AI agent? For AIO/LLMO purposes?"
-          },
-          {
-            "user": "[REDACTED]",
-            "text": "The AI agents bit is what caught my eye — most analytics lumps bots and real visitors together, so seeing agents reading my pages separately would actually tell me something useful. As a solo dev I rarely open another dashboard, so showing visitors right on my own site makes sense to me. Curious how you tell an agent browsing for a real buyer apart from a plain scraper, though — that distinction seems like the whole thing."
           }
         ]
       },
@@ -1622,7 +1626,7 @@
         "maker": "[REDACTED]",
         "makerTitle": "",
         "featuredAt": "2026-11-19T08:01:00Z",
-        "votes": 332,
+        "votes": 333,
         "websiteUrl": "https://www.producthunt.com/r/CBNSNOACCLEF75?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
         "comments": [
           {
