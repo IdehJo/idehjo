@@ -1,16 +1,21 @@
 {
-  "checkedAt": "2026-11-25T05:05:58.440Z",
-  "latestDataset": "2026-11-25.json",
+  "checkedAt": "2026-11-26T04:26:11.071Z",
+  "latestDataset": "2026-11-26.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 10,
-  "failed": 0,
+  "succeeded": 9,
+  "failed": 1,
   "backlogBefore": 187,
-  "backlogAfter": 177,
-  "completedProducts": 910,
-  "missingFaDescription": 106,
-  "missingFaComments": 137,
-  "missingAiReview": 149,
-  "missingIranEquivalent": 109,
-  "failures": []
+  "backlogAfter": 178,
+  "completedProducts": 919,
+  "missingFaDescription": 107,
+  "missingFaComments": 138,
+  "missingAiReview": 150,
+  "missingIranEquivalent": 110,
+  "failures": [
+    {
+      "slug": "tulvo",
+      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
+    }
+  ]
 }
