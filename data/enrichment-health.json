@@ -1,25 +1,16 @@
 {
-  "checkedAt": "2026-11-27T04:34:12.527Z",
-  "latestDataset": "2026-11-27.json",
+  "checkedAt": "2026-11-28T04:15:03.231Z",
+  "latestDataset": "2026-11-28.json",
   "batchLimit": 10,
   "attempted": 10,
-  "succeeded": 8,
-  "failed": 2,
-  "backlogBefore": 188,
-  "backlogAfter": 180,
-  "completedProducts": 927,
+  "succeeded": 10,
+  "failed": 0,
+  "backlogBefore": 190,
+  "backlogAfter": 182,
+  "completedProducts": 935,
   "missingFaDescription": 109,
-  "missingFaComments": 140,
-  "missingAiReview": 152,
+  "missingFaComments": 141,
+  "missingAiReview": 153,
   "missingIranEquivalent": 112,
-  "failures": [
-    {
-      "slug": "twobucket",
-      "reason": "AI failed: gemini: Gemini gemini-3.6-flash: HTTP 503 | {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAI"
-    },
-    {
-      "slug": "readywhen-4",
-      "reason": "AI failed: gemini: The operation was aborted. | groq: Groq exhausted failover pool: qwen/qwen3.8-27b: unavailable | openai/gpt-oss-20b: Groq openai/gpt-oss-20b: HTTP 400 | {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your pro"
-    }
-  ]
+  "failures": []
 }

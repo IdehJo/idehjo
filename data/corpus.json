@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:54:01.313Z",
+  "generatedAt": "2026-11-28T04:15:03.184Z",
   "sourceFiles": 110,
   "products": [
     {
@@ -8805,7 +8805,35 @@
           "user": "[REDACTED]",
           "text": "How does this work with agents? Do you give them a card and they just go crazy"
         }
-      ]
+      ],
+      "faDescription": "RankSpot لایه‌ای است که به صورت Pay‑as‑you‑go، اجرای SEO و جستجوی هوش مصنوعی را برای نمایندگان (agents) فراهم می‌کند. با اتصال سریع به Claude یا ChatGPT در دو دقیقه، نماینده شما می‌تواند مقالاتی را بر اساس بهترین نتایج گوگل در بیش از ۱۰۰ زبان بنویسد، منتشر کند و سایت‌های رتبه‌بندی‌کننده را از طریق ایمیل خود برای بک‌لینک‌ها درخواست کند. این سرویس بدون اشتراک است و هزینهٔ هر مقاله ۳ دلار، هر بررسی پرامپت ۰.۰۰۴ دلار و هر پچ ۰.۰۹ دلار می‌باشد. با اعتبار اولیه ۱ دلار و یک مقاله رایگان، می‌توانید کیفیت را تجربه کنید و سپس بر اساس بودجهٔ خود، کارها را زمان‌بندی و محدود کنید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من دان، هم‌بنیان‌گذار RankSpot هستم. در آخرین راه‌اندازی، RankSpot فقط محتوا را به صورت خودکار تولید می‌کرد. از آن زمان بیش از ۱۰۰۰ مشتری را جذب کرده‌ایم و بازخورد آن‌ها محصول را بهبود بخشیده است. بنابراین هدف ما ساخت چیزی بود که هیچ ابزار SEO دیگری نتواند انجام دهد و بر این نکات تمرکز کردیم: ۱️⃣ اجرا → اکثر ابزارهای SEO فقط داده را نمایش می‌دهند. RankSpot گوگل را می‌خواند، ۵ صفحه برتر را می‌بیند و صفحه‌ای می‌نویسد که آن‌ها را پشت سر بگذارد، در بیش از ۱۰۰ زبان، سپس آن را منتشر و ایندکس می‌کند. همچنین ویرایشگرهای صفحات در حال رده‌بندی را پیدا می‌کند و از طریق ایمیل خودتان به آن‌ها درخواست می‌دهد، سپس هر لینک و رتبه دامنهٔ شما را پیگیری می‌کند. ۲️⃣ اولویت نماینده → ما زیرساخت را اجرا می‌کنیم: رده‌بندی و پیگیری پاسخ هوش مصنوعی، سهم صدا رقبا، نوشتن، انتشار، پیدا کردن ایمیل و ارتباط برای بک‌لینک. شما همهٔ این‌ها را از طریق Claude یا ChatGPT از طریق MCP کنترل می‌کنید. راه‌اندازی ۲ دقیقه طول می‌کشد، بدون کلید API. بپرسید \"کجا در گوگل و جستجوی هوش مصنوعی کمبود داریم؟\" و نمایندهٔ شما شکاف‌ها را کشف کرده و بر روی رفع آن‌ها کار می‌کند. ۳️⃣ پرداخت به صورت مصرف → بدون اشتراک. قیمت خروجی به ازای هر مقاله ۳ دلار، هر بررسی پرامپت ۰.۰۰۴ دلار، هر پچ ۰.۰۹ دلار و خواندن دادهٔ شما رایگان است. با ۱ دلار اعتبار (۲۵۰ بررسی پرامپت) و یک مقاله رایگان شروع کنید تا کیفیت را ببینید. حد مصرف را تعیین کنید و وظایف را زمان‌بندی کنید. ۴️⃣ همه چیز در یک سقف → آژانس‌ها و افرادی که چند کسب‌وکار دارند، تمام مشتریان خود را در یک چت نگه می‌دارند. بنویسید \"این هفته اصلاحات را برای همهٔ مشتریان اجرا کن\" و آنچه می‌خواهد خروجی شود را تأیید کنید. 🎁 معاملهٔ راه‌اندازی: اولین شارژ شما را تا ۵۰ دلار تا پنج‌شنبه ۱۹ نوامبر، ۰۸:۰۰ ساعت بریتانیا (نیمه‌شب PT) مطابقت می‌دهیم. چه وظیفهٔ SEO را می‌خواهید ابتدا شروع کنید؟ من تمام نظرات را پاسخ می‌دهم، پس لطفاً بازخورد صریح خود را بفرمایید! 👉 https://rankspot.ai"
+        }
+      ],
+      "aiReview": "در ایران، RankSpot می‌تواند با تمرکز بر پرداخت به ازای مصرف، به شکلی مقرون به صرفه و بدون تعهد بلندمدت، بازار ابزارهای SEO را به چالش بکشد. مسئله اصلی، ادغام آسان با پلتفرم‌های محبوب وب‌سایت مانند وردپرس و Next.js است؛ راه‌حل پیشنهادی، ایجاد یک پل (plugin) ساده و مستندات جامع برای توسعه‌دهندگان است. معماری پیشنهادی شامل یک سرویس میکروسرویس‌محور بر پایه Node.js و FastAPI برای پردازش محتوا، یک لایه Redis برای کشینگ و یک صف RabbitMQ برای پردازش پس‌زمینه است. مدل درآمدی بر پایهٔ پرداخت به ازای خروجی (article, prompt, pitch) است که به راحتی قابل تنظیم و گزارش‌گیری است. نقاط قوت: خودکارسازی کامل، چندزبانه بودن، عدم نیاز به کلید API، قیمت‌گذاری شفاف. نقاط ضعف: نیاز به زیرساخت هوش مصنوعی قدرتمند، رقابت شدید در بازار ابزارهای SEO. نکته طلایی برای ایران: ارائه یک نسخهٔ رایگان با محدودیت‌های کوچک (مثلاً ۵ مقاله رایگان در ماه) برای جذب کاربران اولیه و سپس ارتقاء به نسخهٔ پرداختی بر اساس نیازهایشان.",
+      "iranEquivalent": {
+        "productName": "RankSpot",
+        "description": "RankSpot لایه‌ای است که به صورت Pay‑as‑you‑go، اجرای SEO و جستجوی هوش مصنوعی را برای نمایندگان فراهم می‌کند. با اتصال سریع به Claude یا ChatGPT در دو دقیقه، نمایندهٔ شما می‌تواند مقالاتی را بر اساس بهترین نتایج گوگل در بیش از ۱۰۰ زبان بنویسد، منتشر کند و سایت‌های رتبه‌بندی‌کننده را برای بک‌لینک‌ها درخواست کند. این سرویس بدون اشتراک است و هزینهٔ هر مقاله ۳ دلار، هر بررسی پرامپت ۰.۰۰۴ دلار و هر پچ ۰.۰۹ دلار می‌باشد.",
+        "marketOpportunity": "بازار ابزارهای SEO در ایران هنوز در حال رشد است و نیاز به راه‌حل‌های مقرون به صرفه و خودکار وجود دارد. RankSpot با پرداخت به صورت مصرف، می‌تواند به سرعت به کسب‌وکارهای کوچک و متوسط دسترسی پیدا کند و جایگاه خود را در بازار رقابتی تثبیت کند.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "آژانس‌های دیجیتال، بازاریابان مستقل، کسب‌وکارهای کوچک و متوسط که به دنبال بهینه‌سازی محتوا و بک‌لینک هستند",
+        "challenges": [
+          "یکپارچه‌سازی با پلتفرم‌های مختلف وب‌سایت مانند وردپرس و Next.js",
+          "تأمین منابع هوش مصنوعی و نگهداری هزینه‌های سرور در مقیاس بزرگ"
+        ],
+        "monetization": [
+          "پرداخت به ازای هر مقاله و پچ",
+          "اشتراک‌نامهٔ محدود برای دسترسی به امکانات پیشرفته"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-month-10",
@@ -10895,7 +10923,61 @@
           "user": "[REDACTED]",
           "text": "Good stuff, congrats on the launch! :)I remember basically building the same thing manually as a potential investor newsletter."
         }
-      ]
+      ],
+      "faDescription": "پلتفرم TheBold روند اجرای برنامه‌ها و پیشرفت استارتاپ‌ها را به دسترسی مستقیم به سرمایه‌گذاران تبدیل می‌کند. در طرح ویژه معرفی، بنیان‌گذاران می‌توانند با موفقیت در یک مصاحبه هوش مصنوعی برای ارزیابی آمادگی جذب سرمایه، به جریان معاملات سرمایه‌گذاران مرتبط راه یافته و امکان برگزاری جلسه مستقیم را فعال کنند. این ابزار به بنیان‌گذاران کمک می‌کند تا معیارهای دقیق سرمایه‌گذاران را درک کرده و میزان پیشرفت و عملکرد واقعی خود را ثبت و راستی‌آزمایی نمایند. همچنین امکان تمرین و شبیه‌سازی جلسات ارائه با هوش مصنوعی فراهم شده تا بنیان‌گذاران پس از احراز صلاحیت، جلسات خود را با سرمایه‌گذاران رزرو کنند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "امیدبخش به نظر می‌رسد، حتماً آن را امتحان خواهم کرد~"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "چه کسی TheBold را امتحان کرده و چقدر طول کشید تا برای اولین بار با یک سرمایه‌گذار دیدار کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "از نظر شما چه چیزی به عنوان اجرای تاییدشده محسوب می‌شود؟ یک تماس ثبت‌شده با مشتری، یک پایلوت پولی یا یک بیعانه امضا شده؟ جایی که این خط را می‌کشید تعیین می‌کند که سرمایه‌گذاران به این امتیاز اعتماد کنند یا از آن بگذرند."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "با آرزوی موفقیت برای لانچ شما!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من ایده کمک به بنیان‌گذاران برای داشتن اعتمادبه‌نفس بیشتر قبل از جلسات سرمایه‌گذاری را دوست دارم. این یک بخش استرس‌زا از ساخت استارتاپ است و داشتن هوش مصنوعی که به آماده‌سازی کمک کند می‌تواند بسیار ارزشمند باشد. جولیا، من فضولم بدانم: آیا نتیجه آماده‌سازی برای جلسه سرمایه‌گذار از همان صفحه اول مشخص است؟ و چیزی که بیشتر توجهم را جلب کرد این است که این را تک‌نفره ساختید — کار چشمگیری است!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "این واقعاً جالب است. من درد ارسال درخواست به سرمایه‌گذاران جسورانه و ریجکت شدن را کاملاً درک می‌کنم. ایده بسیار جذابی است. لانچ را تبریک می‌گویم 👏"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "عالی بود، لانچ را تبریک می‌گویم! :) یادم می‌آید قبلاً دقیقاً همین کار را به صورت دستی در قالب خبرنامه برای سرمایه‌گذاران بالقوه می‌ساختم."
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل:\nبنیان‌گذاران استارتاپ‌ها وقت زیادی را صرف جلسات بی‌نتیجه با سرمایه‌گذاران می‌کنند و سرمایه‌گذاران نیز با انبوهی از طرح‌های ناآماده روبرو هستند. TheBold با ارزیابی آمادگی استارتاپ از طریق هوش مصنوعی و تایید داده‌های واقعی پیشرفت (Traction)، فقط استارتاپ‌های واجد شرایط را به سرمایه‌گذاران وصل می‌کند.\n\nمعماری و تکنولوژی:\nاستفاده از مدل‌های زبانی بزرگ (LLM) برای شبیه‌سازی پرسش و پاسخ‌های دقیق VCها، الگوریتم‌های تطبیق داده‌ها (Matching Engine) بین معیارهای سرمایه‌گذار و وضعیت استارتاپ، و داشبورد تحلیل داده برای ثبت سوابق اجرایی.\n\nمدل درآمدی:\nحق اشتراک پریمیوم از بنیان‌گذاران برای ابزارهای تمرینی و شبیه‌ساز، و مدل کارمزدی به ازای معرفی‌های موفق به شبکه سرمایه‌گذاران.\n\nنقاط قوت:\n- کاهش استرس بنیان‌گذاران با تمرین پیش از جلسه واقعی\n- صرفه‌جویی شدید در زمان سرمایه‌گذاران (Filter کردن طرح‌های ضعیف)\n- ایجاد سنجه‌های شفاف برای ارزیابی عملکرد واقعی استارتاپ\n\nنقاط ضعف:\n- ابهام در نحوه تعاریف دقیق و راستی‌آزمایی پلتفرم از داده‌های فروش یا مشتریان\n- ریسک بالای وابستگی به تمایل سرمایه‌گذاران برای اعتماد به این سیستم واسط\n\nنکته طلایی برای بازار ایران:\nدر ایران به دلیل فضای سنتی سرمایه‌گذاری، الگوریتم‌های هوش مصنوعی به تنهایی کافی نیستند؛ این محصول باید با VCهای مطرح ایرانی شراکت استراتژیک ببندد تا «گواهی آمادگی هوش مصنوعی» به عنوان یک معیار معتبر ورودی در فرایند غربالگری آن صندوق‌ها پذیرفته شود.",
+      "iranEquivalent": {
+        "productName": "کاپیتال‌مسیر (CapitalMasir)",
+        "description": "پلتفرم بومی ارزیابی هوشمند استارتاپ‌ها که آمار فروش و تراکشن واقعی را راستی‌آزمایی کرده و بنیان‌گذاران را آماده جلسه با VCهای ایرانی می‌کند. این سیستم با شبیه‌سازی رفتاری سرمایه‌گذاران خطرپذیر داخلی، بنیان‌گذاران را قبل از جلسه اصلی چالش می‌کشد. در نهایت استارتاپ‌های تاییدشده مستقیماً به لیست بررسی صندوق‌های سرمایه‌گذاری متصل می‌شوند.",
+        "marketOpportunity": "عدم شفافیت در آمار استارتاپ‌ها و فرایند بسیار زمان‌بر جلسات معارفه، چالش اصلی زیست‌بوم استارتاپی ایران است. ایجاد پلتفرمی که ارزیابی اولیه را با هوش مصنوعی استاندارد کند، سرعت جذب سرمایه را در ایران چند برابر خواهد کرد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "بنیان‌گذاران استارتاپ‌های مرحله بذری و اولیه، صندوق‌های سرمایه‌گذاری خطرپذیر (VC)، شتاب‌دهنده‌ها و سرمایه‌گذاران فرشته.",
+        "challenges": [
+          "مقاومت صندوق‌های سرمایه‌گذاری سنتی ایران در اعتمادسازی به ارزیابی‌های هوش مصنوعی",
+          "دشواری دسترسی به APIها و سیستم‌های مالی رسمی برای راستی‌آزمایی خودکار تراکشن مالی استارتاپ‌ها"
+        ],
+        "monetization": [
+          "حق اشتراک ماهیانه بنیان‌گذاران برای استفاده از شبیه‌ساز AI و ارزیابی آمادگی",
+          "دریافت درصد موفقیت (Success Fee) از استارتاپ یا صندوق در صورت جذب سرمایه موفق"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python / FastAPI",
+          "OpenAI API"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-month-10",
@@ -10959,7 +11041,67 @@
           "user": "[REDACTED]",
           "text": "love the idea of bringing ad creation and optimization into one workflow. definitely an interesting direction! congrats!"
         }
-      ]
+      ],
+      "faDescription": "کریتیفای مکس دستیار هوشمند شما در زمینه تبلیغات کلیکی و پولی است. کافی است آدرس اینترنتی محصول یا خلاصه ایده خود را وارد کنید تا مکس ویدیوهای تبلیغاتی بومی بسازد و کمپین‌ها را روی متا و تیک‌تاک راه‌اندازی کند. این ابزار به صورت شبانه‌روزی نتایج را زیر نظر می‌گیرد و مواردی که نیاز به بهینه‌سازی دارند را به شما هشدار می‌دهد. با این حال، تصمیم‌گیرنده نهایی شما هستید و هیچ تبلیغی بدون تأیید مستقیم شما منتشر نخواهد شد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همراهان پروداکت هانت! 👋 من ینان، مدیرعامل کریتیفای هستم. شاید برخی از شما ما را از زمان رونمایی ابزار تبدیل لینک به ویدیو به یاد داشته باشید که به لطف این جامعه، محصول برتر روز شدیم. امروز بزرگ‌ترین محصولی که تا کنون ساخته‌ایم را معرفی می‌کنیم: Creatify Max. ساخت تبلیغ فقط بخشی از کار است؛ تیم‌های تبلیغات پولی همچنان ساعت‌ها زمان صرف بررسی داشبوردها، جابه‌جایی داده‌ها بین ابزارها، تنظیم مجدد کمپین‌ها و درک دلیل عملکرد بهتر یک بنر نسبت به دیگری می‌کنند. من این مشکل را از نزدیک لمس کرده‌ام؛ قبل از کریتیفای، اولین مدل پیش‌بینی نرخ کلیک ویدیو را در متا ساختم و دیدم که حتی با ابزارهای عالی، بخش زیادی از کارهای تکراری باقی می‌ماند. به همین دلیل مکس را ساختیم؛ دستیار هوش مصنوعی که در تمام مسیر تبلیغات پولی به شما کمک می‌کند: 🎬 ساخت تبلیغ: تبدیل لینک محصول یا خلاصه ایده به ویدیوهای تبلیغاتی با مدل‌های اختصاصی. 🚀 راه‌اندازی کمپین: تنظیم کمپین‌ها روی متا و تیک‌تاک با نام‌گذاری، بودجه و هدف‌گیری دلخواه شما. 📈 یادگیری و بهبود: پایش شبانه‌روزی عملکرد، تولید گزارش بر اساس شاخص‌های کلیدی شما و تبدیل تبلیغات برنده به ایده‌های جدید. مکس دستورالعمل‌های شما را به خاطر می‌سپارد و با بازخورد شما هوشمندتر می‌شود. 🔒 کنترل دست شماست: مکس هیچ‌چیزی را بدون تأیید شما منتشر نمی‌کند. تصمیم‌گیری با شماست و کلیک‌های تکراری با مکس. خیلی خوشحال می‌شوم از بازاریابان بشنوم: دوست دارید مکس کدام بخش از فرآیند تبلیغات شما را بر عهده بگیرد؟ تمام روز برای پاسخ به سوالات اینجا هستم. ممنون از حضورتان!"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "کریتیفای مکس گامی بزرگ به جلو در تبلیغات مبتنی بر هوش مصنوعی به نظر می‌رسد! اضافه کردن لایه تأیید انسانی اقدامی هوشمندانه است که اتوماسیون را کاربردی نگه داشته و کنترل را تضمین می‌کند. تبریک به تیم برای این رونمایی! 👏"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "نوید و وعده محصول عالی به نظر می‌رسد، اما تبلیغات پولی در جزئیات اجرا پیچیده می‌شود؛ مواردی مثل مشکلات تگ‌گذاری، رد شدن تبلیغات و تحلیل‌های مبهم. خیلی دوست دارم این موارد استثنایی را در یک دموی واقعی ببینم."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "من نسبت به این مسیر خوش‌بین هستم و محصولات مشابه زیادی دیده‌ام. بزرگ‌ترین نقطه تمایز شما چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "تبریک برای رونمایی! این‌که همه‌چیز از ساخت ویدیو تا راه‌اندازی واقعی کمپین ساده‌سازی شده است را بسیار دوست دارم. 👏"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "تبریک می‌گویم! از این‌که چقدر راحت ایده‌های خلاقانه را به ویدیوهای تبلیغاتی جذاب تبدیل می‌کند لذت می‌برم. یک روش سرگرم‌کننده و کارآمد برای ارتقای فرآیند ساخت محتوا!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "این فوق‌العاده است! از دیدن هوش مصنوعی توانمندتر بسیار هیجان‌زده‌ام."
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ایده یکپارچه‌سازی ساخت تبلیغ و بهینه‌سازی در یک چرخه کاری را دوست دارم. قطعاً مسیر جذابی است! تبریک!"
+        }
+      ],
+      "aiReview": "مسئله و راه‌حل: ابزار Creatify Max چالش کارهای تکراری و زمان‌بر در مدیریت تبلیغات کلیکی (از ساخت محتوا تا تنظیم کمپین و پایش) را هدف قرار داده است. راه‌حل آن ارائه یک دستیار هوش مصنوعی همه‌جانبه است که فرآیند ساخت ویدیو، راه‌اندازی کمپین در Meta و TikTok و تحلیل شبانه‌روزی را انجام می‌دهد، در حالی که لایه کنترل انسانی (Human-in-the-loop) حفظ شده است.\n\nمعماری و تکنولوژی: سیستم از مدل‌های اختصاصی تبدیل URL به ویدیو، الگوریتم‌های پیش‌بینی CTR و خطوط لوله پردازش ویدیو استفاده می‌کند. اتصال از طریق API به بسترهای تبلیغاتی بزرگ و بهره‌گیری از سیستم یادگیری مداوم بر اساس بازخورد کاربر، هسته فنی آن را تشکیل می‌دهد.\n\nمدل درآمدی: مدل SaaS مبتنی بر اشتراک دوره‌ای بر اساس تعداد ویدیوهای تولیدی، کمپین‌های فعال و حجم بودجه تحت مدیریت است.\n\nنقاط قوت:\n۱. پوشش کامل چرخه تبلیغات (ایجاد، اجرا، بهینه‌سازی) به‌جای تمرکز صرف بر ساخت محتوا.\n۲. حفظ کنترل نهایی توسط کاربر که اعتماد آژانس‌ها را جلب می‌کند.\n۳. سابقه بنیان‌گذار در توسعه مدل‌های CTR متا که اعتبار فنی بالایی ایجاد کرده است.\n\nنقاط ضعف:\n۱. چالش در مدیریت حالات خاص (Edge Cases) مانند رد شدن تبلیغات یا اختلال در اتریبیوشن.\n۲. وابستگی شدید به تغییرات API پلتفرم‌های ثالث (Meta و TikTok).\n\nنکته طلایی برای ایران: در بازار ایران، پیاده‌سازی این الگو با اتصال به پلتفرم‌های داخلی (مانند یکتانت، تپسل و کافه‌بازار) و تمرکز بر تولید ویدیوهای تبلیغاتی کوتاه‌برد برای اینستاگرام، می‌تواند نیاز شدید ای‌کامرس‌های ایرانی به تولید محتوای ویدیویی ارزان و متناوب را پاسخ دهد.",
+      "iranEquivalent": {
+        "productName": "تبلیغ‌یار هوشمند",
+        "description": "تبلیغ‌یار یک دستیار هوش مصنوعی برای آژانس‌های دیجیتال مارکتینگ و فروشگاه‌های اینترنتی ایرانی است که فرآیند ساخت ویدیوهای تبلیغاتی و مدیریت کمپین‌ها را خودکار می‌کند. این پلتفرم با اتصال به پلتفرم‌های تبلیغاتی داخلی و شبکه‌های اجتماعی، محتوای ویدیویی تولید کرده و تنظیمات کمپین را اجرا می‌نماید. همچنین عملکرد تبلیغات را به صورت شبانه‌روزی پایش کرده و بازدهی کمپین‌های تبلیغاتی را ارتقا می‌دهد.",
+        "marketOpportunity": "کمبود نیروی متخصص تولید محتوای ویدیویی و هزینه‌های بالای مدیریت کمپین‌های تبلیغاتی، چالش بزرگ فروشگاه‌های اینترنتی ایرانی است. اتوماسیون این مسیر با هوش مصنوعی می‌تواند سهم بازار بزرگی از پلتفرم‌های تبلیغات کلیکی داخلی و بسترهای اجتماعی ایجاد کند.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "فروشگاه‌های اینترنتی، آژانس‌های دیجیتال مارکتینگ، مدیران رشد و بازاریابان شبکه‌های اجتماعی",
+        "challenges": [
+          "چالش کیفیت و لحن طبیعی در تولید ویدیوهای فارسی با هوش مصنوعی",
+          "محدودیت‌های اتصال API به برخی پلتفرم‌های تبلیغاتی و شبکه‌های اجتماعی بومی"
+        ],
+        "monetization": [
+          "حق اشتراک ماهانه و سالانه بر اساس تعداد ویدیو و کمپین ساخت‌شده",
+          "درصد کارمزد مدیریت هوشمند از میزان بودجه تبلیغاتی کمپین‌ها"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Python",
+          "FastAPI",
+          "PyTorch",
+          "FFmpeg"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-week-5",
@@ -28795,6 +28937,70 @@
       }
     },
     {
+      "id": "ph-week-9",
+      "date": "2026-11-24",
+      "rank": 9,
+      "name": "distribution.dev",
+      "slug": "distribution-dev",
+      "tagline": "Advertise to developers on many sites with one campaign",
+      "description": "Anyone can build a product now, so the hard part is getting people to see it. distribution.dev is an ad network for developers, built by the publishers themselves: daily.dev and DEV (dev.to), together among the largest developer content platforms in the world. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one.",
+      "category": "Marketing • Advertising • Developer Tools",
+      "categoryFa": "بازاریابی • Advertising • ابزار توسعه‌دهندگان",
+      "url": "https://www.producthunt.com/products/distribution-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/ff78c9e4-280f-4f57-a6c8-9bc5ea05ea09/bbaa421620708f591151fd3c319bd22f55aea3e0718ca20ff9bb0ad54bf9d2d1.gif?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/launch-image-uploads/1cdfb3bf-2554-4e80-b976-5a4b92e589d7/ade5c1b82dd9cbbe1f8d6e01c7b4c3a24f4e08f107a079956678c8bfe1232ac7.jpeg?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/2aa0e4ad-035e-4f96-8720-8dd6f811ca6d/f5b659e093492e3c70dbd17327f3660057c6a2b276046c6f1c7894a306e690a6.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/811713cd-b970-4b89-8072-9a9e1c29dd28/6b1646fa3ecf12098d1d0f5e0ca40c8c7a55adf14b18f4a4a965190b62bdaf4c.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/887ca7d7-4806-4e78-a9d4-2be56853d0ca/f335e02b06be0db7548766fcfcdde862cb83761aa4324df8822f57edfbfb6130.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/4130d919-3402-4ee8-b812-1cf737f18751/c26548b5fd8199b4ee0c120daeefc1d31658043eabbe274556ef4a2e2f99f0be.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/e5057150-e570-4e1b-a7fd-d0549441bc0c/f21d0d8547555c32b012ec9395809131d158b6c23e44c93448b1fa742cf188cb.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/9944f412-7c7e-4393-91d3-3eaca546180d/1f5885ddce710d2cead79b2e4d1272f91fa0e0b1a6a9d111aa7512fe5ef5b1a1.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/e823f52d-042b-43b1-90da-842f7c757f41/5684a277dcfd9f2a1aa35763fd981082742cc100d4986e9de97b07dc937eb809.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/2480fd4d-c522-453e-8ce3-2b75f1e38600/53d119060b9745241de31debd1e9c26a47104b84e141d019211c0d69bbdaf536.png?auto=format",
+        "https://ph-files.imgix.net/mcp-draft-media/73fa730e-741c-401e-aefe-ff40573ac71c.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "hunting devtools - kilo.ai, mastra.ai",
+      "featuredAt": "2026-11-24T08:01:00Z",
+      "votes": 307,
+      "websiteUrl": "https://www.producthunt.com/r/FLP2CUVR6YHJZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋 Nimrod here, co-founder of daily.dev.Anyone can build almost anything now, so the hard part is getting people to notice it. Distribution has become the moat. With developers it's even harder: they ignore most ads, and they're spread across hundreds of independent sites and communities.We're one of those publishers, so we teamed up with DEV (dev.to) and built distribution.dev. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one and always labeled as ads.🎁 For Product Hunt: $500 off your campaign. Book a call at distribution.dev/plan and mention code PRODUCTHUNT.What's been the hardest part of getting developers to notice your product? I'll be around all day.P.S. If you run a developer site or community, you can join the network as a publisher: distribution.dev/publishers"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The process of registration effectively forecloses the possibility of moving forward. The website leads you to believe that you're registering for a service that grants you autonomy to manage ads yourself, that you might be able to get to know the platform before committing (as does the $500 off deal). But registration is simply a form with a few questions that ends in 'book a call'. The form doesn't identify your needs as a marketer, so you don't feel like there's an interest in customer success. Instead it conspicuously collects information they need to size up the deal. If you do not book a call, you cannot move forward. This misleading experience and the aggressive sales approach makes me feel they will advertise to their community in a way that's just as obtuse and frustrating."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Something that i wanted from very long time. One platform to advertise into multi dev platforms. BTW congrates on your launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What all platforms are these ads shown on?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "what's the minimum budget to start as advertiser?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "This solves the exact annoying part for me — I usually have to book one dev site at a time and stitch the results together myself. Running one campaign across a bunch of them and seeing it in one place sounds way easier. Curious how the targeting works across sites — do you pick the sites yourself, or does it optimize placement for you?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Building it on your own publishers is the unfair part: you already know which posts developers actually read. What did daily.dev readers teach you that changed how the ads look on each site?"
+        }
+      ]
+    },
+    {
       "id": "ph-week-10",
       "date": "2026-11-25",
       "rank": 10,
@@ -28852,70 +29058,6 @@
         {
           "user": "[REDACTED]",
           "text": "almost wish I was doing b2b so I could use this properly!"
-        }
-      ]
-    },
-    {
-      "id": "ph-week-9",
-      "date": "2026-11-24",
-      "rank": 9,
-      "name": "distribution.dev",
-      "slug": "distribution-dev",
-      "tagline": "Advertise to developers on many sites with one campaign",
-      "description": "Anyone can build a product now, so the hard part is getting people to see it. distribution.dev is an ad network for developers, built by the publishers themselves: daily.dev and DEV (dev.to), together among the largest developer content platforms in the world. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one.",
-      "category": "Marketing • Advertising • Developer Tools",
-      "categoryFa": "بازاریابی • Advertising • ابزار توسعه‌دهندگان",
-      "url": "https://www.producthunt.com/products/distribution-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/ff78c9e4-280f-4f57-a6c8-9bc5ea05ea09/bbaa421620708f591151fd3c319bd22f55aea3e0718ca20ff9bb0ad54bf9d2d1.gif?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/launch-image-uploads/1cdfb3bf-2554-4e80-b976-5a4b92e589d7/ade5c1b82dd9cbbe1f8d6e01c7b4c3a24f4e08f107a079956678c8bfe1232ac7.jpeg?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/2aa0e4ad-035e-4f96-8720-8dd6f811ca6d/f5b659e093492e3c70dbd17327f3660057c6a2b276046c6f1c7894a306e690a6.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/811713cd-b970-4b89-8072-9a9e1c29dd28/6b1646fa3ecf12098d1d0f5e0ca40c8c7a55adf14b18f4a4a965190b62bdaf4c.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/887ca7d7-4806-4e78-a9d4-2be56853d0ca/f335e02b06be0db7548766fcfcdde862cb83761aa4324df8822f57edfbfb6130.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/4130d919-3402-4ee8-b812-1cf737f18751/c26548b5fd8199b4ee0c120daeefc1d31658043eabbe274556ef4a2e2f99f0be.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/e5057150-e570-4e1b-a7fd-d0549441bc0c/f21d0d8547555c32b012ec9395809131d158b6c23e44c93448b1fa742cf188cb.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/9944f412-7c7e-4393-91d3-3eaca546180d/1f5885ddce710d2cead79b2e4d1272f91fa0e0b1a6a9d111aa7512fe5ef5b1a1.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/e823f52d-042b-43b1-90da-842f7c757f41/5684a277dcfd9f2a1aa35763fd981082742cc100d4986e9de97b07dc937eb809.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/2480fd4d-c522-453e-8ce3-2b75f1e38600/53d119060b9745241de31debd1e9c26a47104b84e141d019211c0d69bbdaf536.png?auto=format",
-        "https://ph-files.imgix.net/mcp-draft-media/73fa730e-741c-401e-aefe-ff40573ac71c.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "hunting devtools - kilo.ai, mastra.ai",
-      "featuredAt": "2026-11-24T08:01:00Z",
-      "votes": 306,
-      "websiteUrl": "https://www.producthunt.com/r/FLP2CUVR6YHJZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋 Nimrod here, co-founder of daily.dev.Anyone can build almost anything now, so the hard part is getting people to notice it. Distribution has become the moat. With developers it's even harder: they ignore most ads, and they're spread across hundreds of independent sites and communities.We're one of those publishers, so we teamed up with DEV (dev.to) and built distribution.dev. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one and always labeled as ads.🎁 For Product Hunt: $500 off your campaign. Book a call at distribution.dev/plan and mention code PRODUCTHUNT.What's been the hardest part of getting developers to notice your product? I'll be around all day.P.S. If you run a developer site or community, you can join the network as a publisher: distribution.dev/publishers"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "The process of registration effectively forecloses the possibility of moving forward. The website leads you to believe that you're registering for a service that grants you autonomy to manage ads yourself, that you might be able to get to know the platform before committing (as does the $500 off deal). But registration is simply a form with a few questions that ends in 'book a call'. The form doesn't identify your needs as a marketer, so you don't feel like there's an interest in customer success. Instead it conspicuously collects information they need to size up the deal. If you do not book a call, you cannot move forward. This misleading experience and the aggressive sales approach makes me feel they will advertise to their community in a way that's just as obtuse and frustrating."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Something that i wanted from very long time. One platform to advertise into multi dev platforms. BTW congrates on your launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What all platforms are these ads shown on?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "what's the minimum budget to start as advertiser?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "This solves the exact annoying part for me — I usually have to book one dev site at a time and stitch the results together myself. Running one campaign across a bunch of them and seeing it in one place sounds way easier. Curious how the targeting works across sites — do you pick the sites yourself, or does it optimize placement for you?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Building it on your own publishers is the unfair part: you already know which posts developers actually read. What did daily.dev readers teach you that changed how the ads look on each site?"
         }
       ]
     },
@@ -36656,6 +36798,68 @@
       }
     },
     {
+      "id": "ph-today-1",
+      "date": "2026-11-27",
+      "rank": 1,
+      "name": "Wizstar R1",
+      "slug": "wizstar-r1",
+      "tagline": "Seedance 2.0-level product videos at a lower cost",
+      "description": "Wizstar R1 is an in-house AI video model built for affordable, everyday creation. Combine up to nine reference images and videos to generate 5–15-second videos with native audio, guided by your products, characters, scenes, and styles. R1 excels at animation and 3D content and matches Seedance 2.0's usable-output rate for product videos in internal tests. Eligible members enjoy unlimited, credit-free generation, giving creators more freedom to experiment and refine their ideas.",
+      "category": "Design Tools • Artificial Intelligence • Video",
+      "categoryFa": "ابزار طراحی • هوش مصنوعی • ویدیو",
+      "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/48fcdfd0-2d2b-40de-a964-f8e406bd9753.svg?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/3e1ca6ec-c247-4aa6-bbf9-5d3eec4fd9d2.jpeg?auto=format",
+        "https://ph-files.imgix.net/6ca89803-ee89-465e-8e9a-0d80538bc2f6.png?auto=format",
+        "https://ph-files.imgix.net/8dbd6f5d-ff79-4ac5-8391-4bec3d4113f3.png?auto=format",
+        "https://ph-files.imgix.net/4f4f05cf-d826-43ea-b177-f40add091e5f.png?auto=format",
+        "https://ph-files.imgix.net/a3c4a796-6765-4b21-bb25-98508b466a7b.png?auto=format",
+        "https://ph-files.imgix.net/85f83b2e-07be-4312-a22b-ea6cec092dce.png?auto=format",
+        "https://ph-files.imgix.net/50cca093-8160-4219-860d-e64d05ff9774.png?auto=format",
+        "https://ph-files.imgix.net/b547e804-ebf8-4fff-9159-0bd4a29382a1.jpeg?auto=format"
+      ],
+      "maker": "starry li",
+      "makerTitle": "Cog‑Intell Grad | Marketing @ Wizstar.\n",
+      "featuredAt": "2026-11-27T08:01:00Z",
+      "votes": 267,
+      "websiteUrl": "https://www.producthunt.com/r/MFADSN4RJLJCWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm part of the marketing team at Wizstar. We're building AI-powered video creation tools to help creators, marketing teams, and businesses produce high-quality video content more efficiently.Creators, marketing teams, and businesses all need to produce videos continuously and at scale. But high generation costs make it expensive to test creative ideas, produce multiple variations, and scale video production.That's why we built Wizstar R1 — a cost-efficient reference-to-video model that balances generation quality and affordability, with generation costs starting at just $0.06 per second.Our goal is to make high-quality AI video generation affordable for people and teams that need to create more, experiment more, and produce at scale.What makes Wizstar R1 different?🖼️ Image + Prompt to Video — Start with a single reference image and a text prompt to generate 5–15-second videos featuring characters, products, and scenes. No source video required.🎯 Consistent Characters & Objects — Preserve subject identity, appearance, and visual details across complex movements and changing scenes, reducing identity drift and unwanted distortions.🎭 Natural Human Performance — Generate natural body movements, expressive facial performances, eye movements, and subtle expressions for more lifelike characters.🔊 Native Audio-Visual Generation — Generate character dialogue, ambient sounds, and rich sound effects together with the video in one generation.💰 Built for High-Volume Creation — At just $0.06 per second, R1 makes it more affordable to explore creative directions, produce multiple variations, and scale video production without constantly worrying about generation costs.Where do we see the biggest potential?We're particularly excited about three areas:Creators: Produce more content, explore different storytelling styles, and keep up with the demand for frequent publishing.Marketing Teams: Generate and test multiple ad creatives, product videos, and campaign variations without stretching production budgets.Businesses: Scale video asset production for e-commerce, product marketing, and other commercial applications.And this is just the beginning.Our vision is to make high-quality AI video generation not only impressive, but also economically viable for everyday production at scale.We'll continue improving reference consistency, motion quality, human expressiveness, and audio-visual generation, while optimizing the balance between quality, speed, and cost.We believe the future of AI video isn't just about generating better videos. It's about making great videos affordable enough to create as many as you need.Try Wizstar R1: https://wizstar.com/models/wizstar-r1We'd love to hear your thoughts: If video generation became significantly more affordable, what would you create more of? 🚀"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I ship a new app every few weeks, so launch videos are a constant cost for me — usually the bottleneck is how many variations I can afford to try before one lands. At $0.06/sec the math changes in a real way. The thing I'd want to test first is whether those nine reference images can keep an actual app UI identical across shots, not just a character — that's where most video models fall apart for product videos."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "looks cool!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats @starry_li what if gestures changed for each market, not just the language? is that on the roadmap?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch! 🎉 Making video generation more affordable could open up a lot of room for creative experimentation. The native audio generation is an interesting feature too—excited to see what people create with Wizstar R1!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Most cheap AI video tools sacrifice motion smoothness. I’m wondering what trade‑offs you made to hit the $0.06/s price point while keeping natural movement."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "$0.06 per second is pretty interesting and the unlimited generations is probably my favourite part."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "$0.06 per second is aggressive pricing for something in Seedance 2.0 territory. Is R1 available through an API, or only in the Wizstar app for now? At Eden AI we give developers access to several video generation models behind one API, and a cheaper option for high-volume product videos is exactly what our users ask for. Would love to benchmark R1 if there's an endpoint!"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-2",
       "date": "2026-10-24",
       "rank": 2,
@@ -37095,68 +37299,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-1",
-      "date": "2026-11-27",
-      "rank": 1,
-      "name": "Wizstar R1",
-      "slug": "wizstar-r1",
-      "tagline": "Seedance 2.0-level product videos at a lower cost",
-      "description": "Wizstar R1 is an in-house AI video model built for affordable, everyday creation. Combine up to nine reference images and videos to generate 5–15-second videos with native audio, guided by your products, characters, scenes, and styles. R1 excels at animation and 3D content and matches Seedance 2.0's usable-output rate for product videos in internal tests. Eligible members enjoy unlimited, credit-free generation, giving creators more freedom to experiment and refine their ideas.",
-      "category": "Design Tools • Artificial Intelligence • Video",
-      "categoryFa": "ابزار طراحی • هوش مصنوعی • ویدیو",
-      "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/48fcdfd0-2d2b-40de-a964-f8e406bd9753.svg?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/3e1ca6ec-c247-4aa6-bbf9-5d3eec4fd9d2.jpeg?auto=format",
-        "https://ph-files.imgix.net/6ca89803-ee89-465e-8e9a-0d80538bc2f6.png?auto=format",
-        "https://ph-files.imgix.net/8dbd6f5d-ff79-4ac5-8391-4bec3d4113f3.png?auto=format",
-        "https://ph-files.imgix.net/4f4f05cf-d826-43ea-b177-f40add091e5f.png?auto=format",
-        "https://ph-files.imgix.net/a3c4a796-6765-4b21-bb25-98508b466a7b.png?auto=format",
-        "https://ph-files.imgix.net/85f83b2e-07be-4312-a22b-ea6cec092dce.png?auto=format",
-        "https://ph-files.imgix.net/50cca093-8160-4219-860d-e64d05ff9774.png?auto=format",
-        "https://ph-files.imgix.net/b547e804-ebf8-4fff-9159-0bd4a29382a1.jpeg?auto=format"
-      ],
-      "maker": "starry li",
-      "makerTitle": "Cog‑Intell Grad | Marketing @ Wizstar.\n",
-      "featuredAt": "2026-11-27T08:01:00Z",
-      "votes": 264,
-      "websiteUrl": "https://www.producthunt.com/r/MFADSN4RJLJCWY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm part of the marketing team at Wizstar. We're building AI-powered video creation tools to help creators, marketing teams, and businesses produce high-quality video content more efficiently.Creators, marketing teams, and businesses all need to produce videos continuously and at scale. But high generation costs make it expensive to test creative ideas, produce multiple variations, and scale video production.That's why we built Wizstar R1 — a cost-efficient reference-to-video model that balances generation quality and affordability, with generation costs starting at just $0.06 per second.Our goal is to make high-quality AI video generation affordable for people and teams that need to create more, experiment more, and produce at scale.What makes Wizstar R1 different?🖼️ Image + Prompt to Video — Start with a single reference image and a text prompt to generate 5–15-second videos featuring characters, products, and scenes. No source video required.🎯 Consistent Characters & Objects — Preserve subject identity, appearance, and visual details across complex movements and changing scenes, reducing identity drift and unwanted distortions.🎭 Natural Human Performance — Generate natural body movements, expressive facial performances, eye movements, and subtle expressions for more lifelike characters.🔊 Native Audio-Visual Generation — Generate character dialogue, ambient sounds, and rich sound effects together with the video in one generation.💰 Built for High-Volume Creation — At just $0.06 per second, R1 makes it more affordable to explore creative directions, produce multiple variations, and scale video production without constantly worrying about generation costs.Where do we see the biggest potential?We're particularly excited about three areas:Creators: Produce more content, explore different storytelling styles, and keep up with the demand for frequent publishing.Marketing Teams: Generate and test multiple ad creatives, product videos, and campaign variations without stretching production budgets.Businesses: Scale video asset production for e-commerce, product marketing, and other commercial applications.And this is just the beginning.Our vision is to make high-quality AI video generation not only impressive, but also economically viable for everyday production at scale.We'll continue improving reference consistency, motion quality, human expressiveness, and audio-visual generation, while optimizing the balance between quality, speed, and cost.We believe the future of AI video isn't just about generating better videos. It's about making great videos affordable enough to create as many as you need.Try Wizstar R1: https://wizstar.com/models/wizstar-r1We'd love to hear your thoughts: If video generation became significantly more affordable, what would you create more of? 🚀"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I ship a new app every few weeks, so launch videos are a constant cost for me — usually the bottleneck is how many variations I can afford to try before one lands. At $0.06/sec the math changes in a real way. The thing I'd want to test first is whether those nine reference images can keep an actual app UI identical across shots, not just a character — that's where most video models fall apart for product videos."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "looks cool!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats @starry_li what if gestures changed for each market, not just the language? is that on the roadmap?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch! 🎉 Making video generation more affordable could open up a lot of room for creative experimentation. The native audio generation is an interesting feature too—excited to see what people create with Wizstar R1!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Most cheap AI video tools sacrifice motion smoothness. I’m wondering what trade‑offs you made to hit the $0.06/s price point while keeping natural movement."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "$0.06 per second is pretty interesting and the unlimited generations is probably my favourite part."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "$0.06 per second is aggressive pricing for something in Seedance 2.0 territory. Is R1 available through an API, or only in the Wizstar app for now? At Eden AI we give developers access to several video generation models behind one API, and a cheaper option for high-volume product videos is exactly what our users ask for. Would love to benchmark R1 if there's an endpoint!"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-3",
@@ -39008,7 +39150,68 @@
           "user": "[REDACTED]",
           "text": "Hey PH community 👋 Excited to hunt readywhen today. What I like most is that there's no new app or dashboard to learn. Your assistant is just an email address, so you hand it work from the place you already spend all day, and it keeps chasing after you've moved on. I run a lot of launches and collabs out of my inbox, and the pile of people I'm waiting on is usually what slows everything down. Having something watch that pile, while I still approve every send, is exactly the kind of help I'd actually use. Big shoutout to Sançar and the team for building this one. Send it your first job today and share your feedback 🚀"
         }
-      ]
+      ],
+      "faDescription": "دستیار هوشمند readywhen یک دستیار شخصی مستقر در صندوق ایمیل شماست. کافی است کارهای خود را دقیقاً همان‌طور که به یک دستیار واقعی ایمیل می‌زنید، برای آن ارسال کنید. این دستیار متن پیگیری‌ها را می‌نویسد، با پاسخ «send» از طرف شما آن را از ایمیل خودتان می‌فرستد و سپس منتظر دریافت پاسخ می‌ماند. همچنین می‌توانید هر زمان از آن بپرسید که منتظر پاسخ چه کسانی هستید. هیچ ایمیلی بدون تایید مستقیم شما ارسال نخواهد شد و برای شروع کار نیاز به هیچ‌گونه ساخت حساب کاربری یا تنظیمات پیچیده ندارید.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام به همکاران در پروداکت هانت 👋 من سانچار، هم‌بنیان‌گذار readywhen هستم. اگر هفته کاری خود را از طریق صندوق ایمیلتان مدیریت می‌کنید، این محصول مخصوص شماست. هر هفته کسانی هستند که منتظر پاسخ آن‌ها هستید؛ مشتری با فاکتوری که باید پرداخت کند، سرمایه‌گذاری که خواسته دک معرفی را برایش بفرستید، یا قراردادی که «تقریباً امضا شده» است. می‌دانید یک پیگیری سریع کار را حل می‌کند، اما تا جمعه هنوز انجام نشده و ساعت ۱۱ شب ذهنتان را درگیر کرده است. هیچ‌کدام از ما از روی قصد کارها را رها نمی‌کنیم؛ فقط کسی نیست که وظیفه‌اش پیگیری باشد. پس ما این کار را به یک وظیفه مشخص تبدیل کردیم و به آن یک آدرس ایمیل دادیم. readywhen دستیار شخصی شما در ایمیل است. کافی است به assistant@readywhen.ai ایمیل بزنید، دقیقاً همان‌طور که به یک دستیار خوب ایمیل می‌زنید. پیگیری را می‌نویسد، وقتی پاسخ دهید «send» آن را از ایمیل خودتان ارسال می‌کند و سپس منتظر پاسخ می‌ماند. باز هم پاسخی نیامد؟ به شما اطلاع می‌دهد و پیشنهاد پیگیری مجدد می‌دهد. چند نمونه برای ارسال امروز: مشتری پرداخت نکرده؟ 💬 «پیگیر سام برای فاکتور شو»، سرمایه‌گذار دک می‌خواهد؟ 💬 «ایمیل دک را برای الکس پیش‌نویس کن و نگه‌دار»، منتظر بازخورد هستید؟ 💬 «اگر سام تا پنجشنبه پاسخ نداد یادآوری کن»، حساب پیگیری‌ها از دستتان رفته؟ 💬 «این هفته منتظر پاسخ چه کسانی هستم؟». این ابزار با ابزارهایی که استفاده می‌کنید (بیش از ۱۰۰۰ ابزار) کار می‌کند و هیچ چیز بدون تایید شما ارسال نمی‌شود. نیازی به ساخت حساب کاربری نیست؛ فقط به assistant@readywhen.ai ایمیل بزنید. من و تیمم تمام روز اینجا هستیم. اولین کاری که به readywhen می‌سپارید را به ما بگویید. منتظر نظرات شما هستم 👋"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "ایمیل دقیقاً رابط کاربری مناسبی برای این کار است، چرا که پیگیری‌ها از قبل همان‌جا وجود دارند و نیازی به باز کردن یا یادگیری برنامه جدیدی نیست. قانون «هیچ چیز بدون تایید شما ارسال نمی‌شود» و مرحله پاسخ با کلمه «send»، خیالم را راحت می‌کند. بخش کنجکاوکننده برای من، سنجش پاسخ‌هاست؛ وقتی کسی پاسخ مبهمی می‌دهد ( مثلاً «هفته آینده پاسخ می‌دهم»)، سیستم چگونه تصمیم می‌گیرد که دوباره پیگیری کند یا منتظر بماند؟ این تصمیم‌گیری بخش سخت یک دستیار خوب است و درست انجام دادنش باعث اعتماد واقعی به آن می‌شود."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "درباره بخش «منتظر پاسخ می‌ماند» کنجکاو هستم. اگر مشتری پاسخ دهد «هفته آینده پرداخت می‌کنم»، آیا سیستم کار را تمام‌شده فرض می‌کند یا چراغ‌خاموش تاریخ جدیدی را برای پیگیری بعدی تنظیم می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "داشتن سیستمی که پیگیری‌ها را بدون از دست دادن کنترل بر متن ارسالی انجام دهد، یک مزیت بسیار بزرگ است. تبریک می‌گویم!"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "داده‌های مربوط به زمینه و سوابق گفتگوها (Context Data) کجا و چگونه ذخیره می‌شوند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "ایده بسیار جالبی است! داشتن دستیار هوشمندی که کارهای روزمره را مدیریت کند، زندگی را بسیار آسان‌تر می‌سازد. به‌ویژه امکان ارسال یادداشت صوتی و واگذاری کارهای واقعی به‌جای دریافت صرفاً پیشنهادها را دوست دارم. مشتاقم ببینم چطور توسعه می‌یابد!"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "من ایمیل‌های متعددی مانند Gmail، ۱۶۳ و Outlook دارم. سیستم چگونه ایمیل‌های دریافتی از کانال‌های مختلف را مدیریت می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "سلام به جامعه پروداکت هانت 👋 از معرفی readywhen بسیار هیجان‌زده‌ام. چیزی که بیشتر از همه دوست دارم این است که هیچ اپلیکیشن یا داشبورد جدیدی برای یادگیری وجود ندارد. دستیار شما فقط یک آدرس ایمیل است، بنابراین از همان‌جایی که تمام روز را در آن می‌گذرانید کار را به او می‌سپارید و او پیگیری را ادامه می‌دهد. من راه‌اندازی‌ها و همکاری‌های زیادی را از صندوق ایمیلم مدیریت می‌کنم و معمولاً صف افرادی که منتظر پاسخشان هستم همه‌چیز را کند می‌کند. داشتن ابزاری که آن صف را زیر نظر داشته باشد و در عین حال تایید نهایی با خودم باشد، دقیقاً همان کمکی است که استفاده خواهم کرد. تبریک به سانچار و تیمش! 🚀"
+        }
+      ],
+      "aiReview": "محصول readywhen دست بر روی یکی از مهم‌ترین نقاط درد (Pain Points) نیروهای دانش‌محور و مدیران گذاشته است: «اصطکاک بالا در پیگیری کارهای معوقه». \n\n**مسئله و راه‌حل:** مسئله اصلی، رها شدن پیگیری‌ها به دلیل شلوغی ذهنی است. راه‌حل readywhen، ارائه یک دستیار بی‌اصطکاک (Zero-Friction) مستقر در ایمیل است که نیازی به نصب اپلیکیشن یا ثبت‌نام ندارد. مدل Human-in-the-loop (تایید نهایی با کاربر از طریق پاسخ 'send') ریسک ارسال ایمیل‌های اشتباه توسط هوش مصنوعی را به صفر می‌رساند.\n\n**معماری و تکنولوژی:** سیستم بر پایه Webhookها و مکانیزم‌های Parsing ایمیل استوار است. مدل‌های زبانی (LLM) وظیفه استخراج قصد کاربر (Intent Extraction)، ساخت پیش‌نویس (Draft Generation) و تحلیل پاسخ‌های دریافتی (Sentiment & Status Tracking) را بر عهده دارند.\n\n**نقاط قوت:** ۱) عدم وجود اصطکاک در Onboarding (فقط یک ایمیل) ۲) حفظ کنترل کاربر بر خروجی‌ها ۳) حل یک مشکل واقعی در محیطی که کاربر روزانه ساعات زیادی را در آن می‌گذراند (Inbox-native).\n\n**نقاط ضعف:** چالش تحلیل پاسخ‌های مبهم (Edge Cases)، دغدغه‌های امنیتی مربوط به دسترسی به محتوای ایمیل‌ها و وابستگی شدید به سرویس‌های ایمیل.\n\n**نکته طلایی برای ایران:** در ایران، بومی‌سازی این ایده می‌تواند علاوه بر ایمیل، بر روی پیام‌رسان‌های پرکاربرد (مانند تلگرام یا پیام‌رسان‌های بومی) پیاده‌سازی شود؛ زیرا بخش عمده‌ای از ارتباطات کاری و پیگیری‌های مالی/فاکتوری ایرانیان در پیام‌رسان‌ها رخ می‌دهد. پشتیبانی از تقویم شمسی و فهم زبان عامیانه فارسی نیز برگ برنده آن خواهد بود.",
+      "iranEquivalent": {
+        "productName": "دستیار ایمیلی گوش‌به‌زنگ",
+        "description": "دستیار هوشمندی که بر روی صندوق ایمیل کاربر قرار می‌گیرد و تمامی پیگیری‌های کاری، فاکتورها و پاسخ‌ها را به‌صورت خودکار مدیریت می‌کند. کاربر تنها دستورات خود را ایمیل کرده و پیش‌نویس‌های آماده‌شده را با یک کلمه تایید می‌نماید. این ابزار بدون نیاز به نصب نرم‌افزار جدید، از فراموشی کارهای معوقه و پیگیری‌های مالی یا اداری جلوگیری می‌کند.",
+        "marketOpportunity": "مدیران کسب‌وکار، فریلنسرها و تیم‌های فروش در ایران روزانه زمان زیادی را صرف پیگیری دستی ایمیل‌ها و پیام‌های معوقه می‌کنند. ایجاد ابزاری که بدون اصطکاک ورود و بدون نیاز به داشبورد مجزا فرایند پیگیری را اتوماتیک کند، ارزش افزوده بالایی خلق خواهد کرد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "مدیران ارشد استارتاپ‌ها، فریلنسرها، مدیران فروش (Sales)، متخصصان بازاریابی و بنیان‌گذاران کسب‌وکارهای ایرانی.",
+        "challenges": [
+          "چالش‌های فنی در اتصال پایدار و ایمن به سرورهای ایمیل سازمانی و بومی",
+          "تحلیل دقیق لحن و کنایه‌های زبان فارسی در پاسخ‌های دریافتی جهت تصمیم‌گیری برای پیگیری مجدد",
+          "دغدغه کاربران و سازمان‌های ایرانی درباره حفظ امنیت و حریم خصوصی داده‌های ایمیل"
+        ],
+        "monetization": [
+          "فروش اشتراک ماهانه/سالانه بر اساس تعداد پیگیری‌های فعال",
+          "ارائه پلن‌های سازمانی (Enterprise) برای تیم‌های فروش و پشتیبانی",
+          "مدل Freemium با سقف محدود پیگیری‌های رایگان در ماه"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL",
+          "Node.js / Python",
+          "OpenAI / Claude API (LLM Integration)",
+          "SendGrid / Mailgun & IMAP/SMTP Parsers"
+        ],
+        "confidence": 85
+      }
     },
     {
       "id": "ph-yesterday-5",
@@ -50146,6 +50349,69 @@
       ]
     },
     {
+      "id": "ph-today-2",
+      "date": "2026-11-27",
+      "rank": 2,
+      "name": "Depost AI",
+      "slug": "depost-ai-2",
+      "tagline": "The LinkedIn AI agent that learns what works for your brand",
+      "description": "Depost AI scores every LinkedIn post you've published against your own average, finds what's winning in your niche, then plans the month, writes in your voice, and designs the graphics. You approve every post, and it publishes through LinkedIn's official API. It also drafts replies to the conversations worth joining, so posts turn into leads—works in the app, or inside Claude and ChatGPT over MCP.",
+      "category": "Artificial Intelligence • LinkedIn • Social media marketing",
+      "categoryFa": "هوش مصنوعی • LinkedIn • Social media marketing",
+      "url": "https://www.producthunt.com/products/depost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/95fadcbf-742b-4ef1-ae25-0e39881484ed.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/launch-image-uploads/91e44f58-70c6-4535-836d-bbfff3004b8b/ea32c29b9af5c90075172854d45388297aef25d2097358e372b3d582fb3d522e.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/b5ea115c-dfc0-445c-8f71-e62274322a43/fa0341f20d03b578864c6a0d162953ce06289886b91b907d3042615a0eac843f.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/c31dc657-9f96-48cc-928c-3aefc50bc86b/4a01d1708858fb48334db347da29e5172a2c90446c6da7e3ac3454eb22908a79.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/b19fe39d-16b2-4f4c-9434-97ec54881951/6c239770ce407728904f635efdf1b63ef550dcf0e7db0238a2b5c4dac3a18a8b.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/3aa200fd-f27e-4646-9149-f535bb69e4a9/e997b27750c9514e4733f52336129003d1a7688a6800a5645818f71b05a6d744.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/909269ac-3e91-48b6-8ea3-6678be3f7368/9964de452cae305e90a73f53845184a6f58e2519463284d5f8ed684159e0b049.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/4402fbfd-6e14-4a95-ab64-ba62e424a511/70231a5bdef74ad9187edc7eb9ddd0f1057a5bf76d83a23d4d2075eb8c98dea8.png?auto=format",
+        "https://ph-files.imgix.net/launch-image-uploads/757055e5-3076-4c98-b9c9-89a5821b389e/9e36706cf65cbfd5dc474721aafad9dfdc9e049eb43ded45ce344327bad1d825.png?auto=format",
+        "https://ph-files.imgix.net/6242c64c-8045-439a-83e5-f3159693b94b.jpeg?auto=format"
+      ],
+      "maker": "[REDACTED]",
+      "makerTitle": "",
+      "featuredAt": "2026-11-27T08:01:00Z",
+      "votes": 202,
+      "websiteUrl": "https://www.producthunt.com/r/32DE54NLUY7ZZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hey Product Hunt 👋I'm Atta. Yasir and I built Depost AI, and this is our first launch here.Most LinkedIn AI tools start from a blank prompt. Depost AI starts from your own numbers.Connect LinkedIn, and it scores every post you've published against your own average, then shows you which formats and topics work for you. On Yasir's account, behind-the-scenes posts ran at 1.28x his average and teaching posts at 0.75x. He had written 17 teaching posts and 3 behind-the-scenes ones.From there, it does the work:- Plans your month from what works for you and what's winning in your niche, using 150k+ viral posts and why each one worked- Writes in your voice and designs the graphic with the post- Waits for your approval, then publishes through LinkedIn's official API- Turns conversations into leads: it finds what your prospects posted and drafts your reply- Works where you work: in the app, or inside Claude and ChatGPT over MCPFor agencies and teams, each client gets a brand, approvals with an audit trail, and clients, VAs, and teammates join for free.Black Friday deal: pay once, $399, and use Depost AI forever. The link on this page goes straight to it, and it ends on 31 December.If you'd rather try it first, monthly plans start at $59 with a 7-day free trial at depost.ai.One question for you: what would you want it to find in your own posts?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "The part that stood out to me is scoring posts against my own average instead of everyone else's. Does it learn my voice from the posts I edit after it drafts them, or mostly from the ones I approve as-is?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Depost AI looks interesting, congrats on going live. Will take a closer look."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch of Depost AI! Looking forward to trying it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "when it drafts a reply to a prospect's post, does that go through the same approval step as a post, or can it auto-send?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "What are the content writers and graphic designers do now haha"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Could Depost send a stop posting this alert when a topic i keep using starts losing my audience?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Scoring my old posts against my own average is the feedback I never get, since LinkedIn gives me likes and nothing about whether they beat last month. Does the monthly plan reuse formats that scored well, or does it start from a fresh angle each time?"
+        }
+      ]
+    },
+    {
       "id": "ph-yesterday-4",
       "date": "2026-11-21",
       "rank": 4,
@@ -50622,69 +50888,6 @@
         ],
         "confidence": 85
       }
-    },
-    {
-      "id": "ph-today-2",
-      "date": "2026-11-27",
-      "rank": 2,
-      "name": "Depost AI",
-      "slug": "depost-ai-2",
-      "tagline": "The LinkedIn AI agent that learns what works for your brand",
-      "description": "Depost AI scores every LinkedIn post you've published against your own average, finds what's winning in your niche, then plans the month, writes in your voice, and designs the graphics. You approve every post, and it publishes through LinkedIn's official API. It also drafts replies to the conversations worth joining, so posts turn into leads—works in the app, or inside Claude and ChatGPT over MCP.",
-      "category": "Artificial Intelligence • LinkedIn • Social media marketing",
-      "categoryFa": "هوش مصنوعی • LinkedIn • Social media marketing",
-      "url": "https://www.producthunt.com/products/depost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/95fadcbf-742b-4ef1-ae25-0e39881484ed.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/launch-image-uploads/91e44f58-70c6-4535-836d-bbfff3004b8b/ea32c29b9af5c90075172854d45388297aef25d2097358e372b3d582fb3d522e.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/b5ea115c-dfc0-445c-8f71-e62274322a43/fa0341f20d03b578864c6a0d162953ce06289886b91b907d3042615a0eac843f.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/c31dc657-9f96-48cc-928c-3aefc50bc86b/4a01d1708858fb48334db347da29e5172a2c90446c6da7e3ac3454eb22908a79.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/b19fe39d-16b2-4f4c-9434-97ec54881951/6c239770ce407728904f635efdf1b63ef550dcf0e7db0238a2b5c4dac3a18a8b.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/3aa200fd-f27e-4646-9149-f535bb69e4a9/e997b27750c9514e4733f52336129003d1a7688a6800a5645818f71b05a6d744.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/909269ac-3e91-48b6-8ea3-6678be3f7368/9964de452cae305e90a73f53845184a6f58e2519463284d5f8ed684159e0b049.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/4402fbfd-6e14-4a95-ab64-ba62e424a511/70231a5bdef74ad9187edc7eb9ddd0f1057a5bf76d83a23d4d2075eb8c98dea8.png?auto=format",
-        "https://ph-files.imgix.net/launch-image-uploads/757055e5-3076-4c98-b9c9-89a5821b389e/9e36706cf65cbfd5dc474721aafad9dfdc9e049eb43ded45ce344327bad1d825.png?auto=format",
-        "https://ph-files.imgix.net/6242c64c-8045-439a-83e5-f3159693b94b.jpeg?auto=format"
-      ],
-      "maker": "[REDACTED]",
-      "makerTitle": "",
-      "featuredAt": "2026-11-27T08:01:00Z",
-      "votes": 200,
-      "websiteUrl": "https://www.producthunt.com/r/32DE54NLUY7ZZ4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hey Product Hunt 👋I'm Atta. Yasir and I built Depost AI, and this is our first launch here.Most LinkedIn AI tools start from a blank prompt. Depost AI starts from your own numbers.Connect LinkedIn, and it scores every post you've published against your own average, then shows you which formats and topics work for you. On Yasir's account, behind-the-scenes posts ran at 1.28x his average and teaching posts at 0.75x. He had written 17 teaching posts and 3 behind-the-scenes ones.From there, it does the work:- Plans your month from what works for you and what's winning in your niche, using 150k+ viral posts and why each one worked- Writes in your voice and designs the graphic with the post- Waits for your approval, then publishes through LinkedIn's official API- Turns conversations into leads: it finds what your prospects posted and drafts your reply- Works where you work: in the app, or inside Claude and ChatGPT over MCPFor agencies and teams, each client gets a brand, approvals with an audit trail, and clients, VAs, and teammates join for free.Black Friday deal: pay once, $399, and use Depost AI forever. The link on this page goes straight to it, and it ends on 31 December.If you'd rather try it first, monthly plans start at $59 with a 7-day free trial at depost.ai.One question for you: what would you want it to find in your own posts?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Depost AI looks interesting, congrats on going live. Will take a closer look."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch of Depost AI! Looking forward to trying it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "when it drafts a reply to a prospect's post, does that go through the same approval step as a post, or can it auto-send?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "What are the content writers and graphic designers do now haha"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Could Depost send a stop posting this alert when a topic i keep using starts losing my audience?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Scoring my old posts against my own average is the feedback I never get, since LinkedIn gives me likes and nothing about whether they beat last month. Does the monthly plan reuse formats that scored well, or does it start from a fresh angle each time?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Already saved into my special folder! :D"
-        }
-      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -57137,7 +57340,59 @@
           "user": "[REDACTED]",
           "text": "I’m using cal.com and want to say - guys, you are amazing! I really don’t understand how other calendar apps still exist, haha"
         }
-      ]
+      ],
+      "faDescription": "Cal.com نسخه ۷ یک مجموعهٔ کامل از ابزارهای زمان‌بندی، کشف خدمات محلی و دستیار هوش مصنوعی است که به‌صورت یکپارچه در یک پلتفرم ارائه می‌شود. با Cal.com Events می‌توانید برای هر نوع رویداد از پیک‌نیک تا کنسرت بزرگ بلیت فروخته و حضور شرکت‌کنندگان را با پاس‌های Apple Wallet چک‑این کنید. قابلیت Discover به کاربر اجازه می‌دهد با وارد کردن یک نیاز ساده مثل «دندان‌پزشک نزدیک»، بهترین سرویس‌های محلی را پیدا کند و حتی با هوش مصنوعی تماس بگیرد. علاوه بر این، Cal.ai Assistant با یادگیری عادات شما، زمان‌بندی‌ها را به‌صورت خودکار بهینه می‌کند و Cal.video امکان برگزاری جلسات ویدئویی بدون نصب برنامه را فراهم می‌کند.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 ما امروز Cal.com v۷ را عرضه کردیم: مجموعه‌ای از محصولات برای کمک به ارتباط انسان‌ها در دنیای هوش مصنوعی. هدف‌مان رسیدن به یک میلیارد کاربر تا سال ۲۰۳۱ با فقط SaaS زمان‌بندی نیست. Cal.com/events برای هر چیزی از پیک‌نیک تا فستیوال و کنسرت است؛ می‌توانید بلیت، حتی بلیت VIP، با پاس‌های Apple Wallet برای چک‑این بفروشید و زمان با افراد لیست مهمان رزرو کنید؛ حضوری، مجازی یا ترکیبی، به‌صورت بومی. Cal.com/discover خدمات محلی را پیدا می‌کند؛ مثلاً «دندان‌پزشکی گم کرده‌ام» و نزدیک‌ترین دندان‌پزشک را نشان می‌دهد و با OpenClaw، Grok Bot یا Muse کار می‌کند و حتی می‌تواند با هوش مصنوعی شماره عمومی را تماس بگیرد اگر کسب‌وکار هنوز در Cal.com نباشد. Cal.video در مرورگر اجرا می‌شود، بدون نیاز به اپ؛ اتاق دائمی مثل cal.video/bailey دارد، همراه با رونوشت و ضبط. مهمان‌ها نیازی به حساب کاربری ندارند. Cal.com/desktop جلسات را مدیریت و یادداشت‌های هوش مصنوعی می‌گیرد و با اشتراک رایگان است. وب‌سایت جدید Cal.com با عکاسی آنالوگ زیبا منتشر شد. هوش مصنوعی باید کارهای خسته‌کننده مثل زمان‌بندی را انجام دهد ولی خلاقیت انسانی را جایگزین نکند؛ انسان‌ها همیشه برای ارتباط با دیگران نیاز خواهند داشت. Cal.com می‌خواهد یک مکان واحد برای جلسات، دوستان، کنسرت‌ها و پیدا کردن پزشک بعدی باشد و مشتاق بازخورد شماست."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "Google Calendar صفحات رزروش چه کاری نمی‌تواند انجام دهد؟ بخش Cal.ai Assistant؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ما برای بسیاری از کسب‌وکارهای خدماتی محلی سایت می‌سازیم و نصف آن‌ها هنوز فقط از طریق تلفن رزرو می‌گیرند. وقتی Discover به کسب‌وکاری که هنوز در Cal نیست زنگ می‌زند، واکنش اکثر آن‌ها چیست؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "بخش Discover تغییر جذابی بود که توجه من را جلب کرد — v۷ کمتر شبیه لینک رزرو و بیشتر شبیه راهی برای پیدا کردن رویدادها و افراد برای ملاقات است. امکان پیوستن مهمانان به مرورگر بدون حساب کاربری، جزئی کوچک اما بسیار مهم در اولین تماس است. کنجکاوم ببینم دستیار Cal.ai وقتی یک جلسه در میانهٔ گفتگو باید جابجا شود، چگونه عمل می‌کند؛ آیا دوباره رزرو می‌کند یا فقط برای من علامت می‌گذارد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "کار با عوامل مثل OpenClaw در Discover بخشی است که می‌خواهم امتحان کنم. وقتی یک عامل برای من رزرو می‌کند، آیا می‌توانم قوانین سختی تنظیم کنم که نتواند آن‌ها را نادیده بگیرد، مثل عدم برگزاری جلسه قبل از ساعت ۱۰ یا حداکثر ۳ جلسه در روز؟"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "رزرو زمان با افراد لیست مهمان بخشی است که بیشترین استفاده را از آن می‌کنم. در میت‌آپ‌های تکنولوژی که در استانبول برگزار می‌کنم، ارزش واقعی پس از رویداد در گفتگوهای پیگیری است. شرکت‌کنندگان چگونه می‌توانند کنترل کنند که آیا در آن لیست ظاهر شوند یا نه؟ امکان انتخاب‌پذیری برای هر رویداد باعث می‌شود راحت‌تر آن را فعال کنم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "من از Cal.com استفاده می‌کنم و می‌خواهم بگویم - بچه‌ها، شما فوق‌العاده‌اید! واقعاً نمی‌فهمم چرا برنامه‌های تقویم دیگر هنوز وجود دارند، هاها"
+        }
+      ],
+      "aiReview": "مسئله: کسب‌وکارهای ایرانی هنوز به‌طور کامل از ابزارهای زمان‌بندی دیجیتال بهره نمی‌برند و برای کشف خدمات محلی و مدیریت رویدادها ابزارهای یکپارچه کمی وجود دارد. راه‌حل: Cal.com v۷ با ترکیب زمان‌بندی هوشمند، فروش بلیت، لیست مهمانان و دستیار AI، نیازهای این بخش را در یک پلتفرم پوشش می‌دهد. معماری و تکنولوژی: بر پایهٔ Next.js برای رندر سمت سرور و تجربهٔ کاربری سریع، PostgreSQL به‌عنوان دیتابیس رابطه‌ای مقیاس‌پذیر، و سرویس‌های AI مبتنی بر مدل‌های محلی یا ابری برای پردازش زبان طبیعی. مدل درآمدی: اشتراک ماهانه برای دسترسی به ویژگی‌های پیشرفته، کمیسیون از فروش بلیت و خدمات کشف‌شده، و فروش افزونه‌های سفارشی برای ادغام با سامانه‌های پرداخت ایرانی. نقاط قوت: تجربهٔ کاربری یکپارچه، قابلیت‌های AI برای خودکارسازی زمان‌بندی، پشتیبانی از بلیت‌های دیجیتال و حضور مهمانان بدون حساب کاربری. نقاط ضعف: نیاز به یکپارچه‌سازی با درگاه‌های پرداخت داخلی و چالش‌های پذیرش فرهنگ رزرو آنلاین در برخی کسب‌وکارهای سنتی. نکتهٔ طلایی برای ایران: تمرکز بر ارائهٔ درگاه پرداخت ملی (مانند درگاه‌های بانک ملت یا زرین‌پال) و ایجاد برنامهٔ آموزشی و مشوق‌های مالی برای کسب‌وکارهای کوچک می‌تواند پذیرش سریع‌تر و رشد پایدار را تضمین کند.",
+      "iranEquivalent": {
+        "productName": "Cal.com نسخه ۷",
+        "description": "Cal.com v۷ یک پلتفرم یکپارچه برای زمان‌بندی، کشف خدمات محلی و دستیار هوش مصنوعی است. این محصول امکان فروش بلیت برای رویدادهای حضوری، مجازی یا ترکیبی و مدیریت لیست مهمانان را فراهم می‌کند. همچنین با قابلیت Discover، کاربران می‌توانند به‌سرعت خدمات مورد نیاز خود را در نزدیکی پیدا کنند.",
+        "marketOpportunity": "در ایران تقاضا برای ابزارهای زمان‌بندی هوشمند و کشف خدمات محلی به‌سرعت در حال رشد است، به‌ویژه در شهرهای بزرگ مانند تهران و مشهد. ترکیب این قابلیت‌ها با هوش مصنوعی می‌تواند جایگاه ویژه‌ای در بازار SaaS بومی داشته باشد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کسب‌وکارهای خدماتی محلی، برگزارکنندگان رویداد، کلینیک‌ها و پزشکان، تیم‌های کاری و فریلنسرهای فناوری اطلاعات",
+        "challenges": [
+          "یکپارچه‌سازی با سامانه‌های پرداخت داخلی و کیف‌پول‌های دیجیتال ایرانی",
+          "آموزش کاربران سنتی برای پذیرش رزرو آنلاین و هوش مصنوعی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه برای ویژگی‌های پیشرفته و دستیار AI",
+          "کمیسیون از فروش بلیت‌های رویداد و خدمات کشف‌شده"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-4",
@@ -71294,7 +71549,47 @@
           "user": "[REDACTED]",
           "text": "the hotel example got me wondering, what happens when the hotel tries to charge incidentals at checkout on a token scoped to the original booking"
         }
-      ]
+      ],
+      "faDescription": "کیف پول ChatGPT به ایجنت‌های «نقطه‌ها» (Dots) در OpenAI امکان می‌دهد خریدها را به‌جای شما تکمیل کنند. شبکه کارت اعتباری یک توکن پرداخت به ایجنت می‌دهد، بنابراین نه ایجنت و نه فروشنده هرگز شماره کارت شما را مشاهده نمی‌کنند. شما قبل از هر خرید، اقلام، مبلغ کل و کارت را بررسی کرده و با Face ID یا اثر انگشت تأیید می‌کنید. این محصول با همکاری American Express، Mastercard و Visa ساخته شده است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "الکترون‌ها هم پول هستند، باید آن توکن‌ها را خرج کنیم! 🪙"
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "تأیید خرید با Face ID برای هر تراکنش، بخشی است که این محصول را برای من قابل‌استفاده می‌کند؛ من هم شماره کارت خود را به ایجنت نمی‌دهم. سوال باز برای من این است که بعد از تأیید چه اتفاقی می‌افتد: اگر مبلغ کل بین تأیید و شارژ تغییر کند، یا هتل هزینه‌های جانبی بعداً اضافه کند (مانند آنچه برنو اشاره کرد)، آیا توکن آن را پوشش می‌دهد، رد می‌شود یا برای تأیید دوم برمی‌گردد؟ توکن‌های یک‌بار مصرف و سقف‌دار، اعتماد را برای خریدهای واقعی و پیچیده، نه فقط خریدهای تمیز، بسیار آسان‌تر می‌کند."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "آیا ایجنت من می‌تواند من را از خرید چیزهایی که واقعاً به آن‌ها نیاز ندارم، منصرف کند؟ این می‌تواند جالب باشد!"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "مثال هتل مرا به فکر انداخت که چه اتفاقی می‌افتد وقتی هتل سعی می‌کند در زمان خروج، هزینه‌های جانبی را با توکنی که فقط برای رزرو اولیه محدوده‌بندی شده، شارژ کند."
+        }
+      ],
+      "aiReview": "مسئله اصلی، عدم اعتماد کاربران به سپردن اطلاعات مالی حساس به هوش مصنوعی و پیچیدگی فرآیند خریدهای خودکار است. راه‌حل، استفاده از توکن‌های پرداخت یک‌بار مصرف (Tokenization) است که ایجنت را از دسترسی مستقیم به کارت اصلی جدا می‌کند. معماری سیستم بر پایه یک لایه واسط امنیتی است که توکن‌های موقت از شبکه پرداخت دریافت کرده و پس از تأیید بیومتریک کاربر، تراکنش را انجام می‌دهد. مدل درآمدی ترکیبی از کمیسیون تراکنش و اشتراک سازمانی است. نقاط قوت شامل افزایش امنیت، کاهش سایش کاربر (Friction) و امکان اتوماسیون خرید است. نقاط ضعف شامل وابستگی به همکاری بانک‌ها، پیچیدگی در مدیریت استرداد و هزینه‌های جانبی (مانند هتل) و چالش‌های قانونی است. نکته طلایی برای ایران: تمرکز بر «خریدهای سازمانی» و «بازارهای B۲B» می‌تواند سریع‌تر از بازار مصرف‌کننده پذیرفته شود، زیرا شرکت‌ها به دنبال کاهش هزینه‌های اداری و افزایش امنیت مالی هستند و مقاومت کمتری در برابر تغییر فرآیند پرداخت دارند.",
+      "iranEquivalent": {
+        "productName": "کیف پول هوشمند ایجنت‌ها",
+        "description": "این پلتفرم به هوش مصنوعی اجازه می‌دهد خریدهای آنلاین را با استفاده از توکن‌های امنیتی یک‌بار مصرف انجام دهد. کاربر با بیومتریک خرید را تأیید می‌کند و شماره کارت اصلی هرگز به ایجنت یا فروشگاه منتقل نمی‌شود. این سیستم با درگاه‌های پرداخت داخلی ایران و بانک‌ها یکپارچه می‌شود.",
+        "marketOpportunity": "بازار تجارت الکترونیک ایران با وجود رشد سریع، هنوز با چالش‌های امنیتی و فرآیندهای دستی خرید دست‌وپنجه نرم می‌کند. ارائه یک لایه امنیتی هوشمند برای خریدهای خودکار می‌تواند اعتماد کاربران به خریدهای خودکار را افزایش دهد.",
+        "estimatedBudget": "۳ تا ۵ میلیارد تومان",
+        "targetAudience": "کاربران فعال اپلیکیشن‌های هوش مصنوعی، خریداران آنلاین پرمصرف و کسب‌وکارهای B۲B که نیاز به اتوماسیون پرداخت دارند.",
+        "challenges": [
+          "یکپارچه‌سازی با استانداردهای سخت‌گیرانه بانک مرکزی و درگاه‌های پرداخت شاپرک و زرین‌پال",
+          "مدیریت ریسک‌های حقوقی مربوط به مسئولیت ایجنت‌ها در صورت خطا در خرید"
+        ],
+        "monetization": [
+          "درصد کمی از هر تراکنش موفق (Take Rate)",
+          "اشتراک ماهانه برای کسب‌وکارها با سقف تراکنش بالاتر"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 70
+      }
     },
     {
       "id": "ph-yesterday-6",
@@ -77438,6 +77733,10 @@
         },
         {
           "user": "[REDACTED]",
+          "text": "really cool product, helped me a looooot"
+        },
+        {
+          "user": "[REDACTED]",
           "text": "This hits a real pain point for me — my agents stall waiting on an approval while I'm away from my desk, and a push notification is easy to miss. The risk classification is the part that makes it workable though: if everything triggers a call it just becomes another thing to mute, but routing only the risky stuff (force pushes, env changes) to a call while the routine stuff flows through is the right split. Quiet hours matter a lot too."
         },
         {
@@ -77459,10 +77758,6 @@
         {
           "user": "[REDACTED]",
           "text": "France isn't on the call list yet. Any date?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "the call speaks French but can't ring French numbers yet? any plan for France? we'd try it on our team in Lyon, our agents wait on us way more than 47 min some days"
         }
       ]
     },
@@ -86856,7 +87151,63 @@
           "user": "[REDACTED]",
           "text": "Leaving pay-or-accept walls for the person to decide is a thoughtful boundary. Publishing the missed banners alongside the successful ones also gives people something concrete to check before installing."
         }
-      ]
+      ],
+      "faDescription": "ککی اوی (Cookie Away) یک افزاینه رایگان و متن‌باز برای کروم است که به‌جای شما بنرهای کوکی را رد می‌کند. اگر دکمه رد کردن وجود نداشته باشد، این افزاینه به تنظیمات می‌رود، همه گزینه‌ها را غیرفعال کرده و ذخیره می‌کند. ما هر کلیک را بررسی می‌کنیم و نتایج خود را روی ۶۹ سایت منتشر کرده‌ایم تا شفافیت کامل داشته باشیم.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام محصول هانت 👋 مثل اکثر افراد، عادت کرده بودم روی همه بنرهای کوکی «پذیرش همه» را بزنم تا به صفحه برسم (دکمه رد کردن معمولاً آنجا هست، اما کار کردن با آن بسیار دشوار شده است). بنابراین یک افزاینه کوچک کروم ساختم که به‌جای من «نه» می‌گوید و برای آن یک ماسکوت به نام کوکی (Kooky) گذاشتم، چون چشمانش عجیب است و البته وضعیت کل بنرهای رضایت‌نامه هم همین‌طور است. کلیک روی رد کردن بخش آسان کار بود. بسیاری از سایت‌های خبری آن را پشت یک صفحه تنظیمات پُر از «منافع مشروع» پنهان کرده‌اند، برخی فقط اجازه رد کردن را در صورت اشتراک‌گذاری می‌دهند و برخی حتی از دو ابزار رضایت‌نامه هم‌زمان استفاده می‌کنند. کوکی اوی در صورت نیاز از طریق تنظیمات کار می‌کند، همه چیز را غیرفعال کرده و ذخیره می‌کند و در دیوارهای «پرداخت یا پذیرش»، انتخاب را به خود شما می‌سپارد نه اینکه پرداخت کند یا تسلیم شود. می‌خواستم بدانم آیا واقعاً کار می‌کند، بنابراین آن را در برابر Consent-O-Matic (که عالی است) روی ۶۹ سایت اروپایی آزمایش کردیم و همه نتایج را، از جمله مواردی که کار نکرد، منتشر کردیم. ۲۶ از ۲۷ بنری که «نه» رایگان داشتند را پاسخ داد و هرگز یک بار هم به صفحه پرداخت نرسید. این افزاینه رایگان و با لایسنس MIT است، سروری ندارد و آنالیتیکسی ثبت نمی‌کند و وب‌سایت ما حتی یک کوکی هم تنظیم نمی‌کند (البته). اگر سایتی پیدا کردید که روی آن کار نمی‌کند، لینک آن را در کامنت‌ها بگذارید تا کوکی نگاهی به آن بیندازد. و اگر در وب‌سایت «cookie» را تایپ کنید، شاید اتفاقی بیفتد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "سلام @noel_braganza۱ معمولاً در آنجا تسلیم می‌شوم و پذیرش را می‌زنم، ممنون از این افزاینه. سوال سریع: از آنجا که سروری وجود ندارد، وقتی یک ابزار رضایت‌نامه مارک‌آپ (HTML) خود را تغییر می‌دهد، آیا اصلاحات فقط از طریق به‌روزرسانی در فروشگاه وب کروم به کاربران می‌رسد؟ همچنین مطمئن نیستم آیا این در نقشه راه است یا نه، اما آیا می‌توانم از خود افزاینه سایتی را که از قلم افتاده را گزارش دهم؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "این نوع چیزی است که برای همه اعضای خانواده‌ام نصب می‌کنم - بنرهایی که دکمه رد کردن را پشت سه لایه تنظیمات پنهان کرده‌اند بدترین بخش وب مدرن هستند. باز کردن پنل تنظیمات و غیرفعال کردن همه چیز به جای تسلیم شدن، جزئیاتی بود که مرا متقاعد کرد. چگونه با بازطراحی مداوم بنرها توسط سایت‌ها همگام می‌مانید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "خوشحالم که این افزاینه بنرهای رضایت‌نامه پیچیده را هم مدیریت می‌کند، نه فقط دکمه‌های رد کردن آسان. تبریک بابت راه‌اندازی"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "من خودم پاییز گذشته یک بنر رضایت‌نامه برای یک سایت راه اندازی کردم، بنابراین از دیدگاه مالک سایت، این ابزار قطعاً می‌تواند مفید باشد. همچنین وابستگی‌ها و روش‌های مختلف مرورگرهای مختلف برای مدیریت این موضوع."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دوست دارم که نتایج را روی ۶۹ سایت منتشر می‌کنید به جای اینکه فقط ادعا کنید کار می‌کند. چگونه با بنرهایی که دیر بارگذاری می‌شوند برخورد می‌کند؟ همچنین نسخه سافاری را هم دوست دارم داشته باشیم."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "در سایتی که بنر دیر بارگذاری می‌شود چه اتفاقی می‌افتد، آیا هنوز آن را می‌گیرد یا فقط یک بار هنگام بارگذاری صفحه بررسی می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "ترک گذاشتن دیوارهای «پرداخت یا پذیرش» برای تصمیم‌گیری فرد، مرزی فکری است. انتشار بنرهایی که از قلم افتاده در کنار موارد موفق، به افراد چیزی ملموس برای بررسی قبل از نصب می‌دهد."
+        }
+      ],
+      "aiReview": "مسئله اصلی، مزاحمت بنرهای کوکی و دشواری در رد کردن آن‌هاست که تجربه کاربری را خراب می‌کند؛ راه‌حل، یک افزاینه خودکار است که این فرآیند را حذف می‌کند. از نظر معماری، محصول بر پایه افزاینه مرورگر (Chrome Extension) با کدنویسی سبک و بدون سرور (Serverless) بنا شده که هزینه‌های زیرساخت را به حداقل می‌رساند. مدل درآمدی در نسخه اولیه رایگان است، اما پتانسیل تبدیل به مدل B۲B برای پلتفرم‌های بزرگ یا ارائه نسخه پرو با امکانات بیشتر وجود دارد. نقاط قوت شامل شفافیت بالا (انتشار نتایج تست)، کد متن‌باز و تمرکز بر حریم خصوصی است. نقاط ضعف عبارتند از وابستگی به تغییرات مداوم در مارک‌آپ سایت‌ها و نیاز به به‌روزرسانی‌های مکرر. نکته طلایی برای ایران: تمرکز بر سایت‌های خبری و پلتفرم‌های اجتماعی پرتراکم ایرانی که از بنرهای پیچیده استفاده می‌کنند، می‌تواند نقطه ورود سریع به بازار باشد.",
+      "iranEquivalent": {
+        "productName": "کوکی‌باز (CookieBaz)",
+        "description": "کوکی‌باز یک افزاینه مرورگر سبک‌وزن است که به‌صورت خودکار بنرهای رضایت‌نامه و کوکی‌های ردیابی را در سایت‌های ایرانی و بین‌المللی غیرفعال می‌کند. این ابزار با شناسایی الگوهای رایج در طراحی بنرها، بدون نیاز به دخالت کاربر، گزینه‌های رد کردن را فعال و ذخیره می‌کند. هدف اصلی، حفظ حریم خصوصی کاربران و کاهش بار شناختی ناشی از بنرهای مزاحم است.",
+        "marketOpportunity": "با افزایش آگاهی کاربران ایرانی نسبت به حریم خصوصی و رشد ترافیک وب‌سایت‌های خبری و تجاری، تقاضا برای ابزارهای محافظت از داده‌های شخصی به شدت بالاست. نبود ابزارهای بومی و قابل اعتماد برای مدیریت بنرهای کوکی، خلأ بزرگی در بازار است که می‌تواند با یک محصول ساده و کاربردی پر شود.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کاربران هوشمند موبایل و دسکتاپ، علاقه‌مندان به حریم خصوصی، و مدیران سایت‌هایی که می‌خواهند تجربه کاربری خود را بهبود بخشند.",
+        "challenges": [
+          "تنوع بالای پلتفرم‌های مدیریت رضایت‌نامه در سایت‌های ایرانی و عدم استانداردسازی آن‌ها",
+          "محدودیت‌های فنی در انتشار افزاینه‌ها در فروشگاه‌های رسمی مرورگرها برای کاربران داخل ایران"
+        ],
+        "monetization": [
+          "مدل فریمیوم با ارائه امکانات پیشرفته مانند گزارش‌دهی جزئی فعالیت‌ها به کاربران",
+          "فروش لایسنس سازمانی به شرکت‌ها برای پایش و بهینه‌سازی بنرهای سایت‌های خود"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-8",
@@ -90572,7 +90923,63 @@
           "user": "[REDACTED]",
           "text": "Not onw, but two buckets! congrats on the launch. Wish you all the best here"
         }
-      ]
+      ],
+      "faDescription": "TwoBucket نرم‌افزاری آسان برای کارآفرینان خدمات شستشوی خودرو در محل است که مخصوص افراد تک‌نفره یا تیم‌های کوچک طراحی شده. مشتریان می‌توانند از طریق صفحه رزرو یا وب‌سایت شما، وضعیت خودرو، عکس‌ها و خدمات مورد نیاز را ارسال کنند. شما سپس قیمت‌گذاری می‌کنید، پیش‌فاکتور را آنلاین تأیید می‌کنید و فاکتور نهایی را با امکان پرداخت کارت، Apple Pay یا Google Pay به حساب Stripe یا Square خود می‌فرستید. تمام زمان‌بندی‌ها به تقویم Google یا iCloud همگام می‌شود و برنامه برای iPhone، Android و وب در دسترس است.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام Product Hunt 👋 من TwoBucket را برای جزئی‌کارهای سیار ساختیم: افرادی که خودروها را در حیاط مشتری شستشو، جزئی‌کاری و پوشش می‌دهند، چه به تنهایی و چه با تیم کوچک. اگر می‌خواهید کسب‌وکار جزئی‌کاری خود را شروع کنید، صفحه رزرو شما در یک یا دو دقیقه آماده می‌شود و سرویس‌ها و افزودنی‌های رایج از پیش تنظیم شده‌اند. تمام کارها را از گوشی‌تان مدیریت می‌کنید بدون اینکه نیاز به ابزارهای پیچیده داشته باشید. نام این محصول از روش دو سطل شستشو می‌آید: صابون در یک سطل، آب تمیز در سطل دیگر، تا کثیفی به رنگ بازنگردد."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "مشتری برای SUV شما درباره قیمت سؤال می‌کند. شما صفحه رزرو را می‌فرستید؛ آن‌ها خدمات مورد نیاز، گزینه «موهای حیوانات» و عکس‌های داخل خودرو را انتخاب می‌کنند و تاریخ را تعیین می‌نمایند. شما هشدار دریافت می‌کنید، می‌توانید خودرو را ببینید و در حین حرکت پیش‌فاکتور بفرستید. مشتری پیش‌فاکتور را می‌پذیرد و با Apple/Google Pay پیش‌پرداخت می‌کند؛ روز قبل ایمیل تأیید می‌گیرد (اگر شماره US داشته باشد، پیامک می‌شود) و پس از اتمام کار مابقی + نکته اختیاری را پرداخت می‌کند. دیگر زنجیره طولانی پیام‌ها وجود ندارد."
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "ها، من قبلاً اسم شستشوی دو سطل را نشنیده بودم، اسم خوبی است. داشتن گزینه جداگانه برای موهای حیوانات خیلی واقعی و خنده‌دار است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "مقایسه ابزارها؟ ما کی هستیم، داده‌های شما چه می‌شود و قبل از دسامبر چه برنامه‌ای داریم: https://usetwobucket.com/blog/is-twobucket-legit"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ایده و اجرا عالی است. سخت‌ترین بخش احتمالاً جذب کاربر خواهد بود. جزئی‌کارهای سیار معمولاً برای یافتن راه‌حل‌ها در وب جستجو نمی‌کنند؛ باید به‌صورت فعال توجه آن‌ها را جلب کنیم تا شتاب بگیریم. موفق باشید!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "دوست دارم این محصول مخصوص یک نوع خاص از اپراتور تک‌نفره ساخته شده است نه «هر کسب‌وکار کوچک» دیگری. من هم برای گروهی غیر فنی می‌سازم و سخت‌ترین بخش اولین ده دقیقه است: آن‌ها راهنمای راه‌اندازی را نمی‌خوانند. یک جزئی‌کار که هیچ‌وقت از نرم‌افزار رزرو استفاده نکرده، چطور به اولین رزرو خود با شما می‌رسد؟"
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "وای، خیلی ممنون از همه‌تون، انتظار این‌قدر پشتیبانی را نداشتم!"
+        },
+        {
+          "user": "کاربر ProductHunt 8",
+          "text": "نه یک، بلکه دو سطل! تبریک برای راه‌اندازی. برای شما بهترین‌ها را آرزو می‌کنم."
+        }
+      ],
+      "aiReview": "مسئله: جزئی‌کارهای سیار در ایران برای مدیریت رزرو، قیمت‌گذاری و دریافت پرداخت‌های آنلاین ابزارهای یکپارچه ندارند و زمان زیادی را صرف ارتباطات دستی می‌کنند. راه‌حل: دو سطل یک پلتفرم همه‌جانبه فراهم می‌کند که از طریق وب و اپلیکیشن موبایل، مشتریان می‌توانند وضعیت خودرو، عکس و خدمات مورد نیاز را ارسال کنند، کارآفرین قیمت‌گذاری و پیش‌فاکتور را آنلاین تأیید می‌کند و پرداخت‌ها به‌صورت کارت یا کیف‌پول‌های دیجیتال به حساب کاربر منتقل می‌شود. معماری: بک‌اند مبتنی بر Next.js برای رندر سمت سرور و APIهای RESTful، دیتابیس PostgreSQL برای ذخیره‌سازی امن داده‌ها، یکپارچه‌سازی با درگاه‌های پرداخت داخلی (زرین‌پال، پی‌پینگ) و سرویس‌های تقویم (Google Calendar, iCloud) برای همگام‌سازی. مدل درآمدی: اشتراک ماهانه ثابت (حدود ۲۵۰ هزار تومان) به‌علاوه کارمزد درصدی بر تراکنش‌های پرداختی؛ این ترکیب درآمد پایدار و مقیاس‌پذیر ایجاد می‌کند. نقاط قوت: رابط کاربری ساده برای کاربران غیر فنی، عدم دریافت کارمزد از تراکنش‌ها، قابلیت سفارشی‌سازی برای انواع خودروها و خدمات، و امکان اتصال به هوش مصنوعی برای تولید پیش‌فاکتور سریع. نقاط ضعف: نیاز به یکپارچه‌سازی دقیق با درگاه‌های پرداخت داخلی که ممکن است زمان‌بر باشد، و چالش جذب کاربران اولیه در بازاری که عادت به ابزارهای دیجیتال هنوز شکل نگرفته. نکته طلایی برای ایران: تمرکز بر ارائه نسخهٔ آفلاین یا هاب‌محلی برای مناطقی که اتصال اینترنت ضعیف است و ترکیب با پیامک‌های رایگان برای یادآوری‌های رزرو می‌تواند پذیرش سریع‌تری ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "دو سطل",
+        "description": "دو سطل یک پلتفرم رزرو آنلاین برای خدمات شستشوی خودرو در محل است که مخصوص کارآفرینان تک‌نفره و تیم‌های کوچک طراحی شده. کاربران می‌توانند از طریق وب یا اپلیکیشن موبایل، وضعیت خودرو، عکس‌ها و خدمات دلخواه را ارسال کنند و پس از تأیید قیمت، پرداخت را به‌صورت کارت یا کیف‌پول‌های دیجیتال انجام دهند. تمام زمان‌بندی‌ها به تقویم‌های محبوب همگام می‌شود و داده‌ها به‌صورت محلی ذخیره می‌شود.",
+        "marketOpportunity": "بازار خدمات جزئی‌کاری سیار در ایران در حال رشد سریع است و با افزایش تعداد خودروهای شخصی، تقاضا برای رزرو آنلاین آسان افزایش می‌یابد. با توجه به کمبود ابزارهای بومی مشابه، دو سطل می‌تواند به‌سرعت سهم بازار قابل توجهی به دست آورد.",
+        "estimatedBudget": "۲ تا ۴ میلیارد تومان",
+        "targetAudience": "کارآفرینان خدمات شستشوی خودرو سیار، تیم‌های کوچک جزئی‌کاری، و کارآگاهان مستقل در شهرهای بزرگ ایران",
+        "challenges": [
+          "دستیابی به کاربران هدف از طریق کانال‌های دیجیتال",
+          "یکپارچه‌سازی درگاه‌های پرداخت داخلی مانند درگاه‌های بانکی و کیف‌پول‌های ملی"
+        ],
+        "monetization": [
+          "اشتراک ماهانه ثابت برای استفاده از پلتفرم",
+          "کارمزد درصدی بر تراکنش‌های پرداختی که از طریق درگاه‌های داخلی انجام می‌شود"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-7",
@@ -104911,7 +105318,54 @@
           "user": "[REDACTED]",
           "text": "I like that critical steps wait for human approval instead of the agent acting on its own. Can those approvals be handled from a phone when someone is away from their desk?"
         }
-      ]
+      ],
+      "faDescription": "Pharen Hub یک فضای کاری هوش مصنوعی است که پروژه‌ها، وظایف، اسناد، ایمیل، جلسات، داده‌ها و عوامل هوش مصنوعی را در یک محیط مشترک ادغام می‌کند. این پلتفرم با یک زمینه مشترک کار می‌کند و عوامل با اهداف واضح، منابع مجاز و تأیید انسانی فعالیت می‌کنند. می‌توانید آن را در ابر اتحادیه اروپا یا سرورهای خودتان میزبانی کنید. کد منبع باز و منصفانه در گیت‌هاب موجود است و برنامه رایگان برای شروع وجود دارد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "سلام، Product Hunt! من یوهانس، بنیان‌گذار Pharen از لیپزیگ هستم. در طول یک سال تیم‌ها در میان ابزارها غرق می‌شدند. پانزده اپلیکیشن، ابزار AI جدید هر ماه، و هنوز هم افراد در طول روز کپی‑پست می‌کردند. AI می‌توانست بنویسد، اما نمی‌توانست کار را انجام دهد، چون تصویر کامل را نداشت. بنابراین Pharen Hub را ساختیم: یک فضای کاری که وظایف، دانش، ایمیل، جلسات و عوامل AI یک زمینه مشترک دارند. عوامل هدف واضح، منابع مجاز و محدودیت دارند. تصمیمات بزرگ در دست انسان باقی می‌ماند. در ابر EU یا سرورهای خودتان میزبانی می‌شود و کد منبع آزاد است. کد کامل در گیت‌هاب فردا منتشر می‌شود، بنابراین می‌توانید هر خط را بخوانید، خود میزبانی کنید و ببینید عوامل دقیقاً چه کار می‌کنند. پیشنهاد ویژه برای این جامعه: ۱۰٪ تخفیف برای یک ماه با کد LANDHO. یک سؤال برای شما: کدام گردش کار را ابتدا به یک عامل می‌دهید؟ امروز تمام نظرات را می‌خوانیم."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "آیا می‌تواند با ابزارهایی که در حال حاضر استفاده می‌کنیم، مانند Gmail یا Microsoft ۳۶۵، کار کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "@johannes_kanthak چه چیزی باعث شد که شروع به ساخت این کار کنید، و سخت‌ترین بخش سال گذشته چه بود؟ چرا در لیپزیگ ساختید و میزبانی را در EU نگه دارید؟"
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تبریک برای راه‌اندازی! وقتی کل شرکت یک فضای کاری AI مشترک دارد، چگونه تصمیم می‌گیرید که هر شخص چه AI را می‌تواند ببینند؟ این سؤال بیشترین پرسش تیم‌هایی است که AI را درون سازمانی راه‌اندازی می‌کنند."
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "ارائه منابع مجاز به عوامل به همراه هدف جزئیات مفیدی است. می‌خواستم تأیید دریافت کنم که کدام منبع و تغییر مرتبط است، تا شخص بتواند تصمیم را بدون باز کردن هر ابزار بررسی کند."
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "من دوست دارم که گام‌های بحرانی منتظر تأیید انسانی باشند، نه اینکه عامل به تنهایی عمل کند. آیا این تأییدات می‌توانند از طریق تلفن انجام شوند وقتی کسی از میز کار دور است؟"
+        }
+      ],
+      "iranEquivalent": {
+        "productName": "Pharen Hub",
+        "description": "Pharen Hub یک فضای کاری هوش مصنوعی برای شرکت‌ها است که تمام ابزارهای تیمی را در یک محیط یکپارچه می‌کند. این پلتفرم پروژه‌ها، وظایف، اسناد، ایمیل، جلسات و داده‌ها را در یک زمینه مشترک ادغام می‌کند. عوامل هوش مصنوعی با اهداف واضح و منابع مجاز، در کنار تأیید انسانی، کار می‌کنند.",
+        "marketOpportunity": "در بازار ایران، شرکت‌های متوسط و بزرگ به دنبال کاهش هزینه‌های ابزارهای متعدد و بهبود هماهنگی تیمی هستند. Pharen Hub با یکپارچه‌سازی همه ابزارها و استفاده از AI، می‌تواند به عنوان راه‌حل کلیدی برای این نیاز مطرح شود.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "شرکت‌های متوسط و بزرگ در حوزه فناوری، خدمات و تولید که به دنبال بهینه‌سازی فرآیندهای تیمی و استفاده از هوش مصنوعی هستند.",
+        "challenges": [
+          "پذیرش فرهنگی و مقاومت در برابر تغییر ابزارهای موجود",
+          "محدودیت‌های امنیتی و حریم خصوصی داده‌ها در محیط‌های داخلی"
+        ],
+        "monetization": [
+          "مدل اشتراک ماهانه با پلن‌های پایه و پیشرفته",
+          "فروش افزونه‌ها و خدمات سفارشی برای ادغام با سیستم‌های خاص"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -105234,6 +105688,65 @@
         ],
         "confidence": 75
       }
+    },
+    {
+      "id": "ph-today-10",
+      "date": "2026-11-27",
+      "rank": 10,
+      "name": "Woomool",
+      "slug": "woomool",
+      "tagline": "AI Canvas where thinking becomes tangible",
+      "description": "Woomool is a AI canvas tastefully designed for ideation, knowledge management, and live collaboration. Clean, unobtrusive, and beautiful, it inspires you to focus and go deep into your thinking.",
+      "category": "Productivity • Education • Artificial Intelligence",
+      "categoryFa": "بهره‌وری • آموزش • هوش مصنوعی",
+      "url": "https://www.producthunt.com/products/woomool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "thumbnail": "https://ph-files.imgix.net/52522a97-84f8-4dbd-affe-494940e91a97.png?auto=format",
+      "screenshots": [
+        "https://ph-files.imgix.net/936e3f1b-bc6f-4193-b976-cbb34c71de55.jpeg?auto=format",
+        "https://ph-files.imgix.net/fe45368d-b325-48c7-9b33-da6b4b05c3fb.png?auto=format",
+        "https://ph-files.imgix.net/83b709db-d3d3-4ada-a305-5d5db9b81e5a.png?auto=format",
+        "https://ph-files.imgix.net/dbb9cb93-a20a-4225-8243-733e4ea7fecb.png?auto=format",
+        "https://ph-files.imgix.net/0647f4ea-3e9a-4e0a-a488-d89ba8620968.png?auto=format"
+      ],
+      "maker": "Minki Jung",
+      "makerTitle": "AI eng with BSc in physics & philosophy",
+      "featuredAt": "2026-11-27T08:01:00Z",
+      "votes": 97,
+      "websiteUrl": "https://www.producthunt.com/r/Y5ICTAOJGXUV2K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
+      "comments": [
+        {
+          "user": "[REDACTED]",
+          "text": "Hi Product Hunt! I'm Minki, the maker of Woomool!I've been building this full-time for the last 3 months, and today I'm launching version 2.0.Why I built it: the smarter AI gets, the easier it is to hand over not just our tasks, but our thinking. I wanted a space designed to protect that thinking, so we can stay independent from AI and still collaborate with it.Woomool (우물) means \"well\" in Korean. The idea is to help you dig deeper into what you're curious about until you find insights that are truly your own.I'll be here all day reading and replying to every comment. Thank you for stopping by!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "I like that the AI only responds when you ask — I map out every app I build before I start coding, and I don't want a tool rearranging my thinking unprompted. The canvas-over-linear-notes point lands for me too; my planning usually starts as a messy pile of ideas, not a doc. Curious how live collaboration works in practice when two people are moving things around at once — does it get chaotic, or does the clean layout hold up?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats on the launch of Woomool! Looking forward to trying it."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Good to see Woomool out in the open. Curious to try it, good luck with the launch."
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Congrats! Can you connect Claude Code to this?"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "love the \"well\" metaphor. which model is behind the AI, and can teams pick? for European companies that's usually the first question before they put internal notes on a canvas. if you go multi-model, plugging a gateway like Eden AI gets you EU-hosted options without building each integration yourself"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "korean for well, digging deeper into your own thinking. congrats Minki on 2.0!"
+        },
+        {
+          "user": "[REDACTED]",
+          "text": "Why would I move my notes from Notion to this?"
+        }
+      ]
     },
     {
       "id": "ph-yesterday-9",
@@ -105758,65 +106271,6 @@
       }
     },
     {
-      "id": "ph-today-10",
-      "date": "2026-11-27",
-      "rank": 10,
-      "name": "Woomool",
-      "slug": "woomool",
-      "tagline": "AI Canvas where thinking becomes tangible",
-      "description": "Woomool is a AI canvas tastefully designed for ideation, knowledge management, and live collaboration. Clean, unobtrusive, and beautiful, it inspires you to focus and go deep into your thinking.",
-      "category": "Productivity • Education • Artificial Intelligence",
-      "categoryFa": "بهره‌وری • آموزش • هوش مصنوعی",
-      "url": "https://www.producthunt.com/products/woomool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "thumbnail": "https://ph-files.imgix.net/52522a97-84f8-4dbd-affe-494940e91a97.png?auto=format",
-      "screenshots": [
-        "https://ph-files.imgix.net/936e3f1b-bc6f-4193-b976-cbb34c71de55.jpeg?auto=format",
-        "https://ph-files.imgix.net/fe45368d-b325-48c7-9b33-da6b4b05c3fb.png?auto=format",
-        "https://ph-files.imgix.net/83b709db-d3d3-4ada-a305-5d5db9b81e5a.png?auto=format",
-        "https://ph-files.imgix.net/dbb9cb93-a20a-4225-8243-733e4ea7fecb.png?auto=format",
-        "https://ph-files.imgix.net/0647f4ea-3e9a-4e0a-a488-d89ba8620968.png?auto=format"
-      ],
-      "maker": "Minki Jung",
-      "makerTitle": "AI eng with BSc in physics & philosophy",
-      "featuredAt": "2026-11-27T08:01:00Z",
-      "votes": 96,
-      "websiteUrl": "https://www.producthunt.com/r/Y5ICTAOJGXUV2K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+IranHunt+%28ID%3A+295529%29",
-      "comments": [
-        {
-          "user": "[REDACTED]",
-          "text": "Hi Product Hunt! I'm Minki, the maker of Woomool!I've been building this full-time for the last 3 months, and today I'm launching version 2.0.Why I built it: the smarter AI gets, the easier it is to hand over not just our tasks, but our thinking. I wanted a space designed to protect that thinking, so we can stay independent from AI and still collaborate with it.Woomool (우물) means \"well\" in Korean. The idea is to help you dig deeper into what you're curious about until you find insights that are truly your own.I'll be here all day reading and replying to every comment. Thank you for stopping by!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "I like that the AI only responds when you ask — I map out every app I build before I start coding, and I don't want a tool rearranging my thinking unprompted. The canvas-over-linear-notes point lands for me too; my planning usually starts as a messy pile of ideas, not a doc. Curious how live collaboration works in practice when two people are moving things around at once — does it get chaotic, or does the clean layout hold up?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats on the launch of Woomool! Looking forward to trying it."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Good to see Woomool out in the open. Curious to try it, good luck with the launch."
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Congrats! Can you connect Claude Code to this?"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "love the \"well\" metaphor. which model is behind the AI, and can teams pick? for European companies that's usually the first question before they put internal notes on a canvas. if you go multi-model, plugging a gateway like Eden AI gets you EU-hosted options without building each integration yourself"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "korean for well, digging deeper into your own thinking. congrats Minki on 2.0!"
-        },
-        {
-          "user": "[REDACTED]",
-          "text": "Why would I move my notes from Notion to this?"
-        }
-      ]
-    },
-    {
       "id": "ph-yesterday-10",
       "date": "2026-11-20",
       "rank": 10,
@@ -106209,7 +106663,59 @@
           "user": "[REDACTED]",
           "text": "only the cells you changed actually change, excel could never. congrats Yusef!"
         }
-      ]
+      ],
+      "faDescription": "آماده‌سازی داده بدون نیاز به پروژه، جریان یا اسکریپت. یک فایل CSV را باز کنید و مستقیماً روی آن کار کنید: مقادیر مشابه را خوشه‌بندی کنید، Pivot، Join، Filter یا فقط در یک سلول تایپ کنید. هر مرحله یک Ctrl+Z است و تفاوت فایل ذخیره‌شده فقط تغییرات شما را نشان می‌دهد.",
+      "faComments": [
+        {
+          "user": "کاربر ProductHunt 1",
+          "text": "یوسف گفت: من Calmly Writer را می‌کنم و این اپ جدیدم است. من با فایل‌های CSV زیاد کار می‌کنم و هیچ‌یک از گزینه‌های موجود را دوست ندارم. Excel چیزهایی را تغییر می‌دهد که نمی‌خواستم، ویرایشگر متن من را با خط و comma پر می‌کند. ابزارهای آماده‌سازی داده می‌خواهند فایل را در پروژه‌ای وارد کنند تا بتوانم یک غلط را اصلاح کنم. بنابراین ویرایشگری ساخت که همان چیزی را می‌خواستم. فایل را همان‌طور که هست باز می‌کند، ستون‌ها را هم‌راستا می‌کند و اجازه می‌دهد با دست یا ابزارهای معمولی مثل خوشه‌بندی، فیلتر، join، pivot اصلاح کنم. وقتی ذخیره می‌کنم، فقط چیزهایی که تغییر دادم تغییر می‌کنند. رایگان است، در مرورگر اجرا می‌شود و فایل‌ها هرگز از کامپیوتر شما خارج نمی‌شوند. یک اپ دسکتاپ در راه است. یک چیز که خیلی کمک می‌کند: اگر CSV زیبا دارید، باز کنید و بگویید Trusty CSV چه اشتباهی کرده."
+        },
+        {
+          "user": "کاربر ProductHunt 2",
+          "text": "Excel با UTF-۸ CSVهای ویتنامی‌مان به گاربیج تبدیل می‌کند، به همین دلیل هیچ‌کس دیگر روی آن کلیک نمی‌کند lol"
+        },
+        {
+          "user": "کاربر ProductHunt 3",
+          "text": "Excel به صورت ساکت داده‌ها را بازفرمت می‌کند، یکی از دردهای کوچک که سال‌ها تحمل کرده‌ام. یک ویرایشگر که فقط سلول‌هایی را که من لمس می‌کنم تغییر می‌دهد، واقعاً جذاب است. تفاوت ذخیره‌شده همان چیزی است که برای من فروشنده می‌شود — من دفی‌های CSV را بررسی کرده‌ام که پر از بازفرمت‌های 'مفید' Excel است و آن‌ها وحشتناک هستند. رایگان، در مرورگر، و فایل‌ها هرگز از کامپیوتر شما خارج نمی‌شوند، یک امتحان آسان است."
+        },
+        {
+          "user": "کاربر ProductHunt 4",
+          "text": "تجربه‌ی مشاهده تفاوت برای فایل‌های بزرگ کار می‌کند؟"
+        },
+        {
+          "user": "کاربر ProductHunt 5",
+          "text": "عالیه یوسف! افرادی که به دنبال فرصت‌های جدید هستند، حتما دوستشان خواهد داشت. آرزوی موفقیت برایتان!"
+        },
+        {
+          "user": "کاربر ProductHunt 6",
+          "text": "یک diff ذخیره‌شده که فقط تغییرات عمدی را نشان می‌دهد، وقتی CSV در یک مخزن چک می‌شود اهمیت زیادی دارد. نگهداری یک پاکسازی عمده به عنوان یک مرحله Undo نیز به افراد امکان بازگشت قبل از ذخیره را می‌دهد."
+        },
+        {
+          "user": "کاربر ProductHunt 7",
+          "text": "فقط سلول‌هایی که شما تغییر دادید واقعاً تغییر می‌کنند، Excel هرگز نمی‌تواند. تبریک یوسف!"
+        }
+      ],
+      "aiReview": "مسئله: Excel و ویرایشگرهای متن سنتی باعث تغییرات ناخواسته در فایل‌های CSV می‌شوند و کاربر را در پردازش داده‌ها محدود می‌کنند. راه‌حل: Trusty CSV یک ویرایشگر مبتنی بر وب است که فایل را همان‌طور که هست باز می‌کند، تغییرات را به‌صورت دقیق ذخیره می‌کند و فقط سلول‌های تغییر یافته را نشان می‌دهد. معماری: Frontend با Next.js، Backend با Node.js و ذخیره‌سازی در PostgreSQL، استفاده از WebAssembly برای پردازش سریع CSV در مرورگر. تکنولوژی: Next.js برای SSR و SPA، PostgreSQL برای ذخیره‌سازی متادیتا، WebAssembly برای پردازش فایل، TypeScript برای تایپ‌نگاری. مدل درآمدی: اشتراک ماهانه برای تیم‌ها، فروش افزونه‌های سفارشی، و امکان استفاده رایگان با امکانات پایه. نقاط قوت: کارایی بالا، عدم تغییر ناخواسته، قابلیت Undo و Diff، اجرا در مرورگر بدون نیاز به نصب، امنیت داده‌ها. نقاط ضعف: محدودیت در حجم فایل‌های بسیار بزرگ، نیاز به آموزش اولیه برای ابزارهای پیشرفته، رقابت با ابزارهای مشابه. نکته طلایی برای ایران: تمرکز بر بازارهای مالی و بازاریابی که به‌صورت روزانه با CSV کار می‌کنند، و ارائه نسخه‌ی فارسی با پشتیبانی از زبان‌های مختلف، می‌تواند پذیرش سریع‌تری در بازار ایران ایجاد کند.",
+      "iranEquivalent": {
+        "productName": "Trusty CSV",
+        "description": "Trusty CSV یک ویرایشگر CSV است که به‌صورت کد کار می‌کند و تغییرات را به‌صورت دقیق ذخیره می‌کند. این ابزار امکان خوشه‌بندی، Pivot، Join و فیلتر کردن را بدون نیاز به پروژه یا اسکریپت فراهم می‌کند. کاربر می‌تواند با یک Ctrl+Z به راحتی تغییرات را بازگرداند و تفاوت فایل ذخیره‌شده را مشاهده کند.",
+        "marketOpportunity": "بازار پردازش داده‌های CSV در ایران به سرعت در حال رشد است، به‌ویژه در بخش‌های مالی، بازاریابی و تحلیل داده. نیاز به ابزارهای ساده و امن برای ویرایش CSV بدون تغییر ناخواسته، فرصت‌های زیادی برای ورود به این بازار ایجاد می‌کند.",
+        "estimatedBudget": "۳ تا ۴ میلیارد تومان",
+        "targetAudience": "کارشناسان داده، تحلیلگران، توسعه‌دهندگان و مدیران پروژه‌های کوچک و متوسط که به‌صورت مستقیم با فایل‌های CSV کار می‌کنند.",
+        "challenges": [
+          "پشتیبانی از حجم‌های بزرگ فایل و کارایی در مرورگر",
+          "آموزش کاربران برای استفاده از ابزارهای پیشرفته مانند خوشه‌بندی و Pivot"
+        ],
+        "monetization": [
+          "مدل اشتراکی با امکانات پیشرفته برای تیم‌ها",
+          "فروش افزونه‌های سفارشی برای ادغام با سیستم‌های داخلی شرکت"
+        ],
+        "techStack": [
+          "Next.js",
+          "PostgreSQL"
+        ],
+        "confidence": 75
+      }
     },
     {
       "id": "ph-yesterday-9",
@@ -111418,10 +111924,10 @@
   "audit": {
     "products": 1117,
     "withRealComments": 1117,
-    "withPersianComments": 1000,
-    "withPersianDescription": 1000,
-    "withAiReview": 958,
-    "withIranEquivalent": 1000,
+    "withPersianComments": 1010,
+    "withPersianDescription": 1010,
+    "withAiReview": 967,
+    "withIranEquivalent": 1010,
     "totalRealComments": 7037
   }
 }
